@@ -1,8 +1,36 @@
 {
   "date": "2026-07-22",
-  "run_count": 5,
+  "run_count": 6,
   "notes": {
     "seguridad": [
+      {
+        "title": "Rescatan privado de la libertad en Playas; detienen a siete",
+        "summary": "Liberan a hombre secuestrado en Playas de Tijuana. Autoridades capturan a siete presuntos responsables, cinco de ellos menores de edad.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/179454_liberan_a_privado_de_la_libertad_en_playas_detienen_a_siete_cinco_son_menores",
+        "_added_at": "2026-07-22T15:12:10.277476-07:00"
+      },
+      {
+        "title": "Capturan a \"El Mariachi\" armado en Tijuana",
+        "summary": "Detienen a presunto delincuente identificado como \"El Mariachi\" portando armas en operativo de seguridad en la ciudad.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97091/Cae-%22El-Mariachi%22-en-Tijuana,-armado",
+        "_added_at": "2026-07-22T15:12:10.277476-07:00"
+      },
+      {
+        "title": "Detienen a individuo con fusil en estuche de guitarra",
+        "summary": "Autoridades aseguran arma de fuego camuflada en instrumento musical durante operativo en Tijuana.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/179456_detienen_a_individuo_con_un_fusil_dentro_de_un_estuche_de_guitarra",
+        "_added_at": "2026-07-22T15:12:10.277476-07:00"
+      },
+      {
+        "title": "Choque en Vía Rápida Oriente deja dos mujeres heridas",
+        "summary": "Accidente vehicular ocasiona lesiones a dos mujeres, una de ellas atrapada entre los vehículos.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97076/Dos-mujeres-quedan-atrapadas,-una-de-ellas-prensada,-tras-choque-en-la-V%C3%ADa-R%C3%A1pida-Oriente",
+        "_added_at": "2026-07-22T15:12:10.277476-07:00"
+      },
       {
         "title": "Rescatan hombre privado de libertad en Playas de Tijuana",
         "summary": "Autoridades liberaron a persona secuestrada en Playas de Tijuana y detuvieron a siete presuntos responsables.",
@@ -44,37 +72,16 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/179434_fuerte_incendio_destruyo_una_recicladora_de_plastico_y_un_salon_de_eventos_en_el_mariano_matamoros",
         "_added_at": "2026-07-22T07:15:24.372730-07:00"
-      },
-      {
-        "title": "Tijuana lidera extorsiones en BC; comerciantes más afectados",
-        "summary": "La ciudad concentra mayor incidencia de extorsiones en la entidad, impactando especialmente al sector comercial.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/tijuana-concentra-la-mayor-incidencia-de-extorsiones-en-bc-comerciantes-entre-los-mas-afectados/",
-        "_added_at": "2026-07-22T01:40:47.691900-07:00"
-      },
-      {
-        "title": "Incendio destruye recicladora en Ejido Matamoros",
-        "summary": "Bomberos controlan fuerte incendio en fábrica de plástico que alcanzó vehículos en el sector.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97042/%23%C3%9AltimaHora-%7C-Fuerte-incendio-consume-f%C3%A1brica-de-pl%C3%A1stico-en-el-Ejido-Mariano-Matamoros",
-        "_added_at": "2026-07-22T01:40:47.691900-07:00"
-      },
-      {
-        "title": "Hallan vehículos robados con municiones y granadas",
-        "summary": "Operativo en El Hongo localiza autos hurtados con más de 600 cartuchos y explosivos.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/179422_hallan_en_el_hongo_vehiculos_robados_con_mas_de_600_cartuchos_y_granadas",
-        "_added_at": "2026-07-22T01:40:47.691900-07:00"
-      },
-      {
-        "title": "Menor muere en accidente de motocicleta en Tecate",
-        "summary": "Fallecimiento de niño menor de 14 años por siniestro vial con moto en la localidad.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/179425_fallece_menor_de_14_anos_tras_accidente_de_moto_en_tecate",
-        "_added_at": "2026-07-22T01:40:47.691900-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Martínez Veloz denuncia \"extracción tipo Venezuela\" contra Marina",
+        "summary": "Legislador revela supuesto plan de Estados Unidos para extraer a Marina del Pilar Ávila comparándolo con métodos venezolanos.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/martinez-veloz-revela-plan-de-extraccion-tipo-venezuela-de-eu-contra-marina-del-pilar/",
+        "_added_at": "2026-07-22T15:12:10.277476-07:00"
+      },
       {
         "title": "Marina bajo investigación de la FGR por Carlos Torres",
         "summary": "Gobernadora Marina del Pilar aguarda resultados de indagatoria federal sobre presuntas irregularidades.",
@@ -127,6 +134,20 @@
     ],
     "economia": [
       {
+        "title": "Servicio de agua alcanza 90% en Tijuana por altas temperaturas",
+        "summary": "Suministro hídrico normalizado mayormente tras afectaciones por calor extremo que impactó distribución ciudadana.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97094/Se-establece-el-servicio-del-agua-al-90%25-en-Tijuana-derivado-de-las-altas-temperaturas",
+        "_added_at": "2026-07-22T15:12:10.277476-07:00"
+      },
+      {
+        "title": "Ven inviable meta de camiones eléctricos fronterizos",
+        "summary": "Transportistas y expertos cuestionan viabilidad de objetivo gubernamental de electrificación del transporte público en frontera.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97089/Ven-inviable-meta-de-camiones-el%C3%A9ctricos-fronterizos",
+        "_added_at": "2026-07-22T15:12:10.277476-07:00"
+      },
+      {
         "title": "Se pierden 3,787 empleos en industria de transformación",
         "summary": "Sector manufacturero de Tijuana registra despidos significativos en trabajadores.",
         "source": "AFN Tijuana",
@@ -156,6 +177,27 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Recuperan espacios en Zona Norte y Centro de Tijuana",
+        "summary": "Autoridades concentran esfuerzos en reordenamiento y limpieza de zonas deterioradas en puntos clave de la ciudad.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/concentran-recuperacion-de-espacios-en-zona-norte-y-centro-de-tijuana/",
+        "_added_at": "2026-07-22T15:12:10.277476-07:00"
+      },
+      {
+        "title": "Reubicarán especies del Parque Morelos a santuarios",
+        "summary": "Traslado de fauna del parque hacia centros de conservación como medida de protección ambiental.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97092/Reubicar%C3%A1n-especies-del-Parque-Morelos-a-santuarios",
+        "_added_at": "2026-07-22T15:12:10.277476-07:00"
+      },
+      {
+        "title": "Invitan a participar en XXVIII Premio Nacional Poesía Tijuana",
+        "summary": "Convocatoria abierta para registro de participantes en competencia literaria de poesía a nivel nacional.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/municipios/179452_invitan_a_registrarse_para_el_xxviii_premio_nacional_de_poesia_tijuana_2026",
+        "_added_at": "2026-07-22T15:12:10.277476-07:00"
+      },
       {
         "title": "Se restablece 90% servicio de agua en Tijuana",
         "summary": "ESPT logra normalizar distribución de agua; Rosarito opera al 100% de capacidad.",
@@ -204,29 +246,8 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/179423_persiste_venta_de_incapacidades_medicas_a_agentes_policiacos_denuncia_consejo_ciudadano",
         "_added_at": "2026-07-22T04:14:54.746861-07:00"
-      },
-      {
-        "title": "Albergues alertan sobre aumento potencial de deportaciones",
-        "summary": "Compra de centros detención en California genera preocupación en organizaciones tijuanenses.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97048/Compra-de-centros-de-detenci%C3%B3n-en-California-genera-alerta-en-albergues-de-Tijuana-por-posible-aumento-de-deportaciones",
-        "_added_at": "2026-07-22T01:40:47.691900-07:00"
-      },
-      {
-        "title": "Ventanilla Digital BC es finalista en premios tecnológicos",
-        "summary": "Plataforma digital estatal compite en Premios NovaGob Excelencia 2026.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179427_ventanilla_digital_bc_finalista_en_los_premios_novagob_excelencia_2026",
-        "_added_at": "2026-07-22T01:40:47.691900-07:00"
-      },
-      {
-        "title": "CESPT normaliza suministro de agua en Tijuana",
-        "summary": "Empresa trabaja en resolver problemas persistentes de abastecimiento hídrico.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179424_trabaja_la_cespt_para_normalizar_el_suministro_de_agua_vega_aguirre",
-        "_added_at": "2026-07-22T01:40:47.691900-07:00"
       }
     ]
   },
-  "last_updated": "2026-07-22T12:38:11.228262-07:00"
+  "last_updated": "2026-07-22T15:12:10.277476-07:00"
 }
