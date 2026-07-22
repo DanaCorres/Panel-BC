@@ -1,6 +1,6 @@
 {
   "date": "2026-07-22",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
       {
@@ -73,6 +73,13 @@
     ],
     "sociedad": [
       {
+        "title": "Persiste venta de incapacidades falsas a policías: denuncia Consejo",
+        "summary": "Organismo ciudadano documenta continuidad en comercio ilegal de certificados médicos para agentes.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179423_persiste_venta_de_incapacidades_medicas_a_agentes_policiacos_denuncia_consejo_ciudadano",
+        "_added_at": "2026-07-22T04:14:54.746861-07:00"
+      },
+      {
         "title": "Albergues alertan sobre aumento potencial de deportaciones",
         "summary": "Compra de centros detención en California genera preocupación en organizaciones tijuanenses.",
         "source": "El Mexicano",
@@ -95,5 +102,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-22T01:40:47.691900-07:00"
+  "last_updated": "2026-07-22T04:14:54.746861-07:00"
 }
