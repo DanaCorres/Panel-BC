@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-07-22T02:12:40.959189+00:00",
+  "generated_at": "2026-07-22T02:55:27.355423+00:00",
   "items": [
+    {
+      "source": "ZETA Tijuana",
+      "title": "Suman 13 mexicanos muertos en ataques de EU contra narcolanchas, revela LA Times",
+      "url": "https://zetatijuana.com/2026/07/suman-13-mexicanos-muertos-en-ataques-de-eu-contra-narcolanchas-revela-la-times/?utm_source=rss&utm_medium=rss&utm_campaign=suman-13-mexicanos-muertos-en-ataques-de-eu-contra-narcolanchas-revela-la-times",
+      "published": "Wed, 22 Jul 2026 02:48:10 +0000"
+    },
+    {
+      "source": "ZETA Tijuana",
+      "title": "Detienen a presuntos implicados en multihomicidio en Zacatecas, entre ellos uno de Sinaloa",
+      "url": "https://zetatijuana.com/2026/07/detienen-a-presuntos-implicados-en-multihomicidio-en-zacatecas-entre-ellos-uno-de-sinaloa/?utm_source=rss&utm_medium=rss&utm_campaign=detienen-a-presuntos-implicados-en-multihomicidio-en-zacatecas-entre-ellos-uno-de-sinaloa",
+      "published": "Wed, 22 Jul 2026 02:41:13 +0000"
+    },
+    {
+      "source": "ZETA Tijuana",
+      "title": "Se incendia fábrica en Ejido Matamoros; fuego alcanza vehículos",
+      "url": "https://zetatijuana.com/2026/07/se-incendia-fabrica-en-ejido-matamoros-fuego-alcanza-vehiculos/?utm_source=rss&utm_medium=rss&utm_campaign=se-incendia-fabrica-en-ejido-matamoros-fuego-alcanza-vehiculos",
+      "published": "Wed, 22 Jul 2026 02:15:40 +0000"
+    },
     {
       "source": "ZETA Tijuana",
       "title": "SEMAR detiene en Mazatlán a estadounidense ligado a “Los Chapitos” requerido por EU",
@@ -44,22 +62,10 @@
       "published": "Tue, 21 Jul 2026 22:59:39 +0000"
     },
     {
-      "source": "ZETA Tijuana",
-      "title": "Empresas bajo la lupa: FGR señala presunta red financiera ligada a Ruffo",
-      "url": "https://zetatijuana.com/2026/07/empresas-bajo-la-lupa-fgr-senala-presunta-red-financiera-ligada-a-ruffo/?utm_source=rss&utm_medium=rss&utm_campaign=empresas-bajo-la-lupa-fgr-senala-presunta-red-financiera-ligada-a-ruffo",
-      "published": "Tue, 21 Jul 2026 22:50:17 +0000"
-    },
-    {
-      "source": "ZETA Tijuana",
-      "title": "Reubican dependencias ante trabajos en el Palacio Municipal de Mexicali",
-      "url": "https://zetatijuana.com/2026/07/reubican-dependencias-ante-trabajos-en-el-palacio-municipal-de-mexicali/?utm_source=rss&utm_medium=rss&utm_campaign=reubican-dependencias-ante-trabajos-en-el-palacio-municipal-de-mexicali",
-      "published": "Tue, 21 Jul 2026 22:48:37 +0000"
-    },
-    {
-      "source": "ZETA Tijuana",
-      "title": "Morena respalda investigaciones contra Ruffo Appel por presunto huachicol fiscal",
-      "url": "https://zetatijuana.com/2026/07/morena-respalda-investigaciones-contra-ruffo-appel-por-presunto-huachicol-fiscal/?utm_source=rss&utm_medium=rss&utm_campaign=morena-respalda-investigaciones-contra-ruffo-appel-por-presunto-huachicol-fiscal",
-      "published": "Tue, 21 Jul 2026 22:23:04 +0000"
+      "source": "AFN Tijuana",
+      "title": "¿Posible alianza y posibles candidatas?",
+      "url": "https://www.afntijuana.info/humorismo_politico/179433_iposible_alianza_y_posibles_candidatas",
+      "published": ""
     },
     {
       "source": "AFN Tijuana",
@@ -143,12 +149,6 @@
       "source": "AFN Tijuana",
       "title": "Denuncia contra Marina del Pilar es para probar si funciona la justicia: Osuna Jaime",
       "url": "https://www.afntijuana.info/informacion_general/179419_denuncia_contra_marina_del_pilar_es_para_probar_si_funciona_la_justicia_osuna_jaime",
-      "published": ""
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Detención de Ruffo no debe afectar en la promoción de inversión: Coparmex Tijuana",
-      "url": "https://www.afntijuana.info/informacion_general/179418_detencion_de_ruffo_no_debe_afectar_en_la_promocion_de_inversion_coparmex_tijuana",
       "published": ""
     },
     {
@@ -249,20 +249,26 @@
     },
     {
       "source": "El Imparcial (Tijuana)",
+      "title": "Fuerte incendio consume fábrica de plástico en el Ejido Mariano Matamoros en Tijuana",
+      "url": "https://www.elimparcial.com/tij/policiaca/2026/07/22/fuerte-incendio-consume-fabrica-de-plastico-en-el-ejido-mariano-matamoros-de-tijuana/",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial (Tijuana)",
+      "title": "Elementos de Bomberos de Tijuana combaten un incendio en una fábrica de plástico ubicada en el Ejido Mariano Matamoros; hasta el momento no se reportan personas lesionadas.",
+      "url": "https://www.elimparcial.com/tij/policiaca/2026/07/22/fuerte-incendio-consume-fabrica-de-plastico-en-el-ejido-mariano-matamoros-de-tijuana/",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial (Tijuana)",
+      "title": "Celebran el Día Internacional del Perro con paseos en Playas de Tijuana",
+      "url": "https://www.elimparcial.com/tij/tijuana/2026/07/22/celebran-el-dia-internacional-del-perro-con-paseos-en-playas-de-tijuana/",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial (Tijuana)",
       "title": "Julieta Ramírez dialoga con el sector de la construcción",
       "url": "https://www.elimparcial.com/tij/tijuana/2026/07/22/julieta-ramirez-dialoga-con-el-sector-de-la-construccion/",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "La senadora con licencia sostuvo una reunión con representantes de la COMICE en Ensenada.",
-      "url": "https://www.elimparcial.com/tij/tijuana/2026/07/22/julieta-ramirez-dialoga-con-el-sector-de-la-construccion/",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Fuerte incendio consume fábrica de plástico en el Ejido Mariano Matamoros de Tijuana",
-      "url": "https://www.elimparcial.com/tij/policiaca/2026/07/22/fuerte-incendio-consume-fabrica-de-plastico-en-el-ejido-mariano-matamoros-de-tijuana/",
       "published": ""
     },
     {
@@ -315,12 +321,6 @@
     },
     {
       "source": "El Imparcial (Tijuana)",
-      "title": "Vende postres para pagar su tratamiento contra el cáncer cervicouterino",
-      "url": "https://www.elimparcial.com/tij/tijuana/2026/07/21/vende-postres-para-pagar-su-tratamiento-contra-el-cancer-cervicouterino/",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
       "title": "El policía que desafió el fuego para salvar una vida",
       "url": "https://www.elimparcial.com/videos/2026/07/22/el-policia-que-desafio-el-fuego-para-salvar-una-vida/",
       "published": ""
@@ -329,6 +329,156 @@
       "source": "El Imparcial (Tijuana)",
       "title": "El plan en Estados Unidos para cambiar su horario y el IMPACTO que traería a MÉXICO",
       "url": "https://www.elimparcial.com/videos/2026/07/22/el-plan-en-estados-unidos-para-cambiar-su-horario-y-el-impacto-que-traeria-a-mexico/",
+      "published": ""
+    },
+    {
+      "source": "Yo Amo Tijuana",
+      "title": "Lanzan terrenos sin enganche y con apartado de $500 dólares cerca de Valle de Guadalupe",
+      "url": "https://amotijuana.com/lanzan-terrenos-sin-enganche-y-con-apartado-de-500-dolares-cerca-de-valle-de-guadalupe/",
+      "published": ""
+    },
+    {
+      "source": "Yo Amo Tijuana",
+      "title": "¡Es hora de apoyar! mañana Zonkeys tendrá su último partido en casa contra CDMX",
+      "url": "https://amotijuana.com/es-hora-de-apoyar-manana-zonkeys-tendra-su-ultimo-partido-en-casa-contra-cdmx/",
+      "published": ""
+    },
+    {
+      "source": "Yo Amo Tijuana",
+      "title": "Lanzan terrenos sin enganche cerca de Rosarito y Valle de Guadalupe",
+      "url": "https://amotijuana.com/lanzan-terrenos-sin-enganche-cerca-de-rosarito-y-valle-de-guadalupe/",
+      "published": ""
+    },
+    {
+      "source": "Yo Amo Tijuana",
+      "title": "Call center en Tijuana arranca el año con sueldos de hasta $10,000 semanales",
+      "url": "https://amotijuana.com/call-center-en-tijuana-arranca-el-ano-con-sueldos-de-hasta-10000-semanales/",
+      "published": ""
+    },
+    {
+      "source": "Yo Amo Tijuana",
+      "title": "Aficionados se reunirán en La Cacho para ver la final de la Liga MX",
+      "url": "https://amotijuana.com/aficionados-se-reuniran-en-la-cacho-para-ver-la-final-de-la-liga-mx/",
+      "published": ""
+    },
+    {
+      "source": "Yo Amo Tijuana",
+      "title": "El lugar de brunch en la cacho que dará pastel y bebida gratis a los cumpleañeros",
+      "url": "https://amotijuana.com/el-lugar-de-brunch-en-la-cacho-que-dara-pastel-y-bebida-gratis-a-los-cumpleaneros/",
+      "published": ""
+    },
+    {
+      "source": "Yo Amo Tijuana",
+      "title": "Posadas al estilo picnic con chilaquiles y mimosas: así es la propuesta de este restaurante",
+      "url": "https://amotijuana.com/posadas-al-estilo-picnic-con-chilaquiles-y-mimosas-asi-es-la-propuesta-de-este-restaurante/",
+      "published": ""
+    },
+    {
+      "source": "Yo Amo Tijuana",
+      "title": "Sueldos de $5,840 a $10,000 semanales en call center de Tijuana",
+      "url": "https://amotijuana.com/sueldos-de-5840-a-10000-semanales-en-call-center-de-tijuana/",
+      "published": ""
+    },
+    {
+      "source": "Yo Amo Tijuana",
+      "title": "El único lugar en Tijuana donde tu posada puede ser con mimosas o con cheve",
+      "url": "https://amotijuana.com/el-unico-lugar-en-tijuana-donde-tu-posada-puede-ser-con-mimosas-o-con-cheve/",
+      "published": ""
+    },
+    {
+      "source": "Yo Amo Tijuana",
+      "title": "Restaurante de brunch en la cacho dará pastel y bebida gratis a cumpleañeros",
+      "url": "https://amotijuana.com/restaurante-de-brunch-en-la-cacho-dara-pastel-y-bebida-gratis-a-cumpleaneros/",
+      "published": ""
+    },
+    {
+      "source": "TJ Comunica",
+      "title": "Bebé de siete semanas ingresa al Hospital General de Mexicali con fractura de cráneo; investigan el caso",
+      "url": "https://tjcomunica.com/bebe-de-siete-semanas-ingresa-al-hospital-general-de-mexicali-con-fractura-de-craneo-investigan-el-caso/",
+      "published": ""
+    },
+    {
+      "source": "TJ Comunica",
+      "title": "EE.UU. habría presionado a Joaquín Guzmán López para entregarse, revela investigación",
+      "url": "https://tjcomunica.com/ee-uu-habria-presionado-a-joaquin-guzman-lopez-para-entregarse-revela-investigacion/",
+      "published": ""
+    },
+    {
+      "source": "TJ Comunica",
+      "title": "“Nada más estuvo cuatro días, si quiere le regreso los 25 mil pesos”: Madre de Dafne denuncia oferta de dinero tras la muerte de su hija",
+      "url": "https://tjcomunica.com/nada-mas-estuvo-cuatro-dias-si-quiere-le-regreso-los-25-mil-pesos-madre-de-dafne-denuncia-oferta-de-dinero-tras-la-muerte-de-su-hija/",
+      "published": ""
+    },
+    {
+      "source": "TJ Comunica",
+      "title": "Localizan cadáver con huellas de violencia en la colonia Condesa de Mexicali; aumentan los hechos violentos con cuerpos y ejecuciones en la capital de Baja California",
+      "url": "https://tjcomunica.com/localizan-cadaver-con-huellas-de-violencia-en-la-colonia-condesa-de-mexicali-aumentan-los-hechos-violentos-con-cuerpos-y-ejecuciones-en-la-capital-de-baja-california/",
+      "published": ""
+    },
+    {
+      "source": "TJ Comunica",
+      "title": "Ejecutan a un hombre dentro de un automóvil en Islas Agrarias Grupo A",
+      "url": "https://tjcomunica.com/ejecutan-a-un-hombre-dentro-de-un-automovil-en-islas-agrarias-grupo-a/",
+      "published": ""
+    },
+    {
+      "source": "TJ Comunica",
+      "title": "Baja Beach Fest anuncia promoción especial para mexicanos con boletos desde $2,517 pesos",
+      "url": "https://tjcomunica.com/baja-beach-fest-anuncia-promocion-especial-para-mexicanos-con-boletos-desde-2517-pesos/",
+      "published": ""
+    },
+    {
+      "source": "TJ Comunica",
+      "title": "Grupo Firme hace historia con 11 conciertos agotados en el Estadio GNP",
+      "url": "https://tjcomunica.com/grupo-firme-hace-historia-con-11-conciertos-agotados-en-el-estadio-gnp/",
+      "published": ""
+    },
+    {
+      "source": "TJ Comunica",
+      "title": "DIP. DAYLÍN GARCÍA PRESENTA PAQUETE DE REFORMAS PARA FORTALECER LA PROTECCIÓN DIGITAL EN BC",
+      "url": "https://tjcomunica.com/dip-daylin-garcia-presenta-paquete-de-reformas-para-fortalecer-la-proteccion-digital-en-bc/",
+      "published": ""
+    },
+    {
+      "source": "TJ Comunica",
+      "title": "ALTAS TEMPERATURAS ELEVAN LA DEMANDA DE AGUA POTABLE; CESPT MANTIENE MONITOREO PERMANENTE DEL SISTEMA",
+      "url": "https://tjcomunica.com/altas-temperaturas-elevan-la-demanda-de-agua-potable-cespt-mantiene-monitoreo-permanente-del-sistema/",
+      "published": ""
+    },
+    {
+      "source": "TJ Comunica",
+      "title": "Hallan a hombre sin vida con impacto de bala en la cabeza en predio abandonado",
+      "url": "https://tjcomunica.com/hallan-a-hombre-sin-vida-con-impacto-de-bala-en-la-cabeza-en-predio-abandonado/",
+      "published": ""
+    },
+    {
+      "source": "TJ Comunica",
+      "title": "Hombre sufre sobredosis dentro de tienda en Zona Centro; logran reanimarlo con naloxona",
+      "url": "https://tjcomunica.com/hombre-sufre-sobredosis-dentro-de-tienda-en-zona-centro-logran-reanimarlo-con-naloxona/",
+      "published": ""
+    },
+    {
+      "source": "TJ Comunica",
+      "title": "Encabeza Abdiel Gutiérrez Coronado la Macro Jornada del Pueblo con la participación de más de 3 mil tijuanenses",
+      "url": "https://tjcomunica.com/encabeza-abdiel-gutierrez-coronado-la-macro-jornada-del-pueblo-con-la-participacion-de-mas-de-3-mil-tijuanenses/",
+      "published": ""
+    },
+    {
+      "source": "TJ Comunica",
+      "title": "Asiste alcalde Abdiel Gutiérrez Coronado a la Protesta de Bandera de soldados del Servicio Militar Nacional",
+      "url": "https://tjcomunica.com/asiste-alcalde-abdiel-gutierrez-coronado-a-la-protesta-de-bandera-de-soldados-del-servicio-militar-nacional/",
+      "published": ""
+    },
+    {
+      "source": "TJ Comunica",
+      "title": "La izquerda de Baja California, en apoyo a Eva Moreno",
+      "url": "https://tjcomunica.com/la-izquerda-de-baja-california-en-apoyo-a-eva-moreno/",
+      "published": ""
+    },
+    {
+      "source": "TJ Comunica",
+      "title": "Encuesta ubica a Ismael Burgueño como el aspirante mejor posicionado rumbo a la gubernatura de Baja California",
+      "url": "https://tjcomunica.com/encuesta-ubica-a-ismael-burgueno-como-el-aspirante-mejor-posicionado-rumbo-a-la-gubernatura-de-baja-california/",
       "published": ""
     }
   ]

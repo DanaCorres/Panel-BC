@@ -1,8 +1,15 @@
 {
   "date": "2026-07-21",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Trece mexicanos muertos en operativos estadounidenses contra narcolanchas",
+        "summary": "Revelado por LA Times: muertes de mexicanos en ataques de EU contra embarcaciones dedicadas al narcotráfico en aguas fronterizas.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/suman-13-mexicanos-muertos-en-ataques-de-eu-contra-narcolanchas-revela-la-times/",
+        "_added_at": "2026-07-21T19:55:27.989638-07:00"
+      },
       {
         "title": "Aseguran arsenales en vehículos en Tecate",
         "summary": "Autoridades decomisan camionetas con armamento en la delegación Luis Echeverría de Tecate.",
@@ -34,6 +41,13 @@
     ],
     "politica": [
       {
+        "title": "Ventanilla Digital BC finalista en Premios NovaGob Excelencia 2026",
+        "summary": "Plataforma digital de Baja California compite por reconocimiento nacional. Destaca en innovación gubernamental.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179427_ventanilla_digital_bc_finalista_en_los_premios_novagob_excelencia_2026",
+        "_added_at": "2026-07-21T19:55:27.989638-07:00"
+      },
+      {
         "title": "FGR investiga red financiera ligada a Ruffo",
         "summary": "Fiscalía señala presunta red de empresas relacionada con ex gobernador Ruffo.",
         "source": "ZETA Tijuana",
@@ -63,6 +77,13 @@
       }
     ],
     "economia": [
+      {
+        "title": "Mexicali invertirá 20 millones en cableado para Palacio Municipal",
+        "summary": "Municipio destina recursos a modernización de infraestructura eléctrica en sede administrativa.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179430_invertira_mexicali_20_mdp_en_cableado_electrico_para_el_palacio_municipal",
+        "_added_at": "2026-07-21T19:55:27.989638-07:00"
+      },
       {
         "title": "Impulsan programa para crecer PyMEs en Baja California",
         "summary": "Lanzan iniciativa \"Conecta & Crece\" para fortalecer pequeñas y medianas empresas.",
@@ -94,6 +115,20 @@
     ],
     "sociedad": [
       {
+        "title": "Presentan proyecto de aeropuerto en Ensenada para 2030",
+        "summary": "Nueva propuesta de desarrollo infraestructura aeroportuaria para Ensenada. Objetivo operacional en próxima década.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/presentan-otro-proyecto-de-aeropuerto-en-ensenada-para-2030/",
+        "_added_at": "2026-07-21T19:55:27.989638-07:00"
+      },
+      {
+        "title": "Normalizarán suministro de agua en Tijuana según autoridades",
+        "summary": "CESPT trabaja en resolver problemas de distribución. Acciones enfocadas en garantizar servicio básico.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179424_trabaja_la_cespt_para_normalizar_el_suministro_de_agua_vega_aguirre",
+        "_added_at": "2026-07-21T19:55:27.989638-07:00"
+      },
+      {
         "title": "Albergues advierten sobre aumento de deportaciones",
         "summary": "Compra de centros de detención en California genera preocupación en organizaciones de Tijuana.",
         "source": "El Mexicano",
@@ -123,5 +158,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-21T19:12:41.684910-07:00"
+  "last_updated": "2026-07-21T19:55:27.989638-07:00"
 }
