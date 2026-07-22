@@ -1,8 +1,29 @@
 {
   "date": "2026-07-22",
-  "run_count": 3,
+  "run_count": 4,
   "notes": {
     "seguridad": [
+      {
+        "title": "Cadáver hallado en Tecate con narcomanta",
+        "summary": "Encontraron un cuerpo junto a una narcomanta en Tecate, indicativo de violencia relacionada con organizaciones delictivas.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/179437_dejan_un_cadaver_junto_a_una_narcomanta_en_tecate",
+        "_added_at": "2026-07-22T09:27:03.630585-07:00"
+      },
+      {
+        "title": "Tres lesionados en accidente vía rápida Tijuana",
+        "summary": "Reportan accidente con tres personas lesionadas en la vía rápida de Tijuana.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/reportan-accidente-en-la-via-rapida-hay-tres-lesionados/",
+        "_added_at": "2026-07-22T09:27:03.630585-07:00"
+      },
+      {
+        "title": "Auto incendiado en colonia Altiplano sin víctimas",
+        "summary": "Vehículo fue consumido por fuego en zona de Altiplano sin reportar heridos en el incidente.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/179426_auto_incendiado_a_la_altura_de_la_colonia_altiplano_no_hubo_heridos",
+        "_added_at": "2026-07-22T09:27:03.630585-07:00"
+      },
       {
         "title": "Fuerte incendio destruye recicladora en Mariano Matamoros",
         "summary": "Bomberos controlan incendio en fábrica de plásticos en Ejido Matamoros; fuego alcanza vehículos estacionados.",
@@ -40,6 +61,13 @@
       }
     ],
     "politica": [
+      {
+        "title": "Coimputados de Ruffo piden amparo contra prisión preventiva",
+        "summary": "Asociados del exfuncionario Ruffo interponen amparos para evitar prisión preventiva en caso de huachicol.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/coimputados-de-ruffo-solicitan-amparo-contra-prision-preventiva/",
+        "_added_at": "2026-07-22T09:27:03.630585-07:00"
+      },
       {
         "title": "FGR descarta persecución política contra Ruffo",
         "summary": "Fiscalía sostiene solidez del caso y niega motivaciones políticas en acusación.",
@@ -94,6 +122,20 @@
     ],
     "sociedad": [
       {
+        "title": "Incendio en fábrica de Ejido Matamoros controlado",
+        "summary": "Bomberos sofocaron fuego en instalación industrial ubicada en zona de Matamoros en Tijuana.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/bomberos-de-tijuana-contiene-incendio-en-fabrica-en-el-ejido-matamoros/",
+        "_added_at": "2026-07-22T09:27:03.630585-07:00"
+      },
+      {
+        "title": "Incendio destroza recicladora y salón eventos Matamoros",
+        "summary": "Fuerte incendio consume instalaciones de reciclaje y espacio de eventos en zona residencial.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179434_fuerte_incendio_destruyo_una_recicladora_de_plastico_y_un_salon_de_eventos_en_el_mariano_matamoros",
+        "_added_at": "2026-07-22T09:27:03.630585-07:00"
+      },
+      {
         "title": "Persiste venta de incapacidades falsas a policías: denuncia Consejo",
         "summary": "Organismo ciudadano documenta continuidad en comercio ilegal de certificados médicos para agentes.",
         "source": "AFN Tijuana",
@@ -123,5 +165,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-22T07:15:24.372730-07:00"
+  "last_updated": "2026-07-22T09:27:03.630585-07:00"
 }
