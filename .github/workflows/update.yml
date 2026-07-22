@@ -39,6 +39,10 @@ jobs:
           git config user.name "panel-bc-bot"
           git config user.email "actions@users.noreply.github.com"
           git add index.html raw_items.json data/today.json
-          git diff --cached --quiet || git commit -m "Actualización automática del panel"
-          git push
-
+          if ! git diff --cached --quiet; then
+            git commit -m "Actualización automática del panel"
+            git pull --rebase origin main
+            git push
+          else
+            echo "Sin cambios que subir."
+          fi
