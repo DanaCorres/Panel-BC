@@ -31,16 +31,15 @@ RSS_SOURCES = [
 HTML_SOURCES = [
     {"name": "El Mexicano", "url": "https://el-mexicano.com.mx/"},
     {"name": "El Imparcial (Tijuana)", "url": "https://www.elimparcial.com/tijuana"},
+    # Estas tres se habían descartado antes por un falso positivo: una prueba
+    # anterior devolvió 403 con "host_not_allowed", pero ese bloqueo era de la
+    # sandbox de pruebas (que solo tiene permiso de red a un puñado de
+    # dominios), no de los sitios en sí. Al probarlas con una herramienta con
+    # acceso real a internet, las tres cargan sin problema.
+    {"name": "Yo Amo Tijuana", "url": "https://amotijuana.com/"},
+    {"name": "Canal 66", "url": "https://canal66.tv/"},
+    {"name": "TJ Comunica", "url": "https://tjcomunica.com/"},
 ]
-
-# NOTA: amotijuana.com, canal66.tv y tjcomunica.com son la versión en sitio web
-# de páginas de Facebook de la lista original (yoamotijuanaoficial, Canal66tv,
-# tjcomunica1/comunicatj), pero bloquean cualquier request automatizado con
-# error 403 -- tanto la portada como el feed RSS -- por protección tipo
-# Cloudflare contra bots. Como los runners de GitHub Actions corren desde IPs
-# de datacenter, se toparían con el mismo bloqueo. No se incluyen aquí porque
-# fallarían siempre; si algún día habilitan un feed público, se pueden agregar
-# a RSS_SOURCES.
 
 MAX_PER_SOURCE = 15
 
