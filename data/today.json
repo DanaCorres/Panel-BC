@@ -1,1 +1,127 @@
-{}
+{
+  "date": "2026-07-21",
+  "run_count": 1,
+  "notes": {
+    "seguridad": [
+      {
+        "title": "Aseguran arsenales en vehículos en Tecate",
+        "summary": "Autoridades decomisan camionetas con armamento en la delegación Luis Echeverría de Tecate.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/en-tecate-aseguran-camionetas-con-arsenal-en-la-delegacion-luis-echeverria/",
+        "_added_at": "2026-07-21T19:12:41.684910-07:00"
+      },
+      {
+        "title": "Hallan vehículos robados con municiones en El Hongo",
+        "summary": "Decomiso de autos robados con más de 600 cartuchos y granadas en zona de Tijuana.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/179422_hallan_en_el_hongo_vehiculos_robados_con_mas_de_600_cartuchos_y_granadas",
+        "_added_at": "2026-07-21T19:12:41.684910-07:00"
+      },
+      {
+        "title": "Fallece menor en accidente de moto en Tecate",
+        "summary": "Joven de 14 años muere tras siniestro vial en Tecate.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/179425_fallece_menor_de_14_anos_tras_accidente_de_moto_en_tecate",
+        "_added_at": "2026-07-21T19:12:41.684910-07:00"
+      },
+      {
+        "title": "Incendio consume fábrica en Mariano Matamoros",
+        "summary": "Fuerte incendio destruye planta de plástico en el Ejido Mariano Matamoros de Tijuana.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97042/%23%C3%9AltimaHora-%7C-Fuerte-incendio-consume-f%C3%A1brica-de-pl%C3%A1stico-en-el-Ejido-Mariano-Matamoros",
+        "_added_at": "2026-07-21T19:12:41.684910-07:00"
+      }
+    ],
+    "politica": [
+      {
+        "title": "FGR investiga red financiera ligada a Ruffo",
+        "summary": "Fiscalía señala presunta red de empresas relacionada con ex gobernador Ruffo.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/empresas-bajo-la-lupa-fgr-senala-presunta-red-financiera-ligada-a-ruffo/",
+        "_added_at": "2026-07-21T19:12:41.684910-07:00"
+      },
+      {
+        "title": "Morena respalda investigaciones contra Ruffo por fraude fiscal",
+        "summary": "Partido oficial apoya pesquisas contra ex gobernador por presunto huachicol fiscal.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/morena-respalda-investigaciones-contra-ruffo-appel-por-presunto-huachicol-fiscal/",
+        "_added_at": "2026-07-21T19:12:41.684910-07:00"
+      },
+      {
+        "title": "Oposición reactiva con detención de Ruffo",
+        "summary": "Arrestó despierta movimiento político en grupos opositores de Baja California.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/afn_politico/179431_la_detencion_de_ruffo_saca_de_su_letargo_a_la_oposicion",
+        "_added_at": "2026-07-21T19:12:41.684910-07:00"
+      },
+      {
+        "title": "Dante Delgado regresa a política tras vencer cáncer",
+        "summary": "Líder político anuncia su recuperación y retorno a actividades políticas en BC.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179429_dante_delgado_afirma_que_vencio_al_cancer_y_regresa_a_la_actividad_politica",
+        "_added_at": "2026-07-21T19:12:41.684910-07:00"
+      }
+    ],
+    "economia": [
+      {
+        "title": "Impulsan programa para crecer PyMEs en Baja California",
+        "summary": "Lanzan iniciativa \"Conecta & Crece\" para fortalecer pequeñas y medianas empresas.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/buscan-impulsar-el-crecimiento-de-pymes-de-baja-california-con-programa-conecta-crece/",
+        "_added_at": "2026-07-21T19:12:41.684910-07:00"
+      },
+      {
+        "title": "Coparmex busca IVA 8% como ley permanente",
+        "summary": "Cámara empresarial presiona para hacer permanente impuesto reducido en el estado.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/97050/Coparmex-insiste-en-convertir-el-IVA-del-8%25-en-ley-permanente",
+        "_added_at": "2026-07-21T19:12:41.684910-07:00"
+      },
+      {
+        "title": "Proyectan repunte de obra pública en Tijuana semestre",
+        "summary": "Se espera incremento en proyectos de construcción durante segundo semestre 2026.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97051/Prev%C3%A9n-repunte-de-obra-p%C3%BAblica-en-Tijuana-durante-el-segundo-semestre-del-a%C3%B1o",
+        "_added_at": "2026-07-21T19:12:41.684910-07:00"
+      },
+      {
+        "title": "Aeropuerto en Ensenada proyectado para 2030",
+        "summary": "Presentan nuevo proyecto de terminal aérea para puerto ensenadeño.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/presentan-otro-proyecto-de-aeropuerto-en-ensenada-para-2030/",
+        "_added_at": "2026-07-21T19:12:41.684910-07:00"
+      }
+    ],
+    "sociedad": [
+      {
+        "title": "Albergues advierten sobre aumento de deportaciones",
+        "summary": "Compra de centros de detención en California genera preocupación en organizaciones de Tijuana.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97048/Compra-de-centros-de-detenci%C3%B3n-en-California-genera-alerta-en-albergues-de-Tijuana-por-posible-aumento-de-deportaciones",
+        "_added_at": "2026-07-21T19:12:41.684910-07:00"
+      },
+      {
+        "title": "Trasladan animales del Parque Morelos a recintos especializados",
+        "summary": "Fauna de parque ecológico se reubica en centros especializados de Tijuana.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97049/Trasladar%C3%A1n-animales-del-Parque-Morelos-a-recintos-especializados",
+        "_added_at": "2026-07-21T19:12:41.684910-07:00"
+      },
+      {
+        "title": "Ventanilla Digital BC finalista en premio nacional",
+        "summary": "Sistema digital de BC compite en Premios NovaGob Excelencia 2026.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179427_ventanilla_digital_bc_finalista_en_los_premios_novagob_excelencia_2026",
+        "_added_at": "2026-07-21T19:12:41.684910-07:00"
+      },
+      {
+        "title": "Denuncian venta de incapacidades médicas a policías",
+        "summary": "Consejo Ciudadano expone presunta venta ilegal de documentos médicos a agentes.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179423_persiste_venta_de_incapacidades_medicas_a_agentes_policiacos_denuncia_consejo_ciudadano",
+        "_added_at": "2026-07-21T19:12:41.684910-07:00"
+      }
+    ]
+  },
+  "last_updated": "2026-07-21T19:12:41.684910-07:00"
+}
