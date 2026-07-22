@@ -67,7 +67,7 @@ def curate(items):
     client = anthropic.Anthropic(api_key=api_key)
     resp = client.messages.create(
         model=MODEL,
-        max_tokens=2000,
+        max_tokens=4096,
         system=SYSTEM_PROMPT,
         messages=[{"role": "user", "content": build_user_prompt(items)}],
     )
