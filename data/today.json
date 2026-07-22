@@ -1,8 +1,15 @@
 {
   "date": "2026-07-22",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Fuerte incendio destruye recicladora en Mariano Matamoros",
+        "summary": "Bomberos controlan incendio en fábrica de plásticos en Ejido Matamoros; fuego alcanza vehículos estacionados.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179434_fuerte_incendio_destruyo_una_recicladora_de_plastico_y_un_salon_de_eventos_en_el_mariano_matamoros",
+        "_added_at": "2026-07-22T07:15:24.372730-07:00"
+      },
       {
         "title": "Tijuana lidera extorsiones en BC; comerciantes más afectados",
         "summary": "La ciudad concentra mayor incidencia de extorsiones en la entidad, impactando especialmente al sector comercial.",
@@ -57,6 +64,20 @@
     ],
     "economia": [
       {
+        "title": "Se pierden 3,787 empleos en industria de transformación",
+        "summary": "Sector manufacturero de Tijuana registra despidos significativos en trabajadores.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/empresarial/179436_recortan_3_787_trabajadores_en_la_industria_de_la_transformacion_de_tijuana",
+        "_added_at": "2026-07-22T07:15:24.372730-07:00"
+      },
+      {
+        "title": "Comercio minorista de BC desacelera en mayo",
+        "summary": "Ventas del sector retail en la entidad muestran disminución respecto a meses anteriores.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/empresarial/179435_desaceleran_ventas_del_comercio_minorista_de_bc_en_mayo",
+        "_added_at": "2026-07-22T07:15:24.372730-07:00"
+      },
+      {
         "title": "Anuncio Toyota llama fortalecer competitividad BC",
         "summary": "Canacintra ve en inversión de fabricante llamado urgente para mejorar competitividad estatal.",
         "source": "ZETA Tijuana",
@@ -102,5 +123,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-22T04:14:54.746861-07:00"
+  "last_updated": "2026-07-22T07:15:24.372730-07:00"
 }
