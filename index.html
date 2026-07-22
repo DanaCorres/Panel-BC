@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="es-MX">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Panel de noticias — Baja California</title>
+<style>
+  :root{
+    --bg:#f6f5f1; --card:#ffffff; --border:#e3e1d8;
+    --text:#1c1c1a; --muted:#6b6a63; --hint:#96958c;
+    --seguridad:#a32d2d; --politica:#185fa5; --economia:#3b6d11; --sociedad:#534ab7;
+  }
+  @media (prefers-color-scheme: dark){
+    :root{
+      --bg:#17171533; --bg:#141412; --card:#1e1e1b; --border:#33322c;
+      --text:#f1efe8; --muted:#b4b2a9; --hint:#888780;
+    }
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0; padding:2rem 1rem 4rem; background:var(--bg); color:var(--text);
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+  }
+  .wrap{max-width:800px; margin:0 auto;}
+  header{display:flex; justify-content:space-between; align-items:baseline; flex-wrap:wrap; gap:8px; margin-bottom:1.75rem;}
+  h1{font-size:22px; font-weight:600; margin:0;}
+  .sub{font-size:13px; color:var(--muted); margin:4px 0 0;}
+  .stats{display:grid; grid-template-columns:repeat(auto-fit,minmax(140px,1fr)); gap:12px; margin-bottom:2rem;}
+  .stat{background:var(--card); border:1px solid var(--border); border-radius:10px; padding:1rem;}
+  .stat p:first-child{font-size:12.5px; color:var(--muted); margin:0 0 4px;}
+  .stat p:last-child{font-size:22px; font-weight:600; margin:0;}
+  section{margin-bottom:2rem;}
+  .section-title{display:flex; align-items:center; gap:8px; margin:0 0 10px;}
+  .section-title h2{font-size:16px; font-weight:600; margin:0;}
+  .dot{width:10px; height:10px; border-radius:50%;}
+  .card{background:var(--card); border:1px solid var(--border); border-left-width:3px; border-radius:6px; padding:10px 14px; margin-bottom:8px;}
+  .card h3{font-size:14.5px; font-weight:600; margin:0 0 4px;}
+  .card p{font-size:13px; color:var(--muted); margin:0 0 4px; line-height:1.5;}
+  .card .src{font-size:11.5px; color:var(--hint); margin:0;}
+  .seguridad{border-left-color:var(--seguridad);}
+  .politica{border-left-color:var(--politica);}
+  .economia{border-left-color:var(--economia);}
+  .sociedad{border-left-color:var(--sociedad);}
+  footer{font-size:11.5px; color:var(--hint); border-top:1px solid var(--border); padding-top:1rem; margin-top:1rem;}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header>
+    <div>
+      <h1>Baja California — panel de noticias</h1>
+      <p class="sub" id="fecha">Actualizado: 21 de julio de 2026</p>
+    </div>
+  </header>
+
+  <div class="stats">
+    <div class="stat"><p>Seguridad</p><p>8 notas</p></div>
+    <div class="stat"><p>Política</p><p>6 notas</p></div>
+    <div class="stat"><p>Economía</p><p>4 notas</p></div>
+    <div class="stat"><p>Sociedad y deportes</p><p>5 notas</p></div>
+  </div>
+
+  <section>
+    <div class="section-title"><span class="dot" style="background:var(--seguridad)"></span><h2>Seguridad</h2></div>
+
+    <div class="card seguridad">
+      <h3>Tecate suma más homicidios pese a llamados a la calma</h3>
+      <p>El alcalde Román Cota pidió a los tecatenses salir con normalidad pese a la ola de violencia; la semana previa hubo 7 ejecuciones en 24 horas y un ataque a una taquería con 4 víctimas.</p>
+      <p class="src">El Mexicano · AFN Tijuana · ZETA — 20-21 jul 2026</p>
+    </div>
+
+    <div class="card seguridad">
+      <h3>Se dispara la población penitenciaria en Baja California</h3>
+      <p>Más de 21 mil ingresos a prisión en 2025, la cifra más alta del país; el estado ocupa el segundo lugar nacional en tasa de reclusión.</p>
+      <p class="src">El Vigía (Ensenada) — 21 jul 2026</p>
+    </div>
+
+    <div class="card seguridad">
+      <h3>Homicidios en Mexicali: Islas Agrarias y Condesa</h3>
+      <p>Un sicario huyó entre parcelas tras un ataque armado; se suma el arresto de un presunto agresor sexual de un menor en la colonia La Obrera, Tijuana.</p>
+      <p class="src">El Mexicano — 20 jul 2026</p>
+    </div>
+
+    <div class="card seguridad">
+      <h3>Tráiler choca contra muro de contención en el Bulevar Insurgentes</h3>
+      <p>El accidente provocó cierre vial y fuerte congestionamiento en Tijuana.</p>
+      <p class="src">El Mexicano — 21 jul 2026</p>
+    </div>
+
+    <div class="card seguridad">
+      <h3>Aumentan los fraudes en Ensenada</h3>
+      <p>Los casos denunciados crecieron 5% durante el primer semestre de 2026.</p>
+      <p class="src">El Vigía — 21 jul 2026</p>
+    </div>
+  </section>
+
+  <section>
+    <div class="section-title"><span class="dot" style="background:var(--politica)"></span><h2>Política y gobierno</h2></div>
+
+    <div class="card politica">
+      <h3>Dictan prisión preventiva al exgobernador Ernesto Ruffo</h3>
+      <p>Lo enviaron al penal de El Altiplano; hubo protestas en Tijuana exigiendo "piso parejo" en las investigaciones. Sheinbaum afirma que hay "muchísimas pruebas" en su contra.</p>
+      <p class="src">AFN Tijuana · El Mexicano — 20-21 jul 2026</p>
+    </div>
+
+    <div class="card politica">
+      <h3>Crece la polémica por audios filtrados de la gobernadora Marina del Pilar</h3>
+      <p>Un tercero identificado como "Levy" se atribuyó la grabación de los audios; columnistas locales cuestionan el manejo político del caso.</p>
+      <p class="src">AFN Tijuana · El Vigía — 20-21 jul 2026</p>
+    </div>
+
+    <div class="card politica">
+      <h3>Burgueño buscará licencia como alcalde de Tijuana rumbo a la gubernatura</h3>
+      <p>El proceso interno de Morena, PVEM y PT arranca oficialmente rumbo a la elección del 6 de junio de 2027.</p>
+      <p class="src">El Imparcial · ZETA — 18 jun 2026</p>
+    </div>
+
+    <div class="card politica">
+      <h3>Federación destaca 21 obras de infraestructura en Baja California</h3>
+      <p>Zoé Robledo anunció que Ensenada y San Quintín fortalecerán su atención médica dentro del plan hospitalario nacional.</p>
+      <p class="src">El Mexicano — 21 jul 2026</p>
+    </div>
+  </section>
+
+  <section>
+    <div class="section-title"><span class="dot" style="background:var(--economia)"></span><h2>Economía</h2></div>
+
+    <div class="card economia">
+      <h3>Toyota traslada a Texas producción de camionetas Tacoma</h3>
+      <p>Los aranceles de Estados Unidos y la caída en ventas motivaron la decisión, según el secretario de Economía estatal.</p>
+      <p class="src">ZETA Tijuana — 6 jul 2026</p>
+    </div>
+
+    <div class="card economia">
+      <h3>Fitch ratifica la calificación crediticia de Tijuana en AAmex</h3>
+      <p>El municipio sigue en proceso de un juicio por crédito fiscal con el SAT.</p>
+      <p class="src">AFN Tijuana — 21 jul 2026</p>
+    </div>
+
+    <div class="card economia">
+      <h3>Ensenada recibe 770 millones de pesos de aportaciones federales</h3>
+      <p>Corresponde al reparto ordinario que el gobierno estatal transfiere a los municipios.</p>
+      <p class="src">AFN Tijuana — 21 jul 2026</p>
+    </div>
+  </section>
+
+  <section>
+    <div class="section-title"><span class="dot" style="background:var(--sociedad)"></span><h2>Sociedad, cultura y deportes</h2></div>
+
+    <div class="card sociedad">
+      <h3>La marcha LGBT de Tijuana se consolida como motor turístico</h3>
+      <p>Reunió a 30 mil personas y generó una derrama de 9 millones de dólares; llevará la experiencia de Tijuana al World Pride en Ámsterdam.</p>
+      <p class="src">El Mexicano — 20 jul 2026</p>
+    </div>
+
+    <div class="card sociedad">
+      <h3>Gilberto Mora ingresa al mural histórico de Tijuana</h3>
+      <p>Reconocimiento tras su participación con la Selección en el Mundial 2026.</p>
+      <p class="src">El Vigía — 21 jul 2026</p>
+    </div>
+
+    <div class="card sociedad">
+      <h3>Isaac del Toro repite podio en el Tour de Francia</h3>
+      <p>El ciclista bajacaliforniano se recuperó de una caída a 20 kilómetros de la meta.</p>
+      <p class="src">El Mexicano — 19 jul 2026</p>
+    </div>
+
+    <div class="card sociedad">
+      <h3>Alerta la Secretaría de Salud de BC por calor extremo</h3>
+      <p>Se suma a un llamado previo sobre golpes de calor en el estado durante el verano.</p>
+      <p class="src">El Vigía — 21 jul 2026</p>
+    </div>
+  </section>
+
+  <footer>
+    Compilado a partir de portadas de ZETA Tijuana, El Imparcial, El Vigía (Ensenada), El Mexicano y AFN Tijuana.
+    Varias fuentes de la lista original (páginas de Facebook e Instagram, psn.si, Uniradio Baja, TV Azteca BC, N+, Imagen TV, Radiopatrulla, entre otras) no pudieron consultarse por requerir inicio de sesión o no estar disponibles al momento de generar este panel.
+    Este archivo es estático: para mantenerlo al día hay que editar el HTML o conectar una fuente de datos (ver README).
+  </footer>
+
+</div>
+</body>
+</html>
