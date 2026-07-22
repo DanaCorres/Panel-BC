@@ -1,8 +1,22 @@
 {
   "date": "2026-07-21",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Tijuana lidera extorsiones en BC; comercios bajo presión",
+        "summary": "Tijuana registra mayor incidencia de extorsiones en Baja California, afectando principalmente a comerciantes locales.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/tijuana-concentra-la-mayor-incidencia-de-extorsiones-en-bc-comerciantes-entre-los-mas-afectados/",
+        "_added_at": "2026-07-21T22:56:22.273336-07:00"
+      },
+      {
+        "title": "Auto incendiado en colonia Altiplano sin víctimas",
+        "summary": "Se reportó un vehículo consumido por fuego en la colonia Altiplano sin registro de heridos.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/179426_auto_incendiado_a_la_altura_de_la_colonia_altiplano_no_hubo_heridos",
+        "_added_at": "2026-07-21T22:56:22.273336-07:00"
+      },
       {
         "title": "Trece mexicanos muertos en operativos estadounidenses contra narcolanchas",
         "summary": "Revelado por LA Times: muertes de mexicanos en ataques de EU contra embarcaciones dedicadas al narcotráfico en aguas fronterizas.",
@@ -41,6 +55,13 @@
     ],
     "politica": [
       {
+        "title": "FGR sostiene solidez del caso contra Ruffo",
+        "summary": "Fiscalía General descarta persecución política contra Ruffo y afirma que las acusaciones tienen fundamento legal.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/fgr-descarta-persecucion-politica-contra-ruffo-y-sostiene-solidez-del-caso/",
+        "_added_at": "2026-07-21T22:56:22.273336-07:00"
+      },
+      {
         "title": "Ventanilla Digital BC finalista en Premios NovaGob Excelencia 2026",
         "summary": "Plataforma digital de Baja California compite por reconocimiento nacional. Destaca en innovación gubernamental.",
         "source": "AFN Tijuana",
@@ -78,6 +99,13 @@
     ],
     "economia": [
       {
+        "title": "Toyota anuncia inversión; Canacintra pide competitividad",
+        "summary": "Sector empresarial ve anuncio de Toyota como llamado para fortalecer competitividad de Baja California.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/anuncio-de-toyota-un-llamado-a-fortalecer-la-competitividad-de-baja-california-canacintra/",
+        "_added_at": "2026-07-21T22:56:22.273336-07:00"
+      },
+      {
         "title": "Mexicali invertirá 20 millones en cableado para Palacio Municipal",
         "summary": "Municipio destina recursos a modernización de infraestructura eléctrica en sede administrativa.",
         "source": "AFN Tijuana",
@@ -114,6 +142,13 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Bomberos controlan incendio en fábrica de Matamoros",
+        "summary": "Cuerpos de rescate sofocaron fuego en instalación industrial en Ejido Matamoros; se reportan daños.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/bomberos-de-tijuana-contiene-incendio-en-fabrica-en-el-ejido-matamoros/",
+        "_added_at": "2026-07-21T22:56:22.273336-07:00"
+      },
       {
         "title": "Presentan proyecto de aeropuerto en Ensenada para 2030",
         "summary": "Nueva propuesta de desarrollo infraestructura aeroportuaria para Ensenada. Objetivo operacional en próxima década.",
@@ -158,5 +193,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-21T19:55:27.989638-07:00"
+  "last_updated": "2026-07-21T22:56:22.273336-07:00"
 }
