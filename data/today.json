@@ -1,8 +1,22 @@
 {
   "date": "2026-07-22",
-  "run_count": 4,
+  "run_count": 5,
   "notes": {
     "seguridad": [
+      {
+        "title": "Rescatan hombre privado de libertad en Playas de Tijuana",
+        "summary": "Autoridades liberaron a persona secuestrada en Playas de Tijuana y detuvieron a siete presuntos responsables.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/rescatan-a-hombre-privado-de-la-libertad-en-playas-de-tijuana-detienen-a-siete-personas/?utm_source=rss&utm_medium=rss&utm_campaign=rescatan-a-hombre-privado-de-la-libertad-en-playas-de-tijuana-detienen-a-siete-personas",
+        "_added_at": "2026-07-22T12:38:11.228262-07:00"
+      },
+      {
+        "title": "Múltiples choques en Vía Rápida Oriente dejan heridos",
+        "summary": "Al menos cuatro lesionados tras accidentes vehiculares en la Vía Rápida Oriente de Tijuana.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/179449_dos_mujeres_resultan_lesionadas_tras_fuerte_choque_en_la_via_rapida_oriente",
+        "_added_at": "2026-07-22T12:38:11.228262-07:00"
+      },
       {
         "title": "Cadáver hallado en Tecate con narcomanta",
         "summary": "Encontraron un cuerpo junto a una narcomanta en Tecate, indicativo de violencia relacionada con organizaciones delictivas.",
@@ -61,6 +75,27 @@
       }
     ],
     "politica": [
+      {
+        "title": "Marina bajo investigación de la FGR por Carlos Torres",
+        "summary": "Gobernadora Marina del Pilar aguarda resultados de indagatoria federal sobre presuntas irregularidades.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179450_estamos_esperando_dice_marina_sobre_investigacion_de_la_fgr_contra_carlos_torres",
+        "_added_at": "2026-07-22T12:38:11.228262-07:00"
+      },
+      {
+        "title": "Marina enfrenta crisis política constante",
+        "summary": "Análisis editorial sobre los problemas políticos recurrentes enfrentados por la gobernadora.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/editoriales/179443_marina_del_pilar_avila_una_crisis_politica_constante",
+        "_added_at": "2026-07-22T12:38:11.228262-07:00"
+      },
+      {
+        "title": "Sheinbaum descarta nuevos aranceles tras revisión T-MEC",
+        "summary": "Presidenta confía en negociación con Estados Unidos sobre tratado comercial sin nuevos gravámenes.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/sheinbaum-descarta-nuevos-aranceles-y-confia-en-revision-del-t-mec-con-greer/?utm_source=rss&utm_medium=rss&utm_campaign=sheinbaum-descarta-nuevos-aranceles-y-confia-en-revision-del-t-mec-con-greer",
+        "_added_at": "2026-07-22T12:38:11.228262-07:00"
+      },
       {
         "title": "Coimputados de Ruffo piden amparo contra prisión preventiva",
         "summary": "Asociados del exfuncionario Ruffo interponen amparos para evitar prisión preventiva en caso de huachicol.",
@@ -122,6 +157,34 @@
     ],
     "sociedad": [
       {
+        "title": "Se restablece 90% servicio de agua en Tijuana",
+        "summary": "ESPT logra normalizar distribución de agua; Rosarito opera al 100% de capacidad.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97082/ESPT%3A-Se-restablece-al-90%25-el-servicio-de-agua-en-Tijuana;-Rosarito-ya-opera-al-100%25",
+        "_added_at": "2026-07-22T12:38:11.228262-07:00"
+      },
+      {
+        "title": "Falla eléctrica deja sin luz a colonias de Tijuana",
+        "summary": "Afectación en subestación causa apagón en Playas, El Mirador, Los Altos y El Soler.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/falla-en-subestacion-deja-sin-luz-a-usuarios-de-playas-el-mirador-los-altos-y-el-soler/?utm_source=rss&utm_medium=rss&utm_campaign=falla-en-subestacion-deja-sin-luz-a-usuarios-de-playas-el-mirador-los-altos-y-el-soler",
+        "_added_at": "2026-07-22T12:38:11.228262-07:00"
+      },
+      {
+        "title": "Recuperación de espacios públicos en Centro y Zona Norte",
+        "summary": "Autoridades concentran esfuerzos en rehabilitación de áreas deterioradas en Tijuana.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/concentran-recuperacion-de-espacios-en-zona-norte-y-centro-de-tijuana/?utm_source=rss&utm_medium=rss&utm_campaign=concentran-recuperacion-de-espacios-en-zona-norte-y-centro-de-tijuana",
+        "_added_at": "2026-07-22T12:38:11.228262-07:00"
+      },
+      {
+        "title": "Presentan programa \"Pedagogía del Despertar\"",
+        "summary": "Nuevo programa educativo presentado para comunidades de Baja California.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/comunidad/179442_presentan_el_programa_pedagogia_del_despertar",
+        "_added_at": "2026-07-22T12:38:11.228262-07:00"
+      },
+      {
         "title": "Incendio en fábrica de Ejido Matamoros controlado",
         "summary": "Bomberos sofocaron fuego en instalación industrial ubicada en zona de Matamoros en Tijuana.",
         "source": "ZETA Tijuana",
@@ -165,5 +228,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-22T09:27:03.630585-07:00"
+  "last_updated": "2026-07-22T12:38:11.228262-07:00"
 }
