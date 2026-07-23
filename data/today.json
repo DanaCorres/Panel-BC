@@ -1,281 +1,99 @@
 {
-  "date": "2026-07-22",
-  "run_count": 7,
+  "date": "2026-07-23",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Identifican restos de desaparecido en Miguel Alemán",
-        "summary": "Localizan restos de Juan Antonio Leal, desaparecido desde 2023 en zona de Miguel Alemán en Tijuana.",
+        "title": "Cuatro detenidos por extorsión; uno era agente estatal",
+        "summary": "Autoridades capturan a cuatro personas acusadas de extorsión en Tijuana, uno de ellos agente de Ensenada.",
         "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/restos-humanos-localizados-en-miguel-aleman-pertenecen-a-juan-antonio-desaparecido-en-2023/?utm_source=rss&utm_medium=rss&utm_campaign=restos-humanos-localizados-en-miguel-aleman-pertenecen-a-juan-antonio-desaparecido-en-2023",
-        "_added_at": "2026-07-22T20:35:55.783343-07:00"
+        "url": "https://zetatijuana.com/2026/07/cuatro-detenidos-por-extorsion-en-tijuana-uno-es-agente-de-ensenada/",
+        "_added_at": "2026-07-23T01:42:02.661285-07:00"
       },
       {
-        "title": "Detienen cuatro hombres por extorsión en Tijuana",
-        "summary": "Capturan a cuatro individuos acusados de extorsión, uno de ellos agente estatal, en Baja California.",
+        "title": "Sicario del CJNG capturado en Tecate",
+        "summary": "Fuerzas de seguridad detienen a \"El Vampi\", presunto sicario de Cartel Jalisco Nueva Generación.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/en-tecate-cae-el-vampi-sicario-del-cjng/",
+        "_added_at": "2026-07-23T01:42:02.661285-07:00"
+      },
+      {
+        "title": "Restos de desaparecido en 2023 identificados en Tijuana",
+        "summary": "Hallazgo de restos humanos en Miguel Alemán corresponden a Juan Antonio Leal, desaparecido hace tres años.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/179466_detienen_a_cuatro_hombres_por_extorsion_uno_de_ellos_es_agente_estatal",
-        "_added_at": "2026-07-22T20:35:55.783343-07:00"
+        "url": "https://www.afntijuana.info/seguridad/179458_celula_de_busqueda_localiza_restos_de_juan_antonio_leal_desaparecido_en_2023",
+        "_added_at": "2026-07-23T01:42:02.661285-07:00"
       },
       {
-        "title": "Localizan cuerpo calcinado en vehículo en La Morita",
-        "summary": "Encuentran restos carbonizados dentro de automóvil abandonado en La Morita, Tijuana.",
+        "title": "Cuerpo calcinado localizado en vehículo en La Morita",
+        "summary": "Encuentran cadáver carbonizado dentro de auto quemado en zona de Tijuana.",
         "source": "El Mexicano",
         "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97105/Localizan-cuerpo-calcinado-dentro-de-un-veh%C3%ADculo-en-La-Morita",
-        "_added_at": "2026-07-22T20:35:55.783343-07:00"
-      },
-      {
-        "title": "Rescatan privado de la libertad en Playas; detienen a siete",
-        "summary": "Liberan a hombre secuestrado en Playas de Tijuana. Autoridades capturan a siete presuntos responsables, cinco de ellos menores de edad.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/179454_liberan_a_privado_de_la_libertad_en_playas_detienen_a_siete_cinco_son_menores",
-        "_added_at": "2026-07-22T15:12:10.277476-07:00"
-      },
-      {
-        "title": "Capturan a \"El Mariachi\" armado en Tijuana",
-        "summary": "Detienen a presunto delincuente identificado como \"El Mariachi\" portando armas en operativo de seguridad en la ciudad.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97091/Cae-%22El-Mariachi%22-en-Tijuana,-armado",
-        "_added_at": "2026-07-22T15:12:10.277476-07:00"
-      },
-      {
-        "title": "Detienen a individuo con fusil en estuche de guitarra",
-        "summary": "Autoridades aseguran arma de fuego camuflada en instrumento musical durante operativo en Tijuana.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/179456_detienen_a_individuo_con_un_fusil_dentro_de_un_estuche_de_guitarra",
-        "_added_at": "2026-07-22T15:12:10.277476-07:00"
-      },
-      {
-        "title": "Choque en Vía Rápida Oriente deja dos mujeres heridas",
-        "summary": "Accidente vehicular ocasiona lesiones a dos mujeres, una de ellas atrapada entre los vehículos.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97076/Dos-mujeres-quedan-atrapadas,-una-de-ellas-prensada,-tras-choque-en-la-V%C3%ADa-R%C3%A1pida-Oriente",
-        "_added_at": "2026-07-22T15:12:10.277476-07:00"
-      },
-      {
-        "title": "Rescatan hombre privado de libertad en Playas de Tijuana",
-        "summary": "Autoridades liberaron a persona secuestrada en Playas de Tijuana y detuvieron a siete presuntos responsables.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/rescatan-a-hombre-privado-de-la-libertad-en-playas-de-tijuana-detienen-a-siete-personas/?utm_source=rss&utm_medium=rss&utm_campaign=rescatan-a-hombre-privado-de-la-libertad-en-playas-de-tijuana-detienen-a-siete-personas",
-        "_added_at": "2026-07-22T12:38:11.228262-07:00"
-      },
-      {
-        "title": "Múltiples choques en Vía Rápida Oriente dejan heridos",
-        "summary": "Al menos cuatro lesionados tras accidentes vehiculares en la Vía Rápida Oriente de Tijuana.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/179449_dos_mujeres_resultan_lesionadas_tras_fuerte_choque_en_la_via_rapida_oriente",
-        "_added_at": "2026-07-22T12:38:11.228262-07:00"
-      },
-      {
-        "title": "Cadáver hallado en Tecate con narcomanta",
-        "summary": "Encontraron un cuerpo junto a una narcomanta en Tecate, indicativo de violencia relacionada con organizaciones delictivas.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/179437_dejan_un_cadaver_junto_a_una_narcomanta_en_tecate",
-        "_added_at": "2026-07-22T09:27:03.630585-07:00"
+        "_added_at": "2026-07-23T01:42:02.661285-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Alcalde exige revisar a juez que frenó captura de Ruffo",
-        "summary": "Autoridad local solicita investigación al Tribunal de Disciplina sobre magistrado que detuvo orden de aprehensión.",
+        "title": "Alcalde exige revisión de juez que frenó captura de Ruffo",
+        "summary": "Autoridad municipal demanda al Tribunal de Disciplina investigar a magistrado por obstaculizar proceso contra Ruffo.",
         "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/alcalde-exige-al-tribunal-de-disciplina-revisar-a-juez-que-freno-captura-de-ruffo/?utm_source=rss&utm_medium=rss&utm_campaign=alcalde-exige-al-tribunal-de-disciplina-revisar-a-juez-que-freno-captura-de-ruffo",
-        "_added_at": "2026-07-22T20:35:55.783343-07:00"
+        "url": "https://zetatijuana.com/2026/07/alcalde-exige-al-tribunal-de-disciplina-revisar-a-juez-que-freno-captura-de-ruffo/",
+        "_added_at": "2026-07-23T01:42:02.661285-07:00"
       },
       {
-        "title": "Inteligencia Financiera bloquea cuentas a Ruffo Appel",
-        "summary": "Autoridades federales congelan cuentas bancarias del exgobernador por investigación de huachicol.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/inteligencia-financiera-bloqueo-cuentas-bancarias-a-ruffo-appel/?utm_source=rss&utm_medium=rss&utm_campaign=inteligencia-financiera-bloqueo-cuentas-bancarias-a-ruffo-appel",
-        "_added_at": "2026-07-22T20:35:55.783343-07:00"
+        "title": "Hija de Ruffo pide protección a embajada estadounidense",
+        "summary": "Familia de Ruffo solicita asilo en EU argumentando persecución por cargos de huachicol fiscal.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179471_hija_de_ruffo_pide_proteccion_a_la_embajada_de_eu_en_mexico",
+        "_added_at": "2026-07-23T01:42:02.661285-07:00"
       },
       {
-        "title": "Hija de Ruffo pide protección a Estados Unidos",
-        "summary": "Familiar del exgobernador solicita asilo estadounidense argumentando persecución por imputaciones fiscales.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/hija-de-ruffo-pide-a-eu-proteccion-para-su-padre-imputado-por-huachicol-fiscal/?utm_source=rss&utm_medium=rss&utm_campaign=hija-de-ruffo-pide-a-eu-proteccion-para-su-padre-imputado-por-huachicol-fiscal",
-        "_added_at": "2026-07-22T20:35:55.783343-07:00"
-      },
-      {
-        "title": "Inquieta alianza potencial entre Movimiento Ciudadano y PT",
-        "summary": "Genera preocupación en círculos políticos posible coalición entre MC y Partido del Trabajo.",
+        "title": "Inquieta posible alianza entre Movimiento Ciudadano y PT",
+        "summary": "Analistas expresan preocupación sobre potencial coalición política entre ambas fuerzas electorales.",
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/afn_politico/179465_inquieta_una_eventual_alianza_entre_mc_y_el_partido_del_trabajo",
-        "_added_at": "2026-07-22T20:35:55.783343-07:00"
-      },
-      {
-        "title": "Martínez Veloz denuncia \"extracción tipo Venezuela\" contra Marina",
-        "summary": "Legislador revela supuesto plan de Estados Unidos para extraer a Marina del Pilar Ávila comparándolo con métodos venezolanos.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/martinez-veloz-revela-plan-de-extraccion-tipo-venezuela-de-eu-contra-marina-del-pilar/",
-        "_added_at": "2026-07-22T15:12:10.277476-07:00"
-      },
-      {
-        "title": "Marina bajo investigación de la FGR por Carlos Torres",
-        "summary": "Gobernadora Marina del Pilar aguarda resultados de indagatoria federal sobre presuntas irregularidades.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179450_estamos_esperando_dice_marina_sobre_investigacion_de_la_fgr_contra_carlos_torres",
-        "_added_at": "2026-07-22T12:38:11.228262-07:00"
-      },
-      {
-        "title": "Marina enfrenta crisis política constante",
-        "summary": "Análisis editorial sobre los problemas políticos recurrentes enfrentados por la gobernadora.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/editoriales/179443_marina_del_pilar_avila_una_crisis_politica_constante",
-        "_added_at": "2026-07-22T12:38:11.228262-07:00"
-      },
-      {
-        "title": "Sheinbaum descarta nuevos aranceles tras revisión T-MEC",
-        "summary": "Presidenta confía en negociación con Estados Unidos sobre tratado comercial sin nuevos gravámenes.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/sheinbaum-descarta-nuevos-aranceles-y-confia-en-revision-del-t-mec-con-greer/?utm_source=rss&utm_medium=rss&utm_campaign=sheinbaum-descarta-nuevos-aranceles-y-confia-en-revision-del-t-mec-con-greer",
-        "_added_at": "2026-07-22T12:38:11.228262-07:00"
-      },
-      {
-        "title": "Coimputados de Ruffo piden amparo contra prisión preventiva",
-        "summary": "Asociados del exfuncionario Ruffo interponen amparos para evitar prisión preventiva en caso de huachicol.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/coimputados-de-ruffo-solicitan-amparo-contra-prision-preventiva/",
-        "_added_at": "2026-07-22T09:27:03.630585-07:00"
-      },
-      {
-        "title": "FGR descarta persecución política contra Ruffo",
-        "summary": "Fiscalía sostiene solidez del caso y niega motivaciones políticas en acusación.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/fgr-descarta-persecucion-politica-contra-ruffo-y-sostiene-solidez-del-caso/",
-        "_added_at": "2026-07-22T01:40:47.691900-07:00"
+        "_added_at": "2026-07-23T01:42:02.661285-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Toyota aclara gradualidad de salida de México a EU",
-        "summary": "Automotriz desmente relato de Trump sobre partida inmediata; proceso será progresivo.",
+        "title": "Toyota aclaración sobre retirada gradual de México",
+        "summary": "Automotriz aclara que salida de operaciones hacia EU será progresiva, no inmediata como Trump anunció.",
         "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/trump-celebra-salida-de-toyota-de-mexico-rumbo-a-eu-automotriz-aclara-que-sera-gradual/?utm_source=rss&utm_medium=rss&utm_campaign=trump-celebra-salida-de-toyota-de-mexico-rumbo-a-eu-automotriz-aclara-que-sera-gradual",
-        "_added_at": "2026-07-22T20:35:55.783343-07:00"
+        "url": "https://zetatijuana.com/2026/07/trump-celebra-salida-de-toyota-de-mexico-rumbo-a-eu-automotriz-aclara-que-sera-gradual/",
+        "_added_at": "2026-07-23T01:42:02.661285-07:00"
       },
       {
-        "title": "Valle de Guadalupe reporta recuperación económica",
-        "summary": "Cámara de Comercio Tijuana confirma crecimiento económico en región vinícola durante año.",
+        "title": "Valle de Guadalupe muestra recuperación económica",
+        "summary": "Cámara de Comercio reporta mejoría financiera en la región vinícola durante presente año.",
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/179464_valle_de_guadalupe_registra_recuperacion_economica_este_ano_cce_tijuana",
-        "_added_at": "2026-07-22T20:35:55.783343-07:00"
-      },
-      {
-        "title": "Servicio de agua alcanza 90% en Tijuana por altas temperaturas",
-        "summary": "Suministro hídrico normalizado mayormente tras afectaciones por calor extremo que impactó distribución ciudadana.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97094/Se-establece-el-servicio-del-agua-al-90%25-en-Tijuana-derivado-de-las-altas-temperaturas",
-        "_added_at": "2026-07-22T15:12:10.277476-07:00"
-      },
-      {
-        "title": "Ven inviable meta de camiones eléctricos fronterizos",
-        "summary": "Transportistas y expertos cuestionan viabilidad de objetivo gubernamental de electrificación del transporte público en frontera.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97089/Ven-inviable-meta-de-camiones-el%C3%A9ctricos-fronterizos",
-        "_added_at": "2026-07-22T15:12:10.277476-07:00"
-      },
-      {
-        "title": "Se pierden 3,787 empleos en industria de transformación",
-        "summary": "Sector manufacturero de Tijuana registra despidos significativos en trabajadores.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/empresarial/179436_recortan_3_787_trabajadores_en_la_industria_de_la_transformacion_de_tijuana",
-        "_added_at": "2026-07-22T07:15:24.372730-07:00"
-      },
-      {
-        "title": "Comercio minorista de BC desacelera en mayo",
-        "summary": "Ventas del sector retail en la entidad muestran disminución respecto a meses anteriores.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/empresarial/179435_desaceleran_ventas_del_comercio_minorista_de_bc_en_mayo",
-        "_added_at": "2026-07-22T07:15:24.372730-07:00"
-      },
-      {
-        "title": "Anuncio Toyota llama fortalecer competitividad BC",
-        "summary": "Canacintra ve en inversión de fabricante llamado urgente para mejorar competitividad estatal.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/anuncio-de-toyota-un-llamado-a-fortalecer-la-competitividad-de-baja-california-canacintra/",
-        "_added_at": "2026-07-22T01:40:47.691900-07:00"
-      },
-      {
-        "title": "Mexicali invierte 20 mdp en cableado municipal",
-        "summary": "Ayuntamiento asigna recursos para sustituir instalación eléctrica del Palacio de Gobierno.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179430_invertira_mexicali_20_mdp_en_cableado_electrico_para_el_palacio_municipal",
-        "_added_at": "2026-07-22T01:40:47.691900-07:00"
+        "_added_at": "2026-07-23T01:42:02.661285-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Retiran apoyo a viudas de policías por desacuerdo",
-        "summary": "Sindicatura suspende asistencia a familias de elementos fallecidos tras conflicto con manifestantes.",
+        "title": "Retiran apoyo provisional a viudas de policías",
+        "summary": "Autoridades suspenden ayuda a viudas de elementos caídos tras conflicto con manifestantes.",
         "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/retiraran-apoyo-a-viudas-de-policias-tras-desacuerdo-entre-sindicatura-y-manifestantes/?utm_source=rss&utm_medium=rss&utm_campaign=retiraran-apoyo-a-viudas-de-policias-tras-desacuerdo-entre-sindicatura-y-manifestantes",
-        "_added_at": "2026-07-22T20:35:55.783343-07:00"
+        "url": "https://zetatijuana.com/2026/07/retiraran-apoyo-a-viudas-de-policias-tras-desacuerdo-entre-sindicatura-y-manifestantes/",
+        "_added_at": "2026-07-23T01:42:02.661285-07:00"
       },
       {
-        "title": "30 familias participan en proceso de adopción estatal",
-        "summary": "DIF Estatal avanza con trámites de adopción involucrando más de treinta familias interesadas.",
+        "title": "Treinta familias participan en proceso de adopción DIF",
+        "summary": "Instituto estatal promueve adopciones con participación significativa de familias interesadas.",
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/179467_al_menos_30_familias_participan_en_proceso_de_adopcion_de_ninos_del_dif_estatal",
-        "_added_at": "2026-07-22T20:35:55.783343-07:00"
+        "_added_at": "2026-07-23T01:42:02.661285-07:00"
       },
       {
-        "title": "Apoyan control de dispositivos móviles en educación básica",
-        "summary": "Funcionarios respaldan medidas restrictivas sobre uso de celulares en escuelas primarias.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179459_apoya_alfredo_alvarez_control_de_dispositivos_moviles_en_educacion_basica",
-        "_added_at": "2026-07-22T20:35:55.783343-07:00"
-      },
-      {
-        "title": "Fiscalía deja animales en inmueble; se cuestiona negligencia",
-        "summary": "Exfiscal critica abandono de mascotas en propiedad asegurada, incluyendo muerte de canino.",
+        "title": "Servicio de agua al 90% durante altas temperaturas",
+        "summary": "Autoridades restablecen suministro de agua en Tijuana ante crisis por calor extremo.",
         "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97103/Fiscal%C3%ADa-deja-animales-en-inmueble-asegurado;-exfiscal-cuestiona-abandono-y-muerte-de-un-canino",
-        "_added_at": "2026-07-22T20:35:55.783343-07:00"
-      },
-      {
-        "title": "Recuperan espacios en Zona Norte y Centro de Tijuana",
-        "summary": "Autoridades concentran esfuerzos en reordenamiento y limpieza de zonas deterioradas en puntos clave de la ciudad.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/concentran-recuperacion-de-espacios-en-zona-norte-y-centro-de-tijuana/",
-        "_added_at": "2026-07-22T15:12:10.277476-07:00"
-      },
-      {
-        "title": "Reubicarán especies del Parque Morelos a santuarios",
-        "summary": "Traslado de fauna del parque hacia centros de conservación como medida de protección ambiental.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97092/Reubicar%C3%A1n-especies-del-Parque-Morelos-a-santuarios",
-        "_added_at": "2026-07-22T15:12:10.277476-07:00"
-      },
-      {
-        "title": "Invitan a participar en XXVIII Premio Nacional Poesía Tijuana",
-        "summary": "Convocatoria abierta para registro de participantes en competencia literaria de poesía a nivel nacional.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/municipios/179452_invitan_a_registrarse_para_el_xxviii_premio_nacional_de_poesia_tijuana_2026",
-        "_added_at": "2026-07-22T15:12:10.277476-07:00"
-      },
-      {
-        "title": "Se restablece 90% servicio de agua en Tijuana",
-        "summary": "ESPT logra normalizar distribución de agua; Rosarito opera al 100% de capacidad.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97082/ESPT%3A-Se-restablece-al-90%25-el-servicio-de-agua-en-Tijuana;-Rosarito-ya-opera-al-100%25",
-        "_added_at": "2026-07-22T12:38:11.228262-07:00"
-      },
-      {
-        "title": "Falla eléctrica deja sin luz a colonias de Tijuana",
-        "summary": "Afectación en subestación causa apagón en Playas, El Mirador, Los Altos y El Soler.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/falla-en-subestacion-deja-sin-luz-a-usuarios-de-playas-el-mirador-los-altos-y-el-soler/?utm_source=rss&utm_medium=rss&utm_campaign=falla-en-subestacion-deja-sin-luz-a-usuarios-de-playas-el-mirador-los-altos-y-el-soler",
-        "_added_at": "2026-07-22T12:38:11.228262-07:00"
-      },
-      {
-        "title": "Recuperación de espacios públicos en Centro y Zona Norte",
-        "summary": "Autoridades concentran esfuerzos en rehabilitación de áreas deterioradas en Tijuana.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/concentran-recuperacion-de-espacios-en-zona-norte-y-centro-de-tijuana/?utm_source=rss&utm_medium=rss&utm_campaign=concentran-recuperacion-de-espacios-en-zona-norte-y-centro-de-tijuana",
-        "_added_at": "2026-07-22T12:38:11.228262-07:00"
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97094/Se-establece-el-servicio-del-agua-al-90%25-en-Tijuana-derivado-de-las-altas-temperaturas",
+        "_added_at": "2026-07-23T01:42:02.661285-07:00"
       }
     ]
   },
-  "last_updated": "2026-07-22T20:35:55.783343-07:00"
+  "last_updated": "2026-07-23T01:42:02.661285-07:00"
 }
