@@ -1,8 +1,15 @@
 {
   "date": "2026-07-23",
-  "run_count": 3,
+  "run_count": 4,
   "notes": {
     "seguridad": [
+      {
+        "title": "Aseguran propiedad de hija del Mencho en Playas Tijuana",
+        "summary": "Inmueble es decomisado a familiar de líder criminal en operación contra patrimonio delictivo.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/reaseguran-inmueble-en-playas-de-tijuana-a-hija-del-mencho/",
+        "_added_at": "2026-07-23T09:40:59.795032-07:00"
+      },
       {
         "title": "Exfiscal vinculado a proceso por huachicol y crimen organizado",
         "summary": "Ernesto Ruffo y siete coimputados fueron vinculados a proceso por delitos de huachicol fiscal y delincuencia organizada.",
@@ -48,6 +55,13 @@
     ],
     "politica": [
       {
+        "title": "Gabinete niega bloqueo de cuentas a Verónica Ruffo",
+        "summary": "Autoridades desmienten cierre de redes sociales a hija de Ernesto Ruffo tras sus denuncias.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/gabinete-de-seguridad-niega-bloqueo-de-cuentas-de-veronica-ruffo/",
+        "_added_at": "2026-07-23T09:40:59.795032-07:00"
+      },
+      {
         "title": "Diputado denuncia aplicación selectiva de la ley",
         "summary": "Legislador exhibe en tribuna la falta de equidad en la aplicación de normas legales en la entidad.",
         "source": "AFN Tijuana",
@@ -78,6 +92,20 @@
     ],
     "economia": [
       {
+        "title": "Inflación nacional baja a 3.10% en primera quincena",
+        "summary": "Economía mexicana muestra desaceleración inflacionaria a nivel nacional en julio.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/inflacion-anual-desacelera-a-3-10-en-primera-quincena-de-julio/",
+        "_added_at": "2026-07-23T09:40:59.795032-07:00"
+      },
+      {
+        "title": "BC registra crecimiento de empresas certificadas IMMEX",
+        "summary": "Tijuana concentra mayoría del crecimiento en compañías maquiladoras acreditadas.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/97095/Registra-BC-crecimiento-en-empresas-IMMMEX",
+        "_added_at": "2026-07-23T09:40:59.795032-07:00"
+      },
+      {
         "title": "Exportaciones de maquiladoras caen 9.6% en Baja California",
         "summary": "Las exportaciones del sector maquila registraron una caída de casi 10% en período reciente.",
         "source": "AFN Tijuana",
@@ -107,6 +135,20 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Apagón en Tijuana causado por falla en subestación Cárdenas",
+        "summary": "CFE reporta corte de energía por aislador dañado en infraestructura eléctrica.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/cfe-atribuye-apagon-en-tijuana-a-un-aislador-danado-en-la-subestacion-cardenas/",
+        "_added_at": "2026-07-23T09:40:59.795032-07:00"
+      },
+      {
+        "title": "Emiten recomendaciones ante altas temperaturas en región",
+        "summary": "Autoridades sanitarias orientan a población sobre prevención de daños por calor.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179474_emiten_recomendaciones_para_prevenir_danos_por_altas_temperaturas",
+        "_added_at": "2026-07-23T09:40:59.795032-07:00"
+      },
       {
         "title": "Sacerdote condenado por violación agravada",
         "summary": "Tribunales condenan a clérigo acusado de delito sexual agravado contra menor.",
@@ -144,5 +186,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-23T07:24:16.473449-07:00"
+  "last_updated": "2026-07-23T09:40:59.795032-07:00"
 }
