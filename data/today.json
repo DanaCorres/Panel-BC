@@ -1,8 +1,29 @@
 {
   "date": "2026-07-23",
-  "run_count": 5,
+  "run_count": 6,
   "notes": {
     "seguridad": [
+      {
+        "title": "EU sanciona a 50 personas vinculadas al CJNG",
+        "summary": "Estados Unidos impone sanciones a más de 50 integrantes del CJNG, incluyendo allegados a El Mencho.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/eu-sanciona-a-mas-de-50-vinculados-al-cjng-entre-ellas-a-el-pelon-hijastro-de-el-mencho/?utm_source=rss&utm_medium=rss&utm_campaign=eu-sanciona-a-mas-de-50-vinculados-al-cjng-entre-ellas-a-el-pelon-hijastro-de-el-mencho",
+        "_added_at": "2026-07-23T15:10:25.866160-07:00"
+      },
+      {
+        "title": "Mexicali refuerza policía con armamento valuado en 19.5 mdp",
+        "summary": "Corporación municipal recibe nuevo equipamiento táctico para incrementar capacidad operativa.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/refuerzan-a-la-policia-de-mexicali-con-nuevo-armamento-valuado-en-19-5-mdp/?utm_source=rss&utm_medium=rss&utm_campaign=refuerzan-a-la-policia-de-mexicali-con-nuevo-armamento-valuado-en-19-5-mdp",
+        "_added_at": "2026-07-23T15:10:25.866160-07:00"
+      },
+      {
+        "title": "Hombre asesinado en estacionamiento de OXXO",
+        "summary": "Adulto mayor es atacado mortalmente en Jardín Dorado durante asalto en comercio.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97136/Asesinan-a-un-hombre-de-la-tercera-edad-en-el-estacionamiento-de-un-OXXO-en-Jard%C3%ADn-Dorado",
+        "_added_at": "2026-07-23T15:10:25.866160-07:00"
+      },
       {
         "title": "Capturan a Manuel Garibay Espinoza en Ensenada",
         "summary": "Autoridades capturan a presunto delincuente en Ensenada tras operativo de seguridad.",
@@ -51,30 +72,30 @@
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/07/restos-humanos-localizados-en-miguel-aleman-pertenecen-a-juan-antonio-desaparecido-en-2023/",
         "_added_at": "2026-07-23T07:24:16.473449-07:00"
-      },
-      {
-        "title": "Cuatro detenidos por extorsión; uno era agente estatal",
-        "summary": "Autoridades capturan a cuatro personas acusadas de extorsión en Tijuana, uno de ellos agente de Ensenada.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/cuatro-detenidos-por-extorsion-en-tijuana-uno-es-agente-de-ensenada/",
-        "_added_at": "2026-07-23T01:42:02.661285-07:00"
-      },
-      {
-        "title": "Sicario del CJNG capturado en Tecate",
-        "summary": "Fuerzas de seguridad detienen a \"El Vampi\", presunto sicario de Cartel Jalisco Nueva Generación.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/en-tecate-cae-el-vampi-sicario-del-cjng/",
-        "_added_at": "2026-07-23T01:42:02.661285-07:00"
-      },
-      {
-        "title": "Restos de desaparecido en 2023 identificados en Tijuana",
-        "summary": "Hallazgo de restos humanos en Miguel Alemán corresponden a Juan Antonio Leal, desaparecido hace tres años.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/179458_celula_de_busqueda_localiza_restos_de_juan_antonio_leal_desaparecido_en_2023",
-        "_added_at": "2026-07-23T01:42:02.661285-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Ex gobernadores panistas exigen liberación de Ruffo",
+        "summary": "Funcionarios del PAN reclaman a dirigencia nacional por caso de exgobernador detenido.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/ex-gobernadores-del-pan-exigiran-liberacion-de-ruffo-reprochan-a-dirigencia-nacional-panista/?utm_source=rss&utm_medium=rss&utm_campaign=ex-gobernadores-del-pan-exigiran-liberacion-de-ruffo-reprochan-a-dirigencia-nacional-panista",
+        "_added_at": "2026-07-23T15:10:25.866160-07:00"
+      },
+      {
+        "title": "Sheinbaum reporta avances en revisión del T-MEC",
+        "summary": "Presidenta informa progreso en negociaciones comerciales con representante estadounidense.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/sheinbaum-reporta-avances-con-greer-en-revision-del-t-mec/?utm_source=rss&utm_medium=rss&utm_campaign=sheinbaum-reporta-avances-con-greer-en-revision-del-t-mec",
+        "_added_at": "2026-07-23T15:10:25.866160-07:00"
+      },
+      {
+        "title": "Intenso debate en Senado por caso Ruffo versus Rocha",
+        "summary": "Legisladores discuten asuntos legales y políticos entre exfuncionarios de Baja California.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/politica/179494_encendido_debate_en_el_senado_por_el_caso_ruffo_vs_rocha",
+        "_added_at": "2026-07-23T15:10:25.866160-07:00"
+      },
       {
         "title": "Ernesto Ruffo vinculado a proceso por huachicol y delincuencia organizada",
         "summary": "Exgobernador y siete coimputados son vinculados a proceso con prisión preventiva.",
@@ -123,16 +144,30 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/179471_hija_de_ruffo_pide_proteccion_a_la_embajada_de_eu_en_mexico",
         "_added_at": "2026-07-23T01:42:02.661285-07:00"
-      },
-      {
-        "title": "Inquieta posible alianza entre Movimiento Ciudadano y PT",
-        "summary": "Analistas expresan preocupación sobre potencial coalición política entre ambas fuerzas electorales.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/afn_politico/179465_inquieta_una_eventual_alianza_entre_mc_y_el_partido_del_trabajo",
-        "_added_at": "2026-07-23T01:42:02.661285-07:00"
       }
     ],
     "economia": [
+      {
+        "title": "EU impone aranceles de 10% a México por trabajo forzoso",
+        "summary": "Estados Unidos aplica medidas arancelarias a México y 59 naciones por presuntas prácticas laborales.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/eu-impone-aranceles-de-10-a-mexico-y-otras-59-economias-por-trabajo-forzoso/?utm_source=rss&utm_medium=rss&utm_campaign=eu-impone-aranceles-de-10-a-mexico-y-otras-59-economias-por-trabajo-forzoso",
+        "_added_at": "2026-07-23T15:10:25.866160-07:00"
+      },
+      {
+        "title": "Baja California retrocede al lugar 27 en ranking IMCO",
+        "summary": "Entidad cae en posición nacional de competitividad económica según instituto especializado.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179495_retrocedio_baja_california_al_lugar_27_en_el_ranking_nacional_del_imco",
+        "_added_at": "2026-07-23T15:10:25.866160-07:00"
+      },
+      {
+        "title": "Peso mantiene resiliencia frente al dólar",
+        "summary": "Analistas destacan fortaleza de moneda mexicana en contexto económico actual.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97130/Destacan-resiliencia-del-peso-frente-al-d%C3%B3lar",
+        "_added_at": "2026-07-23T15:10:25.866160-07:00"
+      },
       {
         "title": "Refuerzan policía de Mexicali con armamento por 19.5 mdp",
         "summary": "Autoridades dotan a corporación con nuevo equipo de seguridad valorado en millones.",
@@ -181,23 +216,30 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/empresarial/179472_inflacion_de_bc_llega_a_2_13_en_la_primera_quincena_de_julio",
         "_added_at": "2026-07-23T07:24:16.473449-07:00"
-      },
-      {
-        "title": "Toyota aclaración sobre retirada gradual de México",
-        "summary": "Automotriz aclara que salida de operaciones hacia EU será progresiva, no inmediata como Trump anunció.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/trump-celebra-salida-de-toyota-de-mexico-rumbo-a-eu-automotriz-aclara-que-sera-gradual/",
-        "_added_at": "2026-07-23T01:42:02.661285-07:00"
-      },
-      {
-        "title": "Valle de Guadalupe muestra recuperación económica",
-        "summary": "Cámara de Comercio reporta mejoría financiera en la región vinícola durante presente año.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179464_valle_de_guadalupe_registra_recuperacion_economica_este_ano_cce_tijuana",
-        "_added_at": "2026-07-23T01:42:02.661285-07:00"
       }
     ],
     "sociedad": [
+      {
+        "title": "Viudas de policías protestan por retiro de apoyos",
+        "summary": "Familias de elementos fallecidos demandan reinicio de beneficios económicos en sindicatura.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/viudas-de-policias-protestan-por-retiro-de-apoyo-economico-de-sindicatura/?utm_source=rss&utm_medium=rss&utm_campaign=viudas-de-policias-protestan-por-retiro-de-apoyo-economico-de-sindicatura",
+        "_added_at": "2026-07-23T15:10:25.866160-07:00"
+      },
+      {
+        "title": "Protección Civil alerta por altas temperaturas",
+        "summary": "Autoridades advierten sobre condiciones climáticas extremas en zona de Tijuana.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179496_alerta_proteccion_civil_por_altas_temperaturas_en_tijuana",
+        "_added_at": "2026-07-23T15:10:25.866160-07:00"
+      },
+      {
+        "title": "Retiran 30 toneladas de basura en San Antonio",
+        "summary": "Operativo de limpieza recolecta residuos acumulados en colonia local.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/municipios/179497_retiran_30_toneladas_de_basura_en_san_antonio_de_los_buenos",
+        "_added_at": "2026-07-23T15:10:25.866160-07:00"
+      },
       {
         "title": "Trabajadores irrumpen en conferencia exigiendo aumentos salariales",
         "summary": "Empleados interrumpen evento oficial para demandar mejores condiciones laborales.",
@@ -246,29 +288,8 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/179463_anuncian_retiro_de_apoyo_provisional_a_viudas_de_policias_para_evitar_malinterpretaciones",
         "_added_at": "2026-07-23T04:17:26.060809-07:00"
-      },
-      {
-        "title": "Retiran apoyo provisional a viudas de policías",
-        "summary": "Autoridades suspenden ayuda a viudas de elementos caídos tras conflicto con manifestantes.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/retiraran-apoyo-a-viudas-de-policias-tras-desacuerdo-entre-sindicatura-y-manifestantes/",
-        "_added_at": "2026-07-23T01:42:02.661285-07:00"
-      },
-      {
-        "title": "Treinta familias participan en proceso de adopción DIF",
-        "summary": "Instituto estatal promueve adopciones con participación significativa de familias interesadas.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179467_al_menos_30_familias_participan_en_proceso_de_adopcion_de_ninos_del_dif_estatal",
-        "_added_at": "2026-07-23T01:42:02.661285-07:00"
-      },
-      {
-        "title": "Servicio de agua al 90% durante altas temperaturas",
-        "summary": "Autoridades restablecen suministro de agua en Tijuana ante crisis por calor extremo.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97094/Se-establece-el-servicio-del-agua-al-90%25-en-Tijuana-derivado-de-las-altas-temperaturas",
-        "_added_at": "2026-07-23T01:42:02.661285-07:00"
       }
     ]
   },
-  "last_updated": "2026-07-23T12:37:57.760712-07:00"
+  "last_updated": "2026-07-23T15:10:25.866160-07:00"
 }
