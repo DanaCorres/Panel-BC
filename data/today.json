@@ -1,8 +1,22 @@
 {
   "date": "2026-07-23",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Exfiscal vinculado a proceso por huachicol y crimen organizado",
+        "summary": "Ernesto Ruffo y siete coimputados fueron vinculados a proceso por delitos de huachicol fiscal y delincuencia organizada.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/ernesto-ruffo-y-siete-coimputados-fueron-vinculados-a-proceso-por-huachicol-fiscal-y-delincuencia-organizada/",
+        "_added_at": "2026-07-23T07:24:16.473449-07:00"
+      },
+      {
+        "title": "Identifican restos de desaparecido en 2023 en Miguel Alemán",
+        "summary": "Restos humanos hallados en Miguel Alemán fueron identificados como Juan Antonio, desaparecido hace tres años.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/restos-humanos-localizados-en-miguel-aleman-pertenecen-a-juan-antonio-desaparecido-en-2023/",
+        "_added_at": "2026-07-23T07:24:16.473449-07:00"
+      },
       {
         "title": "Cuatro detenidos por extorsión; uno era agente estatal",
         "summary": "Autoridades capturan a cuatro personas acusadas de extorsión en Tijuana, uno de ellos agente de Ensenada.",
@@ -64,6 +78,20 @@
     ],
     "economia": [
       {
+        "title": "Exportaciones de maquiladoras caen 9.6% en Baja California",
+        "summary": "Las exportaciones del sector maquila registraron una caída de casi 10% en período reciente.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/empresarial/179473_caen_9_6_las_exportaciones_de_maquiladoras_en_bc",
+        "_added_at": "2026-07-23T07:24:16.473449-07:00"
+      },
+      {
+        "title": "Inflación en BC alcanza 2.13% en primera quincena de julio",
+        "summary": "Índice inflacionario en Baja California se ubicó en 2.13% durante la primera mitad del mes.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/empresarial/179472_inflacion_de_bc_llega_a_2_13_en_la_primera_quincena_de_julio",
+        "_added_at": "2026-07-23T07:24:16.473449-07:00"
+      },
+      {
         "title": "Toyota aclaración sobre retirada gradual de México",
         "summary": "Automotriz aclara que salida de operaciones hacia EU será progresiva, no inmediata como Trump anunció.",
         "source": "ZETA Tijuana",
@@ -116,5 +144,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-23T04:17:26.060809-07:00"
+  "last_updated": "2026-07-23T07:24:16.473449-07:00"
 }
