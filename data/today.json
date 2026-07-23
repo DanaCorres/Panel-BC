@@ -1,6 +1,6 @@
 {
   "date": "2026-07-23",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
       {
@@ -33,6 +33,13 @@
       }
     ],
     "politica": [
+      {
+        "title": "Diputado denuncia aplicación selectiva de la ley",
+        "summary": "Legislador exhibe en tribuna la falta de equidad en la aplicación de normas legales en la entidad.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/nacionales/179469_denuncia_max_garcia_la_aplicacion_selectiva_de_la_ley_exhibe_cartel_en_tribuna",
+        "_added_at": "2026-07-23T04:17:26.060809-07:00"
+      },
       {
         "title": "Alcalde exige revisión de juez que frenó captura de Ruffo",
         "summary": "Autoridad municipal demanda al Tribunal de Disciplina investigar a magistrado por obstaculizar proceso contra Ruffo.",
@@ -73,6 +80,20 @@
     ],
     "sociedad": [
       {
+        "title": "Sacerdote condenado por violación agravada",
+        "summary": "Tribunales condenan a clérigo acusado de delito sexual agravado contra menor.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/condenan-a-sacerdote-acusado-de-violacion-impropia-agravada/",
+        "_added_at": "2026-07-23T04:17:26.060809-07:00"
+      },
+      {
+        "title": "Retiran apoyo a viudas de policías tras desacuerdo",
+        "summary": "Sindicatura anuncia suspensión de asistencia provisional a viudas de elementos caídos por malinterpretaciones.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179463_anuncian_retiro_de_apoyo_provisional_a_viudas_de_policias_para_evitar_malinterpretaciones",
+        "_added_at": "2026-07-23T04:17:26.060809-07:00"
+      },
+      {
         "title": "Retiran apoyo provisional a viudas de policías",
         "summary": "Autoridades suspenden ayuda a viudas de elementos caídos tras conflicto con manifestantes.",
         "source": "ZETA Tijuana",
@@ -95,5 +116,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-23T01:42:02.661285-07:00"
+  "last_updated": "2026-07-23T04:17:26.060809-07:00"
 }
