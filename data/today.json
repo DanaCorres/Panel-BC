@@ -1,8 +1,29 @@
 {
   "date": "2026-07-22",
-  "run_count": 6,
+  "run_count": 7,
   "notes": {
     "seguridad": [
+      {
+        "title": "Identifican restos de desaparecido en Miguel Alemán",
+        "summary": "Localizan restos de Juan Antonio Leal, desaparecido desde 2023 en zona de Miguel Alemán en Tijuana.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/restos-humanos-localizados-en-miguel-aleman-pertenecen-a-juan-antonio-desaparecido-en-2023/?utm_source=rss&utm_medium=rss&utm_campaign=restos-humanos-localizados-en-miguel-aleman-pertenecen-a-juan-antonio-desaparecido-en-2023",
+        "_added_at": "2026-07-22T20:35:55.783343-07:00"
+      },
+      {
+        "title": "Detienen cuatro hombres por extorsión en Tijuana",
+        "summary": "Capturan a cuatro individuos acusados de extorsión, uno de ellos agente estatal, en Baja California.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/179466_detienen_a_cuatro_hombres_por_extorsion_uno_de_ellos_es_agente_estatal",
+        "_added_at": "2026-07-22T20:35:55.783343-07:00"
+      },
+      {
+        "title": "Localizan cuerpo calcinado en vehículo en La Morita",
+        "summary": "Encuentran restos carbonizados dentro de automóvil abandonado en La Morita, Tijuana.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97105/Localizan-cuerpo-calcinado-dentro-de-un-veh%C3%ADculo-en-La-Morita",
+        "_added_at": "2026-07-22T20:35:55.783343-07:00"
+      },
       {
         "title": "Rescatan privado de la libertad en Playas; detienen a siete",
         "summary": "Liberan a hombre secuestrado en Playas de Tijuana. Autoridades capturan a siete presuntos responsables, cinco de ellos menores de edad.",
@@ -51,30 +72,37 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/seguridad/179437_dejan_un_cadaver_junto_a_una_narcomanta_en_tecate",
         "_added_at": "2026-07-22T09:27:03.630585-07:00"
-      },
-      {
-        "title": "Tres lesionados en accidente vía rápida Tijuana",
-        "summary": "Reportan accidente con tres personas lesionadas en la vía rápida de Tijuana.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/reportan-accidente-en-la-via-rapida-hay-tres-lesionados/",
-        "_added_at": "2026-07-22T09:27:03.630585-07:00"
-      },
-      {
-        "title": "Auto incendiado en colonia Altiplano sin víctimas",
-        "summary": "Vehículo fue consumido por fuego en zona de Altiplano sin reportar heridos en el incidente.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/179426_auto_incendiado_a_la_altura_de_la_colonia_altiplano_no_hubo_heridos",
-        "_added_at": "2026-07-22T09:27:03.630585-07:00"
-      },
-      {
-        "title": "Fuerte incendio destruye recicladora en Mariano Matamoros",
-        "summary": "Bomberos controlan incendio en fábrica de plásticos en Ejido Matamoros; fuego alcanza vehículos estacionados.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179434_fuerte_incendio_destruyo_una_recicladora_de_plastico_y_un_salon_de_eventos_en_el_mariano_matamoros",
-        "_added_at": "2026-07-22T07:15:24.372730-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Alcalde exige revisar a juez que frenó captura de Ruffo",
+        "summary": "Autoridad local solicita investigación al Tribunal de Disciplina sobre magistrado que detuvo orden de aprehensión.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/alcalde-exige-al-tribunal-de-disciplina-revisar-a-juez-que-freno-captura-de-ruffo/?utm_source=rss&utm_medium=rss&utm_campaign=alcalde-exige-al-tribunal-de-disciplina-revisar-a-juez-que-freno-captura-de-ruffo",
+        "_added_at": "2026-07-22T20:35:55.783343-07:00"
+      },
+      {
+        "title": "Inteligencia Financiera bloquea cuentas a Ruffo Appel",
+        "summary": "Autoridades federales congelan cuentas bancarias del exgobernador por investigación de huachicol.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/inteligencia-financiera-bloqueo-cuentas-bancarias-a-ruffo-appel/?utm_source=rss&utm_medium=rss&utm_campaign=inteligencia-financiera-bloqueo-cuentas-bancarias-a-ruffo-appel",
+        "_added_at": "2026-07-22T20:35:55.783343-07:00"
+      },
+      {
+        "title": "Hija de Ruffo pide protección a Estados Unidos",
+        "summary": "Familiar del exgobernador solicita asilo estadounidense argumentando persecución por imputaciones fiscales.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/hija-de-ruffo-pide-a-eu-proteccion-para-su-padre-imputado-por-huachicol-fiscal/?utm_source=rss&utm_medium=rss&utm_campaign=hija-de-ruffo-pide-a-eu-proteccion-para-su-padre-imputado-por-huachicol-fiscal",
+        "_added_at": "2026-07-22T20:35:55.783343-07:00"
+      },
+      {
+        "title": "Inquieta alianza potencial entre Movimiento Ciudadano y PT",
+        "summary": "Genera preocupación en círculos políticos posible coalición entre MC y Partido del Trabajo.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/afn_politico/179465_inquieta_una_eventual_alianza_entre_mc_y_el_partido_del_trabajo",
+        "_added_at": "2026-07-22T20:35:55.783343-07:00"
+      },
       {
         "title": "Martínez Veloz denuncia \"extracción tipo Venezuela\" contra Marina",
         "summary": "Legislador revela supuesto plan de Estados Unidos para extraer a Marina del Pilar Ávila comparándolo con métodos venezolanos.",
@@ -116,23 +144,23 @@
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/07/fgr-descarta-persecucion-politica-contra-ruffo-y-sostiene-solidez-del-caso/",
         "_added_at": "2026-07-22T01:40:47.691900-07:00"
-      },
-      {
-        "title": "Detención de Ruffo reactiva oposición en BC",
-        "summary": "Caso del político sale del letargo a los grupos opositores de la región.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/afn_politico/179431_la_detencion_de_ruffo_saca_de_su_letargo_a_la_oposicion",
-        "_added_at": "2026-07-22T01:40:47.691900-07:00"
-      },
-      {
-        "title": "Dante Delgado anuncia recuperación y retorno político",
-        "summary": "Líder afirma haber vencido cáncer y reanuda actividades políticas en Baja California.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179429_dante_delgado_afirma_que_vencio_al_cancer_y_regresa_a_la_actividad_politica",
-        "_added_at": "2026-07-22T01:40:47.691900-07:00"
       }
     ],
     "economia": [
+      {
+        "title": "Toyota aclara gradualidad de salida de México a EU",
+        "summary": "Automotriz desmente relato de Trump sobre partida inmediata; proceso será progresivo.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/trump-celebra-salida-de-toyota-de-mexico-rumbo-a-eu-automotriz-aclara-que-sera-gradual/?utm_source=rss&utm_medium=rss&utm_campaign=trump-celebra-salida-de-toyota-de-mexico-rumbo-a-eu-automotriz-aclara-que-sera-gradual",
+        "_added_at": "2026-07-22T20:35:55.783343-07:00"
+      },
+      {
+        "title": "Valle de Guadalupe reporta recuperación económica",
+        "summary": "Cámara de Comercio Tijuana confirma crecimiento económico en región vinícola durante año.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179464_valle_de_guadalupe_registra_recuperacion_economica_este_ano_cce_tijuana",
+        "_added_at": "2026-07-22T20:35:55.783343-07:00"
+      },
       {
         "title": "Servicio de agua alcanza 90% en Tijuana por altas temperaturas",
         "summary": "Suministro hídrico normalizado mayormente tras afectaciones por calor extremo que impactó distribución ciudadana.",
@@ -178,6 +206,34 @@
     ],
     "sociedad": [
       {
+        "title": "Retiran apoyo a viudas de policías por desacuerdo",
+        "summary": "Sindicatura suspende asistencia a familias de elementos fallecidos tras conflicto con manifestantes.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/retiraran-apoyo-a-viudas-de-policias-tras-desacuerdo-entre-sindicatura-y-manifestantes/?utm_source=rss&utm_medium=rss&utm_campaign=retiraran-apoyo-a-viudas-de-policias-tras-desacuerdo-entre-sindicatura-y-manifestantes",
+        "_added_at": "2026-07-22T20:35:55.783343-07:00"
+      },
+      {
+        "title": "30 familias participan en proceso de adopción estatal",
+        "summary": "DIF Estatal avanza con trámites de adopción involucrando más de treinta familias interesadas.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179467_al_menos_30_familias_participan_en_proceso_de_adopcion_de_ninos_del_dif_estatal",
+        "_added_at": "2026-07-22T20:35:55.783343-07:00"
+      },
+      {
+        "title": "Apoyan control de dispositivos móviles en educación básica",
+        "summary": "Funcionarios respaldan medidas restrictivas sobre uso de celulares en escuelas primarias.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179459_apoya_alfredo_alvarez_control_de_dispositivos_moviles_en_educacion_basica",
+        "_added_at": "2026-07-22T20:35:55.783343-07:00"
+      },
+      {
+        "title": "Fiscalía deja animales en inmueble; se cuestiona negligencia",
+        "summary": "Exfiscal critica abandono de mascotas en propiedad asegurada, incluyendo muerte de canino.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97103/Fiscal%C3%ADa-deja-animales-en-inmueble-asegurado;-exfiscal-cuestiona-abandono-y-muerte-de-un-canino",
+        "_added_at": "2026-07-22T20:35:55.783343-07:00"
+      },
+      {
         "title": "Recuperan espacios en Zona Norte y Centro de Tijuana",
         "summary": "Autoridades concentran esfuerzos en reordenamiento y limpieza de zonas deterioradas en puntos clave de la ciudad.",
         "source": "ZETA Tijuana",
@@ -218,36 +274,8 @@
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/07/concentran-recuperacion-de-espacios-en-zona-norte-y-centro-de-tijuana/?utm_source=rss&utm_medium=rss&utm_campaign=concentran-recuperacion-de-espacios-en-zona-norte-y-centro-de-tijuana",
         "_added_at": "2026-07-22T12:38:11.228262-07:00"
-      },
-      {
-        "title": "Presentan programa \"Pedagogía del Despertar\"",
-        "summary": "Nuevo programa educativo presentado para comunidades de Baja California.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/comunidad/179442_presentan_el_programa_pedagogia_del_despertar",
-        "_added_at": "2026-07-22T12:38:11.228262-07:00"
-      },
-      {
-        "title": "Incendio en fábrica de Ejido Matamoros controlado",
-        "summary": "Bomberos sofocaron fuego en instalación industrial ubicada en zona de Matamoros en Tijuana.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/bomberos-de-tijuana-contiene-incendio-en-fabrica-en-el-ejido-matamoros/",
-        "_added_at": "2026-07-22T09:27:03.630585-07:00"
-      },
-      {
-        "title": "Incendio destroza recicladora y salón eventos Matamoros",
-        "summary": "Fuerte incendio consume instalaciones de reciclaje y espacio de eventos en zona residencial.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179434_fuerte_incendio_destruyo_una_recicladora_de_plastico_y_un_salon_de_eventos_en_el_mariano_matamoros",
-        "_added_at": "2026-07-22T09:27:03.630585-07:00"
-      },
-      {
-        "title": "Persiste venta de incapacidades falsas a policías: denuncia Consejo",
-        "summary": "Organismo ciudadano documenta continuidad en comercio ilegal de certificados médicos para agentes.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179423_persiste_venta_de_incapacidades_medicas_a_agentes_policiacos_denuncia_consejo_ciudadano",
-        "_added_at": "2026-07-22T04:14:54.746861-07:00"
       }
     ]
   },
-  "last_updated": "2026-07-22T15:12:10.277476-07:00"
+  "last_updated": "2026-07-22T20:35:55.783343-07:00"
 }
