@@ -1,8 +1,36 @@
 {
   "date": "2026-07-24",
-  "run_count": 4,
+  "run_count": 5,
   "notes": {
     "seguridad": [
+      {
+        "title": "Hombre muere atropellado en Vía Rápida Poniente",
+        "summary": "Persona fallece tras ser arrollada en Tijuana; conductor fue detenido por las autoridades.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/muere-hombre-atropellado-sobre-la-via-rapida-poniente-conductor-fue-detenido/",
+        "_added_at": "2026-07-24T12:41:04.969471-07:00"
+      },
+      {
+        "title": "Presunto feminicidio en Mexicali tras riña",
+        "summary": "Mujer muere en enfrentamiento en Valle del Pedregal, Mexicali; investigaciones en curso.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/rina-termina-en-presunto-feminicidio-en-valle-del-pedregal-en-mexicali/",
+        "_added_at": "2026-07-24T12:41:04.969471-07:00"
+      },
+      {
+        "title": "Disparan a hombre cerca de parque en Valle de Guadalupe",
+        "summary": "Persona fallecida por disparos en Tijuana; autoridades investigan el incidente.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/disparan-y-matan-a-un-hombre-cerca-de-un-parque-en-valle-de-guadalupe/",
+        "_added_at": "2026-07-24T12:41:04.969471-07:00"
+      },
+      {
+        "title": "Detienen a tres por privación de libertad de trailero",
+        "summary": "Sujetos capturados tras obligar a conductor a cajero automático en Tijuana.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/179540_detienen_a_tres_que_llevaban_a_un_trailero_privado_de_su_libertad_a_un_cajero_automatico",
+        "_added_at": "2026-07-24T12:41:04.969471-07:00"
+      },
       {
         "title": "Tijuana y Mexicali lideran percepción de inseguridad en país",
         "summary": "Ambas ciudades de BC se mantienen entre las con mayor percepción de inseguridad a nivel nacional.",
@@ -44,30 +72,16 @@
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/07/con-informacion-de-eeuu-cae-el-kado-podcast/",
         "_added_at": "2026-07-24T01:38:07.514606-07:00"
-      },
-      {
-        "title": "Anciano asesinado en estacionamiento de Oxxo",
-        "summary": "Hombre de tercera edad muere en ataque en Jardín Dorado. Las autoridades investigan el crimen.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97136/Asesinan-a-un-hombre-de-la-tercera-edad-en-el-estacionamiento-de-un-OXXO-en-Jard%C3%ADn-Dorado",
-        "_added_at": "2026-07-24T01:38:07.514606-07:00"
-      },
-      {
-        "title": "Camión de valores se incendia en escénica",
-        "summary": "Unidad de traslado de dinero se incendia rumbo a Ensenada. Personal logra rescatar efectivo.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97151/Cami%C3%B3n-de-valores-se-incendia-en-la-carretera-esc%C3%A9nica;-trabajadores-logran-poner-a-salvo-el-dinero",
-        "_added_at": "2026-07-24T01:38:07.514606-07:00"
-      },
-      {
-        "title": "Conductor detenido tras volcar camioneta",
-        "summary": "Vehículo se incendia en bulevar 2000. Autoridades detienen al responsable del accidente.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97152/Camioneta-vuelca-y-se-incendia-en-bulevar-2000;-conductor-es-detenido",
-        "_added_at": "2026-07-24T01:38:07.514606-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Sheinbaum responde a Fox sobre defensa a Ruffo",
+        "summary": "Presidenta replica comentarios de político sobre ex gobernadora de Baja California.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/sheinbaum-responde-a-fox-no-se-vaya-a-quemar-por-defender-a-ruffo/",
+        "_added_at": "2026-07-24T12:41:04.969471-07:00"
+      },
       {
         "title": "Gobernadora se reúne con zar antidrogas de EU para reforzar cooperación",
         "summary": "Lazzeri coordina esfuerzos bilaterales con funcionario estadounidense contra narcotráfico.",
@@ -112,6 +126,27 @@
       }
     ],
     "economia": [
+      {
+        "title": "CSP descarta nuevo arancel en revisión del T-MEC",
+        "summary": "Funcionario revela posición mexicana ante exigencias estadounidenses en tratado comercial.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/csp-descarta-nuevo-arancel-y-revela-exigencias-de-eu-en-revision-del-t-mec/",
+        "_added_at": "2026-07-24T12:41:04.969471-07:00"
+      },
+      {
+        "title": "Dólar alcanza 17 pesos en casas de cambio tijuanenses",
+        "summary": "Moneda estadounidense llega a nueva barrera en operaciones de cambio local.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179536_toca_el_dolar_barrera_de_17_pesos_en_casas_de_cambio_de_tijuana",
+        "_added_at": "2026-07-24T12:41:04.969471-07:00"
+      },
+      {
+        "title": "Congreso desaprueba cuentas de Comisión Estatal del Agua",
+        "summary": "Legisladores rechazan ejercicio fiscal 2023 de la dependencia estatal.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179537_desaprueban_cuentas_del_ejercicio_2023_a_la_comision_estatal_del_agua",
+        "_added_at": "2026-07-24T12:41:04.969471-07:00"
+      },
       {
         "title": "Tecate cancela feria anual para pagar a empleados municipales",
         "summary": "Municipio prioriza nómina de burócratas suspendiendo evento tradicional.",
@@ -164,6 +199,34 @@
     ],
     "sociedad": [
       {
+        "title": "Construcción toma medidas contra calor extremo en Mexicali",
+        "summary": "Sector implementa protecciones para trabajadores por temperaturas críticas.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97147/Sector-de-la-construcci%C3%B3n-adopta-medidas-para-proteger-a-trabajadores-del-calor-en-Mexicali",
+        "_added_at": "2026-07-24T12:41:04.969471-07:00"
+      },
+      {
+        "title": "Instituto de Psiquiatría atiende celos en pareja",
+        "summary": "Dependencia proporciona 84 consultas sobre problemas emocionales en relaciones.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179539_brinda_instituto_de_psiquiatria_de_bc_84_atenciones_sobre_celos_en_la_pareja",
+        "_added_at": "2026-07-24T12:41:04.969471-07:00"
+      },
+      {
+        "title": "Feria del Libro 2026 se celebrará en Parque Morelos",
+        "summary": "Tijuana alberga evento cultural de literatura en espacio público.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179538_celebraran_la_feria_del_libro_de_tijuana_2026_en_el_parque_morelos",
+        "_added_at": "2026-07-24T12:41:04.969471-07:00"
+      },
+      {
+        "title": "Farmacias expanden consultorios ante crisis de salud pública",
+        "summary": "Comercios remedian carencias del sistema público ofreciendo servicios médicos.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/mas-farmacias-con-consultorio-por-precaria-salud-publica/",
+        "_added_at": "2026-07-24T12:41:04.969471-07:00"
+      },
+      {
         "title": "Farmacias expanden consultorios ante crisis de salud pública",
         "summary": "Comercios privados aumentan servicios médicos por deficiencias del sistema público.",
         "source": "ZETA Tijuana",
@@ -204,15 +267,8 @@
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/07/baja-california-registra-12-muertes-relacionadas-con-el-calor-en-lo-que-va-del-2026/",
         "_added_at": "2026-07-24T01:38:07.514606-07:00"
-      },
-      {
-        "title": "Marcha en Tecate exige paz y fin de violencia",
-        "summary": "Ciudadanos protestan en Tecate para pedir cese de inseguridad. Funcionarios viven con temor.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tecate/97153/Marchan-en-Tecate-para-exigir-paz-ante-el-aumento-de-la-violencia",
-        "_added_at": "2026-07-24T01:38:07.514606-07:00"
       }
     ]
   },
-  "last_updated": "2026-07-24T09:48:48.371275-07:00"
+  "last_updated": "2026-07-24T12:41:04.969471-07:00"
 }
