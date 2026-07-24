@@ -1,6 +1,6 @@
 {
   "date": "2026-07-24",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
       {
@@ -64,6 +64,20 @@
     ],
     "economia": [
       {
+        "title": "Fitch sube calificación a CESP Tijuana",
+        "summary": "Empresa de servicios recibe mejora en su nota crediticia de agencia internacional.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/empresarial/179517_fitch_sube_nota_a_cesp_tijuana_a_aamex_ratifico_credito_de_280_mdp",
+        "_added_at": "2026-07-24T07:03:03.864706-07:00"
+      },
+      {
+        "title": "Comercio mayorista de BC crece 10.1 por ciento",
+        "summary": "Ingresos del sector mayorista registran repunte significativo en el estado.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/empresarial/179516_repuntan_10_1_ingresos_del_comercio_mayorista_de_bc",
+        "_added_at": "2026-07-24T07:03:03.864706-07:00"
+      },
+      {
         "title": "T-MEC avanza con negociaciones bilaterales",
         "summary": "Sheinbaum y Greer progresan en revisión del acuerdo comercial y otros temas binacionales.",
         "source": "El Mexicano",
@@ -87,6 +101,20 @@
     ],
     "sociedad": [
       {
+        "title": "Baja California registra 12 muertes por calor",
+        "summary": "Estado contabiliza decesos asociados a temperaturas extremas en lo que va de 2026.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/baja-california-registra-12-muertes-relacionadas-con-el-calor-en-lo-que-va-del-2026/?utm_source=rss&utm_medium=rss&utm_campaign=baja-california-registra-12-muertes-relacionadas-con-el-calor-en-lo-que-va-del-2026",
+        "_added_at": "2026-07-24T07:03:03.864706-07:00"
+      },
+      {
+        "title": "Expo Emprende Violeta consolida negocios de mujeres",
+        "summary": "Evento impulsa emprendimientos femeninos con exposición de proyectos locales.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179505_realizan_la_expo_emprende_violeta_para_consolidar_negocios_de_mujeres",
+        "_added_at": "2026-07-24T07:03:03.864706-07:00"
+      },
+      {
         "title": "Funcionarios de Tecate viven con temor",
         "summary": "Regidora denuncia clima de miedo entre servidores públicos municipales.",
         "source": "AFN Tijuana",
@@ -109,5 +137,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-24T04:07:30.679475-07:00"
+  "last_updated": "2026-07-24T07:03:03.864706-07:00"
 }
