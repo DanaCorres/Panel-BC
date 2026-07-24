@@ -1,8 +1,36 @@
 {
   "date": "2026-07-24",
-  "run_count": 3,
+  "run_count": 4,
   "notes": {
     "seguridad": [
+      {
+        "title": "Tijuana y Mexicali lideran percepción de inseguridad en país",
+        "summary": "Ambas ciudades de BC se mantienen entre las con mayor percepción de inseguridad a nivel nacional.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/mexicali-y-tijuana-se-mantienen-entre-las-ciudades-con-mayor-percepcion-de-inseguridad/?utm_source=rss&utm_medium=rss&utm_campaign=mexicali-y-tijuana-se-mantienen-entre-las-ciudades-con-mayor-percepcion-de-inseguridad",
+        "_added_at": "2026-07-24T09:48:48.371275-07:00"
+      },
+      {
+        "title": "Capturan a El Kado con información de autoridades estadounidenses",
+        "summary": "Detenido presunto criminal de BC con apoyo de inteligencia de Estados Unidos.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/con-informacion-de-eeuu-cae-el-kado-podcast/?utm_source=rss&utm_medium=rss&utm_campaign=con-informacion-de-eeuu-cae-el-kado-podcast",
+        "_added_at": "2026-07-24T09:48:48.371275-07:00"
+      },
+      {
+        "title": "Asesinan adulto mayor en estacionamiento de Oxxo en Jardín Dorado",
+        "summary": "Homicidio registrado en zona comercial de Tijuana durante el estacionamiento de tienda.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/asesinan-a-hombre-de-la-tercera-edad-en-estacionamiento-de-un-oxxo-en-jardin-dorado/?utm_source=rss&utm_medium=rss&utm_campaign=asesinan-a-hombre-de-la-tercera-edad-en-estacionamiento-de-un-oxxo-en-jardin-dorado",
+        "_added_at": "2026-07-24T09:48:48.371275-07:00"
+      },
+      {
+        "title": "Velador recibe disparos en Ciudad Jardín de Tijuana",
+        "summary": "Trabajador de seguridad lesionado por arma de fuego en colonia tijuanense.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/179520_lesionan_a_balazos_a_un_velador_en_ciudad_jardin",
+        "_added_at": "2026-07-24T09:48:48.371275-07:00"
+      },
       {
         "title": "Operador del CAF capturado en Yucatán",
         "summary": "Detienen a \"El Kado\", señalado como operador de la Confederación Ajena Fronteriza en Tijuana.",
@@ -41,6 +69,27 @@
     ],
     "politica": [
       {
+        "title": "Gobernadora se reúne con zar antidrogas de EU para reforzar cooperación",
+        "summary": "Lazzeri coordina esfuerzos bilaterales con funcionario estadounidense contra narcotráfico.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/lazzeri-se-reune-con-zar-antidrogas-de-eu-para-reforzar-cooperacion/?utm_source=rss&utm_medium=rss&utm_campaign=lazzeri-se-reune-con-zar-antidrogas-de-eu-para-reforzar-cooperacion",
+        "_added_at": "2026-07-24T09:48:48.371275-07:00"
+      },
+      {
+        "title": "Congreso de BC rechaza cuenta pública 2023 de Tecate",
+        "summary": "Legislatura estatal desaprueba documentos financieros del municipio.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179530_rechaza_congreso_de_bc_la_cuenta_publica_2023_de_tecate",
+        "_added_at": "2026-07-24T09:48:48.371275-07:00"
+      },
+      {
+        "title": "PRI denuncia irregularidades de consejera del IEEBC en Mexicali",
+        "summary": "Partido presenta queja contra funcionaria que recibió beca para posgrado en extranjero.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97148/PRI-presentar%C3%A1-denuncia-contra-consejera-del-IEEBC-por-irregularidades",
+        "_added_at": "2026-07-24T09:48:48.371275-07:00"
+      },
+      {
         "title": "Ernesto Ruffo envía mensaje desde penal",
         "summary": "Ex gobernador de Baja California se comunica con su hija desde Altiplano. Dice lo llaman \"Ruffo Mandela\".",
         "source": "AFN Tijuana",
@@ -63,6 +112,20 @@
       }
     ],
     "economia": [
+      {
+        "title": "Tecate cancela feria anual para pagar a empleados municipales",
+        "summary": "Municipio prioriza nómina de burócratas suspendiendo evento tradicional.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179531_cancelan_la_feria_anual_para_pagar_a_burocratas_en_tecate",
+        "_added_at": "2026-07-24T09:48:48.371275-07:00"
+      },
+      {
+        "title": "Sector construcción en Mexicali adopta medidas contra calor extremo",
+        "summary": "Trabajadores implementan protecciones ante temperaturas peligrosas en obra.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97147/Sector-de-la-construcci%C3%B3n-adopta-medidas-para-proteger-a-trabajadores-del-calor-en-Mexicali",
+        "_added_at": "2026-07-24T09:48:48.371275-07:00"
+      },
       {
         "title": "Fitch sube calificación a CESP Tijuana",
         "summary": "Empresa de servicios recibe mejora en su nota crediticia de agencia internacional.",
@@ -101,6 +164,20 @@
     ],
     "sociedad": [
       {
+        "title": "Farmacias expanden consultorios ante crisis de salud pública",
+        "summary": "Comercios privados aumentan servicios médicos por deficiencias del sistema público.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/mas-farmacias-con-consultorio-por-precaria-salud-publica/?utm_source=rss&utm_medium=rss&utm_campaign=mas-farmacias-con-consultorio-por-precaria-salud-publica",
+        "_added_at": "2026-07-24T09:48:48.371275-07:00"
+      },
+      {
+        "title": "Reubicación de Jurisdicción Sanitaria pendiente en BC",
+        "summary": "Sector salud enfrenta atraso administrativo en reorganización de oficinas.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179519_reubicacion_de_jurisdiccion_sanitaria_tema_pendiente_del_sector_salud_amarillas",
+        "_added_at": "2026-07-24T09:48:48.371275-07:00"
+      },
+      {
         "title": "Baja California registra 12 muertes por calor",
         "summary": "Estado contabiliza decesos asociados a temperaturas extremas en lo que va de 2026.",
         "source": "ZETA Tijuana",
@@ -137,5 +214,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-24T07:03:03.864706-07:00"
+  "last_updated": "2026-07-24T09:48:48.371275-07:00"
 }
