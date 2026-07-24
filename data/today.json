@@ -1,8 +1,36 @@
 {
   "date": "2026-07-24",
-  "run_count": 5,
+  "run_count": 6,
   "notes": {
     "seguridad": [
+      {
+        "title": "Feminicidio en Mexicali tras violento ataque",
+        "summary": "Mujer asesinada en Valle del Pedregal tras ataque violento en Mexicali.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97180/Violento-ataque-contra-mujer-termina-en-feminicidio-en-Valle-del-Pedregal-en-Mexicali",
+        "_added_at": "2026-07-24T15:12:30.568625-07:00"
+      },
+      {
+        "title": "Menor en auto mata a peatón en escuela",
+        "summary": "Menor de edad atropella mortalmente a persona en Residencial Margaritas.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97179/Menor-de-edad-atropella-y-mata-a-hombre-en-Residencial-Margaritas",
+        "_added_at": "2026-07-24T15:12:30.568625-07:00"
+      },
+      {
+        "title": "Cinco prófugos capturados en Tijuana",
+        "summary": "Autoridades detienen a cinco delincuentes buscados por la justicia en Tijuana.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97178/Cayeron-cinco-pr%C3%B3fugos-de-la-ley-en-Tijuana",
+        "_added_at": "2026-07-24T15:12:30.568625-07:00"
+      },
+      {
+        "title": "Hallan cadáveres en cajuela de auto",
+        "summary": "Dos cuerpos descubiertos en vehículo abandonado en colonia Reforma.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/179545_hallan_dos_cadaveres_en_la_cajuela_de_un_vehiculo_en_la_colonia_reforma",
+        "_added_at": "2026-07-24T15:12:30.568625-07:00"
+      },
       {
         "title": "Hombre muere atropellado en Vía Rápida Poniente",
         "summary": "Persona fallece tras ser arrollada en Tijuana; conductor fue detenido por las autoridades.",
@@ -44,37 +72,30 @@
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/07/con-informacion-de-eeuu-cae-el-kado-podcast/?utm_source=rss&utm_medium=rss&utm_campaign=con-informacion-de-eeuu-cae-el-kado-podcast",
         "_added_at": "2026-07-24T09:48:48.371275-07:00"
-      },
-      {
-        "title": "Asesinan adulto mayor en estacionamiento de Oxxo en Jardín Dorado",
-        "summary": "Homicidio registrado en zona comercial de Tijuana durante el estacionamiento de tienda.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/asesinan-a-hombre-de-la-tercera-edad-en-estacionamiento-de-un-oxxo-en-jardin-dorado/?utm_source=rss&utm_medium=rss&utm_campaign=asesinan-a-hombre-de-la-tercera-edad-en-estacionamiento-de-un-oxxo-en-jardin-dorado",
-        "_added_at": "2026-07-24T09:48:48.371275-07:00"
-      },
-      {
-        "title": "Velador recibe disparos en Ciudad Jardín de Tijuana",
-        "summary": "Trabajador de seguridad lesionado por arma de fuego en colonia tijuanense.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/179520_lesionan_a_balazos_a_un_velador_en_ciudad_jardin",
-        "_added_at": "2026-07-24T09:48:48.371275-07:00"
-      },
-      {
-        "title": "Operador del CAF capturado en Yucatán",
-        "summary": "Detienen a \"El Kado\", señalado como operador de la Confederación Ajena Fronteriza en Tijuana.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/179511_detienen_a_el_kado_en_yucatan_lo_senalan_como_operador_del_caf_en_tijuana",
-        "_added_at": "2026-07-24T04:07:30.679475-07:00"
-      },
-      {
-        "title": "Operador del CAF capturado en Yucatán",
-        "summary": "Detienen a \"El Kado\", señalado como operador de la Arellano Félix en Tijuana, con información de autoridades estadounidenses.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/con-informacion-de-eeuu-cae-el-kado-podcast/",
-        "_added_at": "2026-07-24T01:38:07.514606-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Castro Trenti insta alianza de Morena",
+        "summary": "Dirigente pide consolidar alianza de Morena tras encuentro de PT con MC.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/castro-trenti-insta-a-consumar-alianza-de-morena-tras-encuentro-de-pt-con-mc/",
+        "_added_at": "2026-07-24T15:12:30.568625-07:00"
+      },
+      {
+        "title": "FGR amplía investigación por huachicol fiscal",
+        "summary": "Procuraduría extiende pesquisa a más empresas vinculadas a caso de Ruffo.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/fgr-amplia-a-nuevas-empresas-la-indagatoria-por-huachicol-fiscal-ligado-a-ruffo/",
+        "_added_at": "2026-07-24T15:12:30.568625-07:00"
+      },
+      {
+        "title": "Nuevo director toma protesta en IMDET",
+        "summary": "César Aramís González asume cargo como director del Instituto.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/cesar-aramis-gonzalez-guerrero-toma-protesta-como-director-del-imdet/",
+        "_added_at": "2026-07-24T15:12:30.568625-07:00"
+      },
       {
         "title": "Sheinbaum responde a Fox sobre defensa a Ruffo",
         "summary": "Presidenta replica comentarios de político sobre ex gobernadora de Baja California.",
@@ -199,6 +220,20 @@
     ],
     "sociedad": [
       {
+        "title": "Buscan hogar para 24 perros rescatados",
+        "summary": "APAT pide adopción responsable de animales en Tijuana.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179546_buscan_hogar_para_24_perros_rescatados_por_la_apat",
+        "_added_at": "2026-07-24T15:12:30.568625-07:00"
+      },
+      {
+        "title": "Ópera Frente al Mar en Rosarito",
+        "summary": "Evento cultural de música clásica presentado en costa de Rosarito.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/opera-frente-al-mar-en-rosarito-2/",
+        "_added_at": "2026-07-24T15:12:30.568625-07:00"
+      },
+      {
         "title": "Construcción toma medidas contra calor extremo en Mexicali",
         "summary": "Sector implementa protecciones para trabajadores por temperaturas críticas.",
         "source": "El Mexicano",
@@ -253,22 +288,8 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/179505_realizan_la_expo_emprende_violeta_para_consolidar_negocios_de_mujeres",
         "_added_at": "2026-07-24T07:03:03.864706-07:00"
-      },
-      {
-        "title": "Funcionarios de Tecate viven con temor",
-        "summary": "Regidora denuncia clima de miedo entre servidores públicos municipales.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179503_funcionarios_tecatenses_viven_con_temor_afirma_regidora",
-        "_added_at": "2026-07-24T04:07:30.679475-07:00"
-      },
-      {
-        "title": "Baja California registra 12 muertes por calor",
-        "summary": "Estado enfenta crisis de salud pública por temperaturas extremas durante 2026.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/baja-california-registra-12-muertes-relacionadas-con-el-calor-en-lo-que-va-del-2026/",
-        "_added_at": "2026-07-24T01:38:07.514606-07:00"
       }
     ]
   },
-  "last_updated": "2026-07-24T12:41:04.969471-07:00"
+  "last_updated": "2026-07-24T15:12:30.568625-07:00"
 }
