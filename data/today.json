@@ -1,8 +1,29 @@
 {
   "date": "2026-07-23",
-  "run_count": 6,
+  "run_count": 7,
   "notes": {
     "seguridad": [
+      {
+        "title": "Capturan a \"El Kado\", operador del CAF en Tijuana",
+        "summary": "Detienen en Yucatán a presunto líder delictivo que operaba tráfico de droga y violencia en Baja California.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97146/Detienen-al-%E2%80%9CKado%E2%80%9D-presunto-l%C3%ADder-delictivo-operaba-el-trasiego-de-droga-y-violencia-en-B.C.",
+        "_added_at": "2026-07-23T20:32:36.705955-07:00"
+      },
+      {
+        "title": "Embajador EU advierte contra nuevo líder del CJNG",
+        "summary": "EU promete perseguir a nuevo líder de cártel tras captura anterior, intensificando presión contra crimen organizado.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/embajador-de-eu-en-mexico-advierte-que-nuevo-lider-del-cjng-sera-llevado-ante-la-justicia/",
+        "_added_at": "2026-07-23T20:32:36.705955-07:00"
+      },
+      {
+        "title": "Se incendia unidad de valores en carretera a Ensenada",
+        "summary": "Vehículo de traslado de efectivo se quema en la Escénica entre Tijuana y Ensenada.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/179509_se_incendia_unidad_de_traslado_de_valores_en_la_escenica_rumbo_a_ensenada",
+        "_added_at": "2026-07-23T20:32:36.705955-07:00"
+      },
       {
         "title": "EU sanciona a 50 personas vinculadas al CJNG",
         "summary": "Estados Unidos impone sanciones a más de 50 integrantes del CJNG, incluyendo allegados a El Mencho.",
@@ -51,30 +72,37 @@
         "source": "El Mexicano",
         "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97122/Va-posible-asesino-a-proceso-penal-en-Playas-de-Rosarito",
         "_added_at": "2026-07-23T12:37:57.760712-07:00"
-      },
-      {
-        "title": "Aseguran propiedad de hija del Mencho en Playas Tijuana",
-        "summary": "Inmueble es decomisado a familiar de líder criminal en operación contra patrimonio delictivo.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/reaseguran-inmueble-en-playas-de-tijuana-a-hija-del-mencho/",
-        "_added_at": "2026-07-23T09:40:59.795032-07:00"
-      },
-      {
-        "title": "Exfiscal vinculado a proceso por huachicol y crimen organizado",
-        "summary": "Ernesto Ruffo y siete coimputados fueron vinculados a proceso por delitos de huachicol fiscal y delincuencia organizada.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/ernesto-ruffo-y-siete-coimputados-fueron-vinculados-a-proceso-por-huachicol-fiscal-y-delincuencia-organizada/",
-        "_added_at": "2026-07-23T07:24:16.473449-07:00"
-      },
-      {
-        "title": "Identifican restos de desaparecido en 2023 en Miguel Alemán",
-        "summary": "Restos humanos hallados en Miguel Alemán fueron identificados como Juan Antonio, desaparecido hace tres años.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/restos-humanos-localizados-en-miguel-aleman-pertenecen-a-juan-antonio-desaparecido-en-2023/",
-        "_added_at": "2026-07-23T07:24:16.473449-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "PAN exige separación de Marina del Pilar del gobierno BC",
+        "summary": "Panistas demandan juicio político y remoción inmediata de gobernadora por presuntas irregularidades.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179500_pan_exige_juicio_politico_y_separacion_del_cargo_de_marina_del_pilar",
+        "_added_at": "2026-07-23T20:32:36.705955-07:00"
+      },
+      {
+        "title": "PRI pide remover consejera del IEE por conflicto de interés",
+        "summary": "Partido denuncia que consejera electoral recibió beca del gobierno, violando normas de imparcialidad.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97148/PRI-presentar%C3%A1-denuncia-contra-consejera-del-IEEBC-por-irregularidades",
+        "_added_at": "2026-07-23T20:32:36.705955-07:00"
+      },
+      {
+        "title": "Greer y Sheinbaum avanzan negociación del T-MEC",
+        "summary": "México y EU pactan cuarta ronda de revisión del tratado comercial para septiembre en Washington.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/greer-y-ebrard-pactan-cuarta-ronda-del-t-mec-en-washington-para-septiembre/",
+        "_added_at": "2026-07-23T20:32:36.705955-07:00"
+      },
+      {
+        "title": "Ruffo envía mensaje desde penal a través de su hija",
+        "summary": "Ex gobernador de BC cumple condena en Altiplano y se emociona al comunicarse con familia.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/afn_politico/179506_ruffo_no_esta_devastado_dice_gomez_mont_tras_extenuante_audiencia",
+        "_added_at": "2026-07-23T20:32:36.705955-07:00"
+      },
       {
         "title": "Ex gobernadores panistas exigen liberación de Ruffo",
         "summary": "Funcionarios del PAN reclaman a dirigencia nacional por caso de exgobernador detenido.",
@@ -116,37 +144,30 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/179487_de_hoyos_critica_la_reunion_de_dante_delgado_con_bonilla",
         "_added_at": "2026-07-23T12:37:57.760712-07:00"
-      },
-      {
-        "title": "Gabinete niega bloqueo de cuentas a Verónica Ruffo",
-        "summary": "Autoridades desmienten cierre de redes sociales a hija de Ernesto Ruffo tras sus denuncias.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/gabinete-de-seguridad-niega-bloqueo-de-cuentas-de-veronica-ruffo/",
-        "_added_at": "2026-07-23T09:40:59.795032-07:00"
-      },
-      {
-        "title": "Diputado denuncia aplicación selectiva de la ley",
-        "summary": "Legislador exhibe en tribuna la falta de equidad en la aplicación de normas legales en la entidad.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/nacionales/179469_denuncia_max_garcia_la_aplicacion_selectiva_de_la_ley_exhibe_cartel_en_tribuna",
-        "_added_at": "2026-07-23T04:17:26.060809-07:00"
-      },
-      {
-        "title": "Alcalde exige revisión de juez que frenó captura de Ruffo",
-        "summary": "Autoridad municipal demanda al Tribunal de Disciplina investigar a magistrado por obstaculizar proceso contra Ruffo.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/alcalde-exige-al-tribunal-de-disciplina-revisar-a-juez-que-freno-captura-de-ruffo/",
-        "_added_at": "2026-07-23T01:42:02.661285-07:00"
-      },
-      {
-        "title": "Hija de Ruffo pide protección a embajada estadounidense",
-        "summary": "Familia de Ruffo solicita asilo en EU argumentando persecución por cargos de huachicol fiscal.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179471_hija_de_ruffo_pide_proteccion_a_la_embajada_de_eu_en_mexico",
-        "_added_at": "2026-07-23T01:42:02.661285-07:00"
       }
     ],
     "economia": [
+      {
+        "title": "COFEPRIS descarta parásito en lechugas de Taylor Farms",
+        "summary": "Autoridad sanitaria mexicana rechaza acusación de FDA sobre contaminación en productos agrícolas.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/cofepris-descarta-parasito-en-lechugas-de-taylor-farms-mientras-fda-acusa-a-mexico/",
+        "_added_at": "2026-07-23T20:32:36.705955-07:00"
+      },
+      {
+        "title": "Construcción adopta medidas contra calor extremo en Mexicali",
+        "summary": "Sector implementa protecciones para trabajadores ante temperaturas peligrosas en la región.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97147/Sector-de-la-construcci%C3%B3n-adopta-medidas-para-proteger-a-trabajadores-del-calor-en-Mexicali",
+        "_added_at": "2026-07-23T20:32:36.705955-07:00"
+      },
+      {
+        "title": "Arquitectos esperan nuevo reglamento de edificaciones",
+        "summary": "Gremio en Mexicali aguarda publicación de normas actualizadas para construcción.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179510_arquitectos_de_mexicali_esperan_publicacion_de_nuevo_reglamento_de_edificaciones",
+        "_added_at": "2026-07-23T20:32:36.705955-07:00"
+      },
       {
         "title": "EU impone aranceles de 10% a México por trabajo forzoso",
         "summary": "Estados Unidos aplica medidas arancelarias a México y 59 naciones por presuntas prácticas laborales.",
@@ -195,30 +216,37 @@
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/07/inflacion-anual-desacelera-a-3-10-en-primera-quincena-de-julio/",
         "_added_at": "2026-07-23T09:40:59.795032-07:00"
-      },
-      {
-        "title": "BC registra crecimiento de empresas certificadas IMMEX",
-        "summary": "Tijuana concentra mayoría del crecimiento en compañías maquiladoras acreditadas.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Estatal/97095/Registra-BC-crecimiento-en-empresas-IMMMEX",
-        "_added_at": "2026-07-23T09:40:59.795032-07:00"
-      },
-      {
-        "title": "Exportaciones de maquiladoras caen 9.6% en Baja California",
-        "summary": "Las exportaciones del sector maquila registraron una caída de casi 10% en período reciente.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/empresarial/179473_caen_9_6_las_exportaciones_de_maquiladoras_en_bc",
-        "_added_at": "2026-07-23T07:24:16.473449-07:00"
-      },
-      {
-        "title": "Inflación en BC alcanza 2.13% en primera quincena de julio",
-        "summary": "Índice inflacionario en Baja California se ubicó en 2.13% durante la primera mitad del mes.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/empresarial/179472_inflacion_de_bc_llega_a_2_13_en_la_primera_quincena_de_julio",
-        "_added_at": "2026-07-23T07:24:16.473449-07:00"
       }
     ],
     "sociedad": [
+      {
+        "title": "Doce muertes por calor registradas en BC durante 2026",
+        "summary": "Estado reporta víctimas fatales relacionadas con temperaturas extremas en primer semestre.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/baja-california-registra-12-muertes-relacionadas-con-el-calor-en-lo-que-va-del-2026/",
+        "_added_at": "2026-07-23T20:32:36.705955-07:00"
+      },
+      {
+        "title": "Centro comunitario abandona habitantes de La Libertad",
+        "summary": "Instalación en Tijuana permanece en deterioro mientras autoridades desatienden peticiones.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/en-el-abandono-centro-comunitario-de-la-libertad-burgueno-desaira-peticion/",
+        "_added_at": "2026-07-23T20:32:36.705955-07:00"
+      },
+      {
+        "title": "Expo Emprende Violeta fortalece negocios de mujeres",
+        "summary": "Evento busca consolidar emprendimientos y actividades empresariales de emprendedoras en BC.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179505_realizan_la_expo_emprende_violeta_para_consolidar_negocios_de_mujeres",
+        "_added_at": "2026-07-23T20:32:36.705955-07:00"
+      },
+      {
+        "title": "Rescatan diez perros en abandono en Mexicali",
+        "summary": "FGE interviene en caso de animales maltratados y recupera mascotas en situación crítica.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97145/Rescate-FGE-a-10-perros-en-estado-de-abandono-en-Mexicali",
+        "_added_at": "2026-07-23T20:32:36.705955-07:00"
+      },
       {
         "title": "Viudas de policías protestan por retiro de apoyos",
         "summary": "Familias de elementos fallecidos demandan reinicio de beneficios económicos en sindicatura.",
@@ -260,36 +288,8 @@
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/07/cfe-atribuye-apagon-en-tijuana-a-un-aislador-danado-en-la-subestacion-cardenas/?utm_source=rss&utm_medium=rss&utm_campaign=cfe-atribuye-apagon-en-tijuana-a-un-aislador-danado-en-la-subestacion-cardenas",
         "_added_at": "2026-07-23T12:37:57.760712-07:00"
-      },
-      {
-        "title": "Apagón en Tijuana causado por falla en subestación Cárdenas",
-        "summary": "CFE reporta corte de energía por aislador dañado en infraestructura eléctrica.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/cfe-atribuye-apagon-en-tijuana-a-un-aislador-danado-en-la-subestacion-cardenas/",
-        "_added_at": "2026-07-23T09:40:59.795032-07:00"
-      },
-      {
-        "title": "Emiten recomendaciones ante altas temperaturas en región",
-        "summary": "Autoridades sanitarias orientan a población sobre prevención de daños por calor.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179474_emiten_recomendaciones_para_prevenir_danos_por_altas_temperaturas",
-        "_added_at": "2026-07-23T09:40:59.795032-07:00"
-      },
-      {
-        "title": "Sacerdote condenado por violación agravada",
-        "summary": "Tribunales condenan a clérigo acusado de delito sexual agravado contra menor.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/condenan-a-sacerdote-acusado-de-violacion-impropia-agravada/",
-        "_added_at": "2026-07-23T04:17:26.060809-07:00"
-      },
-      {
-        "title": "Retiran apoyo a viudas de policías tras desacuerdo",
-        "summary": "Sindicatura anuncia suspensión de asistencia provisional a viudas de elementos caídos por malinterpretaciones.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179463_anuncian_retiro_de_apoyo_provisional_a_viudas_de_policias_para_evitar_malinterpretaciones",
-        "_added_at": "2026-07-23T04:17:26.060809-07:00"
       }
     ]
   },
-  "last_updated": "2026-07-23T15:10:25.866160-07:00"
+  "last_updated": "2026-07-23T20:32:36.705955-07:00"
 }
