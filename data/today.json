@@ -1,8 +1,15 @@
 {
   "date": "2026-07-24",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Operador del CAF capturado en Yucatán",
+        "summary": "Detienen a \"El Kado\", señalado como operador de la Confederación Ajena Fronteriza en Tijuana.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/179511_detienen_a_el_kado_en_yucatan_lo_senalan_como_operador_del_caf_en_tijuana",
+        "_added_at": "2026-07-24T04:07:30.679475-07:00"
+      },
       {
         "title": "Operador del CAF capturado en Yucatán",
         "summary": "Detienen a \"El Kado\", señalado como operador de la Arellano Félix en Tijuana, con información de autoridades estadounidenses.",
@@ -80,6 +87,13 @@
     ],
     "sociedad": [
       {
+        "title": "Funcionarios de Tecate viven con temor",
+        "summary": "Regidora denuncia clima de miedo entre servidores públicos municipales.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179503_funcionarios_tecatenses_viven_con_temor_afirma_regidora",
+        "_added_at": "2026-07-24T04:07:30.679475-07:00"
+      },
+      {
         "title": "Baja California registra 12 muertes por calor",
         "summary": "Estado enfenta crisis de salud pública por temperaturas extremas durante 2026.",
         "source": "ZETA Tijuana",
@@ -95,5 +109,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-24T01:38:07.514606-07:00"
+  "last_updated": "2026-07-24T04:07:30.679475-07:00"
 }
