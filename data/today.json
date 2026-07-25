@@ -1,8 +1,15 @@
 {
   "date": "2026-07-25",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Cateo federal en rancho de Tecate",
+        "summary": "Autoridades realizan operativo en inmueble ubicado en la localidad.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/179543_autoridades_federales_realizaron_un_cateo_en_rancho_de_tecate",
+        "_added_at": "2026-07-25T06:53:29.222464-07:00"
+      },
       {
         "title": "Abogado ejecutado en su domicilio de Tijuana",
         "summary": "Profesionista fue asesinado en su casa. Colegiados exigen esclarecimiento del crimen.",
@@ -73,6 +80,20 @@
     ],
     "sociedad": [
       {
+        "title": "Sacerdote sentenciado a 21 años de prisión",
+        "summary": "Religioso condenado por violación agravada cometida contra monja.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/sacerdote-es-sentenciado-a-21-anos-de-prision-por-violacion-impropia-agravada-contra-monja/?utm_source=rss&utm_medium=rss&utm_campaign=sacerdote-es-sentenciado-a-21-anos-de-prision-por-violacion-impropia-agravada-contra-monja",
+        "_added_at": "2026-07-25T06:53:29.222464-07:00"
+      },
+      {
+        "title": "Mexicali repara vialidades con programa 'Calles Seguras'",
+        "summary": "Autoridades ejecutan trabajos de mantenimiento vial en colonias de la ciudad.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179553_reparan_vialidades_en_mexicali_con_calles_seguras_familias_seguras",
+        "_added_at": "2026-07-25T06:53:29.222464-07:00"
+      },
+      {
         "title": "Fuga de agua deja sin servicio 421 colonias",
         "summary": "Rotura en acueducto afecta a Tijuana y Rosarito durante reparaciones.",
         "source": "ZETA Tijuana",
@@ -102,5 +123,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-25T03:39:56.502299-07:00"
+  "last_updated": "2026-07-25T06:53:29.222464-07:00"
 }
