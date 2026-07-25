@@ -1,8 +1,22 @@
 {
   "date": "2026-07-25",
-  "run_count": 4,
+  "run_count": 5,
   "notes": {
     "seguridad": [
+      {
+        "title": "Desmantelan centro productor de narcóticos en Tijuana",
+        "summary": "Autoridades desarticulan operación de fabricación de drogas en la ciudad, asegurando instalaciones y equipo.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/desarman-centro-de-produccion-de-narcoticos-en-tijuana/?utm_source=rss&utm_medium=rss&utm_campaign=desarman-centro-de-produccion-de-narcoticos-en-tijuana",
+        "_added_at": "2026-07-25T12:20:35.264421-07:00"
+      },
+      {
+        "title": "Hallan restos humanos desmembrados en colonia Panamericano",
+        "summary": "Encuentran bolsas con partes de cuerpos en vía pública; investigación en curso sobre identidad de víctimas.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/179571_dejan_bolsas_con_restos_humanos_en_plena_via_publica_en_la_colonia_panamericano",
+        "_added_at": "2026-07-25T12:20:35.264421-07:00"
+      },
       {
         "title": "Sacerdote condenado a 21 años por violación contra monja",
         "summary": "Sentencia en Baja California por delito sexual grave cometido contra religiosa en institución eclesial.",
@@ -58,16 +72,23 @@
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/07/aseguran-campamento-con-plantas-de-marihuana-en-san-quintin/?utm_source=rss&utm_medium=rss&utm_campaign=aseguran-campamento-con-plantas-de-marihuana-en-san-quintin",
         "_added_at": "2026-07-25T01:18:46.291516-07:00"
-      },
-      {
-        "title": "Sacerdote sentenciado a 21 años por violación",
-        "summary": "Religioso cumplirá condena por abuso sexual agravado contra monja.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/sacerdote-es-sentenciado-a-21-anos-de-prision-por-violacion-impropia-agravada-contra-monja/?utm_source=rss&utm_medium=rss&utm_campaign=sacerdote-es-sentenciado-a-21-anos-de-prision-por-violacion-impropia-agravada-contra-monja",
-        "_added_at": "2026-07-25T01:18:46.291516-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Abogadas demandan seguridad tras homicidio de colega",
+        "summary": "Gremio exige medidas de protección después de muerte del abogado Javier López Reyna.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97204/Abogadas-exigen-prevenci%C3%B3n-tras-asesinato-del-abogado-Javier-L%C3%B3pez-Reyna",
+        "_added_at": "2026-07-25T12:20:35.264421-07:00"
+      },
+      {
+        "title": "Tecate cuenta con presupuesto de 245 millones de pesos",
+        "summary": "Municipio dispone de aportaciones y participaciones federales para ejercicio presupuestal.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/empresarial/179562_gobierno_de_tecate_cuenta_con_245_mdp_de_aportaciones_y_participaciones",
+        "_added_at": "2026-07-25T12:20:35.264421-07:00"
+      },
       {
         "title": "Morena frena rechazo a cuenta pública en Congreso BC",
         "summary": "Partido bloquea votación adversa sobre rendición de cuentas 2023 de Ayala.",
@@ -91,6 +112,20 @@
       }
     ],
     "economia": [
+      {
+        "title": "Crisis hídrica afecta 421 colonias de Tijuana y Rosarito",
+        "summary": "Fuga en acueducto Florido-Aguaje provoca suspensión de agua en miles de viviendas.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/fuga-en-acueducto-florido-aguaje-dejara-sin-agua-a-421-colonias-de-tijuana-y-rosarito-cespt/?utm_source=rss&utm_medium=rss&utm_campaign=fuga-en-acueducto-florido-aguaje-dejara-sin-agua-a-421-colonias-de-tijuana-y-rosarito-cespt",
+        "_added_at": "2026-07-25T12:20:35.264421-07:00"
+      },
+      {
+        "title": "Buscan fortalecer proveeduría nacional ante cambios arancelarios",
+        "summary": "Sectores preparan estrategias ante revisión del T-MEC y modificaciones comerciales.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179568_buscan_fortalecer_proveeduria_nacional_ante_cambios_arancelarios_y_revision_del_t_mec",
+        "_added_at": "2026-07-25T12:20:35.264421-07:00"
+      },
       {
         "title": "BC incorpora 118 mil trabajadores con salario mínimo",
         "summary": "Mercado laboral estatal crece con nuevas plazas de empleo con remuneración mínima.",
@@ -135,6 +170,27 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Incendio en departamentos deja dos heridos graves",
+        "summary": "Siniestro provoca hospitalizaciones en zona residencial de Tijuana.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/179570_fuerte_incendio_en_unos_departamentos_deja_dos_heridos_graves",
+        "_added_at": "2026-07-25T12:20:35.264421-07:00"
+      },
+      {
+        "title": "Largas filas en transporte público son temporales",
+        "summary": "IMOS aclara que congestionamiento en servicios es situación pasajera.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179569_largas_filas_para_tomar_transporte_publico_es_temporal_imos",
+        "_added_at": "2026-07-25T12:20:35.264421-07:00"
+      },
+      {
+        "title": "Rescatan perros en cateo de Zona Centro",
+        "summary": "Buscan hogares para animales recuperados durante operativo policial.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97183/Buscan-hogar-para-perros-rescatados-tras-cateo-en-la-Zona-Centro;-piden-impulsar-su-adopci%C3%B3n",
+        "_added_at": "2026-07-25T12:20:35.264421-07:00"
+      },
       {
         "title": "Crisis de agua afecta 421 colonias de Tijuana y Rosarito",
         "summary": "Fuga en acueducto Florido-Aguaje deja sin servicio a miles de residentes en ambas ciudades.",
@@ -183,15 +239,8 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/179546_buscan_hogar_para_24_perros_rescatados_por_la_apat",
         "_added_at": "2026-07-25T01:18:46.291516-07:00"
-      },
-      {
-        "title": "Misa recuerda al periodista Juan Carlos Domínguez",
-        "summary": "Comunidad de Tijuana rinde homenaje a comunicógrafo fallecido en zona centro.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/recuerdan-con-misa-en-zona-centro-de-tijuana-al-periodista-juan-carlos-dominguez/?utm_source=rss&utm_medium=rss&utm_campaign=recuerdan-con-misa-en-zona-centro-de-tijuana-al-periodista-juan-carlos-dominguez",
-        "_added_at": "2026-07-25T01:18:46.291516-07:00"
       }
     ]
   },
-  "last_updated": "2026-07-25T09:09:10.864287-07:00"
+  "last_updated": "2026-07-25T12:20:35.264421-07:00"
 }
