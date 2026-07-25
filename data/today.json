@@ -1,8 +1,29 @@
 {
   "date": "2026-07-25",
-  "run_count": 5,
+  "run_count": 6,
   "notes": {
     "seguridad": [
+      {
+        "title": "Hallan restos humanos en bolsas en Panamericano, Tijuana",
+        "summary": "Descubren partes del cuerpo abandonadas en vía pública; investigan caso de homicidio.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179571_dejan_bolsas_con_restos_humanos_en_plena_via_publica_en_la_colonia_panamericano",
+        "_added_at": "2026-07-25T15:01:35.186080-07:00"
+      },
+      {
+        "title": "Incendio en departamentos deja dos heridos graves",
+        "summary": "Fuego afecta complejo de viviendas; rescatan a dos personas con lesiones severas.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/179570_fuerte_incendio_en_unos_departamentos_deja_dos_heridos_graves",
+        "_added_at": "2026-07-25T15:01:35.186080-07:00"
+      },
+      {
+        "title": "Vinculan a proceso a presunto homicida en Rosarito",
+        "summary": "Detienen y canaliza a juez a responsable de crimen cometido en municipio.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97211/Vinculan-a-proceso-a-presunto-homicida-por-crimen-en-Rosarito",
+        "_added_at": "2026-07-25T15:01:35.186080-07:00"
+      },
       {
         "title": "Desmantelan centro productor de narcóticos en Tijuana",
         "summary": "Autoridades desarticulan operación de fabricación de drogas en la ciudad, asegurando instalaciones y equipo.",
@@ -51,30 +72,23 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/seguridad/179543_autoridades_federales_realizaron_un_cateo_en_rancho_de_tecate",
         "_added_at": "2026-07-25T06:53:29.222464-07:00"
-      },
-      {
-        "title": "Abogado ejecutado en su domicilio de Tijuana",
-        "summary": "Profesionista fue asesinado en su casa. Colegiados exigen esclarecimiento del crimen.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179547_ejecutan_a_un_abogado_en_su_domicilio_gremio_exige_esclarecer_el_crimen",
-        "_added_at": "2026-07-25T01:18:46.291516-07:00"
-      },
-      {
-        "title": "Hallan dos cadáveres en vehículo en Reforma",
-        "summary": "Descubren cuerpos en cajuela de auto abandonado en colonia de Tijuana.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/179545_hallan_dos_cadaveres_en_la_cajuela_de_un_vehiculo_en_la_colonia_reforma",
-        "_added_at": "2026-07-25T01:18:46.291516-07:00"
-      },
-      {
-        "title": "Aseguran plantío de marihuana en San Quintín",
-        "summary": "Autoridades localizan campamento con plantas de cannabis en municipio de BC.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/aseguran-campamento-con-plantas-de-marihuana-en-san-quintin/?utm_source=rss&utm_medium=rss&utm_campaign=aseguran-campamento-con-plantas-de-marihuana-en-san-quintin",
-        "_added_at": "2026-07-25T01:18:46.291516-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Montserrat confirma revocación de visa estadounidense",
+        "summary": "Funcionaria afirma no estar bajo investigación en EE.UU. pese a cancelación.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/montserrat-confirma-revocacion-de-visa-no-me-investigan-en-eeuu/?utm_source=rss&utm_medium=rss&utm_campaign=montserrat-confirma-revocacion-de-visa-no-me-investigan-en-eeuu",
+        "_added_at": "2026-07-25T15:01:35.186080-07:00"
+      },
+      {
+        "title": "Gobierno BC condona adeudos vehiculares de 2023",
+        "summary": "Autoridad estatal condonará pagos atrasados de tenencia y otros años anteriores.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/97209/Condona-Gobierno-B.C.-adeudos-vehiculares-del-a%C3%B1o-2023-y-anteriores",
+        "_added_at": "2026-07-25T15:01:35.186080-07:00"
+      },
       {
         "title": "Abogadas demandan seguridad tras homicidio de colega",
         "summary": "Gremio exige medidas de protección después de muerte del abogado Javier López Reyna.",
@@ -171,6 +185,27 @@
     ],
     "sociedad": [
       {
+        "title": "Animalistas exigen respuesta sobre perros de influencer",
+        "summary": "Activistas demandan información sobre paradero de Pancho y Chiquis adoptados.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/animalistas-exigen-respuesta-sobre-el-paradero-de-pancho-y-chiquis-perros-adoptados-por-influencer/?utm_source=rss&utm_medium=rss&utm_campaign=animalistas-exigen-respuesta-sobre-el-paradero-de-pancho-y-chiquis-perros-adoptados-por-influencer",
+        "_added_at": "2026-07-25T15:01:35.186080-07:00"
+      },
+      {
+        "title": "Calor extremo en Mexicali satura refugios de hidratación",
+        "summary": "Crisis climática llena a capacidad máxima centros de atención ante olas extremas.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97210/Calor-extremo-rebasa-punto-de-hidrataci%C3%B3n-en-Mexicali;-refugio-opera-al-l%C3%ADmite-de-su-capacidad",
+        "_added_at": "2026-07-25T15:01:35.186080-07:00"
+      },
+      {
+        "title": "Suspensión de agua afecta también a parques públicos",
+        "summary": "Cortes en suministro hídrico impactan espacios recreativos de la comunidad.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179572_suspension_del_suministro_de_agua_afecta_tambien_a_los_parques_publicos",
+        "_added_at": "2026-07-25T15:01:35.186080-07:00"
+      },
+      {
         "title": "Incendio en departamentos deja dos heridos graves",
         "summary": "Siniestro provoca hospitalizaciones en zona residencial de Tijuana.",
         "source": "AFN Tijuana",
@@ -218,29 +253,8 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/179553_reparan_vialidades_en_mexicali_con_calles_seguras_familias_seguras",
         "_added_at": "2026-07-25T06:53:29.222464-07:00"
-      },
-      {
-        "title": "Fuga de agua deja sin servicio 421 colonias",
-        "summary": "Rotura en acueducto afecta a Tijuana y Rosarito durante reparaciones.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/fuga-en-acueducto-florido-aguaje-dejara-sin-agua-a-421-colonias-de-tijuana-y-rosarito-cespt/?utm_source=rss&utm_medium=rss&utm_campaign=fuga-en-acueducto-florido-aguaje-dejara-sin-agua-a-421-colonias-de-tijuana-y-rosarito-cespt",
-        "_added_at": "2026-07-25T01:18:46.291516-07:00"
-      },
-      {
-        "title": "Animalistas denuncian falta de refugios en Tijuana",
-        "summary": "Activistas reclaman transparencia sobre perros rescatados y escasez de espacios.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/animalistas-denuncian-falta-de-informacion-sobre-perros-rescatados-y-escasez-de-refugios-en-tijuana/?utm_source=rss&utm_medium=rss&utm_campaign=animalistas-denuncian-falta-de-informacion-sobre-perros-rescatados-y-escasez-de-refugios-en-tijuana",
-        "_added_at": "2026-07-25T01:18:46.291516-07:00"
-      },
-      {
-        "title": "Buscan adopción para 24 perros rescatados",
-        "summary": "APAT necesita encontrar hogares para animales decomisados en operativo.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179546_buscan_hogar_para_24_perros_rescatados_por_la_apat",
-        "_added_at": "2026-07-25T01:18:46.291516-07:00"
       }
     ]
   },
-  "last_updated": "2026-07-25T12:20:35.264421-07:00"
+  "last_updated": "2026-07-25T15:01:35.186080-07:00"
 }
