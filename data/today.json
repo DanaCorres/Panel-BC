@@ -1,295 +1,106 @@
 {
-  "date": "2026-07-24",
-  "run_count": 7,
+  "date": "2026-07-25",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Sacerdote condenado a 21 años por abuso sexual",
-        "summary": "Sacerdote sentenciado por violación impropia agravada contra monja en Baja California.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/sacerdote-es-sentenciado-a-21-anos-de-prision-por-violacion-impropia-agravada-contra-monja/?utm_source=rss&utm_medium=rss&utm_campaign=sacerdote-es-sentenciado-a-21-anos-de-prision-por-violacion-impropia-agravada-contra-monja",
-        "_added_at": "2026-07-24T20:29:49.554916-07:00"
-      },
-      {
-        "title": "Ejecutan a abogado en Tijuana; gremio exige justicia",
-        "summary": "Profesional del derecho asesinado en su domicilio; abogados demandan esclarecer crimen.",
+        "title": "Abogado ejecutado en su domicilio de Tijuana",
+        "summary": "Profesionista fue asesinado en su casa. Colegiados exigen esclarecimiento del crimen.",
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/179547_ejecutan_a_un_abogado_en_su_domicilio_gremio_exige_esclarecer_el_crimen",
-        "_added_at": "2026-07-24T20:29:49.554916-07:00"
+        "_added_at": "2026-07-25T01:18:46.291516-07:00"
       },
       {
-        "title": "Menor atropella y mata a peatón en escuela",
-        "summary": "Estudiante causa muerte de peatón con vehículo en escuela de Residencial Margaritas.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/179542_menor_de_edad_arrollo_y_mato_a_un_peaton_en_escuela_de_residencial_margaritas",
-        "_added_at": "2026-07-24T20:29:49.554916-07:00"
-      },
-      {
-        "title": "Feminicidio en Mexicali tras violento ataque",
-        "summary": "Mujer asesinada en Valle del Pedregal tras ataque violento en Mexicali.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97180/Violento-ataque-contra-mujer-termina-en-feminicidio-en-Valle-del-Pedregal-en-Mexicali",
-        "_added_at": "2026-07-24T15:12:30.568625-07:00"
-      },
-      {
-        "title": "Menor en auto mata a peatón en escuela",
-        "summary": "Menor de edad atropella mortalmente a persona en Residencial Margaritas.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97179/Menor-de-edad-atropella-y-mata-a-hombre-en-Residencial-Margaritas",
-        "_added_at": "2026-07-24T15:12:30.568625-07:00"
-      },
-      {
-        "title": "Cinco prófugos capturados en Tijuana",
-        "summary": "Autoridades detienen a cinco delincuentes buscados por la justicia en Tijuana.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97178/Cayeron-cinco-pr%C3%B3fugos-de-la-ley-en-Tijuana",
-        "_added_at": "2026-07-24T15:12:30.568625-07:00"
-      },
-      {
-        "title": "Hallan cadáveres en cajuela de auto",
-        "summary": "Dos cuerpos descubiertos en vehículo abandonado en colonia Reforma.",
+        "title": "Hallan dos cadáveres en vehículo en Reforma",
+        "summary": "Descubren cuerpos en cajuela de auto abandonado en colonia de Tijuana.",
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/seguridad/179545_hallan_dos_cadaveres_en_la_cajuela_de_un_vehiculo_en_la_colonia_reforma",
-        "_added_at": "2026-07-24T15:12:30.568625-07:00"
+        "_added_at": "2026-07-25T01:18:46.291516-07:00"
       },
       {
-        "title": "Hombre muere atropellado en Vía Rápida Poniente",
-        "summary": "Persona fallece tras ser arrollada en Tijuana; conductor fue detenido por las autoridades.",
+        "title": "Aseguran plantío de marihuana en San Quintín",
+        "summary": "Autoridades localizan campamento con plantas de cannabis en municipio de BC.",
         "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/muere-hombre-atropellado-sobre-la-via-rapida-poniente-conductor-fue-detenido/",
-        "_added_at": "2026-07-24T12:41:04.969471-07:00"
+        "url": "https://zetatijuana.com/2026/07/aseguran-campamento-con-plantas-de-marihuana-en-san-quintin/?utm_source=rss&utm_medium=rss&utm_campaign=aseguran-campamento-con-plantas-de-marihuana-en-san-quintin",
+        "_added_at": "2026-07-25T01:18:46.291516-07:00"
       },
       {
-        "title": "Presunto feminicidio en Mexicali tras riña",
-        "summary": "Mujer muere en enfrentamiento en Valle del Pedregal, Mexicali; investigaciones en curso.",
+        "title": "Sacerdote sentenciado a 21 años por violación",
+        "summary": "Religioso cumplirá condena por abuso sexual agravado contra monja.",
         "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/rina-termina-en-presunto-feminicidio-en-valle-del-pedregal-en-mexicali/",
-        "_added_at": "2026-07-24T12:41:04.969471-07:00"
-      },
-      {
-        "title": "Disparan a hombre cerca de parque en Valle de Guadalupe",
-        "summary": "Persona fallecida por disparos en Tijuana; autoridades investigan el incidente.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/disparan-y-matan-a-un-hombre-cerca-de-un-parque-en-valle-de-guadalupe/",
-        "_added_at": "2026-07-24T12:41:04.969471-07:00"
+        "url": "https://zetatijuana.com/2026/07/sacerdote-es-sentenciado-a-21-anos-de-prision-por-violacion-impropia-agravada-contra-monja/?utm_source=rss&utm_medium=rss&utm_campaign=sacerdote-es-sentenciado-a-21-anos-de-prision-por-violacion-impropia-agravada-contra-monja",
+        "_added_at": "2026-07-25T01:18:46.291516-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Morena frena rechazo a cuenta de Ayala 2023",
-        "summary": "Partido Morena detiene votación contra informe de gobernador en Congreso BC.",
+        "title": "Morena frena rechazo a cuenta pública en Congreso BC",
+        "summary": "Partido bloquea votación adversa sobre rendición de cuentas 2023 de Ayala.",
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/07/morena-frena-rechazo-a-la-cuenta-publica-2023-de-armando-ayala-en-el-congreso-de-bc/?utm_source=rss&utm_medium=rss&utm_campaign=morena-frena-rechazo-a-la-cuenta-publica-2023-de-armando-ayala-en-el-congreso-de-bc",
-        "_added_at": "2026-07-24T20:29:49.554916-07:00"
+        "_added_at": "2026-07-25T01:18:46.291516-07:00"
       },
       {
-        "title": "Exgobernadores panistas apoyan a Ruffo",
-        "summary": "Fox y exgobernadores respaldan a Ernesto Ruffo; demandan juicio justo.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179552_fox_y_exgobernadores_panistas_respaldan_a_ernesto_ruffo_piden_juicio_justo",
-        "_added_at": "2026-07-24T20:29:49.554916-07:00"
-      },
-      {
-        "title": "Darío Benítez acusa venganza política",
-        "summary": "Funcionario denuncia represalias tras señalamientos contra Román Cota.",
+        "title": "Darío Benítez denuncia venganza política",
+        "summary": "Funcionario acusa represalias tras sus señalamientos contra Román Cota.",
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/179554_dario_benitez_acusa_venganza_en_su_contra_por_senalamientos_hacia_roman_cota",
-        "_added_at": "2026-07-24T20:29:49.554916-07:00"
+        "_added_at": "2026-07-25T01:18:46.291516-07:00"
       },
       {
-        "title": "Alfredo Álvarez apoya investigación de perfiles 4T",
-        "summary": "Funcionario respalda proceso de selección para coordinación estatal de gobierno.",
+        "title": "Fox respalda a Ernesto Ruffo con garantías",
+        "summary": "Expresidentes panistas solicitan juicio justo para exgobernador acusado.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179544_apoya_alfredo_alvarez_investigacion_de_perfiles_rumbo_a_la_coordinacion_de_la_4t",
-        "_added_at": "2026-07-24T20:29:49.554916-07:00"
-      },
-      {
-        "title": "Castro Trenti insta alianza de Morena",
-        "summary": "Dirigente pide consolidar alianza de Morena tras encuentro de PT con MC.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/castro-trenti-insta-a-consumar-alianza-de-morena-tras-encuentro-de-pt-con-mc/",
-        "_added_at": "2026-07-24T15:12:30.568625-07:00"
-      },
-      {
-        "title": "FGR amplía investigación por huachicol fiscal",
-        "summary": "Procuraduría extiende pesquisa a más empresas vinculadas a caso de Ruffo.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/fgr-amplia-a-nuevas-empresas-la-indagatoria-por-huachicol-fiscal-ligado-a-ruffo/",
-        "_added_at": "2026-07-24T15:12:30.568625-07:00"
-      },
-      {
-        "title": "Nuevo director toma protesta en IMDET",
-        "summary": "César Aramís González asume cargo como director del Instituto.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/cesar-aramis-gonzalez-guerrero-toma-protesta-como-director-del-imdet/",
-        "_added_at": "2026-07-24T15:12:30.568625-07:00"
-      },
-      {
-        "title": "Sheinbaum responde a Fox sobre defensa a Ruffo",
-        "summary": "Presidenta replica comentarios de político sobre ex gobernadora de Baja California.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/sheinbaum-responde-a-fox-no-se-vaya-a-quemar-por-defender-a-ruffo/",
-        "_added_at": "2026-07-24T12:41:04.969471-07:00"
-      },
-      {
-        "title": "Gobernadora se reúne con zar antidrogas de EU para reforzar cooperación",
-        "summary": "Lazzeri coordina esfuerzos bilaterales con funcionario estadounidense contra narcotráfico.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/lazzeri-se-reune-con-zar-antidrogas-de-eu-para-reforzar-cooperacion/?utm_source=rss&utm_medium=rss&utm_campaign=lazzeri-se-reune-con-zar-antidrogas-de-eu-para-reforzar-cooperacion",
-        "_added_at": "2026-07-24T09:48:48.371275-07:00"
-      },
-      {
-        "title": "Congreso de BC rechaza cuenta pública 2023 de Tecate",
-        "summary": "Legislatura estatal desaprueba documentos financieros del municipio.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179530_rechaza_congreso_de_bc_la_cuenta_publica_2023_de_tecate",
-        "_added_at": "2026-07-24T09:48:48.371275-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/179552_fox_y_exgobernadores_panistas_respaldan_a_ernesto_ruffo_piden_juicio_justo",
+        "_added_at": "2026-07-25T01:18:46.291516-07:00"
       }
     ],
     "economia": [
       {
         "title": "EU reabre frontera al ganado mexicano 24 agosto",
-        "summary": "Acuerdo sanitario permite reanudación de exportaciones de ganado a Estados Unidos.",
+        "summary": "Estados Unidos autoriza gradualmente entrada de exportación ganadera mexicana.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/eu-reabrira-frontera-al-ganado-mexicano-el-24-de-agosto/?utm_source=rss&utm_medium=rss&utm_campaign=eu-reabrira-frontera-al-ganado-mexicano-el-24-de-agosto",
+        "_added_at": "2026-07-25T01:18:46.291516-07:00"
+      },
+      {
+        "title": "Index consolida 350 citas de negocios 2026",
+        "summary": "Encuentro empresarial genera importantes oportunidades comerciales en BC.",
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/empresarial/179549_mas_de_350_citas_de_negocios_consolida_index_en_encuentro_2026",
-        "_added_at": "2026-07-24T20:29:49.554916-07:00"
-      },
-      {
-        "title": "CSP descarta nuevo arancel en revisión del T-MEC",
-        "summary": "Funcionario revela posición mexicana ante exigencias estadounidenses en tratado comercial.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/csp-descarta-nuevo-arancel-y-revela-exigencias-de-eu-en-revision-del-t-mec/",
-        "_added_at": "2026-07-24T12:41:04.969471-07:00"
-      },
-      {
-        "title": "Dólar alcanza 17 pesos en casas de cambio tijuanenses",
-        "summary": "Moneda estadounidense llega a nueva barrera en operaciones de cambio local.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179536_toca_el_dolar_barrera_de_17_pesos_en_casas_de_cambio_de_tijuana",
-        "_added_at": "2026-07-24T12:41:04.969471-07:00"
-      },
-      {
-        "title": "Congreso desaprueba cuentas de Comisión Estatal del Agua",
-        "summary": "Legisladores rechazan ejercicio fiscal 2023 de la dependencia estatal.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179537_desaprueban_cuentas_del_ejercicio_2023_a_la_comision_estatal_del_agua",
-        "_added_at": "2026-07-24T12:41:04.969471-07:00"
-      },
-      {
-        "title": "Tecate cancela feria anual para pagar a empleados municipales",
-        "summary": "Municipio prioriza nómina de burócratas suspendiendo evento tradicional.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179531_cancelan_la_feria_anual_para_pagar_a_burocratas_en_tecate",
-        "_added_at": "2026-07-24T09:48:48.371275-07:00"
-      },
-      {
-        "title": "Sector construcción en Mexicali adopta medidas contra calor extremo",
-        "summary": "Trabajadores implementan protecciones ante temperaturas peligrosas en obra.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97147/Sector-de-la-construcci%C3%B3n-adopta-medidas-para-proteger-a-trabajadores-del-calor-en-Mexicali",
-        "_added_at": "2026-07-24T09:48:48.371275-07:00"
-      },
-      {
-        "title": "Fitch sube calificación a CESP Tijuana",
-        "summary": "Empresa de servicios recibe mejora en su nota crediticia de agencia internacional.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/empresarial/179517_fitch_sube_nota_a_cesp_tijuana_a_aamex_ratifico_credito_de_280_mdp",
-        "_added_at": "2026-07-24T07:03:03.864706-07:00"
-      },
-      {
-        "title": "Comercio mayorista de BC crece 10.1 por ciento",
-        "summary": "Ingresos del sector mayorista registran repunte significativo en el estado.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/empresarial/179516_repuntan_10_1_ingresos_del_comercio_mayorista_de_bc",
-        "_added_at": "2026-07-24T07:03:03.864706-07:00"
-      },
-      {
-        "title": "T-MEC avanza con negociaciones bilaterales",
-        "summary": "Sheinbaum y Greer progresan en revisión del acuerdo comercial y otros temas binacionales.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Nacional/97124/Sheinbaum-y-Greer-avanzan-en-revisi%C3%B3n-del-T-MEC-y-acuerdos-bilaterales",
-        "_added_at": "2026-07-24T01:38:07.514606-07:00"
-      },
-      {
-        "title": "Arquitectos mexicalienses esperan nuevo reglamento",
-        "summary": "Profesionales en Mexicali aguardan publicación de normativa de edificaciones actualizada.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179510_arquitectos_de_mexicali_esperan_publicacion_de_nuevo_reglamento_de_edificaciones",
-        "_added_at": "2026-07-24T01:38:07.514606-07:00"
+        "_added_at": "2026-07-25T01:18:46.291516-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Fuga en acueducto afecta 421 colonias Tijuana-Rosarito",
-        "summary": "Daño en infraestructura de agua deja sin servicio a múltiples localidades.",
+        "title": "Fuga de agua deja sin servicio 421 colonias",
+        "summary": "Rotura en acueducto afecta a Tijuana y Rosarito durante reparaciones.",
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/07/fuga-en-acueducto-florido-aguaje-dejara-sin-agua-a-421-colonias-de-tijuana-y-rosarito-cespt/?utm_source=rss&utm_medium=rss&utm_campaign=fuga-en-acueducto-florido-aguaje-dejara-sin-agua-a-421-colonias-de-tijuana-y-rosarito-cespt",
-        "_added_at": "2026-07-24T20:29:49.554916-07:00"
+        "_added_at": "2026-07-25T01:18:46.291516-07:00"
       },
       {
         "title": "Animalistas denuncian falta de refugios en Tijuana",
-        "summary": "Organizaciones civiles advierten sobre carencia de información en rescate de perros.",
+        "summary": "Activistas reclaman transparencia sobre perros rescatados y escasez de espacios.",
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/07/animalistas-denuncian-falta-de-informacion-sobre-perros-rescatados-y-escasez-de-refugios-en-tijuana/?utm_source=rss&utm_medium=rss&utm_campaign=animalistas-denuncian-falta-de-informacion-sobre-perros-rescatados-y-escasez-de-refugios-en-tijuana",
-        "_added_at": "2026-07-24T20:29:49.554916-07:00"
+        "_added_at": "2026-07-25T01:18:46.291516-07:00"
       },
       {
-        "title": "Recuerdan con misa al periodista Domínguez",
-        "summary": "Conmemoración en Zona Centro de Tijuana honra memoria de comunicador fallecido.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/recuerdan-con-misa-en-zona-centro-de-tijuana-al-periodista-juan-carlos-dominguez/?utm_source=rss&utm_medium=rss&utm_campaign=recuerdan-con-misa-en-zona-centro-de-tijuana-al-periodista-juan-carlos-dominguez",
-        "_added_at": "2026-07-24T20:29:49.554916-07:00"
-      },
-      {
-        "title": "Buscan hogar para 24 perros rescatados",
-        "summary": "APAT pide adopción responsable de animales en Tijuana.",
+        "title": "Buscan adopción para 24 perros rescatados",
+        "summary": "APAT necesita encontrar hogares para animales decomisados en operativo.",
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/179546_buscan_hogar_para_24_perros_rescatados_por_la_apat",
-        "_added_at": "2026-07-24T15:12:30.568625-07:00"
+        "_added_at": "2026-07-25T01:18:46.291516-07:00"
       },
       {
-        "title": "Ópera Frente al Mar en Rosarito",
-        "summary": "Evento cultural de música clásica presentado en costa de Rosarito.",
+        "title": "Misa recuerda al periodista Juan Carlos Domínguez",
+        "summary": "Comunidad de Tijuana rinde homenaje a comunicógrafo fallecido en zona centro.",
         "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/opera-frente-al-mar-en-rosarito-2/",
-        "_added_at": "2026-07-24T15:12:30.568625-07:00"
-      },
-      {
-        "title": "Construcción toma medidas contra calor extremo en Mexicali",
-        "summary": "Sector implementa protecciones para trabajadores por temperaturas críticas.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97147/Sector-de-la-construcci%C3%B3n-adopta-medidas-para-proteger-a-trabajadores-del-calor-en-Mexicali",
-        "_added_at": "2026-07-24T12:41:04.969471-07:00"
-      },
-      {
-        "title": "Instituto de Psiquiatría atiende celos en pareja",
-        "summary": "Dependencia proporciona 84 consultas sobre problemas emocionales en relaciones.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179539_brinda_instituto_de_psiquiatria_de_bc_84_atenciones_sobre_celos_en_la_pareja",
-        "_added_at": "2026-07-24T12:41:04.969471-07:00"
-      },
-      {
-        "title": "Feria del Libro 2026 se celebrará en Parque Morelos",
-        "summary": "Tijuana alberga evento cultural de literatura en espacio público.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179538_celebraran_la_feria_del_libro_de_tijuana_2026_en_el_parque_morelos",
-        "_added_at": "2026-07-24T12:41:04.969471-07:00"
-      },
-      {
-        "title": "Farmacias expanden consultorios ante crisis de salud pública",
-        "summary": "Comercios remedian carencias del sistema público ofreciendo servicios médicos.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/mas-farmacias-con-consultorio-por-precaria-salud-publica/",
-        "_added_at": "2026-07-24T12:41:04.969471-07:00"
-      },
-      {
-        "title": "Farmacias expanden consultorios ante crisis de salud pública",
-        "summary": "Comercios privados aumentan servicios médicos por deficiencias del sistema público.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/mas-farmacias-con-consultorio-por-precaria-salud-publica/?utm_source=rss&utm_medium=rss&utm_campaign=mas-farmacias-con-consultorio-por-precaria-salud-publica",
-        "_added_at": "2026-07-24T09:48:48.371275-07:00"
+        "url": "https://zetatijuana.com/2026/07/recuerdan-con-misa-en-zona-centro-de-tijuana-al-periodista-juan-carlos-dominguez/?utm_source=rss&utm_medium=rss&utm_campaign=recuerdan-con-misa-en-zona-centro-de-tijuana-al-periodista-juan-carlos-dominguez",
+        "_added_at": "2026-07-25T01:18:46.291516-07:00"
       }
     ]
   },
-  "last_updated": "2026-07-24T20:29:49.554916-07:00"
+  "last_updated": "2026-07-25T01:18:46.291516-07:00"
 }
