@@ -1,8 +1,36 @@
 {
   "date": "2026-07-25",
-  "run_count": 3,
+  "run_count": 4,
   "notes": {
     "seguridad": [
+      {
+        "title": "Sacerdote condenado a 21 años por violación contra monja",
+        "summary": "Sentencia en Baja California por delito sexual grave cometido contra religiosa en institución eclesial.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/sacerdote-es-sentenciado-a-21-anos-de-prision-por-violacion-impropia-agravada-contra-monja/",
+        "_added_at": "2026-07-25T09:09:10.864287-07:00"
+      },
+      {
+        "title": "Incendio en Infonavit Murúa deja dos con quemaduras graves",
+        "summary": "Siniestro en Tijuana afecta tres departamentos e ingresa dos heridos con lesiones severas.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97201/Incendio-en-Infonavit-Murua-afecta-tres-departamentos-y-deja-dos-hombres-con-graves-quemaduras",
+        "_added_at": "2026-07-25T09:09:10.864287-07:00"
+      },
+      {
+        "title": "Aseguran cultivo ilícito de marihuana en San Quintín",
+        "summary": "Autoridades decomisaron campamento con plantas de cannabis en municipio de Baja California Sur.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/aseguran-campamento-con-plantas-de-marihuana-en-san-quintin/",
+        "_added_at": "2026-07-25T09:09:10.864287-07:00"
+      },
+      {
+        "title": "Conductor queda atrapado tras choque en Bellas Artes",
+        "summary": "Accidente vial en Tijuana requirió intervención de rescatistas para extraer a persona del vehículo.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97198/Conductor-queda-prensado-tras-chocar-contra-barrera-de-concreto-en-el-bulevar-Bellas-Artes",
+        "_added_at": "2026-07-25T09:09:10.864287-07:00"
+      },
       {
         "title": "Cateo federal en rancho de Tecate",
         "summary": "Autoridades realizan operativo en inmueble ubicado en la localidad.",
@@ -64,6 +92,34 @@
     ],
     "economia": [
       {
+        "title": "BC incorpora 118 mil trabajadores con salario mínimo",
+        "summary": "Mercado laboral estatal crece con nuevas plazas de empleo con remuneración mínima.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/empresarial/179563_mercado_laboral_incorpora_a_118_mil_trabajadores_con_2_sm_en_bc",
+        "_added_at": "2026-07-25T09:09:10.864287-07:00"
+      },
+      {
+        "title": "EU reabrirá frontera a ganado mexicano el 24 de agosto",
+        "summary": "Reapertura gradual de importaciones ganaderas beneficiará a productores fronterizos de Baja California.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179556_anuncia_eu_reapertura_gradual_a_la_exportacion_de_ganado_mexicano",
+        "_added_at": "2026-07-25T09:09:10.864287-07:00"
+      },
+      {
+        "title": "Tecate dispone de 245 millones en participaciones",
+        "summary": "Gobierno municipal cuenta con presupuesto federal para operaciones e inversión pública.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/empresarial/179562_gobierno_de_tecate_cuenta_con_245_mdp_de_aportaciones_y_participaciones",
+        "_added_at": "2026-07-25T09:09:10.864287-07:00"
+      },
+      {
+        "title": "Déficit de subestaciones eléctricas frena crecimiento de Tijuana",
+        "summary": "Infraestructura energética insuficiente limita desarrollo urbano y expansión industrial.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179564_advierten_deficit_de_subestaciones_electricas_ante_crecimiento_de_tijuana",
+        "_added_at": "2026-07-25T09:09:10.864287-07:00"
+      },
+      {
         "title": "EU reabre frontera al ganado mexicano 24 agosto",
         "summary": "Estados Unidos autoriza gradualmente entrada de exportación ganadera mexicana.",
         "source": "ZETA Tijuana",
@@ -79,6 +135,20 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Crisis de agua afecta 421 colonias de Tijuana y Rosarito",
+        "summary": "Fuga en acueducto Florido-Aguaje deja sin servicio a miles de residentes en ambas ciudades.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/fuga-en-acueducto-florido-aguaje-dejara-sin-agua-a-421-colonias-de-tijuana-y-rosarito-cespt/",
+        "_added_at": "2026-07-25T09:09:10.864287-07:00"
+      },
+      {
+        "title": "Animalistas denuncian falta de refugios y transparencia en Tijuana",
+        "summary": "Organizaciones civiles advierten insuficiencia de espacios para perros rescatados.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/animalistas-denuncian-falta-de-informacion-sobre-perros-rescatados-y-escasez-de-refugios-en-tijuana/",
+        "_added_at": "2026-07-25T09:09:10.864287-07:00"
+      },
       {
         "title": "Sacerdote sentenciado a 21 años de prisión",
         "summary": "Religioso condenado por violación agravada cometida contra monja.",
@@ -123,5 +193,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-25T06:53:29.222464-07:00"
+  "last_updated": "2026-07-25T09:09:10.864287-07:00"
 }
