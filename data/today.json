@@ -1,8 +1,29 @@
 {
   "date": "2026-07-24",
-  "run_count": 6,
+  "run_count": 7,
   "notes": {
     "seguridad": [
+      {
+        "title": "Sacerdote condenado a 21 años por abuso sexual",
+        "summary": "Sacerdote sentenciado por violación impropia agravada contra monja en Baja California.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/sacerdote-es-sentenciado-a-21-anos-de-prision-por-violacion-impropia-agravada-contra-monja/?utm_source=rss&utm_medium=rss&utm_campaign=sacerdote-es-sentenciado-a-21-anos-de-prision-por-violacion-impropia-agravada-contra-monja",
+        "_added_at": "2026-07-24T20:29:49.554916-07:00"
+      },
+      {
+        "title": "Ejecutan a abogado en Tijuana; gremio exige justicia",
+        "summary": "Profesional del derecho asesinado en su domicilio; abogados demandan esclarecer crimen.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179547_ejecutan_a_un_abogado_en_su_domicilio_gremio_exige_esclarecer_el_crimen",
+        "_added_at": "2026-07-24T20:29:49.554916-07:00"
+      },
+      {
+        "title": "Menor atropella y mata a peatón en escuela",
+        "summary": "Estudiante causa muerte de peatón con vehículo en escuela de Residencial Margaritas.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/179542_menor_de_edad_arrollo_y_mato_a_un_peaton_en_escuela_de_residencial_margaritas",
+        "_added_at": "2026-07-24T20:29:49.554916-07:00"
+      },
       {
         "title": "Feminicidio en Mexicali tras violento ataque",
         "summary": "Mujer asesinada en Valle del Pedregal tras ataque violento en Mexicali.",
@@ -51,30 +72,37 @@
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/07/disparan-y-matan-a-un-hombre-cerca-de-un-parque-en-valle-de-guadalupe/",
         "_added_at": "2026-07-24T12:41:04.969471-07:00"
-      },
-      {
-        "title": "Detienen a tres por privación de libertad de trailero",
-        "summary": "Sujetos capturados tras obligar a conductor a cajero automático en Tijuana.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/179540_detienen_a_tres_que_llevaban_a_un_trailero_privado_de_su_libertad_a_un_cajero_automatico",
-        "_added_at": "2026-07-24T12:41:04.969471-07:00"
-      },
-      {
-        "title": "Tijuana y Mexicali lideran percepción de inseguridad en país",
-        "summary": "Ambas ciudades de BC se mantienen entre las con mayor percepción de inseguridad a nivel nacional.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/mexicali-y-tijuana-se-mantienen-entre-las-ciudades-con-mayor-percepcion-de-inseguridad/?utm_source=rss&utm_medium=rss&utm_campaign=mexicali-y-tijuana-se-mantienen-entre-las-ciudades-con-mayor-percepcion-de-inseguridad",
-        "_added_at": "2026-07-24T09:48:48.371275-07:00"
-      },
-      {
-        "title": "Capturan a El Kado con información de autoridades estadounidenses",
-        "summary": "Detenido presunto criminal de BC con apoyo de inteligencia de Estados Unidos.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/con-informacion-de-eeuu-cae-el-kado-podcast/?utm_source=rss&utm_medium=rss&utm_campaign=con-informacion-de-eeuu-cae-el-kado-podcast",
-        "_added_at": "2026-07-24T09:48:48.371275-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Morena frena rechazo a cuenta de Ayala 2023",
+        "summary": "Partido Morena detiene votación contra informe de gobernador en Congreso BC.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/morena-frena-rechazo-a-la-cuenta-publica-2023-de-armando-ayala-en-el-congreso-de-bc/?utm_source=rss&utm_medium=rss&utm_campaign=morena-frena-rechazo-a-la-cuenta-publica-2023-de-armando-ayala-en-el-congreso-de-bc",
+        "_added_at": "2026-07-24T20:29:49.554916-07:00"
+      },
+      {
+        "title": "Exgobernadores panistas apoyan a Ruffo",
+        "summary": "Fox y exgobernadores respaldan a Ernesto Ruffo; demandan juicio justo.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179552_fox_y_exgobernadores_panistas_respaldan_a_ernesto_ruffo_piden_juicio_justo",
+        "_added_at": "2026-07-24T20:29:49.554916-07:00"
+      },
+      {
+        "title": "Darío Benítez acusa venganza política",
+        "summary": "Funcionario denuncia represalias tras señalamientos contra Román Cota.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179554_dario_benitez_acusa_venganza_en_su_contra_por_senalamientos_hacia_roman_cota",
+        "_added_at": "2026-07-24T20:29:49.554916-07:00"
+      },
+      {
+        "title": "Alfredo Álvarez apoya investigación de perfiles 4T",
+        "summary": "Funcionario respalda proceso de selección para coordinación estatal de gobierno.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179544_apoya_alfredo_alvarez_investigacion_de_perfiles_rumbo_a_la_coordinacion_de_la_4t",
+        "_added_at": "2026-07-24T20:29:49.554916-07:00"
+      },
       {
         "title": "Castro Trenti insta alianza de Morena",
         "summary": "Dirigente pide consolidar alianza de Morena tras encuentro de PT con MC.",
@@ -116,37 +144,16 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/179530_rechaza_congreso_de_bc_la_cuenta_publica_2023_de_tecate",
         "_added_at": "2026-07-24T09:48:48.371275-07:00"
-      },
-      {
-        "title": "PRI denuncia irregularidades de consejera del IEEBC en Mexicali",
-        "summary": "Partido presenta queja contra funcionaria que recibió beca para posgrado en extranjero.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97148/PRI-presentar%C3%A1-denuncia-contra-consejera-del-IEEBC-por-irregularidades",
-        "_added_at": "2026-07-24T09:48:48.371275-07:00"
-      },
-      {
-        "title": "Ernesto Ruffo envía mensaje desde penal",
-        "summary": "Ex gobernador de Baja California se comunica con su hija desde Altiplano. Dice lo llaman \"Ruffo Mandela\".",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179512_ruffo_mandela_le_llaman_en_el_penal_dice_el_ex_gobernador_a_su_hija",
-        "_added_at": "2026-07-24T01:38:07.514606-07:00"
-      },
-      {
-        "title": "Morena y PT mantienen alianza firme",
-        "summary": "Ruiz Uribe asegura que la coalición entre Morena y Partido del Trabajo sigue consolidada.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179507_sigue_firme_la_alianza_de_morena_y_el_pt_asegura_ruiz_uribe",
-        "_added_at": "2026-07-24T01:38:07.514606-07:00"
-      },
-      {
-        "title": "PRI solicita remover consejera del IEE",
-        "summary": "Piden sacar a consejera electoral que recibió beca del gobierno estatal.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179508_pri_bc_solicita_remover_a_consejera_del_iee_por_recibir_beca_del_gobierno",
-        "_added_at": "2026-07-24T01:38:07.514606-07:00"
       }
     ],
     "economia": [
+      {
+        "title": "EU reabre frontera al ganado mexicano 24 agosto",
+        "summary": "Acuerdo sanitario permite reanudación de exportaciones de ganado a Estados Unidos.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/empresarial/179549_mas_de_350_citas_de_negocios_consolida_index_en_encuentro_2026",
+        "_added_at": "2026-07-24T20:29:49.554916-07:00"
+      },
       {
         "title": "CSP descarta nuevo arancel en revisión del T-MEC",
         "summary": "Funcionario revela posición mexicana ante exigencias estadounidenses en tratado comercial.",
@@ -209,16 +216,30 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/179510_arquitectos_de_mexicali_esperan_publicacion_de_nuevo_reglamento_de_edificaciones",
         "_added_at": "2026-07-24T01:38:07.514606-07:00"
-      },
-      {
-        "title": "Expo Emprende Violeta impulsa negocios femeninos",
-        "summary": "Se realiza evento para consolidar y fortalecer emprendimientos de mujeres en la región.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179505_realizan_la_expo_emprende_violeta_para_consolidar_negocios_de_mujeres",
-        "_added_at": "2026-07-24T01:38:07.514606-07:00"
       }
     ],
     "sociedad": [
+      {
+        "title": "Fuga en acueducto afecta 421 colonias Tijuana-Rosarito",
+        "summary": "Daño en infraestructura de agua deja sin servicio a múltiples localidades.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/fuga-en-acueducto-florido-aguaje-dejara-sin-agua-a-421-colonias-de-tijuana-y-rosarito-cespt/?utm_source=rss&utm_medium=rss&utm_campaign=fuga-en-acueducto-florido-aguaje-dejara-sin-agua-a-421-colonias-de-tijuana-y-rosarito-cespt",
+        "_added_at": "2026-07-24T20:29:49.554916-07:00"
+      },
+      {
+        "title": "Animalistas denuncian falta de refugios en Tijuana",
+        "summary": "Organizaciones civiles advierten sobre carencia de información en rescate de perros.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/animalistas-denuncian-falta-de-informacion-sobre-perros-rescatados-y-escasez-de-refugios-en-tijuana/?utm_source=rss&utm_medium=rss&utm_campaign=animalistas-denuncian-falta-de-informacion-sobre-perros-rescatados-y-escasez-de-refugios-en-tijuana",
+        "_added_at": "2026-07-24T20:29:49.554916-07:00"
+      },
+      {
+        "title": "Recuerdan con misa al periodista Domínguez",
+        "summary": "Conmemoración en Zona Centro de Tijuana honra memoria de comunicador fallecido.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/recuerdan-con-misa-en-zona-centro-de-tijuana-al-periodista-juan-carlos-dominguez/?utm_source=rss&utm_medium=rss&utm_campaign=recuerdan-con-misa-en-zona-centro-de-tijuana-al-periodista-juan-carlos-dominguez",
+        "_added_at": "2026-07-24T20:29:49.554916-07:00"
+      },
       {
         "title": "Buscan hogar para 24 perros rescatados",
         "summary": "APAT pide adopción responsable de animales en Tijuana.",
@@ -267,29 +288,8 @@
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/07/mas-farmacias-con-consultorio-por-precaria-salud-publica/?utm_source=rss&utm_medium=rss&utm_campaign=mas-farmacias-con-consultorio-por-precaria-salud-publica",
         "_added_at": "2026-07-24T09:48:48.371275-07:00"
-      },
-      {
-        "title": "Reubicación de Jurisdicción Sanitaria pendiente en BC",
-        "summary": "Sector salud enfrenta atraso administrativo en reorganización de oficinas.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179519_reubicacion_de_jurisdiccion_sanitaria_tema_pendiente_del_sector_salud_amarillas",
-        "_added_at": "2026-07-24T09:48:48.371275-07:00"
-      },
-      {
-        "title": "Baja California registra 12 muertes por calor",
-        "summary": "Estado contabiliza decesos asociados a temperaturas extremas en lo que va de 2026.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/baja-california-registra-12-muertes-relacionadas-con-el-calor-en-lo-que-va-del-2026/?utm_source=rss&utm_medium=rss&utm_campaign=baja-california-registra-12-muertes-relacionadas-con-el-calor-en-lo-que-va-del-2026",
-        "_added_at": "2026-07-24T07:03:03.864706-07:00"
-      },
-      {
-        "title": "Expo Emprende Violeta consolida negocios de mujeres",
-        "summary": "Evento impulsa emprendimientos femeninos con exposición de proyectos locales.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179505_realizan_la_expo_emprende_violeta_para_consolidar_negocios_de_mujeres",
-        "_added_at": "2026-07-24T07:03:03.864706-07:00"
       }
     ]
   },
-  "last_updated": "2026-07-24T15:12:30.568625-07:00"
+  "last_updated": "2026-07-24T20:29:49.554916-07:00"
 }
