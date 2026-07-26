@@ -1,8 +1,36 @@
 {
   "date": "2026-07-26",
-  "run_count": 4,
+  "run_count": 5,
   "notes": {
     "seguridad": [
+      {
+        "title": "Agente FESC asesinado en Tijuana",
+        "summary": "Elemento de seguridad identificado como Óscar Arellano fue ejecutado a balazos en Nuevo Milenio; su acompañante resultó herida.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/179583_asesinan_a_un_elemento_de_la_fesc_a_balazos_en_la_colonia_nuevo_milenio",
+        "_added_at": "2026-07-26T12:23:25.927703-07:00"
+      },
+      {
+        "title": "Marihuana incautada en San Quintín",
+        "summary": "Autoridades aseguraron plantío clandestino de marihuana en zona de San Quintín.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/aseguran-plantio-ilegal-de-marihuana-en-san-quintin/?utm_source=rss&utm_medium=rss&utm_campaign=aseguran-plantio-ilegal-de-marihuana-en-san-quintin",
+        "_added_at": "2026-07-26T12:23:25.927703-07:00"
+      },
+      {
+        "title": "Peatón muere atropellado en Libramiento",
+        "summary": "Hombre falleció tras ser atropellado bajo puente peatonal en Libramiento Rosas Magallón.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97226/Muere-hombre-atropellado-bajo-puente-peatonal-en-el-libramiento-Rosas-Magall%C3%B3n",
+        "_added_at": "2026-07-26T12:23:25.927703-07:00"
+      },
+      {
+        "title": "Sin detenidos por asesinato de abogado Javier López",
+        "summary": "Investigación del homicidio de abogado Javier López Reyna continúa sin detenciones.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/sin-detenidos-tras-asesinato-del-abogado-javier-lopez-reyna/?utm_source=rss&utm_medium=rss&utm_campaign=sin-detenidos-tras-asesinato-del-abogado-javier-lopez-reyna",
+        "_added_at": "2026-07-26T12:23:25.927703-07:00"
+      },
       {
         "title": "Agente de FESC asesinado en Tijuana por robo de droga",
         "summary": "Ejecutan a elemento de la policía estatal acusado de sustraer cocaína; su acompañante resultó herida.",
@@ -48,6 +76,20 @@
     ],
     "politica": [
       {
+        "title": "Mujeres candidatas en Baja California",
+        "summary": "Editorial sobre participación de mujeres como candidatas en procesos electorales de BC.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/editoriales/179587_mujeres_candidatas_en_bc",
+        "_added_at": "2026-07-26T12:23:25.927703-07:00"
+      },
+      {
+        "title": "Arquidiócesis desmiente sentencia contra sacerdote",
+        "summary": "Institución religiosa rechaza información sobre supuesta condena judicial a clérigo.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179588_arquidiocesis_de_tijuana_desmiente_supuesta_sentencia_judicial_contra_sacerdote",
+        "_added_at": "2026-07-26T12:23:25.927703-07:00"
+      },
+      {
         "title": "Funcionaria insiste en versión sobre trámite de visa",
         "summary": "Monserrat reitera su posición respecto a los hechos relacionados con gestión de documentación.",
         "source": "AFN Tijuana",
@@ -72,6 +114,27 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Acueducto Florido-Aguaje reparado en Tijuana",
+        "summary": "Concluye reparación; se inicia recuperación de servicio de agua en Tijuana y Rosarito.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/concluye-reparacion-de-acueducto-florido-aguaje-inicia-recuperacion-del-servicio-de-agua-en-tijuana-y-rosarito/?utm_source=rss&utm_medium=rss&utm_campaign=concluye-reparacion-de-acueducto-florido-aguaje-inicia-recuperacion-del-servicio-de-agua-en-tijuana-y-rosarito",
+        "_added_at": "2026-07-26T12:23:25.927703-07:00"
+      },
+      {
+        "title": "Recuperación de agua podría tardar cinco días",
+        "summary": "CESPT estima que servicio de agua se normalizará completamente en máximo cinco días.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/recuperacion-total-del-servicio-de-agua-podria-tardar-hasta-cinco-dias-cespt/?utm_source=rss&utm_medium=rss&utm_campaign=recuperacion-total-del-servicio-de-agua-podria-tardar-hasta-cinco-dias-cespt",
+        "_added_at": "2026-07-26T12:23:25.927703-07:00"
+      },
+      {
+        "title": "Francisco Padilla gana primer oro para BC",
+        "summary": "Atleta de Baja California consigue primer lugar en competencia en Santo Domingo.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/francisco-padilla-conquista-primer-oro-para-baja-california-en-santo-domingo/?utm_source=rss&utm_medium=rss&utm_campaign=francisco-padilla-conquista-primer-oro-para-baja-california-en-santo-domingo",
+        "_added_at": "2026-07-26T12:23:25.927703-07:00"
+      },
       {
         "title": "Crisis de agua afecta Tijuana y Rosarito por cinco días",
         "summary": "Deslizamiento daña acueducto; CESPT estima recuperación total en hasta cinco días.",
@@ -120,15 +183,8 @@
         "source": "El Mexicano",
         "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97221/%E2%80%9CLos-perros-no-son-contenido,-son-familia%E2%80%9D;-activistas-protestan-para-exigir-informaci%C3%B3n-sobre-dos-perros-adoptados-por-influencer",
         "_added_at": "2026-07-26T01:37:06.873824-07:00"
-      },
-      {
-        "title": "IMDET entrega chips para Medio Maratón Internacional",
-        "summary": "Organismo prepara a participantes para trigésima primera edición del evento en Tijuana.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/entrega-imdet-chips-para-el-31-medio-maraton-internacional-de-tijuana/",
-        "_added_at": "2026-07-26T01:37:06.873824-07:00"
       }
     ]
   },
-  "last_updated": "2026-07-26T09:09:12.564443-07:00"
+  "last_updated": "2026-07-26T12:23:25.927703-07:00"
 }
