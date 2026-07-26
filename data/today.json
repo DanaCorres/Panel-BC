@@ -1,8 +1,29 @@
 {
   "date": "2026-07-26",
-  "run_count": 5,
+  "run_count": 6,
   "notes": {
     "seguridad": [
+      {
+        "title": "Motociclista armado detenido tras huida policial",
+        "summary": "Detienen a sujeto que intentó escapar de autoridades mientras portaba armas en Tijuana.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/179597_detienen_a_motociclista_armado_intento_huir_de_la_policia",
+        "_added_at": "2026-07-26T15:05:56.630069-07:00"
+      },
+      {
+        "title": "Hombre detenido por privación de libertad en Mexicali",
+        "summary": "Autoridades capturan a individuo acusado de secuestro en la capital bajacaliforniana.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/179596_detienen_a_un_hombre_por_privacion_de_la_libertad_en_mexicali",
+        "_added_at": "2026-07-26T15:05:56.630069-07:00"
+      },
+      {
+        "title": "Peatón muere atropellado en el Libramiento",
+        "summary": "Accidente vial fatal en vialidad importante de Tijuana deja un deceso.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/179586_murio_un_peaton_atropellado_en_el_libramiento",
+        "_added_at": "2026-07-26T15:05:56.630069-07:00"
+      },
       {
         "title": "Agente FESC asesinado en Tijuana",
         "summary": "Elemento de seguridad identificado como Óscar Arellano fue ejecutado a balazos en Nuevo Milenio; su acompañante resultó herida.",
@@ -51,30 +72,16 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/seguridad/179584_identifican_como_oscar_arellano_al_agente_ejecutado_su_acompanante_fue_herida",
         "_added_at": "2026-07-26T01:37:06.873824-07:00"
-      },
-      {
-        "title": "Sin detenidos por asesinato de abogado Javier López Reyna",
-        "summary": "Autoridades no han capturado a responsables del homicidio del abogado en Tijuana.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/sin-detenidos-tras-asesinato-del-abogado-javier-lopez-reyna/",
-        "_added_at": "2026-07-26T01:37:06.873824-07:00"
-      },
-      {
-        "title": "Aseguran plantío ilegal de marihuana en San Quintín",
-        "summary": "Autoridades decomisan cultivo clandestino de cannabis en la localidad de San Quintín.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/aseguran-plantio-ilegal-de-marihuana-en-san-quintin/",
-        "_added_at": "2026-07-26T01:37:06.873824-07:00"
-      },
-      {
-        "title": "Restos humanos abandonados en vía pública",
-        "summary": "Hallan bolsas con restos mortales en colonia Panamericano de Tijuana.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179571_dejan_bolsas_con_restos_humanos_en_plena_via_publica_en_la_colonia_panamericano",
-        "_added_at": "2026-07-26T01:37:06.873824-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Descartan candidaturas corcholatas en Baja California",
+        "summary": "Proceso de selección en el estado comienza a eliminar precandidatos considerados apoyados por intereses previos.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/afn_politico/179593_empiezan_a_descartar_corcholatas_en_baja_california",
+        "_added_at": "2026-07-26T15:05:56.630069-07:00"
+      },
       {
         "title": "Mujeres candidatas en Baja California",
         "summary": "Editorial sobre participación de mujeres como candidatas en procesos electorales de BC.",
@@ -99,6 +106,20 @@
     ],
     "economia": [
       {
+        "title": "Contadores denuncian excesiva carga fiscal y retrasos",
+        "summary": "Gremio de contadores en Tijuana acusa problemas administrativos y tributarios en el estado.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97237/Acusan-contadores-excesiva-carga-fiscal-y-retrasos",
+        "_added_at": "2026-07-26T15:05:56.630069-07:00"
+      },
+      {
+        "title": "Retiro masivo de visas por presunto cabotaje en Tijuana",
+        "summary": "Autoridades estadounidenses cuestionan validez de visas por posibles violaciones a regulaciones de transportación.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97239/Acusan-retiro-masivo-de-visas-por-presunto-cabotaje",
+        "_added_at": "2026-07-26T15:05:56.630069-07:00"
+      },
+      {
         "title": "Bajo nivel de proveeduría local en Baja California",
         "summary": "Buscan incrementar participación de empresas locales en cadenas de suministro del estado.",
         "source": "AFN Tijuana",
@@ -114,6 +135,34 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Isaac del Toro sube al podio del Tour de Francia",
+        "summary": "Ciclista ensenadense logra histórico resultado en la competencia internacional más importante del ciclismo.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179595_historico_el_ensenadense_isaac_del_toro_sube_al_podio_en_el_tour_de_francia",
+        "_added_at": "2026-07-26T15:05:56.630069-07:00"
+      },
+      {
+        "title": "Seis mil corredores participan en Medio Maratón de Tijuana",
+        "summary": "Edición 31 del evento convoca a miles de atletas en carrera internacional de la ciudad.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97234/Cerca-de-6-mil-corredores-participan-en-el-XXXI-Medio-Marat%C3%B3n-Internacional-Tijuana-2026",
+        "_added_at": "2026-07-26T15:05:56.630069-07:00"
+      },
+      {
+        "title": "Recuperación de agua en Tijuana y Rosarito tras reparación",
+        "summary": "Conclusión de trabajos en Acueducto Florido-Aguaje inicia normalización del servicio en ambas ciudades.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179590_concluye_reparacion_del_acueducto_habra_agua_hasta_el_jueves",
+        "_added_at": "2026-07-26T15:05:56.630069-07:00"
+      },
+      {
+        "title": "Apagones en Mexicali son riesgo para la salud",
+        "summary": "Red de Residenciales advierte sobre impacto sanitario de cortes eléctricos en capital estatal.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179592_apagones_en_mexicali_son_un_riesgo_para_la_salud_advierte_red_de_residenciales",
+        "_added_at": "2026-07-26T15:05:56.630069-07:00"
+      },
       {
         "title": "Acueducto Florido-Aguaje reparado en Tijuana",
         "summary": "Concluye reparación; se inicia recuperación de servicio de agua en Tijuana y Rosarito.",
@@ -155,36 +204,8 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/seguridad/179570_fuerte_incendio_en_unos_departamentos_deja_dos_heridos_graves",
         "_added_at": "2026-07-26T09:09:12.564443-07:00"
-      },
-      {
-        "title": "Aseguran plantío ilegal de marihuana en San Quintín",
-        "summary": "Autoridades decomisan cultivo clandestino en zona agrícola de Baja California.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/aseguran-plantio-ilegal-de-marihuana-en-san-quintin/",
-        "_added_at": "2026-07-26T03:48:54.131299-07:00"
-      },
-      {
-        "title": "Crisis hídrica: recuperación de agua tardará cinco días",
-        "summary": "CESPT estima tiempo de restauración completa del servicio tras deslizamiento en acueducto.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/recuperacion-total-del-servicio-de-agua-podria-tardar-hasta-cinco-dias-cespt/",
-        "_added_at": "2026-07-26T01:37:06.873824-07:00"
-      },
-      {
-        "title": "Deslizamiento deja sin agua a Tijuana y Rosarito",
-        "summary": "Múltiples colonias afectadas por falta de suministro tras daño en infraestructura.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/otra-vez-colonias-de-tijuana-y-rosarito-sin-agua-ahora-fue-por-deslizamiento/",
-        "_added_at": "2026-07-26T01:37:06.873824-07:00"
-      },
-      {
-        "title": "Activistas exigen información sobre perros de influencer",
-        "summary": "Protesta por paradero de dos canes adoptados; demandan respuestas sobre su bienestar.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97221/%E2%80%9CLos-perros-no-son-contenido,-son-familia%E2%80%9D;-activistas-protestan-para-exigir-informaci%C3%B3n-sobre-dos-perros-adoptados-por-influencer",
-        "_added_at": "2026-07-26T01:37:06.873824-07:00"
       }
     ]
   },
-  "last_updated": "2026-07-26T12:23:25.927703-07:00"
+  "last_updated": "2026-07-26T15:05:56.630069-07:00"
 }
