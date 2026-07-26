@@ -1,8 +1,22 @@
 {
   "date": "2026-07-26",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Agente de FESC asesinado en Tijuana por robo de droga",
+        "summary": "Ejecutan a elemento de la policía estatal acusado de sustraer cocaína; su acompañante resultó herida.",
+        "source": "ZETA Tijuana / AFN Tijuana",
+        "url": "https://zetatijuana.com/2026/07/en-tijuana-matan-a-agente-de-la-fesc-senalado-por-robo-de-cocaina/",
+        "_added_at": "2026-07-26T03:48:54.131299-07:00"
+      },
+      {
+        "title": "Incendio en departamentos deja dos heridos graves",
+        "summary": "Fuego consume unidad habitacional en Tijuana; bomberos rescatan a ocupantes.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/179570_fuerte_incendio_en_unos_departamentos_deja_dos_heridos_graves",
+        "_added_at": "2026-07-26T03:48:54.131299-07:00"
+      },
       {
         "title": "Agente de FESC asesinado en Tijuana",
         "summary": "Ejecutan a elemento de la Fuerza Estatal de Seguridad Ciudadana en colonia Nuevo Milenio; su acompañante resulta herida.",
@@ -51,6 +65,13 @@
     ],
     "sociedad": [
       {
+        "title": "Aseguran plantío ilegal de marihuana en San Quintín",
+        "summary": "Autoridades decomisan cultivo clandestino en zona agrícola de Baja California.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/aseguran-plantio-ilegal-de-marihuana-en-san-quintin/",
+        "_added_at": "2026-07-26T03:48:54.131299-07:00"
+      },
+      {
         "title": "Crisis hídrica: recuperación de agua tardará cinco días",
         "summary": "CESPT estima tiempo de restauración completa del servicio tras deslizamiento en acueducto.",
         "source": "ZETA Tijuana",
@@ -80,5 +101,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-26T01:37:06.873824-07:00"
+  "last_updated": "2026-07-26T03:48:54.131299-07:00"
 }
