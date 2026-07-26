@@ -1,8 +1,29 @@
 {
   "date": "2026-07-25",
-  "run_count": 6,
+  "run_count": 7,
   "notes": {
     "seguridad": [
+      {
+        "title": "Abogado asesinado en Tijuana; sin detenidos aún",
+        "summary": "Javier López Reyna fue encontrado sin vida; autoridades no han logrado identificar responsables ni hacer detenciones.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/sin-detenidos-tras-asesinato-del-abogado-javier-lopez-reyna/?utm_source=rss&utm_medium=rss&utm_campaign=sin-detenidos-tras-asesinato-del-abogado-javier-lopez-reyna",
+        "_added_at": "2026-07-25T20:43:34.468318-07:00"
+      },
+      {
+        "title": "Agente de FESC muere por disparos en Tijuana",
+        "summary": "Elemento acusado de robo de cocaína es asesinado a balazos en la capital; investigación en curso.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/en-tijuana-matan-a-agente-de-la-fesc-senalado-por-robo-de-cocaina/?utm_source=rss&utm_medium=rss&utm_campaign=en-tijuana-matan-a-agente-de-la-fesc-senalado-por-robo-de-cocaina",
+        "_added_at": "2026-07-25T20:43:34.468318-07:00"
+      },
+      {
+        "title": "Plantío ilegal de marihuana asegurado en San Quintín",
+        "summary": "Autoridades desmantelan operación de cultivo clandestino en zona agrícola de San Quintín.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/aseguran-plantio-ilegal-de-marihuana-en-san-quintin/?utm_source=rss&utm_medium=rss&utm_campaign=aseguran-plantio-ilegal-de-marihuana-en-san-quintin",
+        "_added_at": "2026-07-25T20:43:34.468318-07:00"
+      },
       {
         "title": "Hallan restos humanos en bolsas en Panamericano, Tijuana",
         "summary": "Descubren partes del cuerpo abandonadas en vía pública; investigan caso de homicidio.",
@@ -51,27 +72,6 @@
         "source": "El Mexicano",
         "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97201/Incendio-en-Infonavit-Murua-afecta-tres-departamentos-y-deja-dos-hombres-con-graves-quemaduras",
         "_added_at": "2026-07-25T09:09:10.864287-07:00"
-      },
-      {
-        "title": "Aseguran cultivo ilícito de marihuana en San Quintín",
-        "summary": "Autoridades decomisaron campamento con plantas de cannabis en municipio de Baja California Sur.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/aseguran-campamento-con-plantas-de-marihuana-en-san-quintin/",
-        "_added_at": "2026-07-25T09:09:10.864287-07:00"
-      },
-      {
-        "title": "Conductor queda atrapado tras choque en Bellas Artes",
-        "summary": "Accidente vial en Tijuana requirió intervención de rescatistas para extraer a persona del vehículo.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97198/Conductor-queda-prensado-tras-chocar-contra-barrera-de-concreto-en-el-bulevar-Bellas-Artes",
-        "_added_at": "2026-07-25T09:09:10.864287-07:00"
-      },
-      {
-        "title": "Cateo federal en rancho de Tecate",
-        "summary": "Autoridades realizan operativo en inmueble ubicado en la localidad.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/179543_autoridades_federales_realizaron_un_cateo_en_rancho_de_tecate",
-        "_added_at": "2026-07-25T06:53:29.222464-07:00"
       }
     ],
     "politica": [
@@ -126,6 +126,13 @@
       }
     ],
     "economia": [
+      {
+        "title": "Baja California muestra bajo nivel de proveeduría local",
+        "summary": "Buscan incrementar participación de empresas locales en cadenas de suministro estatal.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179579_bc_tiene_bajo_nivel_de_proveeduria_local_buscan_incorporar_mas_empresas_a_cadenas_de_suministro",
+        "_added_at": "2026-07-25T20:43:34.468318-07:00"
+      },
       {
         "title": "Crisis hídrica afecta 421 colonias de Tijuana y Rosarito",
         "summary": "Fuga en acueducto Florido-Aguaje provoca suspensión de agua en miles de viviendas.",
@@ -185,6 +192,27 @@
     ],
     "sociedad": [
       {
+        "title": "Recuperación de agua podría tardar cinco días en Tijuana",
+        "summary": "CESPT estima plazo para normalizar servicio tras reparación de acueducto dañado por deslizamiento.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/recuperacion-total-del-servicio-de-agua-podria-tardar-hasta-cinco-dias-cespt/?utm_source=rss&utm_medium=rss&utm_campaign=recuperacion-total-del-servicio-de-agua-podria-tardar-hasta-cinco-dias-cespt",
+        "_added_at": "2026-07-25T20:43:34.468318-07:00"
+      },
+      {
+        "title": "Activistas exigen información sobre perros de influencer",
+        "summary": "Protesta por paradero desconocido de dos mascotas adoptadas por personalidad digital.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97221/%E2%80%9CLos-perros-no-son-contenido,-son-familia%E2%80%9D;-activistas-protestan-para-exigir-informaci%C3%B3n-sobre-dos-perros-adoptados-por-influencer",
+        "_added_at": "2026-07-25T20:43:34.468318-07:00"
+      },
+      {
+        "title": "Alcaldesa de Rosarito se reúne con comités vecinales",
+        "summary": "Encuentro aborda preocupaciones comunitarias en colonias de la ciudad costera.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Rosarito/97189/Realiza-alcaldesa-de-Rosarito-reuni%C3%B3n-con-comit%C3%A9s-vecinales-en-la-colonia-Real-del-Sol",
+        "_added_at": "2026-07-25T20:43:34.468318-07:00"
+      },
+      {
         "title": "Animalistas exigen respuesta sobre perros de influencer",
         "summary": "Activistas demandan información sobre paradero de Pancho y Chiquis adoptados.",
         "source": "ZETA Tijuana",
@@ -232,29 +260,8 @@
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/07/fuga-en-acueducto-florido-aguaje-dejara-sin-agua-a-421-colonias-de-tijuana-y-rosarito-cespt/",
         "_added_at": "2026-07-25T09:09:10.864287-07:00"
-      },
-      {
-        "title": "Animalistas denuncian falta de refugios y transparencia en Tijuana",
-        "summary": "Organizaciones civiles advierten insuficiencia de espacios para perros rescatados.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/animalistas-denuncian-falta-de-informacion-sobre-perros-rescatados-y-escasez-de-refugios-en-tijuana/",
-        "_added_at": "2026-07-25T09:09:10.864287-07:00"
-      },
-      {
-        "title": "Sacerdote sentenciado a 21 años de prisión",
-        "summary": "Religioso condenado por violación agravada cometida contra monja.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/sacerdote-es-sentenciado-a-21-anos-de-prision-por-violacion-impropia-agravada-contra-monja/?utm_source=rss&utm_medium=rss&utm_campaign=sacerdote-es-sentenciado-a-21-anos-de-prision-por-violacion-impropia-agravada-contra-monja",
-        "_added_at": "2026-07-25T06:53:29.222464-07:00"
-      },
-      {
-        "title": "Mexicali repara vialidades con programa 'Calles Seguras'",
-        "summary": "Autoridades ejecutan trabajos de mantenimiento vial en colonias de la ciudad.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179553_reparan_vialidades_en_mexicali_con_calles_seguras_familias_seguras",
-        "_added_at": "2026-07-25T06:53:29.222464-07:00"
       }
     ]
   },
-  "last_updated": "2026-07-25T15:01:35.186080-07:00"
+  "last_updated": "2026-07-25T20:43:34.468318-07:00"
 }
