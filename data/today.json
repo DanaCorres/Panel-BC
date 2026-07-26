@@ -1,6 +1,6 @@
 {
   "date": "2026-07-26",
-  "run_count": 3,
+  "run_count": 4,
   "notes": {
     "seguridad": [
       {
@@ -46,7 +46,15 @@
         "_added_at": "2026-07-26T01:37:06.873824-07:00"
       }
     ],
-    "politica": [],
+    "politica": [
+      {
+        "title": "Funcionaria insiste en versión sobre trámite de visa",
+        "summary": "Monserrat reitera su posición respecto a los hechos relacionados con gestión de documentación.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179577_no_menti_asegura_monserrat_que_insiste_en_su_version_de_la_visa",
+        "_added_at": "2026-07-26T09:09:12.564443-07:00"
+      }
+    ],
     "economia": [
       {
         "title": "Bajo nivel de proveeduría local en Baja California",
@@ -64,6 +72,27 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Crisis de agua afecta Tijuana y Rosarito por cinco días",
+        "summary": "Deslizamiento daña acueducto; CESPT estima recuperación total en hasta cinco días.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/97222/Recuperaci%C3%B3n-del-servicio-de-agua-en-Tijuana-y-Rosarito-tardar%C3%A1-hasta-cinco-d%C3%ADas%3A-CESPT",
+        "_added_at": "2026-07-26T09:09:12.564443-07:00"
+      },
+      {
+        "title": "Miles participan en Medio Maratón Internacional de Tijuana",
+        "summary": "Evento deportivo de importancia registra numerosa participación ciudadana el domingo.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97227/Miles-participan-en-Medio-Marat%C3%B3n-de-Tijuana",
+        "_added_at": "2026-07-26T09:09:12.564443-07:00"
+      },
+      {
+        "title": "Incendio en departamentos deja dos heridos graves",
+        "summary": "Fuerte siniestro en Tijuana hospitaliza a dos personas con lesiones severas.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/179570_fuerte_incendio_en_unos_departamentos_deja_dos_heridos_graves",
+        "_added_at": "2026-07-26T09:09:12.564443-07:00"
+      },
       {
         "title": "Aseguran plantío ilegal de marihuana en San Quintín",
         "summary": "Autoridades decomisan cultivo clandestino en zona agrícola de Baja California.",
@@ -101,5 +130,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-26T06:46:16.464470-07:00"
+  "last_updated": "2026-07-26T09:09:12.564443-07:00"
 }
