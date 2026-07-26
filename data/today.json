@@ -1,267 +1,84 @@
 {
-  "date": "2026-07-25",
-  "run_count": 7,
+  "date": "2026-07-26",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Abogado asesinado en Tijuana; sin detenidos aún",
-        "summary": "Javier López Reyna fue encontrado sin vida; autoridades no han logrado identificar responsables ni hacer detenciones.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/sin-detenidos-tras-asesinato-del-abogado-javier-lopez-reyna/?utm_source=rss&utm_medium=rss&utm_campaign=sin-detenidos-tras-asesinato-del-abogado-javier-lopez-reyna",
-        "_added_at": "2026-07-25T20:43:34.468318-07:00"
+        "title": "Agente de FESC asesinado en Tijuana",
+        "summary": "Ejecutan a elemento de la Fuerza Estatal de Seguridad Ciudadana en colonia Nuevo Milenio; su acompañante resulta herida.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/179584_identifican_como_oscar_arellano_al_agente_ejecutado_su_acompanante_fue_herida",
+        "_added_at": "2026-07-26T01:37:06.873824-07:00"
       },
       {
-        "title": "Agente de FESC muere por disparos en Tijuana",
-        "summary": "Elemento acusado de robo de cocaína es asesinado a balazos en la capital; investigación en curso.",
+        "title": "Sin detenidos por asesinato de abogado Javier López Reyna",
+        "summary": "Autoridades no han capturado a responsables del homicidio del abogado en Tijuana.",
         "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/en-tijuana-matan-a-agente-de-la-fesc-senalado-por-robo-de-cocaina/?utm_source=rss&utm_medium=rss&utm_campaign=en-tijuana-matan-a-agente-de-la-fesc-senalado-por-robo-de-cocaina",
-        "_added_at": "2026-07-25T20:43:34.468318-07:00"
+        "url": "https://zetatijuana.com/2026/07/sin-detenidos-tras-asesinato-del-abogado-javier-lopez-reyna/",
+        "_added_at": "2026-07-26T01:37:06.873824-07:00"
       },
       {
-        "title": "Plantío ilegal de marihuana asegurado en San Quintín",
-        "summary": "Autoridades desmantelan operación de cultivo clandestino en zona agrícola de San Quintín.",
+        "title": "Aseguran plantío ilegal de marihuana en San Quintín",
+        "summary": "Autoridades decomisan cultivo clandestino de cannabis en la localidad de San Quintín.",
         "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/aseguran-plantio-ilegal-de-marihuana-en-san-quintin/?utm_source=rss&utm_medium=rss&utm_campaign=aseguran-plantio-ilegal-de-marihuana-en-san-quintin",
-        "_added_at": "2026-07-25T20:43:34.468318-07:00"
+        "url": "https://zetatijuana.com/2026/07/aseguran-plantio-ilegal-de-marihuana-en-san-quintin/",
+        "_added_at": "2026-07-26T01:37:06.873824-07:00"
       },
       {
-        "title": "Hallan restos humanos en bolsas en Panamericano, Tijuana",
-        "summary": "Descubren partes del cuerpo abandonadas en vía pública; investigan caso de homicidio.",
+        "title": "Restos humanos abandonados en vía pública",
+        "summary": "Hallan bolsas con restos mortales en colonia Panamericano de Tijuana.",
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/179571_dejan_bolsas_con_restos_humanos_en_plena_via_publica_en_la_colonia_panamericano",
-        "_added_at": "2026-07-25T15:01:35.186080-07:00"
-      },
-      {
-        "title": "Incendio en departamentos deja dos heridos graves",
-        "summary": "Fuego afecta complejo de viviendas; rescatan a dos personas con lesiones severas.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/179570_fuerte_incendio_en_unos_departamentos_deja_dos_heridos_graves",
-        "_added_at": "2026-07-25T15:01:35.186080-07:00"
-      },
-      {
-        "title": "Vinculan a proceso a presunto homicida en Rosarito",
-        "summary": "Detienen y canaliza a juez a responsable de crimen cometido en municipio.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97211/Vinculan-a-proceso-a-presunto-homicida-por-crimen-en-Rosarito",
-        "_added_at": "2026-07-25T15:01:35.186080-07:00"
-      },
-      {
-        "title": "Desmantelan centro productor de narcóticos en Tijuana",
-        "summary": "Autoridades desarticulan operación de fabricación de drogas en la ciudad, asegurando instalaciones y equipo.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/desarman-centro-de-produccion-de-narcoticos-en-tijuana/?utm_source=rss&utm_medium=rss&utm_campaign=desarman-centro-de-produccion-de-narcoticos-en-tijuana",
-        "_added_at": "2026-07-25T12:20:35.264421-07:00"
-      },
-      {
-        "title": "Hallan restos humanos desmembrados en colonia Panamericano",
-        "summary": "Encuentran bolsas con partes de cuerpos en vía pública; investigación en curso sobre identidad de víctimas.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/179571_dejan_bolsas_con_restos_humanos_en_plena_via_publica_en_la_colonia_panamericano",
-        "_added_at": "2026-07-25T12:20:35.264421-07:00"
-      },
-      {
-        "title": "Sacerdote condenado a 21 años por violación contra monja",
-        "summary": "Sentencia en Baja California por delito sexual grave cometido contra religiosa en institución eclesial.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/sacerdote-es-sentenciado-a-21-anos-de-prision-por-violacion-impropia-agravada-contra-monja/",
-        "_added_at": "2026-07-25T09:09:10.864287-07:00"
-      },
-      {
-        "title": "Incendio en Infonavit Murúa deja dos con quemaduras graves",
-        "summary": "Siniestro en Tijuana afecta tres departamentos e ingresa dos heridos con lesiones severas.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97201/Incendio-en-Infonavit-Murua-afecta-tres-departamentos-y-deja-dos-hombres-con-graves-quemaduras",
-        "_added_at": "2026-07-25T09:09:10.864287-07:00"
+        "_added_at": "2026-07-26T01:37:06.873824-07:00"
       }
     ],
-    "politica": [
-      {
-        "title": "Montserrat confirma revocación de visa estadounidense",
-        "summary": "Funcionaria afirma no estar bajo investigación en EE.UU. pese a cancelación.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/montserrat-confirma-revocacion-de-visa-no-me-investigan-en-eeuu/?utm_source=rss&utm_medium=rss&utm_campaign=montserrat-confirma-revocacion-de-visa-no-me-investigan-en-eeuu",
-        "_added_at": "2026-07-25T15:01:35.186080-07:00"
-      },
-      {
-        "title": "Gobierno BC condona adeudos vehiculares de 2023",
-        "summary": "Autoridad estatal condonará pagos atrasados de tenencia y otros años anteriores.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Estatal/97209/Condona-Gobierno-B.C.-adeudos-vehiculares-del-a%C3%B1o-2023-y-anteriores",
-        "_added_at": "2026-07-25T15:01:35.186080-07:00"
-      },
-      {
-        "title": "Abogadas demandan seguridad tras homicidio de colega",
-        "summary": "Gremio exige medidas de protección después de muerte del abogado Javier López Reyna.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97204/Abogadas-exigen-prevenci%C3%B3n-tras-asesinato-del-abogado-Javier-L%C3%B3pez-Reyna",
-        "_added_at": "2026-07-25T12:20:35.264421-07:00"
-      },
-      {
-        "title": "Tecate cuenta con presupuesto de 245 millones de pesos",
-        "summary": "Municipio dispone de aportaciones y participaciones federales para ejercicio presupuestal.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/empresarial/179562_gobierno_de_tecate_cuenta_con_245_mdp_de_aportaciones_y_participaciones",
-        "_added_at": "2026-07-25T12:20:35.264421-07:00"
-      },
-      {
-        "title": "Morena frena rechazo a cuenta pública en Congreso BC",
-        "summary": "Partido bloquea votación adversa sobre rendición de cuentas 2023 de Ayala.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/morena-frena-rechazo-a-la-cuenta-publica-2023-de-armando-ayala-en-el-congreso-de-bc/?utm_source=rss&utm_medium=rss&utm_campaign=morena-frena-rechazo-a-la-cuenta-publica-2023-de-armando-ayala-en-el-congreso-de-bc",
-        "_added_at": "2026-07-25T01:18:46.291516-07:00"
-      },
-      {
-        "title": "Darío Benítez denuncia venganza política",
-        "summary": "Funcionario acusa represalias tras sus señalamientos contra Román Cota.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179554_dario_benitez_acusa_venganza_en_su_contra_por_senalamientos_hacia_roman_cota",
-        "_added_at": "2026-07-25T01:18:46.291516-07:00"
-      },
-      {
-        "title": "Fox respalda a Ernesto Ruffo con garantías",
-        "summary": "Expresidentes panistas solicitan juicio justo para exgobernador acusado.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179552_fox_y_exgobernadores_panistas_respaldan_a_ernesto_ruffo_piden_juicio_justo",
-        "_added_at": "2026-07-25T01:18:46.291516-07:00"
-      }
-    ],
+    "politica": [],
     "economia": [
       {
-        "title": "Baja California muestra bajo nivel de proveeduría local",
-        "summary": "Buscan incrementar participación de empresas locales en cadenas de suministro estatal.",
+        "title": "Bajo nivel de proveeduría local en Baja California",
+        "summary": "Buscan incrementar participación de empresas locales en cadenas de suministro del estado.",
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/179579_bc_tiene_bajo_nivel_de_proveeduria_local_buscan_incorporar_mas_empresas_a_cadenas_de_suministro",
-        "_added_at": "2026-07-25T20:43:34.468318-07:00"
+        "_added_at": "2026-07-26T01:37:06.873824-07:00"
       },
       {
-        "title": "Crisis hídrica afecta 421 colonias de Tijuana y Rosarito",
-        "summary": "Fuga en acueducto Florido-Aguaje provoca suspensión de agua en miles de viviendas.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/fuga-en-acueducto-florido-aguaje-dejara-sin-agua-a-421-colonias-de-tijuana-y-rosarito-cespt/?utm_source=rss&utm_medium=rss&utm_campaign=fuga-en-acueducto-florido-aguaje-dejara-sin-agua-a-421-colonias-de-tijuana-y-rosarito-cespt",
-        "_added_at": "2026-07-25T12:20:35.264421-07:00"
-      },
-      {
-        "title": "Buscan fortalecer proveeduría nacional ante cambios arancelarios",
-        "summary": "Sectores preparan estrategias ante revisión del T-MEC y modificaciones comerciales.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179568_buscan_fortalecer_proveeduria_nacional_ante_cambios_arancelarios_y_revision_del_t_mec",
-        "_added_at": "2026-07-25T12:20:35.264421-07:00"
-      },
-      {
-        "title": "BC incorpora 118 mil trabajadores con salario mínimo",
-        "summary": "Mercado laboral estatal crece con nuevas plazas de empleo con remuneración mínima.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/empresarial/179563_mercado_laboral_incorpora_a_118_mil_trabajadores_con_2_sm_en_bc",
-        "_added_at": "2026-07-25T09:09:10.864287-07:00"
-      },
-      {
-        "title": "EU reabrirá frontera a ganado mexicano el 24 de agosto",
-        "summary": "Reapertura gradual de importaciones ganaderas beneficiará a productores fronterizos de Baja California.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179556_anuncia_eu_reapertura_gradual_a_la_exportacion_de_ganado_mexicano",
-        "_added_at": "2026-07-25T09:09:10.864287-07:00"
-      },
-      {
-        "title": "Tecate dispone de 245 millones en participaciones",
-        "summary": "Gobierno municipal cuenta con presupuesto federal para operaciones e inversión pública.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/empresarial/179562_gobierno_de_tecate_cuenta_con_245_mdp_de_aportaciones_y_participaciones",
-        "_added_at": "2026-07-25T09:09:10.864287-07:00"
-      },
-      {
-        "title": "Déficit de subestaciones eléctricas frena crecimiento de Tijuana",
-        "summary": "Infraestructura energética insuficiente limita desarrollo urbano y expansión industrial.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179564_advierten_deficit_de_subestaciones_electricas_ante_crecimiento_de_tijuana",
-        "_added_at": "2026-07-25T09:09:10.864287-07:00"
-      },
-      {
-        "title": "EU reabre frontera al ganado mexicano 24 agosto",
-        "summary": "Estados Unidos autoriza gradualmente entrada de exportación ganadera mexicana.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/eu-reabrira-frontera-al-ganado-mexicano-el-24-de-agosto/?utm_source=rss&utm_medium=rss&utm_campaign=eu-reabrira-frontera-al-ganado-mexicano-el-24-de-agosto",
-        "_added_at": "2026-07-25T01:18:46.291516-07:00"
-      },
-      {
-        "title": "Index consolida 350 citas de negocios 2026",
-        "summary": "Encuentro empresarial genera importantes oportunidades comerciales en BC.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/empresarial/179549_mas_de_350_citas_de_negocios_consolida_index_en_encuentro_2026",
-        "_added_at": "2026-07-25T01:18:46.291516-07:00"
+        "title": "Empresarios participan en Torneo de Golf COPARMEX-Banamex",
+        "summary": "Más de 160 empresarios asisten a décima edición del evento en Tijuana.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97187/M%C3%A1s-de-160-empresarios-participan-en-la-d%C3%A9cima-edici%C3%B3n-del-Torneo-de-Golf-COPARMEX-Banamex-2026",
+        "_added_at": "2026-07-26T01:37:06.873824-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Recuperación de agua podría tardar cinco días en Tijuana",
-        "summary": "CESPT estima plazo para normalizar servicio tras reparación de acueducto dañado por deslizamiento.",
+        "title": "Crisis hídrica: recuperación de agua tardará cinco días",
+        "summary": "CESPT estima tiempo de restauración completa del servicio tras deslizamiento en acueducto.",
         "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/recuperacion-total-del-servicio-de-agua-podria-tardar-hasta-cinco-dias-cespt/?utm_source=rss&utm_medium=rss&utm_campaign=recuperacion-total-del-servicio-de-agua-podria-tardar-hasta-cinco-dias-cespt",
-        "_added_at": "2026-07-25T20:43:34.468318-07:00"
+        "url": "https://zetatijuana.com/2026/07/recuperacion-total-del-servicio-de-agua-podria-tardar-hasta-cinco-dias-cespt/",
+        "_added_at": "2026-07-26T01:37:06.873824-07:00"
+      },
+      {
+        "title": "Deslizamiento deja sin agua a Tijuana y Rosarito",
+        "summary": "Múltiples colonias afectadas por falta de suministro tras daño en infraestructura.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/otra-vez-colonias-de-tijuana-y-rosarito-sin-agua-ahora-fue-por-deslizamiento/",
+        "_added_at": "2026-07-26T01:37:06.873824-07:00"
       },
       {
         "title": "Activistas exigen información sobre perros de influencer",
-        "summary": "Protesta por paradero desconocido de dos mascotas adoptadas por personalidad digital.",
+        "summary": "Protesta por paradero de dos canes adoptados; demandan respuestas sobre su bienestar.",
         "source": "El Mexicano",
         "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97221/%E2%80%9CLos-perros-no-son-contenido,-son-familia%E2%80%9D;-activistas-protestan-para-exigir-informaci%C3%B3n-sobre-dos-perros-adoptados-por-influencer",
-        "_added_at": "2026-07-25T20:43:34.468318-07:00"
+        "_added_at": "2026-07-26T01:37:06.873824-07:00"
       },
       {
-        "title": "Alcaldesa de Rosarito se reúne con comités vecinales",
-        "summary": "Encuentro aborda preocupaciones comunitarias en colonias de la ciudad costera.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Rosarito/97189/Realiza-alcaldesa-de-Rosarito-reuni%C3%B3n-con-comit%C3%A9s-vecinales-en-la-colonia-Real-del-Sol",
-        "_added_at": "2026-07-25T20:43:34.468318-07:00"
-      },
-      {
-        "title": "Animalistas exigen respuesta sobre perros de influencer",
-        "summary": "Activistas demandan información sobre paradero de Pancho y Chiquis adoptados.",
+        "title": "IMDET entrega chips para Medio Maratón Internacional",
+        "summary": "Organismo prepara a participantes para trigésima primera edición del evento en Tijuana.",
         "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/animalistas-exigen-respuesta-sobre-el-paradero-de-pancho-y-chiquis-perros-adoptados-por-influencer/?utm_source=rss&utm_medium=rss&utm_campaign=animalistas-exigen-respuesta-sobre-el-paradero-de-pancho-y-chiquis-perros-adoptados-por-influencer",
-        "_added_at": "2026-07-25T15:01:35.186080-07:00"
-      },
-      {
-        "title": "Calor extremo en Mexicali satura refugios de hidratación",
-        "summary": "Crisis climática llena a capacidad máxima centros de atención ante olas extremas.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97210/Calor-extremo-rebasa-punto-de-hidrataci%C3%B3n-en-Mexicali;-refugio-opera-al-l%C3%ADmite-de-su-capacidad",
-        "_added_at": "2026-07-25T15:01:35.186080-07:00"
-      },
-      {
-        "title": "Suspensión de agua afecta también a parques públicos",
-        "summary": "Cortes en suministro hídrico impactan espacios recreativos de la comunidad.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179572_suspension_del_suministro_de_agua_afecta_tambien_a_los_parques_publicos",
-        "_added_at": "2026-07-25T15:01:35.186080-07:00"
-      },
-      {
-        "title": "Incendio en departamentos deja dos heridos graves",
-        "summary": "Siniestro provoca hospitalizaciones en zona residencial de Tijuana.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/179570_fuerte_incendio_en_unos_departamentos_deja_dos_heridos_graves",
-        "_added_at": "2026-07-25T12:20:35.264421-07:00"
-      },
-      {
-        "title": "Largas filas en transporte público son temporales",
-        "summary": "IMOS aclara que congestionamiento en servicios es situación pasajera.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179569_largas_filas_para_tomar_transporte_publico_es_temporal_imos",
-        "_added_at": "2026-07-25T12:20:35.264421-07:00"
-      },
-      {
-        "title": "Rescatan perros en cateo de Zona Centro",
-        "summary": "Buscan hogares para animales recuperados durante operativo policial.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97183/Buscan-hogar-para-perros-rescatados-tras-cateo-en-la-Zona-Centro;-piden-impulsar-su-adopci%C3%B3n",
-        "_added_at": "2026-07-25T12:20:35.264421-07:00"
-      },
-      {
-        "title": "Crisis de agua afecta 421 colonias de Tijuana y Rosarito",
-        "summary": "Fuga en acueducto Florido-Aguaje deja sin servicio a miles de residentes en ambas ciudades.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/fuga-en-acueducto-florido-aguaje-dejara-sin-agua-a-421-colonias-de-tijuana-y-rosarito-cespt/",
-        "_added_at": "2026-07-25T09:09:10.864287-07:00"
+        "url": "https://zetatijuana.com/2026/07/entrega-imdet-chips-para-el-31-medio-maraton-internacional-de-tijuana/",
+        "_added_at": "2026-07-26T01:37:06.873824-07:00"
       }
     ]
   },
-  "last_updated": "2026-07-25T20:43:34.468318-07:00"
+  "last_updated": "2026-07-26T01:37:06.873824-07:00"
 }
