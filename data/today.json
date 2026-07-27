@@ -1,8 +1,15 @@
 {
   "date": "2026-07-27",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Gobernadora contrata ex agente FBI infiltrado en Sinaloa",
+        "summary": "Marina del Pilar habría reclutado a ex agente federal estadounidense que se infiltró en cártel, según audio revelado.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/marina-del-pilar-contrato-a-ex-agente-del-fbi-que-infiltro-al-cartel-de-sinaloa-revela-nuevo-audio/?utm_source=rss&utm_medium=rss&utm_campaign=marina-del-pilar-contrato-a-ex-agente-del-fbi-que-infiltro-al-cartel-de-sinaloa-revela-nuevo-audio",
+        "_added_at": "2026-07-27T07:54:30.402950-07:00"
+      },
       {
         "title": "Detienen motociclista armado en Tijuana",
         "summary": "Policía capturó a motociclista que portaba arma e intentó evadir el operativo en la ciudad.",
@@ -50,6 +57,20 @@
     ],
     "economia": [
       {
+        "title": "Maquiladoras de BC despiden a 11,470 trabajadores",
+        "summary": "Industria manufacturera estatal realiza recorte masivo de personal, afectando empleo fronterizo.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/empresarial/179605_maquiladoras_de_bc_recortan_a_11_470_trabajadores",
+        "_added_at": "2026-07-27T07:54:30.402950-07:00"
+      },
+      {
+        "title": "Inflación en Tijuana alcanza 1.95% a mediados de julio",
+        "summary": "Primera quincena del mes registra índice de precios anual en municipio principal de estado.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/empresarial/179604_inflacion_de_tijuana_llega_a_1_95_anual_en_la_primera_quincena_de_julio",
+        "_added_at": "2026-07-27T07:54:30.402950-07:00"
+      },
+      {
         "title": "Tijuana impulsa herramientas digitales para emprendedores",
         "summary": "Ayuntamiento fortalece apoyo a pequeños negocios con plataformas tecnológicas.",
         "source": "AFN Tijuana",
@@ -80,6 +101,27 @@
     ],
     "sociedad": [
       {
+        "title": "Ensenadense Isaac del Toro sube podio Tour de Francia",
+        "summary": "Ciclista de Ensenada logra histórico resultado en competencia internacional más importante de su deporte.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179595_historico_el_ensenadense_isaac_del_toro_sube_al_podio_en_el_tour_de_francia",
+        "_added_at": "2026-07-27T07:54:30.402950-07:00"
+      },
+      {
+        "title": "Seis mil corredores participan Medio Maratón Tijuana 2026",
+        "summary": "Evento deportivo convoca masiva participación ciudadana en carrera internacional de distancia media.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/municipios/179602_alrededor_de_6_mil_corredores_participaron_en_el_medio_maraton_internacional_tijuana_2026",
+        "_added_at": "2026-07-27T07:54:30.402950-07:00"
+      },
+      {
+        "title": "Satélites de refugios animales proponen hogares temporales",
+        "summary": "Alternativa contra sobrepoblación en albergues busca colocar mascotas en casas de voluntarios.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97242/Hogares-temporales,-una-alternativa-ante-la-saturaci%C3%B3n-de-refugios-para-animales-en-Tijuana",
+        "_added_at": "2026-07-27T07:54:30.402950-07:00"
+      },
+      {
         "title": "Nueva fuga de agua afecta veinte colonias de Tijuana",
         "summary": "Continúan trabajos de reparación en sistema de abastecimiento de agua potable.",
         "source": "ZETA Tijuana",
@@ -109,5 +151,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-27T03:05:36.317287-07:00"
+  "last_updated": "2026-07-27T07:54:30.402950-07:00"
 }
