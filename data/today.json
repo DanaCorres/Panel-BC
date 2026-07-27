@@ -1,8 +1,22 @@
 {
   "date": "2026-07-26",
-  "run_count": 6,
+  "run_count": 7,
   "notes": {
     "seguridad": [
+      {
+        "title": "Vinculan sujeto por robo en minimercado con arma falsa",
+        "summary": "Aseguran responsable de asalto a comercio usando arma de utilería en Tijuana.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/vinculan-a-sujeto-por-robo-en-minimercado-con-arma-de-utileria-en-tijuana/?utm_source=rss&utm_medium=rss&utm_campaign=vinculan-a-sujeto-por-robo-en-minimercado-con-arma-de-utileria-en-tijuana",
+        "_added_at": "2026-07-26T20:53:06.872684-07:00"
+      },
+      {
+        "title": "Agente estatal abate presunto asaltante en Tijuana",
+        "summary": "Elemento de seguridad neutraliza a delincuente que lo atacó con arma blanca.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/179591_agente_estatal_abatio_a_presunto_asaltante_que_lo_lesiono_con_arma_blanca",
+        "_added_at": "2026-07-26T20:53:06.872684-07:00"
+      },
       {
         "title": "Motociclista armado detenido tras huida policial",
         "summary": "Detienen a sujeto que intentó escapar de autoridades mientras portaba armas en Tijuana.",
@@ -58,23 +72,16 @@
         "source": "ZETA Tijuana / AFN Tijuana",
         "url": "https://zetatijuana.com/2026/07/en-tijuana-matan-a-agente-de-la-fesc-senalado-por-robo-de-cocaina/",
         "_added_at": "2026-07-26T03:48:54.131299-07:00"
-      },
-      {
-        "title": "Incendio en departamentos deja dos heridos graves",
-        "summary": "Fuego consume unidad habitacional en Tijuana; bomberos rescatan a ocupantes.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/179570_fuerte_incendio_en_unos_departamentos_deja_dos_heridos_graves",
-        "_added_at": "2026-07-26T03:48:54.131299-07:00"
-      },
-      {
-        "title": "Agente de FESC asesinado en Tijuana",
-        "summary": "Ejecutan a elemento de la Fuerza Estatal de Seguridad Ciudadana en colonia Nuevo Milenio; su acompañante resulta herida.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/179584_identifican_como_oscar_arellano_al_agente_ejecutado_su_acompanante_fue_herida",
-        "_added_at": "2026-07-26T01:37:06.873824-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "PAN respalda pronunciamiento de Fox sobre Ernesto Ruffo",
+        "summary": "Dirigentes panistas apoyan posición de expresidente ante procedimiento legal contra expresarquidiácono.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/dirigente-del-pan-respalda-pronunciamiento-de-fox-ante-procedimiento-contra-ernesto-ruffo/?utm_source=rss&utm_medium=rss&utm_campaign=dirigente-del-pan-respalda-pronunciamiento-de-fox-ante-procedimiento-contra-ernesto-ruffo",
+        "_added_at": "2026-07-26T20:53:06.872684-07:00"
+      },
       {
         "title": "Descartan candidaturas corcholatas en Baja California",
         "summary": "Proceso de selección en el estado comienza a eliminar precandidatos considerados apoyados por intereses previos.",
@@ -106,6 +113,20 @@
     ],
     "economia": [
       {
+        "title": "CFE debe atender apagones en Mexicali urgentemente",
+        "summary": "Autoridades demandan acciones concretas para resolver crisis de electricidad en la capital.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/exige-a-la-cfe-acciones-concretas-para-atender-los-apagones-en-mexicali/?utm_source=rss&utm_medium=rss&utm_campaign=exige-a-la-cfe-acciones-concretas-para-atender-los-apagones-en-mexicali",
+        "_added_at": "2026-07-26T20:53:06.872684-07:00"
+      },
+      {
+        "title": "Ayuntamiento impulsa herramientas digitales para emprendedores",
+        "summary": "Tijuana promueve programas y plataformas para fortalecer negocio de pequeños empresarios.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179603_ayuntamiento_de_tijuana_impulsa_herramientas_digitales_para_fortalecer_el_emprendimiento",
+        "_added_at": "2026-07-26T20:53:06.872684-07:00"
+      },
+      {
         "title": "Contadores denuncian excesiva carga fiscal y retrasos",
         "summary": "Gremio de contadores en Tijuana acusa problemas administrativos y tributarios en el estado.",
         "source": "El Mexicano",
@@ -135,6 +156,27 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Nueva fuga de agua afecta 20 colonias de Tijuana",
+        "summary": "Servicios de agua continúan labores de reparación en múltiples zonas de la ciudad.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/nueva-fuga-de-agua-afecta-20-colonias-en-tijuana-trabajos-de-reparacion-continuan/?utm_source=rss&utm_medium=rss&utm_campaign=nueva-fuga-de-agua-afecta-20-colonias-en-tijuana-trabajos-de-reparacion-continuan",
+        "_added_at": "2026-07-26T20:53:06.872684-07:00"
+      },
+      {
+        "title": "Calor extremo rebasa capacidad de refugio en Mexicali",
+        "summary": "Temperaturas altas saturan puntos de hidratación con demanda sin precedentes.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97210/Calor-extremo-rebasa-punto-de-hidrataci%C3%B3n-en-Mexicali;-refugio-opera-al-l%C3%ADmite-de-su-capacidad",
+        "_added_at": "2026-07-26T20:53:06.872684-07:00"
+      },
+      {
+        "title": "Secretaría de Educación amplía infraestructura en dos años",
+        "summary": "Baja California expande su capacidad educativa con nuevas instalaciones y mejoras.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179599_secretaria_de_educacion_en_bc_amplio_su_infraestructura_en_dos_anos",
+        "_added_at": "2026-07-26T20:53:06.872684-07:00"
+      },
       {
         "title": "Isaac del Toro sube al podio del Tour de Francia",
         "summary": "Ciclista ensenadense logra histórico resultado en la competencia internacional más importante del ciclismo.",
@@ -183,29 +225,8 @@
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/07/francisco-padilla-conquista-primer-oro-para-baja-california-en-santo-domingo/?utm_source=rss&utm_medium=rss&utm_campaign=francisco-padilla-conquista-primer-oro-para-baja-california-en-santo-domingo",
         "_added_at": "2026-07-26T12:23:25.927703-07:00"
-      },
-      {
-        "title": "Crisis de agua afecta Tijuana y Rosarito por cinco días",
-        "summary": "Deslizamiento daña acueducto; CESPT estima recuperación total en hasta cinco días.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Estatal/97222/Recuperaci%C3%B3n-del-servicio-de-agua-en-Tijuana-y-Rosarito-tardar%C3%A1-hasta-cinco-d%C3%ADas%3A-CESPT",
-        "_added_at": "2026-07-26T09:09:12.564443-07:00"
-      },
-      {
-        "title": "Miles participan en Medio Maratón Internacional de Tijuana",
-        "summary": "Evento deportivo de importancia registra numerosa participación ciudadana el domingo.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97227/Miles-participan-en-Medio-Marat%C3%B3n-de-Tijuana",
-        "_added_at": "2026-07-26T09:09:12.564443-07:00"
-      },
-      {
-        "title": "Incendio en departamentos deja dos heridos graves",
-        "summary": "Fuerte siniestro en Tijuana hospitaliza a dos personas con lesiones severas.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/179570_fuerte_incendio_en_unos_departamentos_deja_dos_heridos_graves",
-        "_added_at": "2026-07-26T09:09:12.564443-07:00"
       }
     ]
   },
-  "last_updated": "2026-07-26T15:05:56.630069-07:00"
+  "last_updated": "2026-07-26T20:53:06.872684-07:00"
 }
