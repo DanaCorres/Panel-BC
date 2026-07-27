@@ -1,232 +1,113 @@
 {
-  "date": "2026-07-26",
-  "run_count": 7,
+  "date": "2026-07-27",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Vinculan sujeto por robo en minimercado con arma falsa",
-        "summary": "Aseguran responsable de asalto a comercio usando arma de utilería en Tijuana.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/vinculan-a-sujeto-por-robo-en-minimercado-con-arma-de-utileria-en-tijuana/?utm_source=rss&utm_medium=rss&utm_campaign=vinculan-a-sujeto-por-robo-en-minimercado-con-arma-de-utileria-en-tijuana",
-        "_added_at": "2026-07-26T20:53:06.872684-07:00"
-      },
-      {
-        "title": "Agente estatal abate presunto asaltante en Tijuana",
-        "summary": "Elemento de seguridad neutraliza a delincuente que lo atacó con arma blanca.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/179591_agente_estatal_abatio_a_presunto_asaltante_que_lo_lesiono_con_arma_blanca",
-        "_added_at": "2026-07-26T20:53:06.872684-07:00"
-      },
-      {
-        "title": "Motociclista armado detenido tras huida policial",
-        "summary": "Detienen a sujeto que intentó escapar de autoridades mientras portaba armas en Tijuana.",
+        "title": "Detienen motociclista armado en Tijuana",
+        "summary": "Policía capturó a motociclista que portaba arma e intentó evadir el operativo en la ciudad.",
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/seguridad/179597_detienen_a_motociclista_armado_intento_huir_de_la_policia",
-        "_added_at": "2026-07-26T15:05:56.630069-07:00"
+        "_added_at": "2026-07-27T03:05:36.317287-07:00"
       },
       {
-        "title": "Hombre detenido por privación de libertad en Mexicali",
-        "summary": "Autoridades capturan a individuo acusado de secuestro en la capital bajacaliforniana.",
+        "title": "Robo a minimercado con arma falsa en Tijuana",
+        "summary": "Sujeto vinculado a proceso por robo en comercio usando arma de utilería.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/vinculan-a-sujeto-por-robo-en-minimercado-con-arma-de-utileria-en-tijuana/?utm_source=rss&utm_medium=rss&utm_campaign=vinculan-a-sujeto-por-robo-en-minimercado-con-arma-de-utileria-en-tijuana",
+        "_added_at": "2026-07-27T03:05:36.317287-07:00"
+      },
+      {
+        "title": "Detienen hombre por privación de libertad en Mexicali",
+        "summary": "Autoridades capturan sujeto involucrado en caso de privación de la libertad.",
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/seguridad/179596_detienen_a_un_hombre_por_privacion_de_la_libertad_en_mexicali",
-        "_added_at": "2026-07-26T15:05:56.630069-07:00"
+        "_added_at": "2026-07-27T03:05:36.317287-07:00"
       },
       {
-        "title": "Peatón muere atropellado en el Libramiento",
-        "summary": "Accidente vial fatal en vialidad importante de Tijuana deja un deceso.",
+        "title": "Agente abate asaltante que lo lesionó en Baja California",
+        "summary": "Elemento estatal dispara contra presunto delincuente tras ser atacado con arma blanca.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/179586_murio_un_peaton_atropellado_en_el_libramiento",
-        "_added_at": "2026-07-26T15:05:56.630069-07:00"
-      },
-      {
-        "title": "Agente FESC asesinado en Tijuana",
-        "summary": "Elemento de seguridad identificado como Óscar Arellano fue ejecutado a balazos en Nuevo Milenio; su acompañante resultó herida.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/179583_asesinan_a_un_elemento_de_la_fesc_a_balazos_en_la_colonia_nuevo_milenio",
-        "_added_at": "2026-07-26T12:23:25.927703-07:00"
-      },
-      {
-        "title": "Marihuana incautada en San Quintín",
-        "summary": "Autoridades aseguraron plantío clandestino de marihuana en zona de San Quintín.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/aseguran-plantio-ilegal-de-marihuana-en-san-quintin/?utm_source=rss&utm_medium=rss&utm_campaign=aseguran-plantio-ilegal-de-marihuana-en-san-quintin",
-        "_added_at": "2026-07-26T12:23:25.927703-07:00"
-      },
-      {
-        "title": "Peatón muere atropellado en Libramiento",
-        "summary": "Hombre falleció tras ser atropellado bajo puente peatonal en Libramiento Rosas Magallón.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97226/Muere-hombre-atropellado-bajo-puente-peatonal-en-el-libramiento-Rosas-Magall%C3%B3n",
-        "_added_at": "2026-07-26T12:23:25.927703-07:00"
-      },
-      {
-        "title": "Sin detenidos por asesinato de abogado Javier López",
-        "summary": "Investigación del homicidio de abogado Javier López Reyna continúa sin detenciones.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/sin-detenidos-tras-asesinato-del-abogado-javier-lopez-reyna/?utm_source=rss&utm_medium=rss&utm_campaign=sin-detenidos-tras-asesinato-del-abogado-javier-lopez-reyna",
-        "_added_at": "2026-07-26T12:23:25.927703-07:00"
-      },
-      {
-        "title": "Agente de FESC asesinado en Tijuana por robo de droga",
-        "summary": "Ejecutan a elemento de la policía estatal acusado de sustraer cocaína; su acompañante resultó herida.",
-        "source": "ZETA Tijuana / AFN Tijuana",
-        "url": "https://zetatijuana.com/2026/07/en-tijuana-matan-a-agente-de-la-fesc-senalado-por-robo-de-cocaina/",
-        "_added_at": "2026-07-26T03:48:54.131299-07:00"
+        "url": "https://www.afntijuana.info/seguridad/179591_agente_estatal_abatio_a_presunto_asaltante_que_lo_lesiono_con_arma_blanca",
+        "_added_at": "2026-07-27T03:05:36.317287-07:00"
       }
     ],
     "politica": [
       {
-        "title": "PAN respalda pronunciamiento de Fox sobre Ernesto Ruffo",
-        "summary": "Dirigentes panistas apoyan posición de expresidente ante procedimiento legal contra expresarquidiácono.",
+        "title": "PAN respalda postura de Fox sobre procedimiento contra Ruffo",
+        "summary": "Dirigente panista avala pronunciamiento de expresidente respecto a investigación.",
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/07/dirigente-del-pan-respalda-pronunciamiento-de-fox-ante-procedimiento-contra-ernesto-ruffo/?utm_source=rss&utm_medium=rss&utm_campaign=dirigente-del-pan-respalda-pronunciamiento-de-fox-ante-procedimiento-contra-ernesto-ruffo",
-        "_added_at": "2026-07-26T20:53:06.872684-07:00"
+        "_added_at": "2026-07-27T03:05:36.317287-07:00"
       },
       {
-        "title": "Descartan candidaturas corcholatas en Baja California",
-        "summary": "Proceso de selección en el estado comienza a eliminar precandidatos considerados apoyados por intereses previos.",
+        "title": "Descartan precandidatos en Baja California",
+        "summary": "Proceso de selección de aspirantes avanza en el estado.",
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/afn_politico/179593_empiezan_a_descartar_corcholatas_en_baja_california",
-        "_added_at": "2026-07-26T15:05:56.630069-07:00"
-      },
-      {
-        "title": "Mujeres candidatas en Baja California",
-        "summary": "Editorial sobre participación de mujeres como candidatas en procesos electorales de BC.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/editoriales/179587_mujeres_candidatas_en_bc",
-        "_added_at": "2026-07-26T12:23:25.927703-07:00"
-      },
-      {
-        "title": "Arquidiócesis desmiente sentencia contra sacerdote",
-        "summary": "Institución religiosa rechaza información sobre supuesta condena judicial a clérigo.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179588_arquidiocesis_de_tijuana_desmiente_supuesta_sentencia_judicial_contra_sacerdote",
-        "_added_at": "2026-07-26T12:23:25.927703-07:00"
-      },
-      {
-        "title": "Funcionaria insiste en versión sobre trámite de visa",
-        "summary": "Monserrat reitera su posición respecto a los hechos relacionados con gestión de documentación.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179577_no_menti_asegura_monserrat_que_insiste_en_su_version_de_la_visa",
-        "_added_at": "2026-07-26T09:09:12.564443-07:00"
+        "_added_at": "2026-07-27T03:05:36.317287-07:00"
       }
     ],
     "economia": [
       {
-        "title": "CFE debe atender apagones en Mexicali urgentemente",
-        "summary": "Autoridades demandan acciones concretas para resolver crisis de electricidad en la capital.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/exige-a-la-cfe-acciones-concretas-para-atender-los-apagones-en-mexicali/?utm_source=rss&utm_medium=rss&utm_campaign=exige-a-la-cfe-acciones-concretas-para-atender-los-apagones-en-mexicali",
-        "_added_at": "2026-07-26T20:53:06.872684-07:00"
-      },
-      {
-        "title": "Ayuntamiento impulsa herramientas digitales para emprendedores",
-        "summary": "Tijuana promueve programas y plataformas para fortalecer negocio de pequeños empresarios.",
+        "title": "Tijuana impulsa herramientas digitales para emprendedores",
+        "summary": "Ayuntamiento fortalece apoyo a pequeños negocios con plataformas tecnológicas.",
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/179603_ayuntamiento_de_tijuana_impulsa_herramientas_digitales_para_fortalecer_el_emprendimiento",
-        "_added_at": "2026-07-26T20:53:06.872684-07:00"
+        "_added_at": "2026-07-27T03:05:36.317287-07:00"
       },
       {
-        "title": "Contadores denuncian excesiva carga fiscal y retrasos",
-        "summary": "Gremio de contadores en Tijuana acusa problemas administrativos y tributarios en el estado.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97237/Acusan-contadores-excesiva-carga-fiscal-y-retrasos",
-        "_added_at": "2026-07-26T15:05:56.630069-07:00"
+        "title": "Exigen a CFE acciones contra apagones en Mexicali",
+        "summary": "Demandan soluciones concretas para resolver crisis de energía eléctrica.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/exige-a-la-cfe-acciones-concretas-para-atender-los-apagones-en-mexicali/?utm_source=rss&utm_medium=rss&utm_campaign=exige-a-la-cfe-acciones-concretas-para-atender-los-apagones-en-mexicali",
+        "_added_at": "2026-07-27T03:05:36.317287-07:00"
       },
       {
-        "title": "Retiro masivo de visas por presunto cabotaje en Tijuana",
-        "summary": "Autoridades estadounidenses cuestionan validez de visas por posibles violaciones a regulaciones de transportación.",
+        "title": "Apagones en Mexicali son riesgo para salud",
+        "summary": "Red de residenciales advierte que cortes eléctricos afectan bienestar de la población.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179592_apagones_en_mexicali_son_un_riesgo_para_la_salud_advierte_red_de_residenciales",
+        "_added_at": "2026-07-27T03:05:36.317287-07:00"
+      },
+      {
+        "title": "Retiro masivo de visas acusado en Tijuana",
+        "summary": "Denuncian cancelación de permisos de residencia por presunto cabotaje.",
         "source": "El Mexicano",
         "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97239/Acusan-retiro-masivo-de-visas-por-presunto-cabotaje",
-        "_added_at": "2026-07-26T15:05:56.630069-07:00"
-      },
-      {
-        "title": "Bajo nivel de proveeduría local en Baja California",
-        "summary": "Buscan incrementar participación de empresas locales en cadenas de suministro del estado.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179579_bc_tiene_bajo_nivel_de_proveeduria_local_buscan_incorporar_mas_empresas_a_cadenas_de_suministro",
-        "_added_at": "2026-07-26T01:37:06.873824-07:00"
-      },
-      {
-        "title": "Empresarios participan en Torneo de Golf COPARMEX-Banamex",
-        "summary": "Más de 160 empresarios asisten a décima edición del evento en Tijuana.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97187/M%C3%A1s-de-160-empresarios-participan-en-la-d%C3%A9cima-edici%C3%B3n-del-Torneo-de-Golf-COPARMEX-Banamex-2026",
-        "_added_at": "2026-07-26T01:37:06.873824-07:00"
+        "_added_at": "2026-07-27T03:05:36.317287-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Nueva fuga de agua afecta 20 colonias de Tijuana",
-        "summary": "Servicios de agua continúan labores de reparación en múltiples zonas de la ciudad.",
+        "title": "Nueva fuga de agua afecta veinte colonias de Tijuana",
+        "summary": "Continúan trabajos de reparación en sistema de abastecimiento de agua potable.",
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/07/nueva-fuga-de-agua-afecta-20-colonias-en-tijuana-trabajos-de-reparacion-continuan/?utm_source=rss&utm_medium=rss&utm_campaign=nueva-fuga-de-agua-afecta-20-colonias-en-tijuana-trabajos-de-reparacion-continuan",
-        "_added_at": "2026-07-26T20:53:06.872684-07:00"
+        "_added_at": "2026-07-27T03:05:36.317287-07:00"
       },
       {
-        "title": "Calor extremo rebasa capacidad de refugio en Mexicali",
-        "summary": "Temperaturas altas saturan puntos de hidratación con demanda sin precedentes.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97210/Calor-extremo-rebasa-punto-de-hidrataci%C3%B3n-en-Mexicali;-refugio-opera-al-l%C3%ADmite-de-su-capacidad",
-        "_added_at": "2026-07-26T20:53:06.872684-07:00"
-      },
-      {
-        "title": "Secretaría de Educación amplía infraestructura en dos años",
-        "summary": "Baja California expande su capacidad educativa con nuevas instalaciones y mejoras.",
+        "title": "Educación BC amplía infraestructura en dos años",
+        "summary": "Secretaría de Educación incrementa instalaciones escolares en la entidad.",
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/179599_secretaria_de_educacion_en_bc_amplio_su_infraestructura_en_dos_anos",
-        "_added_at": "2026-07-26T20:53:06.872684-07:00"
+        "_added_at": "2026-07-27T03:05:36.317287-07:00"
       },
       {
-        "title": "Isaac del Toro sube al podio del Tour de Francia",
-        "summary": "Ciclista ensenadense logra histórico resultado en la competencia internacional más importante del ciclismo.",
+        "title": "Cierre del zoológico del Parque Morelos genera reacciones",
+        "summary": "Cierre de atracción despierta sentimientos encontrados entre visitantes.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179595_historico_el_ensenadense_isaac_del_toro_sube_al_podio_en_el_tour_de_francia",
-        "_added_at": "2026-07-26T15:05:56.630069-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/179598_cierre_del_zoologico_del_parque_morelos_provoca_sentimientos_encontrados_en_visitantes",
+        "_added_at": "2026-07-27T03:05:36.317287-07:00"
       },
       {
-        "title": "Seis mil corredores participan en Medio Maratón de Tijuana",
-        "summary": "Edición 31 del evento convoca a miles de atletas en carrera internacional de la ciudad.",
+        "title": "Calor extremo satura refugio de Mexicali",
+        "summary": "Onda de calor llena capacidad máxima de punto de hidratación en la ciudad.",
         "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97234/Cerca-de-6-mil-corredores-participan-en-el-XXXI-Medio-Marat%C3%B3n-Internacional-Tijuana-2026",
-        "_added_at": "2026-07-26T15:05:56.630069-07:00"
-      },
-      {
-        "title": "Recuperación de agua en Tijuana y Rosarito tras reparación",
-        "summary": "Conclusión de trabajos en Acueducto Florido-Aguaje inicia normalización del servicio en ambas ciudades.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179590_concluye_reparacion_del_acueducto_habra_agua_hasta_el_jueves",
-        "_added_at": "2026-07-26T15:05:56.630069-07:00"
-      },
-      {
-        "title": "Apagones en Mexicali son riesgo para la salud",
-        "summary": "Red de Residenciales advierte sobre impacto sanitario de cortes eléctricos en capital estatal.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179592_apagones_en_mexicali_son_un_riesgo_para_la_salud_advierte_red_de_residenciales",
-        "_added_at": "2026-07-26T15:05:56.630069-07:00"
-      },
-      {
-        "title": "Acueducto Florido-Aguaje reparado en Tijuana",
-        "summary": "Concluye reparación; se inicia recuperación de servicio de agua en Tijuana y Rosarito.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/concluye-reparacion-de-acueducto-florido-aguaje-inicia-recuperacion-del-servicio-de-agua-en-tijuana-y-rosarito/?utm_source=rss&utm_medium=rss&utm_campaign=concluye-reparacion-de-acueducto-florido-aguaje-inicia-recuperacion-del-servicio-de-agua-en-tijuana-y-rosarito",
-        "_added_at": "2026-07-26T12:23:25.927703-07:00"
-      },
-      {
-        "title": "Recuperación de agua podría tardar cinco días",
-        "summary": "CESPT estima que servicio de agua se normalizará completamente en máximo cinco días.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/recuperacion-total-del-servicio-de-agua-podria-tardar-hasta-cinco-dias-cespt/?utm_source=rss&utm_medium=rss&utm_campaign=recuperacion-total-del-servicio-de-agua-podria-tardar-hasta-cinco-dias-cespt",
-        "_added_at": "2026-07-26T12:23:25.927703-07:00"
-      },
-      {
-        "title": "Francisco Padilla gana primer oro para BC",
-        "summary": "Atleta de Baja California consigue primer lugar en competencia en Santo Domingo.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/francisco-padilla-conquista-primer-oro-para-baja-california-en-santo-domingo/?utm_source=rss&utm_medium=rss&utm_campaign=francisco-padilla-conquista-primer-oro-para-baja-california-en-santo-domingo",
-        "_added_at": "2026-07-26T12:23:25.927703-07:00"
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97210/Calor-extremo-rebasa-punto-de-hidrataci%C3%B3n-en-Mexicali;-refugio-opera-al-l%C3%ADmite-de-su-capacidad",
+        "_added_at": "2026-07-27T03:05:36.317287-07:00"
       }
     ]
   },
-  "last_updated": "2026-07-26T20:53:06.872684-07:00"
+  "last_updated": "2026-07-27T03:05:36.317287-07:00"
 }
