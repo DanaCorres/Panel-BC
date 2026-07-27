@@ -1,8 +1,22 @@
 {
   "date": "2026-07-27",
-  "run_count": 4,
+  "run_count": 5,
   "notes": {
     "seguridad": [
+      {
+        "title": "Localizan vehículo incendiado con cuerpo en Mexicali",
+        "summary": "Autoridades hallaron automóvil quemado con cadáver en su interior en la capital del estado.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97283/Localizan-auto-quemado-con-un-cuerpo-en-su-interior-en-Mexicali",
+        "_added_at": "2026-07-27T15:13:40.286225-07:00"
+      },
+      {
+        "title": "Incendio de pastizal sobre bulevar Rosas Magallón controlado",
+        "summary": "Bomberos sofocaron fuego que amenazaba viviendas en zona de Tijuana.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97281/Incendio-de-pastizal-sobre-blvr.-Rosas-Magall%C3%B3n;-bomberos-evitan-que-el-fuego-alcanzara-una-vivienda",
+        "_added_at": "2026-07-27T15:13:40.286225-07:00"
+      },
       {
         "title": "Visa de Caballero fue revocada, no retenida",
         "summary": "La exgobernadora Montserrat Caballero aclaró sobre su visa estadounidense que fue revocada, contrario a lo que inicialmente manifestó.",
@@ -58,23 +72,30 @@
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/07/vinculan-a-sujeto-por-robo-en-minimercado-con-arma-de-utileria-en-tijuana/?utm_source=rss&utm_medium=rss&utm_campaign=vinculan-a-sujeto-por-robo-en-minimercado-con-arma-de-utileria-en-tijuana",
         "_added_at": "2026-07-27T03:05:36.317287-07:00"
-      },
-      {
-        "title": "Detienen hombre por privación de libertad en Mexicali",
-        "summary": "Autoridades capturan sujeto involucrado en caso de privación de la libertad.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/179596_detienen_a_un_hombre_por_privacion_de_la_libertad_en_mexicali",
-        "_added_at": "2026-07-27T03:05:36.317287-07:00"
-      },
-      {
-        "title": "Agente abate asaltante que lo lesionó en Baja California",
-        "summary": "Elemento estatal dispara contra presunto delincuente tras ser atacado con arma blanca.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/179591_agente_estatal_abatio_a_presunto_asaltante_que_lo_lesiono_con_arma_blanca",
-        "_added_at": "2026-07-27T03:05:36.317287-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Montserrat Caballero afirma que buscará alternancia en BC",
+        "summary": "Exgobernadora anuncia apoyo del PT para impulsar cambio político en Baja California.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/97282/%E2%80%9CEl-PT-ahora-me-tiene-a-m%C3%AD%E2%80%9D%3A-Montserrat-Caballero-afirma-que-buscar%C3%A1-impulsar-la-alternancia-en-Baja-California",
+        "_added_at": "2026-07-27T15:13:40.286225-07:00"
+      },
+      {
+        "title": "Visa de Montserrat Caballero fue revocada, no retenida",
+        "summary": "Se aclara que su documento migratorio fue revocado, contradice versión de exgobernadora.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/visa-de-montserrat-caballero-fue-revocada-no-retenida-como-dijo-ella/",
+        "_added_at": "2026-07-27T15:13:40.286225-07:00"
+      },
+      {
+        "title": "Osuna Jaime prevé acciones de EU contra Rocha y otros",
+        "summary": "Analista anticipa que autoridades estadounidenses tomarán medidas contra funcionarios.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179622_viene_una_accion_de_eu_contra_rocha_y_otros_preve_osuna_jaime",
+        "_added_at": "2026-07-27T15:13:40.286225-07:00"
+      },
       {
         "title": "Hay hartazgo contra Morena en BC, asegura Lizbeth Mata",
         "summary": "Opositora denuncia descontento ciudadano hacia el partido oficialista en la entidad.",
@@ -127,6 +148,34 @@
     ],
     "economia": [
       {
+        "title": "Reforma de 40 horas tendrá implementación gradual desde enero 2027",
+        "summary": "Gobierno anuncia entrada gradual en vigor de reducción de jornada laboral.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/lista-implementacion-gradual-de-reforma-de-40-horas-para-enero-de-2027/",
+        "_added_at": "2026-07-27T15:13:40.286225-07:00"
+      },
+      {
+        "title": "Abren convocatoria para programa de incubación empresarial",
+        "summary": "Lanzan iniciativa \"CREA tu Negocio\" para impulsar emprendimiento en BC.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/empresarial/179620_abren_convocatoria_para_el_programa_de_incubacion_crea_tu_negocio",
+        "_added_at": "2026-07-27T15:13:40.286225-07:00"
+      },
+      {
+        "title": "SAT condona cien por ciento adeudos de placas 2023 y anteriores",
+        "summary": "Autoridades fiscales estatales perdonan pasivos de tenencia de vehículos rezagados.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/97279/SAT-BC-condonaciones-100%25-adeudos-de-placas-2023-y-a%C3%B1os-anteriores.",
+        "_added_at": "2026-07-27T15:13:40.286225-07:00"
+      },
+      {
+        "title": "Urge nueva tarifa eléctrica 1G en Mexicali ante calor extremo",
+        "summary": "Activista demanda ajuste tarifario para pobladores enfrentando temperaturas de 50 grados.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179619_urge_nueva_tarifa_electrica_1g_en_mexicali_ante_el_calor_de_50_c_activista",
+        "_added_at": "2026-07-27T15:13:40.286225-07:00"
+      },
+      {
         "title": "Maquiladoras de BC despiden a 11,470 trabajadores",
         "summary": "Industria manufacturera estatal realiza recorte masivo de personal, afectando empleo fronterizo.",
         "source": "AFN Tijuana",
@@ -170,6 +219,27 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Cientos de mujeres se registran a Tarjeta Violeta en Mexicali",
+        "summary": "A pesar del calor extremo, familias acuden masivamente a inscribirse en programa.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/en-mexicali-cientos-de-mujeres-soportan-el-calor-extremo-para-registrarse-a-la-tarjeta-violeta/",
+        "_added_at": "2026-07-27T15:13:40.286225-07:00"
+      },
+      {
+        "title": "Suministran agua con pipas en colonias de Rosarito",
+        "summary": "Autoridades distribuyen agua mediante carros cisterna ante escasez en el municipio.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/municipios/179623_suministran_agua_con_pipas_en_colonias_de_rosarito",
+        "_added_at": "2026-07-27T15:13:40.286225-07:00"
+      },
+      {
+        "title": "Estaciones de bomberos en Mexicali tendrán internet gratuito",
+        "summary": "Gobierno proporciona conectividad a instalaciones para mejorar servicios de emergencia.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97272/Estaciones-de-bomberos-tendr%C3%A1n-internet-gratis",
+        "_added_at": "2026-07-27T15:13:40.286225-07:00"
+      },
       {
         "title": "Fuga de agua deja sin servicio a 20 colonias tijuanenses",
         "summary": "Nueva rotura en infraestructura hídrica afecta abastecimiento en múltiples sectores.",
@@ -218,29 +288,8 @@
         "source": "El Mexicano",
         "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97242/Hogares-temporales,-una-alternativa-ante-la-saturaci%C3%B3n-de-refugios-para-animales-en-Tijuana",
         "_added_at": "2026-07-27T07:54:30.402950-07:00"
-      },
-      {
-        "title": "Nueva fuga de agua afecta veinte colonias de Tijuana",
-        "summary": "Continúan trabajos de reparación en sistema de abastecimiento de agua potable.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/nueva-fuga-de-agua-afecta-20-colonias-en-tijuana-trabajos-de-reparacion-continuan/?utm_source=rss&utm_medium=rss&utm_campaign=nueva-fuga-de-agua-afecta-20-colonias-en-tijuana-trabajos-de-reparacion-continuan",
-        "_added_at": "2026-07-27T03:05:36.317287-07:00"
-      },
-      {
-        "title": "Educación BC amplía infraestructura en dos años",
-        "summary": "Secretaría de Educación incrementa instalaciones escolares en la entidad.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179599_secretaria_de_educacion_en_bc_amplio_su_infraestructura_en_dos_anos",
-        "_added_at": "2026-07-27T03:05:36.317287-07:00"
-      },
-      {
-        "title": "Cierre del zoológico del Parque Morelos genera reacciones",
-        "summary": "Cierre de atracción despierta sentimientos encontrados entre visitantes.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179598_cierre_del_zoologico_del_parque_morelos_provoca_sentimientos_encontrados_en_visitantes",
-        "_added_at": "2026-07-27T03:05:36.317287-07:00"
       }
     ]
   },
-  "last_updated": "2026-07-27T12:46:51.498037-07:00"
+  "last_updated": "2026-07-27T15:13:40.286225-07:00"
 }
