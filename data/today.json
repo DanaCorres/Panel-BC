@@ -1,8 +1,29 @@
 {
   "date": "2026-07-27",
-  "run_count": 3,
+  "run_count": 4,
   "notes": {
     "seguridad": [
+      {
+        "title": "Visa de Caballero fue revocada, no retenida",
+        "summary": "La exgobernadora Montserrat Caballero aclaró sobre su visa estadounidense que fue revocada, contrario a lo que inicialmente manifestó.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/visa-de-montserrat-caballero-fue-revocada-no-retenida-como-dijo-ella/",
+        "_added_at": "2026-07-27T12:46:51.498037-07:00"
+      },
+      {
+        "title": "Incendian camioneta en Cañón Johnson",
+        "summary": "Vehículo fue consumido por fuego en área de desarenador causando alarma en la zona.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179616_arde_una_camioneta_en_desarenador_del_canon_johnson",
+        "_added_at": "2026-07-27T12:46:51.498037-07:00"
+      },
+      {
+        "title": "\"Mayo\" Zambada enfrenta cadena perpetua y decomiso",
+        "summary": "Narcotraficante enfrentaría máximas penas legales incluyendo pérdida de bienes incautados.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/cadena-perpetua-y-decomiso-inalcanzable-para-mayo-zambada/",
+        "_added_at": "2026-07-27T12:46:51.498037-07:00"
+      },
       {
         "title": "Abogados de Tijuana exigen protocolo de seguridad laboral",
         "summary": "Gremio jurídico solicita medidas de protección específicas para ejercer su profesión en condiciones seguras.",
@@ -54,6 +75,27 @@
       }
     ],
     "politica": [
+      {
+        "title": "Hay hartazgo contra Morena en BC, asegura Lizbeth Mata",
+        "summary": "Opositora denuncia descontento ciudadano hacia el partido oficialista en la entidad.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179618_hay_hartazgo_contra_morena_en_bc_asegura_lizbeth_mata",
+        "_added_at": "2026-07-27T12:46:51.498037-07:00"
+      },
+      {
+        "title": "Bloque Morena aprobó cuentas rechazadas, denuncia Corral",
+        "summary": "Exgobernador critica que mayoría legislativa revirtió decisiones iniciales sobre auditorías públicas.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179617_bloque_de_morena_aprobo_tres_cuentas_publicas_inicialmente_rechazadas_denuncia_corral",
+        "_added_at": "2026-07-27T12:46:51.498037-07:00"
+      },
+      {
+        "title": "Ramos presenta plan de seguridad y pavimentación estatal",
+        "summary": "Gobernador anuncia depuración policiaca e infraestructura vial como parte de segundo piso 4T.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97270/Seguridad,-depuraci%C3%B3n-policiaca-y-un-plan-estatal-de-pavimentaci%C3%B3n-forman-parte-del-Segundo-Piso-de-la-4T%3A-Jorge-Ramos",
+        "_added_at": "2026-07-27T12:46:51.498037-07:00"
+      },
       {
         "title": "Sheinbaum niega persecución política contra Ernesto Ruffo",
         "summary": "Presidenta descarta acusaciones sobre procedimiento contra exgobernador por cuestión de huachicol.",
@@ -129,6 +171,20 @@
     ],
     "sociedad": [
       {
+        "title": "Fuga de agua deja sin servicio a 20 colonias tijuanenses",
+        "summary": "Nueva rotura en infraestructura hídrica afecta abastecimiento en múltiples sectores.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97245/Nueva-fuga-deja-sin-agua-a-20-colonias",
+        "_added_at": "2026-07-27T12:46:51.498037-07:00"
+      },
+      {
+        "title": "Ciudadano limpia playas tras dos meses en Tijuana",
+        "summary": "Iniciativa comunitaria de limpieza ambiental en playas de la ciudad.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97269/Con-2-meses-viviendo-en-Tijuana,-Edder-limpia-la-playa-de-la-ciudad",
+        "_added_at": "2026-07-27T12:46:51.498037-07:00"
+      },
+      {
         "title": "Madres tijuanenses se registran en programa Tarjeta Violeta",
         "summary": "Alto interés de madres en iniciativa de apoyo social genera filas en oficinas.",
         "source": "AFN Tijuana",
@@ -183,15 +239,8 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/179598_cierre_del_zoologico_del_parque_morelos_provoca_sentimientos_encontrados_en_visitantes",
         "_added_at": "2026-07-27T03:05:36.317287-07:00"
-      },
-      {
-        "title": "Calor extremo satura refugio de Mexicali",
-        "summary": "Onda de calor llena capacidad máxima de punto de hidratación en la ciudad.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97210/Calor-extremo-rebasa-punto-de-hidrataci%C3%B3n-en-Mexicali;-refugio-opera-al-l%C3%ADmite-de-su-capacidad",
-        "_added_at": "2026-07-27T03:05:36.317287-07:00"
       }
     ]
   },
-  "last_updated": "2026-07-27T10:04:44.995562-07:00"
+  "last_updated": "2026-07-27T12:46:51.498037-07:00"
 }
