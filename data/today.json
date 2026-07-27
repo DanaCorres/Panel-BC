@@ -1,8 +1,22 @@
 {
   "date": "2026-07-27",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Abogados de Tijuana exigen protocolo de seguridad laboral",
+        "summary": "Gremio jurídico solicita medidas de protección específicas para ejercer su profesión en condiciones seguras.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179614_exigen_abogados_un_protocolo_de_seguridad_para_el_gremio_juridico",
+        "_added_at": "2026-07-27T10:04:44.995562-07:00"
+      },
+      {
+        "title": "Vehículo incendiado en Cañón Johnson",
+        "summary": "Camioneta Honda Odyssey fue quemada en zona de Tijuana durante la madrugada.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97250/Incendian-camioneta-Honda-Odyssey-en-el-Ca%C3%B1%C3%B3n-Johnson",
+        "_added_at": "2026-07-27T10:04:44.995562-07:00"
+      },
       {
         "title": "Gobernadora contrata ex agente FBI infiltrado en Sinaloa",
         "summary": "Marina del Pilar habría reclutado a ex agente federal estadounidense que se infiltró en cártel, según audio revelado.",
@@ -40,6 +54,20 @@
       }
     ],
     "politica": [
+      {
+        "title": "Sheinbaum niega persecución política contra Ernesto Ruffo",
+        "summary": "Presidenta descarta acusaciones sobre procedimiento contra exgobernador por cuestión de huachicol.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/sheinbaum-niega-persecucion-politica-contra-ruffo-por-huachicol-fiscal/?utm_source=rss&utm_medium=rss&utm_campaign=sheinbaum-niega-persecucion-politica-contra-ruffo-por-huachicol-fiscal",
+        "_added_at": "2026-07-27T10:04:44.995562-07:00"
+      },
+      {
+        "title": "Marina contrató exagente FBI que infiltró Cártel Sinaloa",
+        "summary": "Audio revela que gobernadora de BC empleó a consultor con experiencia en operaciones contra narcotráfico.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/marina-del-pilar-contrato-a-ex-agente-del-fbi-que-infiltro-al-cartel-de-sinaloa-revela-nuevo-audio/?utm_source=rss&utm_medium=rss&utm_campaign=marina-del-pilar-contrato-a-ex-agente-del-fbi-que-infiltro-al-cartel-de-sinaloa-revela-nuevo-audio",
+        "_added_at": "2026-07-27T10:04:44.995562-07:00"
+      },
       {
         "title": "PAN respalda postura de Fox sobre procedimiento contra Ruffo",
         "summary": "Dirigente panista avala pronunciamiento de expresidente respecto a investigación.",
@@ -101,6 +129,20 @@
     ],
     "sociedad": [
       {
+        "title": "Madres tijuanenses se registran en programa Tarjeta Violeta",
+        "summary": "Alto interés de madres en iniciativa de apoyo social genera filas en oficinas.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179612_madrugan_madres_tijuanenses_para_registrarse_al_programa_tarjeta_violeta",
+        "_added_at": "2026-07-27T10:04:44.995562-07:00"
+      },
+      {
+        "title": "Mural honra memoria del ciclista Isaac del Toro en Ensenada",
+        "summary": "Comunidad dedica obra artística para recordar al deportista fallecido.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179613_dedican_mural_al_ciclista_isaac_del_toro_en_ensenada",
+        "_added_at": "2026-07-27T10:04:44.995562-07:00"
+      },
+      {
         "title": "Ensenadense Isaac del Toro sube podio Tour de Francia",
         "summary": "Ciclista de Ensenada logra histórico resultado en competencia internacional más importante de su deporte.",
         "source": "AFN Tijuana",
@@ -151,5 +193,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-27T07:54:30.402950-07:00"
+  "last_updated": "2026-07-27T10:04:44.995562-07:00"
 }
