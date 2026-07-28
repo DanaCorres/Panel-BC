@@ -1,8 +1,29 @@
 {
   "date": "2026-07-28",
-  "run_count": 4,
+  "run_count": 5,
   "notes": {
     "seguridad": [
+      {
+        "title": "Detienen a exdirector de policía de Mexicali por asociación delictuosa",
+        "summary": "Pedro Mendívil, ex director de seguridad pública de Mexicali, fue detenido junto con funcionarios activos por presuntos delitos.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97321/Por-asociaci%C3%B3n-delictuosa-fue-detenido-ex-director-de-la-polic%C3%ADa-de-Mexicali",
+        "_added_at": "2026-07-28T12:44:23.533429-07:00"
+      },
+      {
+        "title": "Pareja de capo de Los Cuinis se declara culpable en EU",
+        "summary": "Mujer de narcotraficante admite pagó colegiaturas con dinero proveniente del tráfico de drogas en Estados Unidos.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/pareja-de-capo-de-los-cuinis-se-declara-culpable-en-eu-por-pagar-colegiaturas-con-dinero-del-narco/",
+        "_added_at": "2026-07-28T12:44:23.533429-07:00"
+      },
+      {
+        "title": "Fiscalía pide desestimar acusación contra El Mayo Zambada",
+        "summary": "Autoridades de San Diego solicitan anular cargo de 2014 contra el capo mexicano capturado recientemente.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/fiscalia-de-san-diego-pide-desechar-acusacion-de-2014-contra-el-mayo-zambada/",
+        "_added_at": "2026-07-28T12:44:23.533429-07:00"
+      },
       {
         "title": "Incendio en registro CFE por presunto vandalismo",
         "summary": "Se registra incendio en instalaciones de CFE frente a Hospital General, presuntamente causado por acto vandálico.",
@@ -40,6 +61,34 @@
       }
     ],
     "politica": [
+      {
+        "title": "Mendívil responsabiliza a fiscal por su detención",
+        "summary": "Exdirector asegura que su captura es venganza política de la fiscal estatal en Mexicali.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179652_responsabiliza_mendivil_a_la_fiscal_de_su_detencion_es_una_venganza_dice",
+        "_added_at": "2026-07-28T12:44:23.533429-07:00"
+      },
+      {
+        "title": "Amparos de Ruffo avanzan con rechazo de demanda",
+        "summary": "Juzgado declara no presentada una de las acciones legales interpuestas en favor del exgobernador.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/declaran-no-presentada-una-de-las-demandas-de-amparo-en-favor-de-ruffo/",
+        "_added_at": "2026-07-28T12:44:23.533429-07:00"
+      },
+      {
+        "title": "Sheinbaum contesta críticas de asesores de Trump",
+        "summary": "Presidenta responde que EU debe autoevaluarse antes de señalar a México en relaciones comerciales.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/sheinbaum-revira-a-asesor-de-trump-eu-debe-mirarse-a-si-mismo/",
+        "_added_at": "2026-07-28T12:44:23.533429-07:00"
+      },
+      {
+        "title": "Ebrard anticipa nuevo reacomodo arancelario para agosto",
+        "summary": "Secretario de Economía prevé cambios en las políticas arancelarias estadounidenses próximamente.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/ebrard-anticipa-nuevo-reacomodo-arancelario-de-eu-para-agosto/",
+        "_added_at": "2026-07-28T12:44:23.533429-07:00"
+      },
       {
         "title": "Sheinbaum reafirma caso Ruffo como tema criminal",
         "summary": "Presidenta responde a expresidentes que apoyan a Ruffo, insistiendo en que es asunto de investigación penal.",
@@ -81,37 +130,30 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/179634_nombran_a_nuevos_directores_del_imjuv_y_dif_tijuana",
         "_added_at": "2026-07-28T07:28:25.634030-07:00"
-      },
-      {
-        "title": "Eva Moreno encabeza asamblea informativa en Rosarito",
-        "summary": "Funcionaria realiza actividad de comunicación con ciudadanía en Playas de Rosarito.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179630_eva_moreno_encabeza_asamblea_informativa_en_playas_de_rosarito",
-        "_added_at": "2026-07-28T07:28:25.634030-07:00"
-      },
-      {
-        "title": "Panistas denuncian violaciones a derechos de Ruffo",
-        "summary": "Familia de Ernesto Ruffo presenta denuncia ante CNDH por presuntas violaciones al debido proceso.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/panistas-denuncian-violacion-a-derechos-de-ruffo-hija-acusa-condiciones-severas/?utm_source=rss&utm_medium=rss&utm_campaign=panistas-denuncian-violacion-a-derechos-de-ruffo-hija-acusa-condiciones-severas",
-        "_added_at": "2026-07-28T04:24:40.288645-07:00"
-      },
-      {
-        "title": "Nombran directores de IMJUV y DIF en Tijuana",
-        "summary": "Administración de Tijuana toma protesta a nuevos titulares de institutos municipales.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97293/Toma-protesta-Abdiel-Guti%C3%A9rrez-a-nuevos-titulares-de-IMJUV-y-DIF-Tijuana",
-        "_added_at": "2026-07-28T04:24:40.288645-07:00"
-      },
-      {
-        "title": "Ruffo: denuncian violaciones a derechos ante CNDH",
-        "summary": "Familia del exgobernador presenta quejas por supuestas violaciones al debido proceso y condiciones severas.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/hija-de-ruffo-denuncia-ante-cndh-violaciones-al-debido-proceso-de-su-padre/?utm_source=rss&utm_medium=rss&utm_campaign=hija-de-ruffo-denuncia-ante-cndh-violaciones-al-debido-proceso-de-su-padre",
-        "_added_at": "2026-07-28T01:47:54.033530-07:00"
       }
     ],
     "economia": [
+      {
+        "title": "Reducción drástica del 35% en superficie agrícola de BC",
+        "summary": "Agricultores reportan caída considerable en áreas de siembra en el estado.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/nacionales/179658_hubo_una_reduccion_drastica_del_35_en_la_superficie_de_siembra_afirman",
+        "_added_at": "2026-07-28T12:44:23.533429-07:00"
+      },
+      {
+        "title": "Impulsan programa de incubación para emprendedores en BC",
+        "summary": "Iniciativa ofrece capacitación y mentoría especializada a nuevos emprendedores del estado.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97285/Impulsan-a-emprendedores-de-BC-con-programa-de-incubaci%C3%B3n",
+        "_added_at": "2026-07-28T12:44:23.533429-07:00"
+      },
+      {
+        "title": "Trump asevera T-MEC importa más a México y Canadá",
+        "summary": "Expresidente estadounidense sostiene que tratado comercial beneficia más a naciones vecinas.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/trump-dice-que-el-t-mec-importa-mas-a-mexico-y-canada-que-a-eu/",
+        "_added_at": "2026-07-28T12:44:23.533429-07:00"
+      },
       {
         "title": "Construcción crece 11.8% en Baja California",
         "summary": "Sector de la construcción en la entidad registra aumento en producción durante período reportado.",
@@ -149,6 +191,27 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "BC contará con monitoreo permanente de clima y fenómeno El Niño",
+        "summary": "Estado instalará sistema de vigilancia del comportamiento climático y efectos del fenómeno.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179656_habra_en_bc_monitoreo_permanente_del_clima_y_del_fenomeno_el_nino",
+        "_added_at": "2026-07-28T12:44:23.533429-07:00"
+      },
+      {
+        "title": "Ciudadanas acuden en masa al programa Tarjeta Violeta",
+        "summary": "Mujeres se registran desde primeras horas en iniciativa de apoyo estatal.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179659_acuden_desde_primera_hora_para_registrarse_al_programa_tarjeta_violeta",
+        "_added_at": "2026-07-28T12:44:23.533429-07:00"
+      },
+      {
+        "title": "Sancionan a 23 comerciantes ambulantes sin permisos",
+        "summary": "Autoridades operan contra vendedores informales que laboraban sin autorización municipal.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179657_sancionan_a_23_comerciantes_ambulantes_por_operar_sin_permisos",
+        "_added_at": "2026-07-28T12:44:23.533429-07:00"
+      },
       {
         "title": "CESPT implementa tandeos de agua en Tijuana",
         "summary": "Comisión de servicios implementará racionamiento de agua en la ciudad.",
@@ -197,22 +260,8 @@
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/07/gobierno-de-rosarito-lleva-agua-a-colonias-todavia-270-colonias-sin-servicio-dice-cespt/?utm_source=rss&utm_medium=rss&utm_campaign=gobierno-de-rosarito-lleva-agua-a-colonias-todavia-270-colonias-sin-servicio-dice-cespt",
         "_added_at": "2026-07-28T01:47:54.033530-07:00"
-      },
-      {
-        "title": "Mujeres de Tecate solicitan Tarjeta Violeta en filas largas",
-        "summary": "Ciudadanas se registran para apoyo económico de 2600 pesos bimestrales en zona.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97278/Bajo-el-clima-extremo,-mujeres-se-registran-al-programa-Tarjeta-Violeta",
-        "_added_at": "2026-07-28T01:47:54.033530-07:00"
-      },
-      {
-        "title": "Nuevos directores designados en IMJUV y DIF Tijuana",
-        "summary": "Toman protesta nuevos titulares de instituciones municipales de juventud y desarrollo.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97293/Toma-protesta-Abdiel-Guti%C3%A9rrez-a-nuevos-titulares-de-IMJUV-y-DIF-Tijuana",
-        "_added_at": "2026-07-28T01:47:54.033530-07:00"
       }
     ]
   },
-  "last_updated": "2026-07-28T09:45:38.635178-07:00"
+  "last_updated": "2026-07-28T12:44:23.533429-07:00"
 }
