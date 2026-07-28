@@ -1,8 +1,36 @@
 {
   "date": "2026-07-28",
-  "run_count": 5,
+  "run_count": 6,
   "notes": {
     "seguridad": [
+      {
+        "title": "Vinculan a Mendivil con caso Shots y desapariciones",
+        "summary": "Exfuncionario de Mexicali relacionado con desapariciones de jóvenes; caso enviado a FGR con órdenes contra siete personas.",
+        "source": "ZETA Tijuana / AFN Tijuana",
+        "url": "https://zetatijuana.com/2026/07/vinculan-a-pedro-mendivil-con-el-caso-shots/",
+        "_added_at": "2026-07-28T15:12:02.596834-07:00"
+      },
+      {
+        "title": "Pareja detenida con media tonelada de metanfetamina",
+        "summary": "Dictan prisión preventiva a pareja capturada con gran cantidad de droga en Baja California.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/179663_dan_prision_preventiva_a_pareja_detenida_con_mas_de_media_tonelada_de_metanfetamina",
+        "_added_at": "2026-07-28T15:12:02.596834-07:00"
+      },
+      {
+        "title": "Hombre vinculado a tentativa de homicidio contra mujer",
+        "summary": "Sujeto procesado por disparo contra mujer en Baja California.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/179662_vinculan_a_proceso_a_un_hombre_por_intento_de_homicidio_disparo_contra_una_mujer",
+        "_added_at": "2026-07-28T15:12:02.596834-07:00"
+      },
+      {
+        "title": "Crimen organizado detrás de ataques políticos con IA",
+        "summary": "Investigan participación de organizaciones delictivas en campañas de desinformación mediante inteligencia artificial.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/ataques-politicos-con-ia-involucran-al-crimen-organizado/",
+        "_added_at": "2026-07-28T15:12:02.596834-07:00"
+      },
       {
         "title": "Detienen a exdirector de policía de Mexicali por asociación delictuosa",
         "summary": "Pedro Mendívil, ex director de seguridad pública de Mexicali, fue detenido junto con funcionarios activos por presuntos delitos.",
@@ -44,23 +72,37 @@
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/07/procesan-a-tres-por-forzar-la-entrega-de-un-inmueble-mediante-extorsion-en-ensenada/",
         "_added_at": "2026-07-28T07:28:25.634030-07:00"
-      },
-      {
-        "title": "Tres procesados por extorsión inmobiliaria en Ensenada",
-        "summary": "Autoridades procesan a tres individuos por obligar entrega de propiedad mediante extorsión en Ensenada.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/procesan-a-tres-por-forzar-la-entrega-de-un-inmueble-mediante-extorsion-en-ensenada/?utm_source=rss&utm_medium=rss&utm_campaign=procesan-a-tres-por-forzar-la-entrega-de-un-inmueble-mediante-extorsion-en-ensenada",
-        "_added_at": "2026-07-28T01:47:54.033530-07:00"
-      },
-      {
-        "title": "Cámara de Comercio exige acciones contra inseguridad",
-        "summary": "CCE demanda atención a apagones e inseguridad más allá de controversias políticas recientes.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179626_cce_lamenta_distracciones_por_audios_y_exige_atender_apagones_e_inseguridad",
-        "_added_at": "2026-07-28T01:47:54.033530-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Exigen frenar campañas anticipadas; CCE pide a candidatos trabajar",
+        "summary": "Sector empresarial demanda que aspirantes se dediquen a labores y detengan campaña prematura.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179665_exigen_frenar_campanas_anticipadas_que_aspirantes_se_pongan_a_trabajar_pide_el_cce",
+        "_added_at": "2026-07-28T15:12:02.596834-07:00"
+      },
+      {
+        "title": "Líder de Morena pide serenidad en Baja California",
+        "summary": "Dirigente nacional de Morena hace llamado a la calma en contexto de conflictividad estatal.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179661_que_todo_mundo_se_serene_en_bc_pide_lider_nacional_de_morena",
+        "_added_at": "2026-07-28T15:12:02.596834-07:00"
+      },
+      {
+        "title": "Partidos obligados a informar gastos ante el INE",
+        "summary": "Delegado del INE reafirma obligación de transparencia en gastos de campaña de partidos políticos.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179660_partidos_estan_obligados_a_informar_sus_gastos_ante_el_ine_dice_delegado",
+        "_added_at": "2026-07-28T15:12:02.596834-07:00"
+      },
+      {
+        "title": "Expresidentes respaldan a Ruffo; Sheinbaum responde",
+        "summary": "Líderes internacionales apoyan expresidente; actual gobierno federal contra-argumenta posición.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179655_expresidentes_de_america_y_espana_respaldaron_a_ruffo_sheinbaum_les_dio_respuesta",
+        "_added_at": "2026-07-28T15:12:02.596834-07:00"
+      },
       {
         "title": "Mendívil responsabiliza a fiscal por su detención",
         "summary": "Exdirector asegura que su captura es venganza política de la fiscal estatal en Mexicali.",
@@ -102,37 +144,16 @@
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/07/panistas-denuncian-violacion-a-derechos-de-ruffo-hija-acusa-condiciones-severas/",
         "_added_at": "2026-07-28T09:45:38.635178-07:00"
-      },
-      {
-        "title": "Familia de Ruffo presenta queja ante CNDH",
-        "summary": "Se interpone demanda formal ante Comisión Nacional de Derechos Humanos por debido proceso del exgobernador.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179636_presentan_queja_ante_la_cndh_por_el_caso_ruffo",
-        "_added_at": "2026-07-28T09:45:38.635178-07:00"
-      },
-      {
-        "title": "Montserrat Caballero busca alternancia en BC",
-        "summary": "Gobernadora afirma que trabajará con PT para impulsar cambio político en Baja California.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Estatal/97282/%E2%80%9CEl-PT-ahora-me-tiene-a-m%C3%AD%E2%80%9D%3A-Montserrat-Caballero-afirma-que-buscar%C3%A1-impulsar-la-alternancia-en-Baja-California",
-        "_added_at": "2026-07-28T09:45:38.635178-07:00"
-      },
-      {
-        "title": "Ruffo denuncia violaciones a derechos ante CNDH",
-        "summary": "Familia de exgobernador Ernesto Ruffo presenta queja ante CNDH por presuntas violaciones al debido proceso y condiciones severas de detención.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/hija-de-ruffo-denuncia-ante-cndh-violaciones-al-debido-proceso-de-su-padre/",
-        "_added_at": "2026-07-28T07:28:25.634030-07:00"
-      },
-      {
-        "title": "Nuevos directores en IMJUV y DIF Tijuana",
-        "summary": "Gobierno municipal toma protesta a nuevos titulares de Instituto Municipal de la Juventud y Sistema para el Desarrollo Integral de la Familia.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179634_nombran_a_nuevos_directores_del_imjuv_y_dif_tijuana",
-        "_added_at": "2026-07-28T07:28:25.634030-07:00"
       }
     ],
     "economia": [
+      {
+        "title": "CFE repone 32 postes dañados por lluvia en Mexicali",
+        "summary": "Empresa eléctrica restaura infraestructura afectada por precipitaciones en municipios de BC.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/cfe-reemplaza-32-postes-danados-por-las-lluvias-en-mexicali-y-san-luis-rio-colorado/",
+        "_added_at": "2026-07-28T15:12:02.596834-07:00"
+      },
       {
         "title": "Reducción drástica del 35% en superficie agrícola de BC",
         "summary": "Agricultores reportan caída considerable en áreas de siembra en el estado.",
@@ -192,6 +213,20 @@
     ],
     "sociedad": [
       {
+        "title": "Banco de Alimentos suspende tras incendio en bodega contigua",
+        "summary": "Organización de ayuda alimentaria cierra operaciones temporalmente por afectación del fuego.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/banco-de-alimentos-suspende-operacion-tras-incendio-en-bodega-contigua/",
+        "_added_at": "2026-07-28T15:12:02.596834-07:00"
+      },
+      {
+        "title": "Ensenada rinde homenaje a Isaac del Toro tras Tour Francia",
+        "summary": "Ciudad honra logro histórico del ciclista local con mural conmemorativo por participación internacional.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Ensenada/97328/Realizan-mural-en-honor-a-Isaac-del-Toro-en-Ensenada-tras-hist%C3%B3rica-actuaci%C3%B3n-en-el-Tour-de-Francia",
+        "_added_at": "2026-07-28T15:12:02.596834-07:00"
+      },
+      {
         "title": "BC contará con monitoreo permanente de clima y fenómeno El Niño",
         "summary": "Estado instalará sistema de vigilancia del comportamiento climático y efectos del fenómeno.",
         "source": "AFN Tijuana",
@@ -246,22 +281,8 @@
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/07/en-tecate-tambien-se-registran-largas-filas-para-solicitar-tarjeta-violeta/",
         "_added_at": "2026-07-28T07:28:25.634030-07:00"
-      },
-      {
-        "title": "Acueducto La Pechuga dejará sin agua a 20 colonias",
-        "summary": "Rehabilitación de infraestructura causará cortes de suministro en Tijuana temporalmente.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/rehabilitacion-del-acueducto-la-pechuga-volvera-a-dejar-sin-agua-a-20-colonias-en-tijuana/?utm_source=rss&utm_medium=rss&utm_campaign=rehabilitacion-del-acueducto-la-pechuga-volvera-a-dejar-sin-agua-a-20-colonias-en-tijuana",
-        "_added_at": "2026-07-28T01:47:54.033530-07:00"
-      },
-      {
-        "title": "Rosarito suministra agua; aún 270 colonias sin servicio",
-        "summary": "Gobierno distribuve agua con pipas pero persisten carencias en cobertura municipal.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/gobierno-de-rosarito-lleva-agua-a-colonias-todavia-270-colonias-sin-servicio-dice-cespt/?utm_source=rss&utm_medium=rss&utm_campaign=gobierno-de-rosarito-lleva-agua-a-colonias-todavia-270-colonias-sin-servicio-dice-cespt",
-        "_added_at": "2026-07-28T01:47:54.033530-07:00"
       }
     ]
   },
-  "last_updated": "2026-07-28T12:44:23.533429-07:00"
+  "last_updated": "2026-07-28T15:12:02.596834-07:00"
 }
