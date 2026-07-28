@@ -1,8 +1,22 @@
 {
   "date": "2026-07-28",
-  "run_count": 3,
+  "run_count": 4,
   "notes": {
     "seguridad": [
+      {
+        "title": "Incendio en registro CFE por presunto vandalismo",
+        "summary": "Se registra incendio en instalaciones de CFE frente a Hospital General, presuntamente causado por acto vandálico.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179640_arde_registro_de_la_cfe_frente_al_hospital_general_por_presunto_vandalismo",
+        "_added_at": "2026-07-28T09:45:38.635178-07:00"
+      },
+      {
+        "title": "Conductora rescatada tras accidente; detienen responsable",
+        "summary": "Autoridades rescatan conductora lesionada en accidente vehicular y detienen al presunto responsable del siniestro.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179641_rescatan_a_conductora_lesionada_en_accidente_vehicular_detienen_al_presunto_responsable",
+        "_added_at": "2026-07-28T09:45:38.635178-07:00"
+      },
       {
         "title": "Tres procesados por extorsión inmobiliaria en Ensenada",
         "summary": "Autoridades procesan a tres personas por obtener forzadamente la entrega de un inmueble mediante extorsión en Ensenada.",
@@ -26,6 +40,34 @@
       }
     ],
     "politica": [
+      {
+        "title": "Sheinbaum reafirma caso Ruffo como tema criminal",
+        "summary": "Presidenta responde a expresidentes que apoyan a Ruffo, insistiendo en que es asunto de investigación penal.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/caso-de-ruffo-ya-esta-juzgado-y-es-tema-criminal-segun-sheinbaum/",
+        "_added_at": "2026-07-28T09:45:38.635178-07:00"
+      },
+      {
+        "title": "Panistas denuncian violación de derechos a Ruffo",
+        "summary": "Miembros del PAN denuncian incumplimiento de garantías legales; hija reporta condiciones severas en detención.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/panistas-denuncian-violacion-a-derechos-de-ruffo-hija-acusa-condiciones-severas/",
+        "_added_at": "2026-07-28T09:45:38.635178-07:00"
+      },
+      {
+        "title": "Familia de Ruffo presenta queja ante CNDH",
+        "summary": "Se interpone demanda formal ante Comisión Nacional de Derechos Humanos por debido proceso del exgobernador.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179636_presentan_queja_ante_la_cndh_por_el_caso_ruffo",
+        "_added_at": "2026-07-28T09:45:38.635178-07:00"
+      },
+      {
+        "title": "Montserrat Caballero busca alternancia en BC",
+        "summary": "Gobernadora afirma que trabajará con PT para impulsar cambio político en Baja California.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/97282/%E2%80%9CEl-PT-ahora-me-tiene-a-m%C3%AD%E2%80%9D%3A-Montserrat-Caballero-afirma-que-buscar%C3%A1-impulsar-la-alternancia-en-Baja-California",
+        "_added_at": "2026-07-28T09:45:38.635178-07:00"
+      },
       {
         "title": "Ruffo denuncia violaciones a derechos ante CNDH",
         "summary": "Familia de exgobernador Ernesto Ruffo presenta queja ante CNDH por presuntas violaciones al debido proceso y condiciones severas de detención.",
@@ -67,27 +109,6 @@
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/07/hija-de-ruffo-denuncia-ante-cndh-violaciones-al-debido-proceso-de-su-padre/?utm_source=rss&utm_medium=rss&utm_campaign=hija-de-ruffo-denuncia-ante-cndh-violaciones-al-debido-proceso-de-su-padre",
         "_added_at": "2026-07-28T01:47:54.033530-07:00"
-      },
-      {
-        "title": "FGR defiende caso Ruffo con 96 pruebas",
-        "summary": "Fiscalía refuta acusaciones de persecución política presentando evidencia contra exgobernador.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179633_se_tienen_96_pruebas_en_contra_de_ruffo_dice_la_fgr_y_niega_persecucion_politica",
-        "_added_at": "2026-07-28T01:47:54.033530-07:00"
-      },
-      {
-        "title": "Monserrat busca que gubernatura no quede inexperimentada",
-        "summary": "Político expresa preocupación sobre sucesión estatal y experiencia en cargo.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179624_quiere_que_gubernatura_no_quede_en_otras_manos_inexpertas_dice_monserrat",
-        "_added_at": "2026-07-28T01:47:54.033530-07:00"
-      },
-      {
-        "title": "Osuna anticipa acción de EU contra Rocha",
-        "summary": "Analista prevé posibles acciones estadounidenses contra autoridades mexicanas.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179622_viene_una_accion_de_eu_contra_rocha_y_otros_preve_osuna_jaime",
-        "_added_at": "2026-07-28T01:47:54.033530-07:00"
       }
     ],
     "economia": [
@@ -128,6 +149,20 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "CESPT implementa tandeos de agua en Tijuana",
+        "summary": "Comisión de servicios implementará racionamiento de agua en la ciudad.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/cespt-hara-tandeos-de-agua/",
+        "_added_at": "2026-07-28T09:45:38.635178-07:00"
+      },
+      {
+        "title": "Invitan a reforestación en Parque Benito Juárez",
+        "summary": "Convocatoria para plantar buganvillas y jacarandas en espacio público de Tijuana.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/invitan-a-plantar-buganvillas-y-jacarandas-en-parque-benito-juarez-este-miercoles/",
+        "_added_at": "2026-07-28T09:45:38.635178-07:00"
+      },
       {
         "title": "Acueducto La Pechuga dejará sin agua a 20 colonias",
         "summary": "Rehabilitación de infraestructura hidráulica causará corte de servicio en Tijuana durante obras.",
@@ -179,5 +214,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-28T07:28:25.634030-07:00"
+  "last_updated": "2026-07-28T09:45:38.635178-07:00"
 }
