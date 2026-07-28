@@ -1,6 +1,6 @@
 {
   "date": "2026-07-28",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
       {
@@ -19,6 +19,20 @@
       }
     ],
     "politica": [
+      {
+        "title": "Panistas denuncian violaciones a derechos de Ruffo",
+        "summary": "Familia de Ernesto Ruffo presenta denuncia ante CNDH por presuntas violaciones al debido proceso.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/panistas-denuncian-violacion-a-derechos-de-ruffo-hija-acusa-condiciones-severas/?utm_source=rss&utm_medium=rss&utm_campaign=panistas-denuncian-violacion-a-derechos-de-ruffo-hija-acusa-condiciones-severas",
+        "_added_at": "2026-07-28T04:24:40.288645-07:00"
+      },
+      {
+        "title": "Nombran directores de IMJUV y DIF en Tijuana",
+        "summary": "Administración de Tijuana toma protesta a nuevos titulares de institutos municipales.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97293/Toma-protesta-Abdiel-Guti%C3%A9rrez-a-nuevos-titulares-de-IMJUV-y-DIF-Tijuana",
+        "_added_at": "2026-07-28T04:24:40.288645-07:00"
+      },
       {
         "title": "Ruffo: denuncian violaciones a derechos ante CNDH",
         "summary": "Familia del exgobernador presenta quejas por supuestas violaciones al debido proceso y condiciones severas.",
@@ -95,5 +109,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-28T01:47:54.033530-07:00"
+  "last_updated": "2026-07-28T04:24:40.288645-07:00"
 }
