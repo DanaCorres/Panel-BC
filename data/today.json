@@ -1,295 +1,99 @@
 {
-  "date": "2026-07-27",
-  "run_count": 6,
+  "date": "2026-07-28",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Tres detenidos por extorsión inmobiliaria en Ensenada",
-        "summary": "Autoridades procesan a tres individuos acusados de forzar entrega de propiedad mediante extorsión en Ensenada.",
+        "title": "Tres procesados por extorsión inmobiliaria en Ensenada",
+        "summary": "Autoridades procesan a tres individuos por obligar entrega de propiedad mediante extorsión en Ensenada.",
         "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/procesan-a-tres-por-forzar-la-entrega-de-un-inmueble-mediante-extorsion-en-ensenada/",
-        "_added_at": "2026-07-27T20:24:34.495860-07:00"
+        "url": "https://zetatijuana.com/2026/07/procesan-a-tres-por-forzar-la-entrega-de-un-inmueble-mediante-extorsion-en-ensenada/?utm_source=rss&utm_medium=rss&utm_campaign=procesan-a-tres-por-forzar-la-entrega-de-un-inmueble-mediante-extorsion-en-ensenada",
+        "_added_at": "2026-07-28T01:47:54.033530-07:00"
       },
       {
-        "title": "Niño fallece tras búsqueda de atención médica en Maneadero",
-        "summary": "Menor de dos años muere en Maneadero después de recorrido buscando servicios de salud.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/menor-de-dos-anos-fallece-en-maneadero-tras-recorrido-en-busca-de-atencion-medica/",
-        "_added_at": "2026-07-27T20:24:34.495860-07:00"
-      },
-      {
-        "title": "Localizan vehículo incendiado con cuerpo en Mexicali",
-        "summary": "Autoridades hallaron automóvil quemado con cadáver en su interior en la capital del estado.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97283/Localizan-auto-quemado-con-un-cuerpo-en-su-interior-en-Mexicali",
-        "_added_at": "2026-07-27T15:13:40.286225-07:00"
-      },
-      {
-        "title": "Incendio de pastizal sobre bulevar Rosas Magallón controlado",
-        "summary": "Bomberos sofocaron fuego que amenazaba viviendas en zona de Tijuana.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97281/Incendio-de-pastizal-sobre-blvr.-Rosas-Magall%C3%B3n;-bomberos-evitan-que-el-fuego-alcanzara-una-vivienda",
-        "_added_at": "2026-07-27T15:13:40.286225-07:00"
-      },
-      {
-        "title": "Visa de Caballero fue revocada, no retenida",
-        "summary": "La exgobernadora Montserrat Caballero aclaró sobre su visa estadounidense que fue revocada, contrario a lo que inicialmente manifestó.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/visa-de-montserrat-caballero-fue-revocada-no-retenida-como-dijo-ella/",
-        "_added_at": "2026-07-27T12:46:51.498037-07:00"
-      },
-      {
-        "title": "Incendian camioneta en Cañón Johnson",
-        "summary": "Vehículo fue consumido por fuego en área de desarenador causando alarma en la zona.",
+        "title": "Cámara de Comercio exige acciones contra inseguridad",
+        "summary": "CCE demanda atención a apagones e inseguridad más allá de controversias políticas recientes.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179616_arde_una_camioneta_en_desarenador_del_canon_johnson",
-        "_added_at": "2026-07-27T12:46:51.498037-07:00"
-      },
-      {
-        "title": "\"Mayo\" Zambada enfrenta cadena perpetua y decomiso",
-        "summary": "Narcotraficante enfrentaría máximas penas legales incluyendo pérdida de bienes incautados.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/cadena-perpetua-y-decomiso-inalcanzable-para-mayo-zambada/",
-        "_added_at": "2026-07-27T12:46:51.498037-07:00"
-      },
-      {
-        "title": "Abogados de Tijuana exigen protocolo de seguridad laboral",
-        "summary": "Gremio jurídico solicita medidas de protección específicas para ejercer su profesión en condiciones seguras.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179614_exigen_abogados_un_protocolo_de_seguridad_para_el_gremio_juridico",
-        "_added_at": "2026-07-27T10:04:44.995562-07:00"
-      },
-      {
-        "title": "Vehículo incendiado en Cañón Johnson",
-        "summary": "Camioneta Honda Odyssey fue quemada en zona de Tijuana durante la madrugada.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97250/Incendian-camioneta-Honda-Odyssey-en-el-Ca%C3%B1%C3%B3n-Johnson",
-        "_added_at": "2026-07-27T10:04:44.995562-07:00"
-      },
-      {
-        "title": "Gobernadora contrata ex agente FBI infiltrado en Sinaloa",
-        "summary": "Marina del Pilar habría reclutado a ex agente federal estadounidense que se infiltró en cártel, según audio revelado.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/marina-del-pilar-contrato-a-ex-agente-del-fbi-que-infiltro-al-cartel-de-sinaloa-revela-nuevo-audio/?utm_source=rss&utm_medium=rss&utm_campaign=marina-del-pilar-contrato-a-ex-agente-del-fbi-que-infiltro-al-cartel-de-sinaloa-revela-nuevo-audio",
-        "_added_at": "2026-07-27T07:54:30.402950-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/179626_cce_lamenta_distracciones_por_audios_y_exige_atender_apagones_e_inseguridad",
+        "_added_at": "2026-07-28T01:47:54.033530-07:00"
       }
     ],
     "politica": [
       {
-        "title": "FGR presenta 96 pruebas contra Ruffo, niega persecución",
-        "summary": "Fiscalía General niega acusaciones de persecución política contra Ruffo y anticipa daños por miles de millones.",
+        "title": "Ruffo: denuncian violaciones a derechos ante CNDH",
+        "summary": "Familia del exgobernador presenta quejas por supuestas violaciones al debido proceso y condiciones severas.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/hija-de-ruffo-denuncia-ante-cndh-violaciones-al-debido-proceso-de-su-padre/?utm_source=rss&utm_medium=rss&utm_campaign=hija-de-ruffo-denuncia-ante-cndh-violaciones-al-debido-proceso-de-su-padre",
+        "_added_at": "2026-07-28T01:47:54.033530-07:00"
+      },
+      {
+        "title": "FGR defiende caso Ruffo con 96 pruebas",
+        "summary": "Fiscalía refuta acusaciones de persecución política presentando evidencia contra exgobernador.",
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/179633_se_tienen_96_pruebas_en_contra_de_ruffo_dice_la_fgr_y_niega_persecucion_politica",
-        "_added_at": "2026-07-27T20:24:34.495860-07:00"
+        "_added_at": "2026-07-28T01:47:54.033530-07:00"
       },
       {
-        "title": "Nuevos audios de funcionarios generan crisis política en BC",
-        "summary": "Audios adicionales de autoridades profundizan crisis política sin poder minimizarse según analista.",
+        "title": "Monserrat busca que gubernatura no quede inexperimentada",
+        "summary": "Político expresa preocupación sobre sucesión estatal y experiencia en cargo.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179628_nuevo_audio_de_avila_olmeda_profundiza_una_crisis_que_no_puede_minimizarse_eva_maria_vazquez",
-        "_added_at": "2026-07-27T20:24:34.495860-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/179624_quiere_que_gubernatura_no_quede_en_otras_manos_inexpertas_dice_monserrat",
+        "_added_at": "2026-07-28T01:47:54.033530-07:00"
       },
       {
-        "title": "Nombran nuevos directores de IMJUV y DIF Tijuana",
-        "summary": "Gobierno designa nuevas direcciones para institutos municipales de juventud y desarrollo integral familiar.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/nombran-a-nuevos-directores-del-imjuv-y-dif-tijuana/",
-        "_added_at": "2026-07-27T20:24:34.495860-07:00"
-      },
-      {
-        "title": "Montserrat Caballero afirma que buscará alternancia en BC",
-        "summary": "Exgobernadora anuncia apoyo del PT para impulsar cambio político en Baja California.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Estatal/97282/%E2%80%9CEl-PT-ahora-me-tiene-a-m%C3%AD%E2%80%9D%3A-Montserrat-Caballero-afirma-que-buscar%C3%A1-impulsar-la-alternancia-en-Baja-California",
-        "_added_at": "2026-07-27T15:13:40.286225-07:00"
-      },
-      {
-        "title": "Visa de Montserrat Caballero fue revocada, no retenida",
-        "summary": "Se aclara que su documento migratorio fue revocado, contradice versión de exgobernadora.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/visa-de-montserrat-caballero-fue-revocada-no-retenida-como-dijo-ella/",
-        "_added_at": "2026-07-27T15:13:40.286225-07:00"
-      },
-      {
-        "title": "Osuna Jaime prevé acciones de EU contra Rocha y otros",
-        "summary": "Analista anticipa que autoridades estadounidenses tomarán medidas contra funcionarios.",
+        "title": "Osuna anticipa acción de EU contra Rocha",
+        "summary": "Analista prevé posibles acciones estadounidenses contra autoridades mexicanas.",
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/179622_viene_una_accion_de_eu_contra_rocha_y_otros_preve_osuna_jaime",
-        "_added_at": "2026-07-27T15:13:40.286225-07:00"
-      },
-      {
-        "title": "Hay hartazgo contra Morena en BC, asegura Lizbeth Mata",
-        "summary": "Opositora denuncia descontento ciudadano hacia el partido oficialista en la entidad.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179618_hay_hartazgo_contra_morena_en_bc_asegura_lizbeth_mata",
-        "_added_at": "2026-07-27T12:46:51.498037-07:00"
-      },
-      {
-        "title": "Bloque Morena aprobó cuentas rechazadas, denuncia Corral",
-        "summary": "Exgobernador critica que mayoría legislativa revirtió decisiones iniciales sobre auditorías públicas.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179617_bloque_de_morena_aprobo_tres_cuentas_publicas_inicialmente_rechazadas_denuncia_corral",
-        "_added_at": "2026-07-27T12:46:51.498037-07:00"
-      },
-      {
-        "title": "Ramos presenta plan de seguridad y pavimentación estatal",
-        "summary": "Gobernador anuncia depuración policiaca e infraestructura vial como parte de segundo piso 4T.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97270/Seguridad,-depuraci%C3%B3n-policiaca-y-un-plan-estatal-de-pavimentaci%C3%B3n-forman-parte-del-Segundo-Piso-de-la-4T%3A-Jorge-Ramos",
-        "_added_at": "2026-07-27T12:46:51.498037-07:00"
-      },
-      {
-        "title": "Sheinbaum niega persecución política contra Ernesto Ruffo",
-        "summary": "Presidenta descarta acusaciones sobre procedimiento contra exgobernador por cuestión de huachicol.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/sheinbaum-niega-persecucion-politica-contra-ruffo-por-huachicol-fiscal/?utm_source=rss&utm_medium=rss&utm_campaign=sheinbaum-niega-persecucion-politica-contra-ruffo-por-huachicol-fiscal",
-        "_added_at": "2026-07-27T10:04:44.995562-07:00"
+        "_added_at": "2026-07-28T01:47:54.033530-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Clientes del desarrollo KYO Ilán exigen reembolso",
-        "summary": "Compradores de proyecto inmobiliario protestan pidiendo respuestas y devolución de dinero invertido.",
+        "title": "Clientes del desarrollo KYO Ilán exigen reembolsos",
+        "summary": "Compradores buscan respuestas y devolución de dinero ante problemas del proyecto inmobiliario.",
         "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/clientes-del-desarrollo-kyo-ilan-exigen-respuestas-y-reembolso/",
-        "_added_at": "2026-07-27T20:24:34.495860-07:00"
+        "url": "https://zetatijuana.com/2026/07/clientes-del-desarrollo-kyo-ilan-exigen-respuestas-y-reembolso/?utm_source=rss&utm_medium=rss&utm_campaign=clientes-del-desarrollo-kyo-ilan-exigen-respuestas-y-reembolso",
+        "_added_at": "2026-07-28T01:47:54.033530-07:00"
       },
       {
-        "title": "Analizan impactos de reforma laboral de 40 horas en Tijuana",
-        "summary": "Se discuten retos e impactos de nueva jornada laboral máxima de cuarenta horas semanales.",
+        "title": "Frente cívico mexicalense propone nueva tarifa eléctrica",
+        "summary": "Organización presenta alternativa de tarifa eléctrica en Mexicali.",
         "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97288/Analizan-en-Tijuana-retos-e-impactos-de-la-reforma-de-40-horas",
-        "_added_at": "2026-07-27T20:24:34.495860-07:00"
-      },
-      {
-        "title": "Reforma de 40 horas tendrá implementación gradual desde enero 2027",
-        "summary": "Gobierno anuncia entrada gradual en vigor de reducción de jornada laboral.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/lista-implementacion-gradual-de-reforma-de-40-horas-para-enero-de-2027/",
-        "_added_at": "2026-07-27T15:13:40.286225-07:00"
-      },
-      {
-        "title": "Abren convocatoria para programa de incubación empresarial",
-        "summary": "Lanzan iniciativa \"CREA tu Negocio\" para impulsar emprendimiento en BC.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/empresarial/179620_abren_convocatoria_para_el_programa_de_incubacion_crea_tu_negocio",
-        "_added_at": "2026-07-27T15:13:40.286225-07:00"
-      },
-      {
-        "title": "SAT condona cien por ciento adeudos de placas 2023 y anteriores",
-        "summary": "Autoridades fiscales estatales perdonan pasivos de tenencia de vehículos rezagados.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Estatal/97279/SAT-BC-condonaciones-100%25-adeudos-de-placas-2023-y-a%C3%B1os-anteriores.",
-        "_added_at": "2026-07-27T15:13:40.286225-07:00"
-      },
-      {
-        "title": "Urge nueva tarifa eléctrica 1G en Mexicali ante calor extremo",
-        "summary": "Activista demanda ajuste tarifario para pobladores enfrentando temperaturas de 50 grados.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179619_urge_nueva_tarifa_electrica_1g_en_mexicali_ante_el_calor_de_50_c_activista",
-        "_added_at": "2026-07-27T15:13:40.286225-07:00"
-      },
-      {
-        "title": "Maquiladoras de BC despiden a 11,470 trabajadores",
-        "summary": "Industria manufacturera estatal realiza recorte masivo de personal, afectando empleo fronterizo.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/empresarial/179605_maquiladoras_de_bc_recortan_a_11_470_trabajadores",
-        "_added_at": "2026-07-27T07:54:30.402950-07:00"
-      },
-      {
-        "title": "Inflación en Tijuana alcanza 1.95% a mediados de julio",
-        "summary": "Primera quincena del mes registra índice de precios anual en municipio principal de estado.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/empresarial/179604_inflacion_de_tijuana_llega_a_1_95_anual_en_la_primera_quincena_de_julio",
-        "_added_at": "2026-07-27T07:54:30.402950-07:00"
-      },
-      {
-        "title": "Tijuana impulsa herramientas digitales para emprendedores",
-        "summary": "Ayuntamiento fortalece apoyo a pequeños negocios con plataformas tecnológicas.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179603_ayuntamiento_de_tijuana_impulsa_herramientas_digitales_para_fortalecer_el_emprendimiento",
-        "_added_at": "2026-07-27T03:05:36.317287-07:00"
-      },
-      {
-        "title": "Exigen a CFE acciones contra apagones en Mexicali",
-        "summary": "Demandan soluciones concretas para resolver crisis de energía eléctrica.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/exige-a-la-cfe-acciones-concretas-para-atender-los-apagones-en-mexicali/?utm_source=rss&utm_medium=rss&utm_campaign=exige-a-la-cfe-acciones-concretas-para-atender-los-apagones-en-mexicali",
-        "_added_at": "2026-07-27T03:05:36.317287-07:00"
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97276/Frente-civico-mexicalense-propone-nueva-tarifa-el%C3%A9ctrica",
+        "_added_at": "2026-07-28T01:47:54.033530-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Rosarito sigue sin agua en 270 colonias pese a abastecimiento",
-        "summary": "Gobierno lleva agua mediante pipas pero aún quedan sin servicio la mayoría de colonias.",
+        "title": "Acueducto La Pechuga dejará sin agua a 20 colonias",
+        "summary": "Rehabilitación de infraestructura causará cortes de suministro en Tijuana temporalmente.",
         "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/gobierno-de-rosarito-lleva-agua-a-colonias-todavia-270-colonias-sin-servicio-dice-cespt/",
-        "_added_at": "2026-07-27T20:24:34.495860-07:00"
+        "url": "https://zetatijuana.com/2026/07/rehabilitacion-del-acueducto-la-pechuga-volvera-a-dejar-sin-agua-a-20-colonias-en-tijuana/?utm_source=rss&utm_medium=rss&utm_campaign=rehabilitacion-del-acueducto-la-pechuga-volvera-a-dejar-sin-agua-a-20-colonias-en-tijuana",
+        "_added_at": "2026-07-28T01:47:54.033530-07:00"
       },
       {
-        "title": "Largas filas en Tecate para solicitar Tarjeta Violeta",
-        "summary": "Ciudadanos forman colas para tramitar documentos de identificación especial en Tecate.",
+        "title": "Rosarito suministra agua; aún 270 colonias sin servicio",
+        "summary": "Gobierno distribuve agua con pipas pero persisten carencias en cobertura municipal.",
         "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/en-tecate-tambien-se-registran-largas-filas-para-solicitar-tarjeta-violeta/",
-        "_added_at": "2026-07-27T20:24:34.495860-07:00"
+        "url": "https://zetatijuana.com/2026/07/gobierno-de-rosarito-lleva-agua-a-colonias-todavia-270-colonias-sin-servicio-dice-cespt/?utm_source=rss&utm_medium=rss&utm_campaign=gobierno-de-rosarito-lleva-agua-a-colonias-todavia-270-colonias-sin-servicio-dice-cespt",
+        "_added_at": "2026-07-28T01:47:54.033530-07:00"
       },
       {
-        "title": "Inauguran huerto educativo en Club de Niños Tijuana",
-        "summary": "Menores aprenderán a cultivar alimentos que consumirán directamente en programa comunitario.",
+        "title": "Mujeres de Tecate solicitan Tarjeta Violeta en filas largas",
+        "summary": "Ciudadanas se registran para apoyo económico de 2600 pesos bimestrales en zona.",
         "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97274/Inauguran-huerto-en-Club-de-Ni%C3%B1os-y-Ni%C3%B1as-de-Tijuana;-menores-cultivar%C3%A1n-alimentos-que-llegar%C3%A1n-a-su-plato",
-        "_added_at": "2026-07-27T20:24:34.495860-07:00"
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97278/Bajo-el-clima-extremo,-mujeres-se-registran-al-programa-Tarjeta-Violeta",
+        "_added_at": "2026-07-28T01:47:54.033530-07:00"
       },
       {
-        "title": "Invitan a plantar árboles en parque Benito Juárez Tijuana",
-        "summary": "Actividad comunitaria este miércoles para reforestar con buganvillas y jacarandas.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/invitan-a-plantar-buganvillas-y-jacarandas-en-parque-benito-juarez-este-miercoles/",
-        "_added_at": "2026-07-27T20:24:34.495860-07:00"
-      },
-      {
-        "title": "Cientos de mujeres se registran a Tarjeta Violeta en Mexicali",
-        "summary": "A pesar del calor extremo, familias acuden masivamente a inscribirse en programa.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/en-mexicali-cientos-de-mujeres-soportan-el-calor-extremo-para-registrarse-a-la-tarjeta-violeta/",
-        "_added_at": "2026-07-27T15:13:40.286225-07:00"
-      },
-      {
-        "title": "Suministran agua con pipas en colonias de Rosarito",
-        "summary": "Autoridades distribuyen agua mediante carros cisterna ante escasez en el municipio.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/municipios/179623_suministran_agua_con_pipas_en_colonias_de_rosarito",
-        "_added_at": "2026-07-27T15:13:40.286225-07:00"
-      },
-      {
-        "title": "Estaciones de bomberos en Mexicali tendrán internet gratuito",
-        "summary": "Gobierno proporciona conectividad a instalaciones para mejorar servicios de emergencia.",
+        "title": "Nuevos directores designados en IMJUV y DIF Tijuana",
+        "summary": "Toman protesta nuevos titulares de instituciones municipales de juventud y desarrollo.",
         "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97272/Estaciones-de-bomberos-tendr%C3%A1n-internet-gratis",
-        "_added_at": "2026-07-27T15:13:40.286225-07:00"
-      },
-      {
-        "title": "Fuga de agua deja sin servicio a 20 colonias tijuanenses",
-        "summary": "Nueva rotura en infraestructura hídrica afecta abastecimiento en múltiples sectores.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97245/Nueva-fuga-deja-sin-agua-a-20-colonias",
-        "_added_at": "2026-07-27T12:46:51.498037-07:00"
-      },
-      {
-        "title": "Ciudadano limpia playas tras dos meses en Tijuana",
-        "summary": "Iniciativa comunitaria de limpieza ambiental en playas de la ciudad.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97269/Con-2-meses-viviendo-en-Tijuana,-Edder-limpia-la-playa-de-la-ciudad",
-        "_added_at": "2026-07-27T12:46:51.498037-07:00"
-      },
-      {
-        "title": "Madres tijuanenses se registran en programa Tarjeta Violeta",
-        "summary": "Alto interés de madres en iniciativa de apoyo social genera filas en oficinas.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179612_madrugan_madres_tijuanenses_para_registrarse_al_programa_tarjeta_violeta",
-        "_added_at": "2026-07-27T10:04:44.995562-07:00"
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97293/Toma-protesta-Abdiel-Guti%C3%A9rrez-a-nuevos-titulares-de-IMJUV-y-DIF-Tijuana",
+        "_added_at": "2026-07-28T01:47:54.033530-07:00"
       }
     ]
   },
-  "last_updated": "2026-07-27T20:24:34.495860-07:00"
+  "last_updated": "2026-07-28T01:47:54.033530-07:00"
 }
