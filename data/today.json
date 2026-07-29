@@ -1,8 +1,22 @@
 {
   "date": "2026-07-29",
-  "run_count": 4,
+  "run_count": 5,
   "notes": {
     "seguridad": [
+      {
+        "title": "Más de 120 objetivos prioritarios detenidos en BC",
+        "summary": "Cifra acumulada desde 2022 refleja operativos contra delincuencia organizada en la región.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179705_se_han_detenido_mas_de_120_objetivos_prioritarios_en_bc_de_2022_a_2026",
+        "_added_at": "2026-07-29T12:35:56.342333-07:00"
+      },
+      {
+        "title": "Hallan más restos óseos en fosas de Mexicali",
+        "summary": "Se localizan restos en zona de fosas clandestinas del Valle de Mexicali.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/179707_localizan_mas_restos_oseos_en_zona_de_fosas_clandestinas_del_valle_de_mexicali",
+        "_added_at": "2026-07-29T12:35:56.342333-07:00"
+      },
       {
         "title": "Operador financiero de Los Chapitos recibe prisión preventiva",
         "summary": "Juez ordena encarcelamiento de \"El Tío\", operador financiero de la organización delictiva de Los Chapitos.",
@@ -127,6 +141,20 @@
     ],
     "economia": [
       {
+        "title": "Procesos regulatorios avanzan según Álvarez Cárdenas",
+        "summary": "Funcionario responde a Coparmex sobre destrabe de trámites empresariales.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/procesos-regulatorios-pueden-avanzar-alvarez-cardenas-responde-a-coparmex/",
+        "_added_at": "2026-07-29T12:35:56.342333-07:00"
+      },
+      {
+        "title": "Más de 11 mil trámites diarios para Tarjeta Violeta",
+        "summary": "Solo 2 de 5 solicitantes logran obtener documento en BC.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/lograran-la-tarjeta-violeta-2-de-cada-5-solicitantes-mas-de-11-mil-tramites-diarios/",
+        "_added_at": "2026-07-29T12:35:56.342333-07:00"
+      },
+      {
         "title": "Koinox promete entregar departamentos o devolver dinero",
         "summary": "Desarrolladora inmobiliaria se compromete a cumplir con clientes afectados o reembolsar inversión.",
         "source": "ZETA Tijuana",
@@ -163,6 +191,20 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Club de Empresarios organiza torneo de golf solidario",
+        "summary": "Torneo de beneficencia en Baja California convoca a empresarios.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/presenta-club-de-empresarios-de-baja-california-torneo-de-golf-con-causa/",
+        "_added_at": "2026-07-29T12:35:56.342333-07:00"
+      },
+      {
+        "title": "Realizan tamizajes para detectar hepatitis en Mexicali",
+        "summary": "Sesenta estudios como parte de conmemoración del día mundial.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97333/Realizan-60-tamizajes-contra-hepatitis",
+        "_added_at": "2026-07-29T12:35:56.342333-07:00"
+      },
       {
         "title": "Samantha Alvarado Luna asume dirección del IMAC",
         "summary": "Nueva titular se encarga de instituto municipal de agua y catastro en Tijuana.",
@@ -221,5 +263,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-29T09:27:16.879021-07:00"
+  "last_updated": "2026-07-29T12:35:56.342333-07:00"
 }
