@@ -1,6 +1,6 @@
 {
   "date": "2026-07-29",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
       {
@@ -34,6 +34,13 @@
     ],
     "politica": [
       {
+        "title": "Activistas piden reunion con fiscalía por detención de exdirector",
+        "summary": "Sociedad civil busca esclarecer circunstancias de captura de funcionario en Mexicali.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179682_activistas_buscaran_reunion_con_fiscalia_tras_la_detencion_del_exdirector_de_la_policia_en_mexicali",
+        "_added_at": "2026-07-29T04:31:11.848930-07:00"
+      },
+      {
         "title": "Morena acusa que Poder Judicial protegió huachicol de Ruffo",
         "summary": "Partido nacional denuncia que sistema judicial anterior amparó operaciones ilícitas de exgobernador.",
         "source": "ZETA Tijuana",
@@ -64,6 +71,13 @@
     ],
     "economia": [
       {
+        "title": "Club Empresarios BC organiza torneo de golf benéfico",
+        "summary": "Evento corporativo recauda fondos para causa social en la región.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/presenta-club-de-empresarios-de-baja-california-torneo-de-golf-con-causa/?utm_source=rss&utm_medium=rss&utm_campaign=presenta-club-de-empresarios-de-baja-california-torneo-de-golf-con-causa",
+        "_added_at": "2026-07-29T04:31:11.848930-07:00"
+      },
+      {
         "title": "Koinox se compromete a entregar departamentos o reembolsar",
         "summary": "Desarrolladora asume responsabilidad con clientes afectados, comprometiéndose a cumplir promesas o devolver inversión.",
         "source": "ZETA Tijuana",
@@ -79,6 +93,13 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Samantha Alvarado asume dirección del IMAC",
+        "summary": "Nueva titular toma cargo de institución cultural municipal.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/asume-samantha-alvarado-luna-titularidad-del-imac/?utm_source=rss&utm_medium=rss&utm_campaign=asume-samantha-alvarado-luna-titularidad-del-imac",
+        "_added_at": "2026-07-29T04:31:11.848930-07:00"
+      },
       {
         "title": "Club Empresarios BC organiza torneo de golf con propósito social",
         "summary": "Evento deportivo busca recaudar fondos para causa benéfica en la región de Baja California.",
@@ -109,5 +130,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-29T01:52:09.696194-07:00"
+  "last_updated": "2026-07-29T04:31:11.848930-07:00"
 }
