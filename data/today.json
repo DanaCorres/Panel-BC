@@ -1,8 +1,22 @@
 {
   "date": "2026-07-28",
-  "run_count": 6,
+  "run_count": 7,
   "notes": {
     "seguridad": [
+      {
+        "title": "Operador financiero de 'Los Chapitos' enfrenta prisión preventiva",
+        "summary": "Juez dicta prisión preventiva a 'El Tío', acusado de manejar recursos financieros para la organización delictiva en Tijuana.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/juez-dicta-prision-preventiva-a-el-tio-operador-financiero-de-los-chapitos/",
+        "_added_at": "2026-07-28T20:26:05.601525-07:00"
+      },
+      {
+        "title": "Incendio en vivienda de La Gloria afecta a persona en Mexicali",
+        "summary": "Siniestro en colonia La Gloria deja una persona con afectaciones por inhalación de humo.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97341/Incendio-afecta-vivienda-en-la-colonia-La-Gloria;-una-persona-resulta-afectada-por-inhalaci%C3%B3n-de-humo",
+        "_added_at": "2026-07-28T20:26:05.601525-07:00"
+      },
       {
         "title": "Vinculan a Mendivil con caso Shots y desapariciones",
         "summary": "Exfuncionario de Mexicali relacionado con desapariciones de jóvenes; caso enviado a FGR con órdenes contra siete personas.",
@@ -58,23 +72,37 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/179640_arde_registro_de_la_cfe_frente_al_hospital_general_por_presunto_vandalismo",
         "_added_at": "2026-07-28T09:45:38.635178-07:00"
-      },
-      {
-        "title": "Conductora rescatada tras accidente; detienen responsable",
-        "summary": "Autoridades rescatan conductora lesionada en accidente vehicular y detienen al presunto responsable del siniestro.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179641_rescatan_a_conductora_lesionada_en_accidente_vehicular_detienen_al_presunto_responsable",
-        "_added_at": "2026-07-28T09:45:38.635178-07:00"
-      },
-      {
-        "title": "Tres procesados por extorsión inmobiliaria en Ensenada",
-        "summary": "Autoridades procesan a tres personas por obtener forzadamente la entrega de un inmueble mediante extorsión en Ensenada.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/procesan-a-tres-por-forzar-la-entrega-de-un-inmueble-mediante-extorsion-en-ensenada/",
-        "_added_at": "2026-07-28T07:28:25.634030-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Morena acusa protección del Poder Judicial al huachicol de Ruffo",
+        "summary": "Morena nacional denuncia que institución judicial anterior permitió actividades ilícitas de combustibles.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/morena-nacional-acusa-que-el-viejo-poder-judicial-protegio-el-huachicol-de-ruffo/",
+        "_added_at": "2026-07-28T20:26:05.601525-07:00"
+      },
+      {
+        "title": "Ariadna Montiel pide calma tras supuesta amenaza en video",
+        "summary": "Funcionaria exhorta a Bonilla y Ávila a mantener la serenidad ante incidente de amenaza documentado.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/ariadna-montiel-pide-serenidad-a-bonilla-y-avila-tras-supuesta-amenaza-en-video/",
+        "_added_at": "2026-07-28T20:26:05.601525-07:00"
+      },
+      {
+        "title": "Bonilla declara 'guerra' en conflicto político de Baja California",
+        "summary": "Gobernador anuncia confrontación directa mientras niega que espionaje sea el fondo del conflicto.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/la-guerra-esta-declarada-dice-bonilla-el-espionaje-es-una-cortina-de-humo-senala/",
+        "_added_at": "2026-07-28T20:26:05.601525-07:00"
+      },
+      {
+        "title": "PRI denuncia a consejera del IEEBC por beca estatal recibida",
+        "summary": "Partido cuestiona entrega de becas internacionales a funcionaria electoral del instituto estatal.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97325/Presenta-Blas-Ramos-denuncia-contra-consejera-del-IEEBC",
+        "_added_at": "2026-07-28T20:26:05.601525-07:00"
+      },
       {
         "title": "Exigen frenar campañas anticipadas; CCE pide a candidatos trabajar",
         "summary": "Sector empresarial demanda que aspirantes se dediquen a labores y detengan campaña prematura.",
@@ -116,37 +144,30 @@
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/07/declaran-no-presentada-una-de-las-demandas-de-amparo-en-favor-de-ruffo/",
         "_added_at": "2026-07-28T12:44:23.533429-07:00"
-      },
-      {
-        "title": "Sheinbaum contesta críticas de asesores de Trump",
-        "summary": "Presidenta responde que EU debe autoevaluarse antes de señalar a México en relaciones comerciales.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/sheinbaum-revira-a-asesor-de-trump-eu-debe-mirarse-a-si-mismo/",
-        "_added_at": "2026-07-28T12:44:23.533429-07:00"
-      },
-      {
-        "title": "Ebrard anticipa nuevo reacomodo arancelario para agosto",
-        "summary": "Secretario de Economía prevé cambios en las políticas arancelarias estadounidenses próximamente.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/ebrard-anticipa-nuevo-reacomodo-arancelario-de-eu-para-agosto/",
-        "_added_at": "2026-07-28T12:44:23.533429-07:00"
-      },
-      {
-        "title": "Sheinbaum reafirma caso Ruffo como tema criminal",
-        "summary": "Presidenta responde a expresidentes que apoyan a Ruffo, insistiendo en que es asunto de investigación penal.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/caso-de-ruffo-ya-esta-juzgado-y-es-tema-criminal-segun-sheinbaum/",
-        "_added_at": "2026-07-28T09:45:38.635178-07:00"
-      },
-      {
-        "title": "Panistas denuncian violación de derechos a Ruffo",
-        "summary": "Miembros del PAN denuncian incumplimiento de garantías legales; hija reporta condiciones severas en detención.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/panistas-denuncian-violacion-a-derechos-de-ruffo-hija-acusa-condiciones-severas/",
-        "_added_at": "2026-07-28T09:45:38.635178-07:00"
       }
     ],
     "economia": [
+      {
+        "title": "Koinox promete entregar departamentos o devolver dinero a clientes",
+        "summary": "Empresa desarrolladora se compromete a cumplir con entregas o reembolsar inversiones de compradores.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/koinox-se-compromete-a-entregar-departamentos-o-devolver-el-dinero-a-sus-clientes/",
+        "_added_at": "2026-07-28T20:26:05.601525-07:00"
+      },
+      {
+        "title": "Peso mexicano permanece fuerte pese a incertidumbre global",
+        "summary": "Divisa se mantiene estable ante conflictos internacionales y dudas sobre acuerdos comerciales.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/97342/Peso-mexicano-se-mantiene-fuerte-pese-a-incertidumbre-por-el-T-MEC-y-conflictos-internacionales",
+        "_added_at": "2026-07-28T20:26:05.601525-07:00"
+      },
+      {
+        "title": "Mexicali registra menor índice de pobreza laboral en el estado",
+        "summary": "Capital bajacaliforniana destaca con indicadores positivos en empleo y condiciones laborales.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97340/Mexicali-tiene-el-menor-%C3%ADndice-de-pobreza-laboral",
+        "_added_at": "2026-07-28T20:26:05.601525-07:00"
+      },
       {
         "title": "CFE repone 32 postes dañados por lluvia en Mexicali",
         "summary": "Empresa eléctrica restaura infraestructura afectada por precipitaciones en municipios de BC.",
@@ -195,23 +216,30 @@
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/07/clientes-del-desarrollo-kyo-ilan-exigen-respuestas-y-reembolso/",
         "_added_at": "2026-07-28T07:28:25.634030-07:00"
-      },
-      {
-        "title": "Clientes del desarrollo KYO Ilán exigen reembolsos",
-        "summary": "Compradores buscan respuestas y devolución de dinero ante problemas del proyecto inmobiliario.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/clientes-del-desarrollo-kyo-ilan-exigen-respuestas-y-reembolso/?utm_source=rss&utm_medium=rss&utm_campaign=clientes-del-desarrollo-kyo-ilan-exigen-respuestas-y-reembolso",
-        "_added_at": "2026-07-28T01:47:54.033530-07:00"
-      },
-      {
-        "title": "Frente cívico mexicalense propone nueva tarifa eléctrica",
-        "summary": "Organización presenta alternativa de tarifa eléctrica en Mexicali.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97276/Frente-civico-mexicalense-propone-nueva-tarifa-el%C3%A9ctrica",
-        "_added_at": "2026-07-28T01:47:54.033530-07:00"
       }
     ],
     "sociedad": [
+      {
+        "title": "Samantha Alvarado Luna asume dirección del IMAC de Tijuana",
+        "summary": "Nueva titular toma cargo del Instituto Municipal de Arte y Cultura.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/asume-samantha-alvarado-luna-titularidad-del-imac/",
+        "_added_at": "2026-07-28T20:26:05.601525-07:00"
+      },
+      {
+        "title": "Club de Empresarios presenta torneo de Golf benéfico en BC",
+        "summary": "Evento solidario organizado por empresarios locales con fines altruistas.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/presenta-club-de-empresarios-de-baja-california-torneo-de-golf-con-causa/",
+        "_added_at": "2026-07-28T20:26:05.601525-07:00"
+      },
+      {
+        "title": "CMIC establece medidas para proteger trabajadores del calor extremo",
+        "summary": "Cámara de construcción implementa protocolos ante altas temperaturas en Baja California.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179670_adopta_la_cmic_medidas_para_proteger_a_trabajadores_de_las_altas_temperaturas",
+        "_added_at": "2026-07-28T20:26:05.601525-07:00"
+      },
       {
         "title": "Banco de Alimentos suspende tras incendio en bodega contigua",
         "summary": "Organización de ayuda alimentaria cierra operaciones temporalmente por afectación del fuego.",
@@ -260,29 +288,8 @@
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/07/invitan-a-plantar-buganvillas-y-jacarandas-en-parque-benito-juarez-este-miercoles/",
         "_added_at": "2026-07-28T09:45:38.635178-07:00"
-      },
-      {
-        "title": "Acueducto La Pechuga dejará sin agua a 20 colonias",
-        "summary": "Rehabilitación de infraestructura hidráulica causará corte de servicio en Tijuana durante obras.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/rehabilitacion-del-acueducto-la-pechuga-volvera-a-dejar-sin-agua-a-20-colonias-en-tijuana/",
-        "_added_at": "2026-07-28T07:28:25.634030-07:00"
-      },
-      {
-        "title": "Rosarito atiende crisis de agua; 270 colonias sin servicio",
-        "summary": "Gobierno municipal distribuye agua en tanques mientras persisten carencias en la mayoría de asentamientos.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/gobierno-de-rosarito-lleva-agua-a-colonias-todavia-270-colonias-sin-servicio-dice-cespt/",
-        "_added_at": "2026-07-28T07:28:25.634030-07:00"
-      },
-      {
-        "title": "Tecate registra largas filas por Tarjeta Violeta",
-        "summary": "Ciudadanas acuden en gran cantidad a solicitar apoyo económico del programa estatal.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/en-tecate-tambien-se-registran-largas-filas-para-solicitar-tarjeta-violeta/",
-        "_added_at": "2026-07-28T07:28:25.634030-07:00"
       }
     ]
   },
-  "last_updated": "2026-07-28T15:12:02.596834-07:00"
+  "last_updated": "2026-07-28T20:26:05.601525-07:00"
 }
