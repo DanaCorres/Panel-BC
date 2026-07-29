@@ -1,8 +1,29 @@
 {
   "date": "2026-07-29",
-  "run_count": 3,
+  "run_count": 4,
   "notes": {
     "seguridad": [
+      {
+        "title": "Operador financiero de Los Chapitos recibe prisión preventiva",
+        "summary": "Juez ordena encarcelamiento de \"El Tío\", operador financiero de la organización delictiva de Los Chapitos.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/juez-dicta-prision-preventiva-a-el-tio-operador-financiero-de-los-chapitos/",
+        "_added_at": "2026-07-29T09:27:16.879021-07:00"
+      },
+      {
+        "title": "Red policial del Pantera desmantelada en Ensenada",
+        "summary": "Investigación revela estructura de corrupción policial vinculada a operaciones criminales en Ensenada.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/la-red-policial-del-pantera-en-ensenada/",
+        "_added_at": "2026-07-29T09:27:16.879021-07:00"
+      },
+      {
+        "title": "Comité ciudadano pide reforzar controles de confianza policial",
+        "summary": "Organizaciones civiles demandan mayor rigor en evaluaciones de integridad a elementos de seguridad.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179683_comite_ciudadano_de_seguridad_pide_reforzar_controles_de_confianza_en_autoridades",
+        "_added_at": "2026-07-29T09:27:16.879021-07:00"
+      },
       {
         "title": "Inseguridad desploma turismo internacional en Tijuana",
         "summary": "Percepción de violencia reduce llegada de visitantes extranjeros a la frontera.",
@@ -41,6 +62,34 @@
     ],
     "politica": [
       {
+        "title": "Sheinbaum deja a FGR decidir sobre investigación a Ruffo",
+        "summary": "Presidenta evita pronunciarse sobre presuntos nexos de exgobernador con Arellano Félix.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/sheinbaum-deja-a-la-fgr-definir-si-investiga-a-ruffo-por-nexos-con-los-arellano-felix/",
+        "_added_at": "2026-07-29T09:27:16.879021-07:00"
+      },
+      {
+        "title": "Morena acusa que Poder Judicial protegió huachicol de Ruffo",
+        "summary": "Partido oficialista señala que estructura judicial anterior permitió operaciones ilícitas de exfuncionario.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/morena-nacional-acusa-que-el-viejo-poder-judicial-protegio-el-huachicol-de-ruffo/",
+        "_added_at": "2026-07-29T09:27:16.879021-07:00"
+      },
+      {
+        "title": "Bonilla anuncia guerra abierta; rival habla de cortina de humo",
+        "summary": "Confrontación política intensifica con acusaciones de espionaje y tácticas de desinformación.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/la-guerra-esta-declarada-dice-bonilla-el-espionaje-es-una-cortina-de-humo-senala/",
+        "_added_at": "2026-07-29T09:27:16.879021-07:00"
+      },
+      {
+        "title": "Ariadna Montiel pide serenidad tras supuesta amenaza en video",
+        "summary": "Funcionaria federal solicita calma a políticos estatales ante presuntas intimidaciones documentadas.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/ariadna-montiel-pide-serenidad-a-bonilla-y-avila-tras-supuesta-amenaza-en-video/",
+        "_added_at": "2026-07-29T09:27:16.879021-07:00"
+      },
+      {
         "title": "Activistas piden reunion con fiscalía por detención de exdirector",
         "summary": "Sociedad civil busca esclarecer circunstancias de captura de funcionario en Mexicali.",
         "source": "AFN Tijuana",
@@ -78,6 +127,13 @@
     ],
     "economia": [
       {
+        "title": "Koinox promete entregar departamentos o devolver dinero",
+        "summary": "Desarrolladora inmobiliaria se compromete a cumplir con clientes afectados o reembolsar inversión.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/koinox-se-compromete-a-entregar-departamentos-o-devolver-el-dinero-a-sus-clientes/",
+        "_added_at": "2026-07-29T09:27:16.879021-07:00"
+      },
+      {
         "title": "Baja California acumula cuatro trimestres en recesión económica",
         "summary": "Contracciones consecutivas prolongan crisis económica en el estado.",
         "source": "AFN Tijuana",
@@ -107,6 +163,20 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Samantha Alvarado Luna asume dirección del IMAC",
+        "summary": "Nueva titular se encarga de instituto municipal de agua y catastro en Tijuana.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/asume-samantha-alvarado-luna-titularidad-del-imac/",
+        "_added_at": "2026-07-29T09:27:16.879021-07:00"
+      },
+      {
+        "title": "Activistas buscan reunión con fiscalía por detención de exdirector",
+        "summary": "Organizaciones civiles exigen aclaraciones tras aprehensión de exfuncionario policial en Mexicali.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179682_activistas_buscaran_reunion_con_fiscalia_tras_la_detencion_del_exdirector_de_la_policia_en_mexicali",
+        "_added_at": "2026-07-29T09:27:16.879021-07:00"
+      },
       {
         "title": "Autoridades decomisan mercancía ambulante en Ensenada",
         "summary": "Se levantaron 23 actas administrativas contra comerciantes por incumplimiento.",
@@ -151,5 +221,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-29T07:26:16.657674-07:00"
+  "last_updated": "2026-07-29T09:27:16.879021-07:00"
 }
