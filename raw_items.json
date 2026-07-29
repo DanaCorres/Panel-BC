@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T11:31:11.262118+00:00",
+  "generated_at": "2026-07-29T14:26:15.882917+00:00",
   "items": [
     {
       "source": "ZETA Tijuana",
@@ -60,6 +60,18 @@
       "title": "Levantan 23 actas administrativas a comerciantes ambulantes en Ensenada",
       "url": "https://zetatijuana.com/2026/07/levantan-23-actas-administrativas-a-comerciantes-ambulantes-en-ensenada/?utm_source=rss&utm_medium=rss&utm_campaign=levantan-23-actas-administrativas-a-comerciantes-ambulantes-en-ensenada",
       "published": "Tue, 28 Jul 2026 20:53:10 +0000"
+    },
+    {
+      "source": "AFN Tijuana",
+      "title": "BC: Economía liga 4 trimestres con contracciones; se prolonga recesión",
+      "url": "https://www.afntijuana.info/empresarial/179685_bc_economia_liga_4_trimestres_con_contracciones_se_prolonga_recesion",
+      "published": ""
+    },
+    {
+      "source": "AFN Tijuana",
+      "title": "Percepción de inseguridad tumbó turismo internacional en Tijuana",
+      "url": "https://www.afntijuana.info/empresarial/179684_percepcion_de_inseguridad_tumbo_turismo_internacional_en_tijuana",
+      "published": ""
     },
     {
       "source": "AFN Tijuana",
@@ -137,18 +149,6 @@
       "source": "AFN Tijuana",
       "title": "Denuncia el PRI a consejera del IEEBC que recibió beca estatal",
       "url": "https://www.afntijuana.info/informacion_general/179671_denuncia_el_pri_a_consejera_del_ieebc_que_recibio_beca_estatal",
-      "published": ""
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Adopta la CMIC medidas para proteger a trabajadores de las altas temperaturas",
-      "url": "https://www.afntijuana.info/informacion_general/179670_adopta_la_cmic_medidas_para_proteger_a_trabajadores_de_las_altas_temperaturas",
-      "published": ""
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Acuden al parque Miguel Hidalgo para descansar y protegerse del calor",
-      "url": "https://www.afntijuana.info/informacion_general/179669_acuden_al_parque_miguel_hidalgo_para_descansar_y_protegerse_del_calor",
       "published": ""
     },
     {
@@ -249,13 +249,37 @@
     },
     {
       "source": "El Imparcial (Tijuana)",
-      "title": "Peso mexicano se mantiene fuerte pese a incertidumbre por T-MEC y conflictos en Oriente Medio",
-      "url": "https://www.elimparcial.com/tij/tijuana/2026/07/29/peso-mexicano-se-mantiene-fuerte-pese-a-incertidumbre-por-t-mec-y-conflictos-en-oriente-medio/",
+      "title": "Extitular de la policía municipal en Mexicali era investigado desde 2023 por la desaparición de dos jóvenes en bar Shots",
+      "url": "https://www.elimparcial.com/mxl/policiaca/2026/07/29/extitular-de-la-policia-municipal-en-mexicali-era-investigado-desde-2023-por-la-desaparicion-de-dos-jovenes-en-bar-shots/",
       "published": ""
     },
     {
       "source": "El Imparcial (Tijuana)",
-      "title": "El peso mexicano conserva su fortaleza frente al dólar gracias a las tasas de interés, pese a la revisión del T-MEC y la tensión geopolítica.",
+      "title": "Ambos sufrieron tortura antes de ser asesinados y sus cuerpos no fueron localizados, lo que motivó a sus familiares a buscarlos.",
+      "url": "https://www.elimparcial.com/mxl/policiaca/2026/07/29/extitular-de-la-policia-municipal-en-mexicali-era-investigado-desde-2023-por-la-desaparicion-de-dos-jovenes-en-bar-shots/",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial (Tijuana)",
+      "title": "Cifra de muertos por terremoto en Japón sube a 18",
+      "url": "https://www.elimparcial.com/espectaculos/2026/07/29/japon-eleva-a-18-la-cifra-de-muertos-por-terremoto-de-71-mientras-equipos-de-emergencia-buscan-sobrevivientes-y-miles-siguen-evacuados-en-kumamoto/",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial (Tijuana)",
+      "title": "Karely Ruiz reporta irrupción en su casa; investigan",
+      "url": "https://www.elimparcial.com/espectaculos/2026/07/29/karely-ruiz-moviliza-a-policias-en-nuevo-leon-tras-irrupcion-en-su-casa-fiscalia-investiga-si-fue-asalto-o-intento-de-secuestro-tras-robo-valuado-en-200-mil-pesos/",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial (Tijuana)",
+      "title": "Muere Kavinsky, DJ francés famoso por canción \"Nightcall\"",
+      "url": "https://www.elimparcial.com/espectaculos/2026/07/29/muere-kavinsky-el-dj-frances-de-nightcall-que-llevo-el-sonido-synthwave-al-cine-y-los-escenarios-mundiales/",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial (Tijuana)",
+      "title": "Peso mexicano se mantiene fuerte pese a incertidumbre por T-MEC y conflictos en Oriente Medio",
       "url": "https://www.elimparcial.com/tij/tijuana/2026/07/29/peso-mexicano-se-mantiene-fuerte-pese-a-incertidumbre-por-t-mec-y-conflictos-en-oriente-medio/",
       "published": ""
     },
@@ -305,30 +329,6 @@
       "source": "El Imparcial (Tijuana)",
       "title": "CEDH advierte posible vulneración por imagen de Ruffo",
       "url": "https://www.elimparcial.com/tij/ensenada/2026/07/28/cedh-advierte-posible-vulneracion-por-imagen-de-ruffo/",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Permanece grave hombre que sufrió quemaduras al intentar rescatar a vecinos durante incendio en Murúa",
-      "url": "https://www.elimparcial.com/tij/tijuana/2026/07/28/permanece-grave-hombre-que-sufrio-quemaduras-al-intentar-rescatar-a-vecinos-durante-incendio-en-murua/",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Mipymes no obtienen crédito por falta de digitalización",
-      "url": "https://www.elimparcial.com/dinero/2026/07/28/nueve-de-cada-10-mipymes-en-mexico-se-quedan-sin-acceso-a-creditos-bancarios-por-operar-en-la-informalidad-y-depender-del-uso-de-efectivo-diario/",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Catean inmueble en San Quintín y aseguran 307 plantas de presunta marihuana",
-      "url": "https://www.elimparcial.com/tij/ensenada/2026/07/28/catean-inmueble-en-san-quintin-y-aseguran-307-plantas-de-presunta-marihuana/",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Rescatan a cuatro personas atrapadas en corriente de retorno en Playa Cactus de Ensenada",
-      "url": "https://www.elimparcial.com/tij/ensenada/2026/07/28/rescatan-a-cuatro-personas-atrapadas-en-corriente-de-retorno-en-playa-cactus-de-ensenada/",
       "published": ""
     },
     {

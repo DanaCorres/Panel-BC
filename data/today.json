@@ -1,8 +1,15 @@
 {
   "date": "2026-07-29",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Inseguridad desploma turismo internacional en Tijuana",
+        "summary": "Percepción de violencia reduce llegada de visitantes extranjeros a la frontera.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/empresarial/179684_percepcion_de_inseguridad_tumbo_turismo_internacional_en_tijuana",
+        "_added_at": "2026-07-29T07:26:16.657674-07:00"
+      },
       {
         "title": "Red policial del Pantera desmantelada en Ensenada",
         "summary": "Autoridades identifican y desarticulan estructura de corrupción policial vinculada al crimen organizado en Ensenada.",
@@ -71,6 +78,13 @@
     ],
     "economia": [
       {
+        "title": "Baja California acumula cuatro trimestres en recesión económica",
+        "summary": "Contracciones consecutivas prolongan crisis económica en el estado.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/empresarial/179685_bc_economia_liga_4_trimestres_con_contracciones_se_prolonga_recesion",
+        "_added_at": "2026-07-29T07:26:16.657674-07:00"
+      },
+      {
         "title": "Club Empresarios BC organiza torneo de golf benéfico",
         "summary": "Evento corporativo recauda fondos para causa social en la región.",
         "source": "ZETA Tijuana",
@@ -93,6 +107,13 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Autoridades decomisan mercancía ambulante en Ensenada",
+        "summary": "Se levantaron 23 actas administrativas contra comerciantes por incumplimiento.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/levantan-23-actas-administrativas-a-comerciantes-ambulantes-en-ensenada/?utm_source=rss&utm_medium=rss&utm_campaign=levantan-23-actas-administrativas-a-comerciantes-ambulantes-en-ensenada",
+        "_added_at": "2026-07-29T07:26:16.657674-07:00"
+      },
       {
         "title": "Samantha Alvarado asume dirección del IMAC",
         "summary": "Nueva titular toma cargo de institución cultural municipal.",
@@ -130,5 +151,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-29T04:31:11.848930-07:00"
+  "last_updated": "2026-07-29T07:26:16.657674-07:00"
 }
