@@ -1,6 +1,6 @@
 {
   "date": "2026-07-30",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
       {
@@ -34,6 +34,13 @@
     ],
     "politica": [
       {
+        "title": "Ortiz Amupudia resurge con movimiento ciudadano en Tijuana",
+        "summary": "Político se aleja del PES y se integra a agrupación local tras conflicto interno.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/ortiz-amupudia-se-dice-traicionado-por-el-pes-y-resurge-con-jmo-en-tijuana/",
+        "_added_at": "2026-07-30T04:16:34.774739-07:00"
+      },
+      {
         "title": "Morena respalda a Inzunza pese a sanciones estadounidenses",
         "summary": "Coordinador de senadores de Morena mantiene apoyo a funcionario enfrentando señalamientos de EU.",
         "source": "ZETA Tijuana",
@@ -64,6 +71,13 @@
     ],
     "economia": [
       {
+        "title": "Coparmex propone órganos de control interno en corporaciones policiales",
+        "summary": "Iniciativa empresarial busca mejorar transparencia y confianza en instituciones de seguridad.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/97386/Propone-Coparmex-creaci%C3%B3n-de-%C3%B3rganos-internos-de-control-en-corporaciones-policiacas",
+        "_added_at": "2026-07-30T04:16:34.774739-07:00"
+      },
+      {
         "title": "BC recibirá 2,365 millones en fondos de distribución municipal",
         "summary": "Estado obtendrá recursos del Fondo General de Participaciones para municipios.",
         "source": "AFN Tijuana",
@@ -72,6 +86,13 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Colectivos buscan reunión con FGE por desapariciones",
+        "summary": "Organizaciones solicitan información sobre vínculos del ex jefe policial con casos.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97388/Colectivos-buscan-reuni%C3%B3n-con-la-FGE-tras-la-detenci%C3%B3n-de-ex-director-de-la-polic%C3%ADa-de-Mexicali",
+        "_added_at": "2026-07-30T04:16:34.774739-07:00"
+      },
       {
         "title": "Veinte por ciento de colonias sin agua por fuga acueducto",
         "summary": "Ruptura en Acueducto Florido-Aguaje sigue afectando suministro en múltiples sectores de Tijuana.",
@@ -102,5 +123,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-30T01:42:33.983011-07:00"
+  "last_updated": "2026-07-30T04:16:34.774739-07:00"
 }
