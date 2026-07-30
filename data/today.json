@@ -1,295 +1,106 @@
 {
-  "date": "2026-07-29",
-  "run_count": 7,
+  "date": "2026-07-30",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Detención en Mexicali expone debilidades en seguridad estatal",
-        "summary": "Captura de Pedro Ariel Mendívil revela fallas significativas en estrategia de seguridad de Mexicali según funcionarios locales.",
+        "title": "Fallas de seguridad evidenciadas en Mexicali tras detención",
+        "summary": "Autoridades señalan debilidades en sistemas de seguridad tras captura de Pedro Ariel Mendívil en Mexicali.",
         "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/detencion-de-pedro-ariel-mendivil-evidencia-fallas-en-seguridad-de-mexicali-manuel-garcia/?utm_source=rss&utm_medium=rss&utm_campaign=detencion-de-pedro-ariel-mendivil-evidencia-fallas-en-seguridad-de-mexicali-manuel-garcia",
-        "_added_at": "2026-07-29T20:13:53.199983-07:00"
+        "url": "https://zetatijuana.com/2026/07/detencion-de-pedro-ariel-mendivil-evidencia-fallas-en-seguridad-de-mexicali-manuel-garcia/",
+        "_added_at": "2026-07-30T01:42:33.983011-07:00"
       },
       {
-        "title": "Vinculan a proceso a sospechoso en crimen de esposo de regidora",
-        "summary": "Autoridades presentan cargos contra acusado en homicidio de pareja de funcionaria municipal.",
+        "title": "Vinculan a proceso a sospechoso por crimen de esposo de regidora",
+        "summary": "Juez vincula a procedimiento penal a imputado por homicidio de esposo de regidora tijuanense.",
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/seguridad/179716_vinculan_a_proceso_a_un_hombre_por_crimen_del_esposo_de_regidora",
-        "_added_at": "2026-07-29T20:13:53.199983-07:00"
+        "_added_at": "2026-07-30T01:42:33.983011-07:00"
       },
       {
-        "title": "Hombre muere tras disparo en riña por arma de fuego",
-        "summary": "Persona fallece después de forcejear con otro individuo en enfrentamiento que resultó en disparo.",
+        "title": "Bomberos refuerzan alertas sobre medidas de seguridad acuática",
+        "summary": "Autoridades instan a piscinas públicas y privadas a fortalecer protocolos con salvavidas certificados.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97387/Llama-Bomberos-a-reforzar-medidas-de-seguridad-en-albercas",
+        "_added_at": "2026-07-30T01:42:33.983011-07:00"
+      },
+      {
+        "title": "Muere hombre tras forcejear por arma de fuego",
+        "summary": "Persona fallece durante alterado por posesión de pistola en incidente reportado en BC.",
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/seguridad/179710_murio_de_un_balazo_tras_forcejear_con_otro_por_arma_de_fuego",
-        "_added_at": "2026-07-29T20:13:53.199983-07:00"
-      },
-      {
-        "title": "Motociclista muere en accidente vial en Corredor 2000",
-        "summary": "Conductor pierde la vida en colisión en importante avenida de Tijuana.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/179709_muere_conductor_de_motocicleta_en_accidente_en_el_corredor_2000",
-        "_added_at": "2026-07-29T20:13:53.199983-07:00"
-      },
-      {
-        "title": "Hallan cabeza humana con narcomensaje en Tijuana",
-        "summary": "Descubierto hallazgo de restos humanos con mensaje vinculado a actividad criminal en la ciudad.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/hallan-cabeza-humana-con-narcomensaje-en-tijuana/",
-        "_added_at": "2026-07-29T15:06:42.039008-07:00"
-      },
-      {
-        "title": "Hombre hallado en cajuela sin identificar en Mexicali",
-        "summary": "Localizan cuerpo sin vida dentro de vehículo en condiciones que sugieren violencia criminal.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/sin-identificar-hombre-localizado-en-la-cajuela-de-un-vehiculo-en-mexicali/",
-        "_added_at": "2026-07-29T15:06:42.039008-07:00"
-      },
-      {
-        "title": "Más de 120 objetivos prioritarios detenidos en BC",
-        "summary": "Cifra acumulada desde 2022 refleja operativos contra delincuencia organizada en la región.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179705_se_han_detenido_mas_de_120_objetivos_prioritarios_en_bc_de_2022_a_2026",
-        "_added_at": "2026-07-29T12:35:56.342333-07:00"
-      },
-      {
-        "title": "Hallan más restos óseos en fosas de Mexicali",
-        "summary": "Se localizan restos en zona de fosas clandestinas del Valle de Mexicali.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/179707_localizan_mas_restos_oseos_en_zona_de_fosas_clandestinas_del_valle_de_mexicali",
-        "_added_at": "2026-07-29T12:35:56.342333-07:00"
-      },
-      {
-        "title": "Operador financiero de Los Chapitos recibe prisión preventiva",
-        "summary": "Juez ordena encarcelamiento de \"El Tío\", operador financiero de la organización delictiva de Los Chapitos.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/juez-dicta-prision-preventiva-a-el-tio-operador-financiero-de-los-chapitos/",
-        "_added_at": "2026-07-29T09:27:16.879021-07:00"
-      },
-      {
-        "title": "Red policial del Pantera desmantelada en Ensenada",
-        "summary": "Investigación revela estructura de corrupción policial vinculada a operaciones criminales en Ensenada.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/la-red-policial-del-pantera-en-ensenada/",
-        "_added_at": "2026-07-29T09:27:16.879021-07:00"
+        "_added_at": "2026-07-30T01:42:33.983011-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Morena respalda a Inzunza pese a preocupaciones estadounidenses",
-        "summary": "Coordinador de senadores de Morena defiende a funcionario a pesar de señalamientos externos.",
+        "title": "Morena respalda a Inzunza pese a sanciones estadounidenses",
+        "summary": "Coordinador de senadores de Morena mantiene apoyo a funcionario enfrentando señalamientos de EU.",
         "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/coordinador-de-senadores-de-morena-respalda-a-inzunza-pese-a-senalamientos-de-eu/?utm_source=rss&utm_medium=rss&utm_campaign=coordinador-de-senadores-de-morena-respalda-a-inzunza-pese-a-senalamientos-de-eu",
-        "_added_at": "2026-07-29T20:13:53.199983-07:00"
+        "url": "https://zetatijuana.com/2026/07/coordinador-de-senadores-de-morena-respalda-a-inzunza-pese-a-senalamientos-de-eu/",
+        "_added_at": "2026-07-30T01:42:33.983011-07:00"
       },
       {
-        "title": "Ocho políticos de Morena en BC pierden visas estadounidenses",
-        "summary": "Autoridades de EE.UU. revocan permisos de entrada a funcionarios de Baja California.",
+        "title": "Ocho morenistas en BC perdieron visas estadounidenses",
+        "summary": "Autoridades norteamericanas revocaron documentos migratorios a ocho políticos morenistas de Baja California.",
         "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/ocho-morenistas-con-la-visa-revocada-en-bc/?utm_source=rss&utm_medium=rss&utm_campaign=ocho-morenistas-con-la-visa-revocada-en-bc",
-        "_added_at": "2026-07-29T20:13:53.199983-07:00"
+        "url": "https://zetatijuana.com/2026/07/ocho-morenistas-con-la-visa-revocada-en-bc/",
+        "_added_at": "2026-07-30T01:42:33.983011-07:00"
       },
       {
-        "title": "Ortiz Amupudia resurge en Tijuana con movimiento de Jaramillo",
-        "summary": "Político denuncia traición del PES y se une a nueva agrupación política en Tijuana.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/ortiz-amupudia-se-dice-traicionado-por-el-pes-y-resurge-con-jmo-en-tijuana/?utm_source=rss&utm_medium=rss&utm_campaign=ortiz-amupudia-se-dice-traicionado-por-el-pes-y-resurge-con-jmo-en-tijuana",
-        "_added_at": "2026-07-29T20:13:53.199983-07:00"
+        "title": "Bonilla contra Marina del Pilar por acusaciones de traición",
+        "summary": "Exfuncionario exige que Marina del Pilar aclare denuncias sobre traición a la patria.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/afn_politico/179720_el_apoyo_de_morena_y_ariadna_para_bonilla",
+        "_added_at": "2026-07-30T01:42:33.983011-07:00"
       },
       {
-        "title": "López Rabadán señala contradicciones en Ley de Audiencias",
-        "summary": "Legisladora identifica inconsistencias que requieren revisión en nueva normativa legal.",
+        "title": "Politólogo cuestiona contradicciones en Ley de Audiencias",
+        "summary": "López Rabadán identifica inconsistencias legales que requieren revisión en procedimientos judicales.",
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/179722_la_ley_de_las_audiencias_tiene_contradicciones_que_deben_revisarse_lopez_rabadan",
-        "_added_at": "2026-07-29T20:13:53.199983-07:00"
-      },
-      {
-        "title": "TEPJF abre investigación a Julieta Ramírez por actos anticipados",
-        "summary": "Tribunal electoral abre proceso contra candidata por promoción personalizada y violaciones campaña.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/abrira-tepjf-investigacion-a-julieta-ramirez-por-promocion-personalizada-y-actos-anticipados/",
-        "_added_at": "2026-07-29T15:06:42.039008-07:00"
-      },
-      {
-        "title": "Montserrat Caballero busca candidatura de Morena a gubernatura",
-        "summary": "Alcaldesa de Tijuana confirma intención de competir por nominación presidencial estatal.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Estatal/97378/Confirma-Montserrat-Caballero-que-buscar%C3%A1-candidatura-de-Morena-a-la-gubernatura",
-        "_added_at": "2026-07-29T15:06:42.039008-07:00"
-      },
-      {
-        "title": "Sheinbaum deja a FGR decidir sobre investigación a Ruffo",
-        "summary": "Presidenta evita pronunciarse sobre presuntos nexos de exgobernador con Arellano Félix.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/sheinbaum-deja-a-la-fgr-definir-si-investiga-a-ruffo-por-nexos-con-los-arellano-felix/",
-        "_added_at": "2026-07-29T09:27:16.879021-07:00"
-      },
-      {
-        "title": "Morena acusa que Poder Judicial protegió huachicol de Ruffo",
-        "summary": "Partido oficialista señala que estructura judicial anterior permitió operaciones ilícitas de exfuncionario.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/morena-nacional-acusa-que-el-viejo-poder-judicial-protegio-el-huachicol-de-ruffo/",
-        "_added_at": "2026-07-29T09:27:16.879021-07:00"
-      },
-      {
-        "title": "Bonilla anuncia guerra abierta; rival habla de cortina de humo",
-        "summary": "Confrontación política intensifica con acusaciones de espionaje y tácticas de desinformación.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/la-guerra-esta-declarada-dice-bonilla-el-espionaje-es-una-cortina-de-humo-senala/",
-        "_added_at": "2026-07-29T09:27:16.879021-07:00"
-      },
-      {
-        "title": "Ariadna Montiel pide serenidad tras supuesta amenaza en video",
-        "summary": "Funcionaria federal solicita calma a políticos estatales ante presuntas intimidaciones documentadas.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/ariadna-montiel-pide-serenidad-a-bonilla-y-avila-tras-supuesta-amenaza-en-video/",
-        "_added_at": "2026-07-29T09:27:16.879021-07:00"
+        "_added_at": "2026-07-30T01:42:33.983011-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Tijuana firma convenio de colaboración con Sociedad de Urbanismo",
-        "summary": "Ayuntamiento establece acuerdo para trabajar en proyectos de desarrollo urbano municipal.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97402/Firma-XXV-Ayuntamiento-de-Tijuana-convenio-de-colaboraci%C3%B3n-con-la-Sociedad-de-Urbanismo",
-        "_added_at": "2026-07-29T20:13:53.199983-07:00"
-      },
-      {
-        "title": "BC recibirá 2,365 mdp del Fondo General y Fomento Municipal",
-        "summary": "Estado asignado recursos federales significativos para desarrollo municipal y proyectos locales.",
+        "title": "BC recibirá 2,365 millones en fondos de distribución municipal",
+        "summary": "Estado obtendrá recursos del Fondo General de Participaciones para municipios.",
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/179713_bc_recibira_mas_de_2_365_mdp_del_fondo_general_y_fomento_municipal",
-        "_added_at": "2026-07-29T15:06:42.039008-07:00"
-      },
-      {
-        "title": "Mexicali tiene el menor índice de pobreza laboral",
-        "summary": "Capital estatal registra mejores indicadores de empleo hasta el primer trimestre de año.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97340/Mexicali-tiene-el-menor-%C3%ADndice-de-pobreza-laboral",
-        "_added_at": "2026-07-29T15:06:42.039008-07:00"
-      },
-      {
-        "title": "Procesos regulatorios avanzan según Álvarez Cárdenas",
-        "summary": "Funcionario responde a Coparmex sobre destrabe de trámites empresariales.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/procesos-regulatorios-pueden-avanzar-alvarez-cardenas-responde-a-coparmex/",
-        "_added_at": "2026-07-29T12:35:56.342333-07:00"
-      },
-      {
-        "title": "Más de 11 mil trámites diarios para Tarjeta Violeta",
-        "summary": "Solo 2 de 5 solicitantes logran obtener documento en BC.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/lograran-la-tarjeta-violeta-2-de-cada-5-solicitantes-mas-de-11-mil-tramites-diarios/",
-        "_added_at": "2026-07-29T12:35:56.342333-07:00"
-      },
-      {
-        "title": "Koinox promete entregar departamentos o devolver dinero",
-        "summary": "Desarrolladora inmobiliaria se compromete a cumplir con clientes afectados o reembolsar inversión.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/koinox-se-compromete-a-entregar-departamentos-o-devolver-el-dinero-a-sus-clientes/",
-        "_added_at": "2026-07-29T09:27:16.879021-07:00"
-      },
-      {
-        "title": "Baja California acumula cuatro trimestres en recesión económica",
-        "summary": "Contracciones consecutivas prolongan crisis económica en el estado.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/empresarial/179685_bc_economia_liga_4_trimestres_con_contracciones_se_prolonga_recesion",
-        "_added_at": "2026-07-29T07:26:16.657674-07:00"
-      },
-      {
-        "title": "Club Empresarios BC organiza torneo de golf benéfico",
-        "summary": "Evento corporativo recauda fondos para causa social en la región.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/presenta-club-de-empresarios-de-baja-california-torneo-de-golf-con-causa/?utm_source=rss&utm_medium=rss&utm_campaign=presenta-club-de-empresarios-de-baja-california-torneo-de-golf-con-causa",
-        "_added_at": "2026-07-29T04:31:11.848930-07:00"
-      },
-      {
-        "title": "Koinox se compromete a entregar departamentos o reembolsar",
-        "summary": "Desarrolladora asume responsabilidad con clientes afectados, comprometiéndose a cumplir promesas o devolver inversión.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/koinox-se-compromete-a-entregar-departamentos-o-devolver-el-dinero-a-sus-clientes/?utm_source=rss&utm_medium=rss&utm_campaign=koinox-se-compromete-a-entregar-departamentos-o-devolver-el-dinero-a-sus-clientes",
-        "_added_at": "2026-07-29T01:52:09.696194-07:00"
-      },
-      {
-        "title": "CMIC implementa medidas contra altas temperaturas laborales",
-        "summary": "Cámara construcción adopta protocolos para salvaguardar salud de trabajadores durante calor extremo.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179670_adopta_la_cmic_medidas_para_proteger_a_trabajadores_de_las_altas_temperaturas",
-        "_added_at": "2026-07-29T01:52:09.696194-07:00"
+        "_added_at": "2026-07-30T01:42:33.983011-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Fuga del Acueducto Florido-Aguaje deja 20% de colonias sin agua",
-        "summary": "Infraestructura dañada continúa afectando suministro en múltiples zonas residenciales.",
+        "title": "Veinte por ciento de colonias sin agua por fuga acueducto",
+        "summary": "Ruptura en Acueducto Florido-Aguaje sigue afectando suministro en múltiples sectores de Tijuana.",
         "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/sin-agua-todavia-20-de-las-colonias-afectadas-por-fuga-del-acueducto-florido-aguaje/?utm_source=rss&utm_medium=rss&utm_campaign=sin-agua-todavia-20-de-las-colonias-afectadas-por-fuga-del-acueducto-florido-aguaje",
-        "_added_at": "2026-07-29T20:13:53.199983-07:00"
+        "url": "https://zetatijuana.com/2026/07/sin-agua-todavia-20-de-las-colonias-afectadas-por-fuga-del-acueducto-florido-aguaje/",
+        "_added_at": "2026-07-30T01:42:33.983011-07:00"
       },
       {
-        "title": "Centro de Control Animal avanza en ampliación, sin fecha cierta",
-        "summary": "Proyecto municipal progresa pero no tiene cronograma definido para conclusión.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/avanza-ampliacion-del-centro-de-control-animal-continua-sin-fecha-de-conclusion/?utm_source=rss&utm_medium=rss&utm_campaign=avanza-ampliacion-del-centro-de-control-animal-continua-sin-fecha-de-conclusion",
-        "_added_at": "2026-07-29T20:13:53.199983-07:00"
-      },
-      {
-        "title": "Madre denuncia que DIF le arrebató bebé recién nacido",
-        "summary": "Familia cuestiona procedimientos de institución en caso de recién nacido.",
+        "title": "Madre denuncia arrebato de bebé recién nacido por DIF",
+        "summary": "Progenitora presenta acusación por retención de recién nacido en poder de instituto de protección.",
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/179719_madre_denuncia_que_su_bebe_recien_nacido_le_fue_arrebatado_por_el_dif",
-        "_added_at": "2026-07-29T20:13:53.199983-07:00"
+        "_added_at": "2026-07-30T01:42:33.983011-07:00"
       },
       {
-        "title": "Rosarito inaugura exposición para prevención de trata de personas",
-        "summary": "Municipio presenta muestra itinerante enfocada en conciencia y denuncia del delito.",
+        "title": "Graduandos del Conalep Mexicali culminan ciclo educativo",
+        "summary": "Estudiantes de instituto técnico concluyen formación profesional con ceremonia de egreso.",
         "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Rosarito/97397/Inauguran-en-Rosarito-la-exposici%C3%B3n-itinerante-%E2%80%9CPrevengamos-la-Trata%E2%80%9D-para-fortalecer-la-prevenci%C3%B3n-y-la-denuncia",
-        "_added_at": "2026-07-29T20:13:53.199983-07:00"
+        "url": "https://el-mexicano.com.mx/Noticia/Sociales/97405/Culminan-etapa-llena-de-sue%C3%B1os-y-esfuerzo-Alumnos-del-Conalep-Mexicali-I",
+        "_added_at": "2026-07-30T01:42:33.983011-07:00"
       },
       {
-        "title": "Tarjeta Violeta: 2 de 5 solicitantes la obtienen; 11 mil trámites diarios",
-        "summary": "Documento de protección para mujeres en riesgo procesa miles de solicitudes con aprobación parcial.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/lograran-la-tarjeta-violeta-2-de-cada-5-solicitantes-mas-de-11-mil-tramites-diarios/",
-        "_added_at": "2026-07-29T15:06:42.039008-07:00"
-      },
-      {
-        "title": "Confirman 24 casos y 12 muertes por rickettsiosis en Tijuana",
-        "summary": "Enfermedad transmitida por garrapatas ha causado defunciones en región de Tijuana y Tecate.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97373/Confirman-24-casos-y-12-defunciones-por-rickettsiosis-en-Tijuana-y-Tecate-durante-2026",
-        "_added_at": "2026-07-29T15:06:42.039008-07:00"
-      },
-      {
-        "title": "Familia exige respuestas a FGE tras desaparición de hijo",
-        "summary": "Padres demandan información y acción de autoridades por caso de persona desaparecida.",
+        "title": "Autoridades buscan investigar desaparición de familiar",
+        "summary": "Familia reclama respuestas de FGE tras pérdida de hijo en circunstancias no aclaradas.",
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/179712_exigen_respuestas_a_la_fge_tras_la_desaparicion_de_su_hijo",
-        "_added_at": "2026-07-29T15:06:42.039008-07:00"
-      },
-      {
-        "title": "Club de Empresarios organiza torneo de golf solidario",
-        "summary": "Torneo de beneficencia en Baja California convoca a empresarios.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/presenta-club-de-empresarios-de-baja-california-torneo-de-golf-con-causa/",
-        "_added_at": "2026-07-29T12:35:56.342333-07:00"
-      },
-      {
-        "title": "Realizan tamizajes para detectar hepatitis en Mexicali",
-        "summary": "Sesenta estudios como parte de conmemoración del día mundial.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97333/Realizan-60-tamizajes-contra-hepatitis",
-        "_added_at": "2026-07-29T12:35:56.342333-07:00"
-      },
-      {
-        "title": "Samantha Alvarado Luna asume dirección del IMAC",
-        "summary": "Nueva titular se encarga de instituto municipal de agua y catastro en Tijuana.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/asume-samantha-alvarado-luna-titularidad-del-imac/",
-        "_added_at": "2026-07-29T09:27:16.879021-07:00"
+        "_added_at": "2026-07-30T01:42:33.983011-07:00"
       }
     ]
   },
-  "last_updated": "2026-07-29T20:13:53.199983-07:00"
+  "last_updated": "2026-07-30T01:42:33.983011-07:00"
 }

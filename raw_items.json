@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-07-30T03:13:52.401391+00:00",
+  "generated_at": "2026-07-30T08:42:33.284523+00:00",
   "items": [
+    {
+      "source": "ZETA Tijuana",
+      "title": "“Me han quitado 32 horas para preparar mi defensa”: Pedro Mendivil en atropellada audiencia",
+      "url": "https://zetatijuana.com/2026/07/me-han-quitado-32-horas-para-preparar-mi-defensa-pedro-mendivil-en-atropellada-audiencia/?utm_source=rss&utm_medium=rss&utm_campaign=me-han-quitado-32-horas-para-preparar-mi-defensa-pedro-mendivil-en-atropellada-audiencia",
+      "published": "Thu, 30 Jul 2026 05:10:45 +0000"
+    },
+    {
+      "source": "ZETA Tijuana",
+      "title": "Cómo un cuento de hadas",
+      "url": "https://zetatijuana.com/2026/07/como-un-cuento-de-hadas/?utm_source=rss&utm_medium=rss&utm_campaign=como-un-cuento-de-hadas",
+      "published": "Thu, 30 Jul 2026 04:50:13 +0000"
+    },
     {
       "source": "ZETA Tijuana",
       "title": "Detención de Pedro Ariel Mendívil evidencia fallas en seguridad de Mexicali: Manuel García",
@@ -50,16 +62,16 @@
       "published": "Wed, 29 Jul 2026 22:54:43 +0000"
     },
     {
-      "source": "ZETA Tijuana",
-      "title": "Avanza ampliación del Centro de Control Animal; continúa sin fecha de conclusión",
-      "url": "https://zetatijuana.com/2026/07/avanza-ampliacion-del-centro-de-control-animal-continua-sin-fecha-de-conclusion/?utm_source=rss&utm_medium=rss&utm_campaign=avanza-ampliacion-del-centro-de-control-animal-continua-sin-fecha-de-conclusion",
-      "published": "Wed, 29 Jul 2026 22:16:59 +0000"
+      "source": "AFN Tijuana",
+      "title": "Exige Bonilla a Marina del Pilar dejar de victimizarse y aclarar \"traición a la patria\"",
+      "url": "https://www.afntijuana.info/informacion_general/179724_exige_bonilla_a_marina_del_pilar_dejar_de_victimizarse_y_aclarar_traicion_a_la_patria",
+      "published": ""
     },
     {
-      "source": "ZETA Tijuana",
-      "title": "Enfrenta Jared Leto nuevas acusaciones de conducta sexual delictiva",
-      "url": "https://zetatijuana.com/2026/07/enfrenta-jared-leto-nuevas-acusaciones-de-conducta-sexual-delictiva/?utm_source=rss&utm_medium=rss&utm_campaign=enfrenta-jared-leto-nuevas-acusaciones-de-conducta-sexual-delictiva",
-      "published": "Wed, 29 Jul 2026 22:09:16 +0000"
+      "source": "AFN Tijuana",
+      "title": "Preocupa falta de \"piso parejo\" en procesos internos de partidos: APBC",
+      "url": "https://www.afntijuana.info/informacion_general/179723_preocupa_falta_de_piso_parejo_en_procesos_internos_de_partidos_apbc",
+      "published": ""
     },
     {
       "source": "AFN Tijuana",
@@ -140,15 +152,51 @@
       "published": ""
     },
     {
-      "source": "AFN Tijuana",
-      "title": "Muere conductor de motocicleta en accidente en el Corredor 2000",
-      "url": "https://www.afntijuana.info/seguridad/179709_muere_conductor_de_motocicleta_en_accidente_en_el_corredor_2000",
+      "source": "El Mexicano",
+      "title": "Activa Dodgers a Kiké HernándezDeportes |29 de julio",
+      "url": "https://el-mexicano.com.mx/Noticia/Deportes/97408/Activa-Dodgers-a-Kik%C3%A9-Hern%C3%A1ndez",
       "published": ""
     },
     {
-      "source": "AFN Tijuana",
-      "title": "Detienen a un hombre como presunto atacante de la regidora y su esposo",
-      "url": "https://www.afntijuana.info/informacion_general/179708_detienen_a_un_hombre_como_presunto_atacante_de_la_regidora_y_su_esposo",
+      "source": "El Mexicano",
+      "title": "Activa Dodgers a Kiké HernándezDeportes| miércoles 29 de julio",
+      "url": "https://el-mexicano.com.mx/Noticia/Deportes/97408/Activa-Dodgers-a-Kik%C3%A9-Hern%C3%A1ndez",
+      "published": ""
+    },
+    {
+      "source": "El Mexicano",
+      "title": "Egresados culminan una nueva etapa con Emotiva ceremonia de graduaciónSociales |29 de julio",
+      "url": "https://el-mexicano.com.mx/Noticia/Sociales/97407/Egresados-culminan-una-nueva-etapa-con-Emotiva-ceremonia-de-graduaci%C3%B3n",
+      "published": ""
+    },
+    {
+      "source": "El Mexicano",
+      "title": "Egresados culminan una nueva etapa con Emotiva ceremonia de graduaciónSociales| miércoles 29 de julio",
+      "url": "https://el-mexicano.com.mx/Noticia/Sociales/97407/Egresados-culminan-una-nueva-etapa-con-Emotiva-ceremonia-de-graduaci%C3%B3n",
+      "published": ""
+    },
+    {
+      "source": "El Mexicano",
+      "title": "Logra México oro histórico en RemoDeportes |29 de julio",
+      "url": "https://el-mexicano.com.mx/Noticia/Deportes/97406/Logra-M%C3%A9xico-oro-hist%C3%B3rico-en-Remo",
+      "published": ""
+    },
+    {
+      "source": "El Mexicano",
+      "title": "Logra México oro histórico en RemoDeportes| miércoles 29 de julio",
+      "url": "https://el-mexicano.com.mx/Noticia/Deportes/97406/Logra-M%C3%A9xico-oro-hist%C3%B3rico-en-Remo",
+      "published": ""
+    },
+    {
+      "source": "El Mexicano",
+      "title": "Culminan etapa llena de sueños y esfuerzo Alumnos del Conalep Mexicali ISociales |29 de julio",
+      "url": "https://el-mexicano.com.mx/Noticia/Sociales/97405/Culminan-etapa-llena-de-sue%C3%B1os-y-esfuerzo-Alumnos-del-Conalep-Mexicali-I",
+      "published": ""
+    },
+    {
+      "source": "El Mexicano",
+      "title": "Culminan etapa llena de sueños y esfuerzo Alumnos del Conalep Mexicali ISociales| miércoles 29 de julio",
+      "url": "https://el-mexicano.com.mx/Noticia/Sociales/97405/Culminan-etapa-llena-de-sue%C3%B1os-y-esfuerzo-Alumnos-del-Conalep-Mexicali-I",
       "published": ""
     },
     {
@@ -177,50 +225,8 @@
     },
     {
       "source": "El Mexicano",
-      "title": "Firma XXV Ayuntamiento de Tijuana convenio de colaboración con la Sociedad de UrbanismoTijuana |29 de julio",
-      "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97402/Firma-XXV-Ayuntamiento-de-Tijuana-convenio-de-colaboraci%C3%B3n-con-la-Sociedad-de-Urbanismo",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Firma XXV Ayuntamiento de Tijuana convenio de colaboración con la Sociedad de UrbanismoTijuana| miércoles 29 de julio",
-      "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97402/Firma-XXV-Ayuntamiento-de-Tijuana-convenio-de-colaboraci%C3%B3n-con-la-Sociedad-de-Urbanismo",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Jared Leto niega las acusaciones de agresión sexual reveladas en documental de la BBCFama |29 de julio",
-      "url": "https://el-mexicano.com.mx/Noticia/Fama/97401/Jared-Leto-niega-las-acusaciones-de-agresi%C3%B3n-sexual-reveladas-en-documental-de-la-BBC",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Jared Leto niega las acusaciones de agresión sexual reveladas en documental de la BBCFama| miércoles 29 de julio",
-      "url": "https://el-mexicano.com.mx/Noticia/Fama/97401/Jared-Leto-niega-las-acusaciones-de-agresi%C3%B3n-sexual-reveladas-en-documental-de-la-BBC",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Concreta San Diego barrida sobre RockiesDeportes |29 de julio",
-      "url": "https://el-mexicano.com.mx/Noticia/Deportes/97400/Concreta-San-Diego-barrida-sobre-Rockies",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Concreta San Diego barrida sobre RockiesDeportes| miércoles 29 de julio",
-      "url": "https://el-mexicano.com.mx/Noticia/Deportes/97400/Concreta-San-Diego-barrida-sobre-Rockies",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Positivo, el cambio en formato: Fernando ArceDeportes |29 de julio",
-      "url": "https://el-mexicano.com.mx/Noticia/Deportes/97399/Positivo,-el-cambio-en-formato%3A-Fernando-Arce",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Positivo, el cambio en formato: Fernando ArceDeportes| miércoles 29 de julio",
-      "url": "https://el-mexicano.com.mx/Noticia/Deportes/97399/Positivo,-el-cambio-en-formato%3A-Fernando-Arce",
+      "title": "Colectivos buscan reunión con la FGE tras la detención de ex director de la policía de MexicaliDesean conocer si el caso tiene vínculos con otras desaparicionesMexicali| miércoles 29 de julio",
+      "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97388/Colectivos-buscan-reuni%C3%B3n-con-la-FGE-tras-la-detenci%C3%B3n-de-ex-director-de-la-polic%C3%ADa-de-Mexicali",
       "published": ""
     },
     {
@@ -236,12 +242,6 @@
       "published": ""
     },
     {
-      "source": "El Mexicano",
-      "title": "Inauguran en Rosarito la exposición itinerante “Prevengamos la Trata” para fortalecer la prevención y la denunciaRosarito| miércoles 29 de julio",
-      "url": "https://el-mexicano.com.mx/Noticia/Rosarito/97397/Inauguran-en-Rosarito-la-exposici%C3%B3n-itinerante-%E2%80%9CPrevengamos-la-Trata%E2%80%9D-para-fortalecer-la-prevenci%C3%B3n-y-la-denuncia",
-      "published": ""
-    },
-    {
       "source": "El Imparcial (Tijuana)",
       "title": "Desaparecidos en Baja California",
       "url": "https://www.elimparcial.com/tags/desaparecidos-en-baja-california/",
@@ -249,13 +249,31 @@
     },
     {
       "source": "El Imparcial (Tijuana)",
-      "title": "Paciente del IMSS pide apoyo de un médico angiólogo",
-      "url": "https://www.elimparcial.com/tij/tijuana/2026/07/30/paciente-del-imss-pide-apoyo-de-un-medico-angiologo/",
+      "title": "Con 16 años, la gimnasta  Dominica Escartín es la más joven de la delegación de Baja para los JCC; alista su debut",
+      "url": "https://www.elimparcial.com/deporte/2026/07/30/con-16-anos-la-gimnasta-dominica-escartin-es-la-mas-joven-de-la-delegacion-de-baja-para-los-jcc-alista-su-debut/",
       "published": ""
     },
     {
       "source": "El Imparcial (Tijuana)",
-      "title": "Stephanie Bezares padece insuficiencia renal crónica y requiere de inmediato un injerto.",
+      "title": "La gimnasta tijuanense Dominica Escartín debutará en los Juegos Centroamericanos y del Caribe, dando el primer paso en su camino rumbo a Los Ángeles 2028.",
+      "url": "https://www.elimparcial.com/deporte/2026/07/30/con-16-anos-la-gimnasta-dominica-escartin-es-la-mas-joven-de-la-delegacion-de-baja-para-los-jcc-alista-su-debut/",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial (Tijuana)",
+      "title": "Denuncian presuntas deficiencias sanitarias en  Control Animal de Rosarito",
+      "url": "https://www.elimparcial.com/tij/rosarito/2026/07/30/denuncian-presuntas-deficiencias-sanitarias-en-control-animal-de-rosarito/",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial (Tijuana)",
+      "title": "ChatGPT: Ismael Burgueño Ruiz favorito de Morena en BC",
+      "url": "https://www.elimparcial.com/mxl/mexicali/2026/07/30/es-ismael-burgueno-el-aspirante-con-mas-probabilidades-de-ganar-el-proceso-interno-de-morena-en-bc-segun-chatgpt/",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial (Tijuana)",
+      "title": "Paciente del IMSS pide apoyo de un médico angiólogo",
       "url": "https://www.elimparcial.com/tij/tijuana/2026/07/30/paciente-del-imss-pide-apoyo-de-un-medico-angiologo/",
       "published": ""
     },
@@ -311,24 +329,6 @@
       "source": "El Imparcial (Tijuana)",
       "title": "Cae 2.5% la actividad económica de Baja California al inicio de 2026",
       "url": "https://www.elimparcial.com/tij/ensenada/2026/07/29/cae-25-la-actividad-economica-de-baja-california-al-inicio-de-2026/",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Uso de efectivo creció 7.5% por el Mundial 2026",
-      "url": "https://www.elimparcial.com/dinero/2026/07/29/banxico-confirma-que-la-demanda-de-dinero-en-efectivo-crecio-75-anual-impulsada-por-el-consumo-de-los-aficionados-en-mexico-registrando-alzas-en-cuatro-de-las-seis-semanas-que-duro-el-mundial-de-futbol-2026/",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Familias comienzan a recuperar el servicio de agua en Tijuana",
-      "url": "https://www.elimparcial.com/tij/tijuana/2026/07/29/familias-comienzan-a-recuperar-el-servicio-de-agua-en-tijuana/",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Decomisan cocaína valuada en 20 millones de dólares en la garita de Calexico",
-      "url": "https://www.elimparcial.com/tij/california/2026/07/29/decomisan-cocaina-valuada-en-20-millones-de-dolares-en-la-garita-de-calexico/",
       "published": ""
     },
     {
