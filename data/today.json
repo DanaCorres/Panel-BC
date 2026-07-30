@@ -1,8 +1,22 @@
 {
   "date": "2026-07-30",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Policías acusan a Mendívil y mandos en Tijuana",
+        "summary": "Elementos de corporación presentan denuncias contra el ex director de policía Mendívil y su equipo directivo por presuntas irregularidades.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/policias-acusan-a-mendivil-y-cuadro-de-mando/?utm_source=rss&utm_medium=rss&utm_campaign=policias-acusan-a-mendivil-y-cuadro-de-mando",
+        "_added_at": "2026-07-30T07:24:34.343838-07:00"
+      },
+      {
+        "title": "Fallas en seguridad de Mexicali expuestas: García",
+        "summary": "Detención de ex director Mendívil evidencia deficiencias graves en corporaciones policiales de Mexicali según comentarios de funcionarios.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/detencion-de-pedro-ariel-mendivil-evidencia-fallas-en-seguridad-de-mexicali-manuel-garcia/?utm_source=rss&utm_medium=rss&utm_campaign=detencion-de-pedro-ariel-mendivil-evidencia-fallas-en-seguridad-de-mexicali-manuel-garcia",
+        "_added_at": "2026-07-30T07:24:34.343838-07:00"
+      },
       {
         "title": "Fallas de seguridad evidenciadas en Mexicali tras detención",
         "summary": "Autoridades señalan debilidades en sistemas de seguridad tras captura de Pedro Ariel Mendívil en Mexicali.",
@@ -33,6 +47,34 @@
       }
     ],
     "politica": [
+      {
+        "title": "Ocho morenistas con visa revocada en Baja California",
+        "summary": "Autoridades estadounidenses cancelan visas a militantes de Morena en la entidad por presuntas violaciones.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/ocho-morenistas-con-la-visa-revocada-en-bc/?utm_source=rss&utm_medium=rss&utm_campaign=ocho-morenistas-con-la-visa-revocada-en-bc",
+        "_added_at": "2026-07-30T07:24:34.343838-07:00"
+      },
+      {
+        "title": "Morena respalda a Inzunza pese señalamientos de EU",
+        "summary": "Coordinador de senadores morenistas mantiene respaldo a político local a pesar de acusaciones estadounidenses.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/coordinador-de-senadores-de-morena-respalda-a-inzunza-pese-a-senalamientos-de-eu/?utm_source=rss&utm_medium=rss&utm_campaign=coordinador-de-senadores-de-morena-respalda-a-inzunza-pese-a-senalamientos-de-eu",
+        "_added_at": "2026-07-30T07:24:34.343838-07:00"
+      },
+      {
+        "title": "Bonilla exige aclaración a Marina del Pilar",
+        "summary": "Político pide que funcionaria explique acusaciones y deje de victimizarse en controversia pública.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179724_exige_bonilla_a_marina_del_pilar_dejar_de_victimizarse_y_aclarar_traicion_a_la_patria",
+        "_added_at": "2026-07-30T07:24:34.343838-07:00"
+      },
+      {
+        "title": "APBC preocupada por falta de equidad en partidos",
+        "summary": "Organización empresarial cuestiona falta de \"piso parejo\" en procesos democráticos internos de agrupaciones políticas.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179723_preocupa_falta_de_piso_parejo_en_procesos_internos_de_partidos_apbc",
+        "_added_at": "2026-07-30T07:24:34.343838-07:00"
+      },
       {
         "title": "Ortiz Amupudia resurge con movimiento ciudadano en Tijuana",
         "summary": "Político se aleja del PES y se integra a agrupación local tras conflicto interno.",
@@ -71,6 +113,20 @@
     ],
     "economia": [
       {
+        "title": "Maquiladora pierde 9,762 empleos en Tijuana",
+        "summary": "Sector manufacturero registra caída significativa en generación de empleos durante periodo reciente.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/empresarial/179727_perdio_9_762_empleos_la_industria_maquiladora_en_tijuana",
+        "_added_at": "2026-07-30T07:24:34.343838-07:00"
+      },
+      {
+        "title": "Bajan 2.6% empresas formales en Tijuana",
+        "summary": "Disminuye número de negocios formales registrados en la ciudad durante últimos meses.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/empresarial/179726_bajan_2_6_las_empresas_formales_en_tijuana",
+        "_added_at": "2026-07-30T07:24:34.343838-07:00"
+      },
+      {
         "title": "Coparmex propone órganos de control interno en corporaciones policiales",
         "summary": "Iniciativa empresarial busca mejorar transparencia y confianza en instituciones de seguridad.",
         "source": "El Mexicano",
@@ -86,6 +142,13 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "20% de colonias aún sin agua por fuga en acueducto",
+        "summary": "Comunidades continúan afectadas por daño en infraestructura del Acueducto Florido-Aguaje en Tijuana.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/sin-agua-todavia-20-de-las-colonias-afectadas-por-fuga-del-acueducto-florido-aguaje/?utm_source=rss&utm_medium=rss&utm_campaign=sin-agua-todavia-20-de-las-colonias-afectadas-por-fuga-del-acueducto-florido-aguaje",
+        "_added_at": "2026-07-30T07:24:34.343838-07:00"
+      },
       {
         "title": "Colectivos buscan reunión con FGE por desapariciones",
         "summary": "Organizaciones solicitan información sobre vínculos del ex jefe policial con casos.",
@@ -123,5 +186,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-30T04:16:34.774739-07:00"
+  "last_updated": "2026-07-30T07:24:34.343838-07:00"
 }
