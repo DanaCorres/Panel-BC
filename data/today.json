@@ -1,8 +1,36 @@
 {
   "date": "2026-07-30",
-  "run_count": 3,
+  "run_count": 4,
   "notes": {
     "seguridad": [
+      {
+        "title": "Hielera con restos y amenazas hallada en plaza comercial",
+        "summary": "Descubren hielera con restos de cerdo y mensaje intimidatorio en Plaza Conquistador de Tijuana.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/179729_hallan_hielera_con_restos_de_cerdo_y_mensaje_con_amenazas_en_plaza_comercial",
+        "_added_at": "2026-07-30T09:42:11.235939-07:00"
+      },
+      {
+        "title": "Volcadura en bulevar 2000 tras choque entre vehículos",
+        "summary": "Pickup y transporte público colisionan resultando en volcadura sobre bulevar 2000 en Tijuana.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97415/Choque-entre-pickup-y-transporte-p%C3%BAblico-termina-en-volcadura-sobre-el-bulevar-2000",
+        "_added_at": "2026-07-30T09:42:11.235939-07:00"
+      },
+      {
+        "title": "Doce muertes por rickettsiosis en Tijuana y Tecate",
+        "summary": "Se registraron 12 defunciones por rickettsiosis durante 2026 en Tijuana y Tecate.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179728_hubo_12_defunciones_por_rickettsiosis_en_tijuana_y_tecate_en_2026",
+        "_added_at": "2026-07-30T09:42:11.235939-07:00"
+      },
+      {
+        "title": "Colectivos solicitan reunión con FGE por detención de ex policía",
+        "summary": "Colectivos buscan información sobre vínculos entre detención de ex director de policía de Mexicali y desapariciones.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97388/Colectivos-buscan-reuni%C3%B3n-con-la-FGE-tras-la-detenci%C3%B3n-de-ex-director-de-la-polic%C3%ADa-de-Mexicali",
+        "_added_at": "2026-07-30T09:42:11.235939-07:00"
+      },
       {
         "title": "Policías acusan a Mendívil y mandos en Tijuana",
         "summary": "Elementos de corporación presentan denuncias contra el ex director de policía Mendívil y su equipo directivo por presuntas irregularidades.",
@@ -47,6 +75,20 @@
       }
     ],
     "politica": [
+      {
+        "title": "Marina denuncia a Bonilla por audios y acusa emboscada",
+        "summary": "Marina del Pilar presenta denuncia contra Bonilla por filtración de audios acusándolo de operación psicológica.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/marina-del-pilar-denuncia-a-bonilla-por-audios-filtrados-y-acusa-emboscada-psicologica/",
+        "_added_at": "2026-07-30T09:42:11.235939-07:00"
+      },
+      {
+        "title": "Mendívil reclama 32 horas insuficientes para defensa",
+        "summary": "Ex director de policía de Mexicali denuncia falta de tiempo para preparar estrategia legal en audiencia.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/me-han-quitado-32-horas-para-preparar-mi-defensa-pedro-mendivil-en-atropellada-audiencia/",
+        "_added_at": "2026-07-30T09:42:11.235939-07:00"
+      },
       {
         "title": "Ocho morenistas con visa revocada en Baja California",
         "summary": "Autoridades estadounidenses cancelan visas a militantes de Morena en la entidad por presuntas violaciones.",
@@ -102,16 +144,16 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/afn_politico/179720_el_apoyo_de_morena_y_ariadna_para_bonilla",
         "_added_at": "2026-07-30T01:42:33.983011-07:00"
-      },
-      {
-        "title": "Politólogo cuestiona contradicciones en Ley de Audiencias",
-        "summary": "López Rabadán identifica inconsistencias legales que requieren revisión en procedimientos judicales.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179722_la_ley_de_las_audiencias_tiene_contradicciones_que_deben_revisarse_lopez_rabadan",
-        "_added_at": "2026-07-30T01:42:33.983011-07:00"
       }
     ],
     "economia": [
+      {
+        "title": "Actividad económica de B.C. cae 2.5 por ciento",
+        "summary": "INEGI reporta descenso de 2.5% en actividad económica de Baja California con caída de manufactura.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/97389/Cae-2.5%25-la-actividad-econ%C3%B3mica-en-B.C.,-se%C3%B1ala-INEGI",
+        "_added_at": "2026-07-30T09:42:11.235939-07:00"
+      },
       {
         "title": "Maquiladora pierde 9,762 empleos en Tijuana",
         "summary": "Sector manufacturero registra caída significativa en generación de empleos durante periodo reciente.",
@@ -142,6 +184,13 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Escritor bajacaliforniano gana premio internacional de novela",
+        "summary": "David Silva Rojas obtiene I Premio Internacional de Novela Breve Almadía Ventosa-Arrufat.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/david-silva-rojas-gana-i-premio-internacional-de-novela-breve-almadia-ventosa-arrufat/",
+        "_added_at": "2026-07-30T09:42:11.235939-07:00"
+      },
       {
         "title": "20% de colonias aún sin agua por fuga en acueducto",
         "summary": "Comunidades continúan afectadas por daño en infraestructura del Acueducto Florido-Aguaje en Tijuana.",
@@ -186,5 +235,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-30T07:24:34.343838-07:00"
+  "last_updated": "2026-07-30T09:42:11.235939-07:00"
 }
