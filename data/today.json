@@ -1,8 +1,36 @@
 {
   "date": "2026-07-30",
-  "run_count": 4,
+  "run_count": 5,
   "notes": {
     "seguridad": [
+      {
+        "title": "Decomisan más de 8 mil armas en Baja California",
+        "summary": "Marina del Pilar reporta incautación de más de 8 mil armas de fuego en operativos contra delincuencia en la entidad.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179746_han_decomisado_mas_de_8_mil_armas_de_fuego_afirma_marina_del_pilar",
+        "_added_at": "2026-07-30T12:44:12.614264-07:00"
+      },
+      {
+        "title": "Detienen a cuatro con armamento táctico",
+        "summary": "Autoridades capturan a cuatro individuos portando armas de fuego y equipo táctico en operativo de seguridad.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/179742_detienen_a_cuatro_con_armas_de_fuego_y_equipo_tactico",
+        "_added_at": "2026-07-30T12:44:12.614264-07:00"
+      },
+      {
+        "title": "Capturan a \"El Chilango\" por robo en Tijuana",
+        "summary": "Presunto delincuente conocido como \"El Chilango\" es detenido en Tijuana acusado de robos.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97428/Cay%C3%B3-%22El-Chilango%22-en-Tijuana,-por-ratero",
+        "_added_at": "2026-07-30T12:44:12.614264-07:00"
+      },
+      {
+        "title": "Hallan amenaza y restos en Plaza Conquistador",
+        "summary": "Abandonan hielera con restos animales y mensaje amenazante en comercial de Tijuana.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97414/Abandonan-hielera-con-restos-de-cerdo-y-mensaje-de-amenazas-en-Plaza-Conquistador",
+        "_added_at": "2026-07-30T12:44:12.614264-07:00"
+      },
       {
         "title": "Hielera con restos y amenazas hallada en plaza comercial",
         "summary": "Descubren hielera con restos de cerdo y mensaje intimidatorio en Plaza Conquistador de Tijuana.",
@@ -44,37 +72,30 @@
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/07/detencion-de-pedro-ariel-mendivil-evidencia-fallas-en-seguridad-de-mexicali-manuel-garcia/?utm_source=rss&utm_medium=rss&utm_campaign=detencion-de-pedro-ariel-mendivil-evidencia-fallas-en-seguridad-de-mexicali-manuel-garcia",
         "_added_at": "2026-07-30T07:24:34.343838-07:00"
-      },
-      {
-        "title": "Fallas de seguridad evidenciadas en Mexicali tras detención",
-        "summary": "Autoridades señalan debilidades en sistemas de seguridad tras captura de Pedro Ariel Mendívil en Mexicali.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/detencion-de-pedro-ariel-mendivil-evidencia-fallas-en-seguridad-de-mexicali-manuel-garcia/",
-        "_added_at": "2026-07-30T01:42:33.983011-07:00"
-      },
-      {
-        "title": "Vinculan a proceso a sospechoso por crimen de esposo de regidora",
-        "summary": "Juez vincula a procedimiento penal a imputado por homicidio de esposo de regidora tijuanense.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/179716_vinculan_a_proceso_a_un_hombre_por_crimen_del_esposo_de_regidora",
-        "_added_at": "2026-07-30T01:42:33.983011-07:00"
-      },
-      {
-        "title": "Bomberos refuerzan alertas sobre medidas de seguridad acuática",
-        "summary": "Autoridades instan a piscinas públicas y privadas a fortalecer protocolos con salvavidas certificados.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97387/Llama-Bomberos-a-reforzar-medidas-de-seguridad-en-albercas",
-        "_added_at": "2026-07-30T01:42:33.983011-07:00"
-      },
-      {
-        "title": "Muere hombre tras forcejear por arma de fuego",
-        "summary": "Persona fallece durante alterado por posesión de pistola en incidente reportado en BC.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/179710_murio_de_un_balazo_tras_forcejear_con_otro_por_arma_de_fuego",
-        "_added_at": "2026-07-30T01:42:33.983011-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Sheinbaum dice Marina y Bonilla resuelvan sus temas",
+        "summary": "Presidenta comenta sobre conflicto entre gobernadora y exgobernador de Baja California.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/nacionales/179735_marina_y_bonilla_tienen_que_resolver_sus_temas_dice_sheinbaum",
+        "_added_at": "2026-07-30T12:44:12.614264-07:00"
+      },
+      {
+        "title": "Preparatorias militarizadas seguirán operando en BC",
+        "summary": "Pese a prohibición de la SEP, instituciones educativas militarizadas continúan funcionando en Baja California.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179747_pese_a_prohibicion_de_la_sep_en_bc_seguiran_operando_preparatorias_militarizadas",
+        "_added_at": "2026-07-30T12:44:12.614264-07:00"
+      },
+      {
+        "title": "Nuevo director militar en Policía de San Felipe",
+        "summary": "Octavio Morgado Vázquez, militar, asume dirección de corporación policial en San Felipe.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/nombran-al-militar-octavio-morgado-vazquez-como-nuevo-director-de-la-policia-de-san-felipe/",
+        "_added_at": "2026-07-30T12:44:12.614264-07:00"
+      },
       {
         "title": "Marina denuncia a Bonilla por audios y acusa emboscada",
         "summary": "Marina del Pilar presenta denuncia contra Bonilla por filtración de audios acusándolo de operación psicológica.",
@@ -123,30 +144,30 @@
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/07/ortiz-amupudia-se-dice-traicionado-por-el-pes-y-resurge-con-jmo-en-tijuana/",
         "_added_at": "2026-07-30T04:16:34.774739-07:00"
-      },
-      {
-        "title": "Morena respalda a Inzunza pese a sanciones estadounidenses",
-        "summary": "Coordinador de senadores de Morena mantiene apoyo a funcionario enfrentando señalamientos de EU.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/coordinador-de-senadores-de-morena-respalda-a-inzunza-pese-a-senalamientos-de-eu/",
-        "_added_at": "2026-07-30T01:42:33.983011-07:00"
-      },
-      {
-        "title": "Ocho morenistas en BC perdieron visas estadounidenses",
-        "summary": "Autoridades norteamericanas revocaron documentos migratorios a ocho políticos morenistas de Baja California.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/ocho-morenistas-con-la-visa-revocada-en-bc/",
-        "_added_at": "2026-07-30T01:42:33.983011-07:00"
-      },
-      {
-        "title": "Bonilla contra Marina del Pilar por acusaciones de traición",
-        "summary": "Exfuncionario exige que Marina del Pilar aclare denuncias sobre traición a la patria.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/afn_politico/179720_el_apoyo_de_morena_y_ariadna_para_bonilla",
-        "_added_at": "2026-07-30T01:42:33.983011-07:00"
       }
     ],
     "economia": [
+      {
+        "title": "PIB mexicano creció 1.5% en segundo trimestre",
+        "summary": "Economía nacional registra crecimiento durante trimestre, según datos oficiales publicados.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/pib-mexicano-crecio-1-5-en-el-segundo-trimestre-de-2026/",
+        "_added_at": "2026-07-30T12:44:12.614264-07:00"
+      },
+      {
+        "title": "Firman acuerdo para turismo médico en BC",
+        "summary": "Autoridades promueven desarrollo del turismo de salud como sector económico en Baja California.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/sociales/179744_firman_acuerdo_para_promover_el_turismo_medico_y_de_salud_en_bc",
+        "_added_at": "2026-07-30T12:44:12.614264-07:00"
+      },
+      {
+        "title": "Semarnat reporta avances en río Tijuana",
+        "summary": "Dependencia federal comunica progreso en saneamiento ambiental del río fronterizo.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Nacional/97427/Semarnat-reporta-avances-en-saneamiento-del-r%C3%ADo-Tijuana",
+        "_added_at": "2026-07-30T12:44:12.614264-07:00"
+      },
       {
         "title": "Actividad económica de B.C. cae 2.5 por ciento",
         "summary": "INEGI reporta descenso de 2.5% en actividad económica de Baja California con caída de manufactura.",
@@ -184,6 +205,34 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Piden calma a mujeres por registro de Tarjeta Violeta",
+        "summary": "Autoridades solicitan orden en trámites debido a alta demanda de documento de protección femenina.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/piden-a-mujeres-mantener-la-calma-ante-gran-afluencia-por-registro-de-la-tarjeta-violeta/",
+        "_added_at": "2026-07-30T12:44:12.614264-07:00"
+      },
+      {
+        "title": "Logran Récord Guinness con torta de 100 metros",
+        "summary": "Baja California establece marca mundial con torta de 100 metros y 1.7 toneladas.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/sociales/179743_logran_record_guinnes_con_torta_de_100_metros_y_1_7_toneladas",
+        "_added_at": "2026-07-30T12:44:12.614264-07:00"
+      },
+      {
+        "title": "Marina ofrece revisar servicios IMSS San Quintín",
+        "summary": "Gobernadora anuncia auditoría en centro de salud tras muerte de niña en la región.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179748_ofrece_marina_revisar_servicios_en_imss_san_quintin_por_muerte_de_una_nina",
+        "_added_at": "2026-07-30T12:44:12.614264-07:00"
+      },
+      {
+        "title": "Contaminación mantiene playas cerradas en frontera",
+        "summary": "Agua contaminada del río Tijuana provoca clausura de playas en territorio estadounidense.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97426/Mantiene-contaminaci%C3%B3n-del-R%C3%ADo-Tijuana-cierre-de-playas-en-EU",
+        "_added_at": "2026-07-30T12:44:12.614264-07:00"
+      },
       {
         "title": "Escritor bajacaliforniano gana premio internacional de novela",
         "summary": "David Silva Rojas obtiene I Premio Internacional de Novela Breve Almadía Ventosa-Arrufat.",
@@ -225,15 +274,8 @@
         "source": "El Mexicano",
         "url": "https://el-mexicano.com.mx/Noticia/Sociales/97405/Culminan-etapa-llena-de-sue%C3%B1os-y-esfuerzo-Alumnos-del-Conalep-Mexicali-I",
         "_added_at": "2026-07-30T01:42:33.983011-07:00"
-      },
-      {
-        "title": "Autoridades buscan investigar desaparición de familiar",
-        "summary": "Familia reclama respuestas de FGE tras pérdida de hijo en circunstancias no aclaradas.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179712_exigen_respuestas_a_la_fge_tras_la_desaparicion_de_su_hijo",
-        "_added_at": "2026-07-30T01:42:33.983011-07:00"
       }
     ]
   },
-  "last_updated": "2026-07-30T09:42:11.235939-07:00"
+  "last_updated": "2026-07-30T12:44:12.614264-07:00"
 }
