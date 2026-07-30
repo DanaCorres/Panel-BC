@@ -1,8 +1,22 @@
 {
   "date": "2026-07-30",
-  "run_count": 5,
+  "run_count": 6,
   "notes": {
     "seguridad": [
+      {
+        "title": "Federales detienen al \"R1\", autor intelectual del homicidio Manzo",
+        "summary": "Fuerzas federales capturaron al presunto responsable intelectual del asesinato de Carlos Manzo en Tijuana.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/fuerzas-federales-detienen-al-r1-supuesto-autor-intelectual-del-asesinato-de-carlos-manzo/?utm_source=rss&utm_medium=rss&utm_campaign=fuerzas-federales-detienen-al-r1-supuesto-autor-intelectual-del-asesinato-de-carlos-manzo",
+        "_added_at": "2026-07-30T15:14:07.290481-07:00"
+      },
+      {
+        "title": "Militar encabeza nueva dirección de Policía en San Felipe",
+        "summary": "Octavio Morgado Vázquez asume como director de corporación policial en San Felipe.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/nombran-al-militar-octavio-morgado-vazquez-como-nuevo-director-de-la-policia-de-san-felipe/?utm_source=rss&utm_medium=rss&utm_campaign=nombran-al-militar-octavio-morgado-vazquez-como-nuevo-director-de-la-policia-de-san-felipe",
+        "_added_at": "2026-07-30T15:14:07.290481-07:00"
+      },
       {
         "title": "Decomisan más de 8 mil armas en Baja California",
         "summary": "Marina del Pilar reporta incautación de más de 8 mil armas de fuego en operativos contra delincuencia en la entidad.",
@@ -58,23 +72,30 @@
         "source": "El Mexicano",
         "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97388/Colectivos-buscan-reuni%C3%B3n-con-la-FGE-tras-la-detenci%C3%B3n-de-ex-director-de-la-polic%C3%ADa-de-Mexicali",
         "_added_at": "2026-07-30T09:42:11.235939-07:00"
-      },
-      {
-        "title": "Policías acusan a Mendívil y mandos en Tijuana",
-        "summary": "Elementos de corporación presentan denuncias contra el ex director de policía Mendívil y su equipo directivo por presuntas irregularidades.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/policias-acusan-a-mendivil-y-cuadro-de-mando/?utm_source=rss&utm_medium=rss&utm_campaign=policias-acusan-a-mendivil-y-cuadro-de-mando",
-        "_added_at": "2026-07-30T07:24:34.343838-07:00"
-      },
-      {
-        "title": "Fallas en seguridad de Mexicali expuestas: García",
-        "summary": "Detención de ex director Mendívil evidencia deficiencias graves en corporaciones policiales de Mexicali según comentarios de funcionarios.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/detencion-de-pedro-ariel-mendivil-evidencia-fallas-en-seguridad-de-mexicali-manuel-garcia/?utm_source=rss&utm_medium=rss&utm_campaign=detencion-de-pedro-ariel-mendivil-evidencia-fallas-en-seguridad-de-mexicali-manuel-garcia",
-        "_added_at": "2026-07-30T07:24:34.343838-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Marina denuncia a Bonilla por audios filtrados y trama",
+        "summary": "Gobernadora acusa emboscada psicológica tras divulgación de conversaciones privadas con exgobernador.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/marina-del-pilar-denuncia-a-bonilla-por-audios-filtrados-y-acusa-emboscada-psicologica/?utm_source=rss&utm_medium=rss&utm_campaign=marina-del-pilar-denuncia-a-bonilla-por-audios-filtrados-y-acusa-emboscada-psicologica",
+        "_added_at": "2026-07-30T15:14:07.290481-07:00"
+      },
+      {
+        "title": "Sheinbaum descarta censura en lineamientos de audiencias",
+        "summary": "Presidenta responde a críticas sobre nuevas directrices aplicables a medios informativos nacionales.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/sheinbaum-descarta-censura-y-responde-a-criticas-por-lineamientos-de-audiencias/?utm_source=rss&utm_medium=rss&utm_campaign=sheinbaum-descarta-censura-y-responde-a-criticas-por-lineamientos-de-audiencias",
+        "_added_at": "2026-07-30T15:14:07.290481-07:00"
+      },
+      {
+        "title": "Policías acusan al director Mendívil y mandos superiores",
+        "summary": "Elementos de corporación local presentan denuncias contra cúpula directiva por irregularidades.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/policias-acusan-a-mendivil-y-cuadro-de-mando/?utm_source=rss&utm_medium=rss&utm_campaign=policias-acusan-a-mendivil-y-cuadro-de-mando",
+        "_added_at": "2026-07-30T15:14:07.290481-07:00"
+      },
       {
         "title": "Sheinbaum dice Marina y Bonilla resuelvan sus temas",
         "summary": "Presidenta comenta sobre conflicto entre gobernadora y exgobernador de Baja California.",
@@ -123,30 +144,23 @@
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/07/coordinador-de-senadores-de-morena-respalda-a-inzunza-pese-a-senalamientos-de-eu/?utm_source=rss&utm_medium=rss&utm_campaign=coordinador-de-senadores-de-morena-respalda-a-inzunza-pese-a-senalamientos-de-eu",
         "_added_at": "2026-07-30T07:24:34.343838-07:00"
-      },
-      {
-        "title": "Bonilla exige aclaración a Marina del Pilar",
-        "summary": "Político pide que funcionaria explique acusaciones y deje de victimizarse en controversia pública.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179724_exige_bonilla_a_marina_del_pilar_dejar_de_victimizarse_y_aclarar_traicion_a_la_patria",
-        "_added_at": "2026-07-30T07:24:34.343838-07:00"
-      },
-      {
-        "title": "APBC preocupada por falta de equidad en partidos",
-        "summary": "Organización empresarial cuestiona falta de \"piso parejo\" en procesos democráticos internos de agrupaciones políticas.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179723_preocupa_falta_de_piso_parejo_en_procesos_internos_de_partidos_apbc",
-        "_added_at": "2026-07-30T07:24:34.343838-07:00"
-      },
-      {
-        "title": "Ortiz Amupudia resurge con movimiento ciudadano en Tijuana",
-        "summary": "Político se aleja del PES y se integra a agrupación local tras conflicto interno.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/ortiz-amupudia-se-dice-traicionado-por-el-pes-y-resurge-con-jmo-en-tijuana/",
-        "_added_at": "2026-07-30T04:16:34.774739-07:00"
       }
     ],
     "economia": [
+      {
+        "title": "PIB mexicano avanza 1.5 por ciento en segundo trimestre",
+        "summary": "Economía nacional registra crecimiento modesto en el segundo cuatrimestre del año en curso.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/pib-mexicano-crecio-1-5-en-el-segundo-trimestre-de-2026/?utm_source=rss&utm_medium=rss&utm_campaign=pib-mexicano-crecio-1-5-en-el-segundo-trimestre-de-2026",
+        "_added_at": "2026-07-30T15:14:07.290481-07:00"
+      },
+      {
+        "title": "Capacitarán a comerciantes de Mexicali en asuntos fiscales",
+        "summary": "Programa de adiestramiento dirigido a microempresarios sobre obligaciones y trámites tributarios.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97432/Capacitar%C3%A1n-a-comerciantes-en-materia-fiscal",
+        "_added_at": "2026-07-30T15:14:07.290481-07:00"
+      },
       {
         "title": "PIB mexicano creció 1.5% en segundo trimestre",
         "summary": "Economía nacional registra crecimiento durante trimestre, según datos oficiales publicados.",
@@ -206,6 +220,27 @@
     ],
     "sociedad": [
       {
+        "title": "Tarjeta Violeta genera gran demanda entre mujeres bajacalifornianas",
+        "summary": "Masiva afluencia de trámites para obtener documento de protección solicitado por autoridades locales.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/piden-a-mujeres-mantener-la-calma-ante-gran-afluencia-por-registro-de-la-tarjeta-violeta/?utm_source=rss&utm_medium=rss&utm_campaign=piden-a-mujeres-mantener-la-calma-ante-gran-afluencia-por-registro-de-la-tarjeta-violeta",
+        "_added_at": "2026-07-30T15:14:07.290481-07:00"
+      },
+      {
+        "title": "Playas contaminadas afectan turismo y operaciones militares en región",
+        "summary": "Cámara de comercio denuncia impacto ambiental en zonas costeras de Tijuana.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179752_border_patrol_navy_seals_y_turismo_afectados_por_playas_contaminadas_camara_regional_de_san_diego",
+        "_added_at": "2026-07-30T15:14:07.290481-07:00"
+      },
+      {
+        "title": "Transforman andador en Playas de Tijuana con arte reciclado",
+        "summary": "Proyecto comunitario revitaliza espacio público con material reutilizado y intervención artística.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97435/Transforman-el-Andador-12-de-Playas-de-Tijuana-con-arte-y-materiales-reciclados",
+        "_added_at": "2026-07-30T15:14:07.290481-07:00"
+      },
+      {
         "title": "Piden calma a mujeres por registro de Tarjeta Violeta",
         "summary": "Autoridades solicitan orden en trámites debido a alta demanda de documento de protección femenina.",
         "source": "ZETA Tijuana",
@@ -253,29 +288,8 @@
         "source": "El Mexicano",
         "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97388/Colectivos-buscan-reuni%C3%B3n-con-la-FGE-tras-la-detenci%C3%B3n-de-ex-director-de-la-polic%C3%ADa-de-Mexicali",
         "_added_at": "2026-07-30T04:16:34.774739-07:00"
-      },
-      {
-        "title": "Veinte por ciento de colonias sin agua por fuga acueducto",
-        "summary": "Ruptura en Acueducto Florido-Aguaje sigue afectando suministro en múltiples sectores de Tijuana.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/sin-agua-todavia-20-de-las-colonias-afectadas-por-fuga-del-acueducto-florido-aguaje/",
-        "_added_at": "2026-07-30T01:42:33.983011-07:00"
-      },
-      {
-        "title": "Madre denuncia arrebato de bebé recién nacido por DIF",
-        "summary": "Progenitora presenta acusación por retención de recién nacido en poder de instituto de protección.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179719_madre_denuncia_que_su_bebe_recien_nacido_le_fue_arrebatado_por_el_dif",
-        "_added_at": "2026-07-30T01:42:33.983011-07:00"
-      },
-      {
-        "title": "Graduandos del Conalep Mexicali culminan ciclo educativo",
-        "summary": "Estudiantes de instituto técnico concluyen formación profesional con ceremonia de egreso.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Sociales/97405/Culminan-etapa-llena-de-sue%C3%B1os-y-esfuerzo-Alumnos-del-Conalep-Mexicali-I",
-        "_added_at": "2026-07-30T01:42:33.983011-07:00"
       }
     ]
   },
-  "last_updated": "2026-07-30T12:44:12.614264-07:00"
+  "last_updated": "2026-07-30T15:14:07.290481-07:00"
 }
