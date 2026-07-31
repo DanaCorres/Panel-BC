@@ -1,8 +1,15 @@
 {
   "date": "2026-07-31",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Hallan restos humanos con narcomanta en colonia Reforma",
+        "summary": "Descubren restos humanos acompañados de mensaje amenazante en cancha de futbol de Tijuana.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/179762_dejan_restos_humanos_y_una_narcomanta_en_cancha_de_futbol_de_la_colonia_reforma",
+        "_added_at": "2026-07-31T07:27:19.727733-07:00"
+      },
       {
         "title": "Hallan restos humanos con narcomanta en Reforma",
         "summary": "Descubrimiento de restos humanos junto a mensaje amenazante en cancha de futbol de colonia Reforma en Tijuana.",
@@ -34,6 +41,20 @@
     ],
     "politica": [
       {
+        "title": "Crisis política de BC trascurre a nivel nacional",
+        "summary": "Situación política estatal llega a medios católicos de otras entidades del país.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179774_la_crisis_politica_de_bc_llega_a_semanario_catolico_de_guadalajara",
+        "_added_at": "2026-07-31T07:27:19.727733-07:00"
+      },
+      {
+        "title": "Oposición busca frente común contra Morena",
+        "summary": "Dirigente del PRI convoca a partidos opositores para enfrentar al gobierno de Morena.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179765_dirigente_del_pri_llama_a_la_oposicion_a_un_frente_comun_contra_morena_y_acusa_al_ine",
+        "_added_at": "2026-07-31T07:27:19.727733-07:00"
+      },
+      {
         "title": "Audiencia del exdirector de Seguridad supera 30 horas",
         "summary": "Proceso judicial contra exjefe policiaco de Mexicali continúa con sesiones prolongadas.",
         "source": "AFN Tijuana",
@@ -64,6 +85,20 @@
     ],
     "economia": [
       {
+        "title": "Maquiladoras de Tijuana incrementan exportaciones 2.6 por ciento",
+        "summary": "Sector maquilador registra crecimiento en ventas al extranjero durante período reciente.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/empresarial/179770_alza_del_2_6_en_exportaciones_de_maquiladoras_en_tijuana",
+        "_added_at": "2026-07-31T07:27:19.727733-07:00"
+      },
+      {
+        "title": "INEGI reporta atrasos en obras de transporte estatal",
+        "summary": "Instituto destaca retrasos en proyectos de infraestructura de transporte y urbanización en BC.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/nacionales/179771_atrasos_en_obras_de_transporte_y_urbanizacion_en_bc_reporta_inegi",
+        "_added_at": "2026-07-31T07:27:19.727733-07:00"
+      },
+      {
         "title": "Ensenada y CCEE impulsan infraestructura y movilidad",
         "summary": "Municipio colabora con cámara de comercio en proyectos de desarrollo y regulación.",
         "source": "AFN Tijuana",
@@ -79,6 +114,13 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Inicia proyecto de señalética turística en Tijuana",
+        "summary": "Mejora de infraestructura informativa en avenida Revolución y El Chaparral.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179773_inicia_proyecto_de_senaletica_turistica_en_la_avenida_revolucion_y_el_chaparral",
+        "_added_at": "2026-07-31T07:27:19.727733-07:00"
+      },
       {
         "title": "31 parejas formalizan matrimonios igualitarios",
         "summary": "Ceremonia en Tijuana donde parejas LGBTTTIQANB+ legalizan sus uniones.",
@@ -109,5 +151,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-31T02:13:10.125861-07:00"
+  "last_updated": "2026-07-31T07:27:19.727733-07:00"
 }
