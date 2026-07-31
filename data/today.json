@@ -1,8 +1,29 @@
 {
   "date": "2026-07-30",
-  "run_count": 6,
+  "run_count": 7,
   "notes": {
     "seguridad": [
+      {
+        "title": "Hallan restos humanos con narcomanta en Tijuana",
+        "summary": "Descubren restos humanos y mensaje amenazante en cancha de futbol de colonia Reforma en Tijuana.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/hallan-restos-humanos-y-mensaje-amenazante-en-la-colonia-reforma/?utm_source=rss&utm_medium=rss&utm_campaign=hallan-restos-humanos-y-mensaje-amenazante-en-la-colonia-reforma",
+        "_added_at": "2026-07-30T20:40:51.040947-07:00"
+      },
+      {
+        "title": "Zhenli Ye Gon condenado a 15 años por lavado de dinero",
+        "summary": "\"Coopelas\" recibe sentencia de prisión por lavar treinta y tres millones de dólares.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/zhenli-ye-gon-coopelas-o-cuello-recibe-15-anos-de-prision-por-lavar-33-millones-de-dolares/?utm_source=rss&utm_medium=rss&utm_campaign=zhenli-ye-gon-coopelas-o-cuello-recibe-15-anos-de-prision-por-lavar-33-millones-de-dolares",
+        "_added_at": "2026-07-30T20:40:51.040947-07:00"
+      },
+      {
+        "title": "Capturan presuntos narcomenudistas con auto vinculado a restos",
+        "summary": "Detienen a sospechosos en vehículo asociado con abandono de restos humanos en Tijuana.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/179763_caen_presuntos_narcomenudistas_en_auto_vinculado_con_el_abandono_de_restos_humanos",
+        "_added_at": "2026-07-30T20:40:51.040947-07:00"
+      },
       {
         "title": "Federales detienen al \"R1\", autor intelectual del homicidio Manzo",
         "summary": "Fuerzas federales capturaron al presunto responsable intelectual del asesinato de Carlos Manzo en Tijuana.",
@@ -51,30 +72,30 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/seguridad/179729_hallan_hielera_con_restos_de_cerdo_y_mensaje_con_amenazas_en_plaza_comercial",
         "_added_at": "2026-07-30T09:42:11.235939-07:00"
-      },
-      {
-        "title": "Volcadura en bulevar 2000 tras choque entre vehículos",
-        "summary": "Pickup y transporte público colisionan resultando en volcadura sobre bulevar 2000 en Tijuana.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97415/Choque-entre-pickup-y-transporte-p%C3%BAblico-termina-en-volcadura-sobre-el-bulevar-2000",
-        "_added_at": "2026-07-30T09:42:11.235939-07:00"
-      },
-      {
-        "title": "Doce muertes por rickettsiosis en Tijuana y Tecate",
-        "summary": "Se registraron 12 defunciones por rickettsiosis durante 2026 en Tijuana y Tecate.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179728_hubo_12_defunciones_por_rickettsiosis_en_tijuana_y_tecate_en_2026",
-        "_added_at": "2026-07-30T09:42:11.235939-07:00"
-      },
-      {
-        "title": "Colectivos solicitan reunión con FGE por detención de ex policía",
-        "summary": "Colectivos buscan información sobre vínculos entre detención de ex director de policía de Mexicali y desapariciones.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97388/Colectivos-buscan-reuni%C3%B3n-con-la-FGE-tras-la-detenci%C3%B3n-de-ex-director-de-la-polic%C3%ADa-de-Mexicali",
-        "_added_at": "2026-07-30T09:42:11.235939-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "PRI BC preocupado por sanción a \"Alito\" Moreno",
+        "summary": "Dirigencia del PRI Baja California expresa inquietud por castigo al líder nacional por críticas a Morena.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179766_preocupa_al_pri_bc_sancion_a_alito_moreno_por_criticas_a_morena",
+        "_added_at": "2026-07-30T20:40:51.040947-07:00"
+      },
+      {
+        "title": "PRI propone frente común de oposición contra Morena",
+        "summary": "Dirigente priista convoca a la oposición a unirse y acusa al INE de falta de imparcialidad.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179765_dirigente_del_pri_llama_a_la_oposicion_a_un_frente_comun_contra_morena_y_acusa_al_ine",
+        "_added_at": "2026-07-30T20:40:51.040947-07:00"
+      },
+      {
+        "title": "Marina del Pilar realiza gira política en Baja California",
+        "summary": "Gobernadora continúa con actividades de campaña denominadas \"emboscada psicológica\" en la entidad.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/afn_politico/179764_la_gira_de_la_emboscada_psicologica_de_marina_del_pilar",
+        "_added_at": "2026-07-30T20:40:51.040947-07:00"
+      },
       {
         "title": "Marina denuncia a Bonilla por audios filtrados y trama",
         "summary": "Gobernadora acusa emboscada psicológica tras divulgación de conversaciones privadas con exgobernador.",
@@ -123,30 +144,30 @@
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/07/marina-del-pilar-denuncia-a-bonilla-por-audios-filtrados-y-acusa-emboscada-psicologica/",
         "_added_at": "2026-07-30T09:42:11.235939-07:00"
-      },
-      {
-        "title": "Mendívil reclama 32 horas insuficientes para defensa",
-        "summary": "Ex director de policía de Mexicali denuncia falta de tiempo para preparar estrategia legal en audiencia.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/me-han-quitado-32-horas-para-preparar-mi-defensa-pedro-mendivil-en-atropellada-audiencia/",
-        "_added_at": "2026-07-30T09:42:11.235939-07:00"
-      },
-      {
-        "title": "Ocho morenistas con visa revocada en Baja California",
-        "summary": "Autoridades estadounidenses cancelan visas a militantes de Morena en la entidad por presuntas violaciones.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/ocho-morenistas-con-la-visa-revocada-en-bc/?utm_source=rss&utm_medium=rss&utm_campaign=ocho-morenistas-con-la-visa-revocada-en-bc",
-        "_added_at": "2026-07-30T07:24:34.343838-07:00"
-      },
-      {
-        "title": "Morena respalda a Inzunza pese señalamientos de EU",
-        "summary": "Coordinador de senadores morenistas mantiene respaldo a político local a pesar de acusaciones estadounidenses.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/coordinador-de-senadores-de-morena-respalda-a-inzunza-pese-a-senalamientos-de-eu/?utm_source=rss&utm_medium=rss&utm_campaign=coordinador-de-senadores-de-morena-respalda-a-inzunza-pese-a-senalamientos-de-eu",
-        "_added_at": "2026-07-30T07:24:34.343838-07:00"
       }
     ],
     "economia": [
+      {
+        "title": "Ensenada e iniciativa privada impulsan infraestructura",
+        "summary": "Municipio y CCEE colaboran en mejora de infraestructura, movilidad y regulación local.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179758_municipio_de_ensenada_y_ccee_impulsaran_infraestructura_movilidad_y_mejora_regulatoria",
+        "_added_at": "2026-07-30T20:40:51.040947-07:00"
+      },
+      {
+        "title": "Reanudan mesas técnicas sobre proyecto Civantia",
+        "summary": "Continúan discusiones sobre desarrollo inmobiliario en Playas de Tijuana.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179754_reanudaran_mesas_tecnicas_sobre_proyecto_civantia_en_playas_de_tijuana",
+        "_added_at": "2026-07-30T20:40:51.040947-07:00"
+      },
+      {
+        "title": "Playas contaminadas afectan turismo y operaciones militares",
+        "summary": "Cámara regional de San Diego advierte impacto económico por contaminación costera en frontera.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179752_border_patrol_navy_seals_y_turismo_afectados_por_playas_contaminadas_camara_regional_de_san_diego",
+        "_added_at": "2026-07-30T20:40:51.040947-07:00"
+      },
       {
         "title": "PIB mexicano avanza 1.5 por ciento en segundo trimestre",
         "summary": "Economía nacional registra crecimiento modesto en el segundo cuatrimestre del año en curso.",
@@ -195,30 +216,30 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/empresarial/179727_perdio_9_762_empleos_la_industria_maquiladora_en_tijuana",
         "_added_at": "2026-07-30T07:24:34.343838-07:00"
-      },
-      {
-        "title": "Bajan 2.6% empresas formales en Tijuana",
-        "summary": "Disminuye número de negocios formales registrados en la ciudad durante últimos meses.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/empresarial/179726_bajan_2_6_las_empresas_formales_en_tijuana",
-        "_added_at": "2026-07-30T07:24:34.343838-07:00"
-      },
-      {
-        "title": "Coparmex propone órganos de control interno en corporaciones policiales",
-        "summary": "Iniciativa empresarial busca mejorar transparencia y confianza en instituciones de seguridad.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Estatal/97386/Propone-Coparmex-creaci%C3%B3n-de-%C3%B3rganos-internos-de-control-en-corporaciones-policiacas",
-        "_added_at": "2026-07-30T04:16:34.774739-07:00"
-      },
-      {
-        "title": "BC recibirá 2,365 millones en fondos de distribución municipal",
-        "summary": "Estado obtendrá recursos del Fondo General de Participaciones para municipios.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179713_bc_recibira_mas_de_2_365_mdp_del_fondo_general_y_fomento_municipal",
-        "_added_at": "2026-07-30T01:42:33.983011-07:00"
       }
     ],
     "sociedad": [
+      {
+        "title": "Cifra de desaparecidos en BC alcanza alrededor de 21 mil",
+        "summary": "Autoridades confirman número alarmante de personas desaparecidas en Baja California.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179761_cifra_de_desaparecidos_en_bc_es_de_alrededor_de_21_mil_personas_eddy_carrillo",
+        "_added_at": "2026-07-30T20:40:51.040947-07:00"
+      },
+      {
+        "title": "Alertan por altas temperaturas en Tecate",
+        "summary": "Autoridades emiten alerta por ola de calor en municipio de Tecate.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/municipios/179760_alertan_por_altas_temperaturas_en_tecate",
+        "_added_at": "2026-07-30T20:40:51.040947-07:00"
+      },
+      {
+        "title": "Llegan familias desplazadas por violencia en Guerrero",
+        "summary": "Familias huyen de conflictiva situación en Guerrero y arriban a Tijuana buscando refugio.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179757_llegan_a_tijuana_familias_desplazadas_por_el_narco_en_guerrero",
+        "_added_at": "2026-07-30T20:40:51.040947-07:00"
+      },
       {
         "title": "Tarjeta Violeta genera gran demanda entre mujeres bajacalifornianas",
         "summary": "Masiva afluencia de trámites para obtener documento de protección solicitado por autoridades locales.",
@@ -267,29 +288,8 @@
         "source": "El Mexicano",
         "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97426/Mantiene-contaminaci%C3%B3n-del-R%C3%ADo-Tijuana-cierre-de-playas-en-EU",
         "_added_at": "2026-07-30T12:44:12.614264-07:00"
-      },
-      {
-        "title": "Escritor bajacaliforniano gana premio internacional de novela",
-        "summary": "David Silva Rojas obtiene I Premio Internacional de Novela Breve Almadía Ventosa-Arrufat.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/david-silva-rojas-gana-i-premio-internacional-de-novela-breve-almadia-ventosa-arrufat/",
-        "_added_at": "2026-07-30T09:42:11.235939-07:00"
-      },
-      {
-        "title": "20% de colonias aún sin agua por fuga en acueducto",
-        "summary": "Comunidades continúan afectadas por daño en infraestructura del Acueducto Florido-Aguaje en Tijuana.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/sin-agua-todavia-20-de-las-colonias-afectadas-por-fuga-del-acueducto-florido-aguaje/?utm_source=rss&utm_medium=rss&utm_campaign=sin-agua-todavia-20-de-las-colonias-afectadas-por-fuga-del-acueducto-florido-aguaje",
-        "_added_at": "2026-07-30T07:24:34.343838-07:00"
-      },
-      {
-        "title": "Colectivos buscan reunión con FGE por desapariciones",
-        "summary": "Organizaciones solicitan información sobre vínculos del ex jefe policial con casos.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97388/Colectivos-buscan-reuni%C3%B3n-con-la-FGE-tras-la-detenci%C3%B3n-de-ex-director-de-la-polic%C3%ADa-de-Mexicali",
-        "_added_at": "2026-07-30T04:16:34.774739-07:00"
       }
     ]
   },
-  "last_updated": "2026-07-30T15:14:07.290481-07:00"
+  "last_updated": "2026-07-30T20:40:51.040947-07:00"
 }
