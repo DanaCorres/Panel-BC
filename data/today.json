@@ -1,8 +1,29 @@
 {
   "date": "2026-07-31",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "R1 ordenó asesinatos de Manzo e influencer Valeria",
+        "summary": "Autoridades revelan que R1 ordenó matar a Carlos Manzo y la influencer Valeria Márquez; Mencho conocía del plan.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/r1-ordeno-matar-a-manzo-por-sentirse-provocado-revela-harfuch-mencho-sabia-de-asesinato/",
+        "_added_at": "2026-07-31T09:49:54.965976-07:00"
+      },
+      {
+        "title": "Ex director policía Mexicali en prisión preventiva",
+        "summary": "Pedro Ariel y ex agentes municipales quedan en prisión por desaparición forzada.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97467/Ex-director-de-polic%C3%ADa-de-Mexicali-y-ex-agentes-quedan-en-prisi%C3%B3n-preventiva",
+        "_added_at": "2026-07-31T09:49:54.965976-07:00"
+      },
+      {
+        "title": "Detienen a tres por narcomenudeo en Tijuana",
+        "summary": "Tres detenidos por venta de droga; vehículo vinculado a hallazgo de cabeza humana.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/detienen-a-tres-por-narcomenudeo-vehiculo-asegurado-estaria-ligado-a-abandono-de-cabeza-humana/",
+        "_added_at": "2026-07-31T09:49:54.965976-07:00"
+      },
       {
         "title": "Hallan restos humanos con narcomanta en colonia Reforma",
         "summary": "Descubren restos humanos acompañados de mensaje amenazante en cancha de futbol de Tijuana.",
@@ -40,6 +61,13 @@
       }
     ],
     "politica": [
+      {
+        "title": "Cambios en divorcios, pensiones y custodias en BC",
+        "summary": "Nuevo modelo de justicia modificará trámites de divorcios, pensiones y custodias.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/comunidad/179775_divorcios_pensiones_y_custodias_cambiaran_con_nuevo_modelo_de_justicia",
+        "_added_at": "2026-07-31T09:49:54.965976-07:00"
+      },
       {
         "title": "Crisis política de BC trascurre a nivel nacional",
         "summary": "Situación política estatal llega a medios católicos de otras entidades del país.",
@@ -115,6 +143,13 @@
     ],
     "sociedad": [
       {
+        "title": "UNAM aplica nuevo examen por fraude con inteligencia artificial",
+        "summary": "Universidad Nacional realizará examen de admisión tras detectarse fraude con IA.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/unam-aplicara-un-nuevo-examen-de-admision-a-licenciatura-tras-fraude-con-ia/",
+        "_added_at": "2026-07-31T09:49:54.965976-07:00"
+      },
+      {
         "title": "Inicia proyecto de señalética turística en Tijuana",
         "summary": "Mejora de infraestructura informativa en avenida Revolución y El Chaparral.",
         "source": "AFN Tijuana",
@@ -151,5 +186,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-31T07:27:19.727733-07:00"
+  "last_updated": "2026-07-31T09:49:54.965976-07:00"
 }
