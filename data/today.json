@@ -1,6 +1,6 @@
 {
   "date": "2026-07-31",
-  "run_count": 4,
+  "run_count": 5,
   "notes": {
     "seguridad": [
       {
@@ -76,6 +76,27 @@
     ],
     "politica": [
       {
+        "title": "PRI rechaza aprobación de Morena a cuenta de Armando Ayala",
+        "summary": "Partido opositor cuestiona decisión de Morena sobre cuentas del funcionario en disputa política.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179796_pri_rechaza_aprobacion_de_morena_a_cuenta_de_armando_ayala",
+        "_added_at": "2026-07-31T15:12:01.175283-07:00"
+      },
+      {
+        "title": "Solís Farías critica severamente a la SCJN mexicana",
+        "summary": "Político local cuestiona funcionamiento de máximo tribunal de justicia del país.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179803_la_scjn_de_mexico_es_la_peor_del_mundo_dice_solis_farias",
+        "_added_at": "2026-07-31T15:12:01.175283-07:00"
+      },
+      {
+        "title": "CCE propone exámenes anuales para directores de seguridad",
+        "summary": "Cámara de Comercio busca mayor control y profesionalización en cuerpos policiales locales.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179802_propone_el_cce_que_apliquen_examenes_anuales_de_control_a_los_directores_de_seguridad",
+        "_added_at": "2026-07-31T15:12:01.175283-07:00"
+      },
+      {
         "title": "Ruffo Appel bajo investigación por caso Blancornelas",
         "summary": "FGR evalúa posible proceso contra exgobernador relacionado con asesinato de periodista.",
         "source": "El Mexicano",
@@ -123,16 +144,23 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/179766_preocupa_al_pri_bc_sancion_a_alito_moreno_por_criticas_a_morena",
         "_added_at": "2026-07-31T02:13:10.125861-07:00"
-      },
-      {
-        "title": "Marina del Pilar en gira polémica por estado",
-        "summary": "Gobernadora realiza actividades que generan críticas de adversarios políticos.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/afn_politico/179764_la_gira_de_la_emboscada_psicologica_de_marina_del_pilar",
-        "_added_at": "2026-07-31T02:13:10.125861-07:00"
       }
     ],
     "economia": [
+      {
+        "title": "Canaco revisa comercios afectados por apagones recientes",
+        "summary": "Cámara de comercio inspeccionan daños a negocios por cortes de electricidad en región.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179801_revisa_la_canaco_comercios_con_equipos_afectados_por_apagones",
+        "_added_at": "2026-07-31T15:12:01.175283-07:00"
+      },
+      {
+        "title": "Modificar Río Tijuana generaría riesgos estructurales",
+        "summary": "Especialista advierte sobre posibles daños si se canaliza nuevamente el río en la ciudad.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/modificar-la-canalizacion-del-rio-tijuana-generaria-riesgos-estructurales-especialista/",
+        "_added_at": "2026-07-31T15:12:01.175283-07:00"
+      },
       {
         "title": "Refuerzan estrategias contra robo vehicular en Mexicali",
         "summary": "DPSM y policía de San Diego capacitan en uso de drones para combatir sustracción de vehículos.",
@@ -170,6 +198,20 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Cruz Roja inaugura instalaciones médicas con inversión de 23 mdp",
+        "summary": "Tijuana cuenta con nuevo banco de sangre, quirófano y tomógrafo para atención ciudadana.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97483/Ampl%C3%ADan-infraestructura-m%C3%A9dica-de-Cruz-Roja-Tijuana-con-nuevo-banco-de-sangre,-quir%C3%B3fano-y-tom%C3%B3grafo",
+        "_added_at": "2026-07-31T15:12:01.175283-07:00"
+      },
+      {
+        "title": "Impulsan profesionalización de centros de recuperación en BC",
+        "summary": "Iniciativa busca mejorar estándares de calidad en programas de tratamiento de adicciones.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97486/Impulsan-profesionalizaci%C3%B3n-de-centros-de-recuperaci%C3%B3n-en-BC",
+        "_added_at": "2026-07-31T15:12:01.175283-07:00"
+      },
       {
         "title": "Taller artes visuales para personas con espectro autista",
         "summary": "Impartirán actividad artística enfocada en inclusión en Tijuana.",
@@ -225,22 +267,8 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/179757_llegan_a_tijuana_familias_desplazadas_por_el_narco_en_guerrero",
         "_added_at": "2026-07-31T02:13:10.125861-07:00"
-      },
-      {
-        "title": "Alertan por altas temperaturas en Tecate",
-        "summary": "Autoridades emiten aviso por onda de calor en la región.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/municipios/179760_alertan_por_altas_temperaturas_en_tecate",
-        "_added_at": "2026-07-31T02:13:10.125861-07:00"
-      },
-      {
-        "title": "Tarjeta Violeta genera masiva afluencia de solicitudes",
-        "summary": "Demanda considerable de mujeres por registro del programa de protección.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/piden-a-mujeres-mantener-la-calma-ante-gran-afluencia-por-registro-de-la-tarjeta-violeta/",
-        "_added_at": "2026-07-31T02:13:10.125861-07:00"
       }
     ]
   },
-  "last_updated": "2026-07-31T12:45:29.968480-07:00"
+  "last_updated": "2026-07-31T15:12:01.175283-07:00"
 }
