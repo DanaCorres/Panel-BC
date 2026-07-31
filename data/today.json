@@ -1,8 +1,29 @@
 {
   "date": "2026-07-31",
-  "run_count": 3,
+  "run_count": 4,
   "notes": {
     "seguridad": [
+      {
+        "title": "Mendívil imputado por desaparición forzada y robo vehicular",
+        "summary": "Exdirector de policía de Mexicali enfrenta cargos por desaparición forzada, robo de vehículos y asociación delictuosa.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/imputan-a-mendivil-por-desaparicion-forzada-de-personas-robo-de-vehiculo-y-asociacion-delictuosa/",
+        "_added_at": "2026-07-31T12:45:29.968480-07:00"
+      },
+      {
+        "title": "Detectan 18 kilos metanfetamina ocultos en llanta de vehículo",
+        "summary": "Autoridades aseguran sustancia en operativo contra narcotráfico en Baja California.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/179793_detectan_caso_de_mula_ciega_ocultan_18_kilos_de_metanfetamina_en_una_llanta",
+        "_added_at": "2026-07-31T12:45:29.968480-07:00"
+      },
+      {
+        "title": "Ejecutan a mujer a tiros en Ciudad Jardín esta madrugada",
+        "summary": "Homicidio registrado en zona de Tijuana durante madrugada.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/179795_ejecutan_a_tiros_a_una_mujer_esta_madrugada_en_ciudad_jardin",
+        "_added_at": "2026-07-31T12:45:29.968480-07:00"
+      },
       {
         "title": "R1 ordenó asesinatos de Manzo e influencer Valeria",
         "summary": "Autoridades revelan que R1 ordenó matar a Carlos Manzo y la influencer Valeria Márquez; Mencho conocía del plan.",
@@ -51,16 +72,16 @@
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/07/detienen-a-dos-en-tijuana-por-robo-de-dinero-con-el-uso-de-marketplace/",
         "_added_at": "2026-07-31T02:13:10.125861-07:00"
-      },
-      {
-        "title": "Cifra de desaparecidos en BC alcanza 21 mil",
-        "summary": "Eddy Carrillo reporta alarmante cantidad de personas desaparecidas en la entidad.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179761_cifra_de_desaparecidos_en_bc_es_de_alrededor_de_21_mil_personas_eddy_carrillo",
-        "_added_at": "2026-07-31T02:13:10.125861-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Ruffo Appel bajo investigación por caso Blancornelas",
+        "summary": "FGR evalúa posible proceso contra exgobernador relacionado con asesinato de periodista.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Nacional/97475/Sheinbaum-deja-en-manos-de-la-FGR-posible-investigaci%C3%B3n-contra-Ernesto-Ruffo-Appel-por-caso-Jes%C3%BAs-Blancornelas",
+        "_added_at": "2026-07-31T12:45:29.968480-07:00"
+      },
       {
         "title": "Cambios en divorcios, pensiones y custodias en BC",
         "summary": "Nuevo modelo de justicia modificará trámites de divorcios, pensiones y custodias.",
@@ -113,6 +134,13 @@
     ],
     "economia": [
       {
+        "title": "Refuerzan estrategias contra robo vehicular en Mexicali",
+        "summary": "DPSM y policía de San Diego capacitan en uso de drones para combatir sustracción de vehículos.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97448/Refuerzan-estrategias-contra-robo-de-veh%C3%ADculos-DPSM-y-polic%C3%ADa-de-San-Diego",
+        "_added_at": "2026-07-31T12:45:29.968480-07:00"
+      },
+      {
         "title": "Maquiladoras de Tijuana incrementan exportaciones 2.6 por ciento",
         "summary": "Sector maquilador registra crecimiento en ventas al extranjero durante período reciente.",
         "source": "AFN Tijuana",
@@ -142,6 +170,34 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Taller artes visuales para personas con espectro autista",
+        "summary": "Impartirán actividad artística enfocada en inclusión en Tijuana.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/impartiran-taller-de-artes-visuales-para-personas-con-el-espectro-autista/",
+        "_added_at": "2026-07-31T12:45:29.968480-07:00"
+      },
+      {
+        "title": "Evacuación en Ensenada por gases tóxicos detectados",
+        "summary": "Desalojan plaza Transpeninsular y negocios por fuerte olor tóxico en la zona.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Ensenada/97480/Evac%C3%BAan-plaza-Transpeninsular-por-fuerte-olor-a-gases-t%C3%B3xicos-en-Ensenada",
+        "_added_at": "2026-07-31T12:45:29.968480-07:00"
+      },
+      {
+        "title": "Bomberos de Rosarito reciben 70 equipos protección personal",
+        "summary": "Entregan dotación de equipo de seguridad a corporación de bomberos.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179791_entregan_70_equipos_de_proteccion_personal_a_bomberos_de_rosarito",
+        "_added_at": "2026-07-31T12:45:29.968480-07:00"
+      },
+      {
+        "title": "Proyecto Salesiano busca padrinos para niños vulnerables",
+        "summary": "Iniciativa busca patrocinadores para financiar educación de menores en situación de riesgo.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97476/Proyecto-Salesiano-busca-padrinos-para-que-ni%C3%B1as-y-ni%C3%B1os-de-escasos-recursos-o-v%C3%ADctimas-de-violencia-contin%C3%BAen-sus-estudios-en-Tijuana",
+        "_added_at": "2026-07-31T12:45:29.968480-07:00"
+      },
       {
         "title": "UNAM aplica nuevo examen por fraude con inteligencia artificial",
         "summary": "Universidad Nacional realizará examen de admisión tras detectarse fraude con IA.",
@@ -186,5 +242,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-31T09:49:54.965976-07:00"
+  "last_updated": "2026-07-31T12:45:29.968480-07:00"
 }
