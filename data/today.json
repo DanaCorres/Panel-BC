@@ -1,6 +1,6 @@
 {
   "date": "2026-08-01",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
       {
@@ -129,6 +129,13 @@
     ],
     "sociedad": [
       {
+        "title": "FGR fortalece acciones contra trata de personas",
+        "summary": "Fiscalía lleva a cabo actividades para combatir crimen de explotación en región.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/nacionales/179807_se_fortalece_la_fgr_mediante_actividades_para_combatir_la_trata_de_personas",
+        "_added_at": "2026-08-01T06:45:15.148989-07:00"
+      },
+      {
         "title": "Exalcalde César Moreno presume Cruz Roja de Tecate",
         "summary": "Funcionario anterior asume presidencia del consejo directivo de organización humanitaria.",
         "source": "ZETA Tijuana",
@@ -158,5 +165,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-01T03:45:08.915513-07:00"
+  "last_updated": "2026-08-01T06:45:15.148989-07:00"
 }
