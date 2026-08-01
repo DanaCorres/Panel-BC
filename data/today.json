@@ -1,8 +1,29 @@
 {
   "date": "2026-08-01",
-  "run_count": 4,
+  "run_count": 5,
   "notes": {
     "seguridad": [
+      {
+        "title": "Sacerdote recibe 21 años por abuso sexual en Tijuana",
+        "summary": "Condenado a dos décadas de cárcel por abuso sexual contra una religiosa en la entidad.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97509/Dan-21-a%C3%B1os-de-c%C3%A1rcel-a-sacerdote-por-abuso-sexual-contra-religiosa-en-Tijuana",
+        "_added_at": "2026-08-01T12:21:05.533833-07:00"
+      },
+      {
+        "title": "Hombre asesinado a balazos en colonia El Florido",
+        "summary": "Víctima fue baleada en zona residencial de Tijuana durante enfrentamiento.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/179824_asesinan_a_balazos_a_un_hombre_en_el_florido_horoscopo",
+        "_added_at": "2026-08-01T12:21:05.533833-07:00"
+      },
+      {
+        "title": "Adulto mayor herido por disparo en El Florido",
+        "summary": "Persona de edad avanzada recibió impactos de bala; reportado en estado grave.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/179822_disparan_contra_un_adulto_mayor_en_el_florido_lo_reportan_grave",
+        "_added_at": "2026-08-01T12:21:05.533833-07:00"
+      },
       {
         "title": "Coronas fúnebres en Rosarito no constituyen delito",
         "summary": "Fiscal Mandujano descarta investigación penal por coronas dejadas en Rosarito, confirma tributo.",
@@ -51,16 +72,30 @@
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/07/dan-lectura-formal-a-sentencia-de-21-anos-contra-sacerdote-acusado-de-violacion/",
         "_added_at": "2026-08-01T01:31:31.648892-07:00"
-      },
-      {
-        "title": "Audiencia contra agentes por desaparición forzada en Mexicali",
-        "summary": "Proceso judicial avanza contra funcionarios policiales acusados de desapariciones.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97506/Audiencia-contra-agentes-acusados-a-desaparici%C3%B3n,-es-una-se%C3%B1al-de-justicia%3A-Aleida-Lim%C3%B3n",
-        "_added_at": "2026-08-01T01:31:31.648892-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Eligio Valencia López asume presidencia del Congreso local",
+        "summary": "Nuevo presidente de la Mesa Directiva del Congreso del estado para período agosto-noviembre.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/97508/Diputado-Eligio-Valencia-L%C3%B3pez-es-el-nuevo-presidente-de-la-Mesa-directiva-del-Congeso-del-estado",
+        "_added_at": "2026-08-01T12:21:05.533833-07:00"
+      },
+      {
+        "title": "Primera mujer encabeza coordinación de la FESC en Mexicali",
+        "summary": "Itsela Meza asume dirección de Fiscalía Estatal, reemplazando a Rosiles y Reyes Mejorada.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97513/Itsela-Meza,-primer-mujer-que-asume-el-mando-de-la-FESC",
+        "_added_at": "2026-08-01T12:21:05.533833-07:00"
+      },
+      {
+        "title": "Autoridades investigan desaparición forzada en Mexicali",
+        "summary": "Audiencia contra agentes acusados marca avance en investigación de caso de desaparición.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97506/Audiencia-contra-agentes-acusados-a-desaparici%C3%B3n,-es-una-se%C3%B1al-de-justicia%3A-Aleida-Lim%C3%B3n",
+        "_added_at": "2026-08-01T12:21:05.533833-07:00"
+      },
       {
         "title": "Eligio Valencia López asume presidencia del Congreso local",
         "summary": "Diputado toma el cargo de presidente de la Mesa Directiva del Congreso del estado.",
@@ -113,6 +148,13 @@
     ],
     "economia": [
       {
+        "title": "Coparmex alerta sobre conflictos que frenan inversión",
+        "summary": "Cámara empresarial preocupada porque Baja California destaca por conflictividad, no oportunidades.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179823_preocupa_a_coparmex_que_baja_california_destaque_por_conflictos_y_no_por_inversiones",
+        "_added_at": "2026-08-01T12:21:05.533833-07:00"
+      },
+      {
         "title": "Ensenada segundo puerto del Pacífico con más cruceros",
         "summary": "Puerto ensenadeño consolida posición importante en arribo de cruceros turísticos del Pacífico.",
         "source": "AFN Tijuana",
@@ -156,6 +198,20 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Cruz Roja Tijuana invierte 23 mdp en equipamiento médico",
+        "summary": "Institución instala tomógrafo, quirófano y nuevo banco de sangre para mejorar servicios.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/cruz-roja-de-tijuana-invierte-23-mdp-en-tomografo-quirofano-y-nuevo-banco-de-sangre/",
+        "_added_at": "2026-08-01T12:21:05.533833-07:00"
+      },
+      {
+        "title": "Ofrecen función de cine a menores en situación vulnerable",
+        "summary": "Actividad busca brindar entretenimiento y apoyo a niños en condiciones de riesgo social.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179828_ofrecen_funcion_de_cine_a_menores_en_situacion_vulnerable",
+        "_added_at": "2026-08-01T12:21:05.533833-07:00"
+      },
       {
         "title": "Madre celebra avances en caso de hijo desaparecido hace cuatro años",
         "summary": "Familiar reporta progreso investigativo en búsqueda de joven tras años sin avances.",
@@ -214,5 +270,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-01T09:07:12.328519-07:00"
+  "last_updated": "2026-08-01T12:21:05.533833-07:00"
 }
