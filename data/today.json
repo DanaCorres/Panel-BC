@@ -1,8 +1,29 @@
 {
   "date": "2026-08-01",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Segundo detenido en caso de desaparición de Jhosue Romo",
+        "summary": "Autoridades capturan a segundo implicado en investigación de desaparición ocurrida en Tijuana.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/detienen-a-segundo-implicado-en-el-caso-de-la-desaparicion-de-jhosue-romo-limon/?utm_source=rss&utm_medium=rss&utm_campaign=detienen-a-segundo-implicado-en-el-caso-de-la-desaparicion-de-jhosue-romo-limon",
+        "_added_at": "2026-08-01T03:45:08.915513-07:00"
+      },
+      {
+        "title": "Sentencia de 21 años contra sacerdote por violación",
+        "summary": "Juzgado da lectura formal a condena contra clérigo acusado de abuso sexual en Baja California.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/dan-lectura-formal-a-sentencia-de-21-anos-contra-sacerdote-acusado-de-violacion/?utm_source=rss&utm_medium=rss&utm_campaign=dan-lectura-formal-a-sentencia-de-21-anos-contra-sacerdote-acusado-de-violacion",
+        "_added_at": "2026-08-01T03:45:08.915513-07:00"
+      },
+      {
+        "title": "Madre ve avances en caso de hijo desaparecido tras cuatro años",
+        "summary": "Familia reporta progreso en investigación de desaparición en Tijuana después de larga espera.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179812_madre_de_joven_desaparecido_ve_avances_en_el_caso_despues_de_cuatro_anos",
+        "_added_at": "2026-08-01T03:45:08.915513-07:00"
+      },
       {
         "title": "Detienen segundo implicado en desaparición de Jhosue Romo",
         "summary": "Autoridades capturan a otro sospechoso vinculado al caso de desaparición que mantiene en investigación.",
@@ -35,6 +56,27 @@
     "politica": [
       {
         "title": "Proceso electoral federal inicia el 10 de septiembre",
+        "summary": "INE anuncia cronograma oficial para comicios federales en México durante este año.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/proceso-electoral-federal-arrancara-el-10-de-septiembre-ine-da-a-conocer-fechas/?utm_source=rss&utm_medium=rss&utm_campaign=proceso-electoral-federal-arrancara-el-10-de-septiembre-ine-da-a-conocer-fechas",
+        "_added_at": "2026-08-01T03:45:08.915513-07:00"
+      },
+      {
+        "title": "Bustamante defiende nombramiento de Mendívil como jefe policial",
+        "summary": "Gobernadora sostiene decisión de nombrar director de seguridad pese a cuestionamientos públicos.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/norma-bustamante-no-se-arrepiente-de-haber-nombrado-a-mendivil-como-director-de-la-policia/?utm_source=rss&utm_medium=rss&utm_campaign=norma-bustamante-no-se-arrepiente-de-haber-nombrado-a-mendivil-como-director-de-la-policia",
+        "_added_at": "2026-08-01T03:45:08.915513-07:00"
+      },
+      {
+        "title": "Ejército pidió a Bustamante denunciar a Mendívil para detenerlo",
+        "summary": "Gobernadora reconoce que institución castrense le solicitó acciones legales contra funcionario.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179811_reconoce_norma_bustamante_que_el_ejercito_le_pidio_denunciar_a_mendivil_para_detenerlo",
+        "_added_at": "2026-08-01T03:45:08.915513-07:00"
+      },
+      {
+        "title": "Proceso electoral federal inicia el 10 de septiembre",
         "summary": "INE establece fechas oficiales para el inicio de campaña electoral 2026.",
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/07/proceso-electoral-federal-arrancara-el-10-de-septiembre-ine-da-a-conocer-fechas/",
@@ -58,6 +100,20 @@
     "economia": [
       {
         "title": "Cruz Roja invierte 23 millones en equipamiento médico",
+        "summary": "Institución inaugura tomógrafo, quirófano y banco de sangre nuevos en Tijuana.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/cruz-roja-de-tijuana-invierte-23-mdp-en-tomografo-quirofano-y-nuevo-banco-de-sangre/?utm_source=rss&utm_medium=rss&utm_campaign=cruz-roja-de-tijuana-invierte-23-mdp-en-tomografo-quirofano-y-nuevo-banco-de-sangre",
+        "_added_at": "2026-08-01T03:45:08.915513-07:00"
+      },
+      {
+        "title": "Canaco revisa comercios afectados por apagones",
+        "summary": "Cámara de Comercio inspecciona daños en equipos de negocios por interrupciones eléctricas.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179801_revisa_la_canaco_comercios_con_equipos_afectados_por_apagones",
+        "_added_at": "2026-08-01T03:45:08.915513-07:00"
+      },
+      {
+        "title": "Cruz Roja invierte 23 millones en equipamiento médico",
         "summary": "Institución adquiere tomógrafo, quirófano y banco de sangre para Tijuana.",
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/07/cruz-roja-de-tijuana-invierte-23-mdp-en-tomografo-quirofano-y-nuevo-banco-de-sangre/",
@@ -72,6 +128,13 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Exalcalde César Moreno presume Cruz Roja de Tecate",
+        "summary": "Funcionario anterior asume presidencia del consejo directivo de organización humanitaria.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/revive-exalcalde-cesar-moreno-ahora-presidira-la-cruz-roja-de-tecate/?utm_source=rss&utm_medium=rss&utm_campaign=revive-exalcalde-cesar-moreno-ahora-presidira-la-cruz-roja-de-tecate",
+        "_added_at": "2026-08-01T03:45:08.915513-07:00"
+      },
       {
         "title": "Realizan 5,300 cirugías de cataratas en Mexicali",
         "summary": "Secretaría de Salud ejecuta programa masivo de atención oftalmológica.",
@@ -95,5 +158,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-01T01:31:31.648892-07:00"
+  "last_updated": "2026-08-01T03:45:08.915513-07:00"
 }
