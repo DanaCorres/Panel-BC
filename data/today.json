@@ -1,8 +1,15 @@
 {
   "date": "2026-08-01",
-  "run_count": 3,
+  "run_count": 4,
   "notes": {
     "seguridad": [
+      {
+        "title": "Coronas fúnebres en Rosarito no constituyen delito",
+        "summary": "Fiscal Mandujano descarta investigación penal por coronas dejadas en Rosarito, confirma tributo.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/dejan-coronas-funebres-en-rosarito-no-se-presume-ningun-delito-fue-un-tributo-fiscal-mandujano/",
+        "_added_at": "2026-08-01T09:07:12.328519-07:00"
+      },
       {
         "title": "Segundo detenido en caso de desaparición de Jhosue Romo",
         "summary": "Autoridades capturan a segundo implicado en investigación de desaparición ocurrida en Tijuana.",
@@ -55,6 +62,13 @@
     ],
     "politica": [
       {
+        "title": "Eligio Valencia López asume presidencia del Congreso local",
+        "summary": "Diputado toma el cargo de presidente de la Mesa Directiva del Congreso del estado.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179818_asume_eligio_valencia_lopez_presidencia_del_congreso_local",
+        "_added_at": "2026-08-01T09:07:12.328519-07:00"
+      },
+      {
         "title": "Proceso electoral federal inicia el 10 de septiembre",
         "summary": "INE anuncia cronograma oficial para comicios federales en México durante este año.",
         "source": "ZETA Tijuana",
@@ -99,6 +113,20 @@
     ],
     "economia": [
       {
+        "title": "Ensenada segundo puerto del Pacífico con más cruceros",
+        "summary": "Puerto ensenadeño consolida posición importante en arribo de cruceros turísticos del Pacífico.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/empresarial/179814_ensenada_segundo_lugar_del_pacifico_con_mas_arribos_de_cruceros",
+        "_added_at": "2026-08-01T09:07:12.328519-07:00"
+      },
+      {
+        "title": "Federación destina 190 mdp para seguridad en BC",
+        "summary": "Gobierno federal asigna recursos para fortalecer labores de seguridad pública estatal.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/empresarial/179813_federacion_destino_190_mdp_para_seguridad_publica_en_bc",
+        "_added_at": "2026-08-01T09:07:12.328519-07:00"
+      },
+      {
         "title": "Cruz Roja invierte 23 millones en equipamiento médico",
         "summary": "Institución inaugura tomógrafo, quirófano y banco de sangre nuevos en Tijuana.",
         "source": "ZETA Tijuana",
@@ -128,6 +156,27 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Madre celebra avances en caso de hijo desaparecido hace cuatro años",
+        "summary": "Familiar reporta progreso investigativo en búsqueda de joven tras años sin avances.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179812_madre_de_joven_desaparecido_ve_avances_en_el_caso_despues_de_cuatro_anos",
+        "_added_at": "2026-08-01T09:07:12.328519-07:00"
+      },
+      {
+        "title": "Sindicatura supervisa operación de Unidades Médicas Preventivas",
+        "summary": "Organismo realiza inspección a clínicas municipales para verificar calidad de servicios.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/municipios/179809_supervisa_sindicatura_la_operacion_de_las_unidades_medicas_preventivas",
+        "_added_at": "2026-08-01T09:07:12.328519-07:00"
+      },
+      {
+        "title": "Exalcalde César Moreno preside Cruz Roja Tecate",
+        "summary": "Designan a antiguo funcionario municipal como presidente del consejo directivo.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179808_nombran_a_exalcalde_cesar_moreno_presidente_del_consejo_directivo_de_la_cruz_roja_tecate",
+        "_added_at": "2026-08-01T09:07:12.328519-07:00"
+      },
       {
         "title": "FGR fortalece acciones contra trata de personas",
         "summary": "Fiscalía lleva a cabo actividades para combatir crimen de explotación en región.",
@@ -165,5 +214,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-01T06:45:15.148989-07:00"
+  "last_updated": "2026-08-01T09:07:12.328519-07:00"
 }
