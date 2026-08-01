@@ -1,8 +1,29 @@
 {
   "date": "2026-08-01",
-  "run_count": 5,
+  "run_count": 6,
   "notes": {
     "seguridad": [
+      {
+        "title": "Dos sujetos vinculados por robo armado de vehículo en Rosarito",
+        "summary": "Autoridades vinculan a dos individuos por robo violento de automóvil en Rosarito.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97517/Vinculan-a-dos-sujetos-por-violento-robo-de-auto-en-Rosarito",
+        "_added_at": "2026-08-01T15:02:26.412963-07:00"
+      },
+      {
+        "title": "Capturan a tres por posesión de drogas en operativos SSPCM",
+        "summary": "Operativos de seguridad Estatal resultan en captura de tres personas con marihuana y cristal.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97521/Caen-tres-con-marihuana-y-cristal-en-operativos-SSPCM",
+        "_added_at": "2026-08-01T15:02:26.412963-07:00"
+      },
+      {
+        "title": "Muere reparador embestido por vehículo en Tijuana",
+        "summary": "Hombre fallece tras ser golpeado por camioneta mientras realizaba reparaciones.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/179825_muere_un_hombre_tras_ser_embestido_cuando_reparaba_una_camioneta",
+        "_added_at": "2026-08-01T15:02:26.412963-07:00"
+      },
       {
         "title": "Sacerdote recibe 21 años por abuso sexual en Tijuana",
         "summary": "Condenado a dos décadas de cárcel por abuso sexual contra una religiosa en la entidad.",
@@ -51,30 +72,16 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/179812_madre_de_joven_desaparecido_ve_avances_en_el_caso_despues_de_cuatro_anos",
         "_added_at": "2026-08-01T03:45:08.915513-07:00"
-      },
-      {
-        "title": "Detienen segundo implicado en desaparición de Jhosue Romo",
-        "summary": "Autoridades capturan a otro sospechoso vinculado al caso de desaparición que mantiene en investigación.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/detienen-a-segundo-implicado-en-el-caso-de-la-desaparicion-de-jhosue-romo-limon/",
-        "_added_at": "2026-08-01T01:31:31.648892-07:00"
-      },
-      {
-        "title": "Exdirector de Policía Mexicali y agentes en prisión preventiva",
-        "summary": "Funcionarios policiales quedan recluidos por presunta desaparición forzada y asociación delictuosa.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97467/Ex-director-de-polic%C3%ADa-de-Mexicali-y-ex-agentes-quedan-en-prisi%C3%B3n-preventiva",
-        "_added_at": "2026-08-01T01:31:31.648892-07:00"
-      },
-      {
-        "title": "Sentencian a sacerdote a 21 años por violación",
-        "summary": "Se da lectura formal de condena contra clérigo acusado de abuso sexual.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/dan-lectura-formal-a-sentencia-de-21-anos-contra-sacerdote-acusado-de-violacion/",
-        "_added_at": "2026-08-01T01:31:31.648892-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Sindicatura investiga servidores públicos en Tijuana",
+        "summary": "Dependencia inicia pesquisa contra funcionarios locales por señalamientos recibidos.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179832_investiga_sindicatura_senalamientos_contra_servidores_publicos_en_tijuana",
+        "_added_at": "2026-08-01T15:02:26.412963-07:00"
+      },
       {
         "title": "Eligio Valencia López asume presidencia del Congreso local",
         "summary": "Nuevo presidente de la Mesa Directiva del Congreso del estado para período agosto-noviembre.",
@@ -137,16 +144,16 @@
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/07/norma-bustamante-no-se-arrepiente-de-haber-nombrado-a-mendivil-como-director-de-la-policia/",
         "_added_at": "2026-08-01T01:31:31.648892-07:00"
-      },
-      {
-        "title": "Depuración en Morena continúa con expulsiones",
-        "summary": "Partido morenista sigue removiendo afiliados durante proceso interno de limpieza.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/afn_politico/179810_hacen_depuracion_en_morena_y_siguen_los_punteros",
-        "_added_at": "2026-08-01T01:31:31.648892-07:00"
       }
     ],
     "economia": [
+      {
+        "title": "Proponen ampliar acceso a Playas para reducir congestionamiento",
+        "summary": "Proyecto de tres carriles busca mejorar flujo vial hacia zona de playas en Tijuana.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179826_proponen_ampliar_a_tres_carriles_el_acceso_a_playas_para_reducir_congestionamiento",
+        "_added_at": "2026-08-01T15:02:26.412963-07:00"
+      },
       {
         "title": "Coparmex alerta sobre conflictos que frenan inversión",
         "summary": "Cámara empresarial preocupada porque Baja California destaca por conflictividad, no oportunidades.",
@@ -198,6 +205,20 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Se abre nuevo centro de hidratación Padre Chava en Tijuana",
+        "summary": "Inauguran punto de desayunador para apoyar a población vulnerable en la ciudad.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97520/Abren-punto-de-hidrataci%C3%B3n-desayunador-Padre-Chava",
+        "_added_at": "2026-08-01T15:02:26.412963-07:00"
+      },
+      {
+        "title": "Celebran 66 aniversario de Policía Juvenil de Tijuana",
+        "summary": "Alcalde Abdiel Gutiérrez encabeza conmemoración de institución dedicada a menores.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97519/Encabeza-alcalde-Abdiel-Guti%C3%A9rrez-el-66-Aniversario-de-la-Polic%C3%ADa-Juvenil-de-Tijuana",
+        "_added_at": "2026-08-01T15:02:26.412963-07:00"
+      },
       {
         "title": "Cruz Roja Tijuana invierte 23 mdp en equipamiento médico",
         "summary": "Institución instala tomógrafo, quirófano y nuevo banco de sangre para mejorar servicios.",
@@ -253,22 +274,8 @@
         "source": "El Mexicano",
         "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97491/Realizan-5-mil-300-cirug%C3%ADas-de-cataratas",
         "_added_at": "2026-08-01T01:31:31.648892-07:00"
-      },
-      {
-        "title": "Exalcalde César Moreno preside Cruz Roja de Tecate",
-        "summary": "Funcionario anterior asume liderazgo en consejo directivo de institución.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/revive-exalcalde-cesar-moreno-ahora-presidira-la-cruz-roja-de-tecate/",
-        "_added_at": "2026-08-01T01:31:31.648892-07:00"
-      },
-      {
-        "title": "Proyecto Salesiano busca padrinos para educación infantil",
-        "summary": "Iniciativa civil convoca a personas para apadrinar estudiantes.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/comunidad/179805_proyecto_salesiano_pide_apadrinar_a_ninos_en_su_educacion",
-        "_added_at": "2026-08-01T01:31:31.648892-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-01T12:21:05.533833-07:00"
+  "last_updated": "2026-08-01T15:02:26.412963-07:00"
 }
