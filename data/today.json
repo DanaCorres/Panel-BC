@@ -1,8 +1,29 @@
 {
   "date": "2026-07-31",
-  "run_count": 5,
+  "run_count": 6,
   "notes": {
     "seguridad": [
+      {
+        "title": "Capturan segundo involucrado en desaparición de Jhosue Romo",
+        "summary": "Autoridades detienen a segundo implicado en caso de desaparición de persona en Tijuana.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/detienen-a-segundo-implicado-en-el-caso-de-la-desaparicion-de-jhosue-romo-limon/?utm_source=rss&utm_medium=rss&utm_campaign=detienen-a-segundo-implicado-en-el-caso-de-la-desaparicion-de-jhosue-romo-limon",
+        "_added_at": "2026-07-31T20:40:12.372114-07:00"
+      },
+      {
+        "title": "Sacerdote condenado a 21 años por violación",
+        "summary": "Sentencia formal contra sacerdote acusado de violación en Baja California.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/dan-lectura-formal-a-sentencia-de-21-anos-contra-sacerdote-acusado-de-violacion/?utm_source=rss&utm_medium=rss&utm_campaign=dan-lectura-formal-a-sentencia-de-21-anos-contra-sacerdote-acusado-de-violacion",
+        "_added_at": "2026-07-31T20:40:12.372114-07:00"
+      },
+      {
+        "title": "Explosión lesiona a menor al manipular cartucho",
+        "summary": "Accidente en Baja California deja herido a niño durante manipulación de munición.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97501/Manipulaba-un-cartucho-para-convertirlo-en-llavero;-explosi%C3%B3n-lesiona-a-su-sobrino",
+        "_added_at": "2026-07-31T20:40:12.372114-07:00"
+      },
       {
         "title": "Mendívil imputado por desaparición forzada y robo vehicular",
         "summary": "Exdirector de policía de Mexicali enfrenta cargos por desaparición forzada, robo de vehículos y asociación delictuosa.",
@@ -51,30 +72,37 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/seguridad/179762_dejan_restos_humanos_y_una_narcomanta_en_cancha_de_futbol_de_la_colonia_reforma",
         "_added_at": "2026-07-31T07:27:19.727733-07:00"
-      },
-      {
-        "title": "Hallan restos humanos con narcomanta en Reforma",
-        "summary": "Descubrimiento de restos humanos junto a mensaje amenazante en cancha de futbol de colonia Reforma en Tijuana.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/hallan-restos-humanos-y-mensaje-amenazante-en-la-colonia-reforma/",
-        "_added_at": "2026-07-31T02:13:10.125861-07:00"
-      },
-      {
-        "title": "Capturan al \"R1\" por asesinato de Carlos Manzo",
-        "summary": "Fuerzas federales detienen presunto autor intelectual del homicidio del político en Tijuana.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/fuerzas-federales-detienen-al-r1-supuesto-autor-intelectual-del-asesinato-de-carlos-manzo/",
-        "_added_at": "2026-07-31T02:13:10.125861-07:00"
-      },
-      {
-        "title": "Detienen a dos por estafas en Marketplace",
-        "summary": "Captura de presuntos delincuentes que robaban dinero usando plataforma de venta en línea.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/detienen-a-dos-en-tijuana-por-robo-de-dinero-con-el-uso-de-marketplace/",
-        "_added_at": "2026-07-31T02:13:10.125861-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "INE anuncia inicio de proceso electoral federal para septiembre",
+        "summary": "Autoridad electoral establece fechas para próximo proceso electoral federal en México.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/proceso-electoral-federal-arrancara-el-10-de-septiembre-ine-da-a-conocer-fechas/?utm_source=rss&utm_medium=rss&utm_campaign=proceso-electoral-federal-arrancara-el-10-de-septiembre-ine-da-a-conocer-fechas",
+        "_added_at": "2026-07-31T20:40:12.372114-07:00"
+      },
+      {
+        "title": "Bustamante defiende nombramiento de Mendívil como director policía",
+        "summary": "Alcaldesa de Tijuana respalda su decisión de designar nuevo director de seguridad.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/norma-bustamante-no-se-arrepiente-de-haber-nombrado-a-mendivil-como-director-de-la-policia/?utm_source=rss&utm_medium=rss&utm_campaign=norma-bustamante-no-se-arrepiente-de-haber-nombrado-a-mendivil-como-director-de-la-policia",
+        "_added_at": "2026-07-31T20:40:12.372114-07:00"
+      },
+      {
+        "title": "Exalcalde César Moreno presidirá Cruz Roja de Tecate",
+        "summary": "Antiguo presidente municipal asume liderazgo en consejo directivo de institución humanitaria.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/revive-exalcalde-cesar-moreno-ahora-presidira-la-cruz-roja-de-tecate/?utm_source=rss&utm_medium=rss&utm_campaign=revive-exalcalde-cesar-moreno-ahora-presidira-la-cruz-roja-de-tecate",
+        "_added_at": "2026-07-31T20:40:12.372114-07:00"
+      },
+      {
+        "title": "Morena realiza depuración interna en Tijuana",
+        "summary": "Partido político continúa procesos de reestructuración en Baja California.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/afn_politico/179810_hacen_depuracion_en_morena_y_siguen_los_punteros",
+        "_added_at": "2026-07-31T20:40:12.372114-07:00"
+      },
       {
         "title": "PRI rechaza aprobación de Morena a cuenta de Armando Ayala",
         "summary": "Partido opositor cuestiona decisión de Morena sobre cuentas del funcionario en disputa política.",
@@ -116,37 +144,23 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/179774_la_crisis_politica_de_bc_llega_a_semanario_catolico_de_guadalajara",
         "_added_at": "2026-07-31T07:27:19.727733-07:00"
-      },
-      {
-        "title": "Oposición busca frente común contra Morena",
-        "summary": "Dirigente del PRI convoca a partidos opositores para enfrentar al gobierno de Morena.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179765_dirigente_del_pri_llama_a_la_oposicion_a_un_frente_comun_contra_morena_y_acusa_al_ine",
-        "_added_at": "2026-07-31T07:27:19.727733-07:00"
-      },
-      {
-        "title": "Audiencia del exdirector de Seguridad supera 30 horas",
-        "summary": "Proceso judicial contra exjefe policiaco de Mexicali continúa con sesiones prolongadas.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179768_supera_las_30_horas_la_audiencia_en_contra_del_exdirector_de_seguridad_publica_en_mexicali",
-        "_added_at": "2026-07-31T02:13:10.125861-07:00"
-      },
-      {
-        "title": "PRI denuncia posible uso político en detención",
-        "summary": "Dirigente Ruiz Uribe sugiere motivaciones políticas en captura de exjefe policiaco.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179767_ruiz_uribe_sugiere_posible_uso_politico_en_detencion_de_exjefe_policiaco_de_mexicali",
-        "_added_at": "2026-07-31T02:13:10.125861-07:00"
-      },
-      {
-        "title": "PRI BC preocupado por sanción a \"Alito\" Moreno",
-        "summary": "Dirigencia estatal rechaza disciplina contra líder nacional por críticas a Morena.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179766_preocupa_al_pri_bc_sancion_a_alito_moreno_por_criticas_a_morena",
-        "_added_at": "2026-07-31T02:13:10.125861-07:00"
       }
     ],
     "economia": [
+      {
+        "title": "Colegio de contadores recomienda regularizar documentos ante SAT",
+        "summary": "Especialistas advierten sobre revisiones tributarias en Mexicali y sugieren tener papelería en orden.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97489/Ante-revisiones-del-SAT,-colegio-de-contadores-recomienda-tener-documentos-en-regla",
+        "_added_at": "2026-07-31T20:40:12.372114-07:00"
+      },
+      {
+        "title": "Especialista alerta sobre riesgos en canalización del Río Tijuana",
+        "summary": "Modificaciones al cauce del río generarían problemas estructurales según análisis técnico.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/07/modificar-la-canalizacion-del-rio-tijuana-generaria-riesgos-estructurales-especialista/?utm_source=rss&utm_medium=rss&utm_campaign=modificar-la-canalizacion-del-rio-tijuana-generaria-riesgos-estructurales-especialista",
+        "_added_at": "2026-07-31T20:40:12.372114-07:00"
+      },
       {
         "title": "Canaco revisa comercios afectados por apagones recientes",
         "summary": "Cámara de comercio inspeccionan daños a negocios por cortes de electricidad en región.",
@@ -199,6 +213,34 @@
     ],
     "sociedad": [
       {
+        "title": "Mujeres lideran ocupación laboral en Mexicali",
+        "summary": "Fuerza laboral femenina destaca por eficiencia y organización en capital estatal.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97487/Mujeres-lideran-ocupaci%C3%B3n-laboral-en-Mexicali",
+        "_added_at": "2026-07-31T20:40:12.372114-07:00"
+      },
+      {
+        "title": "Cruz Roja inaugura instalaciones médicas con inversión de 23 mdp",
+        "summary": "Organización humanitaria abre nuevas facilidades de salud en Baja California.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/municipios/179799_inaugura_la_cruz_roja_instalaciones_medicas_con_inversion_de_23_mdp",
+        "_added_at": "2026-07-31T20:40:12.372114-07:00"
+      },
+      {
+        "title": "Proyecto Salesiano solicita padrinos para educación de niños",
+        "summary": "Iniciativa de apoyo educativo busca voluntarios para apadrinar menores en Baja California.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/comunidad/179805_proyecto_salesiano_pide_apadrinar_a_ninos_en_su_educacion",
+        "_added_at": "2026-07-31T20:40:12.372114-07:00"
+      },
+      {
+        "title": "Ola de calor eleva sensación térmica en Tijuana",
+        "summary": "Autoridades alertan sobre condiciones climáticas extremas e insisten en hidratación.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97498/Calor-y-humedad-elevan-la-sensaci%C3%B3n-t%C3%A9rmica-en-Tijuana;-autoridades-llaman-a-mantenerse-hidratados",
+        "_added_at": "2026-07-31T20:40:12.372114-07:00"
+      },
+      {
         "title": "Cruz Roja inaugura instalaciones médicas con inversión de 23 mdp",
         "summary": "Tijuana cuenta con nuevo banco de sangre, quirófano y tomógrafo para atención ciudadana.",
         "source": "El Mexicano",
@@ -239,36 +281,8 @@
         "source": "El Mexicano",
         "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97476/Proyecto-Salesiano-busca-padrinos-para-que-ni%C3%B1as-y-ni%C3%B1os-de-escasos-recursos-o-v%C3%ADctimas-de-violencia-contin%C3%BAen-sus-estudios-en-Tijuana",
         "_added_at": "2026-07-31T12:45:29.968480-07:00"
-      },
-      {
-        "title": "UNAM aplica nuevo examen por fraude con inteligencia artificial",
-        "summary": "Universidad Nacional realizará examen de admisión tras detectarse fraude con IA.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/unam-aplicara-un-nuevo-examen-de-admision-a-licenciatura-tras-fraude-con-ia/",
-        "_added_at": "2026-07-31T09:49:54.965976-07:00"
-      },
-      {
-        "title": "Inicia proyecto de señalética turística en Tijuana",
-        "summary": "Mejora de infraestructura informativa en avenida Revolución y El Chaparral.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179773_inicia_proyecto_de_senaletica_turistica_en_la_avenida_revolucion_y_el_chaparral",
-        "_added_at": "2026-07-31T07:27:19.727733-07:00"
-      },
-      {
-        "title": "31 parejas formalizan matrimonios igualitarios",
-        "summary": "Ceremonia en Tijuana donde parejas LGBTTTIQANB+ legalizan sus uniones.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97458/31-parejas-formalizan-su-uni%C3%B3n-en-Matrimonios-Igualitarios-LGBTTTIQANBmas-2026",
-        "_added_at": "2026-07-31T02:13:10.125861-07:00"
-      },
-      {
-        "title": "Llegan familias desplazadas de Guerrero a Tijuana",
-        "summary": "Personas huyen de violencia criminal en estado vecino buscando refugio.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179757_llegan_a_tijuana_familias_desplazadas_por_el_narco_en_guerrero",
-        "_added_at": "2026-07-31T02:13:10.125861-07:00"
       }
     ]
   },
-  "last_updated": "2026-07-31T15:12:01.175283-07:00"
+  "last_updated": "2026-07-31T20:40:12.372114-07:00"
 }
