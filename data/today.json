@@ -1,8 +1,29 @@
 {
   "date": "2026-08-02",
-  "run_count": 4,
+  "run_count": 5,
   "notes": {
     "seguridad": [
+      {
+        "title": "Presunto intelectual de homicidio recibe prisión preventiva",
+        "summary": "El R1, acusado de ser autor intelectual del asesinato de Carlos Manzo, fue vinculado a proceso con prisión preventiva en Tijuana.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/el-r1-presunto-autor-intelectual-del-homicidio-de-carlos-manzo-recibe-prision-preventiva/?utm_source=rss&utm_medium=rss&utm_campaign=el-r1-presunto-autor-intelectual-del-homicidio-de-carlos-manzo-recibe-prision-preventiva",
+        "_added_at": "2026-08-02T12:22:00.872986-07:00"
+      },
+      {
+        "title": "Narcobloqueos y quema de vehículos en respuesta a captura",
+        "summary": "Arresto de La Quiringua desata narcobloqueos y actos de vandalismo en carreteras de la región.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/179845_narcobloqueos_y_quema_de_vehiculos_por_detencion_de_poncho_la_quiringua",
+        "_added_at": "2026-08-02T12:22:00.872986-07:00"
+      },
+      {
+        "title": "Patrulla choca con transporte público; hay lesionado",
+        "summary": "Accidente vial entre unidad policial y camión de pasajeros deja a un policía herido en Tijuana.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/179853_choque_entre_patrulla_y_un_camion_de_transporte_publico_deja_a_un_policia_lesionado",
+        "_added_at": "2026-08-02T12:22:00.872986-07:00"
+      },
       {
         "title": "Hombre detenido en Mexicali por homicidio con arma asegurada",
         "summary": "Captura en Valle de Mexicali de sujeto con orden de aprehensión por delito grave.",
@@ -47,6 +68,13 @@
       }
     ],
     "politica": [
+      {
+        "title": "Van 13 denuncias contra funcionarios municipales en Tijuana",
+        "summary": "Instalan kiosco para reportar extorsiones en Zona Centro; acumulan trece quejas contra servidores públicos.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/van-13-denuncias-contra-funcionarios-municipales-instalan-kiosco-para-reportar-extorsiones-en-zona-centro/?utm_source=rss&utm_medium=rss&utm_campaign=van-13-denuncias-contra-funcionarios-municipales-instalan-kiosco-para-reportar-extorsiones-en-zona-centro",
+        "_added_at": "2026-08-02T12:22:00.872986-07:00"
+      },
       {
         "title": "13 denuncias contra funcionarios municipales en Tijuana",
         "summary": "Instalan kiosco en Centro para reportar extorsiones; suben acusaciones contra servidores públicos.",
@@ -99,6 +127,13 @@
     ],
     "economia": [
       {
+        "title": "Resurge turismo en avenida Revolución de Tijuana",
+        "summary": "Canirac reporta recuperación en flujo de visitantes y actividad comercial en el centro histórico.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179854_resurge_el_turismo_en_la_avenida_revolucion_canirac_tijuana",
+        "_added_at": "2026-08-02T12:22:00.872986-07:00"
+      },
+      {
         "title": "CESPT reporta 32 colonias sin agua en Tijuana",
         "summary": "Empresa de servicios reconoce abastecimiento nulo; ciudadanos denuncian 16 colonias adicionales afectadas.",
         "source": "ZETA Tijuana",
@@ -135,6 +170,13 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Vehículo cae a barranco de setenta metros en La Bufadora",
+        "summary": "Auto se despeña en carretera hacia zona turística de Ensenada; hay reporte de incidente.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/179842_cayo_en_auto_a_barranco_de_70_metros_en_carretera_a_la_bufadora",
+        "_added_at": "2026-08-02T12:22:00.872986-07:00"
+      },
       {
         "title": "Adulto mayor con discapacidad vive de música en Centro",
         "summary": "Persona de edad avanzada obtiene sustento diario mediante presentaciones musicales.",
@@ -193,5 +235,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-02T09:07:58.922042-07:00"
+  "last_updated": "2026-08-02T12:22:00.872986-07:00"
 }
