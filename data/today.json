@@ -1,8 +1,15 @@
 {
   "date": "2026-08-02",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Hombre detenido en Mexicali por homicidio con arma asegurada",
+        "summary": "Captura en Valle de Mexicali de sujeto con orden de aprehensión por delito grave.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/detienen-en-valle-de-mexicali-a-hombre-con-orden-de-aprehension-por-homicidio-le-aseguran-un-arma/",
+        "_added_at": "2026-08-02T06:44:54.858266-07:00"
+      },
       {
         "title": "Detención genera narcobloqueos y quema de vehículos en carreteras",
         "summary": "Arresto de narcotraficante desata violencia y bloqueos en respuesta de grupos criminales en la región.",
@@ -40,6 +47,13 @@
       }
     ],
     "politica": [
+      {
+        "title": "Nueva Mesa Directiva del Congreso de BC encabezada por Eligio Valencia",
+        "summary": "Integran nueva directiva en el Congreso estatal con liderazgo definido.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/integran-nueva-mesa-directiva-en-el-congreso-de-bc-encabezada-por-eligio-valencia/",
+        "_added_at": "2026-08-02T06:44:54.858266-07:00"
+      },
       {
         "title": "Ex director de policía de Mexicali en prisión preventiva",
         "summary": "Autoridades retienen a funcionario anterior acusado de desaparición forzada y asociación delictuosa.",
@@ -87,6 +101,20 @@
     ],
     "sociedad": [
       {
+        "title": "Mexicali rompe récord de calor con 49.3 grados",
+        "summary": "Temperatura histórica registrada el viernes en la capital estatal.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/ayer-viernes-mexicali-rompio-record-de-calor-al-alcanzar-los-49-3-grados/",
+        "_added_at": "2026-08-02T06:44:54.858266-07:00"
+      },
+      {
+        "title": "CESPT admite 48 colonias sin servicio de agua en Tijuana",
+        "summary": "Autoridades reconocen crisis hídrica mientras usuarios reportan más zonas afectadas.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/cespt-admite-32-colonias-sin-agua-pero-usuarios-reportan-otras-16-y-exigen-soluciones/",
+        "_added_at": "2026-08-02T06:44:54.858266-07:00"
+      },
+      {
         "title": "Invitan a participar en 200+ talleres de arte y cultura",
         "summary": "Oferta cultural con más de doscientos talleres de arte abiertos a participación comunitaria.",
         "source": "AFN Tijuana",
@@ -123,5 +151,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-02T03:45:53.557923-07:00"
+  "last_updated": "2026-08-02T06:44:54.858266-07:00"
 }
