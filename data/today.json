@@ -1,8 +1,36 @@
 {
   "date": "2026-08-01",
-  "run_count": 6,
+  "run_count": 7,
   "notes": {
     "seguridad": [
+      {
+        "title": "Detienen en Mexicali a presunto homicida con arma asegurada",
+        "summary": "Capturan a hombre con orden de aprehensión por homicidio en Valle de Mexicali; le decomisan un arma.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/detienen-en-valle-de-mexicali-a-hombre-con-orden-de-aprehension-por-homicidio-le-aseguran-un-arma/",
+        "_added_at": "2026-08-01T20:40:14.244110-07:00"
+      },
+      {
+        "title": "Esperan esclarecer desapariciones con detención de ex mando",
+        "summary": "Capturan a ex funcionario municipal; autoridades esperan avances en investigación de desapariciones.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179840_esperan_esclarecer_desapariciones_con_detencion_de_ex_mando_municipal",
+        "_added_at": "2026-08-01T20:40:14.244110-07:00"
+      },
+      {
+        "title": "Activistas buscan desaparecidos en colonias de Tecate",
+        "summary": "Grupos de búsqueda realizan operativos en Tecate para localizar personas desaparecidas.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/179836_activistas_buscan_a_desaparecidos_en_colonias_de_tecate",
+        "_added_at": "2026-08-01T20:40:14.244110-07:00"
+      },
+      {
+        "title": "Kiosco abierto para denunciar extorsiones en Zona Centro",
+        "summary": "Instalan punto de denuncia en Tijuana; van trece denuncias contra funcionarios municipales.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/van-13-denuncias-contra-funcionarios-municipales-instalan-kiosco-para-reportar-extorsiones-en-zona-centro/",
+        "_added_at": "2026-08-01T20:40:14.244110-07:00"
+      },
       {
         "title": "Dos sujetos vinculados por robo armado de vehículo en Rosarito",
         "summary": "Autoridades vinculan a dos individuos por robo violento de automóvil en Rosarito.",
@@ -44,37 +72,30 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/seguridad/179822_disparan_contra_un_adulto_mayor_en_el_florido_lo_reportan_grave",
         "_added_at": "2026-08-01T12:21:05.533833-07:00"
-      },
-      {
-        "title": "Coronas fúnebres en Rosarito no constituyen delito",
-        "summary": "Fiscal Mandujano descarta investigación penal por coronas dejadas en Rosarito, confirma tributo.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/dejan-coronas-funebres-en-rosarito-no-se-presume-ningun-delito-fue-un-tributo-fiscal-mandujano/",
-        "_added_at": "2026-08-01T09:07:12.328519-07:00"
-      },
-      {
-        "title": "Segundo detenido en caso de desaparición de Jhosue Romo",
-        "summary": "Autoridades capturan a segundo implicado en investigación de desaparición ocurrida en Tijuana.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/detienen-a-segundo-implicado-en-el-caso-de-la-desaparicion-de-jhosue-romo-limon/?utm_source=rss&utm_medium=rss&utm_campaign=detienen-a-segundo-implicado-en-el-caso-de-la-desaparicion-de-jhosue-romo-limon",
-        "_added_at": "2026-08-01T03:45:08.915513-07:00"
-      },
-      {
-        "title": "Sentencia de 21 años contra sacerdote por violación",
-        "summary": "Juzgado da lectura formal a condena contra clérigo acusado de abuso sexual en Baja California.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/dan-lectura-formal-a-sentencia-de-21-anos-contra-sacerdote-acusado-de-violacion/?utm_source=rss&utm_medium=rss&utm_campaign=dan-lectura-formal-a-sentencia-de-21-anos-contra-sacerdote-acusado-de-violacion",
-        "_added_at": "2026-08-01T03:45:08.915513-07:00"
-      },
-      {
-        "title": "Madre ve avances en caso de hijo desaparecido tras cuatro años",
-        "summary": "Familia reporta progreso en investigación de desaparición en Tijuana después de larga espera.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179812_madre_de_joven_desaparecido_ve_avances_en_el_caso_despues_de_cuatro_anos",
-        "_added_at": "2026-08-01T03:45:08.915513-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Nueva Mesa Directiva en Congreso de BC encabezada por Valencia",
+        "summary": "Eligio Valencia encabeza integración de nueva directiva legislativa en Baja California.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/integran-nueva-mesa-directiva-en-el-congreso-de-bc-encabezada-por-eligio-valencia/",
+        "_added_at": "2026-08-01T20:40:14.244110-07:00"
+      },
+      {
+        "title": "Diputada del PAN denuncia ingobernabilidad en Baja California",
+        "summary": "Legisladora panista señala que estado enfrenta escenario de ingobernabilidad.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179834_bc_enfrenta_un_escenario_de_ingobernabilidad_afirma_diputada_del_pan",
+        "_added_at": "2026-08-01T20:40:14.244110-07:00"
+      },
+      {
+        "title": "Eva Moreno busca fortalecer tejido social en BC",
+        "summary": "Funcionaria impulsa acciones para fortalecer tejido social y bienestar familiar.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179839_apoya_eva_moreno_fortalecer_el_tejido_social_y_el_bienestar_de_las_familias_de_bc",
+        "_added_at": "2026-08-01T20:40:14.244110-07:00"
+      },
       {
         "title": "Sindicatura investiga servidores públicos en Tijuana",
         "summary": "Dependencia inicia pesquisa contra funcionarios locales por señalamientos recibidos.",
@@ -123,30 +144,23 @@
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/07/norma-bustamante-no-se-arrepiente-de-haber-nombrado-a-mendivil-como-director-de-la-policia/?utm_source=rss&utm_medium=rss&utm_campaign=norma-bustamante-no-se-arrepiente-de-haber-nombrado-a-mendivil-como-director-de-la-policia",
         "_added_at": "2026-08-01T03:45:08.915513-07:00"
-      },
-      {
-        "title": "Ejército pidió a Bustamante denunciar a Mendívil para detenerlo",
-        "summary": "Gobernadora reconoce que institución castrense le solicitó acciones legales contra funcionario.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179811_reconoce_norma_bustamante_que_el_ejercito_le_pidio_denunciar_a_mendivil_para_detenerlo",
-        "_added_at": "2026-08-01T03:45:08.915513-07:00"
-      },
-      {
-        "title": "Proceso electoral federal inicia el 10 de septiembre",
-        "summary": "INE establece fechas oficiales para el inicio de campaña electoral 2026.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/proceso-electoral-federal-arrancara-el-10-de-septiembre-ine-da-a-conocer-fechas/",
-        "_added_at": "2026-08-01T01:31:31.648892-07:00"
-      },
-      {
-        "title": "Bustamante niega arrepentimiento por director Mendívil",
-        "summary": "Funcionaria sostiene respaldo a nombramiento pese a cuestionamientos recientes.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/norma-bustamante-no-se-arrepiente-de-haber-nombrado-a-mendivil-como-director-de-la-policia/",
-        "_added_at": "2026-08-01T01:31:31.648892-07:00"
       }
     ],
     "economia": [
+      {
+        "title": "Contadores advierten exceso de requisitos fiscales en BC",
+        "summary": "Gremio de contadores denuncia falta de certeza jurídica y exceso de cargas tributarias.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179833_contadores_advierten_exceso_de_requisitos_fiscales_y_falta_de_certeza_juridica_para_contribuyentes",
+        "_added_at": "2026-08-01T20:40:14.244110-07:00"
+      },
+      {
+        "title": "Molina propone Baja 250 2027 de Mexicali a San Felipe",
+        "summary": "Autoridad sugiere cambio de recorrido para carrera de motos tradicional.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179837_propone_molina_que_carrera_baja_250_2027_sea_de_mexicali_a_san_felipe",
+        "_added_at": "2026-08-01T20:40:14.244110-07:00"
+      },
       {
         "title": "Proponen ampliar acceso a Playas para reducir congestionamiento",
         "summary": "Proyecto de tres carriles busca mejorar flujo vial hacia zona de playas en Tijuana.",
@@ -206,6 +220,34 @@
     ],
     "sociedad": [
       {
+        "title": "CESPT admite 32 colonias sin agua; usuarios reportan más",
+        "summary": "Organismo de agua reconoce cortes en 32 colonias; ciudadanos indican falta en otras 16.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/cespt-admite-32-colonias-sin-agua-pero-usuarios-reportan-otras-16-y-exigen-soluciones/",
+        "_added_at": "2026-08-01T20:40:14.244110-07:00"
+      },
+      {
+        "title": "Mexicali rompe récord de calor con 49.3 grados",
+        "summary": "Ciudad registra temperatura histórica el viernes pasado.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/ayer-viernes-mexicali-rompio-record-de-calor-al-alcanzar-los-49-3-grados/",
+        "_added_at": "2026-08-01T20:40:14.244110-07:00"
+      },
+      {
+        "title": "Comunidad haitiana en Mexicali pide presencia de COMAR",
+        "summary": "Migrantes solicitan atención de comisión federal para trámites de asilo.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179835_comunidad_haitiana_en_mexicali_piden_presencia_de_la_comar",
+        "_added_at": "2026-08-01T20:40:14.244110-07:00"
+      },
+      {
+        "title": "Primera comandante mujer en Fuerza Estatal de Seguridad",
+        "summary": "Se nombra a nueva mando femenina en la FESC de Baja California.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179831_nombran_a_nuevo_mando_en_la_fesc_por_primera_vez_sera_comandada_por_una_mujer",
+        "_added_at": "2026-08-01T20:40:14.244110-07:00"
+      },
+      {
         "title": "Se abre nuevo centro de hidratación Padre Chava en Tijuana",
         "summary": "Inauguran punto de desayunador para apoyar a población vulnerable en la ciudad.",
         "source": "El Mexicano",
@@ -246,36 +288,8 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/municipios/179809_supervisa_sindicatura_la_operacion_de_las_unidades_medicas_preventivas",
         "_added_at": "2026-08-01T09:07:12.328519-07:00"
-      },
-      {
-        "title": "Exalcalde César Moreno preside Cruz Roja Tecate",
-        "summary": "Designan a antiguo funcionario municipal como presidente del consejo directivo.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179808_nombran_a_exalcalde_cesar_moreno_presidente_del_consejo_directivo_de_la_cruz_roja_tecate",
-        "_added_at": "2026-08-01T09:07:12.328519-07:00"
-      },
-      {
-        "title": "FGR fortalece acciones contra trata de personas",
-        "summary": "Fiscalía lleva a cabo actividades para combatir crimen de explotación en región.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/nacionales/179807_se_fortalece_la_fgr_mediante_actividades_para_combatir_la_trata_de_personas",
-        "_added_at": "2026-08-01T06:45:15.148989-07:00"
-      },
-      {
-        "title": "Exalcalde César Moreno presume Cruz Roja de Tecate",
-        "summary": "Funcionario anterior asume presidencia del consejo directivo de organización humanitaria.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/revive-exalcalde-cesar-moreno-ahora-presidira-la-cruz-roja-de-tecate/?utm_source=rss&utm_medium=rss&utm_campaign=revive-exalcalde-cesar-moreno-ahora-presidira-la-cruz-roja-de-tecate",
-        "_added_at": "2026-08-01T03:45:08.915513-07:00"
-      },
-      {
-        "title": "Realizan 5,300 cirugías de cataratas en Mexicali",
-        "summary": "Secretaría de Salud ejecuta programa masivo de atención oftalmológica.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97491/Realizan-5-mil-300-cirug%C3%ADas-de-cataratas",
-        "_added_at": "2026-08-01T01:31:31.648892-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-01T15:02:26.412963-07:00"
+  "last_updated": "2026-08-01T20:40:14.244110-07:00"
 }
