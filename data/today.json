@@ -1,8 +1,15 @@
 {
   "date": "2026-08-02",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Detención genera narcobloqueos y quema de vehículos en carreteras",
+        "summary": "Arresto de narcotraficante desata violencia y bloqueos en respuesta de grupos criminales en la región.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/arresto-de-alfonso-fernandez-magallon-la-quiringua-desatada-narcobloqueos-en-michoacan/?utm_source=rss&utm_medium=rss&utm_campaign=arresto-de-alfonso-fernandez-magallon-la-quiringua-desatada-narcobloqueos-en-michoacan",
+        "_added_at": "2026-08-02T03:45:53.557923-07:00"
+      },
       {
         "title": "Detienen a ex director de policía de Mexicali por desapariciones",
         "summary": "Ex mando policial y agentes quedan en prisión preventiva por presunta participación en desapariciones forzadas y asociación delictuosa.",
@@ -33,6 +40,13 @@
       }
     ],
     "politica": [
+      {
+        "title": "Ex director de policía de Mexicali en prisión preventiva",
+        "summary": "Autoridades retienen a funcionario anterior acusado de desaparición forzada y asociación delictuosa.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97467/Ex-director-de-polic%C3%ADa-de-Mexicali-y-ex-agentes-quedan-en-prisi%C3%B3n-preventiva",
+        "_added_at": "2026-08-02T03:45:53.557923-07:00"
+      },
       {
         "title": "Nueva Mesa Directiva del Congreso de BC encabezada por Valencia",
         "summary": "Se integra nuevo liderazgo legislativo en la capital estatal con Eligio Valencia como conductor.",
@@ -73,6 +87,13 @@
     ],
     "sociedad": [
       {
+        "title": "Invitan a participar en 200+ talleres de arte y cultura",
+        "summary": "Oferta cultural con más de doscientos talleres de arte abiertos a participación comunitaria.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179843_invitan_a_participar_en_mas_de_200_talleres_de_arte_y_cultura",
+        "_added_at": "2026-08-02T03:45:53.557923-07:00"
+      },
+      {
         "title": "32 colonias sin agua en Tijuana; usuarios reportan más de 16",
         "summary": "CESPT reconoce crisis hídrica; ciudadanos denuncian mayor cobertura del problema y demandan acciones.",
         "source": "ZETA Tijuana",
@@ -102,5 +123,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-02T01:33:56.419840-07:00"
+  "last_updated": "2026-08-02T03:45:53.557923-07:00"
 }
