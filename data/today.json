@@ -1,6 +1,6 @@
 {
   "date": "2026-08-02",
-  "run_count": 3,
+  "run_count": 4,
   "notes": {
     "seguridad": [
       {
@@ -48,6 +48,20 @@
     ],
     "politica": [
       {
+        "title": "13 denuncias contra funcionarios municipales en Tijuana",
+        "summary": "Instalan kiosco en Centro para reportar extorsiones; suben acusaciones contra servidores públicos.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/van-13-denuncias-contra-funcionarios-municipales-instalan-kiosco-para-reportar-extorsiones-en-zona-centro/",
+        "_added_at": "2026-08-02T09:07:58.922042-07:00"
+      },
+      {
+        "title": "Eva Moreno apoya fortalecer tejido social en BC",
+        "summary": "Funcionaria anuncia respaldo a iniciativas para mejorar bienestar familiar en la región.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179839_apoya_eva_moreno_fortalecer_el_tejido_social_y_el_bienestar_de_las_familias_de_bc",
+        "_added_at": "2026-08-02T09:07:58.922042-07:00"
+      },
+      {
         "title": "Nueva Mesa Directiva del Congreso de BC encabezada por Eligio Valencia",
         "summary": "Integran nueva directiva en el Congreso estatal con liderazgo definido.",
         "source": "ZETA Tijuana",
@@ -85,6 +99,27 @@
     ],
     "economia": [
       {
+        "title": "CESPT reporta 32 colonias sin agua en Tijuana",
+        "summary": "Empresa de servicios reconoce abastecimiento nulo; ciudadanos denuncian 16 colonias adicionales afectadas.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/cespt-admite-32-colonias-sin-agua-pero-usuarios-reportan-otras-16-y-exigen-soluciones/",
+        "_added_at": "2026-08-02T09:07:58.922042-07:00"
+      },
+      {
+        "title": "Atienden a 100 personas en albergues por clima extremo",
+        "summary": "Mexicali habilita refugios para ciudadanos durante ola de calor récord en la región.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97532/Atienden-a-100-personas-en-albergues-contra-clima-extremos",
+        "_added_at": "2026-08-02T09:07:58.922042-07:00"
+      },
+      {
+        "title": "Primer evento Sabor a Tijuana 2026 reúne a chefs",
+        "summary": "Se realiza festival gastronómico con oferta culinaria e invitados especiales en la ciudad.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97528/Realizan-la-primera-edici%C3%B3n-de-%E2%80%9CSabor-a-Tijuana-2026%E2%80%9D-con-oferta-gastron%C3%B3mica-y-chefs-invitados",
+        "_added_at": "2026-08-02T09:07:58.922042-07:00"
+      },
+      {
         "title": "Contadores advierten exceso de requisitos fiscales en BC",
         "summary": "Profesionales denuncian incertidumbre jurídica y carga administrativa para contribuyentes locales.",
         "source": "AFN Tijuana",
@@ -100,6 +135,13 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Adulto mayor con discapacidad vive de música en Centro",
+        "summary": "Persona de edad avanzada obtiene sustento diario mediante presentaciones musicales.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97529/Adulto-mayor-con-discapacidad-encuentra-en-la-m%C3%BAsica-su-sustento-diario-en-el-Centro-de-Tijuana",
+        "_added_at": "2026-08-02T09:07:58.922042-07:00"
+      },
       {
         "title": "Mexicali rompe récord de calor con 49.3 grados",
         "summary": "Temperatura histórica registrada el viernes en la capital estatal.",
@@ -151,5 +193,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-02T06:44:54.858266-07:00"
+  "last_updated": "2026-08-02T09:07:58.922042-07:00"
 }
