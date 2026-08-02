@@ -1,8 +1,29 @@
 {
   "date": "2026-08-02",
-  "run_count": 5,
+  "run_count": 6,
   "notes": {
     "seguridad": [
+      {
+        "title": "Homicidios en Tijuana cayeron casi 30% en julio",
+        "summary": "Autoridades reportan descenso significativo en muertes dolosas durante el mes pasado en la ciudad.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179861_bajo_casi_30_por_ciento_el_delito_de_homicidio_doloso_durante_el_mes_de_julio_en_tijuana_sspcm",
+        "_added_at": "2026-08-02T15:02:09.877669-07:00"
+      },
+      {
+        "title": "Persona fallece en accidente acuático en Ensenada",
+        "summary": "Reportan muerte tras incidente en playa local durante actividades acuáticas.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/reportan-a-persona-sin-vida-tras-accidente-acuatico-en-playa-de-ensenada/?utm_source=rss&utm_medium=rss&utm_campaign=reportan-a-persona-sin-vida-tras-accidente-acuatico-en-playa-de-ensenada",
+        "_added_at": "2026-08-02T15:02:09.877669-07:00"
+      },
+      {
+        "title": "Familia de policía Mexicali protesta en audiencia judicial",
+        "summary": "Allegados de Kevin González se manifiestan durante proceso de vinculación a proceso.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/en-mexicali-familiares-del-policia-kevin-gonzalez-se-manifiestan-durante-audiencia-de-vinculacion/?utm_source=rss&utm_medium=rss&utm_campaign=en-mexicali-familiares-del-policia-kevin-gonzalez-se-manifiestan-durante-audiencia-de-vinculacion",
+        "_added_at": "2026-08-02T15:02:09.877669-07:00"
+      },
       {
         "title": "Presunto intelectual de homicidio recibe prisión preventiva",
         "summary": "El R1, acusado de ser autor intelectual del asesinato de Carlos Manzo, fue vinculado a proceso con prisión preventiva en Tijuana.",
@@ -51,23 +72,30 @@
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/08/detienen-en-valle-de-mexicali-a-hombre-con-orden-de-aprehension-por-homicidio-le-aseguran-un-arma/?utm_source=rss&utm_medium=rss&utm_campaign=detienen-en-valle-de-mexicali-a-hombre-con-orden-de-aprehension-por-homicidio-le-aseguran-un-arma",
         "_added_at": "2026-08-02T01:33:56.419840-07:00"
-      },
-      {
-        "title": "Activistas buscan desaparecidos en colonias de Tecate",
-        "summary": "Grupos civiles realizan búsquedas de personas desaparecidas en zona urbana del municipio.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/179836_activistas_buscan_a_desaparecidos_en_colonias_de_tecate",
-        "_added_at": "2026-08-02T01:33:56.419840-07:00"
-      },
-      {
-        "title": "Vehículo cae a barranco de 70 metros en carretera a La Bufadora",
-        "summary": "Accidente registrado en camino costero con caída a profundidad considerable.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/179842_cayo_en_auto_a_barranco_de_70_metros_en_carretera_a_la_bufadora",
-        "_added_at": "2026-08-02T01:33:56.419840-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Juez ordena medidas para sanear Río Tijuana",
+        "summary": "Suspensión definitiva otorgada por juzgado incluye acciones concretas para limpiar cuerpo de agua.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179858_concede_juez_suspension_definitiva_ordena_medidas_para_sanear_el_rio_tijuana",
+        "_added_at": "2026-08-02T15:02:09.877669-07:00"
+      },
+      {
+        "title": "Río Tijuana entra en revisión T-MEC para obtener fondos",
+        "summary": "Buscan incluir saneamiento del río en tratado comercial para asegurar financiamiento federal.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97542/Buscan-incluir-saneamiento-del-R%C3%ADo-Tijuana-en-revisi%C3%B3n-del-T-MEC-para-asegurar-recursos",
+        "_added_at": "2026-08-02T15:02:09.877669-07:00"
+      },
+      {
+        "title": "Alcalde de Tijuana reporta ahorro de 40 millones",
+        "summary": "Administración municipal anuncia reducción de gastos en últimas operaciones.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97541/Reporta-Ayuntamiento-de-Tijuana-ahorro-de-40-millones-de-pesos",
+        "_added_at": "2026-08-02T15:02:09.877669-07:00"
+      },
       {
         "title": "Van 13 denuncias contra funcionarios municipales en Tijuana",
         "summary": "Instalan kiosco para reportar extorsiones en Zona Centro; acumulan trece quejas contra servidores públicos.",
@@ -116,16 +144,16 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/179834_bc_enfrenta_un_escenario_de_ingobernabilidad_afirma_diputada_del_pan",
         "_added_at": "2026-08-02T01:33:56.419840-07:00"
-      },
-      {
-        "title": "Mujer encabezará por primera vez la FESC de Tijuana",
-        "summary": "Nombran nuevo mando policial con liderazgo femenino en la corporación municipal.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179831_nombran_a_nuevo_mando_en_la_fesc_por_primera_vez_sera_comandada_por_una_mujer",
-        "_added_at": "2026-08-02T01:33:56.419840-07:00"
       }
     ],
     "economia": [
+      {
+        "title": "Obra en Revolución afecta negocios y comerciantes",
+        "summary": "Rehabilitación de avenida genera impacto negativo en establecimientos locales durante construcción.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179859_obra_de_rehabilitacion_en_la_avenida_revolucion_causa_afectaciones_a_comerciantes",
+        "_added_at": "2026-08-02T15:02:09.877669-07:00"
+      },
       {
         "title": "Resurge turismo en avenida Revolución de Tijuana",
         "summary": "Canirac reporta recuperación en flujo de visitantes y actividad comercial en el centro histórico.",
@@ -170,6 +198,20 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Enfermeros Tácticos Tijuana venden agua para financiarse",
+        "summary": "Organización paramedical realiza ventas ante caída de donaciones y presupuesto limitado.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97543/Ante-la-ca%C3%ADda-de-donaciones,-Enfermeros-T%C3%A1cticos-de-Tijuana-realizan-venta-de-aguas-para-financiar-su-labor",
+        "_added_at": "2026-08-02T15:02:09.877669-07:00"
+      },
+      {
+        "title": "Punto de hidratación para prevenir golpes de calor",
+        "summary": "Salud abre desayunador Padre Chava en Zona Norte durante temporada de altas temperaturas.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97520/Abren-punto-de-hidrataci%C3%B3n-desayunador-Padre-Chava",
+        "_added_at": "2026-08-02T15:02:09.877669-07:00"
+      },
       {
         "title": "Vehículo cae a barranco de setenta metros en La Bufadora",
         "summary": "Auto se despeña en carretera hacia zona turística de Ensenada; hay reporte de incidente.",
@@ -225,15 +267,8 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/179835_comunidad_haitiana_en_mexicali_piden_presencia_de_la_comar",
         "_added_at": "2026-08-02T01:33:56.419840-07:00"
-      },
-      {
-        "title": "Sabor a Tijuana 2026 reúne gastronomía local e internacionales chefs",
-        "summary": "Primera edición de festival culinario exhibe ofertas gastronómicas con participación de cocineros destacados.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97528/Realizan-la-primera-edici%C3%B3n-de-%E2%80%9CSabor-a-Tijuana-2026%E2%80%9D-con-oferta-gastron%C3%B3mica-y-chefs-invitados",
-        "_added_at": "2026-08-02T01:33:56.419840-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-02T12:22:00.872986-07:00"
+  "last_updated": "2026-08-02T15:02:09.877669-07:00"
 }
