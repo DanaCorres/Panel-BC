@@ -1,295 +1,106 @@
 {
-  "date": "2026-08-01",
-  "run_count": 7,
+  "date": "2026-08-02",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Detienen en Mexicali a presunto homicida con arma asegurada",
-        "summary": "Capturan a hombre con orden de aprehensión por homicidio en Valle de Mexicali; le decomisan un arma.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/detienen-en-valle-de-mexicali-a-hombre-con-orden-de-aprehension-por-homicidio-le-aseguran-un-arma/",
-        "_added_at": "2026-08-01T20:40:14.244110-07:00"
+        "title": "Detienen a ex director de policía de Mexicali por desapariciones",
+        "summary": "Ex mando policial y agentes quedan en prisión preventiva por presunta participación en desapariciones forzadas y asociación delictuosa.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97467/Ex-director-de-polic%C3%ADa-de-Mexicali-y-ex-agentes-quedan-en-prisi%C3%B3n-preventiva",
+        "_added_at": "2026-08-02T01:33:56.419840-07:00"
       },
       {
-        "title": "Esperan esclarecer desapariciones con detención de ex mando",
-        "summary": "Capturan a ex funcionario municipal; autoridades esperan avances en investigación de desapariciones.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179840_esperan_esclarecer_desapariciones_con_detencion_de_ex_mando_municipal",
-        "_added_at": "2026-08-01T20:40:14.244110-07:00"
+        "title": "Arrestan a hombre con orden por homicidio en Valle de Mexicali",
+        "summary": "Capturan individuo con antecedente penal; le aseguran arma de fuego durante operativo.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/detienen-en-valle-de-mexicali-a-hombre-con-orden-de-aprehension-por-homicidio-le-aseguran-un-arma/?utm_source=rss&utm_medium=rss&utm_campaign=detienen-en-valle-de-mexicali-a-hombre-con-orden-de-aprehension-por-homicidio-le-aseguran-un-arma",
+        "_added_at": "2026-08-02T01:33:56.419840-07:00"
       },
       {
         "title": "Activistas buscan desaparecidos en colonias de Tecate",
-        "summary": "Grupos de búsqueda realizan operativos en Tecate para localizar personas desaparecidas.",
+        "summary": "Grupos civiles realizan búsquedas de personas desaparecidas en zona urbana del municipio.",
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/seguridad/179836_activistas_buscan_a_desaparecidos_en_colonias_de_tecate",
-        "_added_at": "2026-08-01T20:40:14.244110-07:00"
+        "_added_at": "2026-08-02T01:33:56.419840-07:00"
       },
       {
-        "title": "Kiosco abierto para denunciar extorsiones en Zona Centro",
-        "summary": "Instalan punto de denuncia en Tijuana; van trece denuncias contra funcionarios municipales.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/van-13-denuncias-contra-funcionarios-municipales-instalan-kiosco-para-reportar-extorsiones-en-zona-centro/",
-        "_added_at": "2026-08-01T20:40:14.244110-07:00"
-      },
-      {
-        "title": "Dos sujetos vinculados por robo armado de vehículo en Rosarito",
-        "summary": "Autoridades vinculan a dos individuos por robo violento de automóvil en Rosarito.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97517/Vinculan-a-dos-sujetos-por-violento-robo-de-auto-en-Rosarito",
-        "_added_at": "2026-08-01T15:02:26.412963-07:00"
-      },
-      {
-        "title": "Capturan a tres por posesión de drogas en operativos SSPCM",
-        "summary": "Operativos de seguridad Estatal resultan en captura de tres personas con marihuana y cristal.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97521/Caen-tres-con-marihuana-y-cristal-en-operativos-SSPCM",
-        "_added_at": "2026-08-01T15:02:26.412963-07:00"
-      },
-      {
-        "title": "Muere reparador embestido por vehículo en Tijuana",
-        "summary": "Hombre fallece tras ser golpeado por camioneta mientras realizaba reparaciones.",
+        "title": "Vehículo cae a barranco de 70 metros en carretera a La Bufadora",
+        "summary": "Accidente registrado en camino costero con caída a profundidad considerable.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/179825_muere_un_hombre_tras_ser_embestido_cuando_reparaba_una_camioneta",
-        "_added_at": "2026-08-01T15:02:26.412963-07:00"
-      },
-      {
-        "title": "Sacerdote recibe 21 años por abuso sexual en Tijuana",
-        "summary": "Condenado a dos décadas de cárcel por abuso sexual contra una religiosa en la entidad.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97509/Dan-21-a%C3%B1os-de-c%C3%A1rcel-a-sacerdote-por-abuso-sexual-contra-religiosa-en-Tijuana",
-        "_added_at": "2026-08-01T12:21:05.533833-07:00"
-      },
-      {
-        "title": "Hombre asesinado a balazos en colonia El Florido",
-        "summary": "Víctima fue baleada en zona residencial de Tijuana durante enfrentamiento.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/179824_asesinan_a_balazos_a_un_hombre_en_el_florido_horoscopo",
-        "_added_at": "2026-08-01T12:21:05.533833-07:00"
-      },
-      {
-        "title": "Adulto mayor herido por disparo en El Florido",
-        "summary": "Persona de edad avanzada recibió impactos de bala; reportado en estado grave.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/179822_disparan_contra_un_adulto_mayor_en_el_florido_lo_reportan_grave",
-        "_added_at": "2026-08-01T12:21:05.533833-07:00"
+        "url": "https://www.afntijuana.info/seguridad/179842_cayo_en_auto_a_barranco_de_70_metros_en_carretera_a_la_bufadora",
+        "_added_at": "2026-08-02T01:33:56.419840-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Nueva Mesa Directiva en Congreso de BC encabezada por Valencia",
-        "summary": "Eligio Valencia encabeza integración de nueva directiva legislativa en Baja California.",
+        "title": "Nueva Mesa Directiva del Congreso de BC encabezada por Valencia",
+        "summary": "Se integra nuevo liderazgo legislativo en la capital estatal con Eligio Valencia como conductor.",
         "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/integran-nueva-mesa-directiva-en-el-congreso-de-bc-encabezada-por-eligio-valencia/",
-        "_added_at": "2026-08-01T20:40:14.244110-07:00"
+        "url": "https://zetatijuana.com/2026/08/integran-nueva-mesa-directiva-en-el-congreso-de-bc-encabezada-por-eligio-valencia/?utm_source=rss&utm_medium=rss&utm_campaign=integran-nueva-mesa-directiva-en-el-congreso-de-bc-encabezada-por-eligio-valencia",
+        "_added_at": "2026-08-02T01:33:56.419840-07:00"
       },
       {
-        "title": "Diputada del PAN denuncia ingobernabilidad en Baja California",
-        "summary": "Legisladora panista señala que estado enfrenta escenario de ingobernabilidad.",
+        "title": "Diputada del PAN denuncia escenario de ingobernabilidad en BC",
+        "summary": "Legisladora opositora advierte sobre crisis institucional y falta de control en la entidad.",
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/179834_bc_enfrenta_un_escenario_de_ingobernabilidad_afirma_diputada_del_pan",
-        "_added_at": "2026-08-01T20:40:14.244110-07:00"
+        "_added_at": "2026-08-02T01:33:56.419840-07:00"
       },
       {
-        "title": "Eva Moreno busca fortalecer tejido social en BC",
-        "summary": "Funcionaria impulsa acciones para fortalecer tejido social y bienestar familiar.",
+        "title": "Mujer encabezará por primera vez la FESC de Tijuana",
+        "summary": "Nombran nuevo mando policial con liderazgo femenino en la corporación municipal.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179839_apoya_eva_moreno_fortalecer_el_tejido_social_y_el_bienestar_de_las_familias_de_bc",
-        "_added_at": "2026-08-01T20:40:14.244110-07:00"
-      },
-      {
-        "title": "Sindicatura investiga servidores públicos en Tijuana",
-        "summary": "Dependencia inicia pesquisa contra funcionarios locales por señalamientos recibidos.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179832_investiga_sindicatura_senalamientos_contra_servidores_publicos_en_tijuana",
-        "_added_at": "2026-08-01T15:02:26.412963-07:00"
-      },
-      {
-        "title": "Eligio Valencia López asume presidencia del Congreso local",
-        "summary": "Nuevo presidente de la Mesa Directiva del Congreso del estado para período agosto-noviembre.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Estatal/97508/Diputado-Eligio-Valencia-L%C3%B3pez-es-el-nuevo-presidente-de-la-Mesa-directiva-del-Congeso-del-estado",
-        "_added_at": "2026-08-01T12:21:05.533833-07:00"
-      },
-      {
-        "title": "Primera mujer encabeza coordinación de la FESC en Mexicali",
-        "summary": "Itsela Meza asume dirección de Fiscalía Estatal, reemplazando a Rosiles y Reyes Mejorada.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97513/Itsela-Meza,-primer-mujer-que-asume-el-mando-de-la-FESC",
-        "_added_at": "2026-08-01T12:21:05.533833-07:00"
-      },
-      {
-        "title": "Autoridades investigan desaparición forzada en Mexicali",
-        "summary": "Audiencia contra agentes acusados marca avance en investigación de caso de desaparición.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97506/Audiencia-contra-agentes-acusados-a-desaparici%C3%B3n,-es-una-se%C3%B1al-de-justicia%3A-Aleida-Lim%C3%B3n",
-        "_added_at": "2026-08-01T12:21:05.533833-07:00"
-      },
-      {
-        "title": "Eligio Valencia López asume presidencia del Congreso local",
-        "summary": "Diputado toma el cargo de presidente de la Mesa Directiva del Congreso del estado.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179818_asume_eligio_valencia_lopez_presidencia_del_congreso_local",
-        "_added_at": "2026-08-01T09:07:12.328519-07:00"
-      },
-      {
-        "title": "Proceso electoral federal inicia el 10 de septiembre",
-        "summary": "INE anuncia cronograma oficial para comicios federales en México durante este año.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/proceso-electoral-federal-arrancara-el-10-de-septiembre-ine-da-a-conocer-fechas/?utm_source=rss&utm_medium=rss&utm_campaign=proceso-electoral-federal-arrancara-el-10-de-septiembre-ine-da-a-conocer-fechas",
-        "_added_at": "2026-08-01T03:45:08.915513-07:00"
-      },
-      {
-        "title": "Bustamante defiende nombramiento de Mendívil como jefe policial",
-        "summary": "Gobernadora sostiene decisión de nombrar director de seguridad pese a cuestionamientos públicos.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/norma-bustamante-no-se-arrepiente-de-haber-nombrado-a-mendivil-como-director-de-la-policia/?utm_source=rss&utm_medium=rss&utm_campaign=norma-bustamante-no-se-arrepiente-de-haber-nombrado-a-mendivil-como-director-de-la-policia",
-        "_added_at": "2026-08-01T03:45:08.915513-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/179831_nombran_a_nuevo_mando_en_la_fesc_por_primera_vez_sera_comandada_por_una_mujer",
+        "_added_at": "2026-08-02T01:33:56.419840-07:00"
       }
     ],
     "economia": [
       {
         "title": "Contadores advierten exceso de requisitos fiscales en BC",
-        "summary": "Gremio de contadores denuncia falta de certeza jurídica y exceso de cargas tributarias.",
+        "summary": "Profesionales denuncian incertidumbre jurídica y carga administrativa para contribuyentes locales.",
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/179833_contadores_advierten_exceso_de_requisitos_fiscales_y_falta_de_certeza_juridica_para_contribuyentes",
-        "_added_at": "2026-08-01T20:40:14.244110-07:00"
+        "_added_at": "2026-08-02T01:33:56.419840-07:00"
       },
       {
-        "title": "Molina propone Baja 250 2027 de Mexicali a San Felipe",
-        "summary": "Autoridad sugiere cambio de recorrido para carrera de motos tradicional.",
+        "title": "Molina propone ruta de Baja 250 2027 de Mexicali a San Felipe",
+        "summary": "Se plantea nueva trayectoria para próxima edición de carrera de autos internacionalmente conocida.",
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/179837_propone_molina_que_carrera_baja_250_2027_sea_de_mexicali_a_san_felipe",
-        "_added_at": "2026-08-01T20:40:14.244110-07:00"
-      },
-      {
-        "title": "Proponen ampliar acceso a Playas para reducir congestionamiento",
-        "summary": "Proyecto de tres carriles busca mejorar flujo vial hacia zona de playas en Tijuana.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179826_proponen_ampliar_a_tres_carriles_el_acceso_a_playas_para_reducir_congestionamiento",
-        "_added_at": "2026-08-01T15:02:26.412963-07:00"
-      },
-      {
-        "title": "Coparmex alerta sobre conflictos que frenan inversión",
-        "summary": "Cámara empresarial preocupada porque Baja California destaca por conflictividad, no oportunidades.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179823_preocupa_a_coparmex_que_baja_california_destaque_por_conflictos_y_no_por_inversiones",
-        "_added_at": "2026-08-01T12:21:05.533833-07:00"
-      },
-      {
-        "title": "Ensenada segundo puerto del Pacífico con más cruceros",
-        "summary": "Puerto ensenadeño consolida posición importante en arribo de cruceros turísticos del Pacífico.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/empresarial/179814_ensenada_segundo_lugar_del_pacifico_con_mas_arribos_de_cruceros",
-        "_added_at": "2026-08-01T09:07:12.328519-07:00"
-      },
-      {
-        "title": "Federación destina 190 mdp para seguridad en BC",
-        "summary": "Gobierno federal asigna recursos para fortalecer labores de seguridad pública estatal.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/empresarial/179813_federacion_destino_190_mdp_para_seguridad_publica_en_bc",
-        "_added_at": "2026-08-01T09:07:12.328519-07:00"
-      },
-      {
-        "title": "Cruz Roja invierte 23 millones en equipamiento médico",
-        "summary": "Institución inaugura tomógrafo, quirófano y banco de sangre nuevos en Tijuana.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/cruz-roja-de-tijuana-invierte-23-mdp-en-tomografo-quirofano-y-nuevo-banco-de-sangre/?utm_source=rss&utm_medium=rss&utm_campaign=cruz-roja-de-tijuana-invierte-23-mdp-en-tomografo-quirofano-y-nuevo-banco-de-sangre",
-        "_added_at": "2026-08-01T03:45:08.915513-07:00"
-      },
-      {
-        "title": "Canaco revisa comercios afectados por apagones",
-        "summary": "Cámara de Comercio inspecciona daños en equipos de negocios por interrupciones eléctricas.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179801_revisa_la_canaco_comercios_con_equipos_afectados_por_apagones",
-        "_added_at": "2026-08-01T03:45:08.915513-07:00"
-      },
-      {
-        "title": "Cruz Roja invierte 23 millones en equipamiento médico",
-        "summary": "Institución adquiere tomógrafo, quirófano y banco de sangre para Tijuana.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/cruz-roja-de-tijuana-invierte-23-mdp-en-tomografo-quirofano-y-nuevo-banco-de-sangre/",
-        "_added_at": "2026-08-01T01:31:31.648892-07:00"
-      },
-      {
-        "title": "SAT intensifica revisiones; contadores recomiendan documentación",
-        "summary": "Colegio de contadores advierte al sector comercial regularizar trámites tributarios.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97489/Ante-revisiones-del-SAT,-colegio-de-contadores-recomienda-tener-documentos-en-regla",
-        "_added_at": "2026-08-01T01:31:31.648892-07:00"
+        "_added_at": "2026-08-02T01:33:56.419840-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "CESPT admite 32 colonias sin agua; usuarios reportan más",
-        "summary": "Organismo de agua reconoce cortes en 32 colonias; ciudadanos indican falta en otras 16.",
+        "title": "32 colonias sin agua en Tijuana; usuarios reportan más de 16",
+        "summary": "CESPT reconoce crisis hídrica; ciudadanos denuncian mayor cobertura del problema y demandan acciones.",
         "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/cespt-admite-32-colonias-sin-agua-pero-usuarios-reportan-otras-16-y-exigen-soluciones/",
-        "_added_at": "2026-08-01T20:40:14.244110-07:00"
+        "url": "https://zetatijuana.com/2026/08/cespt-admite-32-colonias-sin-agua-pero-usuarios-reportan-otras-16-y-exigen-soluciones/?utm_source=rss&utm_medium=rss&utm_campaign=cespt-admite-32-colonias-sin-agua-pero-usuarios-reportan-otras-16-y-exigen-soluciones",
+        "_added_at": "2026-08-02T01:33:56.419840-07:00"
       },
       {
         "title": "Mexicali rompe récord de calor con 49.3 grados",
-        "summary": "Ciudad registra temperatura histórica el viernes pasado.",
+        "summary": "Capital estatal experimenta jornada de temperaturas extremas registrando nuevo máximo histórico.",
         "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/ayer-viernes-mexicali-rompio-record-de-calor-al-alcanzar-los-49-3-grados/",
-        "_added_at": "2026-08-01T20:40:14.244110-07:00"
+        "url": "https://zetatijuana.com/2026/08/ayer-viernes-mexicali-rompio-record-de-calor-al-alcanzar-los-49-3-grados/?utm_source=rss&utm_medium=rss&utm_campaign=ayer-viernes-mexicali-rompio-record-de-calor-al-alcanzar-los-49-3-grados",
+        "_added_at": "2026-08-02T01:33:56.419840-07:00"
       },
       {
-        "title": "Comunidad haitiana en Mexicali pide presencia de COMAR",
-        "summary": "Migrantes solicitan atención de comisión federal para trámites de asilo.",
+        "title": "Comunidad haitiana en Mexicali solicita presencia de COMAR",
+        "summary": "Migrantes piden asistencia del organismo federal para regularizar situación migratoria.",
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/179835_comunidad_haitiana_en_mexicali_piden_presencia_de_la_comar",
-        "_added_at": "2026-08-01T20:40:14.244110-07:00"
+        "_added_at": "2026-08-02T01:33:56.419840-07:00"
       },
       {
-        "title": "Primera comandante mujer en Fuerza Estatal de Seguridad",
-        "summary": "Se nombra a nueva mando femenina en la FESC de Baja California.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179831_nombran_a_nuevo_mando_en_la_fesc_por_primera_vez_sera_comandada_por_una_mujer",
-        "_added_at": "2026-08-01T20:40:14.244110-07:00"
-      },
-      {
-        "title": "Se abre nuevo centro de hidratación Padre Chava en Tijuana",
-        "summary": "Inauguran punto de desayunador para apoyar a población vulnerable en la ciudad.",
+        "title": "Sabor a Tijuana 2026 reúne gastronomía local e internacionales chefs",
+        "summary": "Primera edición de festival culinario exhibe ofertas gastronómicas con participación de cocineros destacados.",
         "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97520/Abren-punto-de-hidrataci%C3%B3n-desayunador-Padre-Chava",
-        "_added_at": "2026-08-01T15:02:26.412963-07:00"
-      },
-      {
-        "title": "Celebran 66 aniversario de Policía Juvenil de Tijuana",
-        "summary": "Alcalde Abdiel Gutiérrez encabeza conmemoración de institución dedicada a menores.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97519/Encabeza-alcalde-Abdiel-Guti%C3%A9rrez-el-66-Aniversario-de-la-Polic%C3%ADa-Juvenil-de-Tijuana",
-        "_added_at": "2026-08-01T15:02:26.412963-07:00"
-      },
-      {
-        "title": "Cruz Roja Tijuana invierte 23 mdp en equipamiento médico",
-        "summary": "Institución instala tomógrafo, quirófano y nuevo banco de sangre para mejorar servicios.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/07/cruz-roja-de-tijuana-invierte-23-mdp-en-tomografo-quirofano-y-nuevo-banco-de-sangre/",
-        "_added_at": "2026-08-01T12:21:05.533833-07:00"
-      },
-      {
-        "title": "Ofrecen función de cine a menores en situación vulnerable",
-        "summary": "Actividad busca brindar entretenimiento y apoyo a niños en condiciones de riesgo social.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179828_ofrecen_funcion_de_cine_a_menores_en_situacion_vulnerable",
-        "_added_at": "2026-08-01T12:21:05.533833-07:00"
-      },
-      {
-        "title": "Madre celebra avances en caso de hijo desaparecido hace cuatro años",
-        "summary": "Familiar reporta progreso investigativo en búsqueda de joven tras años sin avances.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179812_madre_de_joven_desaparecido_ve_avances_en_el_caso_despues_de_cuatro_anos",
-        "_added_at": "2026-08-01T09:07:12.328519-07:00"
-      },
-      {
-        "title": "Sindicatura supervisa operación de Unidades Médicas Preventivas",
-        "summary": "Organismo realiza inspección a clínicas municipales para verificar calidad de servicios.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/municipios/179809_supervisa_sindicatura_la_operacion_de_las_unidades_medicas_preventivas",
-        "_added_at": "2026-08-01T09:07:12.328519-07:00"
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97528/Realizan-la-primera-edici%C3%B3n-de-%E2%80%9CSabor-a-Tijuana-2026%E2%80%9D-con-oferta-gastron%C3%B3mica-y-chefs-invitados",
+        "_added_at": "2026-08-02T01:33:56.419840-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-01T20:40:14.244110-07:00"
+  "last_updated": "2026-08-02T01:33:56.419840-07:00"
 }
