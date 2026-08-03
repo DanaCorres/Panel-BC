@@ -1,8 +1,22 @@
 {
   "date": "2026-08-03",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Presunto líder criminal recibe prisión preventiva por homicidio",
+        "summary": "Sujeto identificado como \"El R1\" vinculado al crimen de Carlos Manzo queda en prisión preventiva tras audiencia en Tijuana.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/el-r1-presunto-autor-intelectual-del-homicidio-de-carlos-manzo-recibe-prision-preventiva/",
+        "_added_at": "2026-08-03T08:08:09.615115-07:00"
+      },
+      {
+        "title": "Hombre asesinado durante fiesta en colonia La Ciénega",
+        "summary": "Persona fallece tras acto violento durante celebración en Tijuana dejando interrogantes sobre el incidente.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/179875_asesinan_a_un_hombre_en_una_fiesta_en_la_colonia_la_cienega",
+        "_added_at": "2026-08-03T08:08:09.615115-07:00"
+      },
       {
         "title": "Homicidios en Tijuana caen 30% durante julio",
         "summary": "Autoridades reportan disminución significativa en delitos de homicidio doloso durante el mes de julio en la capital estatal.",
@@ -34,6 +48,13 @@
     ],
     "politica": [
       {
+        "title": "Morena realiza asamblea en Tijuana contra supuestas mentiras",
+        "summary": "Partido celebra reunión en la ciudad con el dirigente Catalino Zavala cuestionando información opositora.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/morena-celebra-asamblea-en-tijuana-para-contrarrestar-mentiras-asegura-catalino-zavala/",
+        "_added_at": "2026-08-03T08:08:09.615115-07:00"
+      },
+      {
         "title": "Morena realiza asamblea en Tijuana para contrarrestar críticas",
         "summary": "Morenistas se reúnen en Tijuana; liderazgo busca responder a acusaciones de la oposición.",
         "source": "ZETA Tijuana",
@@ -64,6 +85,20 @@
     ],
     "economia": [
       {
+        "title": "Manufactura debilita sector secundario de Baja California",
+        "summary": "Actividades industriales mantienen economía estatal en recesión según últimos datos reportados.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/empresarial/179872_manufactura_tira_economia_de_actividades_secundarias_de_bc_sigue_recesion",
+        "_added_at": "2026-08-03T08:08:09.615115-07:00"
+      },
+      {
+        "title": "SHCP transfiere participaciones a BC pero falta reportar monto",
+        "summary": "Gobierno recibe 23,856 millones pero presenta falta de transparencia sobre 1,535 millones adicionales.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/empresarial/179873_shcp_paga_a_bc_23_856_mdp_de_participaciones_gobierno_sin_reportar_1_535_mdp",
+        "_added_at": "2026-08-03T08:08:09.615115-07:00"
+      },
+      {
         "title": "Ocupación hotelera en Rosarito experimenta leve repunte",
         "summary": "Sector turístico de Rosarito registra incremento modesto en últimos meses.",
         "source": "AFN Tijuana",
@@ -86,6 +121,20 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Puente Chaparral cerrará temporalmente por tareas de mantenimiento",
+        "summary": "Paso fronterizo en Tijuana suspenderá operaciones a partir de lunes para reparaciones necesarias.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/cerraran-puente-chaparral-a-partir-de-manana-para-darle-mantenimiento/",
+        "_added_at": "2026-08-03T08:08:09.615115-07:00"
+      },
+      {
+        "title": "Adulto mayor embestido por vehículo sin placas resulta gravemente herido",
+        "summary": "Persona de la tercera edad sufre atropellamiento en Tijuana a manos de conductor que no fue identificado.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97552/Adulto-mayor-en-bicicleta-es-embestido-por-autom%C3%B3vil-sin-placas;-resulta-gravemente-herido",
+        "_added_at": "2026-08-03T08:08:09.615115-07:00"
+      },
       {
         "title": "Juez ordena medidas para descontaminar río Tijuana",
         "summary": "Autoridad judicial concede suspensión y requiere acciones para mejorar condiciones del cauce.",
@@ -116,5 +165,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-03T03:01:32.933208-07:00"
+  "last_updated": "2026-08-03T08:08:09.615115-07:00"
 }

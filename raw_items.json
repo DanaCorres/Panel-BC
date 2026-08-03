@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T10:01:32.187121+00:00",
+  "generated_at": "2026-08-03T15:08:08.957575+00:00",
   "items": [
     {
       "source": "ZETA Tijuana",
@@ -60,6 +60,30 @@
       "title": "Máxima inoperancia",
       "url": "https://zetatijuana.com/2026/08/maxima-inoperancia/?utm_source=rss&utm_medium=rss&utm_campaign=maxima-inoperancia",
       "published": "Sun, 02 Aug 2026 16:00:31 +0000"
+    },
+    {
+      "source": "AFN Tijuana",
+      "title": "Asesinan a un hombre en una fiesta en la colonia la Ciénega",
+      "url": "https://www.afntijuana.info/seguridad/179875_asesinan_a_un_hombre_en_una_fiesta_en_la_colonia_la_cienega",
+      "published": ""
+    },
+    {
+      "source": "AFN Tijuana",
+      "title": "Duró diez horas audiencia; la FGE presentará hoy argumentos contra Mendívil",
+      "url": "https://www.afntijuana.info/informacion_general/179874_duro_diez_horas_audiencia_la_fge_presentara_hoy_argumentos_contra_mendivil",
+      "published": ""
+    },
+    {
+      "source": "AFN Tijuana",
+      "title": "SHCP paga a BC 23,856 mdp de Participaciones; gobierno sin reportar 1,535 mdp",
+      "url": "https://www.afntijuana.info/empresarial/179873_shcp_paga_a_bc_23_856_mdp_de_participaciones_gobierno_sin_reportar_1_535_mdp",
+      "published": ""
+    },
+    {
+      "source": "AFN Tijuana",
+      "title": "Manufactura tira economía de Actividades Secundarias de BC; sigue recesión",
+      "url": "https://www.afntijuana.info/empresarial/179872_manufactura_tira_economia_de_actividades_secundarias_de_bc_sigue_recesion",
+      "published": ""
     },
     {
       "source": "AFN Tijuana",
@@ -125,30 +149,6 @@
       "source": "AFN Tijuana",
       "title": "Bajó casi 30 por ciento el delito de homicidio doloso durante el mes de julio en Tijuana: SSPCM",
       "url": "https://www.afntijuana.info/informacion_general/179861_bajo_casi_30_por_ciento_el_delito_de_homicidio_doloso_durante_el_mes_de_julio_en_tijuana_sspcm",
-      "published": ""
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "¿Reciben instrucción nacional? Julieta se acerca a Bonilla",
-      "url": "https://www.afntijuana.info/informacion_general/179860_ireciben_instruccion_nacional_julieta_se_acerca_a_bonilla",
-      "published": ""
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Obra de rehabilitación en la avenida Revolución causa afectaciones a comerciantes",
-      "url": "https://www.afntijuana.info/informacion_general/179859_obra_de_rehabilitacion_en_la_avenida_revolucion_causa_afectaciones_a_comerciantes",
-      "published": ""
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Concede juez suspensión definitiva; ordena medidas para sanear el río Tijuana",
-      "url": "https://www.afntijuana.info/informacion_general/179858_concede_juez_suspension_definitiva_ordena_medidas_para_sanear_el_rio_tijuana",
-      "published": ""
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Julieta acusa a Burgueño; viene comisión por pleito Marina Vs Bonilla",
-      "url": "https://www.afntijuana.info/afn_politico/179857_julieta_acusa_a_burgueno_viene_comision_por_pleito_marina_vs_bonilla",
       "published": ""
     },
     {
@@ -249,13 +249,49 @@
     },
     {
       "source": "El Imparcial (Tijuana)",
-      "title": "Adulto mayor queda grave tras ser atropellado por vehículo sin placas en bulevar Insurgentes",
-      "url": "https://www.elimparcial.com/tij/tijuana/2026/08/03/adulto-mayor-queda-grave-tras-ser-atropellado-por-vehiculo-sin-placas-en-bulevar-insurgentes/",
+      "title": "BC casi duplica muertes por calor extremo registradas 2025",
+      "url": "https://www.elimparcial.com/mxl/mexicali/2026/08/02/baja-california-casi-duplica-las-muertes-por-temperaturas-extremas-registradas-en-todo-2025/",
       "published": ""
     },
     {
       "source": "El Imparcial (Tijuana)",
-      "title": "Un ciclista de 63 años sufrió lesiones de gravedad luego de ser embestido por un automóvil sin placas. El conductor fue detenido mientras se realizan las investigaciones.",
+      "title": "El estado suma 19 fallecimientos y 119 personas afectadas durante la actual temporada de calor; el año pasado cerró con 10 defunciones.",
+      "url": "https://www.elimparcial.com/mxl/mexicali/2026/08/02/baja-california-casi-duplica-las-muertes-por-temperaturas-extremas-registradas-en-todo-2025/",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial (Tijuana)",
+      "title": "Baja California reforzará supervisión en preparatorias militarizadas tras caso de Tamaulipas",
+      "url": "https://www.elimparcial.com/tij/tijuana/2026/08/03/baja-california-reforzara-supervision-en-preparatorias-militarizadas-tras-caso-de-tamaulipas/",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial (Tijuana)",
+      "title": "Empresas de Tijuana invierten en pipas e infraestructura para prevenir nuevos cortes de agua",
+      "url": "https://www.elimparcial.com/tij/tijuana/2026/08/02/empresas-de-tijuana-invierten-en-pipas-e-infraestructura-para-prevenir-nuevos-cortes-de-agua/",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial (Tijuana)",
+      "title": "Falta de agua y servicios públicos reduce atractivo de viviendas en Tijuana, advierte sector inmobiliario",
+      "url": "https://www.elimparcial.com/tij/tijuana/2026/08/02/falta-de-agua-y-servicios-publicos-reduce-atractivo-de-viviendas-en-tijuana-advierte-sector-inmobiliario/",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial (Tijuana)",
+      "title": "Comercios prevén afectaciones por nueva etapa de peatonalización en la avenida Revolución",
+      "url": "https://www.elimparcial.com/tij/tijuana/2026/08/03/comercios-preven-afectaciones-por-nueva-etapa-de-peatonalizacion-en-la-avenida-revolucion/",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial (Tijuana)",
+      "title": "Proponen hacer obligatoria la esterilización de mascotas para reducir perros y gatos en las calles de Tijuana",
+      "url": "https://www.elimparcial.com/tij/tijuana/2026/08/03/proponen-hacer-obligatoria-la-esterilizacion-de-mascotas-para-reducir-perros-y-gatos-en-las-calles-de-tijuana/",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial (Tijuana)",
+      "title": "Adulto mayor queda grave tras ser atropellado por vehículo sin placas en bulevar Insurgentes",
       "url": "https://www.elimparcial.com/tij/tijuana/2026/08/03/adulto-mayor-queda-grave-tras-ser-atropellado-por-vehiculo-sin-placas-en-bulevar-insurgentes/",
       "published": ""
     },
@@ -293,42 +329,6 @@
       "source": "El Imparcial (Tijuana)",
       "title": "Se busca José Francisco Sandoval Saldívar, de 33 años",
       "url": "https://www.elimparcial.com/tij/policiaca/2026/08/03/se-busca-jose-francisco-sandoval-saldivar-de-33-anos/",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Desaparecidos en Baja California",
-      "url": "https://www.elimparcial.com/tags/desaparecidos-en-baja-california/",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Se busca  Uriel Vidal Cárdenas Ocampo de 41 años",
-      "url": "https://www.elimparcial.com/tij/policiaca/2026/08/03/se-busca-uriel-vidal-cardenas-ocampo-de-41-anos/",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Desaparecidos en Baja California",
-      "url": "https://www.elimparcial.com/tags/desaparecidos-en-baja-california/",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Se busca Megan Dunaway Carrión de 39 años",
-      "url": "https://www.elimparcial.com/tij/policiaca/2026/08/03/se-busca-megan-dunaway-carrion-de-39-anos/",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Desaparecidos en Baja California",
-      "url": "https://www.elimparcial.com/tags/desaparecidos-en-baja-california/",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Se busca José Eduardo Hernández Ramos de 21 años de edad",
-      "url": "https://www.elimparcial.com/tij/policiaca/2026/08/03/se-busca-jose-eduardo-hernandez-ramos-de-21-anos-de-edad/",
       "published": ""
     },
     {
