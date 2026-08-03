@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T03:42:04.838368+00:00",
+  "generated_at": "2026-08-03T10:01:32.187121+00:00",
   "items": [
     {
       "source": "ZETA Tijuana",
@@ -60,6 +60,18 @@
       "title": "Máxima inoperancia",
       "url": "https://zetatijuana.com/2026/08/maxima-inoperancia/?utm_source=rss&utm_medium=rss&utm_campaign=maxima-inoperancia",
       "published": "Sun, 02 Aug 2026 16:00:31 +0000"
+    },
+    {
+      "source": "AFN Tijuana",
+      "title": "Defensa de Mendívil García destaca presuntas inconsistencias de la fiscalía",
+      "url": "https://www.afntijuana.info/informacion_general/179871_defensa_de_mendivil_garcia_destaca_presuntas_inconsistencias_de_la_fiscalia",
+      "published": ""
+    },
+    {
+      "source": "AFN Tijuana",
+      "title": "Aplaza Morena publicación de la convocatoria para candidatos a diputados y alcaldes",
+      "url": "https://www.afntijuana.info/informacion_general/179870_aplaza_morena_publicacion_de_la_convocatoria_para_candidatos_a_diputados_y_alcaldes",
+      "published": ""
     },
     {
       "source": "AFN Tijuana",
@@ -140,15 +152,27 @@
       "published": ""
     },
     {
-      "source": "AFN Tijuana",
-      "title": "Detienen a presunto responsable de violencia familiar y daños a una vivienda",
-      "url": "https://www.afntijuana.info/seguridad/179856_detienen_a_presunto_responsable_de_violencia_familiar_y_danos_a_una_vivienda",
+      "source": "El Mexicano",
+      "title": "Hombre muere calcinado tras incendio de vivienda improvisada en TecatePoliciaca |2 de agosto",
+      "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97553/Hombre-muere-calcinado-tras-incendio-de-vivienda-improvisada-en-Tecate",
       "published": ""
     },
     {
-      "source": "AFN Tijuana",
-      "title": "Poder Judicial instaló módulo de atención y enlace en los juzgados civiles",
-      "url": "https://www.afntijuana.info/informacion_general/179855_poder_judicial_instalo_modulo_de_atencion_y_enlace_en_los_juzgados_civiles",
+      "source": "El Mexicano",
+      "title": "Hombre muere calcinado tras incendio de vivienda improvisada en TecatePoliciaca| domingo 02 de agosto",
+      "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97553/Hombre-muere-calcinado-tras-incendio-de-vivienda-improvisada-en-Tecate",
+      "published": ""
+    },
+    {
+      "source": "El Mexicano",
+      "title": "Adulto mayor en bicicleta es embestido por automóvil sin placas; resulta gravemente heridoPoliciaca |2 de agosto",
+      "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97552/Adulto-mayor-en-bicicleta-es-embestido-por-autom%C3%B3vil-sin-placas;-resulta-gravemente-herido",
+      "published": ""
+    },
+    {
+      "source": "El Mexicano",
+      "title": "Adulto mayor en bicicleta es embestido por automóvil sin placas; resulta gravemente heridoPoliciaca| domingo 02 de agosto",
+      "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97552/Adulto-mayor-en-bicicleta-es-embestido-por-autom%C3%B3vil-sin-placas;-resulta-gravemente-herido",
       "published": ""
     },
     {
@@ -201,30 +225,6 @@
     },
     {
       "source": "El Mexicano",
-      "title": "Reporta Rosarito saldo positivo en ocupación y tarifa hoteleraRosarito |2 de agosto",
-      "url": "https://el-mexicano.com.mx/Noticia/Rosarito/97546/Reporta-Rosarito-saldo-positivo-en-ocupaci%C3%B3n-y-tarifa-hotelera",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Reporta Rosarito saldo positivo en ocupación y tarifa hoteleraRosarito| domingo 02 de agosto",
-      "url": "https://el-mexicano.com.mx/Noticia/Rosarito/97546/Reporta-Rosarito-saldo-positivo-en-ocupaci%C3%B3n-y-tarifa-hotelera",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Propone especialista rediseñar nodos viales para reducir hasta 50% el tráfico en TijuanaTijuana |2 de agosto",
-      "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97545/Propone-especialista-redise%C3%B1ar-nodos-viales-para-reducir-hasta-50%25-el-tr%C3%A1fico-en-Tijuana",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Propone especialista rediseñar nodos viales para reducir hasta 50% el tráfico en TijuanaTijuana| domingo 02 de agosto",
-      "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97545/Propone-especialista-redise%C3%B1ar-nodos-viales-para-reducir-hasta-50%25-el-tr%C3%A1fico-en-Tijuana",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
       "title": "Atienden a 100 personas en albergues contra clima extremosMexicali| domingo 02 de agosto",
       "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97532/Atienden-a-100-personas-en-albergues-contra-clima-extremos",
       "published": ""
@@ -249,86 +249,86 @@
     },
     {
       "source": "El Imparcial (Tijuana)",
-      "title": "Lleva SAT BC trámites vehiculares y descuentos a colonias de Tijuana con módulos móviles",
-      "url": "https://www.elimparcial.com/tij/tijuana/2026/08/03/lleva-sat-bc-tramites-vehiculares-y-descuentos-a-colonias-de-tijuana-con-modulos-moviles/",
+      "title": "Adulto mayor queda grave tras ser atropellado por vehículo sin placas en bulevar Insurgentes",
+      "url": "https://www.elimparcial.com/tij/tijuana/2026/08/03/adulto-mayor-queda-grave-tras-ser-atropellado-por-vehiculo-sin-placas-en-bulevar-insurgentes/",
       "published": ""
     },
     {
       "source": "El Imparcial (Tijuana)",
-      "title": "El programa \"SAT en tu Colonia\" acerca servicios vehiculares a comunidades alejadas y permite aprovechar descuentos de hasta el 100% en multas y adeudos.",
-      "url": "https://www.elimparcial.com/tij/tijuana/2026/08/03/lleva-sat-bc-tramites-vehiculares-y-descuentos-a-colonias-de-tijuana-con-modulos-moviles/",
+      "title": "Un ciclista de 63 años sufrió lesiones de gravedad luego de ser embestido por un automóvil sin placas. El conductor fue detenido mientras se realizan las investigaciones.",
+      "url": "https://www.elimparcial.com/tij/tijuana/2026/08/03/adulto-mayor-queda-grave-tras-ser-atropellado-por-vehiculo-sin-placas-en-bulevar-insurgentes/",
       "published": ""
     },
     {
       "source": "El Imparcial (Tijuana)",
-      "title": "Grullas de Amor: los doctores de la risa que llevan esperanza a hospitales de Tijuana",
-      "url": "https://www.elimparcial.com/tij/tijuana/2026/08/03/grullas-de-amor-los-doctores-de-la-risa-que-llevan-esperanza-a-hospitales-de-tijuana/",
+      "title": "Desaparecidos en Baja California",
+      "url": "https://www.elimparcial.com/tags/desaparecidos-en-baja-california/",
       "published": ""
     },
     {
       "source": "El Imparcial (Tijuana)",
-      "title": "Comercios prevén afectaciones por nueva etapa de peatonalización en la avenida Revolución",
-      "url": "https://www.elimparcial.com/tij/tijuana/2026/08/03/comercios-preven-afectaciones-por-nueva-etapa-de-peatonalizacion-en-la-avenida-revolucion/",
+      "title": "Se busca Fanny Karina Peña Reyes de 34 años",
+      "url": "https://www.elimparcial.com/tij/policiaca/2026/08/03/se-busca-fanny-karina-pena-reyes-de-34-anos/",
       "published": ""
     },
     {
       "source": "El Imparcial (Tijuana)",
-      "title": "Proponen hacer obligatoria la esterilización de mascotas para reducir perros y gatos en las calles de Tijuana",
-      "url": "https://www.elimparcial.com/tij/tijuana/2026/08/03/proponen-hacer-obligatoria-la-esterilizacion-de-mascotas-para-reducir-perros-y-gatos-en-las-calles-de-tijuana/",
+      "title": "Desaparecidos en Baja California",
+      "url": "https://www.elimparcial.com/tags/desaparecidos-en-baja-california/",
       "published": ""
     },
     {
       "source": "El Imparcial (Tijuana)",
-      "title": "Baja California reforzará supervisión en preparatorias militarizadas tras caso de Tamaulipas",
-      "url": "https://www.elimparcial.com/tij/tijuana/2026/08/03/baja-california-reforzara-supervision-en-preparatorias-militarizadas-tras-caso-de-tamaulipas/",
+      "title": "Se busca Víctor Manuel Alfani Ávalosde 45 años",
+      "url": "https://www.elimparcial.com/tij/policiaca/2026/08/03/se-busca-victor-manuel-alfani-avalosde-45-anos/",
       "published": ""
     },
     {
       "source": "El Imparcial (Tijuana)",
-      "title": "Tijuana se llena de cultura japonesa con colorida kermés en la Zona Centro",
-      "url": "https://www.elimparcial.com/tij/tijuana/2026/08/03/tijuana-se-llena-de-cultura-japonesa-con-colorida-kermes-en-la-zona-centro/",
+      "title": "Desaparecidos en Baja California",
+      "url": "https://www.elimparcial.com/tags/desaparecidos-en-baja-california/",
       "published": ""
     },
     {
       "source": "El Imparcial (Tijuana)",
-      "title": "Industria de Tijuana pide claridad en revisiones al transporte de carga para evitar afectaciones al comercio fronterizo",
-      "url": "https://www.elimparcial.com/tij/tijuana/2026/08/02/industria-de-tijuana-pide-claridad-en-revisiones-al-transporte-de-carga-para-evitar-afectaciones-al-comercio-fronterizo/",
+      "title": "Se busca José Francisco Sandoval Saldívar, de 33 años",
+      "url": "https://www.elimparcial.com/tij/policiaca/2026/08/03/se-busca-jose-francisco-sandoval-saldivar-de-33-anos/",
       "published": ""
     },
     {
       "source": "El Imparcial (Tijuana)",
-      "title": "Empresas de Tijuana invierten en pipas e infraestructura para prevenir nuevos cortes de agua",
-      "url": "https://www.elimparcial.com/tij/tijuana/2026/08/02/empresas-de-tijuana-invierten-en-pipas-e-infraestructura-para-prevenir-nuevos-cortes-de-agua/",
+      "title": "Desaparecidos en Baja California",
+      "url": "https://www.elimparcial.com/tags/desaparecidos-en-baja-california/",
       "published": ""
     },
     {
       "source": "El Imparcial (Tijuana)",
-      "title": "La psicología explica por qué las personas que siempre dejan todo para después no necesariamente son flojas, sino que podrían estar lidiando con miedo al fracaso, ansiedad o agotamiento mental",
-      "url": "https://www.elimparcial.com/estilos/2026/08/02/la-psicologia-explica-por-que-las-personas-que-siempre-dejan-todo-para-despues-no-siempre-son-flojas-sino-que-podrian-estar-evitando-emociones-incomodas-miedo-al-fracaso-o-agotamiento-mental/",
+      "title": "Se busca  Uriel Vidal Cárdenas Ocampo de 41 años",
+      "url": "https://www.elimparcial.com/tij/policiaca/2026/08/03/se-busca-uriel-vidal-cardenas-ocampo-de-41-anos/",
       "published": ""
     },
     {
       "source": "El Imparcial (Tijuana)",
-      "title": "Conductor cae con su pickup a la canalización del bulevar Los Olivos",
-      "url": "https://www.elimparcial.com/tij/policiaca/2026/08/02/conductor-cae-con-su-pickup-a-la-canalizacion-del-bulevar-los-olivos/",
+      "title": "Desaparecidos en Baja California",
+      "url": "https://www.elimparcial.com/tags/desaparecidos-en-baja-california/",
       "published": ""
     },
     {
       "source": "El Imparcial (Tijuana)",
-      "title": "Mujer de 54 años muere por ahogamiento en playa Baja Season",
-      "url": "https://www.elimparcial.com/tij/ensenada/2026/08/02/mujer-de-54-anos-muere-por-ahogamiento-en-playa-baja-season/",
+      "title": "Se busca Megan Dunaway Carrión de 39 años",
+      "url": "https://www.elimparcial.com/tij/policiaca/2026/08/03/se-busca-megan-dunaway-carrion-de-39-anos/",
       "published": ""
     },
     {
       "source": "El Imparcial (Tijuana)",
-      "title": "Figura de maestras sombra sigue sin reconocimiento en la Ley General de Educación",
-      "url": "https://www.elimparcial.com/tij/ensenada/2026/08/02/figura-de-maestras-sombra-sigue-sin-reconocimiento-en-la-ley-general-de-educacion/",
+      "title": "Desaparecidos en Baja California",
+      "url": "https://www.elimparcial.com/tags/desaparecidos-en-baja-california/",
       "published": ""
     },
     {
       "source": "El Imparcial (Tijuana)",
-      "title": "Ampliación de acceso San Miguel–Puerto requiere inversión de 498 mdp",
-      "url": "https://www.elimparcial.com/tij/ensenada/2026/08/02/ampliacion-de-acceso-san-miguelpuerto-requiere-inversion-de-498-mdp/",
+      "title": "Se busca José Eduardo Hernández Ramos de 21 años de edad",
+      "url": "https://www.elimparcial.com/tij/policiaca/2026/08/03/se-busca-jose-eduardo-hernandez-ramos-de-21-anos-de-edad/",
       "published": ""
     },
     {

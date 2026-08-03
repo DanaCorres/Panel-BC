@@ -1,288 +1,120 @@
 {
-  "date": "2026-08-02",
-  "run_count": 7,
+  "date": "2026-08-03",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Presunto intelectual de homicidio recibe prisión preventiva",
-        "summary": "El R1, acusado de ser autor intelectual del asesinato de Carlos Manzo, fue vinculado a proceso con medida cautelar de prisión preventiva.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/el-r1-presunto-autor-intelectual-del-homicidio-de-carlos-manzo-recibe-prision-preventiva/",
-        "_added_at": "2026-08-02T20:42:05.669951-07:00"
-      },
-      {
-        "title": "Accidente acuático fatal en playa de Ensenada",
-        "summary": "Se reportó una persona sin vida tras un accidente durante actividades acuáticas en una playa de Ensenada.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/reportan-a-persona-sin-vida-tras-accidente-acuatico-en-playa-de-ensenada/",
-        "_added_at": "2026-08-02T20:42:05.669951-07:00"
-      },
-      {
-        "title": "Detienen sospechoso de violencia familiar y daños",
-        "summary": "Fue aprehendido un presunto responsable de actos de violencia familiar e intento de daños a una vivienda.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/179856_detienen_a_presunto_responsable_de_violencia_familiar_y_danos_a_una_vivienda",
-        "_added_at": "2026-08-02T20:42:05.669951-07:00"
-      },
-      {
-        "title": "Homicidios en Tijuana cayeron casi 30% en julio",
-        "summary": "Autoridades reportan descenso significativo en muertes dolosas durante el mes pasado en la ciudad.",
+        "title": "Homicidios en Tijuana caen 30% durante julio",
+        "summary": "Autoridades reportan disminución significativa en delitos de homicidio doloso durante el mes de julio en la capital estatal.",
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/179861_bajo_casi_30_por_ciento_el_delito_de_homicidio_doloso_durante_el_mes_de_julio_en_tijuana_sspcm",
-        "_added_at": "2026-08-02T15:02:09.877669-07:00"
+        "_added_at": "2026-08-03T03:01:32.933208-07:00"
       },
       {
-        "title": "Persona fallece en accidente acuático en Ensenada",
-        "summary": "Reportan muerte tras incidente en playa local durante actividades acuáticas.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/reportan-a-persona-sin-vida-tras-accidente-acuatico-en-playa-de-ensenada/?utm_source=rss&utm_medium=rss&utm_campaign=reportan-a-persona-sin-vida-tras-accidente-acuatico-en-playa-de-ensenada",
-        "_added_at": "2026-08-02T15:02:09.877669-07:00"
-      },
-      {
-        "title": "Familia de policía Mexicali protesta en audiencia judicial",
-        "summary": "Allegados de Kevin González se manifiestan durante proceso de vinculación a proceso.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/en-mexicali-familiares-del-policia-kevin-gonzalez-se-manifiestan-durante-audiencia-de-vinculacion/?utm_source=rss&utm_medium=rss&utm_campaign=en-mexicali-familiares-del-policia-kevin-gonzalez-se-manifiestan-durante-audiencia-de-vinculacion",
-        "_added_at": "2026-08-02T15:02:09.877669-07:00"
-      },
-      {
-        "title": "Presunto intelectual de homicidio recibe prisión preventiva",
-        "summary": "El R1, acusado de ser autor intelectual del asesinato de Carlos Manzo, fue vinculado a proceso con prisión preventiva en Tijuana.",
+        "title": "Presunto intelectual de crimen recibe prisión preventiva",
+        "summary": "El R1, acusado de ordenar el homicidio de Carlos Manzo, queda bajo custodia preventiva tras audiencia.",
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/08/el-r1-presunto-autor-intelectual-del-homicidio-de-carlos-manzo-recibe-prision-preventiva/?utm_source=rss&utm_medium=rss&utm_campaign=el-r1-presunto-autor-intelectual-del-homicidio-de-carlos-manzo-recibe-prision-preventiva",
-        "_added_at": "2026-08-02T12:22:00.872986-07:00"
+        "_added_at": "2026-08-03T03:01:32.933208-07:00"
       },
       {
-        "title": "Narcobloqueos y quema de vehículos en respuesta a captura",
-        "summary": "Arresto de La Quiringua desata narcobloqueos y actos de vandalismo en carreteras de la región.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/179845_narcobloqueos_y_quema_de_vehiculos_por_detencion_de_poncho_la_quiringua",
-        "_added_at": "2026-08-02T12:22:00.872986-07:00"
+        "title": "Hombre muere calcinado en incendio de vivienda en Tecate",
+        "summary": "Persona fallece tras incendio en vivienda improvisada en municipio de Tecate.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97553/Hombre-muere-calcinado-tras-incendio-de-vivienda-improvisada-en-Tecate",
+        "_added_at": "2026-08-03T03:01:32.933208-07:00"
       },
       {
-        "title": "Patrulla choca con transporte público; hay lesionado",
-        "summary": "Accidente vial entre unidad policial y camión de pasajeros deja a un policía herido en Tijuana.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/179853_choque_entre_patrulla_y_un_camion_de_transporte_publico_deja_a_un_policia_lesionado",
-        "_added_at": "2026-08-02T12:22:00.872986-07:00"
-      },
-      {
-        "title": "Hombre detenido en Mexicali por homicidio con arma asegurada",
-        "summary": "Captura en Valle de Mexicali de sujeto con orden de aprehensión por delito grave.",
+        "title": "Persona sin vida tras accidente acuático en Ensenada",
+        "summary": "Reportan deceso de una persona en playa de Ensenada por incidente en el agua.",
         "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/detienen-en-valle-de-mexicali-a-hombre-con-orden-de-aprehension-por-homicidio-le-aseguran-un-arma/",
-        "_added_at": "2026-08-02T06:44:54.858266-07:00"
+        "url": "https://zetatijuana.com/2026/08/reportan-a-persona-sin-vida-tras-accidente-acuatico-en-playa-de-ensenada/?utm_source=rss&utm_medium=rss&utm_campaign=reportan-a-persona-sin-vida-tras-accidente-acuatico-en-playa-de-ensenada",
+        "_added_at": "2026-08-03T03:01:32.933208-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Mendívil niega acusaciones y denuncia persecución fiscal",
-        "summary": "Durante audiencia de vinculación, ex funcionario rechaza cargos y acusa a la fiscal de persecución política.",
+        "title": "Morena realiza asamblea en Tijuana para contrarrestar críticas",
+        "summary": "Morenistas se reúnen en Tijuana; liderazgo busca responder a acusaciones de la oposición.",
         "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/no-soy-eso-que-dice-la-fiscal-mendivil-durante-audiencia-de-vinculacion/",
-        "_added_at": "2026-08-02T20:42:05.669951-07:00"
+        "url": "https://zetatijuana.com/2026/08/morena-celebra-asamblea-en-tijuana-para-contrarrestar-mentiras-asegura-catalino-zavala/?utm_source=rss&utm_medium=rss&utm_campaign=morena-celebra-asamblea-en-tijuana-para-contrarrestar-mentiras-asegura-catalino-zavala",
+        "_added_at": "2026-08-03T03:01:32.933208-07:00"
       },
       {
-        "title": "Morena realiza asamblea en Tijuana contra desinformación",
-        "summary": "El partido político celebró reunión en la frontera con objetivo de desmentir versiones consideradas falsas.",
+        "title": "Morena retrasa convocatoria para candidatos a cargos locales",
+        "summary": "Partido pospone publicación de convocatoria para aspirantes a diputados y alcaldes.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179870_aplaza_morena_publicacion_de_la_convocatoria_para_candidatos_a_diputados_y_alcaldes",
+        "_added_at": "2026-08-03T03:01:32.933208-07:00"
+      },
+      {
+        "title": "Mendívil niega acusaciones durante audiencia de vinculación",
+        "summary": "Acusado refuta cargos formulados por fiscal durante procedimiento judicial.",
         "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/morena-celebra-asamblea-en-tijuana-para-contrarrestar-mentiras-asegura-catalino-zavala/",
-        "_added_at": "2026-08-02T20:42:05.669951-07:00"
+        "url": "https://zetatijuana.com/2026/08/no-soy-eso-que-dice-la-fiscal-mendivil-durante-audiencia-de-vinculacion/?utm_source=rss&utm_medium=rss&utm_campaign=no-soy-eso-que-dice-la-fiscal-mendivil-durante-audiencia-de-vinculacion",
+        "_added_at": "2026-08-03T03:01:32.933208-07:00"
       },
       {
-        "title": "Conflictos políticos internos generan tensión en gobierno",
-        "summary": "Se reportan fricciones entre funcionarios y posible intervención de comisiones para resolver diferencias.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/afn_politico/179857_julieta_acusa_a_burgueno_viene_comision_por_pleito_marina_vs_bonilla",
-        "_added_at": "2026-08-02T20:42:05.669951-07:00"
-      },
-      {
-        "title": "Juez ordena medidas para sanear Río Tijuana",
-        "summary": "Suspensión definitiva otorgada por juzgado incluye acciones concretas para limpiar cuerpo de agua.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179858_concede_juez_suspension_definitiva_ordena_medidas_para_sanear_el_rio_tijuana",
-        "_added_at": "2026-08-02T15:02:09.877669-07:00"
-      },
-      {
-        "title": "Río Tijuana entra en revisión T-MEC para obtener fondos",
-        "summary": "Buscan incluir saneamiento del río en tratado comercial para asegurar financiamiento federal.",
+        "title": "Tensión en audiencia de policía en Mexicali entre grupos",
+        "summary": "Familiares de agente y madres buscadoras presentes durante procedimiento de exdirector.",
         "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97542/Buscan-incluir-saneamiento-del-R%C3%ADo-Tijuana-en-revisi%C3%B3n-del-T-MEC-para-asegurar-recursos",
-        "_added_at": "2026-08-02T15:02:09.877669-07:00"
-      },
-      {
-        "title": "Alcalde de Tijuana reporta ahorro de 40 millones",
-        "summary": "Administración municipal anuncia reducción de gastos en últimas operaciones.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97541/Reporta-Ayuntamiento-de-Tijuana-ahorro-de-40-millones-de-pesos",
-        "_added_at": "2026-08-02T15:02:09.877669-07:00"
-      },
-      {
-        "title": "Van 13 denuncias contra funcionarios municipales en Tijuana",
-        "summary": "Instalan kiosco para reportar extorsiones en Zona Centro; acumulan trece quejas contra servidores públicos.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/van-13-denuncias-contra-funcionarios-municipales-instalan-kiosco-para-reportar-extorsiones-en-zona-centro/?utm_source=rss&utm_medium=rss&utm_campaign=van-13-denuncias-contra-funcionarios-municipales-instalan-kiosco-para-reportar-extorsiones-en-zona-centro",
-        "_added_at": "2026-08-02T12:22:00.872986-07:00"
-      },
-      {
-        "title": "13 denuncias contra funcionarios municipales en Tijuana",
-        "summary": "Instalan kiosco en Centro para reportar extorsiones; suben acusaciones contra servidores públicos.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/van-13-denuncias-contra-funcionarios-municipales-instalan-kiosco-para-reportar-extorsiones-en-zona-centro/",
-        "_added_at": "2026-08-02T09:07:58.922042-07:00"
-      },
-      {
-        "title": "Eva Moreno apoya fortalecer tejido social en BC",
-        "summary": "Funcionaria anuncia respaldo a iniciativas para mejorar bienestar familiar en la región.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179839_apoya_eva_moreno_fortalecer_el_tejido_social_y_el_bienestar_de_las_familias_de_bc",
-        "_added_at": "2026-08-02T09:07:58.922042-07:00"
-      },
-      {
-        "title": "Nueva Mesa Directiva del Congreso de BC encabezada por Eligio Valencia",
-        "summary": "Integran nueva directiva en el Congreso estatal con liderazgo definido.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/integran-nueva-mesa-directiva-en-el-congreso-de-bc-encabezada-por-eligio-valencia/",
-        "_added_at": "2026-08-02T06:44:54.858266-07:00"
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97550/Inicia-segunda-audiencia-contra-exdirector-de-la-Polic%C3%ADa-Municipal-en-medio-de-tensi%C3%B3n-entre-familiares-de-polic%C3%ADas-y-madres-buscadoras",
+        "_added_at": "2026-08-03T03:01:32.933208-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Rosarito registra incremento en ocupación hotelera",
-        "summary": "El destino turístico reportó aumento leve pero positivo en hospedaje durante últimos meses.",
+        "title": "Ocupación hotelera en Rosarito experimenta leve repunte",
+        "summary": "Sector turístico de Rosarito registra incremento modesto en últimos meses.",
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/179863_ocupacion_hotelera_en_rosarito_tuvo_un_leve_incremento_en_los_ultimos_meses",
-        "_added_at": "2026-08-02T20:42:05.669951-07:00"
+        "_added_at": "2026-08-03T03:01:32.933208-07:00"
       },
       {
-        "title": "SAT remates propiedades de empresas de juego",
-        "summary": "Autoridades fiscales subastan acciones y casinos de Codere, e hipódromo de las Américas.",
+        "title": "Cierre de puente Chaparral para labores de mantenimiento",
+        "summary": "Autoridades anuncian clausura temporal de importante conexión fronteriza para reparaciones.",
         "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/remata-sat-acciones-y-65-casinos-de-codere-e-hipodromo-de-las-americas/",
-        "_added_at": "2026-08-02T20:42:05.669951-07:00"
+        "url": "https://zetatijuana.com/2026/08/cerraran-puente-chaparral-a-partir-de-manana-para-darle-mantenimiento/?utm_source=rss&utm_medium=rss&utm_campaign=cerraran-puente-chaparral-a-partir-de-manana-para-darle-mantenimiento",
+        "_added_at": "2026-08-03T03:01:32.933208-07:00"
       },
       {
-        "title": "Obra en Revolución afecta negocios y comerciantes",
-        "summary": "Rehabilitación de avenida genera impacto negativo en establecimientos locales durante construcción.",
+        "title": "Comerciantes afectados por obras en avenida Revolución",
+        "summary": "Trabajos de rehabilitación en vía principal generan impacto en negocios locales.",
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/179859_obra_de_rehabilitacion_en_la_avenida_revolucion_causa_afectaciones_a_comerciantes",
-        "_added_at": "2026-08-02T15:02:09.877669-07:00"
-      },
-      {
-        "title": "Resurge turismo en avenida Revolución de Tijuana",
-        "summary": "Canirac reporta recuperación en flujo de visitantes y actividad comercial en el centro histórico.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179854_resurge_el_turismo_en_la_avenida_revolucion_canirac_tijuana",
-        "_added_at": "2026-08-02T12:22:00.872986-07:00"
-      },
-      {
-        "title": "CESPT reporta 32 colonias sin agua en Tijuana",
-        "summary": "Empresa de servicios reconoce abastecimiento nulo; ciudadanos denuncian 16 colonias adicionales afectadas.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/cespt-admite-32-colonias-sin-agua-pero-usuarios-reportan-otras-16-y-exigen-soluciones/",
-        "_added_at": "2026-08-02T09:07:58.922042-07:00"
-      },
-      {
-        "title": "Atienden a 100 personas en albergues por clima extremo",
-        "summary": "Mexicali habilita refugios para ciudadanos durante ola de calor récord en la región.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97532/Atienden-a-100-personas-en-albergues-contra-clima-extremos",
-        "_added_at": "2026-08-02T09:07:58.922042-07:00"
-      },
-      {
-        "title": "Primer evento Sabor a Tijuana 2026 reúne a chefs",
-        "summary": "Se realiza festival gastronómico con oferta culinaria e invitados especiales en la ciudad.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97528/Realizan-la-primera-edici%C3%B3n-de-%E2%80%9CSabor-a-Tijuana-2026%E2%80%9D-con-oferta-gastron%C3%B3mica-y-chefs-invitados",
-        "_added_at": "2026-08-02T09:07:58.922042-07:00"
-      },
-      {
-        "title": "Contadores advierten exceso de requisitos fiscales en BC",
-        "summary": "Profesionales denuncian incertidumbre jurídica y carga administrativa para contribuyentes locales.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179833_contadores_advierten_exceso_de_requisitos_fiscales_y_falta_de_certeza_juridica_para_contribuyentes",
-        "_added_at": "2026-08-02T01:33:56.419840-07:00"
-      },
-      {
-        "title": "Molina propone ruta de Baja 250 2027 de Mexicali a San Felipe",
-        "summary": "Se plantea nueva trayectoria para próxima edición de carrera de autos internacionalmente conocida.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179837_propone_molina_que_carrera_baja_250_2027_sea_de_mexicali_a_san_felipe",
-        "_added_at": "2026-08-02T01:33:56.419840-07:00"
+        "_added_at": "2026-08-03T03:01:32.933208-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Juez ordena medidas para saneamiento del río Tijuana",
-        "summary": "Tribunal concede suspensión definitiva y requiere acciones para mejorar condiciones del afluente.",
+        "title": "Juez ordena medidas para descontaminar río Tijuana",
+        "summary": "Autoridad judicial concede suspensión y requiere acciones para mejorar condiciones del cauce.",
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/179858_concede_juez_suspension_definitiva_ordena_medidas_para_sanear_el_rio_tijuana",
-        "_added_at": "2026-08-02T20:42:05.669951-07:00"
+        "_added_at": "2026-08-03T03:01:32.933208-07:00"
       },
       {
-        "title": "Advierten pérdida de áreas verdes en Tijuana",
-        "summary": "Especialistas alertan sobre reducción de espacios verdes en la ciudad fronteriza.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97547/Advierten-sobre-la-p%C3%A9rdida-de-%C3%A1reas-verdes-en-Tijuana",
-        "_added_at": "2026-08-02T20:42:05.669951-07:00"
-      },
-      {
-        "title": "Puente Chaparral cierra temporalmente por mantenimiento",
-        "summary": "Paso fronterizo suspenderá circulación a partir de mañana para trabajos de rehabilitación.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/cerraran-puente-chaparral-a-partir-de-manana-para-darle-mantenimiento/",
-        "_added_at": "2026-08-02T20:42:05.669951-07:00"
-      },
-      {
-        "title": "Albergues atienden a cien personas en clima extremo",
-        "summary": "Centros de acogida en Mexicali brindan refugio durante condiciones de calor intenso.",
+        "title": "Albergues atienden a 100 personas por calor extremo en Mexicali",
+        "summary": "Ciudadanía recibe asistencia en refugios durante condiciones climáticas adversas.",
         "source": "El Mexicano",
         "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97532/Atienden-a-100-personas-en-albergues-contra-clima-extremos",
-        "_added_at": "2026-08-02T20:42:05.669951-07:00"
+        "_added_at": "2026-08-03T03:01:32.933208-07:00"
       },
       {
-        "title": "Enfermeros Tácticos Tijuana venden agua para financiarse",
-        "summary": "Organización paramedical realiza ventas ante caída de donaciones y presupuesto limitado.",
+        "title": "Exponen pérdida de áreas verdes en Tijuana",
+        "summary": "Especialistas advierten sobre disminución de espacios naturales en la ciudad.",
         "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97543/Ante-la-ca%C3%ADda-de-donaciones,-Enfermeros-T%C3%A1cticos-de-Tijuana-realizan-venta-de-aguas-para-financiar-su-labor",
-        "_added_at": "2026-08-02T15:02:09.877669-07:00"
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97547/Advierten-sobre-la-p%C3%A9rdida-de-%C3%A1reas-verdes-en-Tijuana",
+        "_added_at": "2026-08-03T03:01:32.933208-07:00"
       },
       {
-        "title": "Punto de hidratación para prevenir golpes de calor",
-        "summary": "Salud abre desayunador Padre Chava en Zona Norte durante temporada de altas temperaturas.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97520/Abren-punto-de-hidrataci%C3%B3n-desayunador-Padre-Chava",
-        "_added_at": "2026-08-02T15:02:09.877669-07:00"
-      },
-      {
-        "title": "Vehículo cae a barranco de setenta metros en La Bufadora",
-        "summary": "Auto se despeña en carretera hacia zona turística de Ensenada; hay reporte de incidente.",
+        "title": "Inauguran exposición artística en Casa de Cultura Tijuana",
+        "summary": "Se abre muestra plástica en espacio cultural capitalino.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/179842_cayo_en_auto_a_barranco_de_70_metros_en_carretera_a_la_bufadora",
-        "_added_at": "2026-08-02T12:22:00.872986-07:00"
-      },
-      {
-        "title": "Adulto mayor con discapacidad vive de música en Centro",
-        "summary": "Persona de edad avanzada obtiene sustento diario mediante presentaciones musicales.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97529/Adulto-mayor-con-discapacidad-encuentra-en-la-m%C3%BAsica-su-sustento-diario-en-el-Centro-de-Tijuana",
-        "_added_at": "2026-08-02T09:07:58.922042-07:00"
-      },
-      {
-        "title": "Mexicali rompe récord de calor con 49.3 grados",
-        "summary": "Temperatura histórica registrada el viernes en la capital estatal.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/ayer-viernes-mexicali-rompio-record-de-calor-al-alcanzar-los-49-3-grados/",
-        "_added_at": "2026-08-02T06:44:54.858266-07:00"
-      },
-      {
-        "title": "CESPT admite 48 colonias sin servicio de agua en Tijuana",
-        "summary": "Autoridades reconocen crisis hídrica mientras usuarios reportan más zonas afectadas.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/cespt-admite-32-colonias-sin-agua-pero-usuarios-reportan-otras-16-y-exigen-soluciones/",
-        "_added_at": "2026-08-02T06:44:54.858266-07:00"
+        "url": "https://www.afntijuana.info/municipios/179864_inauguran_exposicion_plastica_en_la_casa_de_la_cultura_de_tijuana",
+        "_added_at": "2026-08-03T03:01:32.933208-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-02T20:42:05.669951-07:00"
+  "last_updated": "2026-08-03T03:01:32.933208-07:00"
 }
