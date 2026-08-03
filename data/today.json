@@ -1,8 +1,36 @@
 {
   "date": "2026-08-03",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Ataque armado en Colas del Matamoros mata a uno",
+        "summary": "Enfrentamiento a balazos deja un muerto y un herido en zona de Tijuana.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97560/Ataque-armado-en-Colas-de-Matamoros-deja-un-muerto-y-un-joven--herido",
+        "_added_at": "2026-08-03T12:48:04.756808-07:00"
+      },
+      {
+        "title": "Cadáver calcinado hallado tras incendio en vivienda",
+        "summary": "Mueren en incendio de casa improvisada en Tijuana.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/179881_hallan_cadaver_calcinado_tras_incendio_de_una_vivienda_improvisada",
+        "_added_at": "2026-08-03T12:48:04.756808-07:00"
+      },
+      {
+        "title": "Pareja investigada por estafas y robos violentos",
+        "summary": "Capturan a delincuentes acusados de fraudes y asaltos en Tijuana.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97575/Pareja-de-estafadores-ser%C3%A1n-investigados-por-robos-con-violencia",
+        "_added_at": "2026-08-03T12:48:04.756808-07:00"
+      },
+      {
+        "title": "Sujetos buscados por justicia capturados en Tijuana",
+        "summary": "Autoridades arrestan a personas prófugas en operativo en la ciudad.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97576/Caen-sujetos-buscados-por-la-justicia-en-Tijuana",
+        "_added_at": "2026-08-03T12:48:04.756808-07:00"
+      },
       {
         "title": "Presunto líder criminal recibe prisión preventiva por homicidio",
         "summary": "Sujeto identificado como \"El R1\" vinculado al crimen de Carlos Manzo queda en prisión preventiva tras audiencia en Tijuana.",
@@ -48,6 +76,27 @@
     ],
     "politica": [
       {
+        "title": "Campaña desigual: Morena sin espectaculares, Verde sí",
+        "summary": "Autoridades electorales impiden propaganda de Morena mientras Verde usa publicidad exterior.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/los-de-morena-impedidos-a-hacer-campana-en-espectaculares-jorge-ramos-si-lo-hace-en-el-verde/",
+        "_added_at": "2026-08-03T12:48:04.756808-07:00"
+      },
+      {
+        "title": "PRI defiende libertad de expresión contra censura",
+        "summary": "Moreira acusa a Morena de buscar limitar libertad política y mediática.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/nacionales/179885_morena_busca_censurar_y_el_pri_defendera_su_libertad_de_expresion_dice_moreira",
+        "_added_at": "2026-08-03T12:48:04.756808-07:00"
+      },
+      {
+        "title": "Investigación contra ex director policial de Mexicali",
+        "summary": "Fiscal acusa de animadversión en caso contra jefe seguridad anterior.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97565/Investigaci%C3%B3n-contra-ex-director-de-la-polic%C3%ADa-de-Mexicali-es-por-animadversi%C3%B3n-de-la-fiscal",
+        "_added_at": "2026-08-03T12:48:04.756808-07:00"
+      },
+      {
         "title": "Morena realiza asamblea en Tijuana contra supuestas mentiras",
         "summary": "Partido celebra reunión en la ciudad con el dirigente Catalino Zavala cuestionando información opositora.",
         "source": "ZETA Tijuana",
@@ -85,6 +134,27 @@
     ],
     "economia": [
       {
+        "title": "Dólar abre semana en 17.10 pesos en Tijuana",
+        "summary": "Tipo de cambio se cotiza alrededor de 17.10 pesos por dólar.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179888_inicia_la_semana_el_dolar_hasta_en_17_10_pesos_a_la_venta_en_tijuana",
+        "_added_at": "2026-08-03T12:48:04.756808-07:00"
+      },
+      {
+        "title": "CESPT con fugas masivas y falta mantenimiento",
+        "summary": "Sistema de agua de Tijuana tiene problemas mientras funcionario hace campaña.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/cespt-mas-fugas-falta-de-mantenimiento-vega-en-campana/",
+        "_added_at": "2026-08-03T12:48:04.756808-07:00"
+      },
+      {
+        "title": "Enfermeros Tácticos venden agua para sobrevivir",
+        "summary": "Donaciones caen y grupo sanitario recurre a venta de bebidas para financiarse.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97543/Ante-la-ca%C3%ADda-de-donaciones,-Enfermeros-T%C3%A1cticos-de-Tijuana-realizan-venta-de-aguas-para-financiar-su-labor",
+        "_added_at": "2026-08-03T12:48:04.756808-07:00"
+      },
+      {
         "title": "Manufactura debilita sector secundario de Baja California",
         "summary": "Actividades industriales mantienen economía estatal en recesión según últimos datos reportados.",
         "source": "AFN Tijuana",
@@ -121,6 +191,34 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Puente El Chaparral cerrado por reparaciones",
+        "summary": "Importante paso fronterizo de Tijuana suspende operaciones por mantenimiento.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179889_cierran_puente_de_el_chaparral_por_reparaciones",
+        "_added_at": "2026-08-03T12:48:04.756808-07:00"
+      },
+      {
+        "title": "Rescatan pareja tras choque de camioneta",
+        "summary": "Vehículo impacta ferretería en Tijuana; ocupantes evacuados.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179884_rescatan_a_pareja_de_una_camioneta_tras_impactar_contra_ferreteria",
+        "_added_at": "2026-08-03T12:48:04.756808-07:00"
+      },
+      {
+        "title": "Entrenan jóvenes de Policía Juvenil en defensa",
+        "summary": "Personal de seguridad en Tecate recibe capacitación en técnicas defensivas.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/comunidad/179892_entrenan_en_defensa_personal_a_jovenes_de_la_policia_juvenil_en_tecate",
+        "_added_at": "2026-08-03T12:48:04.756808-07:00"
+      },
+      {
+        "title": "Estudiantes exigen respeto a lugares en UNAM",
+        "summary": "Aspirantes que pasaron examen piden honrar sus espacios asignados.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/nacionales/179893_exigen_respetar_lugares_que_ya_obtuvieron_en_examen_de_admision_de_la_unam",
+        "_added_at": "2026-08-03T12:48:04.756808-07:00"
+      },
       {
         "title": "Puente Chaparral cerrará temporalmente por tareas de mantenimiento",
         "summary": "Paso fronterizo en Tijuana suspenderá operaciones a partir de lunes para reparaciones necesarias.",
@@ -165,5 +263,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-03T08:08:09.615115-07:00"
+  "last_updated": "2026-08-03T12:48:04.756808-07:00"
 }
