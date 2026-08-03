@@ -1,8 +1,29 @@
 {
   "date": "2026-08-03",
-  "run_count": 3,
+  "run_count": 4,
   "notes": {
     "seguridad": [
+      {
+        "title": "Vinculan a proceso a asaltantes de compradores de autos",
+        "summary": "Detienen a delincuentes que robaban a personas que compraban vehículos por internet en Tijuana.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/179899_vinculan_a_proceso_a_asaltantes_de_compradores_de_autos_en_linea",
+        "_added_at": "2026-08-03T15:13:38.733663-07:00"
+      },
+      {
+        "title": "Localizan cuerpo de hombre desaparecido en presa de Tecate",
+        "summary": "Encuentran cadáver de persona reportada como desaparecida en la presa Las Auras.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/179895_localizan_el_cuerpo_de_un_hombre_desaparecido_en_la_presa_las_auras_de_tecate",
+        "_added_at": "2026-08-03T15:13:38.733663-07:00"
+      },
+      {
+        "title": "Hallan posible cuerpo de joven desaparecido en Rosarito",
+        "summary": "Localizan cadáver en el mar que podría ser el de David, joven reportado como desaparecido.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97579/Hallan-cuerpo-en-el-mar;-podr%C3%ADa-ser-el-de-David,-joven-desaparecido-en-Rosarito",
+        "_added_at": "2026-08-03T15:13:38.733663-07:00"
+      },
       {
         "title": "Ataque armado en Colas del Matamoros mata a uno",
         "summary": "Enfrentamiento a balazos deja un muerto y un herido en zona de Tijuana.",
@@ -51,30 +72,30 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/179861_bajo_casi_30_por_ciento_el_delito_de_homicidio_doloso_durante_el_mes_de_julio_en_tijuana_sspcm",
         "_added_at": "2026-08-03T03:01:32.933208-07:00"
-      },
-      {
-        "title": "Presunto intelectual de crimen recibe prisión preventiva",
-        "summary": "El R1, acusado de ordenar el homicidio de Carlos Manzo, queda bajo custodia preventiva tras audiencia.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/el-r1-presunto-autor-intelectual-del-homicidio-de-carlos-manzo-recibe-prision-preventiva/?utm_source=rss&utm_medium=rss&utm_campaign=el-r1-presunto-autor-intelectual-del-homicidio-de-carlos-manzo-recibe-prision-preventiva",
-        "_added_at": "2026-08-03T03:01:32.933208-07:00"
-      },
-      {
-        "title": "Hombre muere calcinado en incendio de vivienda en Tecate",
-        "summary": "Persona fallece tras incendio en vivienda improvisada en municipio de Tecate.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97553/Hombre-muere-calcinado-tras-incendio-de-vivienda-improvisada-en-Tecate",
-        "_added_at": "2026-08-03T03:01:32.933208-07:00"
-      },
-      {
-        "title": "Persona sin vida tras accidente acuático en Ensenada",
-        "summary": "Reportan deceso de una persona en playa de Ensenada por incidente en el agua.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/reportan-a-persona-sin-vida-tras-accidente-acuatico-en-playa-de-ensenada/?utm_source=rss&utm_medium=rss&utm_campaign=reportan-a-persona-sin-vida-tras-accidente-acuatico-en-playa-de-ensenada",
-        "_added_at": "2026-08-03T03:01:32.933208-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Daylín García reelecta como coordinadora de MC en BC",
+        "summary": "Reconfirman a García al frente de Movimiento Ciudadano en Baja California.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/daylin-garcia-repetira-periodo-como-coordinadora-de-movimiento-ciudadano-en-bc/?utm_source=rss&utm_medium=rss&utm_campaign=daylin-garcia-repetira-periodo-como-coordinadora-de-movimiento-ciudadano-en-bc",
+        "_added_at": "2026-08-03T15:13:38.733663-07:00"
+      },
+      {
+        "title": "Exjueza advierte sobre reforma electoral peligrosa",
+        "summary": "Magistrada señala que reforma podría facilitar anulación de elecciones en Baja California.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/97584/Exjueza-advierte-que-reforma-podr%C3%ADa-facilitar-la-anulaci%C3%B3n-de-elecciones",
+        "_added_at": "2026-08-03T15:13:38.733663-07:00"
+      },
+      {
+        "title": "Advierten riesgo de censura por lineamientos de CRT",
+        "summary": "Organismos alertan sobre nuevas disposiciones de comunicación que podrían limitar libertad.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97582/Advierten-riesgo-de-censura-por-nuevos-lineamientos-de-la-CRT",
+        "_added_at": "2026-08-03T15:13:38.733663-07:00"
+      },
       {
         "title": "Campaña desigual: Morena sin espectaculares, Verde sí",
         "summary": "Autoridades electorales impiden propaganda de Morena mientras Verde usa publicidad exterior.",
@@ -122,13 +143,6 @@
         "summary": "Acusado refuta cargos formulados por fiscal durante procedimiento judicial.",
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/08/no-soy-eso-que-dice-la-fiscal-mendivil-durante-audiencia-de-vinculacion/?utm_source=rss&utm_medium=rss&utm_campaign=no-soy-eso-que-dice-la-fiscal-mendivil-durante-audiencia-de-vinculacion",
-        "_added_at": "2026-08-03T03:01:32.933208-07:00"
-      },
-      {
-        "title": "Tensión en audiencia de policía en Mexicali entre grupos",
-        "summary": "Familiares de agente y madres buscadoras presentes durante procedimiento de exdirector.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97550/Inicia-segunda-audiencia-contra-exdirector-de-la-Polic%C3%ADa-Municipal-en-medio-de-tensi%C3%B3n-entre-familiares-de-polic%C3%ADas-y-madres-buscadoras",
         "_added_at": "2026-08-03T03:01:32.933208-07:00"
       }
     ],
@@ -192,6 +206,27 @@
     ],
     "sociedad": [
       {
+        "title": "Cuestionan sistema de ingreso a preparatorias públicas",
+        "summary": "Padres de familia reclaman por nuevo procedimiento de admisión a bachilleratos.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/cuestionan-padres-de-familia-nuevo-sistema-de-ingreso-a-preparatorias/?utm_source=rss&utm_medium=rss&utm_campaign=cuestionan-padres-de-familia-nuevo-sistema-de-ingreso-a-preparatorias",
+        "_added_at": "2026-08-03T15:13:38.733663-07:00"
+      },
+      {
+        "title": "Miles acuden a inscribirse en preparatorias públicas",
+        "summary": "Gran afluencia de estudiantes para inscripción en bachilleratos ciclo 2026-2027.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97581/Acuden-miles-a-inscribirse-a-preparatorias-p%C3%BAblicas-para-el-ciclo-2026-2027",
+        "_added_at": "2026-08-03T15:13:38.733663-07:00"
+      },
+      {
+        "title": "Inauguran sala de lactancia en Rosarito",
+        "summary": "Palacio Municipal de Playas de Rosarito abre espacio para madres lactantes.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Rosarito/97580/Inauguran-sala-de-lactancia-en-Palacio-Municipal-de-Playas-de-Rosarito",
+        "_added_at": "2026-08-03T15:13:38.733663-07:00"
+      },
+      {
         "title": "Puente El Chaparral cerrado por reparaciones",
         "summary": "Importante paso fronterizo de Tijuana suspende operaciones por mantenimiento.",
         "source": "AFN Tijuana",
@@ -239,29 +274,8 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/179858_concede_juez_suspension_definitiva_ordena_medidas_para_sanear_el_rio_tijuana",
         "_added_at": "2026-08-03T03:01:32.933208-07:00"
-      },
-      {
-        "title": "Albergues atienden a 100 personas por calor extremo en Mexicali",
-        "summary": "Ciudadanía recibe asistencia en refugios durante condiciones climáticas adversas.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97532/Atienden-a-100-personas-en-albergues-contra-clima-extremos",
-        "_added_at": "2026-08-03T03:01:32.933208-07:00"
-      },
-      {
-        "title": "Exponen pérdida de áreas verdes en Tijuana",
-        "summary": "Especialistas advierten sobre disminución de espacios naturales en la ciudad.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97547/Advierten-sobre-la-p%C3%A9rdida-de-%C3%A1reas-verdes-en-Tijuana",
-        "_added_at": "2026-08-03T03:01:32.933208-07:00"
-      },
-      {
-        "title": "Inauguran exposición artística en Casa de Cultura Tijuana",
-        "summary": "Se abre muestra plástica en espacio cultural capitalino.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/municipios/179864_inauguran_exposicion_plastica_en_la_casa_de_la_cultura_de_tijuana",
-        "_added_at": "2026-08-03T03:01:32.933208-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-03T12:48:04.756808-07:00"
+  "last_updated": "2026-08-03T15:13:38.733663-07:00"
 }
