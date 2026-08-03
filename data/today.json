@@ -1,8 +1,29 @@
 {
   "date": "2026-08-02",
-  "run_count": 6,
+  "run_count": 7,
   "notes": {
     "seguridad": [
+      {
+        "title": "Presunto intelectual de homicidio recibe prisión preventiva",
+        "summary": "El R1, acusado de ser autor intelectual del asesinato de Carlos Manzo, fue vinculado a proceso con medida cautelar de prisión preventiva.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/el-r1-presunto-autor-intelectual-del-homicidio-de-carlos-manzo-recibe-prision-preventiva/",
+        "_added_at": "2026-08-02T20:42:05.669951-07:00"
+      },
+      {
+        "title": "Accidente acuático fatal en playa de Ensenada",
+        "summary": "Se reportó una persona sin vida tras un accidente durante actividades acuáticas en una playa de Ensenada.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/reportan-a-persona-sin-vida-tras-accidente-acuatico-en-playa-de-ensenada/",
+        "_added_at": "2026-08-02T20:42:05.669951-07:00"
+      },
+      {
+        "title": "Detienen sospechoso de violencia familiar y daños",
+        "summary": "Fue aprehendido un presunto responsable de actos de violencia familiar e intento de daños a una vivienda.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/179856_detienen_a_presunto_responsable_de_violencia_familiar_y_danos_a_una_vivienda",
+        "_added_at": "2026-08-02T20:42:05.669951-07:00"
+      },
       {
         "title": "Homicidios en Tijuana cayeron casi 30% en julio",
         "summary": "Autoridades reportan descenso significativo en muertes dolosas durante el mes pasado en la ciudad.",
@@ -51,30 +72,30 @@
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/08/detienen-en-valle-de-mexicali-a-hombre-con-orden-de-aprehension-por-homicidio-le-aseguran-un-arma/",
         "_added_at": "2026-08-02T06:44:54.858266-07:00"
-      },
-      {
-        "title": "Detención genera narcobloqueos y quema de vehículos en carreteras",
-        "summary": "Arresto de narcotraficante desata violencia y bloqueos en respuesta de grupos criminales en la región.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/arresto-de-alfonso-fernandez-magallon-la-quiringua-desatada-narcobloqueos-en-michoacan/?utm_source=rss&utm_medium=rss&utm_campaign=arresto-de-alfonso-fernandez-magallon-la-quiringua-desatada-narcobloqueos-en-michoacan",
-        "_added_at": "2026-08-02T03:45:53.557923-07:00"
-      },
-      {
-        "title": "Detienen a ex director de policía de Mexicali por desapariciones",
-        "summary": "Ex mando policial y agentes quedan en prisión preventiva por presunta participación en desapariciones forzadas y asociación delictuosa.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97467/Ex-director-de-polic%C3%ADa-de-Mexicali-y-ex-agentes-quedan-en-prisi%C3%B3n-preventiva",
-        "_added_at": "2026-08-02T01:33:56.419840-07:00"
-      },
-      {
-        "title": "Arrestan a hombre con orden por homicidio en Valle de Mexicali",
-        "summary": "Capturan individuo con antecedente penal; le aseguran arma de fuego durante operativo.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/detienen-en-valle-de-mexicali-a-hombre-con-orden-de-aprehension-por-homicidio-le-aseguran-un-arma/?utm_source=rss&utm_medium=rss&utm_campaign=detienen-en-valle-de-mexicali-a-hombre-con-orden-de-aprehension-por-homicidio-le-aseguran-un-arma",
-        "_added_at": "2026-08-02T01:33:56.419840-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Mendívil niega acusaciones y denuncia persecución fiscal",
+        "summary": "Durante audiencia de vinculación, ex funcionario rechaza cargos y acusa a la fiscal de persecución política.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/no-soy-eso-que-dice-la-fiscal-mendivil-durante-audiencia-de-vinculacion/",
+        "_added_at": "2026-08-02T20:42:05.669951-07:00"
+      },
+      {
+        "title": "Morena realiza asamblea en Tijuana contra desinformación",
+        "summary": "El partido político celebró reunión en la frontera con objetivo de desmentir versiones consideradas falsas.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/morena-celebra-asamblea-en-tijuana-para-contrarrestar-mentiras-asegura-catalino-zavala/",
+        "_added_at": "2026-08-02T20:42:05.669951-07:00"
+      },
+      {
+        "title": "Conflictos políticos internos generan tensión en gobierno",
+        "summary": "Se reportan fricciones entre funcionarios y posible intervención de comisiones para resolver diferencias.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/afn_politico/179857_julieta_acusa_a_burgueno_viene_comision_por_pleito_marina_vs_bonilla",
+        "_added_at": "2026-08-02T20:42:05.669951-07:00"
+      },
       {
         "title": "Juez ordena medidas para sanear Río Tijuana",
         "summary": "Suspensión definitiva otorgada por juzgado incluye acciones concretas para limpiar cuerpo de agua.",
@@ -123,30 +144,23 @@
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/08/integran-nueva-mesa-directiva-en-el-congreso-de-bc-encabezada-por-eligio-valencia/",
         "_added_at": "2026-08-02T06:44:54.858266-07:00"
-      },
-      {
-        "title": "Ex director de policía de Mexicali en prisión preventiva",
-        "summary": "Autoridades retienen a funcionario anterior acusado de desaparición forzada y asociación delictuosa.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97467/Ex-director-de-polic%C3%ADa-de-Mexicali-y-ex-agentes-quedan-en-prisi%C3%B3n-preventiva",
-        "_added_at": "2026-08-02T03:45:53.557923-07:00"
-      },
-      {
-        "title": "Nueva Mesa Directiva del Congreso de BC encabezada por Valencia",
-        "summary": "Se integra nuevo liderazgo legislativo en la capital estatal con Eligio Valencia como conductor.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/integran-nueva-mesa-directiva-en-el-congreso-de-bc-encabezada-por-eligio-valencia/?utm_source=rss&utm_medium=rss&utm_campaign=integran-nueva-mesa-directiva-en-el-congreso-de-bc-encabezada-por-eligio-valencia",
-        "_added_at": "2026-08-02T01:33:56.419840-07:00"
-      },
-      {
-        "title": "Diputada del PAN denuncia escenario de ingobernabilidad en BC",
-        "summary": "Legisladora opositora advierte sobre crisis institucional y falta de control en la entidad.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179834_bc_enfrenta_un_escenario_de_ingobernabilidad_afirma_diputada_del_pan",
-        "_added_at": "2026-08-02T01:33:56.419840-07:00"
       }
     ],
     "economia": [
+      {
+        "title": "Rosarito registra incremento en ocupación hotelera",
+        "summary": "El destino turístico reportó aumento leve pero positivo en hospedaje durante últimos meses.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179863_ocupacion_hotelera_en_rosarito_tuvo_un_leve_incremento_en_los_ultimos_meses",
+        "_added_at": "2026-08-02T20:42:05.669951-07:00"
+      },
+      {
+        "title": "SAT remates propiedades de empresas de juego",
+        "summary": "Autoridades fiscales subastan acciones y casinos de Codere, e hipódromo de las Américas.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/remata-sat-acciones-y-65-casinos-de-codere-e-hipodromo-de-las-americas/",
+        "_added_at": "2026-08-02T20:42:05.669951-07:00"
+      },
       {
         "title": "Obra en Revolución afecta negocios y comerciantes",
         "summary": "Rehabilitación de avenida genera impacto negativo en establecimientos locales durante construcción.",
@@ -199,6 +213,34 @@
     ],
     "sociedad": [
       {
+        "title": "Juez ordena medidas para saneamiento del río Tijuana",
+        "summary": "Tribunal concede suspensión definitiva y requiere acciones para mejorar condiciones del afluente.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179858_concede_juez_suspension_definitiva_ordena_medidas_para_sanear_el_rio_tijuana",
+        "_added_at": "2026-08-02T20:42:05.669951-07:00"
+      },
+      {
+        "title": "Advierten pérdida de áreas verdes en Tijuana",
+        "summary": "Especialistas alertan sobre reducción de espacios verdes en la ciudad fronteriza.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97547/Advierten-sobre-la-p%C3%A9rdida-de-%C3%A1reas-verdes-en-Tijuana",
+        "_added_at": "2026-08-02T20:42:05.669951-07:00"
+      },
+      {
+        "title": "Puente Chaparral cierra temporalmente por mantenimiento",
+        "summary": "Paso fronterizo suspenderá circulación a partir de mañana para trabajos de rehabilitación.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/cerraran-puente-chaparral-a-partir-de-manana-para-darle-mantenimiento/",
+        "_added_at": "2026-08-02T20:42:05.669951-07:00"
+      },
+      {
+        "title": "Albergues atienden a cien personas en clima extremo",
+        "summary": "Centros de acogida en Mexicali brindan refugio durante condiciones de calor intenso.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97532/Atienden-a-100-personas-en-albergues-contra-clima-extremos",
+        "_added_at": "2026-08-02T20:42:05.669951-07:00"
+      },
+      {
         "title": "Enfermeros Tácticos Tijuana venden agua para financiarse",
         "summary": "Organización paramedical realiza ventas ante caída de donaciones y presupuesto limitado.",
         "source": "El Mexicano",
@@ -239,36 +281,8 @@
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/08/cespt-admite-32-colonias-sin-agua-pero-usuarios-reportan-otras-16-y-exigen-soluciones/",
         "_added_at": "2026-08-02T06:44:54.858266-07:00"
-      },
-      {
-        "title": "Invitan a participar en 200+ talleres de arte y cultura",
-        "summary": "Oferta cultural con más de doscientos talleres de arte abiertos a participación comunitaria.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179843_invitan_a_participar_en_mas_de_200_talleres_de_arte_y_cultura",
-        "_added_at": "2026-08-02T03:45:53.557923-07:00"
-      },
-      {
-        "title": "32 colonias sin agua en Tijuana; usuarios reportan más de 16",
-        "summary": "CESPT reconoce crisis hídrica; ciudadanos denuncian mayor cobertura del problema y demandan acciones.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/cespt-admite-32-colonias-sin-agua-pero-usuarios-reportan-otras-16-y-exigen-soluciones/?utm_source=rss&utm_medium=rss&utm_campaign=cespt-admite-32-colonias-sin-agua-pero-usuarios-reportan-otras-16-y-exigen-soluciones",
-        "_added_at": "2026-08-02T01:33:56.419840-07:00"
-      },
-      {
-        "title": "Mexicali rompe récord de calor con 49.3 grados",
-        "summary": "Capital estatal experimenta jornada de temperaturas extremas registrando nuevo máximo histórico.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/ayer-viernes-mexicali-rompio-record-de-calor-al-alcanzar-los-49-3-grados/?utm_source=rss&utm_medium=rss&utm_campaign=ayer-viernes-mexicali-rompio-record-de-calor-al-alcanzar-los-49-3-grados",
-        "_added_at": "2026-08-02T01:33:56.419840-07:00"
-      },
-      {
-        "title": "Comunidad haitiana en Mexicali solicita presencia de COMAR",
-        "summary": "Migrantes piden asistencia del organismo federal para regularizar situación migratoria.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179835_comunidad_haitiana_en_mexicali_piden_presencia_de_la_comar",
-        "_added_at": "2026-08-02T01:33:56.419840-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-02T15:02:09.877669-07:00"
+  "last_updated": "2026-08-02T20:42:05.669951-07:00"
 }
