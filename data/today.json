@@ -1,6 +1,6 @@
 {
   "date": "2026-08-04",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
       {
@@ -33,6 +33,13 @@
       }
     ],
     "politica": [
+      {
+        "title": "Piden investigaciones serias sobre desaparecidos en Mexicali",
+        "summary": "Organizaciones solicitan acciones contundentes para esclarecer casos de personas desaparecidas.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179915_piden_investigaciones_serias_sobre_los_desaparecidos_en_mexicali",
+        "_added_at": "2026-08-04T04:30:33.300963-07:00"
+      },
       {
         "title": "Juez libera a Mendívil; vincula a tres policías municipales",
         "summary": "Exdirector es liberado mientras que tres oficiales municipales quedan ligados a proceso.",
@@ -109,5 +116,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-04T01:50:34.253379-07:00"
+  "last_updated": "2026-08-04T04:30:33.300963-07:00"
 }
