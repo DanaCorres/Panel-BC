@@ -1,8 +1,22 @@
 {
   "date": "2026-08-04",
-  "run_count": 5,
+  "run_count": 6,
   "notes": {
     "seguridad": [
+      {
+        "title": "Destruyen 36 mil plantas marihuana entre Tijuana y Rosarito",
+        "summary": "Autoridades localizaron y destruyeron una plantación clandestina con miles de plantas de marihuana en zona rural entre ambas ciudades.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/destruyen-36-mil-plantas-de-marihuana-ocultas-en-cerro-entre-tijuana-y-rosarito/",
+        "_added_at": "2026-08-04T15:19:01.353682-07:00"
+      },
+      {
+        "title": "Capturan sujeto armado responsable de robo violento",
+        "summary": "Detienen a individuo portador de arma vinculado a asaltos a mano armada en la región.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97635/Cae-sujeto-armado,-responsable-de-robo-con-violencia",
+        "_added_at": "2026-08-04T15:19:01.353682-07:00"
+      },
       {
         "title": "Homicidio frente a campus universitario en Tecate",
         "summary": "Asesinan a un hombre a balazos cerca de la UABC en Tecate. Autoridades investigan el incidente.",
@@ -58,23 +72,23 @@
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/08/muere-mujer-y-tres-personas-resultan-lesionadas-tras-choque-en-puente-lazaro-cardenas-rio-nuevo-en-mexicali/?utm_source=rss&utm_medium=rss&utm_campaign=muere-mujer-y-tres-personas-resultan-lesionadas-tras-choque-en-puente-lazaro-cardenas-rio-nuevo-en-mexicali",
         "_added_at": "2026-08-04T09:58:31.713205-07:00"
-      },
-      {
-        "title": "Vendedor de nieves asesinado en tiroteo en Tijuana",
-        "summary": "Hombre dedicado a vender helados fue atacado a balazos en la colonia Mariano Matamoros, Tijuana.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/asesinan-a-vendedor-de-nieves-tras-ataque-armado-en-el-mariano-matamoros/",
-        "_added_at": "2026-08-04T01:50:34.253379-07:00"
-      },
-      {
-        "title": "Restos humanos abandonados en vehículo en Tijuana",
-        "summary": "Encuentran automóvil con cadáver en estacionamiento de supermercado de Tijuana.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/abandonan-vehiculo-con-restos-humanos-en-estacionamiento-de-supermercado-en-tijuana/",
-        "_added_at": "2026-08-04T01:50:34.253379-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Marina del Pilar responde a acusaciones de Mendívil",
+        "summary": "Gobernadora expresa confianza en profesionalismo de fiscalía ante señalamientos hechos por diputado opositor.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/yo-confio-en-el-profesionalismo-de-la-fiscal-marina-del-pilar-responde-a-acusaciones-de-mendivil/",
+        "_added_at": "2026-08-04T15:19:01.353682-07:00"
+      },
+      {
+        "title": "Exoficial mayor desaparecido vinculado a Rocha",
+        "summary": "Carlos Beltrán, exfuncionario, permanece desaparecido con posibles nexos a anterior administración estatal.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/carlos-beltran-exoficial-mayor-desaparecido-vinculado-a-rocha/",
+        "_added_at": "2026-08-04T15:19:01.353682-07:00"
+      },
       {
         "title": "Pelayo busca gubernatura nuevamente con el PAN",
         "summary": "Pelayo anuncia candidatura a gobernador por el PAN en próximas elecciones.",
@@ -130,23 +144,16 @@
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/08/liberan-a-exdirector-pedro-ariel-mendivil-vinculan-a-proceso-a-tres-policias-municipales/",
         "_added_at": "2026-08-04T01:50:34.253379-07:00"
-      },
-      {
-        "title": "Fiscalía cuestiona decisión judicial sobre Mendívil",
-        "summary": "Dependencia analiza impugnar la no vinculación a proceso del exmandos policiaco.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179918_fiscalia_analiza_impugnar_la_no_vinculacion_a_proceso_de_exmandos_policiacos",
-        "_added_at": "2026-08-04T01:50:34.253379-07:00"
-      },
-      {
-        "title": "CCE cuestiona trabajo de fiscalía en caso Mendívil",
-        "summary": "Consejo Coordinador Empresarial critica desempeño fiscal tras fallo judicial.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179909_cuestiona_cce_trabajo_de_la_fiscalia_tras_no_vinculacion_a_proceso_de_mendivil_garcia",
-        "_added_at": "2026-08-04T01:50:34.253379-07:00"
       }
     ],
     "economia": [
+      {
+        "title": "Mexicali lidera en salarios laborales en región",
+        "summary": "Capital estatal registra los mayores niveles de compensación económica comparado con otras ciudades de Baja California.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97636/Mexicali-lidera-en-salarios-laborales",
+        "_added_at": "2026-08-04T15:19:01.353682-07:00"
+      },
       {
         "title": "Banco de Alimentos suspende operaciones por incendio contiguo",
         "summary": "Suspensión temporal de actividades tras incendio en bodega adyacente.",
@@ -213,6 +220,20 @@
     ],
     "sociedad": [
       {
+        "title": "Regidora de Tecate recibe disparos; Cabildo reanuda sesiones",
+        "summary": "Corporación municipal retoma actividades pese a ataque contra edil; asistencia de víctima permanece incierta.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179943_reanudara_sesiones_el_cabildo_de_tecate_no_confirman_asistencia_de_regidora_atacada_a_balazos",
+        "_added_at": "2026-08-04T15:19:01.353682-07:00"
+      },
+      {
+        "title": "Falla regularización de 9,500 autos chocolate en BC",
+        "summary": "Considerable número de personas no logró completar trámites de legalización de vehículos en la entidad.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179944_hubo_9_mil_500_personas_que_no_pudieron_regularizar_autos_chocolate_en_bc_aseguran",
+        "_added_at": "2026-08-04T15:19:01.353682-07:00"
+      },
+      {
         "title": "Ciudadanos marchan en defensa de El Saltito",
         "summary": "Movilización ciudadana para proteger El Saltito de amenazas ambientales.",
         "source": "ZETA Tijuana",
@@ -267,15 +288,8 @@
         "source": "El Mexicano",
         "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97603/Buscan-fortalecer-coordinaci%C3%B3n-para-atender-la-contaminaci%C3%B3n-del-R%C3%ADo-Tijuana",
         "_added_at": "2026-08-04T01:50:34.253379-07:00"
-      },
-      {
-        "title": "Retiran caballos maltratados en Playa Hermosa",
-        "summary": "Autoridades intervienen tras denuncia de abuso animal en balneario de Rosarito.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/retiran-dos-caballos-tras-denuncia-por-presunto-maltrato-en-playa-hermosa/",
-        "_added_at": "2026-08-04T01:50:34.253379-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-04T12:47:11.198213-07:00"
+  "last_updated": "2026-08-04T15:19:01.353682-07:00"
 }
