@@ -1,8 +1,36 @@
 {
   "date": "2026-08-04",
-  "run_count": 3,
+  "run_count": 4,
   "notes": {
     "seguridad": [
+      {
+        "title": "Vehículo abandonado con restos humanos en Tijuana",
+        "summary": "Encuentran auto con restos humanos en estacionamiento de supermercado en la ciudad.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/abandonan-vehiculo-con-restos-humanos-en-estacionamiento-de-supermercado-en-tijuana/?utm_source=rss&utm_medium=rss&utm_campaign=abandonan-vehiculo-con-restos-humanos-en-estacionamiento-de-supermercado-en-tijuana",
+        "_added_at": "2026-08-04T09:58:31.713205-07:00"
+      },
+      {
+        "title": "Vendedor de helados asesinado a balazos en Tijuana",
+        "summary": "Hombre muere tras ataque armado en colonia Mariano Matamoros durante su jornada laboral.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/asesinan-a-vendedor-de-nieves-tras-ataque-armado-en-el-mariano-matamoros/?utm_source=rss&utm_medium=rss&utm_campaign=asesinan-a-vendedor-de-nieves-tras-ataque-armado-en-el-mariano-matamoros",
+        "_added_at": "2026-08-04T09:58:31.713205-07:00"
+      },
+      {
+        "title": "Cadáver hallado en Punta Bandera",
+        "summary": "Encuentran cuerpo envuelto en camino vecinal de zona cercana a Tijuana.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/179922_hallan_cadaver_encobijado_en_camino_vecinal_de_punta_bandera",
+        "_added_at": "2026-08-04T09:58:31.713205-07:00"
+      },
+      {
+        "title": "Muerte en accidente vial en Mexicali",
+        "summary": "Mujer fallece y tres resultan lesionados tras choque en puente Lázaro Cárdenas.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/muere-mujer-y-tres-personas-resultan-lesionadas-tras-choque-en-puente-lazaro-cardenas-rio-nuevo-en-mexicali/?utm_source=rss&utm_medium=rss&utm_campaign=muere-mujer-y-tres-personas-resultan-lesionadas-tras-choque-en-puente-lazaro-cardenas-rio-nuevo-en-mexicali",
+        "_added_at": "2026-08-04T09:58:31.713205-07:00"
+      },
       {
         "title": "Vendedor de nieves asesinado en tiroteo en Tijuana",
         "summary": "Hombre dedicado a vender helados fue atacado a balazos en la colonia Mariano Matamoros, Tijuana.",
@@ -33,6 +61,13 @@
       }
     ],
     "politica": [
+      {
+        "title": "Sheinbaum reconoce necesidad de aclarar lineamientos de audiencias",
+        "summary": "Presidenta admite que deben precisarse reglas sobre procedimientos de audiencias públicas.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/sheinbaum-acepta-que-lineamientos-de-audiencias-deben-aclararse/?utm_source=rss&utm_medium=rss&utm_campaign=sheinbaum-acepta-que-lineamientos-de-audiencias-deben-aclararse",
+        "_added_at": "2026-08-04T09:58:31.713205-07:00"
+      },
       {
         "title": "Daylín García reelecta coordina a Movimiento Ciudadano",
         "summary": "Prepara partido estatal rumbo a elecciones 2027.",
@@ -78,6 +113,20 @@
     ],
     "economia": [
       {
+        "title": "Mexicali invierte 15 mdp en reparación eléctrica municipal",
+        "summary": "Ayuntamiento destina recursos significativos para reparar sistema eléctrico de Palacio.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/ayuntamiento-de-mexicali-gasto-15-mdp-en-reparar-el-sistema-electrico-del-palacio-municipal/?utm_source=rss&utm_medium=rss&utm_campaign=ayuntamiento-de-mexicali-gasto-15-mdp-en-reparar-el-sistema-electrico-del-palacio-municipal",
+        "_added_at": "2026-08-04T09:58:31.713205-07:00"
+      },
+      {
+        "title": "CANACO Ensenada conmemora 130 años de comercio organizado",
+        "summary": "Cámara de comercio celebra trayectoria como referente empresarial en la región.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/celebra-canaco-ensenada-130-anos-como-referente-del-comercio-organizado/?utm_source=rss&utm_medium=rss&utm_campaign=celebra-canaco-ensenada-130-anos-como-referente-del-comercio-organizado",
+        "_added_at": "2026-08-04T09:58:31.713205-07:00"
+      },
+      {
         "title": "Ingresos estatales alcanzan 51,540 mdp, máximo histórico",
         "summary": "Gobierno de BC reporta cifra récord de recaudación en periodo.",
         "source": "AFN Tijuana",
@@ -108,6 +157,27 @@
     ],
     "sociedad": [
       {
+        "title": "UABC reanuda actividades tras interrupción",
+        "summary": "Universidad autónoma regresa a labores académicas y administrativas normales.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/comunidad/179916_uabc_reanudo_actividades_este_lunes",
+        "_added_at": "2026-08-04T09:58:31.713205-07:00"
+      },
+      {
+        "title": "Taller de música para orquestas en Casa de Cultura",
+        "summary": "Se realizan actividades de formación musical en espacios culturales de la ciudad.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/comunidad/179925_realizan_taller_de_musica_para_orquestas_en_casa_de_la_cultura_el_pipila",
+        "_added_at": "2026-08-04T09:58:31.713205-07:00"
+      },
+      {
+        "title": "Gobierno de Tijuana sin solicitud para reubicar animales Parque Morelos",
+        "summary": "Administración municipal no ha tramitado documentos para reubicación de fauna del parque.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/gobierno-de-tijuana-no-ha-presentado-solicitud-para-reubicar-animales-del-parque-morelos/?utm_source=rss&utm_medium=rss&utm_campaign=gobierno-de-tijuana-no-ha-presentado-solicitud-para-reubicar-animales-del-parque-morelos",
+        "_added_at": "2026-08-04T09:58:31.713205-07:00"
+      },
+      {
         "title": "Cinco mil jóvenes sin acceso a preparatoria por cambios SEP",
         "summary": "Reforma educativa deja estudiantes en incertidumbre respecto a continuación de estudios.",
         "source": "ZETA Tijuana",
@@ -137,5 +207,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-04T07:34:11.762819-07:00"
+  "last_updated": "2026-08-04T09:58:31.713205-07:00"
 }
