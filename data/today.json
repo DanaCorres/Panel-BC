@@ -1,6 +1,6 @@
 {
   "date": "2026-08-04",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
       {
@@ -33,6 +33,13 @@
       }
     ],
     "politica": [
+      {
+        "title": "Daylín García reelecta coordina a Movimiento Ciudadano",
+        "summary": "Prepara partido estatal rumbo a elecciones 2027.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/97591/Dayl%C3%ADn-Garc%C3%ADa-prepar%C3%A1-a-MC-rumbo-a-2027",
+        "_added_at": "2026-08-04T07:34:11.762819-07:00"
+      },
       {
         "title": "Piden investigaciones serias sobre desaparecidos en Mexicali",
         "summary": "Organizaciones solicitan acciones contundentes para esclarecer casos de personas desaparecidas.",
@@ -70,6 +77,20 @@
       }
     ],
     "economia": [
+      {
+        "title": "Ingresos estatales alcanzan 51,540 mdp, máximo histórico",
+        "summary": "Gobierno de BC reporta cifra récord de recaudación en periodo.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/empresarial/179920_ingresos_por_51_540_mdp_del_gobierno_de_bc_maximo_historico",
+        "_added_at": "2026-08-04T07:34:11.762819-07:00"
+      },
+      {
+        "title": "Actividades terciarias crecen 1% en primer trimestre",
+        "summary": "Sector servicios muestra estabilidad en Baja California.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/empresarial/179919_suben_1_las_actividades_terciarias_de_bc_al_primer_trimestre",
+        "_added_at": "2026-08-04T07:34:11.762819-07:00"
+      },
       {
         "title": "Mexicali invierte 15 millones en electricidad municipal",
         "summary": "Ayuntamiento gasta recursos significativos reparando sistema eléctrico del Palacio Municipal.",
@@ -116,5 +137,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-04T04:30:33.300963-07:00"
+  "last_updated": "2026-08-04T07:34:11.762819-07:00"
 }
