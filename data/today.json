@@ -1,295 +1,113 @@
 {
-  "date": "2026-08-03",
-  "run_count": 5,
+  "date": "2026-08-04",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Vendedor de nieves asesinado en ataque armado",
-        "summary": "Comerciante muere tras tiroteo en colonia Mariano Matamoros de Tijuana.",
+        "title": "Vendedor de nieves asesinado en tiroteo en Tijuana",
+        "summary": "Hombre dedicado a vender helados fue atacado a balazos en la colonia Mariano Matamoros, Tijuana.",
         "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/asesinan-a-vendedor-de-nieves-tras-ataque-armado-en-el-mariano-matamoros/?utm_source=rss&utm_medium=rss&utm_campaign=asesinan-a-vendedor-de-nieves-tras-ataque-armado-en-el-mariano-matamoros",
-        "_added_at": "2026-08-03T20:27:27.803539-07:00"
+        "url": "https://zetatijuana.com/2026/08/asesinan-a-vendedor-de-nieves-tras-ataque-armado-en-el-mariano-matamoros/",
+        "_added_at": "2026-08-04T01:50:34.253379-07:00"
       },
       {
-        "title": "Kado vinculado por portación de arma exclusiva del ejército",
-        "summary": "Presunto delincuente enfrentará proceso en penitenciaría de Yucatán por armas prohibidas.",
+        "title": "Restos humanos abandonados en vehículo en Tijuana",
+        "summary": "Encuentran automóvil con cadáver en estacionamiento de supermercado de Tijuana.",
         "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/vinculan-al-kado-por-portacion-de-arma-de-fuego-de-uso-exclusivo-del-ejercito-permanecera-en-penal-de-yucatan/?utm_source=rss&utm_medium=rss&utm_campaign=vinculan-al-kado-por-portacion-de-arma-de-fuego-de-uso-exclusivo-del-ejercito-permanecera-en-penal-de-yucatan",
-        "_added_at": "2026-08-03T20:27:27.803539-07:00"
+        "url": "https://zetatijuana.com/2026/08/abandonan-vehiculo-con-restos-humanos-en-estacionamiento-de-supermercado-en-tijuana/",
+        "_added_at": "2026-08-04T01:50:34.253379-07:00"
       },
       {
-        "title": "Tres policías municipales vinculados por caso Mendívil",
-        "summary": "Elementos de seguridad enfrentan proceso relacionado con desaparición forzada en Mexicali.",
+        "title": "Choque fatal en Mexicali deja una muerta",
+        "summary": "Accidente vehicular en puente Lázaro Cárdenas-Río Nuevo causa muerte de mujer y lesiones a tres personas.",
         "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/liberan-a-exdirector-pedro-ariel-mendivil-vinculan-a-proceso-a-tres-policias-municipales/?utm_source=rss&utm_medium=rss&utm_campaign=liberan-a-exdirector-pedro-ariel-mendivil-vinculan-a-proceso-a-tres-policias-municipales",
-        "_added_at": "2026-08-03T20:27:27.803539-07:00"
+        "url": "https://zetatijuana.com/2026/08/muere-mujer-y-tres-personas-resultan-lesionadas-tras-choque-en-puente-lazaro-cardenas-rio-nuevo-en-mexicali/",
+        "_added_at": "2026-08-04T01:50:34.253379-07:00"
       },
       {
-        "title": "Vinculan a proceso a asaltantes de compradores de autos",
-        "summary": "Detienen a delincuentes que robaban a personas que compraban vehículos por internet en Tijuana.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/179899_vinculan_a_proceso_a_asaltantes_de_compradores_de_autos_en_linea",
-        "_added_at": "2026-08-03T15:13:38.733663-07:00"
-      },
-      {
-        "title": "Localizan cuerpo de hombre desaparecido en presa de Tecate",
-        "summary": "Encuentran cadáver de persona reportada como desaparecida en la presa Las Auras.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/179895_localizan_el_cuerpo_de_un_hombre_desaparecido_en_la_presa_las_auras_de_tecate",
-        "_added_at": "2026-08-03T15:13:38.733663-07:00"
-      },
-      {
-        "title": "Hallan posible cuerpo de joven desaparecido en Rosarito",
-        "summary": "Localizan cadáver en el mar que podría ser el de David, joven reportado como desaparecido.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97579/Hallan-cuerpo-en-el-mar;-podr%C3%ADa-ser-el-de-David,-joven-desaparecido-en-Rosarito",
-        "_added_at": "2026-08-03T15:13:38.733663-07:00"
-      },
-      {
-        "title": "Ataque armado en Colas del Matamoros mata a uno",
-        "summary": "Enfrentamiento a balazos deja un muerto y un herido en zona de Tijuana.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97560/Ataque-armado-en-Colas-de-Matamoros-deja-un-muerto-y-un-joven--herido",
-        "_added_at": "2026-08-03T12:48:04.756808-07:00"
-      },
-      {
-        "title": "Cadáver calcinado hallado tras incendio en vivienda",
-        "summary": "Mueren en incendio de casa improvisada en Tijuana.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/179881_hallan_cadaver_calcinado_tras_incendio_de_una_vivienda_improvisada",
-        "_added_at": "2026-08-03T12:48:04.756808-07:00"
-      },
-      {
-        "title": "Pareja investigada por estafas y robos violentos",
-        "summary": "Capturan a delincuentes acusados de fraudes y asaltos en Tijuana.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97575/Pareja-de-estafadores-ser%C3%A1n-investigados-por-robos-con-violencia",
-        "_added_at": "2026-08-03T12:48:04.756808-07:00"
-      },
-      {
-        "title": "Sujetos buscados por justicia capturados en Tijuana",
-        "summary": "Autoridades arrestan a personas prófugas en operativo en la ciudad.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97576/Caen-sujetos-buscados-por-la-justicia-en-Tijuana",
-        "_added_at": "2026-08-03T12:48:04.756808-07:00"
+        "title": "El Kado vinculado a proceso por arma de uso exclusivo militar",
+        "summary": "Delincuente es procesado por portación ilegal de arma de fuego y enviado a penal en Yucatán.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/vinculan-al-kado-por-portacion-de-arma-de-fuego-de-uso-exclusivo-del-ejercito-permanecera-en-penal-de-yucatan/",
+        "_added_at": "2026-08-04T01:50:34.253379-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Monreal sugiere no separarse de cargo para candidatos",
-        "summary": "Legislador recomienda que diputados en reelección mantengan su posición actual.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179912_monreal_sugiere_que_diputados_que_buscan_reeleccion_no_se_separen_de_su_cargo",
-        "_added_at": "2026-08-03T20:27:27.803539-07:00"
+        "title": "Juez libera a Mendívil; vincula a tres policías municipales",
+        "summary": "Exdirector es liberado mientras que tres oficiales municipales quedan ligados a proceso.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/liberan-a-exdirector-pedro-ariel-mendivil-vinculan-a-proceso-a-tres-policias-municipales/",
+        "_added_at": "2026-08-04T01:50:34.253379-07:00"
       },
       {
-        "title": "CCE cuestiona actuación de fiscalía en caso Mendívil",
-        "summary": "Cámara de Comercio critica que juez no vinculara a proceso al exdirector de policía.",
+        "title": "Fiscalía cuestiona decisión judicial sobre Mendívil",
+        "summary": "Dependencia analiza impugnar la no vinculación a proceso del exmandos policiaco.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179918_fiscalia_analiza_impugnar_la_no_vinculacion_a_proceso_de_exmandos_policiacos",
+        "_added_at": "2026-08-04T01:50:34.253379-07:00"
+      },
+      {
+        "title": "CCE cuestiona trabajo de fiscalía en caso Mendívil",
+        "summary": "Consejo Coordinador Empresarial critica desempeño fiscal tras fallo judicial.",
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/179909_cuestiona_cce_trabajo_de_la_fiscalia_tras_no_vinculacion_a_proceso_de_mendivil_garcia",
-        "_added_at": "2026-08-03T20:27:27.803539-07:00"
+        "_added_at": "2026-08-04T01:50:34.253379-07:00"
       },
       {
-        "title": "Daylín García reelecta como coordinadora de MC en BC",
-        "summary": "Reconfirman a García al frente de Movimiento Ciudadano en Baja California.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/daylin-garcia-repetira-periodo-como-coordinadora-de-movimiento-ciudadano-en-bc/?utm_source=rss&utm_medium=rss&utm_campaign=daylin-garcia-repetira-periodo-como-coordinadora-de-movimiento-ciudadano-en-bc",
-        "_added_at": "2026-08-03T15:13:38.733663-07:00"
-      },
-      {
-        "title": "Exjueza advierte sobre reforma electoral peligrosa",
-        "summary": "Magistrada señala que reforma podría facilitar anulación de elecciones en Baja California.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Estatal/97584/Exjueza-advierte-que-reforma-podr%C3%ADa-facilitar-la-anulaci%C3%B3n-de-elecciones",
-        "_added_at": "2026-08-03T15:13:38.733663-07:00"
-      },
-      {
-        "title": "Advierten riesgo de censura por lineamientos de CRT",
-        "summary": "Organismos alertan sobre nuevas disposiciones de comunicación que podrían limitar libertad.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97582/Advierten-riesgo-de-censura-por-nuevos-lineamientos-de-la-CRT",
-        "_added_at": "2026-08-03T15:13:38.733663-07:00"
-      },
-      {
-        "title": "Campaña desigual: Morena sin espectaculares, Verde sí",
-        "summary": "Autoridades electorales impiden propaganda de Morena mientras Verde usa publicidad exterior.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/los-de-morena-impedidos-a-hacer-campana-en-espectaculares-jorge-ramos-si-lo-hace-en-el-verde/",
-        "_added_at": "2026-08-03T12:48:04.756808-07:00"
-      },
-      {
-        "title": "PRI defiende libertad de expresión contra censura",
-        "summary": "Moreira acusa a Morena de buscar limitar libertad política y mediática.",
+        "title": "Monreal sugiere diputados no se separen de cargos",
+        "summary": "Coordinador parlamentario recomienda que legisladores aspirantes mantengan sus posiciones actuales.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/nacionales/179885_morena_busca_censurar_y_el_pri_defendera_su_libertad_de_expresion_dice_moreira",
-        "_added_at": "2026-08-03T12:48:04.756808-07:00"
-      },
-      {
-        "title": "Investigación contra ex director policial de Mexicali",
-        "summary": "Fiscal acusa de animadversión en caso contra jefe seguridad anterior.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97565/Investigaci%C3%B3n-contra-ex-director-de-la-polic%C3%ADa-de-Mexicali-es-por-animadversi%C3%B3n-de-la-fiscal",
-        "_added_at": "2026-08-03T12:48:04.756808-07:00"
-      },
-      {
-        "title": "Morena realiza asamblea en Tijuana contra supuestas mentiras",
-        "summary": "Partido celebra reunión en la ciudad con el dirigente Catalino Zavala cuestionando información opositora.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/morena-celebra-asamblea-en-tijuana-para-contrarrestar-mentiras-asegura-catalino-zavala/",
-        "_added_at": "2026-08-03T08:08:09.615115-07:00"
-      },
-      {
-        "title": "Morena realiza asamblea en Tijuana para contrarrestar críticas",
-        "summary": "Morenistas se reúnen en Tijuana; liderazgo busca responder a acusaciones de la oposición.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/morena-celebra-asamblea-en-tijuana-para-contrarrestar-mentiras-asegura-catalino-zavala/?utm_source=rss&utm_medium=rss&utm_campaign=morena-celebra-asamblea-en-tijuana-para-contrarrestar-mentiras-asegura-catalino-zavala",
-        "_added_at": "2026-08-03T03:01:32.933208-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/179912_monreal_sugiere_que_diputados_que_buscan_reeleccion_no_se_separen_de_su_cargo",
+        "_added_at": "2026-08-04T01:50:34.253379-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Mexicali gastó 15 millones en reparaciones del Palacio Municipal",
-        "summary": "Ayuntamiento invirtió cantidad significativa en restauración del sistema eléctrico.",
+        "title": "Mexicali invierte 15 millones en electricidad municipal",
+        "summary": "Ayuntamiento gasta recursos significativos reparando sistema eléctrico del Palacio Municipal.",
         "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/ayuntamiento-de-mexicali-gasto-15-mdp-en-reparar-el-sistema-electrico-del-palacio-municipal/?utm_source=rss&utm_medium=rss&utm_campaign=ayuntamiento-de-mexicali-gasto-15-mdp-en-reparar-el-sistema-electrico-del-palacio-municipal",
-        "_added_at": "2026-08-03T20:27:27.803539-07:00"
+        "url": "https://zetatijuana.com/2026/08/ayuntamiento-de-mexicali-gasto-15-mdp-en-reparar-el-sistema-electrico-del-palacio-municipal/",
+        "_added_at": "2026-08-04T01:50:34.253379-07:00"
       },
       {
-        "title": "Profepa multa a plantas de tratamiento de agua por incumplimiento",
-        "summary": "CESPT y CESPE sancionadas por no cumplir normas ambientales en infraestructura.",
+        "title": "PROFEPA multa empresas de agua por incumplimientos",
+        "summary": "Autoridad ambiental sanciona a CESPT y CESPE por plantas tratamiento deficientes.",
         "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/profepa-multa-a-cespt-y-cespe-por-plantas-de-tratamiento-que-incumplen-con-la-norma/?utm_source=rss&utm_medium=rss&utm_campaign=profepa-multa-a-cespt-y-cespe-por-plantas-de-tratamiento-que-incumplen-con-la-norma",
-        "_added_at": "2026-08-03T20:27:27.803539-07:00"
-      },
-      {
-        "title": "Puentes nuevos en Tijuana presentan fallas estructurales",
-        "summary": "Infraestructura reciente muestra deterioro mientras estructuras antiguas resisten.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97597/Puentes-viejos-resisten;-los-nuevos-presentan-fallas",
-        "_added_at": "2026-08-03T20:27:27.803539-07:00"
-      },
-      {
-        "title": "Dólar abre semana en 17.10 pesos en Tijuana",
-        "summary": "Tipo de cambio se cotiza alrededor de 17.10 pesos por dólar.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179888_inicia_la_semana_el_dolar_hasta_en_17_10_pesos_a_la_venta_en_tijuana",
-        "_added_at": "2026-08-03T12:48:04.756808-07:00"
-      },
-      {
-        "title": "CESPT con fugas masivas y falta mantenimiento",
-        "summary": "Sistema de agua de Tijuana tiene problemas mientras funcionario hace campaña.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/cespt-mas-fugas-falta-de-mantenimiento-vega-en-campana/",
-        "_added_at": "2026-08-03T12:48:04.756808-07:00"
-      },
-      {
-        "title": "Enfermeros Tácticos venden agua para sobrevivir",
-        "summary": "Donaciones caen y grupo sanitario recurre a venta de bebidas para financiarse.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97543/Ante-la-ca%C3%ADda-de-donaciones,-Enfermeros-T%C3%A1cticos-de-Tijuana-realizan-venta-de-aguas-para-financiar-su-labor",
-        "_added_at": "2026-08-03T12:48:04.756808-07:00"
-      },
-      {
-        "title": "Manufactura debilita sector secundario de Baja California",
-        "summary": "Actividades industriales mantienen economía estatal en recesión según últimos datos reportados.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/empresarial/179872_manufactura_tira_economia_de_actividades_secundarias_de_bc_sigue_recesion",
-        "_added_at": "2026-08-03T08:08:09.615115-07:00"
-      },
-      {
-        "title": "SHCP transfiere participaciones a BC pero falta reportar monto",
-        "summary": "Gobierno recibe 23,856 millones pero presenta falta de transparencia sobre 1,535 millones adicionales.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/empresarial/179873_shcp_paga_a_bc_23_856_mdp_de_participaciones_gobierno_sin_reportar_1_535_mdp",
-        "_added_at": "2026-08-03T08:08:09.615115-07:00"
-      },
-      {
-        "title": "Ocupación hotelera en Rosarito experimenta leve repunte",
-        "summary": "Sector turístico de Rosarito registra incremento modesto en últimos meses.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179863_ocupacion_hotelera_en_rosarito_tuvo_un_leve_incremento_en_los_ultimos_meses",
-        "_added_at": "2026-08-03T03:01:32.933208-07:00"
-      },
-      {
-        "title": "Cierre de puente Chaparral para labores de mantenimiento",
-        "summary": "Autoridades anuncian clausura temporal de importante conexión fronteriza para reparaciones.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/cerraran-puente-chaparral-a-partir-de-manana-para-darle-mantenimiento/?utm_source=rss&utm_medium=rss&utm_campaign=cerraran-puente-chaparral-a-partir-de-manana-para-darle-mantenimiento",
-        "_added_at": "2026-08-03T03:01:32.933208-07:00"
+        "url": "https://zetatijuana.com/2026/08/profepa-multa-a-cespt-y-cespe-por-plantas-de-tratamiento-que-incumplen-con-la-norma/",
+        "_added_at": "2026-08-04T01:50:34.253379-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Cinco mil jóvenes sin preparatoria por cambios en SEP",
-        "summary": "Estudiantes enfrentan incertidumbre tras modificaciones en políticas educativas.",
+        "title": "Cinco mil jóvenes sin acceso a preparatoria por cambios SEP",
+        "summary": "Reforma educativa deja estudiantes en incertidumbre respecto a continuación de estudios.",
         "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/en-la-incertidumbre-cinco-mil-jovenes-sin-preparatoria-por-los-cambios-en-la-sep/?utm_source=rss&utm_medium=rss&utm_campaign=en-la-incertidumbre-cinco-mil-jovenes-sin-preparatoria-por-los-cambios-en-la-sep",
-        "_added_at": "2026-08-03T20:27:27.803539-07:00"
+        "url": "https://zetatijuana.com/2026/08/en-la-incertidumbre-cinco-mil-jovenes-sin-preparatoria-por-los-cambios-en-la-sep/",
+        "_added_at": "2026-08-04T01:50:34.253379-07:00"
       },
       {
-        "title": "Certificación gratuita para mujeres en primaria y secundaria",
-        "summary": "Programa permite obtener documentos mediante examen único sin costo.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/comunidad/179910_certificacion_gratuita_de_primaria_o_secundaria_para_mujeres_en_un_solo_examen",
-        "_added_at": "2026-08-03T20:27:27.803539-07:00"
-      },
-      {
-        "title": "Retiran caballos por denuncia de maltrato en Playa Hermosa",
-        "summary": "Autoridades rescatan animales tras reportes de negligencia en Rosarito.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/retiran-dos-caballos-tras-denuncia-por-presunto-maltrato-en-playa-hermosa/?utm_source=rss&utm_medium=rss&utm_campaign=retiran-dos-caballos-tras-denuncia-por-presunto-maltrato-en-playa-hermosa",
-        "_added_at": "2026-08-03T20:27:27.803539-07:00"
-      },
-      {
-        "title": "Cuestionan sistema de ingreso a preparatorias públicas",
-        "summary": "Padres de familia reclaman por nuevo procedimiento de admisión a bachilleratos.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/cuestionan-padres-de-familia-nuevo-sistema-de-ingreso-a-preparatorias/?utm_source=rss&utm_medium=rss&utm_campaign=cuestionan-padres-de-familia-nuevo-sistema-de-ingreso-a-preparatorias",
-        "_added_at": "2026-08-03T15:13:38.733663-07:00"
-      },
-      {
-        "title": "Miles acuden a inscribirse en preparatorias públicas",
-        "summary": "Gran afluencia de estudiantes para inscripción en bachilleratos ciclo 2026-2027.",
+        "title": "Contaminación en Río Tijuana afecta salud poblacional",
+        "summary": "Estudio revela posibles consecuencias sanitarias de la polución en el cuerpo hídrico.",
         "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97581/Acuden-miles-a-inscribirse-a-preparatorias-p%C3%BAblicas-para-el-ciclo-2026-2027",
-        "_added_at": "2026-08-03T15:13:38.733663-07:00"
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97605/Estudio-analiza-posibles-efectos-en-la-salud-por-contaminaci%C3%B3n-en-el-R%C3%ADo-Tijuana",
+        "_added_at": "2026-08-04T01:50:34.253379-07:00"
       },
       {
-        "title": "Inauguran sala de lactancia en Rosarito",
-        "summary": "Palacio Municipal de Playas de Rosarito abre espacio para madres lactantes.",
+        "title": "Coordinan esfuerzos contra contaminación del Río Tijuana",
+        "summary": "Autoridades buscan fortalecer acciones para remediar problemas ambientales del río.",
         "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Rosarito/97580/Inauguran-sala-de-lactancia-en-Palacio-Municipal-de-Playas-de-Rosarito",
-        "_added_at": "2026-08-03T15:13:38.733663-07:00"
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97603/Buscan-fortalecer-coordinaci%C3%B3n-para-atender-la-contaminaci%C3%B3n-del-R%C3%ADo-Tijuana",
+        "_added_at": "2026-08-04T01:50:34.253379-07:00"
       },
       {
-        "title": "Puente El Chaparral cerrado por reparaciones",
-        "summary": "Importante paso fronterizo de Tijuana suspende operaciones por mantenimiento.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179889_cierran_puente_de_el_chaparral_por_reparaciones",
-        "_added_at": "2026-08-03T12:48:04.756808-07:00"
-      },
-      {
-        "title": "Rescatan pareja tras choque de camioneta",
-        "summary": "Vehículo impacta ferretería en Tijuana; ocupantes evacuados.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179884_rescatan_a_pareja_de_una_camioneta_tras_impactar_contra_ferreteria",
-        "_added_at": "2026-08-03T12:48:04.756808-07:00"
-      },
-      {
-        "title": "Entrenan jóvenes de Policía Juvenil en defensa",
-        "summary": "Personal de seguridad en Tecate recibe capacitación en técnicas defensivas.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/comunidad/179892_entrenan_en_defensa_personal_a_jovenes_de_la_policia_juvenil_en_tecate",
-        "_added_at": "2026-08-03T12:48:04.756808-07:00"
-      },
-      {
-        "title": "Estudiantes exigen respeto a lugares en UNAM",
-        "summary": "Aspirantes que pasaron examen piden honrar sus espacios asignados.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/nacionales/179893_exigen_respetar_lugares_que_ya_obtuvieron_en_examen_de_admision_de_la_unam",
-        "_added_at": "2026-08-03T12:48:04.756808-07:00"
+        "title": "Retiran caballos maltratados en Playa Hermosa",
+        "summary": "Autoridades intervienen tras denuncia de abuso animal en balneario de Rosarito.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/retiran-dos-caballos-tras-denuncia-por-presunto-maltrato-en-playa-hermosa/",
+        "_added_at": "2026-08-04T01:50:34.253379-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-03T20:27:27.803539-07:00"
+  "last_updated": "2026-08-04T01:50:34.253379-07:00"
 }
