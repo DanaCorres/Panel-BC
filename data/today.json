@@ -1,8 +1,36 @@
 {
   "date": "2026-08-04",
-  "run_count": 4,
+  "run_count": 5,
   "notes": {
     "seguridad": [
+      {
+        "title": "Homicidio frente a campus universitario en Tecate",
+        "summary": "Asesinan a un hombre a balazos cerca de la UABC en Tecate. Autoridades investigan el incidente.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/179941_asesinan_a_un_hombre_a_balazos_frente_a_la_uabc_en_tecate",
+        "_added_at": "2026-08-04T12:47:11.198213-07:00"
+      },
+      {
+        "title": "Hallazgo de cadáver en Punta Bandera",
+        "summary": "Encontraron cuerpo envuelto en cobija en camino vecinal. Investigación en curso.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97611/Hallan-cuerpo-envuelto-en-una-cobija-en-camino-vecinal-de-Punta-Bandera",
+        "_added_at": "2026-08-04T12:47:11.198213-07:00"
+      },
+      {
+        "title": "Cabildo de Tecate reanuda sesiones tras ataque a regidora",
+        "summary": "Sesiones se reanudan en Tecate; incierto si regidora agredida asistirá a sesiones.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179943_reanudara_sesiones_el_cabildo_de_tecate_no_confirman_asistencia_de_regidora_atacada_a_balazos",
+        "_added_at": "2026-08-04T12:47:11.198213-07:00"
+      },
+      {
+        "title": "Exoficial mayor desaparecido vinculado a administración anterior",
+        "summary": "Carlos Beltrán, exoficial mayor, desaparecido con conexiones a gestión pasada.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/carlos-beltran-exoficial-mayor-desaparecido-vinculado-a-rocha/",
+        "_added_at": "2026-08-04T12:47:11.198213-07:00"
+      },
       {
         "title": "Vehículo abandonado con restos humanos en Tijuana",
         "summary": "Encuentran auto con restos humanos en estacionamiento de supermercado en la ciudad.",
@@ -44,23 +72,37 @@
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/08/abandonan-vehiculo-con-restos-humanos-en-estacionamiento-de-supermercado-en-tijuana/",
         "_added_at": "2026-08-04T01:50:34.253379-07:00"
-      },
-      {
-        "title": "Choque fatal en Mexicali deja una muerta",
-        "summary": "Accidente vehicular en puente Lázaro Cárdenas-Río Nuevo causa muerte de mujer y lesiones a tres personas.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/muere-mujer-y-tres-personas-resultan-lesionadas-tras-choque-en-puente-lazaro-cardenas-rio-nuevo-en-mexicali/",
-        "_added_at": "2026-08-04T01:50:34.253379-07:00"
-      },
-      {
-        "title": "El Kado vinculado a proceso por arma de uso exclusivo militar",
-        "summary": "Delincuente es procesado por portación ilegal de arma de fuego y enviado a penal en Yucatán.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/vinculan-al-kado-por-portacion-de-arma-de-fuego-de-uso-exclusivo-del-ejercito-permanecera-en-penal-de-yucatan/",
-        "_added_at": "2026-08-04T01:50:34.253379-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Pelayo busca gubernatura nuevamente con el PAN",
+        "summary": "Pelayo anuncia candidatura a gobernador por el PAN en próximas elecciones.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/pelayo-buscara-de-nuevo-la-gubernatura-con-el-pan/",
+        "_added_at": "2026-08-04T12:47:11.198213-07:00"
+      },
+      {
+        "title": "Morena pide cerrar filas en torno a Marina del Pilar",
+        "summary": "Castro Trenti solicita a aspirantes de Morena en BC evitar ataques y apoyar a Marina.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179939_pide_morena_a_aspirantes_en_bc_cerrar_filas_con_marina_y_evitar_ataques_castro_trenti",
+        "_added_at": "2026-08-04T12:47:11.198213-07:00"
+      },
+      {
+        "title": "Gobernadora respeta decisión judicial en caso Mendívil",
+        "summary": "Marina del Pilar acepta fallo de juez respecto a Pedro Mendívil.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179935_respeta_decision_del_juez_en_caso_de_pedro_mendivil_dice_la_gobernadora",
+        "_added_at": "2026-08-04T12:47:11.198213-07:00"
+      },
+      {
+        "title": "Movimiento alterno en Morena bajo liderazgo de Cota",
+        "summary": "Manuel Cota encabeza corriente interna dentro del partido Morena.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/manuel-cota-el-movimiento-alterno-dentro-de-morena/",
+        "_added_at": "2026-08-04T12:47:11.198213-07:00"
+      },
       {
         "title": "Sheinbaum reconoce necesidad de aclarar lineamientos de audiencias",
         "summary": "Presidenta admite que deben precisarse reglas sobre procedimientos de audiencias públicas.",
@@ -102,16 +144,30 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/179909_cuestiona_cce_trabajo_de_la_fiscalia_tras_no_vinculacion_a_proceso_de_mendivil_garcia",
         "_added_at": "2026-08-04T01:50:34.253379-07:00"
-      },
-      {
-        "title": "Monreal sugiere diputados no se separen de cargos",
-        "summary": "Coordinador parlamentario recomienda que legisladores aspirantes mantengan sus posiciones actuales.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179912_monreal_sugiere_que_diputados_que_buscan_reeleccion_no_se_separen_de_su_cargo",
-        "_added_at": "2026-08-04T01:50:34.253379-07:00"
       }
     ],
     "economia": [
+      {
+        "title": "Banco de Alimentos suspende operaciones por incendio contiguo",
+        "summary": "Suspensión temporal de actividades tras incendio en bodega adyacente.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/banco-de-alimentos-suspende-operacion-tras-incendio-en-bodega-contigua-2/",
+        "_added_at": "2026-08-04T12:47:11.198213-07:00"
+      },
+      {
+        "title": "Palacio Municipal requirió 15 millones para cambio de cableado",
+        "summary": "Sustitución de cableado en Palacio Municipal costó 15 millones de pesos.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179942_costo_15_millones_sustituir_el_cableado_del_palacio_municipal",
+        "_added_at": "2026-08-04T12:47:11.198213-07:00"
+      },
+      {
+        "title": "Solicitan aumento a tarifa de transporte en La Paz",
+        "summary": "Piden incremento de 13 pesos en transporte público; Cabildo analiza propuesta.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/piden-aumento-de-13-pesos-a-transporte-publico-de-la-paz-cabildo-analiza-solicitud/",
+        "_added_at": "2026-08-04T12:47:11.198213-07:00"
+      },
       {
         "title": "Mexicali invierte 15 mdp en reparación eléctrica municipal",
         "summary": "Ayuntamiento destina recursos significativos para reparar sistema eléctrico de Palacio.",
@@ -156,6 +212,20 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Ciudadanos marchan en defensa de El Saltito",
+        "summary": "Movilización ciudadana para proteger El Saltito de amenazas ambientales.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/ciudadanos-marchan-en-defensa-de-el-saltito/",
+        "_added_at": "2026-08-04T12:47:11.198213-07:00"
+      },
+      {
+        "title": "Proliferación de incendios en pastizales durante julio",
+        "summary": "Bomberos reportan aumento significativo de incendios de basura y pastizales.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179932_proliferaron_incendios_de_pastizales_y_basura_en_julio_reporta_bomberos",
+        "_added_at": "2026-08-04T12:47:11.198213-07:00"
+      },
       {
         "title": "UABC reanuda actividades tras interrupción",
         "summary": "Universidad autónoma regresa a labores académicas y administrativas normales.",
@@ -207,5 +277,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-04T09:58:31.713205-07:00"
+  "last_updated": "2026-08-04T12:47:11.198213-07:00"
 }
