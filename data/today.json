@@ -1,8 +1,15 @@
 {
   "date": "2026-08-05",
-  "run_count": 4,
+  "run_count": 5,
   "notes": {
     "seguridad": [
+      {
+        "title": "DEA advierte a funcionarios que protegen cárteles",
+        "summary": "Agencia estadounidense amenaza con persecución legal a autoridades mexicanas vinculadas con CJNG y otros grupos criminales.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/dea-advierte-a-funcionarios-mexicanos-que-protegen-al-cjng-y-otros-carteles-que-ira-tras-ellos/",
+        "_added_at": "2026-08-05T12:46:54.194468-07:00"
+      },
       {
         "title": "EU ofrece 102 millones por líderes del CJNG",
         "summary": "Estados Unidos anuncia recompensas millonarias por captura de ocho jefes del cartel, incluyendo 25 millones por El Pelón.",
@@ -68,6 +75,20 @@
       }
     ],
     "politica": [
+      {
+        "title": "Barra de abogadas pide justicia sin presiones",
+        "summary": "Profesionales legales solicitan procesos justos tras liberación de Pedro Ariel Mendivil.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97677/Barra-de-abogadas-pide-justicia-sin-presiones-tras-liberaci%C3%B3n-de-Pedro-Ariel-Mendivil",
+        "_added_at": "2026-08-05T12:46:54.194468-07:00"
+      },
+      {
+        "title": "Crean comité para promover libertad de Ernesto Ruffo",
+        "summary": "Grupo plural organiza campaña para la liberación del ex gobernador.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/nacionales/179982_crean_comite_plural_para_promover_libertad_de_ernesto_ruffo",
+        "_added_at": "2026-08-05T12:46:54.194468-07:00"
+      },
       {
         "title": "Eva Moreno critica funcionarios de BC sin entender la 4T",
         "summary": "Funcionaria estatal acusa desconocimiento de principios del proyecto actual entre cuerpos administrativos de Baja California.",
@@ -164,6 +185,20 @@
     ],
     "sociedad": [
       {
+        "title": "Presentan programa Kiosko Tijuana para denuncias",
+        "summary": "Nueva plataforma facilita reportes de extorsión y abuso de autoridad en la ciudad.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179981_presentan_programa_kiosko_tijuana_para_denunciar_extorsion_y_abuso_de_autoridad",
+        "_added_at": "2026-08-05T12:46:54.194468-07:00"
+      },
+      {
+        "title": "Presentan mural Tijuana en Avenida Revolución",
+        "summary": "Obra artística titulada \"Tijuana: Ayer, Hoy y Siempre\" se instala en centro histórico.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97645/Presentan-mural-%E2%80%9CTijuana%3A-Ayer,-Hoy-y-Siempre%E2%80%9D-en-la-Avenida-Revoluci%C3%B3n",
+        "_added_at": "2026-08-05T12:46:54.194468-07:00"
+      },
+      {
         "title": "Vuela Tijuana cierra con 15 mil visitantes en 45 días",
         "summary": "Evento turístico concluye exitosamente y organiza segunda edición programada para 2027.",
         "source": "El Mexicano",
@@ -214,5 +249,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-05T09:47:17.376720-07:00"
+  "last_updated": "2026-08-05T12:46:54.194468-07:00"
 }
