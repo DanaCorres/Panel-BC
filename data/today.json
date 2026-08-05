@@ -1,6 +1,6 @@
 {
   "date": "2026-08-05",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
       {
@@ -34,6 +34,13 @@
     ],
     "politica": [
       {
+        "title": "Pensiones de viudas de policías en Tijuana sin resolverse",
+        "summary": "Tras casi un año de gestiones, prestaciones para viudas de uniformados permanecen indefinidas.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/pensiones-para-viudas-de-policias-en-tijuana-siguen-sin-definirse-pese-a-casi-el-ano-de-gestiones/",
+        "_added_at": "2026-08-05T04:26:08.577565-07:00"
+      },
+      {
         "title": "Consejo de Abogados exige renuncia de fiscal por fabricación de pruebas",
         "summary": "Gremio legal acusa a fiscal estatal de falsificar investigaciones y demanda su dimisión inmediata.",
         "source": "ZETA Tijuana",
@@ -56,6 +63,13 @@
       }
     ],
     "economia": [
+      {
+        "title": "Invertirán 15 millones en rehabilitar avenida Revolución",
+        "summary": "Anuncian inversión de 15 millones de pesos en reparación de avenida Revolución en Tijuana.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179953_invertiran_15_mdp_en_rehabilitar_la_avenida_revolucion_monica_vega",
+        "_added_at": "2026-08-05T04:26:08.577565-07:00"
+      },
       {
         "title": "Mexicali encabeza salarios promedio a nivel nacional",
         "summary": "Capital estatal supera promedios salariales del país en competitividad laboral.",
@@ -87,6 +101,20 @@
     ],
     "sociedad": [
       {
+        "title": "Dieciséis colonias de Tijuana sin agua por fugas",
+        "summary": "CESPT reporta que 16 colonias tijuanenses carecen de servicio agua por fugas e inconvenientes.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/cespt-admite-que-16-colonias-de-tijuana-estan-sin-agua-por-fugas-y-otros-factores/",
+        "_added_at": "2026-08-05T04:26:08.577565-07:00"
+      },
+      {
+        "title": "Desabasto de medicamentos en ISSSTECALI aumenta",
+        "summary": "Crece la falta de medicamentos en Instituto de Seguridad Social de trabajadores de Baja California.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179954_aumento_el_desabasto_de_medicamentos_en_el_issstecali",
+        "_added_at": "2026-08-05T04:26:08.577565-07:00"
+      },
+      {
         "title": "Rescatan caballos en estado crítico en Ensenada",
         "summary": "Autoridades salvan dos equinos maltratados en establo de boulevard Costero.",
         "source": "El Mexicano",
@@ -116,5 +144,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-05T01:48:02.538916-07:00"
+  "last_updated": "2026-08-05T04:26:08.577565-07:00"
 }
