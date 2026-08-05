@@ -1,8 +1,15 @@
 {
   "date": "2026-08-05",
-  "run_count": 5,
+  "run_count": 6,
   "notes": {
     "seguridad": [
+      {
+        "title": "Atacante de bar escapó pese a vigilancia permanente",
+        "summary": "Agresor logró huir del lugar a pesar de operativo de seguridad en Tijuana.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179985_pese_a_la_vigilancia_permanente_atacante_del_bar_logro_escapar",
+        "_added_at": "2026-08-05T15:17:08.835462-07:00"
+      },
       {
         "title": "DEA advierte a funcionarios que protegen cárteles",
         "summary": "Agencia estadounidense amenaza con persecución legal a autoridades mexicanas vinculadas con CJNG y otros grupos criminales.",
@@ -65,16 +72,30 @@
         "source": "El Mexicano",
         "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97655/Muere-operador-de-tr%C3%A1iler-tras-volcadura-en-la-carretera-de-cuota-Tecate-Mexicali",
         "_added_at": "2026-08-05T01:48:02.538916-07:00"
-      },
-      {
-        "title": "EU desactiva red de tráfico de armas hacia cárteles",
-        "summary": "Autoridades estadounidenses desmantelan organización que vendía armas a organizaciones criminales mexicanas.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/eu-desmantela-red-que-traficaba-armas-hacia-carteles-mexicanos/",
-        "_added_at": "2026-08-05T01:48:02.538916-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Antorchistas demandan obras, predios y servicios al gobierno",
+        "summary": "Manifestación de movimiento social contra Estado exigiendo infraestructura e inmuebles.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/antorchistas-se-manifiestan-contra-gobierno-estatal-demandan-obras-predios-y-servicios/",
+        "_added_at": "2026-08-05T15:17:08.835462-07:00"
+      },
+      {
+        "title": "Amplían denuncia contra Álvarez Cárdenas por delitos electorales",
+        "summary": "Presentan cargos adicionales contra funcionario por irregularidades en procesos electorales.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179987_amplian_denuncia_contra_alvarez_cardenas_por_supuestos_delitos_electorales",
+        "_added_at": "2026-08-05T15:17:08.835462-07:00"
+      },
+      {
+        "title": "Barra de abogadas exige independencia judicial contra presiones",
+        "summary": "Organización demanda que poder judicial actúe sin interferencias políticas.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179986_exige_barra_de_abogadas_independencia_judicial_frente_a_presiones_politicas",
+        "_added_at": "2026-08-05T15:17:08.835462-07:00"
+      },
       {
         "title": "Barra de abogadas pide justicia sin presiones",
         "summary": "Profesionales legales solicitan procesos justos tras liberación de Pedro Ariel Mendivil.",
@@ -123,16 +144,30 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/179964_pide_diputada_que_la_uif_investigue_a_marina_del_pilar",
         "_added_at": "2026-08-05T01:48:02.538916-07:00"
-      },
-      {
-        "title": "Inversión de 15 millones en rehabilitación de avenida Revolución",
-        "summary": "Alcaldesa Mónica Vega anuncia proyecto de mejora en importante vía de Tijuana.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179953_invertiran_15_mdp_en_rehabilitar_la_avenida_revolucion_monica_vega",
-        "_added_at": "2026-08-05T01:48:02.538916-07:00"
       }
     ],
     "economia": [
+      {
+        "title": "Empresas de BC sienten efectos de desaceleración económica",
+        "summary": "Contadores advierten sobre impacto negativo en negocios por reducción de actividad.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179990_resienten_empresas_de_la_entidad_efectos_de_la_desaceleracion_contadores",
+        "_added_at": "2026-08-05T15:17:08.835462-07:00"
+      },
+      {
+        "title": "Buscarán blindar a emprendedores y mipymes en BC",
+        "summary": "Gobierno prepara medidas protección para pequeños negocios del estado.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/97681/Buscar%C3%A1n-blindar-a-emprendedores-y-mipymes-en-BC",
+        "_added_at": "2026-08-05T15:17:08.835462-07:00"
+      },
+      {
+        "title": "Remodelaciones de Avenida Revolución favorecerán turismo",
+        "summary": "Obras buscan mejorar experiencia de comerciantes y visitantes en zona centro.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179993_favoreceran_a_comerciantes_y_turistas_las_remodelaciones_de_la_revolucion",
+        "_added_at": "2026-08-05T15:17:08.835462-07:00"
+      },
       {
         "title": "Baja California recibe aportaciones federales en cifra récord",
         "summary": "Estado logra máximo histórico en fondos federales asignados.",
@@ -185,6 +220,27 @@
     ],
     "sociedad": [
       {
+        "title": "Más de 4,800 jóvenes inician universidad en UABC Tijuana",
+        "summary": "Nueva generación de estudiantes comienza ciclo educativo en institución estatal.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97683/M%C3%A1s-de-4-mil-800-j%C3%B3venes-inician-su-etapa-universitaria-en-la-UABC",
+        "_added_at": "2026-08-05T15:17:08.835462-07:00"
+      },
+      {
+        "title": "Destacan papel de mujer en liderazgo industrial de BC",
+        "summary": "Evento reconoce aportaciones femeninas en integración de nuevos liderazgos.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97680/Destacan-papel-de-la-mujer-industrial-en-la-integraci%C3%B3n-de-nuevos-liderazgos",
+        "_added_at": "2026-08-05T15:17:08.835462-07:00"
+      },
+      {
+        "title": "Advierten riesgos de nadar en presas de la ciudad",
+        "summary": "Autoridades alertan sobre peligros sanitarios y de seguridad en cuerpos de agua.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/179984_advierten_de_riesgos_por_meterse_a_nadar_en_las_presas_de_la_ciudad",
+        "_added_at": "2026-08-05T15:17:08.835462-07:00"
+      },
+      {
         "title": "Presentan programa Kiosko Tijuana para denuncias",
         "summary": "Nueva plataforma facilita reportes de extorsión y abuso de autoridad en la ciudad.",
         "source": "AFN Tijuana",
@@ -232,22 +288,8 @@
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/08/unam-aplicara-examen-de-control-el-15-y-16-de-agosto-una-de-las-sedes-tijuana/",
         "_added_at": "2026-08-05T01:48:02.538916-07:00"
-      },
-      {
-        "title": "Desigualdad educativa obstaculiza desarrollo económico",
-        "summary": "Especialista advierte que brecha escolar afecta progreso social y generación de ingresos.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179956_desigualdad_educativa_es_un_obstaculo_para_el_desarrollo_social_y_economico_afirma_especialista",
-        "_added_at": "2026-08-05T01:48:02.538916-07:00"
-      },
-      {
-        "title": "Pensiones de viudas de policías aún sin resolverse",
-        "summary": "Gestiones llevan casi un año sin definir beneficios económicos para familias afectadas.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/pensiones-para-viudas-de-policias-en-tijuana-siguen-sin-definirse-pese-a-casi-el-ano-de-gestiones/",
-        "_added_at": "2026-08-05T01:48:02.538916-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-05T12:46:54.194468-07:00"
+  "last_updated": "2026-08-05T15:17:08.835462-07:00"
 }
