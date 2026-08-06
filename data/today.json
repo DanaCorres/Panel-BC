@@ -1,8 +1,29 @@
 {
   "date": "2026-08-05",
-  "run_count": 6,
+  "run_count": 7,
   "notes": {
     "seguridad": [
+      {
+        "title": "Restos humanos hallados en relleno sanitario de Rosarito",
+        "summary": "Colectivo localiza restos en sitio de disposición de residuos. Investigación en curso por autoridades competentes.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/colectivo-buscando-a-tolano-localiza-restos-humanos-en-relleno-sanitario-de-rosarito/?utm_source=rss&utm_medium=rss&utm_campaign=colectivo-buscando-a-tolano-localiza-restos-humanos-en-relleno-sanitario-de-rosarito",
+        "_added_at": "2026-08-05T20:25:32.563983-07:00"
+      },
+      {
+        "title": "Detienen a funcionarios del Registro Público de Tijuana",
+        "summary": "Tres personas detenidas: sub registrador, ex delegado y empleado por presuntas irregularidades.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180007_detienen_a_sub_registrador_a_un_ex_delegado_y_un_empleado_del_registro_publico_de_tijuana",
+        "_added_at": "2026-08-05T20:25:32.563983-07:00"
+      },
+      {
+        "title": "Corte de agua potable afecta 147 colonias de Tijuana",
+        "summary": "Falla en planta El Carrizo causa intermitencias y falta de servicio en múltiples zonas de la ciudad.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97700/Falla-en-El-Carrizo-genera-intermitencias-o-falta-de-agua-en-147-colonias",
+        "_added_at": "2026-08-05T20:25:32.563983-07:00"
+      },
       {
         "title": "Atacante de bar escapó pese a vigilancia permanente",
         "summary": "Agresor logró huir del lugar a pesar de operativo de seguridad en Tijuana.",
@@ -51,30 +72,37 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/seguridad/179962_muere_conductor_de_trailer_en_accidente_sobre_la_autopista_tecate_mexicali",
         "_added_at": "2026-08-05T07:27:00.101357-07:00"
-      },
-      {
-        "title": "Cadáver hallado atado a triciclo en Tijuana",
-        "summary": "Localizan cuerpo sin vida en la canalización del Cañón del Padre, atado a un triciclo.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/localizan-cadaver-atado-a-triciclo-en-la-canalizacion-en-el-canon-del-padre/",
-        "_added_at": "2026-08-05T01:48:02.538916-07:00"
-      },
-      {
-        "title": "Hombre asesinado en Ensenada con signos de violencia",
-        "summary": "Descubren cuerpo sin vida con huellas de violencia en delegación Colonet, Ensenada.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/reportan-a-un-hombre-sin-vida-con-huellas-de-violencia-en-la-delegacion-colonet-ensenada/",
-        "_added_at": "2026-08-05T01:48:02.538916-07:00"
-      },
-      {
-        "title": "Volcadura fatal en autopista Tecate-Mexicali",
-        "summary": "Muere conductor de tráiler tras accidente vehicular en carretera de cuota.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97655/Muere-operador-de-tr%C3%A1iler-tras-volcadura-en-la-carretera-de-cuota-Tecate-Mexicali",
-        "_added_at": "2026-08-05T01:48:02.538916-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Morena bloquea indagatoria contra gobernadora de BC",
+        "summary": "Congreso frena proceso en contra de Marina del Pilar; defensores exigen su renuncia.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/morena-frena-en-el-congreso-de-la-union-la-indagatoria-contra-la-gobernadora-de-bc/?utm_source=rss&utm_medium=rss&utm_campaign=morena-frena-en-el-congreso-de-la-union-la-indagatoria-contra-la-gobernadora-de-bc",
+        "_added_at": "2026-08-05T20:25:32.563983-07:00"
+      },
+      {
+        "title": "PAN presenta candidatos para alcaldía de Tijuana",
+        "summary": "Partido destapa opciones políticas para la próxima elección municipal en la frontera.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97706/PAN-destapa-%E2%80%9Ccartas%E2%80%9D-para-la-alcald%C3%ADa-de-Tijuana",
+        "_added_at": "2026-08-05T20:25:32.563983-07:00"
+      },
+      {
+        "title": "Comité de 44 integrantes exige liberación de Ruffo",
+        "summary": "Organismo plural solicita la libertad de exfuncionario; movimiento político en crecimiento.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/crean-comite-plural-de-44-integrantes-para-exigir-la-liberacion-de-ruffo/?utm_source=rss&utm_medium=rss&utm_campaign=crean-comite-plural-de-44-integrantes-para-exigir-la-liberacion-de-ruffo",
+        "_added_at": "2026-08-05T20:25:32.563983-07:00"
+      },
+      {
+        "title": "PAN conversa con Macalpin por candidatura en Mexicali",
+        "summary": "Dirigencia sostiene reunión con comunicador para definir candidato municipal.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97691/PAN-convers%C3%B3-con-MAcalpin-para-candidatura-municipal-de-Mexicali",
+        "_added_at": "2026-08-05T20:25:32.563983-07:00"
+      },
       {
         "title": "Antorchistas demandan obras, predios y servicios al gobierno",
         "summary": "Manifestación de movimiento social contra Estado exigiendo infraestructura e inmuebles.",
@@ -116,37 +144,16 @@
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/08/en-bc-hay-funcionarios-que-no-tienen-idea-lo-que-es-la-4t-eva-moreno/",
         "_added_at": "2026-08-05T09:47:17.376720-07:00"
-      },
-      {
-        "title": "Fiscal fracasa en caso emblemático Mendívil",
-        "summary": "Resalta colapso de investigación en caso de alto perfil que cuestionó credibilidad fiscal.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/afn_politico/179959_el_gran_fiasco_de_la_fiscal_en_el_caso_mendivil",
-        "_added_at": "2026-08-05T07:27:00.101357-07:00"
-      },
-      {
-        "title": "Pensiones de viudas de policías en Tijuana sin resolverse",
-        "summary": "Tras casi un año de gestiones, prestaciones para viudas de uniformados permanecen indefinidas.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/pensiones-para-viudas-de-policias-en-tijuana-siguen-sin-definirse-pese-a-casi-el-ano-de-gestiones/",
-        "_added_at": "2026-08-05T04:26:08.577565-07:00"
-      },
-      {
-        "title": "Consejo de Abogados exige renuncia de fiscal por fabricación de pruebas",
-        "summary": "Gremio legal acusa a fiscal estatal de falsificar investigaciones y demanda su dimisión inmediata.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/consejo-estatal-de-abogados-acusa-fabricacion-de-investigaciones-y-exige-la-renuncia-de-la-fiscal/",
-        "_added_at": "2026-08-05T01:48:02.538916-07:00"
-      },
-      {
-        "title": "Diputada pide investigación a Marina del Pilar por UIF",
-        "summary": "Legisladora solicita que Unidad de Inteligencia Financiera investigue posibles irregularidades.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179964_pide_diputada_que_la_uif_investigue_a_marina_del_pilar",
-        "_added_at": "2026-08-05T01:48:02.538916-07:00"
       }
     ],
     "economia": [
+      {
+        "title": "Autoridad cuestiona gasto millonario de CESPM",
+        "summary": "OBSERBC revisa pagos en servicios personales y subrogados; auditoría en proceso.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180001_cuestiona_obserbc_gasto_millonario_de_la_cespm_en_servicios_personales_y_subrogados",
+        "_added_at": "2026-08-05T20:25:32.563983-07:00"
+      },
       {
         "title": "Empresas de BC sienten efectos de desaceleración económica",
         "summary": "Contadores advierten sobre impacto negativo en negocios por reducción de actividad.",
@@ -209,16 +216,37 @@
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/08/cespt-admite-que-16-colonias-de-tijuana-estan-sin-agua-por-fugas-y-otros-factores/",
         "_added_at": "2026-08-05T01:48:02.538916-07:00"
-      },
-      {
-        "title": "Aeropuertos Tijuana y Los Cabos renuevan certificación",
-        "summary": "AFAC otorga reacreditación a instalaciones aéreas por cumplimiento de estándares.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179957_la_afac_renovo_certificacion_a_los_aeropuertos_de_tijuana_y_los_cabos",
-        "_added_at": "2026-08-05T01:48:02.538916-07:00"
       }
     ],
     "sociedad": [
+      {
+        "title": "Salud Federal confirma 33 casos de ciclosporiasis",
+        "summary": "Brote descarta origen mexicano; enfermedad gastrointestinal bajo vigilancia epidemiológica.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/salud-federal-confirma-33-casos-de-ciclosporiasis-o-diarrea-explosiva-descarta-origen-mexicano-del-brote/?utm_source=rss&utm_medium=rss&utm_campaign=salud-federal-confirma-33-casos-de-ciclosporiasis-o-diarrea-explosiva-descarta-origen-mexicano-del-brote",
+        "_added_at": "2026-08-05T20:25:32.563983-07:00"
+      },
+      {
+        "title": "Festival del Pescado y Marisco en Rosarito 2026",
+        "summary": "Edición anual se anuncia con fondos destinados para apoyar programas del DIF local.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Rosarito/97703/Anuncian-la-edici%C3%B3n-2026-del-Festival-del-Pescado-y-Marisco-en-Rosarito;-parte-de-lo-recaudado-apoyar%C3%A1-al-DIF",
+        "_added_at": "2026-08-05T20:25:32.563983-07:00"
+      },
+      {
+        "title": "Campamento Salvavidas Junior capacita hijos de bomberos",
+        "summary": "Programa de formación y rescate para menores de familias de cuerpos de emergencia.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/comunidad/179995_capacitan_a_hijos_de_bomberos_en_el_campamento_salvavidas_junior_2026",
+        "_added_at": "2026-08-05T20:25:32.563983-07:00"
+      },
+      {
+        "title": "Enlaces de género en dependencias estatales de BC",
+        "summary": "Gobierno anuncia creación de enlaces en cada institución para fortalecer ley Dayrel.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/97692/Habr%C3%A1-enlaces-de-g%C3%A9nero-en-las-dependencias-del-Estado",
+        "_added_at": "2026-08-05T20:25:32.563983-07:00"
+      },
       {
         "title": "Más de 4,800 jóvenes inician universidad en UABC Tijuana",
         "summary": "Nueva generación de estudiantes comienza ciclo educativo en institución estatal.",
@@ -260,36 +288,8 @@
         "source": "El Mexicano",
         "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97644/%E2%80%9CVuela-Tijuana%E2%80%9D-concluye-con-15-mil-visitantes;-alistar%C3%A1n-segunda-edici%C3%B3n-en-2027",
         "_added_at": "2026-08-05T09:47:17.376720-07:00"
-      },
-      {
-        "title": "Dieciséis colonias de Tijuana sin agua por fugas",
-        "summary": "CESPT reporta que 16 colonias tijuanenses carecen de servicio agua por fugas e inconvenientes.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/cespt-admite-que-16-colonias-de-tijuana-estan-sin-agua-por-fugas-y-otros-factores/",
-        "_added_at": "2026-08-05T04:26:08.577565-07:00"
-      },
-      {
-        "title": "Desabasto de medicamentos en ISSSTECALI aumenta",
-        "summary": "Crece la falta de medicamentos en Instituto de Seguridad Social de trabajadores de Baja California.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/179954_aumento_el_desabasto_de_medicamentos_en_el_issstecali",
-        "_added_at": "2026-08-05T04:26:08.577565-07:00"
-      },
-      {
-        "title": "Rescatan caballos en estado crítico en Ensenada",
-        "summary": "Autoridades salvan dos equinos maltratados en establo de boulevard Costero.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Ensenada/97652/Rescatan-dos-caballos-en-estado-cr%C3%ADtico-de-establo-en-bulevar-Costero-de-Ensenada",
-        "_added_at": "2026-08-05T01:48:02.538916-07:00"
-      },
-      {
-        "title": "UNAM aplica examen de control en Tijuana",
-        "summary": "Universidad ofrece evaluación en la ciudad los días 15 y 16 de agosto.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/unam-aplicara-examen-de-control-el-15-y-16-de-agosto-una-de-las-sedes-tijuana/",
-        "_added_at": "2026-08-05T01:48:02.538916-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-05T15:17:08.835462-07:00"
+  "last_updated": "2026-08-05T20:25:32.563983-07:00"
 }
