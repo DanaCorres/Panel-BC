@@ -1,8 +1,15 @@
 {
   "date": "2026-08-06",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Regidora de Tecate reaparece tras atentado",
+        "summary": "Funcionaria local comparece públicamente después del ataque sufrido, exhorta a no ceder ante violencia.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/reaparece-regidora-de-tecate-tras-atentado-llama-a-no-ceder-al-miedo/?utm_source=rss&utm_medium=rss&utm_campaign=reaparece-regidora-de-tecate-tras-atentado-llama-a-no-ceder-al-miedo",
+        "_added_at": "2026-08-06T04:29:39.691398-07:00"
+      },
       {
         "title": "Reo se fuga del Cereso de Mexicali",
         "summary": "Interno logra escapar de la cárcel estatal. Autoridades investigan circunstancias de la fuga.",
@@ -33,6 +40,13 @@
       }
     ],
     "politica": [
+      {
+        "title": "Movimientos políticos dialogan con autoridades estatales",
+        "summary": "Militantes y aspirantes sostuienen reuniones con funcionarios estatales para 2027.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/afn_politico/179999_si_bonilla_se_reune_con_julieta_marina_lo_hace_con_evangelina",
+        "_added_at": "2026-08-06T04:29:39.691398-07:00"
+      },
       {
         "title": "PAN revela candidatos para Tijuana 2027",
         "summary": "Partido anuncia perfiles para la contienda electoral de la presidencia municipal.",
@@ -87,6 +101,27 @@
     ],
     "sociedad": [
       {
+        "title": "Pirómano detenido por incendios en Tijuana",
+        "summary": "Capturan individuo acusado de quemar siete vehículos y treinta y siete neumáticos en corralon.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180010_detienen_a_un_piromano_quemo_siete_vehiculos_y_37_neumaticos_en_yonque",
+        "_added_at": "2026-08-06T04:29:39.691398-07:00"
+      },
+      {
+        "title": "Torneo de Golf Fundación Emma en tercera edición",
+        "summary": "Se anuncia nueva edición del torneo benéfico de la Fundación Emma en Baja California.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/anuncian-tercera-edicion-del-torneo-de-golf-de-fundacion-emma/?utm_source=rss&utm_medium=rss&utm_campaign=anuncian-tercera-edicion-del-torneo-de-golf-de-fundacion-emma",
+        "_added_at": "2026-08-06T04:29:39.691398-07:00"
+      },
+      {
+        "title": "Exposición homenaje a Miriam Kaiser en Tijuana",
+        "summary": "Artistas Gabriel Adame y Guillermo Arreola participan en muestra dedicada a reconocida creadora.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/gabriel-adame-y-guillermo-arreola-en-exposicion-homenaje-a-miriam-kaiser/?utm_source=rss&utm_medium=rss&utm_campaign=gabriel-adame-y-guillermo-arreola-en-exposicion-homenaje-a-miriam-kaiser",
+        "_added_at": "2026-08-06T04:29:39.691398-07:00"
+      },
+      {
         "title": "Corte de agua potable en colonias de Tijuana",
         "summary": "Falla en El Carrizo deja sin servicio a varias zonas residenciales.",
         "source": "AFN Tijuana",
@@ -102,5 +137,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-06T01:49:31.234133-07:00"
+  "last_updated": "2026-08-06T04:29:39.691398-07:00"
 }
