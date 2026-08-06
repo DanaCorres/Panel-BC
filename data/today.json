@@ -1,6 +1,6 @@
 {
   "date": "2026-08-06",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
       {
@@ -41,6 +41,20 @@
     ],
     "politica": [
       {
+        "title": "Detienen a funcionarios del Registro Público de Tijuana",
+        "summary": "Autoridades capturan a sub registrador, ex delegado y empleado por irregularidades.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/180007_detienen_a_sub_registrador_a_un_ex_delegado_y_un_empleado_del_registro_publico_de_tijuana",
+        "_added_at": "2026-08-06T07:29:54.812124-07:00"
+      },
+      {
+        "title": "Inhabilitan a cinco ex funcionarios de Monserrat",
+        "summary": "Sindicatura aplica inhabilitación a personal por actos administrativos previos.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180005_inhabilita_sindicatura_a_cinco_ex_funcionarios_de_monserrat",
+        "_added_at": "2026-08-06T07:29:54.812124-07:00"
+      },
+      {
         "title": "Movimientos políticos dialogan con autoridades estatales",
         "summary": "Militantes y aspirantes sostuienen reuniones con funcionarios estatales para 2027.",
         "source": "AFN Tijuana",
@@ -78,6 +92,20 @@
     ],
     "economia": [
       {
+        "title": "Calificadora cambia perspectiva de Ensenada a negativa",
+        "summary": "HR Ratings modifica evaluación de situación financiera del municipio.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/empresarial/180014_hr_ratings_modifico_de_estable_a_negativa_finanzas_de_ensenada",
+        "_added_at": "2026-08-06T07:29:54.812124-07:00"
+      },
+      {
+        "title": "Gobierno de BC aumenta gasto 7.1% en primer semestre",
+        "summary": "Administración estatal incrementa erogaciones respecto al periodo anterior.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/empresarial/180013_gobierno_de_bc_aumento_7_1_su_gasto_al_primer_semestre",
+        "_added_at": "2026-08-06T07:29:54.812124-07:00"
+      },
+      {
         "title": "Fiestas de la Vendimia 2026 inauguradas",
         "summary": "Valle de Guadalupe abre evento vitivinícola anual con participación regional.",
         "source": "AFN Tijuana",
@@ -100,6 +128,20 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Inauguran Fiestas de la Vendimia en Valle de Guadalupe",
+        "summary": "Celebración anual de cosecha de uva se lleva a cabo con actividades comunitarias.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/sociales/180009_inauguran_las_fiestas_de_la_vendimia_2026_en_el_valle_de_guadalupe",
+        "_added_at": "2026-08-06T07:29:54.812124-07:00"
+      },
+      {
+        "title": "Festival del Pescado y Marisco en Rosarito 2026",
+        "summary": "Anuncian edición del evento cuyas ganancias beneficiarán al DIF municipal.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Rosarito/97703/Anuncian-la-edici%C3%B3n-2026-del-Festival-del-Pescado-y-Marisco-en-Rosarito;-parte-de-lo-recaudado-apoyar%C3%A1-al-DIF",
+        "_added_at": "2026-08-06T07:29:54.812124-07:00"
+      },
       {
         "title": "Pirómano detenido por incendios en Tijuana",
         "summary": "Capturan individuo acusado de quemar siete vehículos y treinta y siete neumáticos en corralon.",
@@ -137,5 +179,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-06T04:29:39.691398-07:00"
+  "last_updated": "2026-08-06T07:29:54.812124-07:00"
 }
