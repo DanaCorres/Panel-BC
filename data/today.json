@@ -1,8 +1,22 @@
 {
   "date": "2026-08-07",
-  "run_count": 4,
+  "run_count": 5,
   "notes": {
     "seguridad": [
+      {
+        "title": "Ataque a balazos en Villa Fontana deja herido",
+        "summary": "Hombre recibe disparos en zona de Villa Fontana en Tijuana.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/atacan-a-tiros-a-hombre-en-villa-fontana/?utm_source=rss&utm_medium=rss&utm_campaign=atacan-a-tiros-a-hombre-en-villa-fontana",
+        "_added_at": "2026-08-07T12:07:21.203148-07:00"
+      },
+      {
+        "title": "Camión vuelca en libramiento Rosas Magallón",
+        "summary": "Accidente vehicular en vialidad importante de Tijuana sin heridos reportados.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180062_volco_un_camion_sobre_el_libramiento_rosas_magallon_no_hubo_heridos",
+        "_added_at": "2026-08-07T12:07:21.203148-07:00"
+      },
       {
         "title": "Hombre herido por disparos en La Presa",
         "summary": "Lesionan a un individuo a tiros cerca de la delegación La Presa en Tijuana.",
@@ -40,6 +54,20 @@
       }
     ],
     "politica": [
+      {
+        "title": "Gobierno descarta motivación política en arresto de Aguirre",
+        "summary": "Autoridades niegan que detención de Ángel Aguirre tenga intención política.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/sheinbaum-descarta-motivacion-politica-en-detencion-de-angel-aguirre/?utm_source=rss&utm_medium=rss&utm_campaign=sheinbaum-descarta-motivacion-politica-en-detencion-de-angel-aguirre",
+        "_added_at": "2026-08-07T12:07:21.203148-07:00"
+      },
+      {
+        "title": "Sheinbaum pide aclarar intervención de EU en captura de El Mayo",
+        "summary": "Presidenta exige explicaciones sobre supuesta injerencia estadounidense en operación.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/sheinbaum-exige-aclarar-injerencia-de-eu-en-traslado-de-el-mayo/?utm_source=rss&utm_medium=rss&utm_campaign=sheinbaum-exige-aclarar-injerencia-de-eu-en-traslado-de-el-mayo",
+        "_added_at": "2026-08-07T12:07:21.203148-07:00"
+      },
       {
         "title": "MORENA definirá candidatos a coordinación estatal",
         "summary": "El partido Morena anunciará a finales de agosto a los aspirantes para la coordinación estatal.",
@@ -92,6 +120,20 @@
     ],
     "economia": [
       {
+        "title": "Inflación anual baja a 3.12% en julio de 2026",
+        "summary": "Tasa de inflación alcanza su menor nivel del año en mes de julio.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/inflacion-anual-se-ubico-en-3-12-en-julio-de-2026-su-menor-nivel-en-el-ano/?utm_source=rss&utm_medium=rss&utm_campaign=inflacion-anual-se-ubico-en-3-12-en-julio-de-2026-su-menor-nivel-en-el-ano",
+        "_added_at": "2026-08-07T12:07:21.203148-07:00"
+      },
+      {
+        "title": "Ayuntamiento de Tijuana otorga contrato sin licitación",
+        "summary": "Municipio asigna contrato por 3 millones sin proceso de licitación pública.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/da-ayuntamiento-de-tijuana-contrato-por-3-mmp-sin-licitar-podcast/?utm_source=rss&utm_medium=rss&utm_campaign=da-ayuntamiento-de-tijuana-contrato-por-3-mmp-sin-licitar-podcast",
+        "_added_at": "2026-08-07T12:07:21.203148-07:00"
+      },
+      {
         "title": "Inflación de BC cae a 2.14 por ciento en julio",
         "summary": "La inflación anual en Baja California se ubicó en 2.14 por ciento durante julio de 2026.",
         "source": "AFN Tijuana",
@@ -135,6 +177,20 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Premio Latinoamericano de Literatura Molinos de Viento surge",
+        "summary": "Se crea nuevo galardón de literatura latinoamericana en la región.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/surge-premio-latinoamericano-de-literatura-molinos-de-viento/?utm_source=rss&utm_medium=rss&utm_campaign=surge-premio-latinoamericano-de-literatura-molinos-de-viento",
+        "_added_at": "2026-08-07T12:07:21.203148-07:00"
+      },
+      {
+        "title": "Viviendas con engomado rojo por riesgo geológico en Tijuana",
+        "summary": "Aumentan a 77 casas marcadas por peligro de deslaves en Sánchez Taboada.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97755/Aumentan-a-77-las-viviendas-con-engomado-rojo-por-riesgo-geol%C3%B3gico-en-la-S%C3%A1nchez-Taboada",
+        "_added_at": "2026-08-07T12:07:21.203148-07:00"
+      },
       {
         "title": "Jornaleros lesionados en accidente en Ensenada",
         "summary": "Once personas resultan heridas tras accidente en Ejido Eréndira; trasladadas a Maneadero.",
@@ -190,22 +246,8 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/180055_hija_de_victima_de_accidente_automovilistico_pide_justicia",
         "_added_at": "2026-08-07T00:36:02.968523-07:00"
-      },
-      {
-        "title": "UABC Ensenada recibe casi dos mil estudiantes de ingreso",
-        "summary": "Universidad acoge nueva generación de estudiantes en campus de Ensenada.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/educativas/180045_recibio_la_uabc_ensenada_a_casi_dos_mil_estudiantes_de_nuevo_ingreso",
-        "_added_at": "2026-08-07T00:36:02.968523-07:00"
-      },
-      {
-        "title": "Moenia ilumina aniversario de Barón Balché",
-        "summary": "Banda actúa en Valle de Guadalupe para celebración 25 aniversario de viñedo.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/moenia-iluminara-el-valle-de-guadalupe-en-la-celebracion-del-25-o-aniversario-de-baron-balche/",
-        "_added_at": "2026-08-07T00:36:02.968523-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-07T09:01:38.461951-07:00"
+  "last_updated": "2026-08-07T12:07:21.203148-07:00"
 }
