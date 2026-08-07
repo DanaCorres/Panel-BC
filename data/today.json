@@ -1,6 +1,6 @@
 {
   "date": "2026-08-07",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
       {
@@ -34,6 +34,13 @@
     ],
     "politica": [
       {
+        "title": "PAN cuestiona gasto de 15 millones en cambio de cableado",
+        "summary": "Partido demanda explicaciones por inversión millonaria en infraestructura de comunicaciones municipal.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180044_pedira_el_pan_explicacion_por_gasto_de_15_mdp_en_cambio_de_cableado",
+        "_added_at": "2026-08-07T06:20:43.591500-07:00"
+      },
+      {
         "title": "Colegio de Abogados pide renuncia de fiscal en BC",
         "summary": "Abogados exhortan a María Elena Andrade a dejar cargo de procuradora estatal.",
         "source": "ZETA Tijuana",
@@ -64,6 +71,13 @@
     ],
     "economia": [
       {
+        "title": "Nuevo cónsul estadounidense asume cargo en Tijuana",
+        "summary": "Lance Hegerle, exdirector de antinarcóticos en Colombia, toma posición como representante diplomático estadounidense.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/nuevo-consul-de-eua-en-tijuana-lance-hegerle-fue-director-de-antinarcoticos-en-embajada-estadounidense-en-colombia/",
+        "_added_at": "2026-08-07T06:20:43.591500-07:00"
+      },
+      {
         "title": "Ayuntamiento de Tijuana otorga contrato de 3 MMP sin licitación",
         "summary": "Investigación revela procedimiento irregular en asignación de contrato municipal.",
         "source": "ZETA Tijuana",
@@ -86,6 +100,13 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Comunidades indígenas en Tecate buscan protección federal",
+        "summary": "Pueblos originarios demandan intervención del gobierno por daños de ampliación del muro fronterizo en zona.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/97747/Buscan-comunidades-ind%C3%ADgenas-protecci%C3%B3n-del-Gobierno-Mexicano",
+        "_added_at": "2026-08-07T06:20:43.591500-07:00"
+      },
       {
         "title": "Familia de Mónica Elizabeth exige justicia tras choque en Mexicali",
         "summary": "Hija reclama por muerte de madre víctima de accidente automovilístico.",
@@ -130,5 +151,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-07T03:06:19.751461-07:00"
+  "last_updated": "2026-08-07T06:20:43.591500-07:00"
 }
