@@ -1,8 +1,15 @@
 {
   "date": "2026-08-07",
-  "run_count": 3,
+  "run_count": 4,
   "notes": {
     "seguridad": [
+      {
+        "title": "Hombre herido por disparos en La Presa",
+        "summary": "Lesionan a un individuo a tiros cerca de la delegación La Presa en Tijuana.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/180060_lesionan_a_un_hombre_a_tiros_cerca_de_la_delegacion_la_presa",
+        "_added_at": "2026-08-07T09:01:38.461951-07:00"
+      },
       {
         "title": "Detienen a dos jóvenes por choque múltiple fatal",
         "summary": "Capturan a dos jóvenes por su participación en accidente automovilístico que dejó víctimas fatales.",
@@ -33,6 +40,20 @@
       }
     ],
     "politica": [
+      {
+        "title": "MORENA definirá candidatos a coordinación estatal",
+        "summary": "El partido Morena anunciará a finales de agosto a los aspirantes para la coordinación estatal.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Pol%C3%ADtica%20y%20Pol%C3%ADticos/97765/MORENA-a-finales-de-agosto-podr%C3%ADan-dar-nombres-de-los-cuatro-que-aspiran-a-la-coordinaci%C3%B3n-estatal",
+        "_added_at": "2026-08-07T09:01:38.461951-07:00"
+      },
+      {
+        "title": "Impulsan reforma contra cohabitación forzada en BC",
+        "summary": "Diputados presentan iniciativa para ampliar ley contra la cohabitación forzada en la entidad.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180053_impulsan_expansion_de_reforma_contra_la_cohabitacion_forzada_presentan_iniciativa",
+        "_added_at": "2026-08-07T09:01:38.461951-07:00"
+      },
       {
         "title": "PAN cuestiona gasto de 15 millones en cambio de cableado",
         "summary": "Partido demanda explicaciones por inversión millonaria en infraestructura de comunicaciones municipal.",
@@ -71,6 +92,20 @@
     ],
     "economia": [
       {
+        "title": "Inflación de BC cae a 2.14 por ciento en julio",
+        "summary": "La inflación anual en Baja California se ubicó en 2.14 por ciento durante julio de 2026.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/empresarial/180058_inflacion_de_bc_en_2_14_anual_durante_julio",
+        "_added_at": "2026-08-07T09:01:38.461951-07:00"
+      },
+      {
+        "title": "Tráfico aéreo cae 5.3 por ciento en Tijuana",
+        "summary": "El Aeropuerto Internacional registra disminución en movimiento de pasajeros durante el período.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/empresarial/180059_cae_5_3_trafico_de_pasajeros_por_aeropuerto_internacional_de_tijuana",
+        "_added_at": "2026-08-07T09:01:38.461951-07:00"
+      },
+      {
         "title": "Nuevo cónsul estadounidense asume cargo en Tijuana",
         "summary": "Lance Hegerle, exdirector de antinarcóticos en Colombia, toma posición como representante diplomático estadounidense.",
         "source": "ZETA Tijuana",
@@ -100,6 +135,27 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Jornaleros lesionados en accidente en Ensenada",
+        "summary": "Once personas resultan heridas tras accidente en Ejido Eréndira; trasladadas a Maneadero.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Ensenada/97753/Jornaleros-lesionados-tras-accidente-en-el-Ejido-Er%C3%A9ndira,-en-Ensenada",
+        "_added_at": "2026-08-07T09:01:38.461951-07:00"
+      },
+      {
+        "title": "Aumentan matrimonios en Mexicali tras nuevas instalaciones",
+        "summary": "Registro civil registra incremento en bodas civiles por nuevas y mejoradas instalaciones.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97749/Aumentan-matrimonios-en-Mexicali",
+        "_added_at": "2026-08-07T09:01:38.461951-07:00"
+      },
+      {
+        "title": "Nuevo cónsul general de EU asume en Tijuana",
+        "summary": "Toma posesión nuevo representante diplomático estadounidense en la ciudad fronteriza.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/sociales/180050_asume_nuevo_consul_general_de_eu_en_tijuana",
+        "_added_at": "2026-08-07T09:01:38.461951-07:00"
+      },
       {
         "title": "Comunidades indígenas en Tecate buscan protección federal",
         "summary": "Pueblos originarios demandan intervención del gobierno por daños de ampliación del muro fronterizo en zona.",
@@ -151,5 +207,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-07T06:20:43.591500-07:00"
+  "last_updated": "2026-08-07T09:01:38.461951-07:00"
 }
