@@ -1,288 +1,106 @@
 {
-  "date": "2026-08-06",
-  "run_count": 5,
+  "date": "2026-08-07",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Choque en Mexicali causa muerte, familia pide justicia",
-        "summary": "Mónica Elizabeth falleció en accidente vehicular en Mexicali. Su hija demanda investigación y justicia por los hechos.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/exigen-justicia-por-monica-elizabeth-victima-del-choque-en-mexicali/?utm_source=rss&utm_medium=rss&utm_campaign=exigen-justicia-por-monica-elizabeth-victima-del-choque-en-mexicali",
-        "_added_at": "2026-08-06T22:00:07.367371-07:00"
+        "title": "Detienen a dos jóvenes por choque múltiple fatal",
+        "summary": "Capturan a dos jóvenes por su participación en accidente automovilístico que dejó víctimas fatales.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180056_detienen_a_dos_jovenes_por_su_presunta_participacion_en_fatal_choque_multiple",
+        "_added_at": "2026-08-07T00:36:02.968523-07:00"
       },
       {
         "title": "Once jornaleros lesionados en accidente en Ensenada",
-        "summary": "Choque en carretera de Ensenada dejó 11 jornaleros heridos. Fueron trasladados a centros médicos para atención.",
+        "summary": "Choque en Ejido Eréndira deja a trabajadores agrícolas heridos, trasladados a hospitales.",
         "source": "El Mexicano",
         "url": "https://el-mexicano.com.mx/Noticia/Ensenada/97753/Jornaleros-lesionados-tras-accidente-en-el-Ejido-Er%C3%A9ndira,-en-Ensenada",
-        "_added_at": "2026-08-06T22:00:07.367371-07:00"
+        "_added_at": "2026-08-07T00:36:02.968523-07:00"
       },
       {
-        "title": "Madres buscadoras exigen cierre de relleno sanitario",
-        "summary": "Hallazgo de restos humanos en sitio de disposición. Colectivos reclaman cierre y investigación inmediata.",
+        "title": "Madres buscadoras exigen cerrar relleno sanitario",
+        "summary": "Activistas demandan clausura de sitio tras hallazgo de restos humanos en residuos.",
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/180052_madres_buscadoras_exigen_cerrar_un_relleno_sanitario_tras_el_hallazgo_de_restos_humanos",
-        "_added_at": "2026-08-06T22:00:07.367371-07:00"
+        "_added_at": "2026-08-07T00:36:02.968523-07:00"
       },
       {
-        "title": "Policía estatal asegura plantío de marihuana en Tijuana",
-        "summary": "Autoridades decomisan otro cultivo de marihuana en operativo realizado en la ciudad.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97744/Asegura-polic%C3%ADa-estatal-otro-plant%C3%ADo-de-marihuana-en-Tijuana",
-        "_added_at": "2026-08-06T17:09:47.475596-07:00"
-      },
-      {
-        "title": "Capturan reo fugado del CERESO de Mexicali",
-        "summary": "Recapturan a interno que logró escapar del centro penitenciario de Mexicali.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/detienen-a-reo-que-escapo-del-cereso-de-mexicali/",
-        "_added_at": "2026-08-06T17:09:47.475596-07:00"
-      },
-      {
-        "title": "Detienen a hombre con fusil de asalto en Tijuana",
-        "summary": "Autoridades aseguran arma de fuego de alto calibre en operativo de seguridad.",
+        "title": "Detienen a hombre con fusil de asalto",
+        "summary": "Autoridades capturan individuo en posesión de arma de fuego de alto poder.",
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/seguridad/180049_detienen_a_un_hombre_en_posesion_de_un_fusil_de_asalto",
-        "_added_at": "2026-08-06T17:09:47.475596-07:00"
-      },
-      {
-        "title": "Cuatro ahogados en playas de Rosarito durante 2026",
-        "summary": "Continúan tragedias acuáticas en costas de Rosarito con víctimas fatales.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Rosarito/97743/Van-4-ahogados-en-el-mar-de-Rosarito-durante-2026",
-        "_added_at": "2026-08-06T17:09:47.475596-07:00"
-      },
-      {
-        "title": "Regidora de Tecate reaparece tras atentado",
-        "summary": "Funcionaria local comparece públicamente después del ataque sufrido, exhorta a no ceder ante violencia.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/reaparece-regidora-de-tecate-tras-atentado-llama-a-no-ceder-al-miedo/?utm_source=rss&utm_medium=rss&utm_campaign=reaparece-regidora-de-tecate-tras-atentado-llama-a-no-ceder-al-miedo",
-        "_added_at": "2026-08-06T04:29:39.691398-07:00"
-      },
-      {
-        "title": "Reo se fuga del Cereso de Mexicali",
-        "summary": "Interno logra escapar de la cárcel estatal. Autoridades investigan circunstancias de la fuga.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/reo-se-fuga-del-cereso-de-mexicali/?utm_source=rss&utm_medium=rss&utm_campaign=reo-se-fuga-del-cereso-de-mexicali",
-        "_added_at": "2026-08-06T01:49:31.234133-07:00"
-      },
-      {
-        "title": "Operativo en Valle de Guadalupe: tres detenidos",
-        "summary": "Autoridades aseguran armas y drogas tras operativo en el valle vitivinícola. Tres personas detenidas.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/operativo-en-valle-de-guadalupe-deja-tres-detenidos-y-asegura-armas-y-droga/?utm_source=rss&utm_medium=rss&utm_campaign=operativo-en-valle-de-guadalupe-deja-tres-detenidos-y-asegura-armas-y-droga",
-        "_added_at": "2026-08-06T01:49:31.234133-07:00"
+        "_added_at": "2026-08-07T00:36:02.968523-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Colegio de Abogados pide renuncia de fiscal María Elena Andrade",
-        "summary": "Gremio legal de BC exhorta a titular de fiscalía a dejar su cargo por cuestiones de desempeño.",
+        "title": "Colegio de Abogados pide renuncia de fiscal en BC",
+        "summary": "Abogados exhortan a María Elena Andrade a dejar cargo de procuradora estatal.",
         "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/colegio-de-abogados-exhorta-a-maria-elena-andrade-a-renunciar-como-fiscal-en-bc/?utm_source=rss&utm_medium=rss&utm_campaign=colegio-de-abogados-exhorta-a-maria-elena-andrade-a-renunciar-como-fiscal-en-bc",
-        "_added_at": "2026-08-06T22:00:07.367371-07:00"
+        "url": "https://zetatijuana.com/2026/08/colegio-de-abogados-exhorta-a-maria-elena-andrade-a-renunciar-como-fiscal-en-bc/",
+        "_added_at": "2026-08-07T00:36:02.968523-07:00"
       },
       {
-        "title": "PAN destapa a Macalpin como candidato a Mexicali",
-        "summary": "Partido Acción Nacional presenta aspirante panista para alcaldía de Mexicali en próximas elecciones.",
+        "title": "PAN destapa a Macalpín como candidato en Mexicali",
+        "summary": "Panistas anuncian precandidato para alcaldía de capital estatal.",
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/180054_panistas_destapan_a_macalpin_como_candidato_a_la_alcaldia_de_mexicali",
-        "_added_at": "2026-08-06T22:00:07.367371-07:00"
+        "_added_at": "2026-08-07T00:36:02.968523-07:00"
       },
       {
-        "title": "Impulsan expansión de reforma contra cohabitación forzada",
-        "summary": "Legisladores presentan iniciativa para ampliar protecciones contra práctica discriminatoria en BC.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180053_impulsan_expansion_de_reforma_contra_la_cohabitacion_forzada_presentan_iniciativa",
-        "_added_at": "2026-08-06T22:00:07.367371-07:00"
-      },
-      {
-        "title": "Nuevo cónsul estadounidense en Tijuana con experiencia antinarcóticos",
-        "summary": "Lance Hegerle asume cargo como cónsul de EUA tras dirigir operaciones antidrogas en Colombia.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/nuevo-consul-de-eua-en-tijuana-lance-hegerle-fue-director-de-antinarcoticos-en-embajada-estadounidense-en-colombia/",
-        "_added_at": "2026-08-06T17:09:47.475596-07:00"
-      },
-      {
-        "title": "Regidora denuncia falta de transparencia en comité de compras",
-        "summary": "Legisladora exige transmisión en vivo de sesiones de adquisiciones municipales.",
+        "title": "Regidora denuncia comité de compras por falta transparencia",
+        "summary": "Funcionaria cuestiona procedimientos y pide transmisión en vivo de sesiones.",
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/180047_denuncia_regidora_al_comite_de_compras_pide_transmitir_sesiones_en_vivo",
-        "_added_at": "2026-08-06T17:09:47.475596-07:00"
+        "_added_at": "2026-08-07T00:36:02.968523-07:00"
       },
       {
-        "title": "PAN solicita explicación por gasto de 15 millones en cableado",
-        "summary": "Partido de oposición cuestiona inversión en infraestructura de telecomunicaciones.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180044_pedira_el_pan_explicacion_por_gasto_de_15_mdp_en_cambio_de_cableado",
-        "_added_at": "2026-08-06T17:09:47.475596-07:00"
-      },
-      {
-        "title": "Regidora agredida en julio regresa al cabildo de Tijuana",
-        "summary": "Quijada se reintegra a sesiones tras sufrir atentado hace semanas.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180035_regreso_al_cabildo_la_regidora_quijada_sufrio_un_atentado_en_julio",
-        "_added_at": "2026-08-06T17:09:47.475596-07:00"
-      },
-      {
-        "title": "Detienen a funcionarios del Registro Público de Tijuana",
-        "summary": "Autoridades capturan a sub registrador, ex delegado y empleado por irregularidades.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/180007_detienen_a_sub_registrador_a_un_ex_delegado_y_un_empleado_del_registro_publico_de_tijuana",
-        "_added_at": "2026-08-06T07:29:54.812124-07:00"
-      },
-      {
-        "title": "Inhabilitan a cinco ex funcionarios de Monserrat",
-        "summary": "Sindicatura aplica inhabilitación a personal por actos administrativos previos.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180005_inhabilita_sindicatura_a_cinco_ex_funcionarios_de_monserrat",
-        "_added_at": "2026-08-06T07:29:54.812124-07:00"
-      },
-      {
-        "title": "Movimientos políticos dialogan con autoridades estatales",
-        "summary": "Militantes y aspirantes sostuienen reuniones con funcionarios estatales para 2027.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/afn_politico/179999_si_bonilla_se_reune_con_julieta_marina_lo_hace_con_evangelina",
-        "_added_at": "2026-08-06T04:29:39.691398-07:00"
+        "title": "Comunidades indígenas piden protección por muro fronterizo",
+        "summary": "Grupos en Tecate demandan amparo gubernamental por daños en expansión de barrera.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/97747/Buscan-comunidades-ind%C3%ADgenas-protecci%C3%B3n-del-Gobierno-Mexicano",
+        "_added_at": "2026-08-07T00:36:02.968523-07:00"
       }
     ],
     "economia": [
       {
-        "title": "936 mil personas sin renovar licencia de manejo en BC",
-        "summary": "Gobierno mantiene decreto condonando recargos y multas para regularización de documentos vencidos.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Estatal/97748/Sin-renovar-licencia-de-manejo-936-mil-personas-en-BC",
-        "_added_at": "2026-08-06T22:00:07.367371-07:00"
-      },
-      {
-        "title": "Jornada laboral de 40 horas representa reto financiero para pymes BC",
-        "summary": "Empresarios advierten sobre impacto económico de reforma laboral en región.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180040_sera_un_reto_financiero_para_las_mipymes_de_bc_la_jornada_laboral_de_40_horas_anade",
-        "_added_at": "2026-08-06T17:09:47.475596-07:00"
-      },
-      {
-        "title": "Cierres empresariales incrementan conciliaciones laborales en BC",
-        "summary": "Secretaría del Trabajo reporta aumento en resoluciones de conflictos laborales.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180036_el_cierre_de_empresas_incrementa_las_conciliaciones_laborales_secretaria_del_trabajo",
-        "_added_at": "2026-08-06T17:09:47.475596-07:00"
-      },
-      {
-        "title": "Tijuana tendrá Hub de Ciberseguridad ante déficit de especialistas",
-        "summary": "Se crea centro tecnológico para capacitación en seguridad informática regional.",
+        "title": "Tijuana tendrá Hub de Ciberseguridad para especialistas",
+        "summary": "Proyecto busca atraer talento tecnológico ante escasez nacional de profesionales.",
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/180048_tijuana_tendra_hub_de_ciberseguridad_ante_deficit_de_especialistas_en_mexico",
-        "_added_at": "2026-08-06T17:09:47.475596-07:00"
+        "_added_at": "2026-08-07T00:36:02.968523-07:00"
       },
       {
-        "title": "Calificadora cambia perspectiva de Ensenada a negativa",
-        "summary": "HR Ratings modifica evaluación de situación financiera del municipio.",
+        "title": "PAN cuestiona gasto de 15 millones en cableado",
+        "summary": "Partido pide explicación sobre inversión en cambio de infraestructura.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/empresarial/180014_hr_ratings_modifico_de_estable_a_negativa_finanzas_de_ensenada",
-        "_added_at": "2026-08-06T07:29:54.812124-07:00"
-      },
-      {
-        "title": "Gobierno de BC aumenta gasto 7.1% en primer semestre",
-        "summary": "Administración estatal incrementa erogaciones respecto al periodo anterior.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/empresarial/180013_gobierno_de_bc_aumento_7_1_su_gasto_al_primer_semestre",
-        "_added_at": "2026-08-06T07:29:54.812124-07:00"
-      },
-      {
-        "title": "Fiestas de la Vendimia 2026 inauguradas",
-        "summary": "Valle de Guadalupe abre evento vitivinícola anual con participación regional.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/sociales/180009_inauguran_las_fiestas_de_la_vendimia_2026_en_el_valle_de_guadalupe",
-        "_added_at": "2026-08-06T01:49:31.234133-07:00"
-      },
-      {
-        "title": "Festival del Pescado y Marisco en Rosarito",
-        "summary": "Anuncian edición 2026 del evento. Recaudos beneficiarán al DIF local.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Rosarito/97703/Anuncian-la-edici%C3%B3n-2026-del-Festival-del-Pescado-y-Marisco-en-Rosarito;-parte-de-lo-recaudado-apoyar%C3%A1-al-DIF",
-        "_added_at": "2026-08-06T01:49:31.234133-07:00"
-      },
-      {
-        "title": "Observatorio cuestiona gasto de la CESPM",
-        "summary": "OBSERBC señala millonarios gastos en servicios personales y subcontratación.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180001_cuestiona_obserbc_gasto_millonario_de_la_cespm_en_servicios_personales_y_subrogados",
-        "_added_at": "2026-08-06T01:49:31.234133-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/180044_pedira_el_pan_explicacion_por_gasto_de_15_mdp_en_cambio_de_cableado",
+        "_added_at": "2026-08-07T00:36:02.968523-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Verbena celebra 34 edición en Santo Tomás, Ensenada",
-        "summary": "Festividad cultural tradicional marca su aniversario con celebraciones en comunidad costera.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/celebraran-santo-tomas-la-34-edicion-de-la-verbena-en-ensenada/?utm_source=rss&utm_medium=rss&utm_campaign=celebraran-santo-tomas-la-34-edicion-de-la-verbena-en-ensenada",
-        "_added_at": "2026-08-06T22:00:07.367371-07:00"
+        "title": "Hija de víctima de accidente pide justicia por madre",
+        "summary": "Mónica Elizabeth demanda reparación tras muerte en siniestro vial en Mexicali.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180055_hija_de_victima_de_accidente_automovilistico_pide_justicia",
+        "_added_at": "2026-08-07T00:36:02.968523-07:00"
       },
       {
-        "title": "UABC Ensenada recibe casi dos mil estudiantes de nuevo ingreso",
-        "summary": "Universidad atiende entrada masiva de alumnos para nuevo ciclo académico.",
+        "title": "UABC Ensenada recibe casi dos mil estudiantes de ingreso",
+        "summary": "Universidad acoge nueva generación de estudiantes en campus de Ensenada.",
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/educativas/180045_recibio_la_uabc_ensenada_a_casi_dos_mil_estudiantes_de_nuevo_ingreso",
-        "_added_at": "2026-08-06T17:09:47.475596-07:00"
+        "_added_at": "2026-08-07T00:36:02.968523-07:00"
       },
       {
-        "title": "Comunidades indígenas solicitan protección del Gobierno estatal",
-        "summary": "Grupos originarios buscan apoyo oficial para garantizar derechos y seguridad.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Estatal/97747/Buscan-comunidades-ind%C3%ADgenas-protecci%C3%B3n-del-Gobierno-Mexicano",
-        "_added_at": "2026-08-06T17:09:47.475596-07:00"
-      },
-      {
-        "title": "Exigen mayor atención a destrucción de espacios sagrados en Tecate",
-        "summary": "Residentes piden intervención para proteger sitios culturales del municipio.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180041_exigen_mas_atencion_a_destruccion_de_espacios_sagrados_en_tecate",
-        "_added_at": "2026-08-06T17:09:47.475596-07:00"
-      },
-      {
-        "title": "Alcohólicos Anónimos convoca 40 Congreso de Área en Tijuana",
-        "summary": "Organización realiza evento anual con participantes de la región.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97742/Alcoh%C3%B3licos-An%C3%B3nimos-invita-a-su-40-Congreso-de-%C3%81rea-en-Tijuana",
-        "_added_at": "2026-08-06T17:09:47.475596-07:00"
-      },
-      {
-        "title": "Inauguran Fiestas de la Vendimia en Valle de Guadalupe",
-        "summary": "Celebración anual de cosecha de uva se lleva a cabo con actividades comunitarias.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/sociales/180009_inauguran_las_fiestas_de_la_vendimia_2026_en_el_valle_de_guadalupe",
-        "_added_at": "2026-08-06T07:29:54.812124-07:00"
-      },
-      {
-        "title": "Festival del Pescado y Marisco en Rosarito 2026",
-        "summary": "Anuncian edición del evento cuyas ganancias beneficiarán al DIF municipal.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Rosarito/97703/Anuncian-la-edici%C3%B3n-2026-del-Festival-del-Pescado-y-Marisco-en-Rosarito;-parte-de-lo-recaudado-apoyar%C3%A1-al-DIF",
-        "_added_at": "2026-08-06T07:29:54.812124-07:00"
-      },
-      {
-        "title": "Pirómano detenido por incendios en Tijuana",
-        "summary": "Capturan individuo acusado de quemar siete vehículos y treinta y siete neumáticos en corralon.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180010_detienen_a_un_piromano_quemo_siete_vehiculos_y_37_neumaticos_en_yonque",
-        "_added_at": "2026-08-06T04:29:39.691398-07:00"
-      },
-      {
-        "title": "Torneo de Golf Fundación Emma en tercera edición",
-        "summary": "Se anuncia nueva edición del torneo benéfico de la Fundación Emma en Baja California.",
+        "title": "Moenia ilumina aniversario de Barón Balché",
+        "summary": "Banda actúa en Valle de Guadalupe para celebración 25 aniversario de viñedo.",
         "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/anuncian-tercera-edicion-del-torneo-de-golf-de-fundacion-emma/?utm_source=rss&utm_medium=rss&utm_campaign=anuncian-tercera-edicion-del-torneo-de-golf-de-fundacion-emma",
-        "_added_at": "2026-08-06T04:29:39.691398-07:00"
-      },
-      {
-        "title": "Exposición homenaje a Miriam Kaiser en Tijuana",
-        "summary": "Artistas Gabriel Adame y Guillermo Arreola participan en muestra dedicada a reconocida creadora.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/gabriel-adame-y-guillermo-arreola-en-exposicion-homenaje-a-miriam-kaiser/?utm_source=rss&utm_medium=rss&utm_campaign=gabriel-adame-y-guillermo-arreola-en-exposicion-homenaje-a-miriam-kaiser",
-        "_added_at": "2026-08-06T04:29:39.691398-07:00"
+        "url": "https://zetatijuana.com/2026/08/moenia-iluminara-el-valle-de-guadalupe-en-la-celebracion-del-25-o-aniversario-de-baron-balche/",
+        "_added_at": "2026-08-07T00:36:02.968523-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-06T22:00:07.367371-07:00"
+  "last_updated": "2026-08-07T00:36:02.968523-07:00"
 }
