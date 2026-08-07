@@ -1,6 +1,6 @@
 {
   "date": "2026-08-07",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
       {
@@ -64,6 +64,13 @@
     ],
     "economia": [
       {
+        "title": "Ayuntamiento de Tijuana otorga contrato de 3 MMP sin licitación",
+        "summary": "Investigación revela procedimiento irregular en asignación de contrato municipal.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/da-ayuntamiento-de-tijuana-contrato-por-3-mmp-sin-licitar-podcast/",
+        "_added_at": "2026-08-07T03:06:19.751461-07:00"
+      },
+      {
         "title": "Tijuana tendrá Hub de Ciberseguridad para especialistas",
         "summary": "Proyecto busca atraer talento tecnológico ante escasez nacional de profesionales.",
         "source": "AFN Tijuana",
@@ -79,6 +86,27 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Familia de Mónica Elizabeth exige justicia tras choque en Mexicali",
+        "summary": "Hija reclama por muerte de madre víctima de accidente automovilístico.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/exigen-justicia-por-monica-elizabeth-victima-del-choque-en-mexicali/",
+        "_added_at": "2026-08-07T03:06:19.751461-07:00"
+      },
+      {
+        "title": "Ensenada celebra 34 edición de Verbena de Santo Tomás",
+        "summary": "Festividad tradicional se conmemora con edición importante en la región.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/celebraran-santo-tomas-la-34-edicion-de-la-verbena-en-ensenada/",
+        "_added_at": "2026-08-07T03:06:19.751461-07:00"
+      },
+      {
+        "title": "936 mil personas en BC sin renovar licencia de manejo",
+        "summary": "Estado mantiene decreto que condona recargos y multas por trámite vencido.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/97748/Sin-renovar-licencia-de-manejo-936-mil-personas-en-BC",
+        "_added_at": "2026-08-07T03:06:19.751461-07:00"
+      },
       {
         "title": "Hija de víctima de accidente pide justicia por madre",
         "summary": "Mónica Elizabeth demanda reparación tras muerte en siniestro vial en Mexicali.",
@@ -102,5 +130,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-07T00:36:02.968523-07:00"
+  "last_updated": "2026-08-07T03:06:19.751461-07:00"
 }
