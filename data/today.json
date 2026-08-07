@@ -1,8 +1,29 @@
 {
   "date": "2026-08-06",
-  "run_count": 4,
+  "run_count": 5,
   "notes": {
     "seguridad": [
+      {
+        "title": "Choque en Mexicali causa muerte, familia pide justicia",
+        "summary": "Mónica Elizabeth falleció en accidente vehicular en Mexicali. Su hija demanda investigación y justicia por los hechos.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/exigen-justicia-por-monica-elizabeth-victima-del-choque-en-mexicali/?utm_source=rss&utm_medium=rss&utm_campaign=exigen-justicia-por-monica-elizabeth-victima-del-choque-en-mexicali",
+        "_added_at": "2026-08-06T22:00:07.367371-07:00"
+      },
+      {
+        "title": "Once jornaleros lesionados en accidente en Ensenada",
+        "summary": "Choque en carretera de Ensenada dejó 11 jornaleros heridos. Fueron trasladados a centros médicos para atención.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Ensenada/97753/Jornaleros-lesionados-tras-accidente-en-el-Ejido-Er%C3%A9ndira,-en-Ensenada",
+        "_added_at": "2026-08-06T22:00:07.367371-07:00"
+      },
+      {
+        "title": "Madres buscadoras exigen cierre de relleno sanitario",
+        "summary": "Hallazgo de restos humanos en sitio de disposición. Colectivos reclaman cierre y investigación inmediata.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180052_madres_buscadoras_exigen_cerrar_un_relleno_sanitario_tras_el_hallazgo_de_restos_humanos",
+        "_added_at": "2026-08-06T22:00:07.367371-07:00"
+      },
       {
         "title": "Policía estatal asegura plantío de marihuana en Tijuana",
         "summary": "Autoridades decomisan otro cultivo de marihuana en operativo realizado en la ciudad.",
@@ -51,23 +72,30 @@
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/08/operativo-en-valle-de-guadalupe-deja-tres-detenidos-y-asegura-armas-y-droga/?utm_source=rss&utm_medium=rss&utm_campaign=operativo-en-valle-de-guadalupe-deja-tres-detenidos-y-asegura-armas-y-droga",
         "_added_at": "2026-08-06T01:49:31.234133-07:00"
-      },
-      {
-        "title": "Restos humanos localizados en relleno sanitario",
-        "summary": "Colectivo Buscando a Tolano halla restos en Rosarito. Investigación sobre identidad en curso.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/colectivo-buscando-a-tolano-localiza-restos-humanos-en-relleno-sanitario-de-rosarito/?utm_source=rss&utm_medium=rss&utm_campaign=colectivo-buscando-a-tolano-localiza-restos-humanos-en-relleno-sanitario-de-rosarito",
-        "_added_at": "2026-08-06T01:49:31.234133-07:00"
-      },
-      {
-        "title": "Pirómano detenido por incendios en yonque",
-        "summary": "Capturan a sujeto acusado de quemar siete vehículos y neumáticos en deshueso de Tijuana.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180010_detienen_a_un_piromano_quemo_siete_vehiculos_y_37_neumaticos_en_yonque",
-        "_added_at": "2026-08-06T01:49:31.234133-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Colegio de Abogados pide renuncia de fiscal María Elena Andrade",
+        "summary": "Gremio legal de BC exhorta a titular de fiscalía a dejar su cargo por cuestiones de desempeño.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/colegio-de-abogados-exhorta-a-maria-elena-andrade-a-renunciar-como-fiscal-en-bc/?utm_source=rss&utm_medium=rss&utm_campaign=colegio-de-abogados-exhorta-a-maria-elena-andrade-a-renunciar-como-fiscal-en-bc",
+        "_added_at": "2026-08-06T22:00:07.367371-07:00"
+      },
+      {
+        "title": "PAN destapa a Macalpin como candidato a Mexicali",
+        "summary": "Partido Acción Nacional presenta aspirante panista para alcaldía de Mexicali en próximas elecciones.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180054_panistas_destapan_a_macalpin_como_candidato_a_la_alcaldia_de_mexicali",
+        "_added_at": "2026-08-06T22:00:07.367371-07:00"
+      },
+      {
+        "title": "Impulsan expansión de reforma contra cohabitación forzada",
+        "summary": "Legisladores presentan iniciativa para ampliar protecciones contra práctica discriminatoria en BC.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180053_impulsan_expansion_de_reforma_contra_la_cohabitacion_forzada_presentan_iniciativa",
+        "_added_at": "2026-08-06T22:00:07.367371-07:00"
+      },
       {
         "title": "Nuevo cónsul estadounidense en Tijuana con experiencia antinarcóticos",
         "summary": "Lance Hegerle asume cargo como cónsul de EUA tras dirigir operaciones antidrogas en Colombia.",
@@ -116,30 +144,16 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/afn_politico/179999_si_bonilla_se_reune_con_julieta_marina_lo_hace_con_evangelina",
         "_added_at": "2026-08-06T04:29:39.691398-07:00"
-      },
-      {
-        "title": "PAN revela candidatos para Tijuana 2027",
-        "summary": "Partido anuncia perfiles para la contienda electoral de la presidencia municipal.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/pan-da-a-conocer-lista-de-primeros-perfiles-en-tijuana/?utm_source=rss&utm_medium=rss&utm_campaign=pan-da-a-conocer-lista-de-primeros-perfiles-en-tijuana",
-        "_added_at": "2026-08-06T01:49:31.234133-07:00"
-      },
-      {
-        "title": "Morena detiene indagatoria contra gobernadora",
-        "summary": "Congreso de la Unión frena proceso en contra de la titular del ejecutivo estatal.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/morena-frena-en-el-congreso-de-la-union-la-indagatoria-contra-la-gobernadora-de-bc/?utm_source=rss&utm_medium=rss&utm_campaign=morena-frena-en-el-congreso-de-la-union-la-indagatoria-contra-la-gobernadora-de-bc",
-        "_added_at": "2026-08-06T01:49:31.234133-07:00"
-      },
-      {
-        "title": "Regidora de Tecate reaparece tras atentado",
-        "summary": "Funcionaria se presenta tras ataque. Hace llamado a no ceder ante violencia e inseguridad.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/reaparece-regidora-de-tecate-tras-atentado-llama-a-no-ceder-al-miedo/?utm_source=rss&utm_medium=rss&utm_campaign=reaparece-regidora-de-tecate-tras-atentado-llama-a-no-ceder-al-miedo",
-        "_added_at": "2026-08-06T01:49:31.234133-07:00"
       }
     ],
     "economia": [
+      {
+        "title": "936 mil personas sin renovar licencia de manejo en BC",
+        "summary": "Gobierno mantiene decreto condonando recargos y multas para regularización de documentos vencidos.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/97748/Sin-renovar-licencia-de-manejo-936-mil-personas-en-BC",
+        "_added_at": "2026-08-06T22:00:07.367371-07:00"
+      },
       {
         "title": "Jornada laboral de 40 horas representa reto financiero para pymes BC",
         "summary": "Empresarios advierten sobre impacto económico de reforma laboral en región.",
@@ -198,6 +212,13 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Verbena celebra 34 edición en Santo Tomás, Ensenada",
+        "summary": "Festividad cultural tradicional marca su aniversario con celebraciones en comunidad costera.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/celebraran-santo-tomas-la-34-edicion-de-la-verbena-en-ensenada/?utm_source=rss&utm_medium=rss&utm_campaign=celebraran-santo-tomas-la-34-edicion-de-la-verbena-en-ensenada",
+        "_added_at": "2026-08-06T22:00:07.367371-07:00"
+      },
       {
         "title": "UABC Ensenada recibe casi dos mil estudiantes de nuevo ingreso",
         "summary": "Universidad atiende entrada masiva de alumnos para nuevo ciclo académico.",
@@ -260,15 +281,8 @@
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/08/gabriel-adame-y-guillermo-arreola-en-exposicion-homenaje-a-miriam-kaiser/?utm_source=rss&utm_medium=rss&utm_campaign=gabriel-adame-y-guillermo-arreola-en-exposicion-homenaje-a-miriam-kaiser",
         "_added_at": "2026-08-06T04:29:39.691398-07:00"
-      },
-      {
-        "title": "Corte de agua potable en colonias de Tijuana",
-        "summary": "Falla en El Carrizo deja sin servicio a varias zonas residenciales.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180000_hay_corte_de_agua_potable_en_varias_colonias_por_una_falla_registrada_en_el_carrizo",
-        "_added_at": "2026-08-06T01:49:31.234133-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-06T17:09:47.475596-07:00"
+  "last_updated": "2026-08-06T22:00:07.367371-07:00"
 }
