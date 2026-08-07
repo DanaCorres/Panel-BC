@@ -1,8 +1,36 @@
 {
   "date": "2026-08-07",
-  "run_count": 5,
+  "run_count": 6,
   "notes": {
     "seguridad": [
+      {
+        "title": "Vinculan a \"R1\" a proceso por delitos distintos",
+        "summary": "Presunto criminal procesado, aunque no por homicidio de Carlos Manzo. Avance en investigación de autoridades locales.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/vinculan-a-proceso-al-r1-pero-no-por-el-homicidio-de-carlos-manzo/?utm_source=rss&utm_medium=rss&utm_campaign=vinculan-a-proceso-al-r1-pero-no-por-el-homicidio-de-carlos-manzo",
+        "_added_at": "2026-08-07T14:48:31.138544-07:00"
+      },
+      {
+        "title": "Familiares de regidora se enfrentan contra exescoltas en Tecate",
+        "summary": "Confrontación entre familiares de regidora María Quijada y sus antiguos elementos de seguridad en municipio.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/familiares-de-la-regidora-maria-quijada-se-enfrentan-contra-exescoltas-en-tecate/?utm_source=rss&utm_medium=rss&utm_campaign=familiares-de-la-regidora-maria-quijada-se-enfrentan-contra-exescoltas-en-tecate",
+        "_added_at": "2026-08-07T14:48:31.138544-07:00"
+      },
+      {
+        "title": "Detienen a copiloto por accidente fatal en Mexicali",
+        "summary": "Imputan cargos a conductor de vehículo que causó muerte de abogada en accidente vial.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/imputan-a-copiloto-del-vehiculo-que-provoco-accidente-donde-murio-una-abogada-en-mexicali/?utm_source=rss&utm_medium=rss&utm_campaign=imputan-a-copiloto-del-vehiculo-que-provoco-accidente-donde-murio-una-abogada-en-mexicali",
+        "_added_at": "2026-08-07T14:48:31.138544-07:00"
+      },
+      {
+        "title": "Localizan mujer calcinada en canalización del Río Tijuana",
+        "summary": "Hallazgo de cadáver de mujer con quemaduras en zona de río. Investigación abierta por autoridades.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97793/Localizan-a-mujer-sin-vida-y-con-quemaduras-en-la-canalizaci%C3%B3n-del-R%C3%ADo-Tijuana",
+        "_added_at": "2026-08-07T14:48:31.138544-07:00"
+      },
       {
         "title": "Ataque a balazos en Villa Fontana deja herido",
         "summary": "Hombre recibe disparos en zona de Villa Fontana en Tijuana.",
@@ -44,16 +72,30 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/180052_madres_buscadoras_exigen_cerrar_un_relleno_sanitario_tras_el_hallazgo_de_restos_humanos",
         "_added_at": "2026-08-07T00:36:02.968523-07:00"
-      },
-      {
-        "title": "Detienen a hombre con fusil de asalto",
-        "summary": "Autoridades capturan individuo en posesión de arma de fuego de alto poder.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/180049_detienen_a_un_hombre_en_posesion_de_un_fusil_de_asalto",
-        "_added_at": "2026-08-07T00:36:02.968523-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Rosarito debe cesar a Nora Márquez por inhabilitación",
+        "summary": "Funcionaria debe ser removida del cargo por decisión judicial relacionada con Sindicatura de Tijuana.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/rosarito-tendria-que-cesar-a-nora-marquez-por-la-inhabilitacion-de-sindicatura-de-tijuana/?utm_source=rss&utm_medium=rss&utm_campaign=rosarito-tendria-que-cesar-a-nora-marquez-por-la-inhabilitacion-de-sindicatura-de-tijuana",
+        "_added_at": "2026-08-07T14:48:31.138544-07:00"
+      },
+      {
+        "title": "Coordinador niega rezago en carpetas de investigación",
+        "summary": "Autoridad afirma estar al corriente con casos pendientes en Baja California.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/coordinador-buenrostro-niega-rezago-de-carpetas-de-investigacion-en-baja-california/?utm_source=rss&utm_medium=rss&utm_campaign=coordinador-buenrostro-niega-rezago-de-carpetas-de-investigacion-en-baja-california",
+        "_added_at": "2026-08-07T14:48:31.138544-07:00"
+      },
+      {
+        "title": "Ciudadanos firman contra reforma constitucional en Mexicali",
+        "summary": "Recopilación de firmas en rechazo a cambios propuestos a Constitución nacional.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97795/Colocan-firmas-en-apoyo-a-rechazo-de-reforma-constitucional",
+        "_added_at": "2026-08-07T14:48:31.138544-07:00"
+      },
       {
         "title": "Gobierno descarta motivación política en arresto de Aguirre",
         "summary": "Autoridades niegan que detención de Ángel Aguirre tenga intención política.",
@@ -102,23 +144,16 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/180054_panistas_destapan_a_macalpin_como_candidato_a_la_alcaldia_de_mexicali",
         "_added_at": "2026-08-07T00:36:02.968523-07:00"
-      },
-      {
-        "title": "Regidora denuncia comité de compras por falta transparencia",
-        "summary": "Funcionaria cuestiona procedimientos y pide transmisión en vivo de sesiones.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180047_denuncia_regidora_al_comite_de_compras_pide_transmitir_sesiones_en_vivo",
-        "_added_at": "2026-08-07T00:36:02.968523-07:00"
-      },
-      {
-        "title": "Comunidades indígenas piden protección por muro fronterizo",
-        "summary": "Grupos en Tecate demandan amparo gubernamental por daños en expansión de barrera.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Estatal/97747/Buscan-comunidades-ind%C3%ADgenas-protecci%C3%B3n-del-Gobierno-Mexicano",
-        "_added_at": "2026-08-07T00:36:02.968523-07:00"
       }
     ],
     "economia": [
+      {
+        "title": "CESPT reparará falla en Booster este viernes",
+        "summary": "Proveedor de telecomunicaciones resuelve problema técnico y restablecerá conexión de emergencia con EE.UU.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/cespt-preve-solucionar-falla-en-booster-este-viernes-y-reactivar-conexion-de-emergencia-con-ee-uu/?utm_source=rss&utm_medium=rss&utm_campaign=cespt-preve-solucionar-falla-en-booster-este-viernes-y-reactivar-conexion-de-emergencia-con-ee-uu",
+        "_added_at": "2026-08-07T14:48:31.138544-07:00"
+      },
       {
         "title": "Inflación anual baja a 3.12% en julio de 2026",
         "summary": "Tasa de inflación alcanza su menor nivel del año en mes de julio.",
@@ -178,6 +213,20 @@
     ],
     "sociedad": [
       {
+        "title": "UABC ofrece cinco mil espacios alternativos",
+        "summary": "Universidad amplía opciones para estudiantes que no ingresaron en su primera opción de carrera.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180077_ofrece_la_uabc_5_mil_espacios_a_quienes_no_ingresaron_a_carrera_de_su_primera_eleccion",
+        "_added_at": "2026-08-07T14:48:31.138544-07:00"
+      },
+      {
+        "title": "Justicia digital moderniza servicios judiciales en estado",
+        "summary": "Implementación de tecnología para agilizar procesos y trámites ante tribunales.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/97794/La-justicia-digital-como-parte-de-la-modernizaci%C3%B3n-de-los-servicios-judiciales",
+        "_added_at": "2026-08-07T14:48:31.138544-07:00"
+      },
+      {
         "title": "Premio Latinoamericano de Literatura Molinos de Viento surge",
         "summary": "Se crea nuevo galardón de literatura latinoamericana en la región.",
         "source": "ZETA Tijuana",
@@ -232,22 +281,8 @@
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/08/celebraran-santo-tomas-la-34-edicion-de-la-verbena-en-ensenada/",
         "_added_at": "2026-08-07T03:06:19.751461-07:00"
-      },
-      {
-        "title": "936 mil personas en BC sin renovar licencia de manejo",
-        "summary": "Estado mantiene decreto que condona recargos y multas por trámite vencido.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Estatal/97748/Sin-renovar-licencia-de-manejo-936-mil-personas-en-BC",
-        "_added_at": "2026-08-07T03:06:19.751461-07:00"
-      },
-      {
-        "title": "Hija de víctima de accidente pide justicia por madre",
-        "summary": "Mónica Elizabeth demanda reparación tras muerte en siniestro vial en Mexicali.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180055_hija_de_victima_de_accidente_automovilistico_pide_justicia",
-        "_added_at": "2026-08-07T00:36:02.968523-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-07T12:07:21.203148-07:00"
+  "last_updated": "2026-08-07T14:48:31.138544-07:00"
 }
