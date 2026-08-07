@@ -1,8 +1,36 @@
 {
   "date": "2026-08-06",
-  "run_count": 3,
+  "run_count": 4,
   "notes": {
     "seguridad": [
+      {
+        "title": "Policía estatal asegura plantío de marihuana en Tijuana",
+        "summary": "Autoridades decomisan otro cultivo de marihuana en operativo realizado en la ciudad.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97744/Asegura-polic%C3%ADa-estatal-otro-plant%C3%ADo-de-marihuana-en-Tijuana",
+        "_added_at": "2026-08-06T17:09:47.475596-07:00"
+      },
+      {
+        "title": "Capturan reo fugado del CERESO de Mexicali",
+        "summary": "Recapturan a interno que logró escapar del centro penitenciario de Mexicali.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/detienen-a-reo-que-escapo-del-cereso-de-mexicali/",
+        "_added_at": "2026-08-06T17:09:47.475596-07:00"
+      },
+      {
+        "title": "Detienen a hombre con fusil de asalto en Tijuana",
+        "summary": "Autoridades aseguran arma de fuego de alto calibre en operativo de seguridad.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/180049_detienen_a_un_hombre_en_posesion_de_un_fusil_de_asalto",
+        "_added_at": "2026-08-06T17:09:47.475596-07:00"
+      },
+      {
+        "title": "Cuatro ahogados en playas de Rosarito durante 2026",
+        "summary": "Continúan tragedias acuáticas en costas de Rosarito con víctimas fatales.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Rosarito/97743/Van-4-ahogados-en-el-mar-de-Rosarito-durante-2026",
+        "_added_at": "2026-08-06T17:09:47.475596-07:00"
+      },
       {
         "title": "Regidora de Tecate reaparece tras atentado",
         "summary": "Funcionaria local comparece públicamente después del ataque sufrido, exhorta a no ceder ante violencia.",
@@ -40,6 +68,34 @@
       }
     ],
     "politica": [
+      {
+        "title": "Nuevo cónsul estadounidense en Tijuana con experiencia antinarcóticos",
+        "summary": "Lance Hegerle asume cargo como cónsul de EUA tras dirigir operaciones antidrogas en Colombia.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/nuevo-consul-de-eua-en-tijuana-lance-hegerle-fue-director-de-antinarcoticos-en-embajada-estadounidense-en-colombia/",
+        "_added_at": "2026-08-06T17:09:47.475596-07:00"
+      },
+      {
+        "title": "Regidora denuncia falta de transparencia en comité de compras",
+        "summary": "Legisladora exige transmisión en vivo de sesiones de adquisiciones municipales.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180047_denuncia_regidora_al_comite_de_compras_pide_transmitir_sesiones_en_vivo",
+        "_added_at": "2026-08-06T17:09:47.475596-07:00"
+      },
+      {
+        "title": "PAN solicita explicación por gasto de 15 millones en cableado",
+        "summary": "Partido de oposición cuestiona inversión en infraestructura de telecomunicaciones.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180044_pedira_el_pan_explicacion_por_gasto_de_15_mdp_en_cambio_de_cableado",
+        "_added_at": "2026-08-06T17:09:47.475596-07:00"
+      },
+      {
+        "title": "Regidora agredida en julio regresa al cabildo de Tijuana",
+        "summary": "Quijada se reintegra a sesiones tras sufrir atentado hace semanas.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180035_regreso_al_cabildo_la_regidora_quijada_sufrio_un_atentado_en_julio",
+        "_added_at": "2026-08-06T17:09:47.475596-07:00"
+      },
       {
         "title": "Detienen a funcionarios del Registro Público de Tijuana",
         "summary": "Autoridades capturan a sub registrador, ex delegado y empleado por irregularidades.",
@@ -81,16 +137,30 @@
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/08/reaparece-regidora-de-tecate-tras-atentado-llama-a-no-ceder-al-miedo/?utm_source=rss&utm_medium=rss&utm_campaign=reaparece-regidora-de-tecate-tras-atentado-llama-a-no-ceder-al-miedo",
         "_added_at": "2026-08-06T01:49:31.234133-07:00"
-      },
-      {
-        "title": "Detienen a funcionarios del Registro Público",
-        "summary": "Autoridades capturan sub registrador, ex delegado y empleado por irregularidades administrativas.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180007_detienen_a_sub_registrador_a_un_ex_delegado_y_un_empleado_del_registro_publico_de_tijuana",
-        "_added_at": "2026-08-06T01:49:31.234133-07:00"
       }
     ],
     "economia": [
+      {
+        "title": "Jornada laboral de 40 horas representa reto financiero para pymes BC",
+        "summary": "Empresarios advierten sobre impacto económico de reforma laboral en región.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180040_sera_un_reto_financiero_para_las_mipymes_de_bc_la_jornada_laboral_de_40_horas_anade",
+        "_added_at": "2026-08-06T17:09:47.475596-07:00"
+      },
+      {
+        "title": "Cierres empresariales incrementan conciliaciones laborales en BC",
+        "summary": "Secretaría del Trabajo reporta aumento en resoluciones de conflictos laborales.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180036_el_cierre_de_empresas_incrementa_las_conciliaciones_laborales_secretaria_del_trabajo",
+        "_added_at": "2026-08-06T17:09:47.475596-07:00"
+      },
+      {
+        "title": "Tijuana tendrá Hub de Ciberseguridad ante déficit de especialistas",
+        "summary": "Se crea centro tecnológico para capacitación en seguridad informática regional.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180048_tijuana_tendra_hub_de_ciberseguridad_ante_deficit_de_especialistas_en_mexico",
+        "_added_at": "2026-08-06T17:09:47.475596-07:00"
+      },
       {
         "title": "Calificadora cambia perspectiva de Ensenada a negativa",
         "summary": "HR Ratings modifica evaluación de situación financiera del municipio.",
@@ -128,6 +198,34 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "UABC Ensenada recibe casi dos mil estudiantes de nuevo ingreso",
+        "summary": "Universidad atiende entrada masiva de alumnos para nuevo ciclo académico.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/educativas/180045_recibio_la_uabc_ensenada_a_casi_dos_mil_estudiantes_de_nuevo_ingreso",
+        "_added_at": "2026-08-06T17:09:47.475596-07:00"
+      },
+      {
+        "title": "Comunidades indígenas solicitan protección del Gobierno estatal",
+        "summary": "Grupos originarios buscan apoyo oficial para garantizar derechos y seguridad.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/97747/Buscan-comunidades-ind%C3%ADgenas-protecci%C3%B3n-del-Gobierno-Mexicano",
+        "_added_at": "2026-08-06T17:09:47.475596-07:00"
+      },
+      {
+        "title": "Exigen mayor atención a destrucción de espacios sagrados en Tecate",
+        "summary": "Residentes piden intervención para proteger sitios culturales del municipio.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180041_exigen_mas_atencion_a_destruccion_de_espacios_sagrados_en_tecate",
+        "_added_at": "2026-08-06T17:09:47.475596-07:00"
+      },
+      {
+        "title": "Alcohólicos Anónimos convoca 40 Congreso de Área en Tijuana",
+        "summary": "Organización realiza evento anual con participantes de la región.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97742/Alcoh%C3%B3licos-An%C3%B3nimos-invita-a-su-40-Congreso-de-%C3%81rea-en-Tijuana",
+        "_added_at": "2026-08-06T17:09:47.475596-07:00"
+      },
       {
         "title": "Inauguran Fiestas de la Vendimia en Valle de Guadalupe",
         "summary": "Celebración anual de cosecha de uva se lleva a cabo con actividades comunitarias.",
@@ -169,15 +267,8 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/180000_hay_corte_de_agua_potable_en_varias_colonias_por_una_falla_registrada_en_el_carrizo",
         "_added_at": "2026-08-06T01:49:31.234133-07:00"
-      },
-      {
-        "title": "Jóvenes futbolistas denuncian presunto fraude",
-        "summary": "Deportistas reportan estafa al intentar competir en torneo colombiano.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97702/J%C3%B3venes-futbolistas-denuncian-presunto-fraude-y-buscan-apoyo-para-competir-en-Colombia",
-        "_added_at": "2026-08-06T01:49:31.234133-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-06T07:29:54.812124-07:00"
+  "last_updated": "2026-08-06T17:09:47.475596-07:00"
 }
