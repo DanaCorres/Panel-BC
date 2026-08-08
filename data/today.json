@@ -1,6 +1,6 @@
 {
   "date": "2026-08-07",
-  "run_count": 7,
+  "run_count": 8,
   "notes": {
     "seguridad": [
       {
@@ -76,6 +76,20 @@
     ],
     "politica": [
       {
+        "title": "Organizan acto masivo para Burgueño contra recomendación",
+        "summary": "Evento político con acarreo desafía sugerencia de Montiel sobre movilizaciones en Tijuana.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/contrario-a-recomendacion-de-ariadna-montiel-organizan-acto-masivo-con-acarreo-para-burgueno/",
+        "_added_at": "2026-08-07T21:16:27.803065-07:00"
+      },
+      {
+        "title": "Elección 2027 será contra Morena y narco",
+        "summary": "Moreira plantea campaña electoral enfocada en dos frentes principales para próximas elecciones.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180092_eleccion_del_2027_sera_contra_morena_y_contra_el_narco_moreira",
+        "_added_at": "2026-08-07T21:16:27.803065-07:00"
+      },
+      {
         "title": "Familiares de regidora enfrentan exescoltas en Tecate",
         "summary": "Conflicto entre familia de funcionaria y personal de seguridad. Incidente registrado en municipio.",
         "source": "ZETA Tijuana",
@@ -130,23 +144,16 @@
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/08/sheinbaum-descarta-motivacion-politica-en-detencion-de-angel-aguirre/?utm_source=rss&utm_medium=rss&utm_campaign=sheinbaum-descarta-motivacion-politica-en-detencion-de-angel-aguirre",
         "_added_at": "2026-08-07T12:07:21.203148-07:00"
-      },
-      {
-        "title": "Sheinbaum pide aclarar intervención de EU en captura de El Mayo",
-        "summary": "Presidenta exige explicaciones sobre supuesta injerencia estadounidense en operación.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/sheinbaum-exige-aclarar-injerencia-de-eu-en-traslado-de-el-mayo/?utm_source=rss&utm_medium=rss&utm_campaign=sheinbaum-exige-aclarar-injerencia-de-eu-en-traslado-de-el-mayo",
-        "_added_at": "2026-08-07T12:07:21.203148-07:00"
-      },
-      {
-        "title": "MORENA definirá candidatos a coordinación estatal",
-        "summary": "El partido Morena anunciará a finales de agosto a los aspirantes para la coordinación estatal.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Pol%C3%ADtica%20y%20Pol%C3%ADticos/97765/MORENA-a-finales-de-agosto-podr%C3%ADan-dar-nombres-de-los-cuatro-que-aspiran-a-la-coordinaci%C3%B3n-estatal",
-        "_added_at": "2026-08-07T09:01:38.461951-07:00"
       }
     ],
     "economia": [
+      {
+        "title": "Empresario pagó 200 mil pesos por permiso apócrifo",
+        "summary": "Sindica denuncia corrupción: corrida de toros con documento falso en Tijuana.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/empresario-pago-200-mil-pesos-por-permiso-para-corrida-de-toros-apocrifo-sindica-de-tijuana/",
+        "_added_at": "2026-08-07T21:16:27.803065-07:00"
+      },
       {
         "title": "Entrega Sader apoyos para ganadería integral en Mexicali",
         "summary": "Programa de fortalecimiento pecuario. Apoyo federal para infraestructura ganadera regional.",
@@ -209,16 +216,16 @@
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/08/da-ayuntamiento-de-tijuana-contrato-por-3-mmp-sin-licitar-podcast/",
         "_added_at": "2026-08-07T03:06:19.751461-07:00"
-      },
-      {
-        "title": "Tijuana tendrá Hub de Ciberseguridad para especialistas",
-        "summary": "Proyecto busca atraer talento tecnológico ante escasez nacional de profesionales.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180048_tijuana_tendra_hub_de_ciberseguridad_ante_deficit_de_especialistas_en_mexico",
-        "_added_at": "2026-08-07T00:36:02.968523-07:00"
       }
     ],
     "sociedad": [
+      {
+        "title": "Tormenta eléctrica sorprende a Protección Civil",
+        "summary": "Lluvia intensa y descargas eléctricas causan afectaciones sin preparación en Tijuana.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180078_la_tormenta_electrica_y_fuertes_lluvias_sorprendieron_hasta_a_proteccion_civil",
+        "_added_at": "2026-08-07T21:16:27.803065-07:00"
+      },
       {
         "title": "Regresará agua gradualmente a Tijuana a partir del sábado",
         "summary": "Restablecimiento del servicio tras crisis hídrica. Retorno progresivo a colonias afectadas.",
@@ -281,15 +288,8 @@
         "source": "El Mexicano",
         "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97749/Aumentan-matrimonios-en-Mexicali",
         "_added_at": "2026-08-07T09:01:38.461951-07:00"
-      },
-      {
-        "title": "Nuevo cónsul general de EU asume en Tijuana",
-        "summary": "Toma posesión nuevo representante diplomático estadounidense en la ciudad fronteriza.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/sociales/180050_asume_nuevo_consul_general_de_eu_en_tijuana",
-        "_added_at": "2026-08-07T09:01:38.461951-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-07T19:07:57.804776-07:00"
+  "last_updated": "2026-08-07T21:16:27.803065-07:00"
 }
