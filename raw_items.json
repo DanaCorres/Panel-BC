@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-08T13:04:26.286075+00:00",
+  "generated_at": "2026-08-08T15:36:57.240600+00:00",
   "items": [
+    {
+      "source": "ZETA Tijuana",
+      "title": "Senado de EU confirma a Todd Blanche como fiscal general",
+      "url": "https://zetatijuana.com/2026/08/senado-de-eu-confirma-a-todd-blanche-como-fiscal-general/?utm_source=rss&utm_medium=rss&utm_campaign=senado-de-eu-confirma-a-todd-blanche-como-fiscal-general",
+      "published": "Sat, 08 Aug 2026 15:19:56 +0000"
+    },
     {
       "source": "ZETA Tijuana",
       "title": "Contrario a recomendación de Ariadna Montiel, organizan acto masivo con acarreo para Burgueño",
@@ -56,10 +62,34 @@
       "published": "Fri, 07 Aug 2026 21:40:23 +0000"
     },
     {
-      "source": "ZETA Tijuana",
-      "title": "Familiares de la regidora María Quijada se enfrentan contra exescoltas en Tecate",
-      "url": "https://zetatijuana.com/2026/08/familiares-de-la-regidora-maria-quijada-se-enfrentan-contra-exescoltas-en-tecate/?utm_source=rss&utm_medium=rss&utm_campaign=familiares-de-la-regidora-maria-quijada-se-enfrentan-contra-exescoltas-en-tecate",
-      "published": "Fri, 07 Aug 2026 21:30:44 +0000"
+      "source": "AFN Tijuana",
+      "title": "Mundo de violencia",
+      "url": "https://www.afntijuana.info/cartones/180098_mundo_de_violencia",
+      "published": ""
+    },
+    {
+      "source": "AFN Tijuana",
+      "title": "Elecciones en la mira",
+      "url": "https://www.afntijuana.info/cartones/180097_elecciones_en_la_mira",
+      "published": ""
+    },
+    {
+      "source": "AFN Tijuana",
+      "title": "Acusaciones de corrupción",
+      "url": "https://www.afntijuana.info/cartones/180096_acusaciones_de_corrupcion",
+      "published": ""
+    },
+    {
+      "source": "AFN Tijuana",
+      "title": "Se hunden 37% exportaciones de maquiladoras en Tecate",
+      "url": "https://www.afntijuana.info/empresarial/180095_se_hunden_37_exportaciones_de_maquiladoras_en_tecate",
+      "published": ""
+    },
+    {
+      "source": "AFN Tijuana",
+      "title": "Ayuntamientos deben cobrar 716 mdp al gobierno de BC",
+      "url": "https://www.afntijuana.info/empresarial/180094_ayuntamientos_deben_cobrar_716_mdp_al_gobierno_de_bc",
+      "published": ""
     },
     {
       "source": "AFN Tijuana",
@@ -119,36 +149,6 @@
       "source": "AFN Tijuana",
       "title": "Ovando en la \"cuerda floja\" por su apoyo a Macalpin",
       "url": "https://www.afntijuana.info/informacion_general/180084_ovando_en_la_cuerda_floja_por_su_apoyo_a_macalpin",
-      "published": ""
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Trasladan a México a heridos por explosión de pipa en Cuernavaca",
-      "url": "https://www.afntijuana.info/nacionales/180083_trasladan_a_mexico_a_heridos_por_explosion_de_pipa_en_cuernavaca",
-      "published": ""
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "La fiscal está dedicada a cumplir caprichos, afirma Ruiz Uribe",
-      "url": "https://www.afntijuana.info/informacion_general/180082_la_fiscal_esta_dedicada_a_cumplir_caprichos_afirma_ruiz_uribe",
-      "published": ""
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Queman piñatas de ICE en Tijuana en protesta por detención de migrantes",
-      "url": "https://www.afntijuana.info/informacion_general/180081_queman_pinatas_de_ice_en_tijuana_en_protesta_por_detencion_de_migrantes",
-      "published": ""
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Habrá cambios en el gabinete de Marina pero no sale Mónica de la CESPT",
-      "url": "https://www.afntijuana.info/informacion_general/180080_habra_cambios_en_el_gabinete_de_marina_pero_no_sale_monica_de_la_cespt",
-      "published": ""
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Catean domicilio donde encontraron armas largas, tras reporte de balacera",
-      "url": "https://www.afntijuana.info/seguridad/180079_catean_domicilio_donde_encontraron_armas_largas_tras_reporte_de_balacera",
       "published": ""
     },
     {
@@ -249,13 +249,55 @@
     },
     {
       "source": "El Imparcial (Tijuana)",
-      "title": "Asesinan a balazos a hombre mientras circulaba por Altiplano en Tijuana",
-      "url": "https://www.elimparcial.com/tij/policiaca/2026/08/08/asesinan-a-balazos-a-hombre-mientras-circulaba-por-altiplano-en-tijuana/",
+      "title": "Investigan corrupción en registro público",
+      "url": "https://www.elimparcial.com/tij/tijuana/2026/08/07/mantiene-fge-abiertas-investigaciones-por-fraudes-en-el-registro-publico/",
       "published": ""
     },
     {
       "source": "El Imparcial (Tijuana)",
-      "title": "Un hombre de aproximadamente 35 años fue asesinado a balazos mientras circulaba por Altiplano; los responsables huyeron y autoridades investigan el ataque.",
+      "title": "Dos funcionarios y un exfuncionario fueron detenidos por realizar cambios de propiedad con documentación apócrifa.",
+      "url": "https://www.elimparcial.com/tij/tijuana/2026/08/07/mantiene-fge-abiertas-investigaciones-por-fraudes-en-el-registro-publico/",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial (Tijuana)",
+      "title": "Gobernadora pone plazo a aspirantes",
+      "url": "https://www.elimparcial.com/tij/tijuana/2026/08/07/funcionarios-que-aspiren-a-participar-en-campana-local-deberan-salir-de-cargo-antes-del-14-de-agosto-marina-del-pilar/",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial (Tijuana)",
+      "title": "Inicia hoy recuperación de agua",
+      "url": "https://www.elimparcial.com/tij/tijuana/2026/08/08/inicia-hoy-recuperacion-de-agua/",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial (Tijuana)",
+      "title": "Cancelará EU visa a ‘turismo’ de nacimientos",
+      "url": "https://www.elimparcial.com/tij/tijuana/2026/08/08/eu-cancelara-visas-a-embarazadas-que-crucen-para-dar-a-luz/",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial (Tijuana)",
+      "title": "Muere el padre de Lionel Messi a los 68 años",
+      "url": "https://www.elimparcial.com/deporte/2026/08/08/murio-jorge-messi-padre-de-lionel-messi-a-los-68-anos-su-salud-habia-preocupado-durante-el-mundial-2026/",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial (Tijuana)",
+      "title": "Selección Mexicana Sub 20",
+      "url": "https://www.elimparcial.com/tags/seleccion-mexicana-sub-20/",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial (Tijuana)",
+      "title": "México clasifica en futbol a los Juegos Olímpicos de LA 2028",
+      "url": "https://www.elimparcial.com/deporte/2026/08/08/mexico-vuelve-a-los-juegos-olimpicos-la-sub-20-remonta-a-canada-en-el-estadio-azteca-y-clasifica-a-los-angeles-2028/",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial (Tijuana)",
+      "title": "Asesinan a balazos a hombre mientras circulaba por Altiplano en Tijuana",
       "url": "https://www.elimparcial.com/tij/policiaca/2026/08/08/asesinan-a-balazos-a-hombre-mientras-circulaba-por-altiplano-en-tijuana/",
       "published": ""
     },
@@ -279,12 +321,6 @@
     },
     {
       "source": "El Imparcial (Tijuana)",
-      "title": "Ensenadense debuta con oro en JCC 2026",
-      "url": "https://www.elimparcial.com/mxl/mexicali/2026/08/08/ensenadense-se-lleva-la-presea-dorada-de-canotaje-haciendo-su-debut-en-los-jcc-2026/",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
       "title": "La tijuanense Natalia Botello vuelve a ser de oro en esgrima",
       "url": "https://www.elimparcial.com/mxl/mexicali/2026/08/08/la-tijuanense-natalia-botello-vuelve-a-ser-de-oro-en-esgrima-y-conquista-su-segundo-titulo-en-los-jcc/",
       "published": ""
@@ -293,42 +329,6 @@
       "source": "El Imparcial (Tijuana)",
       "title": "Aumenta dificultad para conseguir agua en purificadoras",
       "url": "https://www.elimparcial.com/tij/tijuana/2026/08/08/aumenta-dificultad-para-conseguir-agua-en-purificadoras/",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "EU cancelará visas a embarazadas que crucen para dar a luz",
-      "url": "https://www.elimparcial.com/tij/tijuana/2026/08/08/eu-cancelara-visas-a-embarazadas-que-crucen-para-dar-a-luz/",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Moenia llegará al Valle de Guadalupe para celebrar el 25 Aniversario de Barón Balché",
-      "url": "https://www.elimparcial.com/tij/tijuana/2026/08/08/moenia-llegara-al-valle-de-guadalupe-para-celebrar-el-25-aniversario-de-baron-balche/",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Falta de agua incrementa afluencia en purificadoras de Tijuana",
-      "url": "https://www.elimparcial.com/tij/tijuana/2026/08/07/aumenta-demanda-de-agua-en-purificadora-de-la-colonia-buena-vista/",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Detallan irregularidades que derivaron en inhabilitación de exfuncionarios del XXIV Ayuntamiento",
-      "url": "https://www.elimparcial.com/tij/tijuana/2026/08/08/detallan-irregularidades-que-derivaron-en-inhabilitacion-de-exfuncionarios-del-xxiv-ayuntamiento/",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Presentan 3er Torneo de Golf Emma 2026 a beneficio de la rehabilitación de escuelas públicas municipales en Tijuana",
-      "url": "https://www.elimparcial.com/tij/tijuana/2026/08/08/presentan-3er-torneo-de-golf-emma-2026-a-beneficio-de-la-rehabilitacion-de-escuelas-publicas-municipales-en-tijuana/",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Se registra quema de vehículo y amenaza mediante manta en colonia Morelos de Rosarito",
-      "url": "https://www.elimparcial.com/tij/rosarito/2026/08/07/se-registra-quema-de-vehiculo-y-amenaza-mediante-manta-en-colonia-morelos-de-rosarito/",
       "published": ""
     },
     {

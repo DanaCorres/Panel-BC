@@ -1,8 +1,15 @@
 {
   "date": "2026-08-08",
-  "run_count": 3,
+  "run_count": 4,
   "notes": {
     "seguridad": [
+      {
+        "title": "Queman vehículo con manta en Rosarito",
+        "summary": "Incendian automóvil y dejan mensaje dirigido a funcionarios municipales en Rosarito.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97815/Queman-veh%C3%ADculo-y-dejan-manta-dirigida-contra-funcionarios-de-Rosarito",
+        "_added_at": "2026-08-08T08:36:57.964337-07:00"
+      },
       {
         "title": "Vinculan a proceso al R1 por cargos distintos",
         "summary": "Presunto delincuente R1 fue vinculado a proceso pero no por homicidio de Carlos Manzo.",
@@ -33,6 +40,13 @@
       }
     ],
     "politica": [
+      {
+        "title": "Ovando en la cuerda floja por apoyo a Macalpin",
+        "summary": "Funcionario enfrenta presión política tras respaldar a candidato cuestionado.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180084_ovando_en_la_cuerda_floja_por_su_apoyo_a_macalpin",
+        "_added_at": "2026-08-08T08:36:57.964337-07:00"
+      },
       {
         "title": "Moreira: elección 2027 será contra Morena y narco",
         "summary": "Político opositor plantea batalla electoral frente a gobierno y crimen organizado.",
@@ -71,6 +85,20 @@
     ],
     "economia": [
       {
+        "title": "Exportaciones de maquiladoras en Tecate caen 37%",
+        "summary": "Sector industrial de Tecate experimenta desplome significativo en ventas al exterior.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/empresarial/180095_se_hunden_37_exportaciones_de_maquiladoras_en_tecate",
+        "_added_at": "2026-08-08T08:36:57.964337-07:00"
+      },
+      {
+        "title": "Ayuntamientos reclaman 716 millones al gobierno BC",
+        "summary": "Municipios adeudan recursos económicos del estado que limitan presupuestos locales.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/empresarial/180094_ayuntamientos_deben_cobrar_716_mdp_al_gobierno_de_bc",
+        "_added_at": "2026-08-08T08:36:57.964337-07:00"
+      },
+      {
         "title": "Empresario pagó permiso apócrifo para corrida",
         "summary": "Sindica denuncia que pagó doscientos mil pesos por autorización falsa para evento taurino.",
         "source": "ZETA Tijuana",
@@ -86,6 +114,13 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Sindicatura actúa contra policías sin cámara corporal",
+        "summary": "Tijuana implementa medidas disciplinarias para vigilancia de elementos de seguridad.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180086_procedera_sindicatura_contra_policias_que_no_porten_su_camara_corporal",
+        "_added_at": "2026-08-08T08:36:57.964337-07:00"
+      },
       {
         "title": "Protestan quemando piñatas de ICE en Tijuana",
         "summary": "Ciudadanos manifiestan rechazo a detenciones migratorias estadounidenses.",
@@ -123,5 +158,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-08T06:04:27.072712-07:00"
+  "last_updated": "2026-08-08T08:36:57.964337-07:00"
 }
