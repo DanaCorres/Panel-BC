@@ -1,8 +1,36 @@
 {
   "date": "2026-08-08",
-  "run_count": 4,
+  "run_count": 5,
   "notes": {
     "seguridad": [
+      {
+        "title": "Detienen a apoderada legal por presunto huachicol fiscal",
+        "summary": "FGR detiene a apoderada de empresa vinculada a Ruffo por actividades de huachicol fiscal en Tijuana.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/fgr-detiene-a-apoderada-legal-de-empresa-ligada-a-ruffo-por-huachicol-fiscal/?utm_source=rss&utm_medium=rss&utm_campaign=fgr-detiene-a-apoderada-legal-de-empresa-ligada-a-ruffo-por-huachicol-fiscal",
+        "_added_at": "2026-08-08T11:50:27.372788-07:00"
+      },
+      {
+        "title": "Joven ejecutado en Tecate a balazos",
+        "summary": "Asesinado un joven a tiros en Tecate, Baja California.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/180103_ejecutan_a_balazos_a_un_joven_en_tecate",
+        "_added_at": "2026-08-08T11:50:27.372788-07:00"
+      },
+      {
+        "title": "Hombre asesinado en Valle San Pedro durante carreras ilegales",
+        "summary": "Homicidio en Valle San Pedro; autoridades investigan nexo con actividades clandestinas de carreras.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/180101_asesinan_a_un_hombre_en_valle_de_san_pedro_en_el_lugar_habia_carreras_clandestinas",
+        "_added_at": "2026-08-08T11:50:27.372788-07:00"
+      },
+      {
+        "title": "Vendedor de nieves ejecutado; sin vínculos ilícitos aparentes",
+        "summary": "FGR no encuentra conexión con crimen organizado en ejecución de vendedor ambulante en Tijuana.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97825/Ejecuci%C3%B3n-de-vendedor-de-nieves;-FGR-no-encuentra-v%C3%ADnculos-con-actividades-il%C3%ADcitas",
+        "_added_at": "2026-08-08T11:50:27.372788-07:00"
+      },
       {
         "title": "Queman vehículo con manta en Rosarito",
         "summary": "Incendian automóvil y dejan mensaje dirigido a funcionarios municipales en Rosarito.",
@@ -40,6 +68,27 @@
       }
     ],
     "politica": [
+      {
+        "title": "Pago de 200 mil por permiso apócrifo de corrida de toros",
+        "summary": "Empresario pagó cantidad para permiso falso de corrida; Síndica de Tijuana denuncia irregularidad.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/empresario-pago-200-mil-pesos-por-permiso-para-corrida-de-toros-apocrifo-sindica-de-tijuana/?utm_source=rss&utm_medium=rss&utm_campaign=empresario-pago-200-mil-pesos-por-permiso-para-corrida-de-toros-apocrifo-sindica-de-tijuana",
+        "_added_at": "2026-08-08T11:50:27.372788-07:00"
+      },
+      {
+        "title": "Acto masivo con acarreo para Burgueño pese a advertencia oficial",
+        "summary": "Organización de evento político con transporte de asistentes, contrario a recomendaciones de autoridades.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/contrario-a-recomendacion-de-ariadna-montiel-organizan-acto-masivo-con-acarreo-para-burgueno/?utm_source=rss&utm_medium=rss&utm_campaign=contrario-a-recomendacion-de-ariadna-montiel-organizan-acto-masivo-con-acarreo-para-burgueno",
+        "_added_at": "2026-08-08T11:50:27.372788-07:00"
+      },
+      {
+        "title": "Denuncian ocupación de centro comunitario en Tijuana",
+        "summary": "Sindicatura de Tijuana recibe denuncia por toma de instalaciones públicas en barrio de la Libertad.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/denuncian-en-sindicatura-de-tijuana-toma-del-centro-comunitario-de-la-libertad/?utm_source=rss&utm_medium=rss&utm_campaign=denuncian-en-sindicatura-de-tijuana-toma-del-centro-comunitario-de-la-libertad",
+        "_added_at": "2026-08-08T11:50:27.372788-07:00"
+      },
       {
         "title": "Ovando en la cuerda floja por apoyo a Macalpin",
         "summary": "Funcionario enfrenta presión política tras respaldar a candidato cuestionado.",
@@ -85,6 +134,20 @@
     ],
     "economia": [
       {
+        "title": "Festival Baja Beach Fest impulsa ocupación hotelera en Rosarito",
+        "summary": "Evento turístico genera aumento significativo en ocupación de hospedajes en Rosarito.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Rosarito/97826/Baja-Beach-Fest-dispara-ocupaci%C3%B3n-hotelera-en-Rosarito",
+        "_added_at": "2026-08-08T11:50:27.372788-07:00"
+      },
+      {
+        "title": "Empresas mantienen bajo ausentismo a pesar de retrasos del IMSS",
+        "summary": "Empleadores reportan bajo ausentismo laboral pese a problemas administrativos de seguridad social.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180110_empresas_mantienen_bajo_ausentismo_pese_a_retrasos_del_imss_arhitac",
+        "_added_at": "2026-08-08T11:50:27.372788-07:00"
+      },
+      {
         "title": "Exportaciones de maquiladoras en Tecate caen 37%",
         "summary": "Sector industrial de Tecate experimenta desplome significativo en ventas al exterior.",
         "source": "AFN Tijuana",
@@ -114,6 +177,34 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Agua potable en San Vicente; autoridades muestran voluntad",
+        "summary": "Claudia Agatón reconoce disposición de gobierno para llevar agua potable a comunidad de San Vicente.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180109_reconoce_claudia_agaton_voluntad_de_autoridades_para_llevar_agua_potable_a_san_vicente",
+        "_added_at": "2026-08-08T11:50:27.372788-07:00"
+      },
+      {
+        "title": "Joven con quemaduras al intentar sofocar fuga de gas",
+        "summary": "Incidente por escape de gas en Nueva Tijuana causa lesiones a persona que intentó contener el fuego.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97823/Joven-resulta-con-quemaduras-tras-intentar-sofocar-incendio-por-fuga-de-gas-en-Nueva-Tijuana",
+        "_added_at": "2026-08-08T11:50:27.372788-07:00"
+      },
+      {
+        "title": "Vehículo fuera de control atropella a tres en Zona Centro",
+        "summary": "Conductor pierde el dominio de auto e impacta a tres personas en centro comercial de Tijuana.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97821/Veh%C3%ADculo-atropella-a-tres-personas-tras-impactarse-contra-una-est%C3%A9tica-en-Zona-Centro",
+        "_added_at": "2026-08-08T11:50:27.372788-07:00"
+      },
+      {
+        "title": "Rezagos en atención a deportados tras 13 años de campamentos",
+        "summary": "Persisten deficiencias en servicios para migrantes deportados en Baja California.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/a-13-anos-del-primer-campamento-migrante-persisten-rezagos-en-atencion-a-deportados/?utm_source=rss&utm_medium=rss&utm_campaign=a-13-anos-del-primer-campamento-migrante-persisten-rezagos-en-atencion-a-deportados",
+        "_added_at": "2026-08-08T11:50:27.372788-07:00"
+      },
       {
         "title": "Sindicatura actúa contra policías sin cámara corporal",
         "summary": "Tijuana implementa medidas disciplinarias para vigilancia de elementos de seguridad.",
@@ -158,5 +249,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-08T08:36:57.964337-07:00"
+  "last_updated": "2026-08-08T11:50:27.372788-07:00"
 }
