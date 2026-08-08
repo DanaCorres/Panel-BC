@@ -1,6 +1,6 @@
 {
   "date": "2026-08-08",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
       {
@@ -33,6 +33,13 @@
       }
     ],
     "politica": [
+      {
+        "title": "Protesta contra ICE por detenciones migrantes",
+        "summary": "Queman piñatas en Tijuana en rechazo a operativos de deportación.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180081_queman_pinatas_de_ice_en_tijuana_en_protesta_por_detencion_de_migrantes",
+        "_added_at": "2026-08-08T02:46:22.484675-07:00"
+      },
       {
         "title": "Disputan acto masivo pese recomendación oficial",
         "summary": "Organizan mitin con acarreo para Burgueño contrario a indicaciones de autoridades federales.",
@@ -102,5 +109,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-08T00:04:59.955617-07:00"
+  "last_updated": "2026-08-08T02:46:22.484675-07:00"
 }
