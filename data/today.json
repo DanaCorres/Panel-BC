@@ -1,8 +1,36 @@
 {
   "date": "2026-08-08",
-  "run_count": 5,
+  "run_count": 6,
   "notes": {
     "seguridad": [
+      {
+        "title": "Viernes violento en Tijuana con doble homicidio",
+        "summary": "Dos personas fueron asesinadas en hechos violentos registrados en Tijuana durante la jornada del viernes.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/viernes-violento-en-tijuana-deja-doble-homicidio/?utm_source=rss&utm_medium=rss&utm_campaign=viernes-violento-en-tijuana-deja-doble-homicidio",
+        "_added_at": "2026-08-08T14:38:11.188312-07:00"
+      },
+      {
+        "title": "Exagente CBP condenado por colaborar con Cártel Sinaloa",
+        "summary": "Exmiembro de la Patrulla Fronteriza fue sentenciado a 9 años de prisión por trabajar para el crimen organizado.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180118_sentencian_a_exagente_del_cbp_a_9_anos_de_prision_colaboraba_con_el_cartel_de_sinaloa",
+        "_added_at": "2026-08-08T14:38:11.188312-07:00"
+      },
+      {
+        "title": "Joven asesinado en Valle San Pedro por carreras clandestinas",
+        "summary": "Homicidio en zona residencial investigado como posible resultado de carreras ilegales de vehículos.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97820/Joven-es-asesinado-en-Valle-San-Pedro;-investigan-posible-relaci%C3%B3n-con-carreras-clandestinas",
+        "_added_at": "2026-08-08T14:38:11.188312-07:00"
+      },
+      {
+        "title": "Condenan a 20 años por homicidio en San Quintín",
+        "summary": "Sujeto recibe sentencia máxima por muerte de un hombre en la región de San Quintín.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97828/Dan-20-a%C3%B1os-de-c%C3%A1rcel-por-asesinar-a-un-hombre-en-San-Quint%C3%ADn",
+        "_added_at": "2026-08-08T14:38:11.188312-07:00"
+      },
       {
         "title": "Detienen a apoderada legal por presunto huachicol fiscal",
         "summary": "FGR detiene a apoderada de empresa vinculada a Ruffo por actividades de huachicol fiscal en Tijuana.",
@@ -44,30 +72,30 @@
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/08/vinculan-a-proceso-al-r1-pero-no-por-el-homicidio-de-carlos-manzo/",
         "_added_at": "2026-08-08T00:04:59.955617-07:00"
-      },
-      {
-        "title": "Asesinan automovilista en colonia Altiplano",
-        "summary": "Hombre fue asesinado a balazos mientras conducía en la colonia Altiplano de Tijuana.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/180093_asesinan_a_balazos_a_un_automovilista_en_la_colonia_altiplano",
-        "_added_at": "2026-08-08T00:04:59.955617-07:00"
-      },
-      {
-        "title": "Localizan cadáver de mujer calcinada",
-        "summary": "Se encontró el cuerpo sin vida de una mujer quemada en la canalización.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180088_localizan_cadaver_de_una_mujer_calcinada_en_la_canalizacion",
-        "_added_at": "2026-08-08T00:04:59.955617-07:00"
-      },
-      {
-        "title": "Catean domicilio tras reporte de balacera",
-        "summary": "Autoridades encontraron armas largas durante cateo en domicilio relacionado con tiroteo.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/180079_catean_domicilio_donde_encontraron_armas_largas_tras_reporte_de_balacera",
-        "_added_at": "2026-08-08T00:04:59.955617-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "FGR detiene apoderada ligada a empresa del exgobernador Ruffo",
+        "summary": "Autoridades capturan a representante legal implicada en esquema de huachicol fiscal relacionado con personaje político.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/fgr-detiene-a-apoderada-legal-de-empresa-ligada-a-ruffo-por-huachicol-fiscal/?utm_source=rss&utm_medium=rss&utm_campaign=fgr-detiene-a-apoderada-legal-de-empresa-ligada-a-ruffo-por-huachicol-fiscal",
+        "_added_at": "2026-08-08T14:38:11.188312-07:00"
+      },
+      {
+        "title": "Priistas denuncian pérdida de confianza bajo gobiernos Morena",
+        "summary": "Oposición realiza foro en BC cuestionando gestión y credibilidad de administración morenista actual.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/priistas-acusan-perdida-de-confianza-durante-gobiernos-de-morena-celebran-foro-en-bc/?utm_source=rss&utm_medium=rss&utm_campaign=priistas-acusan-perdida-de-confianza-durante-gobiernos-de-morena-celebran-foro-en-bc",
+        "_added_at": "2026-08-08T14:38:11.188312-07:00"
+      },
+      {
+        "title": "Denuncian nepotismo en gobierno de Tecate",
+        "summary": "Funcionario local critica prácticas de favoritismo familiar en administración municipal pequeña.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180115_hay_nepotismo_en_el_gobierno_porque_tecate_es_una_ciudad_pequena_roman_cota",
+        "_added_at": "2026-08-08T14:38:11.188312-07:00"
+      },
       {
         "title": "Pago de 200 mil por permiso apócrifo de corrida de toros",
         "summary": "Empresario pagó cantidad para permiso falso de corrida; Síndica de Tijuana denuncia irregularidad.",
@@ -116,23 +144,16 @@
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/08/contrario-a-recomendacion-de-ariadna-montiel-organizan-acto-masivo-con-acarreo-para-burgueno/",
         "_added_at": "2026-08-08T00:04:59.955617-07:00"
-      },
-      {
-        "title": "Familiares de regidora enfrentan a exescoltas",
-        "summary": "Parientes de María Quijada tuvieron confrontación con sus antiguos guardaespaldas en Tecate.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/familiares-de-la-regidora-maria-quijada-se-enfrentan-contra-exescoltas-en-tecate/",
-        "_added_at": "2026-08-08T00:04:59.955617-07:00"
-      },
-      {
-        "title": "FGE detiene tres funcionarios del Registro",
-        "summary": "Fiscalía estatal confirmó captura de funcionarios y exfuncionarios por irregularidades administrativas.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180085_confirma_la_fge_detencion_de_tres_funcionarios_y_ex_funcionarios_del_registro_publico",
-        "_added_at": "2026-08-08T00:04:59.955617-07:00"
       }
     ],
     "economia": [
+      {
+        "title": "Empresario pagó 200 mil pesos por permiso apócrifo de corrida",
+        "summary": "Sindica denuncia que sujeto desembolsó cantidad por autorización falsa para evento taurino.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/empresario-pago-200-mil-pesos-por-permiso-para-corrida-de-toros-apocrifo-sindica-de-tijuana/?utm_source=rss&utm_medium=rss&utm_campaign=empresario-pago-200-mil-pesos-por-permiso-para-corrida-de-toros-apocrifo-sindica-de-tijuana",
+        "_added_at": "2026-08-08T14:38:11.188312-07:00"
+      },
       {
         "title": "Festival Baja Beach Fest impulsa ocupación hotelera en Rosarito",
         "summary": "Evento turístico genera aumento significativo en ocupación de hospedajes en Rosarito.",
@@ -177,6 +198,27 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Profepa investiga descargas que contaminan Río Tijuana y playas",
+        "summary": "Autoridades ambientales revisan vertimientos industriales afectando cuerpos de agua costeros.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180116_profepa_investiga_descargas_industriales_que_contaminan_el_rio_tijuana_y_playas_de_bc",
+        "_added_at": "2026-08-08T14:38:11.188312-07:00"
+      },
+      {
+        "title": "Denuncian toma de centro comunitario en Tijuana",
+        "summary": "Sindicatura reporta ocupación ilegal de instalaciones recreativas de la colonia La Libertad.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/denuncian-en-sindicatura-de-tijuana-toma-del-centro-comunitario-de-la-libertad/?utm_source=rss&utm_medium=rss&utm_campaign=denuncian-en-sindicatura-de-tijuana-toma-del-centro-comunitario-de-la-libertad",
+        "_added_at": "2026-08-08T14:38:11.188312-07:00"
+      },
+      {
+        "title": "Plantean retomar convenio con prepas privadas para jóvenes",
+        "summary": "Propuesta para absorber estudiantes sin lugar en escuelas públicas mediante alianzas privadas.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180112_plantean_retomar_convenio_con_prepas_privadas_para_atender_a_jovenes_sin_lugar_en_escuelas_publicas",
+        "_added_at": "2026-08-08T14:38:11.188312-07:00"
+      },
       {
         "title": "Agua potable en San Vicente; autoridades muestran voluntad",
         "summary": "Claudia Agatón reconoce disposición de gobierno para llevar agua potable a comunidad de San Vicente.",
@@ -225,29 +267,8 @@
         "source": "El Mexicano",
         "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97812/Regresar%C3%A1-el-agua-a-Tijuana-de-manera-gradual-a-partir-del-s%C3%A1bado",
         "_added_at": "2026-08-08T00:04:59.955617-07:00"
-      },
-      {
-        "title": "Persisten rezagos atención migrantes deportados",
-        "summary": "Trece años después, campamentos aún enfrentan deficiencias en servicios para retornados.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/a-13-anos-del-primer-campamento-migrante-persisten-rezagos-en-atencion-a-deportados/",
-        "_added_at": "2026-08-08T00:04:59.955617-07:00"
-      },
-      {
-        "title": "Queman vehículo con manta contra funcionarios",
-        "summary": "Incendian automóvil en Rosarito dejando mensaje dirigido a autoridades municipales.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97815/Queman-veh%C3%ADculo-y-dejan-manta-dirigida-contra-funcionarios-de-Rosarito",
-        "_added_at": "2026-08-08T00:04:59.955617-07:00"
-      },
-      {
-        "title": "Rosarito prepara Baja Beach Fest dos mil veintiséis",
-        "summary": "Municipio alista festival de playa inaugural con programación especial para turistas.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Rosarito/97814/Rosarito-listo-para-el-primer-d%C3%ADa-del-Baja-Beach-Fest-2026",
-        "_added_at": "2026-08-08T00:04:59.955617-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-08T11:50:27.372788-07:00"
+  "last_updated": "2026-08-08T14:38:11.188312-07:00"
 }
