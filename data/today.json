@@ -1,6 +1,6 @@
 {
   "date": "2026-08-08",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
       {
@@ -33,6 +33,13 @@
       }
     ],
     "politica": [
+      {
+        "title": "Moreira: elección 2027 será contra Morena y narco",
+        "summary": "Político opositor plantea batalla electoral frente a gobierno y crimen organizado.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180092_eleccion_del_2027_sera_contra_morena_y_contra_el_narco_moreira",
+        "_added_at": "2026-08-08T06:04:27.072712-07:00"
+      },
       {
         "title": "Protesta contra ICE por detenciones migrantes",
         "summary": "Queman piñatas en Tijuana en rechazo a operativos de deportación.",
@@ -80,6 +87,13 @@
     ],
     "sociedad": [
       {
+        "title": "Protestan quemando piñatas de ICE en Tijuana",
+        "summary": "Ciudadanos manifiestan rechazo a detenciones migratorias estadounidenses.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180081_queman_pinatas_de_ice_en_tijuana_en_protesta_por_detencion_de_migrantes",
+        "_added_at": "2026-08-08T06:04:27.072712-07:00"
+      },
+      {
         "title": "Regresa agua gradualmente a Tijuana partir sábado",
         "summary": "Autoridades anuncian normalización progresiva del suministro tras cortes recientes.",
         "source": "El Mexicano",
@@ -109,5 +123,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-08T02:46:22.484675-07:00"
+  "last_updated": "2026-08-08T06:04:27.072712-07:00"
 }
