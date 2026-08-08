@@ -1,295 +1,106 @@
 {
-  "date": "2026-08-07",
-  "run_count": 8,
+  "date": "2026-08-08",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Vinculan a proceso al \"R1\" por delitos distintos",
-        "summary": "Sospechoso ligado a proceso, aunque no por homicidio de Carlos Manzo. Investigaciones continúan en Tijuana.",
+        "title": "Vinculan a proceso al R1 por cargos distintos",
+        "summary": "Presunto delincuente R1 fue vinculado a proceso pero no por homicidio de Carlos Manzo.",
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/08/vinculan-a-proceso-al-r1-pero-no-por-el-homicidio-de-carlos-manzo/",
-        "_added_at": "2026-08-07T19:07:57.804776-07:00"
+        "_added_at": "2026-08-08T00:04:59.955617-07:00"
       },
       {
-        "title": "Localizan cadáver de mujer calcinada en canalización",
-        "summary": "Hallazgo de cuerpo sin vida en zona de Tijuana. Autoridades investigan circunstancias del deceso.",
+        "title": "Asesinan automovilista en colonia Altiplano",
+        "summary": "Hombre fue asesinado a balazos mientras conducía en la colonia Altiplano de Tijuana.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/180093_asesinan_a_balazos_a_un_automovilista_en_la_colonia_altiplano",
+        "_added_at": "2026-08-08T00:04:59.955617-07:00"
+      },
+      {
+        "title": "Localizan cadáver de mujer calcinada",
+        "summary": "Se encontró el cuerpo sin vida de una mujer quemada en la canalización.",
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/180088_localizan_cadaver_de_una_mujer_calcinada_en_la_canalizacion",
-        "_added_at": "2026-08-07T19:07:57.804776-07:00"
+        "_added_at": "2026-08-08T00:04:59.955617-07:00"
       },
       {
-        "title": "Catean vivienda por balacera; localizan armas largas",
-        "summary": "Operativo después de reporte de enfrentamiento. Aseguramiento de armamento en domicilio de Tijuana.",
+        "title": "Catean domicilio tras reporte de balacera",
+        "summary": "Autoridades encontraron armas largas durante cateo en domicilio relacionado con tiroteo.",
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/seguridad/180079_catean_domicilio_donde_encontraron_armas_largas_tras_reporte_de_balacera",
-        "_added_at": "2026-08-07T19:07:57.804776-07:00"
-      },
-      {
-        "title": "Queman vehículo con amenaza a funcionarios en Rosarito",
-        "summary": "Incendio intencional de auto con manta dirigida a autoridades. Tensión en administración local.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97815/Queman-veh%C3%ADculo-y-dejan-manta-dirigida-contra-funcionarios-de-Rosarito",
-        "_added_at": "2026-08-07T19:07:57.804776-07:00"
-      },
-      {
-        "title": "Vinculan a \"R1\" a proceso por delitos distintos",
-        "summary": "Presunto criminal procesado, aunque no por homicidio de Carlos Manzo. Avance en investigación de autoridades locales.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/vinculan-a-proceso-al-r1-pero-no-por-el-homicidio-de-carlos-manzo/?utm_source=rss&utm_medium=rss&utm_campaign=vinculan-a-proceso-al-r1-pero-no-por-el-homicidio-de-carlos-manzo",
-        "_added_at": "2026-08-07T14:48:31.138544-07:00"
-      },
-      {
-        "title": "Familiares de regidora se enfrentan contra exescoltas en Tecate",
-        "summary": "Confrontación entre familiares de regidora María Quijada y sus antiguos elementos de seguridad en municipio.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/familiares-de-la-regidora-maria-quijada-se-enfrentan-contra-exescoltas-en-tecate/?utm_source=rss&utm_medium=rss&utm_campaign=familiares-de-la-regidora-maria-quijada-se-enfrentan-contra-exescoltas-en-tecate",
-        "_added_at": "2026-08-07T14:48:31.138544-07:00"
-      },
-      {
-        "title": "Detienen a copiloto por accidente fatal en Mexicali",
-        "summary": "Imputan cargos a conductor de vehículo que causó muerte de abogada en accidente vial.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/imputan-a-copiloto-del-vehiculo-que-provoco-accidente-donde-murio-una-abogada-en-mexicali/?utm_source=rss&utm_medium=rss&utm_campaign=imputan-a-copiloto-del-vehiculo-que-provoco-accidente-donde-murio-una-abogada-en-mexicali",
-        "_added_at": "2026-08-07T14:48:31.138544-07:00"
-      },
-      {
-        "title": "Localizan mujer calcinada en canalización del Río Tijuana",
-        "summary": "Hallazgo de cadáver de mujer con quemaduras en zona de río. Investigación abierta por autoridades.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97793/Localizan-a-mujer-sin-vida-y-con-quemaduras-en-la-canalizaci%C3%B3n-del-R%C3%ADo-Tijuana",
-        "_added_at": "2026-08-07T14:48:31.138544-07:00"
-      },
-      {
-        "title": "Ataque a balazos en Villa Fontana deja herido",
-        "summary": "Hombre recibe disparos en zona de Villa Fontana en Tijuana.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/atacan-a-tiros-a-hombre-en-villa-fontana/?utm_source=rss&utm_medium=rss&utm_campaign=atacan-a-tiros-a-hombre-en-villa-fontana",
-        "_added_at": "2026-08-07T12:07:21.203148-07:00"
-      },
-      {
-        "title": "Camión vuelca en libramiento Rosas Magallón",
-        "summary": "Accidente vehicular en vialidad importante de Tijuana sin heridos reportados.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180062_volco_un_camion_sobre_el_libramiento_rosas_magallon_no_hubo_heridos",
-        "_added_at": "2026-08-07T12:07:21.203148-07:00"
+        "_added_at": "2026-08-08T00:04:59.955617-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Organizan acto masivo para Burgueño contra recomendación",
-        "summary": "Evento político con acarreo desafía sugerencia de Montiel sobre movilizaciones en Tijuana.",
+        "title": "Disputan acto masivo pese recomendación oficial",
+        "summary": "Organizan mitin con acarreo para Burgueño contrario a indicaciones de autoridades federales.",
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/08/contrario-a-recomendacion-de-ariadna-montiel-organizan-acto-masivo-con-acarreo-para-burgueno/",
-        "_added_at": "2026-08-07T21:16:27.803065-07:00"
+        "_added_at": "2026-08-08T00:04:59.955617-07:00"
       },
       {
-        "title": "Elección 2027 será contra Morena y narco",
-        "summary": "Moreira plantea campaña electoral enfocada en dos frentes principales para próximas elecciones.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180092_eleccion_del_2027_sera_contra_morena_y_contra_el_narco_moreira",
-        "_added_at": "2026-08-07T21:16:27.803065-07:00"
-      },
-      {
-        "title": "Familiares de regidora enfrentan exescoltas en Tecate",
-        "summary": "Conflicto entre familia de funcionaria y personal de seguridad. Incidente registrado en municipio.",
+        "title": "Familiares de regidora enfrentan a exescoltas",
+        "summary": "Parientes de María Quijada tuvieron confrontación con sus antiguos guardaespaldas en Tecate.",
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/08/familiares-de-la-regidora-maria-quijada-se-enfrentan-contra-exescoltas-en-tecate/",
-        "_added_at": "2026-08-07T19:07:57.804776-07:00"
+        "_added_at": "2026-08-08T00:04:59.955617-07:00"
       },
       {
-        "title": "Rosarito debe cesar a Nora Márquez por inhabilitación",
-        "summary": "Funcionaria de Rosarito afectada por resolución de sindicatura de Tijuana. Cambios administrativos esperados.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/rosarito-tendria-que-cesar-a-nora-marquez-por-la-inhabilitacion-de-sindicatura-de-tijuana/",
-        "_added_at": "2026-08-07T19:07:57.804776-07:00"
-      },
-      {
-        "title": "Detienen tres funcionarios del Registro Público",
-        "summary": "Tres servidores públicos detenidos por la FGE. Investigación en materia de corrupción administrativa.",
+        "title": "FGE detiene tres funcionarios del Registro",
+        "summary": "Fiscalía estatal confirmó captura de funcionarios y exfuncionarios por irregularidades administrativas.",
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/180085_confirma_la_fge_detencion_de_tres_funcionarios_y_ex_funcionarios_del_registro_publico",
-        "_added_at": "2026-08-07T19:07:57.804776-07:00"
-      },
-      {
-        "title": "Procederá sindicatura contra policías sin cámara corporal",
-        "summary": "Medida de control. Sanciones para elementos sin equipo de vigilancia obligatorio.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180086_procedera_sindicatura_contra_policias_que_no_porten_su_camara_corporal",
-        "_added_at": "2026-08-07T19:07:57.804776-07:00"
-      },
-      {
-        "title": "Rosarito debe cesar a Nora Márquez por inhabilitación",
-        "summary": "Funcionaria debe ser removida del cargo por decisión judicial relacionada con Sindicatura de Tijuana.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/rosarito-tendria-que-cesar-a-nora-marquez-por-la-inhabilitacion-de-sindicatura-de-tijuana/?utm_source=rss&utm_medium=rss&utm_campaign=rosarito-tendria-que-cesar-a-nora-marquez-por-la-inhabilitacion-de-sindicatura-de-tijuana",
-        "_added_at": "2026-08-07T14:48:31.138544-07:00"
-      },
-      {
-        "title": "Coordinador niega rezago en carpetas de investigación",
-        "summary": "Autoridad afirma estar al corriente con casos pendientes en Baja California.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/coordinador-buenrostro-niega-rezago-de-carpetas-de-investigacion-en-baja-california/?utm_source=rss&utm_medium=rss&utm_campaign=coordinador-buenrostro-niega-rezago-de-carpetas-de-investigacion-en-baja-california",
-        "_added_at": "2026-08-07T14:48:31.138544-07:00"
-      },
-      {
-        "title": "Ciudadanos firman contra reforma constitucional en Mexicali",
-        "summary": "Recopilación de firmas en rechazo a cambios propuestos a Constitución nacional.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97795/Colocan-firmas-en-apoyo-a-rechazo-de-reforma-constitucional",
-        "_added_at": "2026-08-07T14:48:31.138544-07:00"
-      },
-      {
-        "title": "Gobierno descarta motivación política en arresto de Aguirre",
-        "summary": "Autoridades niegan que detención de Ángel Aguirre tenga intención política.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/sheinbaum-descarta-motivacion-politica-en-detencion-de-angel-aguirre/?utm_source=rss&utm_medium=rss&utm_campaign=sheinbaum-descarta-motivacion-politica-en-detencion-de-angel-aguirre",
-        "_added_at": "2026-08-07T12:07:21.203148-07:00"
+        "_added_at": "2026-08-08T00:04:59.955617-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Empresario pagó 200 mil pesos por permiso apócrifo",
-        "summary": "Sindica denuncia corrupción: corrida de toros con documento falso en Tijuana.",
+        "title": "Empresario pagó permiso apócrifo para corrida",
+        "summary": "Sindica denuncia que pagó doscientos mil pesos por autorización falsa para evento taurino.",
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/08/empresario-pago-200-mil-pesos-por-permiso-para-corrida-de-toros-apocrifo-sindica-de-tijuana/",
-        "_added_at": "2026-08-07T21:16:27.803065-07:00"
+        "_added_at": "2026-08-08T00:04:59.955617-07:00"
       },
       {
-        "title": "Entrega Sader apoyos para ganadería integral en Mexicali",
-        "summary": "Programa de fortalecimiento pecuario. Apoyo federal para infraestructura ganadera regional.",
+        "title": "Sader entrega apoyos ganadería integral Mexicali",
+        "summary": "Gobierno federal reparte recursos para fortalecer infraestructura del sector pecuario regional.",
         "source": "El Mexicano",
         "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97806/Entrega-Sader-apoyos-del-programa-ganader%C3%ADa-integral",
-        "_added_at": "2026-08-07T19:07:57.804776-07:00"
-      },
-      {
-        "title": "EE.UU. reanuda actividades; busca destrabar aguacate",
-        "summary": "Negociaciones comerciales sobre exportación. Gestiones diplomáticas para resolver restricciones.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/eu-reanudara-actividades-en-michoacan-mexico-busca-destrabar-exportacion-de-aguacate/",
-        "_added_at": "2026-08-07T19:07:57.804776-07:00"
-      },
-      {
-        "title": "CESPT reparará falla en Booster este viernes",
-        "summary": "Proveedor de telecomunicaciones resuelve problema técnico y restablecerá conexión de emergencia con EE.UU.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/cespt-preve-solucionar-falla-en-booster-este-viernes-y-reactivar-conexion-de-emergencia-con-ee-uu/?utm_source=rss&utm_medium=rss&utm_campaign=cespt-preve-solucionar-falla-en-booster-este-viernes-y-reactivar-conexion-de-emergencia-con-ee-uu",
-        "_added_at": "2026-08-07T14:48:31.138544-07:00"
-      },
-      {
-        "title": "Inflación anual baja a 3.12% en julio de 2026",
-        "summary": "Tasa de inflación alcanza su menor nivel del año en mes de julio.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/inflacion-anual-se-ubico-en-3-12-en-julio-de-2026-su-menor-nivel-en-el-ano/?utm_source=rss&utm_medium=rss&utm_campaign=inflacion-anual-se-ubico-en-3-12-en-julio-de-2026-su-menor-nivel-en-el-ano",
-        "_added_at": "2026-08-07T12:07:21.203148-07:00"
-      },
-      {
-        "title": "Ayuntamiento de Tijuana otorga contrato sin licitación",
-        "summary": "Municipio asigna contrato por 3 millones sin proceso de licitación pública.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/da-ayuntamiento-de-tijuana-contrato-por-3-mmp-sin-licitar-podcast/?utm_source=rss&utm_medium=rss&utm_campaign=da-ayuntamiento-de-tijuana-contrato-por-3-mmp-sin-licitar-podcast",
-        "_added_at": "2026-08-07T12:07:21.203148-07:00"
-      },
-      {
-        "title": "Inflación de BC cae a 2.14 por ciento en julio",
-        "summary": "La inflación anual en Baja California se ubicó en 2.14 por ciento durante julio de 2026.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/empresarial/180058_inflacion_de_bc_en_2_14_anual_durante_julio",
-        "_added_at": "2026-08-07T09:01:38.461951-07:00"
-      },
-      {
-        "title": "Tráfico aéreo cae 5.3 por ciento en Tijuana",
-        "summary": "El Aeropuerto Internacional registra disminución en movimiento de pasajeros durante el período.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/empresarial/180059_cae_5_3_trafico_de_pasajeros_por_aeropuerto_internacional_de_tijuana",
-        "_added_at": "2026-08-07T09:01:38.461951-07:00"
-      },
-      {
-        "title": "Nuevo cónsul estadounidense asume cargo en Tijuana",
-        "summary": "Lance Hegerle, exdirector de antinarcóticos en Colombia, toma posición como representante diplomático estadounidense.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/nuevo-consul-de-eua-en-tijuana-lance-hegerle-fue-director-de-antinarcoticos-en-embajada-estadounidense-en-colombia/",
-        "_added_at": "2026-08-07T06:20:43.591500-07:00"
-      },
-      {
-        "title": "Ayuntamiento de Tijuana otorga contrato de 3 MMP sin licitación",
-        "summary": "Investigación revela procedimiento irregular en asignación de contrato municipal.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/da-ayuntamiento-de-tijuana-contrato-por-3-mmp-sin-licitar-podcast/",
-        "_added_at": "2026-08-07T03:06:19.751461-07:00"
+        "_added_at": "2026-08-08T00:04:59.955617-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Tormenta eléctrica sorprende a Protección Civil",
-        "summary": "Lluvia intensa y descargas eléctricas causan afectaciones sin preparación en Tijuana.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180078_la_tormenta_electrica_y_fuertes_lluvias_sorprendieron_hasta_a_proteccion_civil",
-        "_added_at": "2026-08-07T21:16:27.803065-07:00"
-      },
-      {
-        "title": "Regresará agua gradualmente a Tijuana a partir del sábado",
-        "summary": "Restablecimiento del servicio tras crisis hídrica. Retorno progresivo a colonias afectadas.",
+        "title": "Regresa agua gradualmente a Tijuana partir sábado",
+        "summary": "Autoridades anuncian normalización progresiva del suministro tras cortes recientes.",
         "source": "El Mexicano",
         "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97812/Regresar%C3%A1-el-agua-a-Tijuana-de-manera-gradual-a-partir-del-s%C3%A1bado",
-        "_added_at": "2026-08-07T19:07:57.804776-07:00"
+        "_added_at": "2026-08-08T00:04:59.955617-07:00"
       },
       {
-        "title": "Persisten rezagos en atención a deportados en frontera",
-        "summary": "A 13 años, campamentos migrantes enfrentan deficiencias. Servicios insuficientes para repatriados.",
+        "title": "Persisten rezagos atención migrantes deportados",
+        "summary": "Trece años después, campamentos aún enfrentan deficiencias en servicios para retornados.",
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/08/a-13-anos-del-primer-campamento-migrante-persisten-rezagos-en-atencion-a-deportados/",
-        "_added_at": "2026-08-07T19:07:57.804776-07:00"
+        "_added_at": "2026-08-08T00:04:59.955617-07:00"
       },
       {
-        "title": "Protesta con quema de piñatas contra detenciones migrantes",
-        "summary": "Manifestación en Tijuana contra ICE. Inconformidad por políticas de deportación.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180081_queman_pinatas_de_ice_en_tijuana_en_protesta_por_detencion_de_migrantes",
-        "_added_at": "2026-08-07T19:07:57.804776-07:00"
-      },
-      {
-        "title": "UABC ofrece cinco mil espacios alternativos",
-        "summary": "Universidad amplía opciones para estudiantes que no ingresaron en su primera opción de carrera.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180077_ofrece_la_uabc_5_mil_espacios_a_quienes_no_ingresaron_a_carrera_de_su_primera_eleccion",
-        "_added_at": "2026-08-07T14:48:31.138544-07:00"
-      },
-      {
-        "title": "Justicia digital moderniza servicios judiciales en estado",
-        "summary": "Implementación de tecnología para agilizar procesos y trámites ante tribunales.",
+        "title": "Queman vehículo con manta contra funcionarios",
+        "summary": "Incendian automóvil en Rosarito dejando mensaje dirigido a autoridades municipales.",
         "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Estatal/97794/La-justicia-digital-como-parte-de-la-modernizaci%C3%B3n-de-los-servicios-judiciales",
-        "_added_at": "2026-08-07T14:48:31.138544-07:00"
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97815/Queman-veh%C3%ADculo-y-dejan-manta-dirigida-contra-funcionarios-de-Rosarito",
+        "_added_at": "2026-08-08T00:04:59.955617-07:00"
       },
       {
-        "title": "Premio Latinoamericano de Literatura Molinos de Viento surge",
-        "summary": "Se crea nuevo galardón de literatura latinoamericana en la región.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/surge-premio-latinoamericano-de-literatura-molinos-de-viento/?utm_source=rss&utm_medium=rss&utm_campaign=surge-premio-latinoamericano-de-literatura-molinos-de-viento",
-        "_added_at": "2026-08-07T12:07:21.203148-07:00"
-      },
-      {
-        "title": "Viviendas con engomado rojo por riesgo geológico en Tijuana",
-        "summary": "Aumentan a 77 casas marcadas por peligro de deslaves en Sánchez Taboada.",
+        "title": "Rosarito prepara Baja Beach Fest dos mil veintiséis",
+        "summary": "Municipio alista festival de playa inaugural con programación especial para turistas.",
         "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97755/Aumentan-a-77-las-viviendas-con-engomado-rojo-por-riesgo-geol%C3%B3gico-en-la-S%C3%A1nchez-Taboada",
-        "_added_at": "2026-08-07T12:07:21.203148-07:00"
-      },
-      {
-        "title": "Jornaleros lesionados en accidente en Ensenada",
-        "summary": "Once personas resultan heridas tras accidente en Ejido Eréndira; trasladadas a Maneadero.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Ensenada/97753/Jornaleros-lesionados-tras-accidente-en-el-Ejido-Er%C3%A9ndira,-en-Ensenada",
-        "_added_at": "2026-08-07T09:01:38.461951-07:00"
-      },
-      {
-        "title": "Aumentan matrimonios en Mexicali tras nuevas instalaciones",
-        "summary": "Registro civil registra incremento en bodas civiles por nuevas y mejoradas instalaciones.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97749/Aumentan-matrimonios-en-Mexicali",
-        "_added_at": "2026-08-07T09:01:38.461951-07:00"
+        "url": "https://el-mexicano.com.mx/Noticia/Rosarito/97814/Rosarito-listo-para-el-primer-d%C3%ADa-del-Baja-Beach-Fest-2026",
+        "_added_at": "2026-08-08T00:04:59.955617-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-07T21:16:27.803065-07:00"
+  "last_updated": "2026-08-08T00:04:59.955617-07:00"
 }
