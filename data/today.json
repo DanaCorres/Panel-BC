@@ -1,8 +1,15 @@
 {
   "date": "2026-08-08",
-  "run_count": 7,
+  "run_count": 8,
   "notes": {
     "seguridad": [
+      {
+        "title": "Tres capturados por privación ilegal de libertad en Tijuana",
+        "summary": "Policía detiene a tres individuos acusados de secuestro de una mujer en Tijuana.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/180120_detienen_a_tres_senalados_por_privar_de_la_libertad_a_una_mujer_en_tijuana",
+        "_added_at": "2026-08-08T21:24:19.668426-07:00"
+      },
       {
         "title": "Doble homicidio registrado en viernes violento en Tijuana",
         "summary": "Dos personas fueron asesinadas durante jornada de violencia en la ciudad fronteriza.",
@@ -64,13 +71,6 @@
         "summary": "FGR detiene a apoderada de empresa vinculada a Ruffo por actividades de huachicol fiscal en Tijuana.",
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/08/fgr-detiene-a-apoderada-legal-de-empresa-ligada-a-ruffo-por-huachicol-fiscal/?utm_source=rss&utm_medium=rss&utm_campaign=fgr-detiene-a-apoderada-legal-de-empresa-ligada-a-ruffo-por-huachicol-fiscal",
-        "_added_at": "2026-08-08T11:50:27.372788-07:00"
-      },
-      {
-        "title": "Joven ejecutado en Tecate a balazos",
-        "summary": "Asesinado un joven a tiros en Tecate, Baja California.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/180103_ejecutan_a_balazos_a_un_joven_en_tecate",
         "_added_at": "2026-08-08T11:50:27.372788-07:00"
       }
     ],
@@ -213,6 +213,13 @@
     ],
     "sociedad": [
       {
+        "title": "Baja Beach Fest 2026 abre puertas en Rosarito",
+        "summary": "Festival de playa inicia primer día de actividades en Rosarito con apertura de acceso a público.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Rosarito/97814/Rosarito-listo-para-el-primer-d%C3%ADa-del-Baja-Beach-Fest-2026",
+        "_added_at": "2026-08-08T21:24:19.668426-07:00"
+      },
+      {
         "title": "Proyectos de arte urbano recuperan espacios comunitarios en Tijuana",
         "summary": "Iniciativas de murales y arte revitalizan zonas públicas de la ciudad.",
         "source": "El Mexicano",
@@ -274,15 +281,8 @@
         "source": "El Mexicano",
         "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97821/Veh%C3%ADculo-atropella-a-tres-personas-tras-impactarse-contra-una-est%C3%A9tica-en-Zona-Centro",
         "_added_at": "2026-08-08T11:50:27.372788-07:00"
-      },
-      {
-        "title": "Rezagos en atención a deportados tras 13 años de campamentos",
-        "summary": "Persisten deficiencias en servicios para migrantes deportados en Baja California.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/a-13-anos-del-primer-campamento-migrante-persisten-rezagos-en-atencion-a-deportados/?utm_source=rss&utm_medium=rss&utm_campaign=a-13-anos-del-primer-campamento-migrante-persisten-rezagos-en-atencion-a-deportados",
-        "_added_at": "2026-08-08T11:50:27.372788-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-08T19:20:16.404548-07:00"
+  "last_updated": "2026-08-08T21:24:19.668426-07:00"
 }
