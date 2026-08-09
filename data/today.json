@@ -1,8 +1,15 @@
 {
   "date": "2026-08-09",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Doble homicidio en Tijuana durante viernes violento",
+        "summary": "Dos personas fueron asesinadas en hechos de violencia registrados en Tijuana el viernes pasado.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/viernes-violento-en-tijuana-deja-doble-homicidio/",
+        "_added_at": "2026-08-09T02:49:29.393556-07:00"
+      },
       {
         "title": "Doble homicidio registrado en Tijuana durante viernes violento",
         "summary": "Dos personas fueron asesinadas en hechos violentos ocurridos el viernes en la ciudad fronteriza.",
@@ -33,6 +40,20 @@
       }
     ],
     "politica": [
+      {
+        "title": "Diez exfuncionarios inhabilitados en una semana",
+        "summary": "Autoridades inhabilitan a diez funcionarios de administración anterior en menos de siete días.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/inhabilitan-a-otros-cinco-exfuncionarios-de-la-administracion-de-montserrat-caballero-suman-10-en-menos-de-una-semana/",
+        "_added_at": "2026-08-09T02:49:29.393556-07:00"
+      },
+      {
+        "title": "Priistas critican pérdida de confianza en gobiernos Morena",
+        "summary": "Partido opositor realiza foro en BC señalando problemas de credibilidad en administraciones actuales.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/priistas-acusan-perdida-de-confianza-durante-gobiernos-de-morena-celebran-foro-en-bc/",
+        "_added_at": "2026-08-09T02:49:29.393556-07:00"
+      },
       {
         "title": "Inhabilitan a diez exfuncionarios de administración Caballero",
         "summary": "Sindicatura sanciona a otros cinco servidores públicos en menos de una semana acumulando diez.",
@@ -65,6 +86,13 @@
     "economia": [
       {
         "title": "Proponen formalizar emprendedores ante cierre de negocios",
+        "summary": "Inician iniciativa para acompañar y legalizar pequeños empresarios enfrentados al cierre de operaciones.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/proponen-acompanar-y-formalizar-a-emprendedores-ante-cierre-de-negocios-en-bc/",
+        "_added_at": "2026-08-09T02:49:29.393556-07:00"
+      },
+      {
+        "title": "Proponen formalizar emprendedores ante cierre de negocios",
         "summary": "Iniciativa busca acompañar a pequeños empresarios durante crisis económica en Baja California.",
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/08/proponen-acompanar-y-formalizar-a-emprendedores-ante-cierre-de-negocios-en-bc/?utm_source=rss&utm_medium=rss&utm_campaign=proponen-acompanar-y-formalizar-a-emprendedores-ante-cierre-de-negocios-en-bc",
@@ -79,6 +107,20 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Colonias tijuanenses sin agua por falla en booster",
+        "summary": "Avería en Booster El Carrizo mantiene sin servicio de agua a múltiples colonias de Tijuana.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/colonias-de-tijuana-afectadas-por-averia-en-el-booster-el-carrizo-siguen-sin-agua/",
+        "_added_at": "2026-08-09T02:49:29.393556-07:00"
+      },
+      {
+        "title": "Presa Las Auras presenta riesgo para nadadoresadvertencia sobre profundidad",
+        "summary": "Autoridades alertan sobre peligros de nadar en presa con profundidades de hasta 80 metros.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180119_hasta_80_metros_de_profundidad_el_riesgo_de_nadar_en_la_presa_las_auras",
+        "_added_at": "2026-08-09T02:49:29.393556-07:00"
+      },
       {
         "title": "Colonias tijuanenses sin agua por avería en booster El Carrizo",
         "summary": "Falla en infraestructura hidráulica deja sin servicio a múltiples sectores de población.",
@@ -109,5 +151,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-09T00:07:51.650130-07:00"
+  "last_updated": "2026-08-09T02:49:29.393556-07:00"
 }
