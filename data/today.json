@@ -1,288 +1,113 @@
 {
-  "date": "2026-08-08",
-  "run_count": 8,
+  "date": "2026-08-09",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Tres capturados por privación ilegal de libertad en Tijuana",
-        "summary": "Policía detiene a tres individuos acusados de secuestro de una mujer en Tijuana.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/180120_detienen_a_tres_senalados_por_privar_de_la_libertad_a_una_mujer_en_tijuana",
-        "_added_at": "2026-08-08T21:24:19.668426-07:00"
-      },
-      {
-        "title": "Doble homicidio registrado en viernes violento en Tijuana",
-        "summary": "Dos personas fueron asesinadas durante jornada de violencia en la ciudad fronteriza.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/viernes-violento-en-tijuana-deja-doble-homicidio/",
-        "_added_at": "2026-08-08T19:20:16.404548-07:00"
-      },
-      {
-        "title": "Nueve detenidos en red de huachicol ligada a Ruffo",
-        "summary": "Autoridades detienen a múltiples personas vinculadas a esquema de combustible ilegal.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/180123_suman_nueve_detenidos_por_presunta_red_de_huachicol_ligada_a_ruffo",
-        "_added_at": "2026-08-08T19:20:16.404548-07:00"
-      },
-      {
-        "title": "Tres capturados por privación de libertad en Tijuana",
-        "summary": "Policía detiene a presuntos secuestradores tras liberación de mujer víctima.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97832/Liberan-a-mujer-privada-de-su-libertad,-detiene-a-sus-secuestradores",
-        "_added_at": "2026-08-08T19:20:16.404548-07:00"
-      },
-      {
-        "title": "Hombre herido en ataque armado en Buenos Aires Norte",
-        "summary": "Víctima de disparos reportada en zona residencial de Tijuana.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97837/Hombre-resulta-herido-tras-ataque-armado-en-Buenos-Aires-Norte",
-        "_added_at": "2026-08-08T19:20:16.404548-07:00"
-      },
-      {
-        "title": "Viernes violento en Tijuana con doble homicidio",
-        "summary": "Dos personas fueron asesinadas en hechos violentos registrados en Tijuana durante la jornada del viernes.",
+        "title": "Doble homicidio registrado en Tijuana durante viernes violento",
+        "summary": "Dos personas fueron asesinadas en hechos violentos ocurridos el viernes en la ciudad fronteriza.",
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/08/viernes-violento-en-tijuana-deja-doble-homicidio/?utm_source=rss&utm_medium=rss&utm_campaign=viernes-violento-en-tijuana-deja-doble-homicidio",
-        "_added_at": "2026-08-08T14:38:11.188312-07:00"
+        "_added_at": "2026-08-09T00:07:51.650130-07:00"
       },
       {
-        "title": "Exagente CBP condenado por colaborar con Cártel Sinaloa",
-        "summary": "Exmiembro de la Patrulla Fronteriza fue sentenciado a 9 años de prisión por trabajar para el crimen organizado.",
+        "title": "Detienen a nueve sospechosos por red de huachicol fiscal",
+        "summary": "Autoridades capturan a múltiples individuos vinculados a esquema de combustible ilegal ligado a exfuncionario.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180118_sentencian_a_exagente_del_cbp_a_9_anos_de_prision_colaboraba_con_el_cartel_de_sinaloa",
-        "_added_at": "2026-08-08T14:38:11.188312-07:00"
+        "url": "https://www.afntijuana.info/seguridad/180123_suman_nueve_detenidos_por_presunta_red_de_huachicol_ligada_a_ruffo",
+        "_added_at": "2026-08-09T00:07:51.650130-07:00"
       },
       {
-        "title": "Joven asesinado en Valle San Pedro por carreras clandestinas",
-        "summary": "Homicidio en zona residencial investigado como posible resultado de carreras ilegales de vehículos.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97820/Joven-es-asesinado-en-Valle-San-Pedro;-investigan-posible-relaci%C3%B3n-con-carreras-clandestinas",
-        "_added_at": "2026-08-08T14:38:11.188312-07:00"
+        "title": "Tres capturados por privación de libertad de mujer en Tijuana",
+        "summary": "Elementos detienen a presuntos responsables del secuestro de una mujer en la localidad.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/180120_detienen_a_tres_senalados_por_privar_de_la_libertad_a_una_mujer_en_tijuana",
+        "_added_at": "2026-08-09T00:07:51.650130-07:00"
       },
       {
-        "title": "Condenan a 20 años por homicidio en San Quintín",
-        "summary": "Sujeto recibe sentencia máxima por muerte de un hombre en la región de San Quintín.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97828/Dan-20-a%C3%B1os-de-c%C3%A1rcel-por-asesinar-a-un-hombre-en-San-Quint%C3%ADn",
-        "_added_at": "2026-08-08T14:38:11.188312-07:00"
-      },
-      {
-        "title": "Detienen a apoderada legal por presunto huachicol fiscal",
-        "summary": "FGR detiene a apoderada de empresa vinculada a Ruffo por actividades de huachicol fiscal en Tijuana.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/fgr-detiene-a-apoderada-legal-de-empresa-ligada-a-ruffo-por-huachicol-fiscal/?utm_source=rss&utm_medium=rss&utm_campaign=fgr-detiene-a-apoderada-legal-de-empresa-ligada-a-ruffo-por-huachicol-fiscal",
-        "_added_at": "2026-08-08T11:50:27.372788-07:00"
+        "title": "Tráiler choca contra dos vehículos; conductor huye del lugar",
+        "summary": "Accidente vial con fuga del operador deja dos automóviles impactados en Tijuana.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/180124_choca_trailer_contra_dos_vehiculos_conductor_se_dio_a_la_fuga",
+        "_added_at": "2026-08-09T00:07:51.650130-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Diez exfuncionarios de Caballero inhabilitados en una semana",
-        "summary": "Nuevas inhabilidades contra funcionarios de administración anterior en Tijuana.",
+        "title": "Inhabilitan a diez exfuncionarios de administración Caballero",
+        "summary": "Sindicatura sanciona a otros cinco servidores públicos en menos de una semana acumulando diez.",
         "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/inhabilitan-a-otros-cinco-exfuncionarios-de-la-administracion-de-montserrat-caballero-suman-10-en-menos-de-una-semana/",
-        "_added_at": "2026-08-08T19:20:16.404548-07:00"
+        "url": "https://zetatijuana.com/2026/08/inhabilitan-a-otros-cinco-exfuncionarios-de-la-administracion-de-montserrat-caballero-suman-10-en-menos-de-una-semana/?utm_source=rss&utm_medium=rss&utm_campaign=inhabilitan-a-otros-cinco-exfuncionarios-de-la-administracion-de-montserrat-caballero-suman-10-en-menos-de-una-semana",
+        "_added_at": "2026-08-09T00:07:51.650130-07:00"
       },
       {
-        "title": "PRI denuncia pérdida de confianza bajo gobiernos de Morena",
-        "summary": "Priistas celebran foro en Baja California cuestionando administraciones morenistas.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/priistas-acusan-perdida-de-confianza-durante-gobiernos-de-morena-celebran-foro-en-bc/",
-        "_added_at": "2026-08-08T19:20:16.404548-07:00"
+        "title": "Burgueño organiza mitin político en Tijuana con asistentes",
+        "summary": "Funcionario encabeza asamblea masiva en defensa de la transformación y soberanía estatal.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97835/Ismael-Burgue%C3%B1o-encabeza-primer-Asamblea-masiva-en-defensa-de-la-Transformaci%C3%B3n-y-la-soberan%C3%ADa-en-Tijuana",
+        "_added_at": "2026-08-09T00:07:51.650130-07:00"
       },
       {
-        "title": "Burgueño realiza mitin con acarreo de funcionarios",
-        "summary": "Candidato organiza evento masivo con movilización de asistentes en Tijuana.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/burgueno-hace-mitin-con-acarreados-y-funcionarios-en-tijuana/",
-        "_added_at": "2026-08-08T19:20:16.404548-07:00"
-      },
-      {
-        "title": "Abogados piden al Congreso remover a fiscal de Baja California",
-        "summary": "Gremio legal solicita intervención legislativa contra funcionaria judicial.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180114_piden_abogados_al_congreso_su_intervencion_para_remover_a_la_fiscal",
-        "_added_at": "2026-08-08T19:20:16.404548-07:00"
-      },
-      {
-        "title": "FGR detiene apoderada ligada a empresa del exgobernador Ruffo",
-        "summary": "Autoridades capturan a representante legal implicada en esquema de huachicol fiscal relacionado con personaje político.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/fgr-detiene-a-apoderada-legal-de-empresa-ligada-a-ruffo-por-huachicol-fiscal/?utm_source=rss&utm_medium=rss&utm_campaign=fgr-detiene-a-apoderada-legal-de-empresa-ligada-a-ruffo-por-huachicol-fiscal",
-        "_added_at": "2026-08-08T14:38:11.188312-07:00"
-      },
-      {
-        "title": "Priistas denuncian pérdida de confianza bajo gobiernos Morena",
-        "summary": "Oposición realiza foro en BC cuestionando gestión y credibilidad de administración morenista actual.",
+        "title": "Priistas cuestionan confianza durante gobiernos de Morena",
+        "summary": "Partido de oposición realiza foro en BC para criticar gestión actual y plantear alternativas.",
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/08/priistas-acusan-perdida-de-confianza-durante-gobiernos-de-morena-celebran-foro-en-bc/?utm_source=rss&utm_medium=rss&utm_campaign=priistas-acusan-perdida-de-confianza-durante-gobiernos-de-morena-celebran-foro-en-bc",
-        "_added_at": "2026-08-08T14:38:11.188312-07:00"
+        "_added_at": "2026-08-09T00:07:51.650130-07:00"
       },
       {
-        "title": "Denuncian nepotismo en gobierno de Tecate",
-        "summary": "Funcionario local critica prácticas de favoritismo familiar en administración municipal pequeña.",
+        "title": "Abogados piden al Congreso remover a la fiscal estatal",
+        "summary": "Gremio legal solicita intervención legislativa para destituir a la titular de la fiscalía.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180115_hay_nepotismo_en_el_gobierno_porque_tecate_es_una_ciudad_pequena_roman_cota",
-        "_added_at": "2026-08-08T14:38:11.188312-07:00"
-      },
-      {
-        "title": "Pago de 200 mil por permiso apócrifo de corrida de toros",
-        "summary": "Empresario pagó cantidad para permiso falso de corrida; Síndica de Tijuana denuncia irregularidad.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/empresario-pago-200-mil-pesos-por-permiso-para-corrida-de-toros-apocrifo-sindica-de-tijuana/?utm_source=rss&utm_medium=rss&utm_campaign=empresario-pago-200-mil-pesos-por-permiso-para-corrida-de-toros-apocrifo-sindica-de-tijuana",
-        "_added_at": "2026-08-08T11:50:27.372788-07:00"
-      },
-      {
-        "title": "Acto masivo con acarreo para Burgueño pese a advertencia oficial",
-        "summary": "Organización de evento político con transporte de asistentes, contrario a recomendaciones de autoridades.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/contrario-a-recomendacion-de-ariadna-montiel-organizan-acto-masivo-con-acarreo-para-burgueno/?utm_source=rss&utm_medium=rss&utm_campaign=contrario-a-recomendacion-de-ariadna-montiel-organizan-acto-masivo-con-acarreo-para-burgueno",
-        "_added_at": "2026-08-08T11:50:27.372788-07:00"
-      },
-      {
-        "title": "Denuncian ocupación de centro comunitario en Tijuana",
-        "summary": "Sindicatura de Tijuana recibe denuncia por toma de instalaciones públicas en barrio de la Libertad.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/denuncian-en-sindicatura-de-tijuana-toma-del-centro-comunitario-de-la-libertad/?utm_source=rss&utm_medium=rss&utm_campaign=denuncian-en-sindicatura-de-tijuana-toma-del-centro-comunitario-de-la-libertad",
-        "_added_at": "2026-08-08T11:50:27.372788-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/180114_piden_abogados_al_congreso_su_intervencion_para_remover_a_la_fiscal",
+        "_added_at": "2026-08-09T00:07:51.650130-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Proponen formalizar emprendedores ante cierres de negocios",
-        "summary": "Iniciativa busca acompañar y regularizar pequeños empresarios en Baja California.",
+        "title": "Proponen formalizar emprendedores ante cierre de negocios",
+        "summary": "Iniciativa busca acompañar a pequeños empresarios durante crisis económica en Baja California.",
         "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/proponen-acompanar-y-formalizar-a-emprendedores-ante-cierre-de-negocios-en-bc/",
-        "_added_at": "2026-08-08T19:20:16.404548-07:00"
+        "url": "https://zetatijuana.com/2026/08/proponen-acompanar-y-formalizar-a-emprendedores-ante-cierre-de-negocios-en-bc/?utm_source=rss&utm_medium=rss&utm_campaign=proponen-acompanar-y-formalizar-a-emprendedores-ante-cierre-de-negocios-en-bc",
+        "_added_at": "2026-08-09T00:07:51.650130-07:00"
       },
       {
-        "title": "La Cetto celebra 98 años de vendimias en Ensenada",
-        "summary": "Bodega histórica marca aniversario de actividad vitivinícola en región.",
+        "title": "LA Cetto celebra 98 años de tradición vitivinícola",
+        "summary": "Casa vinatera ensenadeña conmemora casi un siglo de producción vinícola regional.",
         "source": "El Mexicano",
         "url": "https://el-mexicano.com.mx/Noticia/Ensenada/97836/Celebra-LA-Cetto-98-a%C3%B1os-de-vendimias",
-        "_added_at": "2026-08-08T19:20:16.404548-07:00"
-      },
-      {
-        "title": "Empresario pagó 200 mil pesos por permiso apócrifo de corrida",
-        "summary": "Sindica denuncia que sujeto desembolsó cantidad por autorización falsa para evento taurino.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/empresario-pago-200-mil-pesos-por-permiso-para-corrida-de-toros-apocrifo-sindica-de-tijuana/?utm_source=rss&utm_medium=rss&utm_campaign=empresario-pago-200-mil-pesos-por-permiso-para-corrida-de-toros-apocrifo-sindica-de-tijuana",
-        "_added_at": "2026-08-08T14:38:11.188312-07:00"
-      },
-      {
-        "title": "Festival Baja Beach Fest impulsa ocupación hotelera en Rosarito",
-        "summary": "Evento turístico genera aumento significativo en ocupación de hospedajes en Rosarito.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Rosarito/97826/Baja-Beach-Fest-dispara-ocupaci%C3%B3n-hotelera-en-Rosarito",
-        "_added_at": "2026-08-08T11:50:27.372788-07:00"
-      },
-      {
-        "title": "Empresas mantienen bajo ausentismo a pesar de retrasos del IMSS",
-        "summary": "Empleadores reportan bajo ausentismo laboral pese a problemas administrativos de seguridad social.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180110_empresas_mantienen_bajo_ausentismo_pese_a_retrasos_del_imss_arhitac",
-        "_added_at": "2026-08-08T11:50:27.372788-07:00"
-      },
-      {
-        "title": "Exportaciones de maquiladoras en Tecate caen 37%",
-        "summary": "Sector industrial de Tecate experimenta desplome significativo en ventas al exterior.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/empresarial/180095_se_hunden_37_exportaciones_de_maquiladoras_en_tecate",
-        "_added_at": "2026-08-08T08:36:57.964337-07:00"
-      },
-      {
-        "title": "Ayuntamientos reclaman 716 millones al gobierno BC",
-        "summary": "Municipios adeudan recursos económicos del estado que limitan presupuestos locales.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/empresarial/180094_ayuntamientos_deben_cobrar_716_mdp_al_gobierno_de_bc",
-        "_added_at": "2026-08-08T08:36:57.964337-07:00"
-      },
-      {
-        "title": "Empresario pagó permiso apócrifo para corrida",
-        "summary": "Sindica denuncia que pagó doscientos mil pesos por autorización falsa para evento taurino.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/empresario-pago-200-mil-pesos-por-permiso-para-corrida-de-toros-apocrifo-sindica-de-tijuana/",
-        "_added_at": "2026-08-08T00:04:59.955617-07:00"
-      },
-      {
-        "title": "Sader entrega apoyos ganadería integral Mexicali",
-        "summary": "Gobierno federal reparte recursos para fortalecer infraestructura del sector pecuario regional.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97806/Entrega-Sader-apoyos-del-programa-ganader%C3%ADa-integral",
-        "_added_at": "2026-08-08T00:04:59.955617-07:00"
+        "_added_at": "2026-08-09T00:07:51.650130-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Baja Beach Fest 2026 abre puertas en Rosarito",
-        "summary": "Festival de playa inicia primer día de actividades en Rosarito con apertura de acceso a público.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Rosarito/97814/Rosarito-listo-para-el-primer-d%C3%ADa-del-Baja-Beach-Fest-2026",
-        "_added_at": "2026-08-08T21:24:19.668426-07:00"
+        "title": "Colonias tijuanenses sin agua por avería en booster El Carrizo",
+        "summary": "Falla en infraestructura hidráulica deja sin servicio a múltiples sectores de población.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/colonias-de-tijuana-afectadas-por-averia-en-el-booster-el-carrizo-siguen-sin-agua/?utm_source=rss&utm_medium=rss&utm_campaign=colonias-de-tijuana-afectadas-por-averia-en-el-booster-el-carrizo-siguen-sin-agua",
+        "_added_at": "2026-08-09T00:07:51.650130-07:00"
       },
       {
-        "title": "Proyectos de arte urbano recuperan espacios comunitarios en Tijuana",
-        "summary": "Iniciativas de murales y arte revitalizan zonas públicas de la ciudad.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97834/Proyecto-Tijuana-y-Ruta-de-la-Paz-impulsan-el-arte-urbano-y-la-recuperaci%C3%B3n-de-espacios-comunitarios",
-        "_added_at": "2026-08-08T19:20:16.404548-07:00"
-      },
-      {
-        "title": "Callejón del Travieso renace con murales y códigos QR",
-        "summary": "Zona Centro de Tijuana revitaliza históricamente con arte interactivo y digital.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97833/Murales-y-c%C3%B3digos-QR-que-cuentan-su-historia-dan-nueva-vida-al-Callej%C3%B3n-del-Travieso-en-la-Zona-Centro",
-        "_added_at": "2026-08-08T19:20:16.404548-07:00"
-      },
-      {
-        "title": "Parque Esperanto ofrece 364 hectáreas de esparcimiento familiar",
-        "summary": "Área verde de Tijuana se posiciona como destino recreativo comunitario.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97830/Parque-Esperanto,-364-hect%C3%A1reas-para-disfrutar-en-familia",
-        "_added_at": "2026-08-08T19:20:16.404548-07:00"
-      },
-      {
-        "title": "Profepa investiga descargas que contaminan Río Tijuana y playas",
-        "summary": "Autoridades ambientales revisan vertimientos industriales afectando cuerpos de agua costeros.",
+        "title": "Profepa investiga contaminación industrial en río y playas",
+        "summary": "Descargas industriales afectan ecosistemas del Río Tijuana y litoral costero de BC.",
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/180116_profepa_investiga_descargas_industriales_que_contaminan_el_rio_tijuana_y_playas_de_bc",
-        "_added_at": "2026-08-08T14:38:11.188312-07:00"
+        "_added_at": "2026-08-09T00:07:51.650130-07:00"
       },
       {
-        "title": "Denuncian toma de centro comunitario en Tijuana",
-        "summary": "Sindicatura reporta ocupación ilegal de instalaciones recreativas de la colonia La Libertad.",
+        "title": "Denuncian toma de centro comunitario en la Libertad",
+        "summary": "Sindicatura de Tijuana recibe reporte sobre ocupación irregular de espacio comunitario.",
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/08/denuncian-en-sindicatura-de-tijuana-toma-del-centro-comunitario-de-la-libertad/?utm_source=rss&utm_medium=rss&utm_campaign=denuncian-en-sindicatura-de-tijuana-toma-del-centro-comunitario-de-la-libertad",
-        "_added_at": "2026-08-08T14:38:11.188312-07:00"
+        "_added_at": "2026-08-09T00:07:51.650130-07:00"
       },
       {
-        "title": "Plantean retomar convenio con prepas privadas para jóvenes",
-        "summary": "Propuesta para absorber estudiantes sin lugar en escuelas públicas mediante alianzas privadas.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180112_plantean_retomar_convenio_con_prepas_privadas_para_atender_a_jovenes_sin_lugar_en_escuelas_publicas",
-        "_added_at": "2026-08-08T14:38:11.188312-07:00"
-      },
-      {
-        "title": "Agua potable en San Vicente; autoridades muestran voluntad",
-        "summary": "Claudia Agatón reconoce disposición de gobierno para llevar agua potable a comunidad de San Vicente.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180109_reconoce_claudia_agaton_voluntad_de_autoridades_para_llevar_agua_potable_a_san_vicente",
-        "_added_at": "2026-08-08T11:50:27.372788-07:00"
-      },
-      {
-        "title": "Joven con quemaduras al intentar sofocar fuga de gas",
-        "summary": "Incidente por escape de gas en Nueva Tijuana causa lesiones a persona que intentó contener el fuego.",
+        "title": "Proyecto Tijuana impulsa arte urbano y recuperación comunitaria",
+        "summary": "Iniciativas de Ruta de la Paz transforman espacios públicos mediante intervenciones artísticas.",
         "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97823/Joven-resulta-con-quemaduras-tras-intentar-sofocar-incendio-por-fuga-de-gas-en-Nueva-Tijuana",
-        "_added_at": "2026-08-08T11:50:27.372788-07:00"
-      },
-      {
-        "title": "Vehículo fuera de control atropella a tres en Zona Centro",
-        "summary": "Conductor pierde el dominio de auto e impacta a tres personas en centro comercial de Tijuana.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97821/Veh%C3%ADculo-atropella-a-tres-personas-tras-impactarse-contra-una-est%C3%A9tica-en-Zona-Centro",
-        "_added_at": "2026-08-08T11:50:27.372788-07:00"
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97834/Proyecto-Tijuana-y-Ruta-de-la-Paz-impulsan-el-arte-urbano-y-la-recuperaci%C3%B3n-de-espacios-comunitarios",
+        "_added_at": "2026-08-09T00:07:51.650130-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-08T21:24:19.668426-07:00"
+  "last_updated": "2026-08-09T00:07:51.650130-07:00"
 }
