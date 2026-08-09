@@ -1,8 +1,36 @@
 {
   "date": "2026-08-08",
-  "run_count": 6,
+  "run_count": 7,
   "notes": {
     "seguridad": [
+      {
+        "title": "Doble homicidio registrado en viernes violento en Tijuana",
+        "summary": "Dos personas fueron asesinadas durante jornada de violencia en la ciudad fronteriza.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/viernes-violento-en-tijuana-deja-doble-homicidio/",
+        "_added_at": "2026-08-08T19:20:16.404548-07:00"
+      },
+      {
+        "title": "Nueve detenidos en red de huachicol ligada a Ruffo",
+        "summary": "Autoridades detienen a múltiples personas vinculadas a esquema de combustible ilegal.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/180123_suman_nueve_detenidos_por_presunta_red_de_huachicol_ligada_a_ruffo",
+        "_added_at": "2026-08-08T19:20:16.404548-07:00"
+      },
+      {
+        "title": "Tres capturados por privación de libertad en Tijuana",
+        "summary": "Policía detiene a presuntos secuestradores tras liberación de mujer víctima.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97832/Liberan-a-mujer-privada-de-su-libertad,-detiene-a-sus-secuestradores",
+        "_added_at": "2026-08-08T19:20:16.404548-07:00"
+      },
+      {
+        "title": "Hombre herido en ataque armado en Buenos Aires Norte",
+        "summary": "Víctima de disparos reportada en zona residencial de Tijuana.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97837/Hombre-resulta-herido-tras-ataque-armado-en-Buenos-Aires-Norte",
+        "_added_at": "2026-08-08T19:20:16.404548-07:00"
+      },
       {
         "title": "Viernes violento en Tijuana con doble homicidio",
         "summary": "Dos personas fueron asesinadas en hechos violentos registrados en Tijuana durante la jornada del viernes.",
@@ -44,37 +72,37 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/seguridad/180103_ejecutan_a_balazos_a_un_joven_en_tecate",
         "_added_at": "2026-08-08T11:50:27.372788-07:00"
-      },
-      {
-        "title": "Hombre asesinado en Valle San Pedro durante carreras ilegales",
-        "summary": "Homicidio en Valle San Pedro; autoridades investigan nexo con actividades clandestinas de carreras.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/180101_asesinan_a_un_hombre_en_valle_de_san_pedro_en_el_lugar_habia_carreras_clandestinas",
-        "_added_at": "2026-08-08T11:50:27.372788-07:00"
-      },
-      {
-        "title": "Vendedor de nieves ejecutado; sin vínculos ilícitos aparentes",
-        "summary": "FGR no encuentra conexión con crimen organizado en ejecución de vendedor ambulante en Tijuana.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97825/Ejecuci%C3%B3n-de-vendedor-de-nieves;-FGR-no-encuentra-v%C3%ADnculos-con-actividades-il%C3%ADcitas",
-        "_added_at": "2026-08-08T11:50:27.372788-07:00"
-      },
-      {
-        "title": "Queman vehículo con manta en Rosarito",
-        "summary": "Incendian automóvil y dejan mensaje dirigido a funcionarios municipales en Rosarito.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97815/Queman-veh%C3%ADculo-y-dejan-manta-dirigida-contra-funcionarios-de-Rosarito",
-        "_added_at": "2026-08-08T08:36:57.964337-07:00"
-      },
-      {
-        "title": "Vinculan a proceso al R1 por cargos distintos",
-        "summary": "Presunto delincuente R1 fue vinculado a proceso pero no por homicidio de Carlos Manzo.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/vinculan-a-proceso-al-r1-pero-no-por-el-homicidio-de-carlos-manzo/",
-        "_added_at": "2026-08-08T00:04:59.955617-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Diez exfuncionarios de Caballero inhabilitados en una semana",
+        "summary": "Nuevas inhabilidades contra funcionarios de administración anterior en Tijuana.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/inhabilitan-a-otros-cinco-exfuncionarios-de-la-administracion-de-montserrat-caballero-suman-10-en-menos-de-una-semana/",
+        "_added_at": "2026-08-08T19:20:16.404548-07:00"
+      },
+      {
+        "title": "PRI denuncia pérdida de confianza bajo gobiernos de Morena",
+        "summary": "Priistas celebran foro en Baja California cuestionando administraciones morenistas.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/priistas-acusan-perdida-de-confianza-durante-gobiernos-de-morena-celebran-foro-en-bc/",
+        "_added_at": "2026-08-08T19:20:16.404548-07:00"
+      },
+      {
+        "title": "Burgueño realiza mitin con acarreo de funcionarios",
+        "summary": "Candidato organiza evento masivo con movilización de asistentes en Tijuana.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/burgueno-hace-mitin-con-acarreados-y-funcionarios-en-tijuana/",
+        "_added_at": "2026-08-08T19:20:16.404548-07:00"
+      },
+      {
+        "title": "Abogados piden al Congreso remover a fiscal de Baja California",
+        "summary": "Gremio legal solicita intervención legislativa contra funcionaria judicial.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180114_piden_abogados_al_congreso_su_intervencion_para_remover_a_la_fiscal",
+        "_added_at": "2026-08-08T19:20:16.404548-07:00"
+      },
       {
         "title": "FGR detiene apoderada ligada a empresa del exgobernador Ruffo",
         "summary": "Autoridades capturan a representante legal implicada en esquema de huachicol fiscal relacionado con personaje político.",
@@ -116,37 +144,23 @@
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/08/denuncian-en-sindicatura-de-tijuana-toma-del-centro-comunitario-de-la-libertad/?utm_source=rss&utm_medium=rss&utm_campaign=denuncian-en-sindicatura-de-tijuana-toma-del-centro-comunitario-de-la-libertad",
         "_added_at": "2026-08-08T11:50:27.372788-07:00"
-      },
-      {
-        "title": "Ovando en la cuerda floja por apoyo a Macalpin",
-        "summary": "Funcionario enfrenta presión política tras respaldar a candidato cuestionado.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180084_ovando_en_la_cuerda_floja_por_su_apoyo_a_macalpin",
-        "_added_at": "2026-08-08T08:36:57.964337-07:00"
-      },
-      {
-        "title": "Moreira: elección 2027 será contra Morena y narco",
-        "summary": "Político opositor plantea batalla electoral frente a gobierno y crimen organizado.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180092_eleccion_del_2027_sera_contra_morena_y_contra_el_narco_moreira",
-        "_added_at": "2026-08-08T06:04:27.072712-07:00"
-      },
-      {
-        "title": "Protesta contra ICE por detenciones migrantes",
-        "summary": "Queman piñatas en Tijuana en rechazo a operativos de deportación.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180081_queman_pinatas_de_ice_en_tijuana_en_protesta_por_detencion_de_migrantes",
-        "_added_at": "2026-08-08T02:46:22.484675-07:00"
-      },
-      {
-        "title": "Disputan acto masivo pese recomendación oficial",
-        "summary": "Organizan mitin con acarreo para Burgueño contrario a indicaciones de autoridades federales.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/contrario-a-recomendacion-de-ariadna-montiel-organizan-acto-masivo-con-acarreo-para-burgueno/",
-        "_added_at": "2026-08-08T00:04:59.955617-07:00"
       }
     ],
     "economia": [
+      {
+        "title": "Proponen formalizar emprendedores ante cierres de negocios",
+        "summary": "Iniciativa busca acompañar y regularizar pequeños empresarios en Baja California.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/proponen-acompanar-y-formalizar-a-emprendedores-ante-cierre-de-negocios-en-bc/",
+        "_added_at": "2026-08-08T19:20:16.404548-07:00"
+      },
+      {
+        "title": "La Cetto celebra 98 años de vendimias en Ensenada",
+        "summary": "Bodega histórica marca aniversario de actividad vitivinícola en región.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Ensenada/97836/Celebra-LA-Cetto-98-a%C3%B1os-de-vendimias",
+        "_added_at": "2026-08-08T19:20:16.404548-07:00"
+      },
       {
         "title": "Empresario pagó 200 mil pesos por permiso apócrifo de corrida",
         "summary": "Sindica denuncia que sujeto desembolsó cantidad por autorización falsa para evento taurino.",
@@ -199,6 +213,27 @@
     ],
     "sociedad": [
       {
+        "title": "Proyectos de arte urbano recuperan espacios comunitarios en Tijuana",
+        "summary": "Iniciativas de murales y arte revitalizan zonas públicas de la ciudad.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97834/Proyecto-Tijuana-y-Ruta-de-la-Paz-impulsan-el-arte-urbano-y-la-recuperaci%C3%B3n-de-espacios-comunitarios",
+        "_added_at": "2026-08-08T19:20:16.404548-07:00"
+      },
+      {
+        "title": "Callejón del Travieso renace con murales y códigos QR",
+        "summary": "Zona Centro de Tijuana revitaliza históricamente con arte interactivo y digital.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97833/Murales-y-c%C3%B3digos-QR-que-cuentan-su-historia-dan-nueva-vida-al-Callej%C3%B3n-del-Travieso-en-la-Zona-Centro",
+        "_added_at": "2026-08-08T19:20:16.404548-07:00"
+      },
+      {
+        "title": "Parque Esperanto ofrece 364 hectáreas de esparcimiento familiar",
+        "summary": "Área verde de Tijuana se posiciona como destino recreativo comunitario.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97830/Parque-Esperanto,-364-hect%C3%A1reas-para-disfrutar-en-familia",
+        "_added_at": "2026-08-08T19:20:16.404548-07:00"
+      },
+      {
         "title": "Profepa investiga descargas que contaminan Río Tijuana y playas",
         "summary": "Autoridades ambientales revisan vertimientos industriales afectando cuerpos de agua costeros.",
         "source": "AFN Tijuana",
@@ -246,29 +281,8 @@
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/08/a-13-anos-del-primer-campamento-migrante-persisten-rezagos-en-atencion-a-deportados/?utm_source=rss&utm_medium=rss&utm_campaign=a-13-anos-del-primer-campamento-migrante-persisten-rezagos-en-atencion-a-deportados",
         "_added_at": "2026-08-08T11:50:27.372788-07:00"
-      },
-      {
-        "title": "Sindicatura actúa contra policías sin cámara corporal",
-        "summary": "Tijuana implementa medidas disciplinarias para vigilancia de elementos de seguridad.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180086_procedera_sindicatura_contra_policias_que_no_porten_su_camara_corporal",
-        "_added_at": "2026-08-08T08:36:57.964337-07:00"
-      },
-      {
-        "title": "Protestan quemando piñatas de ICE en Tijuana",
-        "summary": "Ciudadanos manifiestan rechazo a detenciones migratorias estadounidenses.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180081_queman_pinatas_de_ice_en_tijuana_en_protesta_por_detencion_de_migrantes",
-        "_added_at": "2026-08-08T06:04:27.072712-07:00"
-      },
-      {
-        "title": "Regresa agua gradualmente a Tijuana partir sábado",
-        "summary": "Autoridades anuncian normalización progresiva del suministro tras cortes recientes.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97812/Regresar%C3%A1-el-agua-a-Tijuana-de-manera-gradual-a-partir-del-s%C3%A1bado",
-        "_added_at": "2026-08-08T00:04:59.955617-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-08T14:38:11.188312-07:00"
+  "last_updated": "2026-08-08T19:20:16.404548-07:00"
 }
