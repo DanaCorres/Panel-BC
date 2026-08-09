@@ -1,8 +1,15 @@
 {
   "date": "2026-08-09",
-  "run_count": 4,
+  "run_count": 5,
   "notes": {
     "seguridad": [
+      {
+        "title": "FGR detiene a abogada por esquema de huachicol ligado a Ruffo",
+        "summary": "Autoridades capturaron a apoderada legal de empresa vinculada a presunto fraude fiscal y robo de combustible.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/fgr-detiene-a-apoderada-legal-de-empresa-ligada-a-ruffo-por-huachicol-fiscal/",
+        "_added_at": "2026-08-09T11:52:42.457925-07:00"
+      },
       {
         "title": "Homicidio en Cañadas del Florido deja un fallecido",
         "summary": "Hombre asesinado a balazos en zona residencial de Tijuana.",
@@ -47,6 +54,13 @@
       }
     ],
     "politica": [
+      {
+        "title": "Burgueño realiza mitin con funcionarios en Tijuana",
+        "summary": "Candidato o funcionario convoca evento político en municipio acarreando asistentes.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/burgueno-hace-mitin-con-acarreados-y-funcionarios-en-tijuana/",
+        "_added_at": "2026-08-09T11:52:42.457925-07:00"
+      },
       {
         "title": "Burgueño realiza mitin con funcionarios en Tijuana",
         "summary": "Candidato políticos realiza evento masivo con autoridades y asistentes en la ciudad.",
@@ -136,6 +150,20 @@
     ],
     "sociedad": [
       {
+        "title": "Denuncian toma del centro comunitario La Libertad Tijuana",
+        "summary": "Ciudadanos reportan ocupación irregular de espacio público de uso social en la capital.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/denuncian-en-sindicatura-de-tijuana-toma-del-centro-comunitario-de-la-libertad/",
+        "_added_at": "2026-08-09T11:52:42.457925-07:00"
+      },
+      {
+        "title": "Expertos piden atender a pueblos originarios de BC",
+        "summary": "Alfredo Álvarez urge implementar políticas prioritarias para comunidades indígenas de la región.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180127_es_urgente_atender_a_los_pueblos_originarios_de_bc_alfredo_alvarez",
+        "_added_at": "2026-08-09T11:52:42.457925-07:00"
+      },
+      {
         "title": "Miles disfrutan del Baja Beach Fest en Rosarito",
         "summary": "Festival de música y entretenimiento atrae a gran cantidad de visitantes a balneario.",
         "source": "El Mexicano",
@@ -190,15 +218,8 @@
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/08/denuncian-en-sindicatura-de-tijuana-toma-del-centro-comunitario-de-la-libertad/?utm_source=rss&utm_medium=rss&utm_campaign=denuncian-en-sindicatura-de-tijuana-toma-del-centro-comunitario-de-la-libertad",
         "_added_at": "2026-08-09T00:07:51.650130-07:00"
-      },
-      {
-        "title": "Proyecto Tijuana impulsa arte urbano y recuperación comunitaria",
-        "summary": "Iniciativas de Ruta de la Paz transforman espacios públicos mediante intervenciones artísticas.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97834/Proyecto-Tijuana-y-Ruta-de-la-Paz-impulsan-el-arte-urbano-y-la-recuperaci%C3%B3n-de-espacios-comunitarios",
-        "_added_at": "2026-08-09T00:07:51.650130-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-09T08:39:06.447834-07:00"
+  "last_updated": "2026-08-09T11:52:42.457925-07:00"
 }
