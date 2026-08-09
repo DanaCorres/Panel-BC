@@ -1,8 +1,29 @@
 {
   "date": "2026-08-09",
-  "run_count": 5,
+  "run_count": 6,
   "notes": {
     "seguridad": [
+      {
+        "title": "101 desaparecidos en Tecate; madres exigen respuestas",
+        "summary": "Madres de desaparecidos en Tecate claman por información y justicia ante cifra de 101 personas extraviadas.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/101-desaparecidos-en-tecate-madres-claman-informacion-y-justicia/?utm_source=rss&utm_medium=rss&utm_campaign=101-desaparecidos-en-tecate-madres-claman-informacion-y-justicia",
+        "_added_at": "2026-08-09T14:40:25.124427-07:00"
+      },
+      {
+        "title": "Asesinan a hombre a balazos en Cañadas del Florido",
+        "summary": "Homicidio registrado en zona residencial de Cañadas del Florido, Tijuana.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/180139_asesinan_a_balazos_a_un_hombre_en_canadas_del_florido",
+        "_added_at": "2026-08-09T14:40:25.124427-07:00"
+      },
+      {
+        "title": "Detienen a tres con droga y arma de fuego",
+        "summary": "Operativo policial asegura a tres personas en posesión de drogas y armamento.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/180140_detienen_a_tres_en_posesion_de_droga_y_un_arma_de_fuego",
+        "_added_at": "2026-08-09T14:40:25.124427-07:00"
+      },
       {
         "title": "FGR detiene a abogada por esquema de huachicol ligado a Ruffo",
         "summary": "Autoridades capturaron a apoderada legal de empresa vinculada a presunto fraude fiscal y robo de combustible.",
@@ -54,6 +75,13 @@
       }
     ],
     "politica": [
+      {
+        "title": "Jueza ordena prisión preventiva a apoderada por huachicol",
+        "summary": "Detención de apoderada legal de empresa vinculada a Ruffo por fraude fiscal.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/jueza-dicta-prision-preventiva-a-apoderada-legal-de-empresa-de-ruffo-por-huachicol-fiscal/?utm_source=rss&utm_medium=rss&utm_campaign=jueza-dicta-prision-preventiva-a-apoderada-legal-de-empresa-de-ruffo-por-huachicol-fiscal",
+        "_added_at": "2026-08-09T14:40:25.124427-07:00"
+      },
       {
         "title": "Burgueño realiza mitin con funcionarios en Tijuana",
         "summary": "Candidato o funcionario convoca evento político en municipio acarreando asistentes.",
@@ -120,6 +148,20 @@
     ],
     "economia": [
       {
+        "title": "Planta Tecolote-La Gloria recibe fondos pero sigue sin construirse",
+        "summary": "Proyecto de tratamiento ha obtenido financiamiento internacional triple sin avance concreto.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/planta-tecolote-la-gloria-ha-recibido-tres-veces-fondos-internacionales-y-sigue-sin-concretarse/?utm_source=rss&utm_medium=rss&utm_campaign=planta-tecolote-la-gloria-ha-recibido-tres-veces-fondos-internacionales-y-sigue-sin-concretarse",
+        "_added_at": "2026-08-09T14:40:25.124427-07:00"
+      },
+      {
+        "title": "Inversion china por 750 mil mdp en 27 estados incluye Tijuana",
+        "summary": "Anuncio de inversión extranjera masiva beneficia a Baja California con capitales asiáticos.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180136_anuncian_inversion_china_por_750_mil_mdp_en_27_estados_de_mexico_alcanza_a_tijuana",
+        "_added_at": "2026-08-09T14:40:25.124427-07:00"
+      },
+      {
         "title": "Profepa investiga contaminación en río y playas de BC",
         "summary": "Autoridades ambientales analizan descargas industriales que afectan Río Tijuana y balnearios.",
         "source": "AFN Tijuana",
@@ -149,6 +191,13 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Rescatan a niño de dos años viviendo en condiciones insalubres",
+        "summary": "Menor hallado caminando solo en Maneadero sin cuidados básicos en vivienda inadecuada.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180138_recatan_a_nino_de_2_anos_caminando_solo_en_maneadero_vivia_en_condiciones_insalubres",
+        "_added_at": "2026-08-09T14:40:25.124427-07:00"
+      },
       {
         "title": "Denuncian toma del centro comunitario La Libertad Tijuana",
         "summary": "Ciudadanos reportan ocupación irregular de espacio público de uso social en la capital.",
@@ -211,15 +260,8 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/180116_profepa_investiga_descargas_industriales_que_contaminan_el_rio_tijuana_y_playas_de_bc",
         "_added_at": "2026-08-09T00:07:51.650130-07:00"
-      },
-      {
-        "title": "Denuncian toma de centro comunitario en la Libertad",
-        "summary": "Sindicatura de Tijuana recibe reporte sobre ocupación irregular de espacio comunitario.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/denuncian-en-sindicatura-de-tijuana-toma-del-centro-comunitario-de-la-libertad/?utm_source=rss&utm_medium=rss&utm_campaign=denuncian-en-sindicatura-de-tijuana-toma-del-centro-comunitario-de-la-libertad",
-        "_added_at": "2026-08-09T00:07:51.650130-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-09T11:52:42.457925-07:00"
+  "last_updated": "2026-08-09T14:40:25.124427-07:00"
 }

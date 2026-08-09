@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-08-09T18:52:41.934742+00:00",
+  "generated_at": "2026-08-09T21:40:24.321823+00:00",
   "items": [
+    {
+      "source": "ZETA Tijuana",
+      "title": "Planta Tecolote-La Gloria ha recibido tres veces fondos internacionales y sigue sin concretarse",
+      "url": "https://zetatijuana.com/2026/08/planta-tecolote-la-gloria-ha-recibido-tres-veces-fondos-internacionales-y-sigue-sin-concretarse/?utm_source=rss&utm_medium=rss&utm_campaign=planta-tecolote-la-gloria-ha-recibido-tres-veces-fondos-internacionales-y-sigue-sin-concretarse",
+      "published": "Sun, 09 Aug 2026 20:34:17 +0000"
+    },
+    {
+      "source": "ZETA Tijuana",
+      "title": "101 desaparecidos en Tecate; madres claman información y justicia",
+      "url": "https://zetatijuana.com/2026/08/101-desaparecidos-en-tecate-madres-claman-informacion-y-justicia/?utm_source=rss&utm_medium=rss&utm_campaign=101-desaparecidos-en-tecate-madres-claman-informacion-y-justicia",
+      "published": "Sun, 09 Aug 2026 20:00:42 +0000"
+    },
+    {
+      "source": "ZETA Tijuana",
+      "title": "Jueza dicta prisión preventiva a apoderada legal de empresa de Ruffo, por huachicol fiscal",
+      "url": "https://zetatijuana.com/2026/08/jueza-dicta-prision-preventiva-a-apoderada-legal-de-empresa-de-ruffo-por-huachicol-fiscal/?utm_source=rss&utm_medium=rss&utm_campaign=jueza-dicta-prision-preventiva-a-apoderada-legal-de-empresa-de-ruffo-por-huachicol-fiscal",
+      "published": "Sun, 09 Aug 2026 19:23:25 +0000"
+    },
     {
       "source": "ZETA Tijuana",
       "title": "Toros se llevan el primero de los playoffs",
@@ -44,22 +62,46 @@
       "published": "Sat, 08 Aug 2026 20:01:43 +0000"
     },
     {
-      "source": "ZETA Tijuana",
-      "title": "FGR detiene a apoderada legal de empresa ligada a Ruffo por huachicol fiscal",
-      "url": "https://zetatijuana.com/2026/08/fgr-detiene-a-apoderada-legal-de-empresa-ligada-a-ruffo-por-huachicol-fiscal/?utm_source=rss&utm_medium=rss&utm_campaign=fgr-detiene-a-apoderada-legal-de-empresa-ligada-a-ruffo-por-huachicol-fiscal",
-      "published": "Sat, 08 Aug 2026 18:04:56 +0000"
+      "source": "AFN Tijuana",
+      "title": "Detienen a tres en posesión de droga y un arma de fuego",
+      "url": "https://www.afntijuana.info/seguridad/180140_detienen_a_tres_en_posesion_de_droga_y_un_arma_de_fuego",
+      "published": ""
     },
     {
-      "source": "ZETA Tijuana",
-      "title": "Denuncian en Sindicatura de Tijuana toma del centro comunitario de la Libertad",
-      "url": "https://zetatijuana.com/2026/08/denuncian-en-sindicatura-de-tijuana-toma-del-centro-comunitario-de-la-libertad/?utm_source=rss&utm_medium=rss&utm_campaign=denuncian-en-sindicatura-de-tijuana-toma-del-centro-comunitario-de-la-libertad",
-      "published": "Sat, 08 Aug 2026 17:12:39 +0000"
+      "source": "AFN Tijuana",
+      "title": "Asesinan a balazos a un hombre en Cañadas del Florido",
+      "url": "https://www.afntijuana.info/seguridad/180139_asesinan_a_balazos_a_un_hombre_en_canadas_del_florido",
+      "published": ""
     },
     {
-      "source": "ZETA Tijuana",
-      "title": "Transparencia a medias y por decreto",
-      "url": "https://zetatijuana.com/2026/08/transparencia-a-medias-y-por-decreto/?utm_source=rss&utm_medium=rss&utm_campaign=transparencia-a-medias-y-por-decreto",
-      "published": "Sat, 08 Aug 2026 16:00:44 +0000"
+      "source": "AFN Tijuana",
+      "title": "Recatan a niño de 2 años caminando solo en Maneadero; vivía en condiciones insalubres",
+      "url": "https://www.afntijuana.info/informacion_general/180138_recatan_a_nino_de_2_anos_caminando_solo_en_maneadero_vivia_en_condiciones_insalubres",
+      "published": ""
+    },
+    {
+      "source": "AFN Tijuana",
+      "title": "Van por la segunda parte de interesados por la gubernatura en Morena",
+      "url": "https://www.afntijuana.info/informacion_general/180137_van_por_la_segunda_parte_de_interesados_por_la_gubernatura_en_morena",
+      "published": ""
+    },
+    {
+      "source": "AFN Tijuana",
+      "title": "Anuncian inversión china por 750 mil mdp en 27 estados de México; alcanza a Tijuana",
+      "url": "https://www.afntijuana.info/informacion_general/180136_anuncian_inversion_china_por_750_mil_mdp_en_27_estados_de_mexico_alcanza_a_tijuana",
+      "published": ""
+    },
+    {
+      "source": "AFN Tijuana",
+      "title": "Buscan empleado de mantenimiento en el consulado de EU en Tijuana",
+      "url": "https://www.afntijuana.info/informacion_general/180135_buscan_empleado_de_mantenimiento_en_el_consulado_de_eu_en_tijuana",
+      "published": ""
+    },
+    {
+      "source": "AFN Tijuana",
+      "title": "Viuda de Carlos Manzo denuncia embestida política y mediática en su contra",
+      "url": "https://www.afntijuana.info/informacion_general/180134_viuda_de_carlos_manzo_denuncia_embestida_politica_y_mediatica_en_su_contra",
+      "published": ""
     },
     {
       "source": "AFN Tijuana",
@@ -110,45 +152,51 @@
       "published": ""
     },
     {
-      "source": "AFN Tijuana",
-      "title": "Inhabilita la sindicatura a otros cinco ex funcionarios de Monserrat; suman diez en tres días",
-      "url": "https://www.afntijuana.info/informacion_general/180125_inhabilita_la_sindicatura_a_otros_cinco_ex_funcionarios_de_monserrat_suman_diez_en_tres_dias",
+      "source": "El Mexicano",
+      "title": "Destacan riqueza cultural y turística de los pueblos originarios de BCTijuana |9 de agosto",
+      "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97853/Destacan-riqueza-cultural-y-tur%C3%ADstica-de-los-pueblos-originarios-de-BC",
       "published": ""
     },
     {
-      "source": "AFN Tijuana",
-      "title": "Choca tráiler contra dos vehículos, conductor se dio a la fuga",
-      "url": "https://www.afntijuana.info/seguridad/180124_choca_trailer_contra_dos_vehiculos_conductor_se_dio_a_la_fuga",
+      "source": "El Mexicano",
+      "title": "Destacan riqueza cultural y turística de los pueblos originarios de BCTijuana| domingo 09 de agosto",
+      "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97853/Destacan-riqueza-cultural-y-tur%C3%ADstica-de-los-pueblos-originarios-de-BC",
       "published": ""
     },
     {
-      "source": "AFN Tijuana",
-      "title": "Suman nueve detenidos por presunta red de huachicol ligada a Ruffo",
-      "url": "https://www.afntijuana.info/seguridad/180123_suman_nueve_detenidos_por_presunta_red_de_huachicol_ligada_a_ruffo",
+      "source": "El Mexicano",
+      "title": "Cielo totalmente despejado este domingo en TijuanaTijuana |9 de agosto",
+      "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97852/Cielo-totalmente-despejado-este-domingo-en-Tijuana",
       "published": ""
     },
     {
-      "source": "AFN Tijuana",
-      "title": "Habrá reelección para diputados federales ¿Y los estatales?",
-      "url": "https://www.afntijuana.info/afn_politico/180122_habra_reeleccion_para_diputados_federales_iy_los_estatales",
+      "source": "El Mexicano",
+      "title": "Cielo totalmente despejado este domingo en TijuanaTijuana| domingo 09 de agosto",
+      "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97852/Cielo-totalmente-despejado-este-domingo-en-Tijuana",
       "published": ""
     },
     {
-      "source": "AFN Tijuana",
-      "title": "Anuncian cambios en mandos operativos de la FGE",
-      "url": "https://www.afntijuana.info/informacion_general/180121_anuncian_cambios_en_mandos_operativos_de_la_fge",
+      "source": "El Mexicano",
+      "title": "Cruce vehicular en la garita de San YsidroTijuana |9 de agosto",
+      "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97851/Cruce-vehicular-en-la-garita-de-San-Ysidro",
       "published": ""
     },
     {
-      "source": "AFN Tijuana",
-      "title": "Detienen a tres señalados por privar de la libertad a una mujer en Tijuana",
-      "url": "https://www.afntijuana.info/seguridad/180120_detienen_a_tres_senalados_por_privar_de_la_libertad_a_una_mujer_en_tijuana",
+      "source": "El Mexicano",
+      "title": "Cruce vehicular en la garita de San YsidroTijuana| domingo 09 de agosto",
+      "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97851/Cruce-vehicular-en-la-garita-de-San-Ysidro",
       "published": ""
     },
     {
-      "source": "AFN Tijuana",
-      "title": "Hasta 80 metros de profundidad: el riesgo de nadar en la presa Las Auras",
-      "url": "https://www.afntijuana.info/informacion_general/180119_hasta_80_metros_de_profundidad_el_riesgo_de_nadar_en_la_presa_las_auras",
+      "source": "El Mexicano",
+      "title": "Cotización del dólar este domingo en casas de cambio de la ciudad de TijuanaTijuana |9 de agosto",
+      "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97850/Cotizaci%C3%B3n-del-d%C3%B3lar-este-domingo-en-casas-de-cambio-de-la-ciudad-de-Tijuana",
+      "published": ""
+    },
+    {
+      "source": "El Mexicano",
+      "title": "Cotización del dólar este domingo en casas de cambio de la ciudad de TijuanaTijuana| domingo 09 de agosto",
+      "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97850/Cotizaci%C3%B3n-del-d%C3%B3lar-este-domingo-en-casas-de-cambio-de-la-ciudad-de-Tijuana",
       "published": ""
     },
     {
@@ -177,54 +225,6 @@
     },
     {
       "source": "El Mexicano",
-      "title": "China emite alerta roja por tifón ‘Dolphin’Mundo |9 de agosto",
-      "url": "https://el-mexicano.com.mx/Noticia/Mundo/97847/China-emite-alerta-roja-por-tif%C3%B3n-%E2%80%98Dolphin%E2%80%99",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "China emite alerta roja por tifón ‘Dolphin’Mundo| domingo 09 de agosto",
-      "url": "https://el-mexicano.com.mx/Noticia/Mundo/97847/China-emite-alerta-roja-por-tif%C3%B3n-%E2%80%98Dolphin%E2%80%99",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Programa en EU bucas ayudar a migrantes que enfrentan la deportación sin un abogado que los representeThe Border |9 de agosto",
-      "url": "https://el-mexicano.com.mx/Noticia/The%20Border/97846/Programa-en-EU-bucas-ayudar-a-migrantes-que-enfrentan-la-deportaci%C3%B3n-sin-un-abogado-que-los-represente",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Programa en EU bucas ayudar a migrantes que enfrentan la deportación sin un abogado que los representeThe Border| domingo 09 de agosto",
-      "url": "https://el-mexicano.com.mx/Noticia/The%20Border/97846/Programa-en-EU-bucas-ayudar-a-migrantes-que-enfrentan-la-deportaci%C3%B3n-sin-un-abogado-que-los-represente",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Habilitan 75% de empaques de aguacate en MichoacánNacional |9 de agosto",
-      "url": "https://el-mexicano.com.mx/Noticia/Nacional/97844/Habilitan-75%25-de-empaques-de-aguacate-en-Michoac%C3%A1n",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Habilitan 75% de empaques de aguacate en MichoacánNacional| domingo 09 de agosto",
-      "url": "https://el-mexicano.com.mx/Noticia/Nacional/97844/Habilitan-75%25-de-empaques-de-aguacate-en-Michoac%C3%A1n",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Asesinan a balazos a hombre en Cañadas del FloridoPoliciaca |9 de agosto",
-      "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97843/Asesinan-a-balazos-a-hombre-en-Ca%C3%B1adas-del-Florido",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Asesinan a balazos a hombre en Cañadas del FloridoPoliciaca| domingo 09 de agosto",
-      "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97843/Asesinan-a-balazos-a-hombre-en-Ca%C3%B1adas-del-Florido",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
       "title": "Parque Esperanto, 364 hectáreas para disfrutar en familiaOcho kilómetros de senderos, deporte, juegos y una zona para mascotas convierten al parque en opción familiar.Tijuana| sábado 08 de agosto",
       "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97830/Parque-Esperanto,-364-hect%C3%A1reas-para-disfrutar-en-familia",
       "published": ""
@@ -249,13 +249,43 @@
     },
     {
       "source": "El Imparcial (Tijuana)",
-      "title": "Recomiendan a visitantes aprovechar oferta turística de Tijuana",
-      "url": "https://www.elimparcial.com/tij/tijuana/2026/08/09/recomiendan-a-visitantes-aprovechar-oferta-turistica-de-tijuana/",
+      "title": "Bacheo en Tijuana avanza, pero obras pequeñas dificultan visibilidad",
+      "url": "https://www.elimparcial.com/tij/tijuana/2026/08/09/bacheo-en-tijuana-avanza-pero-obras-pequenas-dificultan-visibilidad/",
       "published": ""
     },
     {
       "source": "El Imparcial (Tijuana)",
-      "title": "Se prevé mayor afluencia durante el periodo vacacional y reporta un mejor comportamiento de la actividad turística frente al año pasado.",
+      "title": "El presidente de Comice TTR señaló que las cuadrillas mantienen trabajos constantes, principalmente tras reparaciones de fugas y tuberías, aunque las intervenciones suelen ser pequeñas y dispersas.",
+      "url": "https://www.elimparcial.com/tij/tijuana/2026/08/09/bacheo-en-tijuana-avanza-pero-obras-pequenas-dificultan-visibilidad/",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial (Tijuana)",
+      "title": "Tendrá Irán bloqueado Ormuz hasta que EEUU acepte exigencias",
+      "url": "https://www.elimparcial.com/mundo/2026/08/09/iran-mantendra-cerrado-el-estrecho-de-ormuz-hasta-que-eeuu-cumpla-sus-exigencias-pese-al-avance-del-acuerdo-con-oman/",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial (Tijuana)",
+      "title": "Servicio Meteorológico Nacional",
+      "url": "https://www.elimparcial.com/tags/servicio-meteorologico-nacional/",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial (Tijuana)",
+      "title": "Tormentas intensas y calor extremo para México",
+      "url": "https://www.elimparcial.com/mexico/2026/08/09/alerta-maxima-tormentas-intensas-y-calor-extremo-el-pronostico-del-clima-en-mexico-para-los-proximos-dias-segun-el-servicio-meteorologico-nacional/",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial (Tijuana)",
+      "title": "Muere Maximiliano Leonardo, fundador de Farmacias del Ahorro",
+      "url": "https://www.elimparcial.com/dinero/2026/08/09/fallece-maximiliano-leonardo-asturias-don-max-fundador-de-farmacias-del-ahorro-y-empresario-que-convirtio-una-farmacia-de-chiapas-en-una-cadena-nacional/",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial (Tijuana)",
+      "title": "Recomiendan a visitantes aprovechar oferta turística de Tijuana",
       "url": "https://www.elimparcial.com/tij/tijuana/2026/08/09/recomiendan-a-visitantes-aprovechar-oferta-turistica-de-tijuana/",
       "published": ""
     },
@@ -299,36 +329,6 @@
       "source": "El Imparcial (Tijuana)",
       "title": "EEUU alista 1,000 mdd para Colombia contra el narcotráfico",
       "url": "https://www.elimparcial.com/mundo/2026/08/09/eeuu-alista-1000-millones-de-dolares-para-colombia-tras-la-llegada-de-de-la-espriella-y-su-ruptura-con-la-estrategia-de-petro-frente-al-narco/",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Tumban, tras 17 años, 'pensión dorada' a LyFC",
-      "url": "https://www.elimparcial.com/dinero/2026/08/09/casi-17-anos-despues-de-la-extincion-de-lyfc-reducen-de-hasta-19-millones-a-56-mil-pesos-las-pensiones-de-exfuncionarios-tras-la-reforma-de-sheinbaum/",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Incrementan familias con perros y gatos en Baja California",
-      "url": "https://www.elimparcial.com/tij/tijuana/2026/08/09/incrementan-familias-con-perros-y-gastos-en-baja-california/",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Ciudadanos de la colonia Otay reportan cortes de agua cada semana",
-      "url": "https://www.elimparcial.com/tij/tijuana/2026/08/09/ciudadanos-de-la-colonia-otay-reportan-cortes-de-agua-cada-semana/",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Inhabilitan a cinco exfuncionarios de Tijuana",
-      "url": "https://www.elimparcial.com/tij/tijuana/2026/08/09/inhabilitan-a-otros-cinco-exfuncionarios-de-tijuana-por-irregularidades-contables/",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Nayeli Salvatori se disculpa tras 'castigo' de Morena",
-      "url": "https://www.elimparcial.com/mexico/2026/08/09/nayeli-salvatori-se-disculpa-y-admite-su-error-garrafal-por-comentarios-de-burla-a-adultos-mayores-morena-le-suspendio-provisionalmente-sus-derechos-partidistas-junto-a-grace-palomares-aunqueconservaran-sus-cargos-legislativos/",
       "published": ""
     },
     {
