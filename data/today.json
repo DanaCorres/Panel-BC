@@ -1,8 +1,29 @@
 {
   "date": "2026-08-09",
-  "run_count": 6,
+  "run_count": 7,
   "notes": {
     "seguridad": [
+      {
+        "title": "Policía captura a tres con 100 kilos de heroína en Tijuana",
+        "summary": "Autoridades detuvieron a tres hombres en posesión de más de 100 kilogramos de droga y armas en operativo de seguridad.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/policia-de-tijuana-detiene-a-tres-hombres-con-mas-de-100-kilogramos-de-heroina/",
+        "_added_at": "2026-08-09T19:24:58.079350-07:00"
+      },
+      {
+        "title": "101 desaparecidos en Tecate, madres demandan justicia",
+        "summary": "Familiares de desaparecidos en Tecate realizan protestas reclamando información sobre víctimas y acciones de investigación.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/101-desaparecidos-en-tecate-madres-claman-informacion-y-justicia/",
+        "_added_at": "2026-08-09T19:24:58.079350-07:00"
+      },
+      {
+        "title": "Accidente vehicular deja dos personas atrapadas en Tijuana",
+        "summary": "Choque entre vehículos requiere rescate de pasajeros atrapados en unidad de transporte público.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97859/Fuerte-choque-deja-a-dos-personas-atrapadas-en-taxi-de-ruta",
+        "_added_at": "2026-08-09T19:24:58.079350-07:00"
+      },
       {
         "title": "101 desaparecidos en Tecate; madres exigen respuestas",
         "summary": "Madres de desaparecidos en Tecate claman por información y justicia ante cifra de 101 personas extraviadas.",
@@ -51,30 +72,30 @@
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/08/viernes-violento-en-tijuana-deja-doble-homicidio/?utm_source=rss&utm_medium=rss&utm_campaign=viernes-violento-en-tijuana-deja-doble-homicidio",
         "_added_at": "2026-08-09T00:07:51.650130-07:00"
-      },
-      {
-        "title": "Detienen a nueve sospechosos por red de huachicol fiscal",
-        "summary": "Autoridades capturan a múltiples individuos vinculados a esquema de combustible ilegal ligado a exfuncionario.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/180123_suman_nueve_detenidos_por_presunta_red_de_huachicol_ligada_a_ruffo",
-        "_added_at": "2026-08-09T00:07:51.650130-07:00"
-      },
-      {
-        "title": "Tres capturados por privación de libertad de mujer en Tijuana",
-        "summary": "Elementos detienen a presuntos responsables del secuestro de una mujer en la localidad.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/180120_detienen_a_tres_senalados_por_privar_de_la_libertad_a_una_mujer_en_tijuana",
-        "_added_at": "2026-08-09T00:07:51.650130-07:00"
-      },
-      {
-        "title": "Tráiler choca contra dos vehículos; conductor huye del lugar",
-        "summary": "Accidente vial con fuga del operador deja dos automóviles impactados en Tijuana.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/180124_choca_trailer_contra_dos_vehiculos_conductor_se_dio_a_la_fuga",
-        "_added_at": "2026-08-09T00:07:51.650130-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Morena niega persecución política contra Ruffo tras detención",
+        "summary": "Partido afirma que aprehensión de apoderada legal de empresas relacionadas comprueba investigación sin motivación política.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/detencion-de-apoderada-legal-confirma-que-no-hay-persecucion-politica-contra-ruffo-morena/",
+        "_added_at": "2026-08-09T19:24:58.079350-07:00"
+      },
+      {
+        "title": "Jueza ordena prisión preventiva por huachicol fiscal",
+        "summary": "Dictan medida cautelar contra apoderada legal de empresa vinculada a Ruffo por irregularidades tributarias.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/jueza-dicta-prision-preventiva-a-apoderada-legal-de-empresa-de-ruffo-por-huachicol-fiscal/",
+        "_added_at": "2026-08-09T19:24:58.079350-07:00"
+      },
+      {
+        "title": "Morena abre inscripciones para candidatos a gobernatura",
+        "summary": "Partido continúa recibimiento de aspirantes interesados en postularse para próximas elecciones estatales.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180137_van_por_la_segunda_parte_de_interesados_por_la_gubernatura_en_morena",
+        "_added_at": "2026-08-09T19:24:58.079350-07:00"
+      },
       {
         "title": "Jueza ordena prisión preventiva a apoderada por huachicol",
         "summary": "Detención de apoderada legal de empresa vinculada a Ruffo por fraude fiscal.",
@@ -123,30 +144,23 @@
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/08/inhabilitan-a-otros-cinco-exfuncionarios-de-la-administracion-de-montserrat-caballero-suman-10-en-menos-de-una-semana/?utm_source=rss&utm_medium=rss&utm_campaign=inhabilitan-a-otros-cinco-exfuncionarios-de-la-administracion-de-montserrat-caballero-suman-10-en-menos-de-una-semana",
         "_added_at": "2026-08-09T00:07:51.650130-07:00"
-      },
-      {
-        "title": "Burgueño organiza mitin político en Tijuana con asistentes",
-        "summary": "Funcionario encabeza asamblea masiva en defensa de la transformación y soberanía estatal.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97835/Ismael-Burgue%C3%B1o-encabeza-primer-Asamblea-masiva-en-defensa-de-la-Transformaci%C3%B3n-y-la-soberan%C3%ADa-en-Tijuana",
-        "_added_at": "2026-08-09T00:07:51.650130-07:00"
-      },
-      {
-        "title": "Priistas cuestionan confianza durante gobiernos de Morena",
-        "summary": "Partido de oposición realiza foro en BC para criticar gestión actual y plantear alternativas.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/priistas-acusan-perdida-de-confianza-durante-gobiernos-de-morena-celebran-foro-en-bc/?utm_source=rss&utm_medium=rss&utm_campaign=priistas-acusan-perdida-de-confianza-durante-gobiernos-de-morena-celebran-foro-en-bc",
-        "_added_at": "2026-08-09T00:07:51.650130-07:00"
-      },
-      {
-        "title": "Abogados piden al Congreso remover a la fiscal estatal",
-        "summary": "Gremio legal solicita intervención legislativa para destituir a la titular de la fiscalía.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180114_piden_abogados_al_congreso_su_intervencion_para_remover_a_la_fiscal",
-        "_added_at": "2026-08-09T00:07:51.650130-07:00"
       }
     ],
     "economia": [
+      {
+        "title": "CFE inaugura nueva línea de transmisión en Mexicali",
+        "summary": "Comisión Federal pone en operación infraestructura eléctrica en central de generación combinada.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97855/Pone-en-marcha-CFE-nueva-l%C3%ADnea-de-transmisi%C3%B3n-en-central-combinado",
+        "_added_at": "2026-08-09T19:24:58.079350-07:00"
+      },
+      {
+        "title": "Planta Tecolote-La Gloria sigue sin construirse pese fondos",
+        "summary": "Proyecto ha recibido tres asignaciones de financiamiento internacional pero continúa paralizado.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/planta-tecolote-la-gloria-ha-recibido-tres-veces-fondos-internacionales-y-sigue-sin-concretarse/",
+        "_added_at": "2026-08-09T19:24:58.079350-07:00"
+      },
       {
         "title": "Planta Tecolote-La Gloria recibe fondos pero sigue sin construirse",
         "summary": "Proyecto de tratamiento ha obtenido financiamiento internacional triple sin avance concreto.",
@@ -191,6 +205,27 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Rescatan a niño de dos años deambulando en vías públicas",
+        "summary": "Autoridades en Ensenada localizan a menor solo en la calle y lo ponen a resguardo de servicios sociales.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/ponen-a-salvo-a-nino-de-dos-anos-que-deambulaba-en-via-publica-en-ensenada/",
+        "_added_at": "2026-08-09T19:24:58.079350-07:00"
+      },
+      {
+        "title": "Adolescente muere ahogado en playa de Ensenada",
+        "summary": "Joven fallece tras ahogarse en Playa Chapultepec en incidente durante recreación acuática.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Ensenada/97858/Muere-adolescente-ahogado-en-Playa-Chapultepec",
+        "_added_at": "2026-08-09T19:24:58.079350-07:00"
+      },
+      {
+        "title": "IMSS invierte en infraestructura hospitalaria en Baja California",
+        "summary": "Instituto destaca ampliación y mejora de capacidades en instalaciones médicas del estado.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97857/Destaca-IMSS-inversi%C3%B3n-en-infraestructura-hospitalaria-en-BC",
+        "_added_at": "2026-08-09T19:24:58.079350-07:00"
+      },
       {
         "title": "Rescatan a niño de dos años viviendo en condiciones insalubres",
         "summary": "Menor hallado caminando solo en Maneadero sin cuidados básicos en vivienda inadecuada.",
@@ -239,29 +274,8 @@
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/08/colonias-de-tijuana-afectadas-por-averia-en-el-booster-el-carrizo-siguen-sin-agua/",
         "_added_at": "2026-08-09T02:49:29.393556-07:00"
-      },
-      {
-        "title": "Presa Las Auras presenta riesgo para nadadoresadvertencia sobre profundidad",
-        "summary": "Autoridades alertan sobre peligros de nadar en presa con profundidades de hasta 80 metros.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180119_hasta_80_metros_de_profundidad_el_riesgo_de_nadar_en_la_presa_las_auras",
-        "_added_at": "2026-08-09T02:49:29.393556-07:00"
-      },
-      {
-        "title": "Colonias tijuanenses sin agua por avería en booster El Carrizo",
-        "summary": "Falla en infraestructura hidráulica deja sin servicio a múltiples sectores de población.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/colonias-de-tijuana-afectadas-por-averia-en-el-booster-el-carrizo-siguen-sin-agua/?utm_source=rss&utm_medium=rss&utm_campaign=colonias-de-tijuana-afectadas-por-averia-en-el-booster-el-carrizo-siguen-sin-agua",
-        "_added_at": "2026-08-09T00:07:51.650130-07:00"
-      },
-      {
-        "title": "Profepa investiga contaminación industrial en río y playas",
-        "summary": "Descargas industriales afectan ecosistemas del Río Tijuana y litoral costero de BC.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180116_profepa_investiga_descargas_industriales_que_contaminan_el_rio_tijuana_y_playas_de_bc",
-        "_added_at": "2026-08-09T00:07:51.650130-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-09T14:40:25.124427-07:00"
+  "last_updated": "2026-08-09T19:24:58.079350-07:00"
 }
