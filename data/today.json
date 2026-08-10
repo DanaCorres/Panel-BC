@@ -1,8 +1,29 @@
 {
   "date": "2026-08-10",
-  "run_count": 4,
+  "run_count": 5,
   "notes": {
     "seguridad": [
+      {
+        "title": "Dos hombres asesinados a tiros en Tijuana",
+        "summary": "Ejecutan a dos personas en Camino Verde y colonia Libertad durante fin de semana en Tijuana.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/180158_asesinan_a_dos_hombres_a_tiros_uno_en_camino_verde_otro_en_la_colonia_libertad",
+        "_added_at": "2026-08-10T12:07:10.124296-07:00"
+      },
+      {
+        "title": "Detienen a dos por robo en recicladora con arma",
+        "summary": "Capturan a dos individuos por robo de metal en recicladora; portaban pistola de utilería.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/180162_detienen_a_dos_por_robar_metal_en_recicladora_traian_pistola_de_utileria",
+        "_added_at": "2026-08-10T12:07:10.124296-07:00"
+      },
+      {
+        "title": "Choque y abandono de vehículo en gasolinera",
+        "summary": "Conductor impacta torre de gasolinera y huye del lugar dejando vehículo.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/180160_choco_contra_la_torre_de_una_gasolinera_y_abandono_el_vehiculo",
+        "_added_at": "2026-08-10T12:07:10.124296-07:00"
+      },
       {
         "title": "Menor de dos años rescatado en Ensenada",
         "summary": "Autoridades localizan a niño deambulando en vía pública y lo ponen a resguardo.",
@@ -50,27 +71,6 @@
         "summary": "Tres hombres detenidos en posesión de más de 100 kilogramos de heroína en operativo de la policía tijuanense.",
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/08/policia-de-tijuana-detiene-a-tres-hombres-con-mas-de-100-kilogramos-de-heroina/",
-        "_added_at": "2026-08-10T00:56:47.653840-07:00"
-      },
-      {
-        "title": "101 desaparecidos en Tecate, madres exigen justicia",
-        "summary": "Madres de desaparecidos en Tecate claman por información y justicia ante 101 casos sin resolver.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/101-desaparecidos-en-tecate-madres-claman-informacion-y-justicia/",
-        "_added_at": "2026-08-10T00:56:47.653840-07:00"
-      },
-      {
-        "title": "Hombre asesinado a balazos en Cañadas del Florido",
-        "summary": "Persona fallecida por disparo de arma de fuego en zona de Tijuana.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/180139_asesinan_a_balazos_a_un_hombre_en_canadas_del_florido",
-        "_added_at": "2026-08-10T00:56:47.653840-07:00"
-      },
-      {
-        "title": "Accidente vial deja dos atrapados en Tijuana",
-        "summary": "Fuerte choque en taxi de ruta requiere rescate de dos personas.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/180148_fuerte_choque_deja_a_dos_personas_atrapadas_en_taxi_de_ruta",
         "_added_at": "2026-08-10T00:56:47.653840-07:00"
       }
     ],
@@ -141,6 +141,13 @@
     ],
     "economia": [
       {
+        "title": "Dólar abre semana sin superar los 17 pesos",
+        "summary": "Cotización del dólar se mantiene por debajo de 17 pesos al inicio de la semana.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180161_costo_del_dolar_abre_semana_sin_sobrepasar_los_17_pesos",
+        "_added_at": "2026-08-10T12:07:10.124296-07:00"
+      },
+      {
         "title": "BC recauda máximo histórico en impuestos locales",
         "summary": "Gobierno estatal reporta ingresos de 7 mil 379 millones por recaudación tributaria.",
         "source": "AFN Tijuana",
@@ -191,6 +198,20 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Adolescente se ahoga en Playa Chapultepec, Ensenada",
+        "summary": "Joven fallece ahogado en playa de Ensenada; intentos de reanimación fueron infructuosos.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Ensenada/97858/Muere-adolescente-ahogado-en-Playa-Chapultepec",
+        "_added_at": "2026-08-10T12:07:10.124296-07:00"
+      },
+      {
+        "title": "IMSS destaca inversión en infraestructura hospitalaria BC",
+        "summary": "Instituto celebra 75 años con mejoras en hospitales de Baja California.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97857/Destaca-IMSS-inversi%C3%B3n-en-infraestructura-hospitalaria-en-BC",
+        "_added_at": "2026-08-10T12:07:10.124296-07:00"
+      },
       {
         "title": "Fiesta de Colores celebrada en viñedo L.A. Cetto",
         "summary": "Evento cultural en bodega regional reúne a aficionados al vino y la gastronomía.",
@@ -246,15 +267,8 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/180142_inicio_la_jornada_nacional_de_reforestacion_sembraran_35_mil_plantas_en_bc",
         "_added_at": "2026-08-10T00:56:47.653840-07:00"
-      },
-      {
-        "title": "Programa recuperación cóndor California en San Pedro Mártir",
-        "summary": "Destacan iniciativa para conservación de cóndor californiano en reserva.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180147_destacan_programa_para_la_recuperacion_del_condor_de_california_en_san_pedro_martir",
-        "_added_at": "2026-08-10T00:56:47.653840-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-10T09:04:39.303203-07:00"
+  "last_updated": "2026-08-10T12:07:10.124296-07:00"
 }
