@@ -1,6 +1,6 @@
 {
   "date": "2026-08-09",
-  "run_count": 7,
+  "run_count": 8,
   "notes": {
     "seguridad": [
       {
@@ -76,6 +76,13 @@
     ],
     "politica": [
       {
+        "title": "Marina ausente en enlace de gobernadores con Sheinbaum",
+        "summary": "Gobernador Marina no fue presentado en videoconferencia de Sheinbaum con mandatarios estatales.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/afn_politico/180141_sheinbaum_se_enlaza_con_gobernadores_pero_no_presentan_a_marina",
+        "_added_at": "2026-08-09T21:45:53.597884-07:00"
+      },
+      {
         "title": "Morena niega persecución política contra Ruffo tras detención",
         "summary": "Partido afirma que aprehensión de apoderada legal de empresas relacionadas comprueba investigación sin motivación política.",
         "source": "ZETA Tijuana",
@@ -137,16 +144,16 @@
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/08/priistas-acusan-perdida-de-confianza-durante-gobiernos-de-morena-celebran-foro-en-bc/",
         "_added_at": "2026-08-09T02:49:29.393556-07:00"
-      },
-      {
-        "title": "Inhabilitan a diez exfuncionarios de administración Caballero",
-        "summary": "Sindicatura sanciona a otros cinco servidores públicos en menos de una semana acumulando diez.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/inhabilitan-a-otros-cinco-exfuncionarios-de-la-administracion-de-montserrat-caballero-suman-10-en-menos-de-una-semana/?utm_source=rss&utm_medium=rss&utm_campaign=inhabilitan-a-otros-cinco-exfuncionarios-de-la-administracion-de-montserrat-caballero-suman-10-en-menos-de-una-semana",
-        "_added_at": "2026-08-09T00:07:51.650130-07:00"
       }
     ],
     "economia": [
+      {
+        "title": "Turismo comunitario recibe 1.5 mdp en cuatro años",
+        "summary": "Gobierno destinó 1.5 millones de pesos para promover turismo comunitario en los últimos cuatro años.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180143_en_cuatro_anos_se_han_destinado_1_5_mdp_a_promover_el_turismo_comunitario_badiola",
+        "_added_at": "2026-08-09T21:45:53.597884-07:00"
+      },
       {
         "title": "CFE inaugura nueva línea de transmisión en Mexicali",
         "summary": "Comisión Federal pone en operación infraestructura eléctrica en central de generación combinada.",
@@ -206,6 +213,20 @@
     ],
     "sociedad": [
       {
+        "title": "Jornada de reforestación: 35 mil plantas en BC",
+        "summary": "Iniciativa nacional de reforestación planta 35 mil árboles en Baja California.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180142_inicio_la_jornada_nacional_de_reforestacion_sembraran_35_mil_plantas_en_bc",
+        "_added_at": "2026-08-09T21:45:53.597884-07:00"
+      },
+      {
+        "title": "Festival por la Juventud en Tijuana",
+        "summary": "Se invita a participar en Festival por la Juventud en Tijuana como actividad de esparcimiento comunitario.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180146_invitan_al_festival_por_la_juventud_en_tijuana",
+        "_added_at": "2026-08-09T21:45:53.597884-07:00"
+      },
+      {
         "title": "Rescatan a niño de dos años deambulando en vías públicas",
         "summary": "Autoridades en Ensenada localizan a menor solo en la calle y lo ponen a resguardo de servicios sociales.",
         "source": "ZETA Tijuana",
@@ -260,22 +281,8 @@
         "source": "El Mexicano",
         "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97842/Vivienda-de-madera-queda-en-p%C3%A9rdida-total-tras-incendio-en-Llamas-Amaya",
         "_added_at": "2026-08-09T08:39:06.447834-07:00"
-      },
-      {
-        "title": "Plantean convenio con preparatorias privadas para estudiantes",
-        "summary": "Propuesta para retomar acuerdos con institutos privados ante saturación en escuelas públicas.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180112_plantean_retomar_convenio_con_prepas_privadas_para_atender_a_jovenes_sin_lugar_en_escuelas_publicas",
-        "_added_at": "2026-08-09T06:06:53.598446-07:00"
-      },
-      {
-        "title": "Colonias tijuanenses sin agua por falla en booster",
-        "summary": "Avería en Booster El Carrizo mantiene sin servicio de agua a múltiples colonias de Tijuana.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/colonias-de-tijuana-afectadas-por-averia-en-el-booster-el-carrizo-siguen-sin-agua/",
-        "_added_at": "2026-08-09T02:49:29.393556-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-09T19:24:58.079350-07:00"
+  "last_updated": "2026-08-09T21:45:53.597884-07:00"
 }
