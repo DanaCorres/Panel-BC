@@ -1,8 +1,29 @@
 {
   "date": "2026-08-10",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Policía decomisa 100 kilos de heroína en Tijuana",
+        "summary": "Tres hombres detenidos con más de 100 kilogramos de heroína en operativo de la Policía de Tijuana.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/policia-de-tijuana-detiene-a-tres-hombres-con-mas-de-100-kilogramos-de-heroina/?utm_source=rss&utm_medium=rss&utm_campaign=policia-de-tijuana-detiene-a-tres-hombres-con-mas-de-100-kilogramos-de-heroina",
+        "_added_at": "2026-08-10T03:25:04.759717-07:00"
+      },
+      {
+        "title": "101 desaparecidos en Tecate, madres exigen justicia",
+        "summary": "Madres de desaparecidos en Tecate claman por información y justicia ante centenar de casos sin resolver.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/101-desaparecidos-en-tecate-madres-claman-informacion-y-justicia/?utm_source=rss&utm_medium=rss&utm_campaign=101-desaparecidos-en-tecate-madres-claman-informacion-y-justicia",
+        "_added_at": "2026-08-10T03:25:04.759717-07:00"
+      },
+      {
+        "title": "Choque múltiple en Tijuana deja dos atrapados",
+        "summary": "Fuerte colisión en taxi de ruta deja dos personas atrapadas en el vehículo.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/180140_detienen_a_tres_en_posesion_de_droga_y_un_arma_de_fuego",
+        "_added_at": "2026-08-10T03:25:04.759717-07:00"
+      },
       {
         "title": "Policía incauta 100 kg de heroína en Tijuana",
         "summary": "Tres hombres detenidos en posesión de más de 100 kilogramos de heroína en operativo de la policía tijuanense.",
@@ -34,6 +55,27 @@
     ],
     "politica": [
       {
+        "title": "Burgueño reúne a ciudadanos en Ensenada con proyecto 4T",
+        "summary": "Funcionario presenta avances de política nacional a vecinos de Ensenada buscando respaldo ciudadano.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/97860/Ismael-Burgue%C3%B1o-acerca-a-vecinos-de-Ensenada-los-avances-de-la-4T-y-refuerza-respaldo-al-proyecto-nacional",
+        "_added_at": "2026-08-10T03:25:04.759717-07:00"
+      },
+      {
+        "title": "Detención de apoderada de Ruffo bajo escrutinio político",
+        "summary": "Morena sostiene que detención de representante legal no constituye persecución política contra exfuncionario.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/detencion-de-apoderada-legal-confirma-que-no-hay-persecucion-politica-contra-ruffo-morena/?utm_source=rss&utm_medium=rss&utm_campaign=detencion-de-apoderada-legal-confirma-que-no-hay-persecucion-politica-contra-ruffo-morena",
+        "_added_at": "2026-08-10T03:25:04.759717-07:00"
+      },
+      {
+        "title": "Buscan candidatos para gubernatura en Morena",
+        "summary": "Partido convoca segunda ronda de aspirantes interesados en candidatura para gobernación de Baja California.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180137_van_por_la_segunda_parte_de_interesados_por_la_gubernatura_en_morena",
+        "_added_at": "2026-08-10T03:25:04.759717-07:00"
+      },
+      {
         "title": "Morena niega persecución política contra Ruffo",
         "summary": "Detención de apoderada legal de empresa de Ruffo genera debate sobre persecución política.",
         "source": "ZETA Tijuana",
@@ -64,6 +106,13 @@
     ],
     "economia": [
       {
+        "title": "Planta Tecolote-La Gloria sin concretarse tras fondos",
+        "summary": "Proyecto ha recibido financiamiento internacional en tres ocasiones pero permanece paraliziado en Tijuana.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/planta-tecolote-la-gloria-ha-recibido-tres-veces-fondos-internacionales-y-sigue-sin-concretarse/?utm_source=rss&utm_medium=rss&utm_campaign=planta-tecolote-la-gloria-ha-recibido-tres-veces-fondos-internacionales-y-sigue-sin-concretarse",
+        "_added_at": "2026-08-10T03:25:04.759717-07:00"
+      },
+      {
         "title": "Planta Tecolote-La Gloria sigue sin concretarse",
         "summary": "Proyecto ha recibido fondos internacionales tres veces pero no avanza.",
         "source": "ZETA Tijuana",
@@ -86,6 +135,27 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Niño de dos años rescatado en Ensenada",
+        "summary": "Menores encontrado deambulando solo en vía pública vivía en condiciones insalubres en Ensenada.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180138_rescatan_a_nino_de_2_anos_caminando_solo_en_maneadero_vivia_en_condiciones_insalubres",
+        "_added_at": "2026-08-10T03:25:04.759717-07:00"
+      },
+      {
+        "title": "Colonias sin agua por falla en sistema Carrizo",
+        "summary": "Avería en booster El Carrizo deja sin suministro de agua a múltiples colonias de Tijuana.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/colonias-de-tijuana-afectadas-por-averia-en-el-booster-el-carrizo-siguen-sin-agua/?utm_source=rss&utm_medium=rss&utm_campaign=colonias-de-tijuana-afectadas-por-averia-en-el-booster-el-carrizo-siguen-sin-agua",
+        "_added_at": "2026-08-10T03:25:04.759717-07:00"
+      },
+      {
+        "title": "Festival por la Juventud en Tijuana convoca participantes",
+        "summary": "Invitación a evento cultural enfocado en público joven en el municipio de Tijuana durante agosto.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180146_invitan_al_festival_por_la_juventud_en_tijuana",
+        "_added_at": "2026-08-10T03:25:04.759717-07:00"
+      },
       {
         "title": "Rescatan niño de dos años solo en Ensenada",
         "summary": "Menor encontrado deambulando en vía pública vivía en condiciones insalubres.",
@@ -116,5 +186,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-10T00:56:47.653840-07:00"
+  "last_updated": "2026-08-10T03:25:04.759717-07:00"
 }
