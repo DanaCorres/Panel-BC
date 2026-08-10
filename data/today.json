@@ -1,288 +1,120 @@
 {
-  "date": "2026-08-09",
-  "run_count": 8,
+  "date": "2026-08-10",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Policía captura a tres con 100 kilos de heroína en Tijuana",
-        "summary": "Autoridades detuvieron a tres hombres en posesión de más de 100 kilogramos de droga y armas en operativo de seguridad.",
+        "title": "Policía incauta 100 kg de heroína en Tijuana",
+        "summary": "Tres hombres detenidos en posesión de más de 100 kilogramos de heroína en operativo de la policía tijuanense.",
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/08/policia-de-tijuana-detiene-a-tres-hombres-con-mas-de-100-kilogramos-de-heroina/",
-        "_added_at": "2026-08-09T19:24:58.079350-07:00"
+        "_added_at": "2026-08-10T00:56:47.653840-07:00"
       },
       {
-        "title": "101 desaparecidos en Tecate, madres demandan justicia",
-        "summary": "Familiares de desaparecidos en Tecate realizan protestas reclamando información sobre víctimas y acciones de investigación.",
+        "title": "101 desaparecidos en Tecate, madres exigen justicia",
+        "summary": "Madres de desaparecidos en Tecate claman por información y justicia ante 101 casos sin resolver.",
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/08/101-desaparecidos-en-tecate-madres-claman-informacion-y-justicia/",
-        "_added_at": "2026-08-09T19:24:58.079350-07:00"
+        "_added_at": "2026-08-10T00:56:47.653840-07:00"
       },
       {
-        "title": "Accidente vehicular deja dos personas atrapadas en Tijuana",
-        "summary": "Choque entre vehículos requiere rescate de pasajeros atrapados en unidad de transporte público.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97859/Fuerte-choque-deja-a-dos-personas-atrapadas-en-taxi-de-ruta",
-        "_added_at": "2026-08-09T19:24:58.079350-07:00"
-      },
-      {
-        "title": "101 desaparecidos en Tecate; madres exigen respuestas",
-        "summary": "Madres de desaparecidos en Tecate claman por información y justicia ante cifra de 101 personas extraviadas.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/101-desaparecidos-en-tecate-madres-claman-informacion-y-justicia/?utm_source=rss&utm_medium=rss&utm_campaign=101-desaparecidos-en-tecate-madres-claman-informacion-y-justicia",
-        "_added_at": "2026-08-09T14:40:25.124427-07:00"
-      },
-      {
-        "title": "Asesinan a hombre a balazos en Cañadas del Florido",
-        "summary": "Homicidio registrado en zona residencial de Cañadas del Florido, Tijuana.",
+        "title": "Hombre asesinado a balazos en Cañadas del Florido",
+        "summary": "Persona fallecida por disparo de arma de fuego en zona de Tijuana.",
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/seguridad/180139_asesinan_a_balazos_a_un_hombre_en_canadas_del_florido",
-        "_added_at": "2026-08-09T14:40:25.124427-07:00"
+        "_added_at": "2026-08-10T00:56:47.653840-07:00"
       },
       {
-        "title": "Detienen a tres con droga y arma de fuego",
-        "summary": "Operativo policial asegura a tres personas en posesión de drogas y armamento.",
+        "title": "Accidente vial deja dos atrapados en Tijuana",
+        "summary": "Fuerte choque en taxi de ruta requiere rescate de dos personas.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/180140_detienen_a_tres_en_posesion_de_droga_y_un_arma_de_fuego",
-        "_added_at": "2026-08-09T14:40:25.124427-07:00"
-      },
-      {
-        "title": "FGR detiene a abogada por esquema de huachicol ligado a Ruffo",
-        "summary": "Autoridades capturaron a apoderada legal de empresa vinculada a presunto fraude fiscal y robo de combustible.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/fgr-detiene-a-apoderada-legal-de-empresa-ligada-a-ruffo-por-huachicol-fiscal/",
-        "_added_at": "2026-08-09T11:52:42.457925-07:00"
-      },
-      {
-        "title": "Homicidio en Cañadas del Florido deja un fallecido",
-        "summary": "Hombre asesinado a balazos en zona residencial de Tijuana.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97843/Asesinan-a-balazos-a-hombre-en-Ca%C3%B1adas-del-Florido",
-        "_added_at": "2026-08-09T08:39:06.447834-07:00"
-      },
-      {
-        "title": "Doble homicidio en Tijuana durante viernes violento",
-        "summary": "Dos personas fueron asesinadas en hechos de violencia registrados en Tijuana el viernes pasado.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/viernes-violento-en-tijuana-deja-doble-homicidio/",
-        "_added_at": "2026-08-09T02:49:29.393556-07:00"
-      },
-      {
-        "title": "Doble homicidio registrado en Tijuana durante viernes violento",
-        "summary": "Dos personas fueron asesinadas en hechos violentos ocurridos el viernes en la ciudad fronteriza.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/viernes-violento-en-tijuana-deja-doble-homicidio/?utm_source=rss&utm_medium=rss&utm_campaign=viernes-violento-en-tijuana-deja-doble-homicidio",
-        "_added_at": "2026-08-09T00:07:51.650130-07:00"
+        "url": "https://www.afntijuana.info/seguridad/180148_fuerte_choque_deja_a_dos_personas_atrapadas_en_taxi_de_ruta",
+        "_added_at": "2026-08-10T00:56:47.653840-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Marina ausente en enlace de gobernadores con Sheinbaum",
-        "summary": "Gobernador Marina no fue presentado en videoconferencia de Sheinbaum con mandatarios estatales.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/afn_politico/180141_sheinbaum_se_enlaza_con_gobernadores_pero_no_presentan_a_marina",
-        "_added_at": "2026-08-09T21:45:53.597884-07:00"
-      },
-      {
-        "title": "Morena niega persecución política contra Ruffo tras detención",
-        "summary": "Partido afirma que aprehensión de apoderada legal de empresas relacionadas comprueba investigación sin motivación política.",
+        "title": "Morena niega persecución política contra Ruffo",
+        "summary": "Detención de apoderada legal de empresa de Ruffo genera debate sobre persecución política.",
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/08/detencion-de-apoderada-legal-confirma-que-no-hay-persecucion-politica-contra-ruffo-morena/",
-        "_added_at": "2026-08-09T19:24:58.079350-07:00"
+        "_added_at": "2026-08-10T00:56:47.653840-07:00"
       },
       {
-        "title": "Jueza ordena prisión preventiva por huachicol fiscal",
-        "summary": "Dictan medida cautelar contra apoderada legal de empresa vinculada a Ruffo por irregularidades tributarias.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/jueza-dicta-prision-preventiva-a-apoderada-legal-de-empresa-de-ruffo-por-huachicol-fiscal/",
-        "_added_at": "2026-08-09T19:24:58.079350-07:00"
-      },
-      {
-        "title": "Morena abre inscripciones para candidatos a gobernatura",
-        "summary": "Partido continúa recibimiento de aspirantes interesados en postularse para próximas elecciones estatales.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180137_van_por_la_segunda_parte_de_interesados_por_la_gubernatura_en_morena",
-        "_added_at": "2026-08-09T19:24:58.079350-07:00"
-      },
-      {
-        "title": "Jueza ordena prisión preventiva a apoderada por huachicol",
-        "summary": "Detención de apoderada legal de empresa vinculada a Ruffo por fraude fiscal.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/jueza-dicta-prision-preventiva-a-apoderada-legal-de-empresa-de-ruffo-por-huachicol-fiscal/?utm_source=rss&utm_medium=rss&utm_campaign=jueza-dicta-prision-preventiva-a-apoderada-legal-de-empresa-de-ruffo-por-huachicol-fiscal",
-        "_added_at": "2026-08-09T14:40:25.124427-07:00"
-      },
-      {
-        "title": "Burgueño realiza mitin con funcionarios en Tijuana",
-        "summary": "Candidato o funcionario convoca evento político en municipio acarreando asistentes.",
+        "title": "Burgueño realiza mitin en Tijuana con funcionarios",
+        "summary": "Evento político en Tijuana con presencia de funcionarios y acarreados.",
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/08/burgueno-hace-mitin-con-acarreados-y-funcionarios-en-tijuana/",
-        "_added_at": "2026-08-09T11:52:42.457925-07:00"
+        "_added_at": "2026-08-10T00:56:47.653840-07:00"
       },
       {
-        "title": "Burgueño realiza mitin con funcionarios en Tijuana",
-        "summary": "Candidato políticos realiza evento masivo con autoridades y asistentes en la ciudad.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/burgueno-hace-mitin-con-acarreados-y-funcionarios-en-tijuana/?utm_source=rss&utm_medium=rss&utm_campaign=burgueno-hace-mitin-con-acarreados-y-funcionarios-en-tijuana",
-        "_added_at": "2026-08-09T08:39:06.447834-07:00"
+        "title": "Sheinbaum se enlaza con gobernadores sin presentar a Marina",
+        "summary": "Reunión con gobernadores no incluye presentación de nueva gobernadora de BC.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/afn_politico/180141_sheinbaum_se_enlaza_con_gobernadores_pero_no_presentan_a_marina",
+        "_added_at": "2026-08-10T00:56:47.653840-07:00"
       },
       {
-        "title": "Denuncian toma del centro comunitario en Tijuana",
-        "summary": "Sindicatura investiga ocupación irregular de instalación comunitaria en la Libertad.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/denuncian-en-sindicatura-de-tijuana-toma-del-centro-comunitario-de-la-libertad/?utm_source=rss&utm_medium=rss&utm_campaign=denuncian-en-sindicatura-de-tijuana-toma-del-centro-comunitario-de-la-libertad",
-        "_added_at": "2026-08-09T08:39:06.447834-07:00"
-      },
-      {
-        "title": "Diez exfuncionarios inhabilitados en una semana",
-        "summary": "Autoridades inhabilitan a diez funcionarios de administración anterior en menos de siete días.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/inhabilitan-a-otros-cinco-exfuncionarios-de-la-administracion-de-montserrat-caballero-suman-10-en-menos-de-una-semana/",
-        "_added_at": "2026-08-09T02:49:29.393556-07:00"
-      },
-      {
-        "title": "Priistas critican pérdida de confianza en gobiernos Morena",
-        "summary": "Partido opositor realiza foro en BC señalando problemas de credibilidad en administraciones actuales.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/priistas-acusan-perdida-de-confianza-durante-gobiernos-de-morena-celebran-foro-en-bc/",
-        "_added_at": "2026-08-09T02:49:29.393556-07:00"
+        "title": "Viuda de Manzo denuncia embestida política y mediática",
+        "summary": "Denuncian campañas políticas y mediáticas en contra de viuda de político fallecido.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180134_viuda_de_carlos_manzo_denuncia_embestida_politica_y_mediatica_en_su_contra",
+        "_added_at": "2026-08-10T00:56:47.653840-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Turismo comunitario recibe 1.5 mdp en cuatro años",
-        "summary": "Gobierno destinó 1.5 millones de pesos para promover turismo comunitario en los últimos cuatro años.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180143_en_cuatro_anos_se_han_destinado_1_5_mdp_a_promover_el_turismo_comunitario_badiola",
-        "_added_at": "2026-08-09T21:45:53.597884-07:00"
-      },
-      {
-        "title": "CFE inaugura nueva línea de transmisión en Mexicali",
-        "summary": "Comisión Federal pone en operación infraestructura eléctrica en central de generación combinada.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97855/Pone-en-marcha-CFE-nueva-l%C3%ADnea-de-transmisi%C3%B3n-en-central-combinado",
-        "_added_at": "2026-08-09T19:24:58.079350-07:00"
-      },
-      {
-        "title": "Planta Tecolote-La Gloria sigue sin construirse pese fondos",
-        "summary": "Proyecto ha recibido tres asignaciones de financiamiento internacional pero continúa paralizado.",
+        "title": "Planta Tecolote-La Gloria sigue sin concretarse",
+        "summary": "Proyecto ha recibido fondos internacionales tres veces pero no avanza.",
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/08/planta-tecolote-la-gloria-ha-recibido-tres-veces-fondos-internacionales-y-sigue-sin-concretarse/",
-        "_added_at": "2026-08-09T19:24:58.079350-07:00"
+        "_added_at": "2026-08-10T00:56:47.653840-07:00"
       },
       {
-        "title": "Planta Tecolote-La Gloria recibe fondos pero sigue sin construirse",
-        "summary": "Proyecto de tratamiento ha obtenido financiamiento internacional triple sin avance concreto.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/planta-tecolote-la-gloria-ha-recibido-tres-veces-fondos-internacionales-y-sigue-sin-concretarse/?utm_source=rss&utm_medium=rss&utm_campaign=planta-tecolote-la-gloria-ha-recibido-tres-veces-fondos-internacionales-y-sigue-sin-concretarse",
-        "_added_at": "2026-08-09T14:40:25.124427-07:00"
-      },
-      {
-        "title": "Inversion china por 750 mil mdp en 27 estados incluye Tijuana",
-        "summary": "Anuncio de inversión extranjera masiva beneficia a Baja California con capitales asiáticos.",
+        "title": "Inversión china de 750 mil mdp llega a Tijuana",
+        "summary": "China anuncia inversión millonaria en 27 estados mexicanos incluyendo Baja California.",
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/180136_anuncian_inversion_china_por_750_mil_mdp_en_27_estados_de_mexico_alcanza_a_tijuana",
-        "_added_at": "2026-08-09T14:40:25.124427-07:00"
+        "_added_at": "2026-08-10T00:56:47.653840-07:00"
       },
       {
-        "title": "Profepa investiga contaminación en río y playas de BC",
-        "summary": "Autoridades ambientales analizan descargas industriales que afectan Río Tijuana y balnearios.",
+        "title": "Se destinan 1.5 mdp a turismo comunitario en BC",
+        "summary": "Gobierno invierte en promoción de turismo comunitario durante cuatro años.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180116_profepa_investiga_descargas_industriales_que_contaminan_el_rio_tijuana_y_playas_de_bc",
-        "_added_at": "2026-08-09T08:39:06.447834-07:00"
-      },
-      {
-        "title": "Proponen formalizar emprendedores ante cierre de negocios",
-        "summary": "Inician iniciativa para acompañar y legalizar pequeños empresarios enfrentados al cierre de operaciones.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/proponen-acompanar-y-formalizar-a-emprendedores-ante-cierre-de-negocios-en-bc/",
-        "_added_at": "2026-08-09T02:49:29.393556-07:00"
-      },
-      {
-        "title": "Proponen formalizar emprendedores ante cierre de negocios",
-        "summary": "Iniciativa busca acompañar a pequeños empresarios durante crisis económica en Baja California.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/proponen-acompanar-y-formalizar-a-emprendedores-ante-cierre-de-negocios-en-bc/?utm_source=rss&utm_medium=rss&utm_campaign=proponen-acompanar-y-formalizar-a-emprendedores-ante-cierre-de-negocios-en-bc",
-        "_added_at": "2026-08-09T00:07:51.650130-07:00"
-      },
-      {
-        "title": "LA Cetto celebra 98 años de tradición vitivinícola",
-        "summary": "Casa vinatera ensenadeña conmemora casi un siglo de producción vinícola regional.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Ensenada/97836/Celebra-LA-Cetto-98-a%C3%B1os-de-vendimias",
-        "_added_at": "2026-08-09T00:07:51.650130-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/180143_en_cuatro_anos_se_han_destinado_1_5_mdp_a_promover_el_turismo_comunitario_badiola",
+        "_added_at": "2026-08-10T00:56:47.653840-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Jornada de reforestación: 35 mil plantas en BC",
-        "summary": "Iniciativa nacional de reforestación planta 35 mil árboles en Baja California.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180142_inicio_la_jornada_nacional_de_reforestacion_sembraran_35_mil_plantas_en_bc",
-        "_added_at": "2026-08-09T21:45:53.597884-07:00"
-      },
-      {
-        "title": "Festival por la Juventud en Tijuana",
-        "summary": "Se invita a participar en Festival por la Juventud en Tijuana como actividad de esparcimiento comunitario.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180146_invitan_al_festival_por_la_juventud_en_tijuana",
-        "_added_at": "2026-08-09T21:45:53.597884-07:00"
-      },
-      {
-        "title": "Rescatan a niño de dos años deambulando en vías públicas",
-        "summary": "Autoridades en Ensenada localizan a menor solo en la calle y lo ponen a resguardo de servicios sociales.",
+        "title": "Rescatan niño de dos años solo en Ensenada",
+        "summary": "Menor encontrado deambulando en vía pública vivía en condiciones insalubres.",
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/08/ponen-a-salvo-a-nino-de-dos-anos-que-deambulaba-en-via-publica-en-ensenada/",
-        "_added_at": "2026-08-09T19:24:58.079350-07:00"
+        "_added_at": "2026-08-10T00:56:47.653840-07:00"
       },
       {
-        "title": "Adolescente muere ahogado en playa de Ensenada",
-        "summary": "Joven fallece tras ahogarse en Playa Chapultepec en incidente durante recreación acuática.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Ensenada/97858/Muere-adolescente-ahogado-en-Playa-Chapultepec",
-        "_added_at": "2026-08-09T19:24:58.079350-07:00"
-      },
-      {
-        "title": "IMSS invierte en infraestructura hospitalaria en Baja California",
-        "summary": "Instituto destaca ampliación y mejora de capacidades en instalaciones médicas del estado.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97857/Destaca-IMSS-inversi%C3%B3n-en-infraestructura-hospitalaria-en-BC",
-        "_added_at": "2026-08-09T19:24:58.079350-07:00"
-      },
-      {
-        "title": "Rescatan a niño de dos años viviendo en condiciones insalubres",
-        "summary": "Menor hallado caminando solo en Maneadero sin cuidados básicos en vivienda inadecuada.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180138_recatan_a_nino_de_2_anos_caminando_solo_en_maneadero_vivia_en_condiciones_insalubres",
-        "_added_at": "2026-08-09T14:40:25.124427-07:00"
-      },
-      {
-        "title": "Denuncian toma del centro comunitario La Libertad Tijuana",
-        "summary": "Ciudadanos reportan ocupación irregular de espacio público de uso social en la capital.",
+        "title": "Colonias sin agua por falla en booster El Carrizo",
+        "summary": "Avería en sistema de bombeo deja sin servicio a múltiples colonias de Tijuana.",
         "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/denuncian-en-sindicatura-de-tijuana-toma-del-centro-comunitario-de-la-libertad/",
-        "_added_at": "2026-08-09T11:52:42.457925-07:00"
+        "url": "https://zetatijuana.com/2026/08/colonias-de-tijuana-afectadas-por-averia-en-el-booster-el-carrizo-siguen-sin-agua/",
+        "_added_at": "2026-08-10T00:56:47.653840-07:00"
       },
       {
-        "title": "Expertos piden atender a pueblos originarios de BC",
-        "summary": "Alfredo Álvarez urge implementar políticas prioritarias para comunidades indígenas de la región.",
+        "title": "Inicia jornada nacional reforesta 35 mil plantas en BC",
+        "summary": "Programa de reforestación nacional planta miles de árboles en Baja California.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180127_es_urgente_atender_a_los_pueblos_originarios_de_bc_alfredo_alvarez",
-        "_added_at": "2026-08-09T11:52:42.457925-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/180142_inicio_la_jornada_nacional_de_reforestacion_sembraran_35_mil_plantas_en_bc",
+        "_added_at": "2026-08-10T00:56:47.653840-07:00"
       },
       {
-        "title": "Miles disfrutan del Baja Beach Fest en Rosarito",
-        "summary": "Festival de música y entretenimiento atrae a gran cantidad de visitantes a balneario.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Rosarito/97841/Miles-disfrutan-de-m%C3%BAsica-y-fiesta-en-el-Baja-Beach-Fest-en-Rosarito",
-        "_added_at": "2026-08-09T08:39:06.447834-07:00"
-      },
-      {
-        "title": "Incendio consume vivienda en Llamas Amaya",
-        "summary": "Casa de madera se pierde completamente en siniestro registrado en la zona.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97842/Vivienda-de-madera-queda-en-p%C3%A9rdida-total-tras-incendio-en-Llamas-Amaya",
-        "_added_at": "2026-08-09T08:39:06.447834-07:00"
+        "title": "Programa recuperación cóndor California en San Pedro Mártir",
+        "summary": "Destacan iniciativa para conservación de cóndor californiano en reserva.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180147_destacan_programa_para_la_recuperacion_del_condor_de_california_en_san_pedro_martir",
+        "_added_at": "2026-08-10T00:56:47.653840-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-09T21:45:53.597884-07:00"
+  "last_updated": "2026-08-10T00:56:47.653840-07:00"
 }
