@@ -1,8 +1,36 @@
 {
   "date": "2026-08-10",
-  "run_count": 5,
+  "run_count": 6,
   "notes": {
     "seguridad": [
+      {
+        "title": "Recuperan cuatro vehículos robados en operativos tijuanenses",
+        "summary": "Autoridades aseguran cuatro automóviles robados durante operativos realizados en Tijuana.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/aseguran-cuatro-vehiculos-robados-durante-operativos-en-tijuana/?utm_source=rss&utm_medium=rss&utm_campaign=aseguran-cuatro-vehiculos-robados-durante-operativos-en-tijuana",
+        "_added_at": "2026-08-10T14:50:55.651778-07:00"
+      },
+      {
+        "title": "Liberación de Mendívil cuestiona eficacia de la FGE",
+        "summary": "Caso de liberación expone deficiencias en la Fiscalía General del Estado de Baja California.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/liberacion-de-mendivil-prueba-ineficacia-de-la-fge/?utm_source=rss&utm_medium=rss&utm_campaign=liberacion-de-mendivil-prueba-ineficacia-de-la-fge",
+        "_added_at": "2026-08-10T14:50:55.651778-07:00"
+      },
+      {
+        "title": "Colectivos demandan reanudar búsqueda en basurero",
+        "summary": "Organizaciones presionan a la FGE para continuar recuperación de cadáveres en sitio.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180172_colectivos_exigen_a_la_fge_reanudar_busqueda_de_cadaveres_en_basurero",
+        "_added_at": "2026-08-10T14:50:55.651778-07:00"
+      },
+      {
+        "title": "Crimen organizado obstaculiza identificación de restos",
+        "summary": "Autoridades reportan que grupos criminales impiden labor de identificación forense.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/180167_el_crimen_organizado_entorpece_la_identificacion_de_restos_eddy_carrillo",
+        "_added_at": "2026-08-10T14:50:55.651778-07:00"
+      },
       {
         "title": "Dos hombres asesinados a tiros en Tijuana",
         "summary": "Ejecutan a dos personas en Camino Verde y colonia Libertad durante fin de semana en Tijuana.",
@@ -44,37 +72,30 @@
         "source": "El Mexicano",
         "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97859/Fuerte-choque-deja-a-dos-personas-atrapadas-en-taxi-de-ruta",
         "_added_at": "2026-08-10T06:26:27.358696-07:00"
-      },
-      {
-        "title": "Policía decomisa 100 kilos de heroína en Tijuana",
-        "summary": "Tres hombres detenidos con más de 100 kilogramos de heroína en operativo de la Policía de Tijuana.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/policia-de-tijuana-detiene-a-tres-hombres-con-mas-de-100-kilogramos-de-heroina/?utm_source=rss&utm_medium=rss&utm_campaign=policia-de-tijuana-detiene-a-tres-hombres-con-mas-de-100-kilogramos-de-heroina",
-        "_added_at": "2026-08-10T03:25:04.759717-07:00"
-      },
-      {
-        "title": "101 desaparecidos en Tecate, madres exigen justicia",
-        "summary": "Madres de desaparecidos en Tecate claman por información y justicia ante centenar de casos sin resolver.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/101-desaparecidos-en-tecate-madres-claman-informacion-y-justicia/?utm_source=rss&utm_medium=rss&utm_campaign=101-desaparecidos-en-tecate-madres-claman-informacion-y-justicia",
-        "_added_at": "2026-08-10T03:25:04.759717-07:00"
-      },
-      {
-        "title": "Choque múltiple en Tijuana deja dos atrapados",
-        "summary": "Fuerte colisión en taxi de ruta deja dos personas atrapadas en el vehículo.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/180140_detienen_a_tres_en_posesion_de_droga_y_un_arma_de_fuego",
-        "_added_at": "2026-08-10T03:25:04.759717-07:00"
-      },
-      {
-        "title": "Policía incauta 100 kg de heroína en Tijuana",
-        "summary": "Tres hombres detenidos en posesión de más de 100 kilogramos de heroína en operativo de la policía tijuanense.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/policia-de-tijuana-detiene-a-tres-hombres-con-mas-de-100-kilogramos-de-heroina/",
-        "_added_at": "2026-08-10T00:56:47.653840-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Itzela Meza asume coordinación de la FESC en Tijuana",
+        "summary": "Funcionaria tras experiencia de hostigamiento laboral accede a posición de coordinación.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/itzela-meza-vazquez-del-hostigamiento-laboral-a-la-coordinacion-de-la-fesc/?utm_source=rss&utm_medium=rss&utm_campaign=itzela-meza-vazquez-del-hostigamiento-laboral-a-la-coordinacion-de-la-fesc",
+        "_added_at": "2026-08-10T14:50:55.651778-07:00"
+      },
+      {
+        "title": "Conflicto síndico-alcaldesa en Rosarito por expedientes",
+        "summary": "Disputa entre autoridades sobre documentación de policías municipales escala tensiones.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/escala-conflicto-entre-sindico-y-alcaldesa-por-expedientes-de-policias-en-rosarito/?utm_source=rss&utm_medium=rss&utm_campaign=escala-conflicto-entre-sindico-y-alcaldesa-por-expedientes-de-policias-en-rosarito",
+        "_added_at": "2026-08-10T14:50:55.651778-07:00"
+      },
+      {
+        "title": "Prepas militarizadas continuarán operando en BC",
+        "summary": "Gobierno descarta cierre de instituciones educativas militarizadas ante saturación escolar.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/97898/Prepas-militarizadas-en-Tijuana-y-Tecate-continuar%C3%A1n-operando,-son-apoyo-ante-la-saturaci%C3%B3n-educativa",
+        "_added_at": "2026-08-10T14:50:55.651778-07:00"
+      },
       {
         "title": "Jueza ordena prisión preventiva por huachicol fiscal",
         "summary": "Apoderada legal vinculada a empresa de Ruffo enfrenta cargos por fraude fiscal.",
@@ -123,23 +144,30 @@
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/08/burgueno-hace-mitin-con-acarreados-y-funcionarios-en-tijuana/",
         "_added_at": "2026-08-10T00:56:47.653840-07:00"
-      },
-      {
-        "title": "Sheinbaum se enlaza con gobernadores sin presentar a Marina",
-        "summary": "Reunión con gobernadores no incluye presentación de nueva gobernadora de BC.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/afn_politico/180141_sheinbaum_se_enlaza_con_gobernadores_pero_no_presentan_a_marina",
-        "_added_at": "2026-08-10T00:56:47.653840-07:00"
-      },
-      {
-        "title": "Viuda de Manzo denuncia embestida política y mediática",
-        "summary": "Denuncian campañas políticas y mediáticas en contra de viuda de político fallecido.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180134_viuda_de_carlos_manzo_denuncia_embestida_politica_y_mediatica_en_su_contra",
-        "_added_at": "2026-08-10T00:56:47.653840-07:00"
       }
     ],
     "economia": [
+      {
+        "title": "Maquiladora mexicali registra récord en exportaciones",
+        "summary": "Planta alcanza cifras históricas en envíos de productos manufacturados.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180170_registra_maquiladora_de_mexicali_record_de_exportaciones",
+        "_added_at": "2026-08-10T14:50:55.651778-07:00"
+      },
+      {
+        "title": "Regularización de autos presiona ventas en Tijuana",
+        "summary": "Programa de legalización de vehículos usados genera efectos negativos en comercio local.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180166_regularizacion_de_autos_usados_mantiene_presion_sobre_ventas_en_tijuana",
+        "_added_at": "2026-08-10T14:50:55.651778-07:00"
+      },
+      {
+        "title": "Sector privado pide apertura a inversiones en Tijuana",
+        "summary": "Empresarios solicitan facilidades para atraer capital privado a la región.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97893/Pide-sector-privado-abrir-puerta-a-inversiones",
+        "_added_at": "2026-08-10T14:50:55.651778-07:00"
+      },
       {
         "title": "Dólar abre semana sin superar los 17 pesos",
         "summary": "Cotización del dólar se mantiene por debajo de 17 pesos al inicio de la semana.",
@@ -188,16 +216,37 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/180136_anuncian_inversion_china_por_750_mil_mdp_en_27_estados_de_mexico_alcanza_a_tijuana",
         "_added_at": "2026-08-10T00:56:47.653840-07:00"
-      },
-      {
-        "title": "Se destinan 1.5 mdp a turismo comunitario en BC",
-        "summary": "Gobierno invierte en promoción de turismo comunitario durante cuatro años.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180143_en_cuatro_anos_se_han_destinado_1_5_mdp_a_promover_el_turismo_comunitario_badiola",
-        "_added_at": "2026-08-10T00:56:47.653840-07:00"
       }
     ],
     "sociedad": [
+      {
+        "title": "Cinco mil aspirantes sin plantel para prepa en BC",
+        "summary": "Saturación educativa obliga habilitar secundarias para absorber demanda de estudiantes.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/sin-plantel-5-mil-aspirantes-a-prepa-se-habilitara-10-secundarias/?utm_source=rss&utm_medium=rss&utm_campaign=sin-plantel-5-mil-aspirantes-a-prepa-se-habilitara-10-secundarias",
+        "_added_at": "2026-08-10T14:50:55.651778-07:00"
+      },
+      {
+        "title": "Portobello sin urbanización tras dos años de promesas",
+        "summary": "Proyecto de desarrollo permanece abandonado incumpliendo compromisos de seis meses.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/prometieron-entregar-portobello-en-seis-meses-dos-anos-despues-sigue-sin-urbanizacion/?utm_source=rss&utm_medium=rss&utm_campaign=prometieron-entregar-portobello-en-seis-meses-dos-anos-despues-sigue-sin-urbanizacion",
+        "_added_at": "2026-08-10T14:50:55.651778-07:00"
+      },
+      {
+        "title": "Tres pacientes fallecen sin atención en IMSS-Bienestar",
+        "summary": "Muertes por falta de asistencia médica evidencian crisis en servicio de salud.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/fallecen-tres-pacientes-sin-atencion-en-imss-bienestar/?utm_source=rss&utm_medium=rss&utm_campaign=fallecen-tres-pacientes-sin-atencion-en-imss-bienestar",
+        "_added_at": "2026-08-10T14:50:55.651778-07:00"
+      },
+      {
+        "title": "Detectan 400 viviendas irregulares en río Tecate",
+        "summary": "Asentamientos clandestinos ocupan márgenes y cauce del río generando riesgo ambiental.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180174_detectan_400_viviendas_irregulares_en_orillas_y_cauce_del_rio_tecate",
+        "_added_at": "2026-08-10T14:50:55.651778-07:00"
+      },
       {
         "title": "Adolescente se ahoga en Playa Chapultepec, Ensenada",
         "summary": "Joven fallece ahogado en playa de Ensenada; intentos de reanimación fueron infructuosos.",
@@ -239,36 +288,8 @@
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/08/colonias-de-tijuana-afectadas-por-averia-en-el-booster-el-carrizo-siguen-sin-agua/?utm_source=rss&utm_medium=rss&utm_campaign=colonias-de-tijuana-afectadas-por-averia-en-el-booster-el-carrizo-siguen-sin-agua",
         "_added_at": "2026-08-10T03:25:04.759717-07:00"
-      },
-      {
-        "title": "Festival por la Juventud en Tijuana convoca participantes",
-        "summary": "Invitación a evento cultural enfocado en público joven en el municipio de Tijuana durante agosto.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180146_invitan_al_festival_por_la_juventud_en_tijuana",
-        "_added_at": "2026-08-10T03:25:04.759717-07:00"
-      },
-      {
-        "title": "Rescatan niño de dos años solo en Ensenada",
-        "summary": "Menor encontrado deambulando en vía pública vivía en condiciones insalubres.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/ponen-a-salvo-a-nino-de-dos-anos-que-deambulaba-en-via-publica-en-ensenada/",
-        "_added_at": "2026-08-10T00:56:47.653840-07:00"
-      },
-      {
-        "title": "Colonias sin agua por falla en booster El Carrizo",
-        "summary": "Avería en sistema de bombeo deja sin servicio a múltiples colonias de Tijuana.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/colonias-de-tijuana-afectadas-por-averia-en-el-booster-el-carrizo-siguen-sin-agua/",
-        "_added_at": "2026-08-10T00:56:47.653840-07:00"
-      },
-      {
-        "title": "Inicia jornada nacional reforesta 35 mil plantas en BC",
-        "summary": "Programa de reforestación nacional planta miles de árboles en Baja California.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180142_inicio_la_jornada_nacional_de_reforestacion_sembraran_35_mil_plantas_en_bc",
-        "_added_at": "2026-08-10T00:56:47.653840-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-10T12:07:10.124296-07:00"
+  "last_updated": "2026-08-10T14:50:55.651778-07:00"
 }
