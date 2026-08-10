@@ -1,8 +1,22 @@
 {
   "date": "2026-08-10",
-  "run_count": 3,
+  "run_count": 4,
   "notes": {
     "seguridad": [
+      {
+        "title": "Menor de dos años rescatado en Ensenada",
+        "summary": "Autoridades localizan a niño deambulando en vía pública y lo ponen a resguardo.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/ponen-a-salvo-a-nino-de-dos-anos-que-deambulaba-en-via-publica-en-ensenada/?utm_source=rss&utm_medium=rss&utm_campaign=ponen-a-salvo-a-nino-de-dos-anos-que-deambulaba-en-via-publica-en-ensenada",
+        "_added_at": "2026-08-10T09:04:39.303203-07:00"
+      },
+      {
+        "title": "Hombre asesinado en colonia Libertad, Tijuana",
+        "summary": "Homicidio registrado en Tijuana durante fin de semana.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97870/Hombre-es-asesinado-en-la-colonia-Libertad",
+        "_added_at": "2026-08-10T09:04:39.303203-07:00"
+      },
       {
         "title": "Fuerte choque deja dos personas atrapadas en taxi",
         "summary": "Accidente vial en Tijuana con personas lesionadas y atrapadas en vehículo.",
@@ -62,6 +76,20 @@
     ],
     "politica": [
       {
+        "title": "Jueza ordena prisión preventiva por huachicol fiscal",
+        "summary": "Apoderada legal vinculada a empresa de Ruffo enfrenta cargos por fraude fiscal.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/jueza-dicta-prision-preventiva-a-apoderada-legal-de-empresa-de-ruffo-por-huachicol-fiscal/?utm_source=rss&utm_medium=rss&utm_campaign=jueza-dicta-prision-preventiva-a-apoderada-legal-de-empresa-de-ruffo-por-huachicol-fiscal",
+        "_added_at": "2026-08-10T09:04:39.303203-07:00"
+      },
+      {
+        "title": "Guardia Nacional permanecerá en frontera hasta 2029",
+        "summary": "Prórroga de presencia militar en Washington con presencia en la frontera con Baja California.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/The%20Border/97869/Guardia-Nacional-seguir%C3%A1-en-Washington-hasta-2029",
+        "_added_at": "2026-08-10T09:04:39.303203-07:00"
+      },
+      {
         "title": "Burgueño reúne a ciudadanos en Ensenada con proyecto 4T",
         "summary": "Funcionario presenta avances de política nacional a vecinos de Ensenada buscando respaldo ciudadano.",
         "source": "El Mexicano",
@@ -113,6 +141,27 @@
     ],
     "economia": [
       {
+        "title": "BC recauda máximo histórico en impuestos locales",
+        "summary": "Gobierno estatal reporta ingresos de 7 mil 379 millones por recaudación tributaria.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/empresarial/180150_gobierno_de_bc_recaudo_7_379_mdp_por_impuestos_locales_maximo_historico",
+        "_added_at": "2026-08-10T09:04:39.303203-07:00"
+      },
+      {
+        "title": "Tijuana registra inflación de 1.96% anual en julio",
+        "summary": "Índice de precios al consumidor en la ciudad muestra aumentos moderados.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/empresarial/180149_registra_tijuana_inflacion_de_1_96_anual_en_julio",
+        "_added_at": "2026-08-10T09:04:39.303203-07:00"
+      },
+      {
+        "title": "CFE inaugura línea de transmisión en Mexicali y Tecate",
+        "summary": "Nueva infraestructura energética beneficia a ambas ciudades del estado.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97855/Pone-en-marcha-CFE-nueva-l%C3%ADnea-de-transmisi%C3%B3n-en-central-combinado",
+        "_added_at": "2026-08-10T09:04:39.303203-07:00"
+      },
+      {
         "title": "Planta Tecolote-La Gloria sin concretarse tras fondos",
         "summary": "Proyecto ha recibido financiamiento internacional en tres ocasiones pero permanece paraliziado en Tijuana.",
         "source": "ZETA Tijuana",
@@ -142,6 +191,13 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Fiesta de Colores celebrada en viñedo L.A. Cetto",
+        "summary": "Evento cultural en bodega regional reúne a aficionados al vino y la gastronomía.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/celebran-la-fiesta-de-colores-en-l-a-cetto/?utm_source=rss&utm_medium=rss&utm_campaign=celebran-la-fiesta-de-colores-en-l-a-cetto",
+        "_added_at": "2026-08-10T09:04:39.303203-07:00"
+      },
       {
         "title": "Ayuntamiento presenta agenda cultural de agosto en Tijuana",
         "summary": "Autoridad municipal anuncia actividades culturales programadas para el mes.",
@@ -200,5 +256,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-10T06:26:27.358696-07:00"
+  "last_updated": "2026-08-10T09:04:39.303203-07:00"
 }
