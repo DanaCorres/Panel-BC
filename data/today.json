@@ -1,8 +1,15 @@
 {
   "date": "2026-08-10",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Fuerte choque deja dos personas atrapadas en taxi",
+        "summary": "Accidente vial en Tijuana con personas lesionadas y atrapadas en vehículo.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97859/Fuerte-choque-deja-a-dos-personas-atrapadas-en-taxi-de-ruta",
+        "_added_at": "2026-08-10T06:26:27.358696-07:00"
+      },
       {
         "title": "Policía decomisa 100 kilos de heroína en Tijuana",
         "summary": "Tres hombres detenidos con más de 100 kilogramos de heroína en operativo de la Policía de Tijuana.",
@@ -136,6 +143,13 @@
     ],
     "sociedad": [
       {
+        "title": "Ayuntamiento presenta agenda cultural de agosto en Tijuana",
+        "summary": "Autoridad municipal anuncia actividades culturales programadas para el mes.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/municipios/180145_ayuntamiento_de_tijuana_presento_la_agenda_cultural_de_agosto",
+        "_added_at": "2026-08-10T06:26:27.358696-07:00"
+      },
+      {
         "title": "Niño de dos años rescatado en Ensenada",
         "summary": "Menores encontrado deambulando solo en vía pública vivía en condiciones insalubres en Ensenada.",
         "source": "AFN Tijuana",
@@ -186,5 +200,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-10T03:25:04.759717-07:00"
+  "last_updated": "2026-08-10T06:26:27.358696-07:00"
 }
