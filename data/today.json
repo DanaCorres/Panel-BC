@@ -1,8 +1,22 @@
 {
   "date": "2026-08-11",
-  "run_count": 4,
+  "run_count": 5,
   "notes": {
     "seguridad": [
+      {
+        "title": "Localizan restos humanos por segunda vez en Ensenada",
+        "summary": "Descubren restos en El Roble, Ensenada; segunda localización en mismo sitio.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/localizan-por-segunda-ocasion-restos-humanos-en-el-roble-en-ensenada/?utm_source=rss&utm_medium=rss&utm_campaign=localizan-por-segunda-ocasion-restos-humanos-en-el-roble-en-ensenada",
+        "_added_at": "2026-08-11T12:12:47.206417-07:00"
+      },
+      {
+        "title": "Detienen a miembro de Los Rusos con armas y drogas",
+        "summary": "Capturan a El Canelo, supuesto integrante de organización delictiva en Kilómetro 57.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/180208_cae_el_canelo_con_armas_y_drogas_presunto_integrante_de_los_rusos",
+        "_added_at": "2026-08-11T12:12:47.206417-07:00"
+      },
       {
         "title": "Capturan mando criminal vinculado a asesinato de Roxana Guzmán",
         "summary": "Autoridades detienen a operador ligado al homicidio de la periodista en Tijuana.",
@@ -58,13 +72,6 @@
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/08/en-mexicali-determina-semefo-que-joven-hallado-sin-vida-en-huertas-de-la-progreso-murio-por-disparos/",
         "_added_at": "2026-08-11T00:19:51.185529-07:00"
-      },
-      {
-        "title": "Localizan cadáver envuelto en zona de terracería de El Lago",
-        "summary": "Hallazgo de cuerpo atado y envuelto en área despoblada genera investigación.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/180180_localizan_cadaver_envuelto_y_atado_en_zona_de_terraceria_de_el_lago",
-        "_added_at": "2026-08-11T00:19:51.185529-07:00"
       }
     ],
     "politica": [
@@ -113,6 +120,13 @@
     ],
     "economia": [
       {
+        "title": "Puente El Chaparral reabre tras remodelaciones",
+        "summary": "Concluyen trabajos de restauración en cruce fronterizo importante entre Tijuana y San Diego.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180209_reabren_puente_el_chaparral_tras_concluir_remodelaciones",
+        "_added_at": "2026-08-11T12:12:47.206417-07:00"
+      },
+      {
         "title": "Actividad industrial en BC cae 11 meses consecutivos",
         "summary": "Sector experimenta contracción prolongada afectando economía regional.",
         "source": "AFN Tijuana",
@@ -156,6 +170,27 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Proponen prohibir celulares inteligentes a menores de 16 años",
+        "summary": "Iniciativa busca restringir acceso de adolescentes a teléfonos móviles en Baja California.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/proponen-prohibir-telefonos-inteligentes-a-menores-de-16-anos/?utm_source=rss&utm_medium=rss&utm_campaign=proponen-prohibir-telefonos-inteligentes-a-menores-de-16-anos",
+        "_added_at": "2026-08-11T12:12:47.206417-07:00"
+      },
+      {
+        "title": "Advierten riesgo de colapsos por zonas deslizadas abandonadas",
+        "summary": "Autoridades alertan sobre peligro en terrenos inestables sin atención en Tijuana.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97936/Advierten-riesgo-de-nuevos-colapsos-por-abandono-de-zonas-deslizadas-en-Tijuana",
+        "_added_at": "2026-08-11T12:12:47.206417-07:00"
+      },
+      {
+        "title": "Estudiantes UABC enfrentan falta de transporte en Valle de Palmas",
+        "summary": "Universitarios carecen de opciones de movilidad para llegar a campus.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180212_sufren_por_falta_de_transporte_para_estudiar_en_la_uabc_de_valle_de_las_palmas",
+        "_added_at": "2026-08-11T12:12:47.206417-07:00"
+      },
       {
         "title": "Incendio en basurero clandestino causa humo visible",
         "summary": "Fuego en Rancho Escondido, Tijuana; bomberos controlan las llamas.",
@@ -204,15 +239,8 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/180186_alertan_por_uso_de_redes_sociales_entre_ninos_y_adolescentes",
         "_added_at": "2026-08-11T00:19:51.185529-07:00"
-      },
-      {
-        "title": "Recolectan más de 80 toneladas de basura pesada en delegaciones",
-        "summary": "Operativo de limpieza y recolección en tres sectores de la ciudad.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/municipios/180190_recolectan_mas_de_80_toneladas_de_basura_pesada_en_tres_delegaciones",
-        "_added_at": "2026-08-11T00:19:51.185529-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-11T09:05:14.674175-07:00"
+  "last_updated": "2026-08-11T12:12:47.206417-07:00"
 }
