@@ -1,295 +1,113 @@
 {
-  "date": "2026-08-10",
-  "run_count": 8,
+  "date": "2026-08-11",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "19 integrantes del CJNG condenados hasta 18 años",
-        "summary": "Tribunal sentencia a miembros de organización criminal a penas de hasta 18 años de prisión.",
+        "title": "Capturan 19 integrantes del CJNG con sentencias hasta 18 años",
+        "summary": "Tribunal condena a 19 miembros de organización criminal con penas de hasta 18 años de prisión.",
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/08/tribunal-condena-hasta-18-anos-de-prision-a-19-integrantes-del-cjng/",
-        "_added_at": "2026-08-10T21:26:23.016161-07:00"
+        "_added_at": "2026-08-11T00:19:51.185529-07:00"
       },
       {
-        "title": "Desmantelan célula criminal vinculada a homicidios en Tecate",
-        "summary": "Autoridades desarticulan organización delictiva ligada a asesinatos y ataques armados en la región de Tecate.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tecate/97906/Desmantelan-c%C3%A9lula-criminal-ligada-a-homicidios-esposo-de-regidora-y-ataques-armados-en-Tecate",
-        "_added_at": "2026-08-10T19:18:38.346704-07:00"
-      },
-      {
-        "title": "Cadáver hallado envuelto en terracería de El Lago",
-        "summary": "Localizan cuerpo sin vida atado y envuelto en zona rural de Tijuana.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/180180_localizan_cadaver_envuelto_y_atado_en_zona_de_terraceria_de_el_lago",
-        "_added_at": "2026-08-10T19:18:38.346704-07:00"
-      },
-      {
-        "title": "Joven muere por disparos en Mexicali; SEMEFO confirma",
-        "summary": "SEMEFO determina que joven hallado sin vida en Huertas de la Progreso falleció por heridas de bala.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/en-mexicali-determina-semefo-que-joven-hallado-sin-vida-en-huertas-de-la-progreso-murio-por-disparos/",
-        "_added_at": "2026-08-10T19:18:38.346704-07:00"
-      },
-      {
-        "title": "Dos agentes FESC gravemente heridos en choque carretero",
-        "summary": "Patrulla colisiona contra tráiler en carretera Tecate-Mexicali, dejando heridos a dos elementos.",
+        "title": "Dos agentes FESC gravemente heridos en choque en carretera Tecate-Mexicali",
+        "summary": "Patrulla de seguridad colisiona contra tráiler dejando dos elementos en estado grave.",
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/08/dos-agentes-de-la-fesc-resultan-gravemente-heridos-tras-choque-contra-trailer-en-la-carretera-tecate-mexicali/",
-        "_added_at": "2026-08-10T19:18:38.346704-07:00"
+        "_added_at": "2026-08-11T00:19:51.185529-07:00"
       },
       {
-        "title": "Recuperan cuatro vehículos robados en operativos tijuanenses",
-        "summary": "Autoridades aseguran cuatro automóviles robados durante operativos realizados en Tijuana.",
+        "title": "Homicidio en Mexicali confirmado por disparos",
+        "summary": "Joven encontrado sin vida en Huertas de la Progreso; SEMEFO confirma muerte por arma de fuego.",
         "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/aseguran-cuatro-vehiculos-robados-durante-operativos-en-tijuana/?utm_source=rss&utm_medium=rss&utm_campaign=aseguran-cuatro-vehiculos-robados-durante-operativos-en-tijuana",
-        "_added_at": "2026-08-10T14:50:55.651778-07:00"
+        "url": "https://zetatijuana.com/2026/08/en-mexicali-determina-semefo-que-joven-hallado-sin-vida-en-huertas-de-la-progreso-murio-por-disparos/",
+        "_added_at": "2026-08-11T00:19:51.185529-07:00"
       },
       {
-        "title": "Liberación de Mendívil cuestiona eficacia de la FGE",
-        "summary": "Caso de liberación expone deficiencias en la Fiscalía General del Estado de Baja California.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/liberacion-de-mendivil-prueba-ineficacia-de-la-fge/?utm_source=rss&utm_medium=rss&utm_campaign=liberacion-de-mendivil-prueba-ineficacia-de-la-fge",
-        "_added_at": "2026-08-10T14:50:55.651778-07:00"
-      },
-      {
-        "title": "Colectivos demandan reanudar búsqueda en basurero",
-        "summary": "Organizaciones presionan a la FGE para continuar recuperación de cadáveres en sitio.",
+        "title": "Localizan cadáver envuelto en zona de terracería de El Lago",
+        "summary": "Hallazgo de cuerpo atado y envuelto en área despoblada genera investigación.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180172_colectivos_exigen_a_la_fge_reanudar_busqueda_de_cadaveres_en_basurero",
-        "_added_at": "2026-08-10T14:50:55.651778-07:00"
-      },
-      {
-        "title": "Crimen organizado obstaculiza identificación de restos",
-        "summary": "Autoridades reportan que grupos criminales impiden labor de identificación forense.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/180167_el_crimen_organizado_entorpece_la_identificacion_de_restos_eddy_carrillo",
-        "_added_at": "2026-08-10T14:50:55.651778-07:00"
-      },
-      {
-        "title": "Dos hombres asesinados a tiros en Tijuana",
-        "summary": "Ejecutan a dos personas en Camino Verde y colonia Libertad durante fin de semana en Tijuana.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/180158_asesinan_a_dos_hombres_a_tiros_uno_en_camino_verde_otro_en_la_colonia_libertad",
-        "_added_at": "2026-08-10T12:07:10.124296-07:00"
+        "url": "https://www.afntijuana.info/seguridad/180180_localizan_cadaver_envuelto_y_atado_en_zona_de_terraceria_de_el_lago",
+        "_added_at": "2026-08-11T00:19:51.185529-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Regidor de Ensenada expuesto por presentar exhorto tardío",
-        "summary": "Gandolfo criticado tras presentar solicitud cuando reforma ya había sido aprobada por cabildo.",
+        "title": "Regidor de Ensenada cuestionado por presentar exhorto ya aprobado",
+        "summary": "Gandolfo exhibido por trámite extemporáneo de exhorto sobre reforma municipal.",
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/08/en-ensenada-exhiben-al-regidor-gandolfo-por-presentar-exhorto-cuando-la-reforma-ya-habia-sido-aprobada/",
-        "_added_at": "2026-08-10T21:26:23.016161-07:00"
+        "_added_at": "2026-08-11T00:19:51.185529-07:00"
       },
       {
-        "title": "Amplían anticipo de participaciones para Ensenada",
-        "summary": "Turnan a Comisión de Hacienda propuesta para aumentar a 91.7 mdp recursos municipales.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/turnan-a-la-comision-de-hacienda-propuesta-para-ampliar-a-91-7-mdp-el-anticipo-de-participaciones-para-ensenada/",
-        "_added_at": "2026-08-10T21:26:23.016161-07:00"
-      },
-      {
-        "title": "Proponen nueva Secretaría de Gestión Integral de Riesgos",
-        "summary": "Legisladores impulsan creación de dependencia para atender deslizamientos y desastres naturales en BC.",
+        "title": "Proponen crear Secretaría de Gestión de Riesgos ante deslizamientos",
+        "summary": "Nueva dependencia para atender afectaciones por movimientos de tierra en BC.",
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/08/proponen-creacion-de-secretaria-de-gestion-integral-de-riesgos-ante-afectaciones-por-deslizamientos/",
-        "_added_at": "2026-08-10T19:18:38.346704-07:00"
+        "_added_at": "2026-08-11T00:19:51.185529-07:00"
       },
       {
-        "title": "Renuncias en gobierno de Marina se ejecutarán el viernes",
-        "summary": "Funcionarios que se retiran del gobierno presentarán dimisiones de forma oficial.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/afn_politico/180187_renunciaran_el_viernes_quienes_se_retiran_del_gobierno_de_marina",
-        "_added_at": "2026-08-10T19:18:38.346704-07:00"
-      },
-      {
-        "title": "Cuestionan Max García financiamiento de campañas Morena",
-        "summary": "Se cuestiona el origen de recursos en actividades anticipadas de Morena en BC.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180176_cuestiona_max_garcia_origen_de_recursos_en_campanas_anticipadas_de_morena",
-        "_added_at": "2026-08-10T19:18:38.346704-07:00"
-      },
-      {
-        "title": "Itzela Meza asume coordinación de la FESC en Tijuana",
-        "summary": "Funcionaria tras experiencia de hostigamiento laboral accede a posición de coordinación.",
+        "title": "Ensenada solicita ampliar anticipo de participaciones a 91.7 millones",
+        "summary": "Comisión de Hacienda analiza propuesta de aumento de transferencias municipales.",
         "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/itzela-meza-vazquez-del-hostigamiento-laboral-a-la-coordinacion-de-la-fesc/?utm_source=rss&utm_medium=rss&utm_campaign=itzela-meza-vazquez-del-hostigamiento-laboral-a-la-coordinacion-de-la-fesc",
-        "_added_at": "2026-08-10T14:50:55.651778-07:00"
-      },
-      {
-        "title": "Conflicto síndico-alcaldesa en Rosarito por expedientes",
-        "summary": "Disputa entre autoridades sobre documentación de policías municipales escala tensiones.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/escala-conflicto-entre-sindico-y-alcaldesa-por-expedientes-de-policias-en-rosarito/?utm_source=rss&utm_medium=rss&utm_campaign=escala-conflicto-entre-sindico-y-alcaldesa-por-expedientes-de-policias-en-rosarito",
-        "_added_at": "2026-08-10T14:50:55.651778-07:00"
-      },
-      {
-        "title": "Prepas militarizadas continuarán operando en BC",
-        "summary": "Gobierno descarta cierre de instituciones educativas militarizadas ante saturación escolar.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Estatal/97898/Prepas-militarizadas-en-Tijuana-y-Tecate-continuar%C3%A1n-operando,-son-apoyo-ante-la-saturaci%C3%B3n-educativa",
-        "_added_at": "2026-08-10T14:50:55.651778-07:00"
-      },
-      {
-        "title": "Jueza ordena prisión preventiva por huachicol fiscal",
-        "summary": "Apoderada legal vinculada a empresa de Ruffo enfrenta cargos por fraude fiscal.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/jueza-dicta-prision-preventiva-a-apoderada-legal-de-empresa-de-ruffo-por-huachicol-fiscal/?utm_source=rss&utm_medium=rss&utm_campaign=jueza-dicta-prision-preventiva-a-apoderada-legal-de-empresa-de-ruffo-por-huachicol-fiscal",
-        "_added_at": "2026-08-10T09:04:39.303203-07:00"
-      },
-      {
-        "title": "Guardia Nacional permanecerá en frontera hasta 2029",
-        "summary": "Prórroga de presencia militar en Washington con presencia en la frontera con Baja California.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/The%20Border/97869/Guardia-Nacional-seguir%C3%A1-en-Washington-hasta-2029",
-        "_added_at": "2026-08-10T09:04:39.303203-07:00"
+        "url": "https://zetatijuana.com/2026/08/turnan-a-la-comision-de-hacienda-propuesta-para-ampliar-a-91-7-mdp-el-anticipo-de-participaciones-para-ensenada/",
+        "_added_at": "2026-08-11T00:19:51.185529-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Mexicali alcanza récord en exportaciones maquiladoras",
-        "summary": "Sector maquilador logra exportaciones por 32 mil millones de pesos, cifra histórica para la ciudad.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97888/Logra-r%C3%A9cord-Mexicali-en-exportaciones-del-sector-maquilador",
-        "_added_at": "2026-08-10T19:18:38.346704-07:00"
-      },
-      {
-        "title": "Conagua difiere fallo de licitación desaladora Rosarito",
-        "summary": "Se pospone la resolución del proceso licitario para proyecto de desalinización en Rosarito.",
+        "title": "Conagua difiere decisión sobre licitación de desaladora de Rosarito",
+        "summary": "Retraso en fallo de concurso para proyecto de infraestructura hídrica.",
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/08/c-6/",
-        "_added_at": "2026-08-10T19:18:38.346704-07:00"
+        "_added_at": "2026-08-11T00:19:51.185529-07:00"
       },
       {
-        "title": "Amplían anticipo de participaciones para Ensenada a 91.7 mdp",
-        "summary": "Se turna a Hacienda propuesta para aumentar transferencias presupuestarias a municipio de Ensenada.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/turnan-a-la-comision-de-hacienda-propuesta-para-ampliar-a-91-7-mdp-el-anticipo-de-participaciones-para-ensenada/",
-        "_added_at": "2026-08-10T19:18:38.346704-07:00"
-      },
-      {
-        "title": "Entregan 350 apoyos económicos a productores Distrito 14",
-        "summary": "Se distribuyen subsidios a agricultores del Distrito de Riego 14 en la región.",
+        "title": "Entregan 350 apoyos a productores del Distrito de Riego 14",
+        "summary": "Distribución de recursos económicos para agricultores de la región.",
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/180185_entregaron_350_apoyos_economicos_a_productores_del_distrito_de_riego_14",
-        "_added_at": "2026-08-10T19:18:38.346704-07:00"
+        "_added_at": "2026-08-11T00:19:51.185529-07:00"
       },
       {
-        "title": "Maquiladora mexicali registra récord en exportaciones",
-        "summary": "Planta alcanza cifras históricas en envíos de productos manufacturados.",
+        "title": "Ayuntamiento entrega 89 apoyos a personas en situación vulnerable",
+        "summary": "Programa de asistencia económica para población en riesgo social.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180170_registra_maquiladora_de_mexicali_record_de_exportaciones",
-        "_added_at": "2026-08-10T14:50:55.651778-07:00"
-      },
-      {
-        "title": "Regularización de autos presiona ventas en Tijuana",
-        "summary": "Programa de legalización de vehículos usados genera efectos negativos en comercio local.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180166_regularizacion_de_autos_usados_mantiene_presion_sobre_ventas_en_tijuana",
-        "_added_at": "2026-08-10T14:50:55.651778-07:00"
-      },
-      {
-        "title": "Sector privado pide apertura a inversiones en Tijuana",
-        "summary": "Empresarios solicitan facilidades para atraer capital privado a la región.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97893/Pide-sector-privado-abrir-puerta-a-inversiones",
-        "_added_at": "2026-08-10T14:50:55.651778-07:00"
-      },
-      {
-        "title": "Dólar abre semana sin superar los 17 pesos",
-        "summary": "Cotización del dólar se mantiene por debajo de 17 pesos al inicio de la semana.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180161_costo_del_dolar_abre_semana_sin_sobrepasar_los_17_pesos",
-        "_added_at": "2026-08-10T12:07:10.124296-07:00"
-      },
-      {
-        "title": "BC recauda máximo histórico en impuestos locales",
-        "summary": "Gobierno estatal reporta ingresos de 7 mil 379 millones por recaudación tributaria.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/empresarial/180150_gobierno_de_bc_recaudo_7_379_mdp_por_impuestos_locales_maximo_historico",
-        "_added_at": "2026-08-10T09:04:39.303203-07:00"
-      },
-      {
-        "title": "Tijuana registra inflación de 1.96% anual en julio",
-        "summary": "Índice de precios al consumidor en la ciudad muestra aumentos moderados.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/empresarial/180149_registra_tijuana_inflacion_de_1_96_anual_en_julio",
-        "_added_at": "2026-08-10T09:04:39.303203-07:00"
+        "url": "https://www.afntijuana.info/municipios/180189_entrego_ayuntamiento_89_apoyos_economicos_a_personas_en_situacion_vulnerable",
+        "_added_at": "2026-08-11T00:19:51.185529-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Incendio en basurero clandestino de Tijuana",
-        "summary": "Bomberos atienden fuego en depósito ilegal en Rancho Escondido con humo visible.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97909/Incendio-en-basurero-clandestino-genera-humo-visible-en-varios-puntos-de-Tijuana",
-        "_added_at": "2026-08-10T21:26:23.016161-07:00"
+        "title": "Incendios en basureros clandestinos generan humo en Tijuana",
+        "summary": "Bomberos atienden múltiples focos en depósitos irregulares de residuos.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/bomberos-combaten-incendio-en-basurero-clandestino-de-rancho-escondido-tijuana/",
+        "_added_at": "2026-08-11T00:19:51.185529-07:00"
       },
       {
-        "title": "Lluvias y granizo pronosticado en Baja California",
-        "summary": "Alerta meteorológica por precipitación, vientos fuertes y caída de hielo a partir de lunes.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180183_pronostican_lluvias_a_partir_de_esta_noche_en_la_region_habra_vientos_fuertes_y_caida_de_granizo",
-        "_added_at": "2026-08-10T21:26:23.016161-07:00"
-      },
-      {
-        "title": "Alertan sobre uso excesivo de redes sociales en menores",
-        "summary": "Expertos advierten sobre riesgos del consumo digital entre niños y adolescentes en BC.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180186_alertan_por_uso_de_redes_sociales_entre_ninos_y_adolescentes",
-        "_added_at": "2026-08-10T19:18:38.346704-07:00"
-      },
-      {
-        "title": "Hospital advierte riesgos de dispositivos digitales en menores",
-        "summary": "Hospital de Salud Mental señala errores parentales en exposición de hijos a tecnología.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/comunidad/180178_error_de_los_padres_dar_dispositivos_digitales_a_sus_hijos_hospital_de_salud_mental",
-        "_added_at": "2026-08-10T19:18:38.346704-07:00"
-      },
-      {
-        "title": "Lluvias, granizo y tormentas esperadas en BC esta noche",
-        "summary": "Protección Civil pronostica precipitaciones intensas, caída de granizo y vientos fuertes en la región.",
+        "title": "Lluvias, granizo y vientos fuertes esperados en BC esta noche",
+        "summary": "Alertas meteorológicas por evento climatológico con posibles afectaciones regionales.",
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/08/lluvias-y-granizo-en-bc-a-partir-de-la-noche-de-este-lunes/",
-        "_added_at": "2026-08-10T19:18:38.346704-07:00"
+        "_added_at": "2026-08-11T00:19:51.185529-07:00"
       },
       {
-        "title": "Cinco mil aspirantes sin plantel para prepa en BC",
-        "summary": "Saturación educativa obliga habilitar secundarias para absorber demanda de estudiantes.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/sin-plantel-5-mil-aspirantes-a-prepa-se-habilitara-10-secundarias/?utm_source=rss&utm_medium=rss&utm_campaign=sin-plantel-5-mil-aspirantes-a-prepa-se-habilitara-10-secundarias",
-        "_added_at": "2026-08-10T14:50:55.651778-07:00"
-      },
-      {
-        "title": "Portobello sin urbanización tras dos años de promesas",
-        "summary": "Proyecto de desarrollo permanece abandonado incumpliendo compromisos de seis meses.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/prometieron-entregar-portobello-en-seis-meses-dos-anos-despues-sigue-sin-urbanizacion/?utm_source=rss&utm_medium=rss&utm_campaign=prometieron-entregar-portobello-en-seis-meses-dos-anos-despues-sigue-sin-urbanizacion",
-        "_added_at": "2026-08-10T14:50:55.651778-07:00"
-      },
-      {
-        "title": "Tres pacientes fallecen sin atención en IMSS-Bienestar",
-        "summary": "Muertes por falta de asistencia médica evidencian crisis en servicio de salud.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/fallecen-tres-pacientes-sin-atencion-en-imss-bienestar/?utm_source=rss&utm_medium=rss&utm_campaign=fallecen-tres-pacientes-sin-atencion-en-imss-bienestar",
-        "_added_at": "2026-08-10T14:50:55.651778-07:00"
-      },
-      {
-        "title": "Detectan 400 viviendas irregulares en río Tecate",
-        "summary": "Asentamientos clandestinos ocupan márgenes y cauce del río generando riesgo ambiental.",
+        "title": "Expertos advierten sobre riesgos del uso de redes en menores",
+        "summary": "Alerta sobre efectos negativos de dispositivos digitales en niños y adolescentes.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180174_detectan_400_viviendas_irregulares_en_orillas_y_cauce_del_rio_tecate",
-        "_added_at": "2026-08-10T14:50:55.651778-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/180186_alertan_por_uso_de_redes_sociales_entre_ninos_y_adolescentes",
+        "_added_at": "2026-08-11T00:19:51.185529-07:00"
       },
       {
-        "title": "Adolescente se ahoga en Playa Chapultepec, Ensenada",
-        "summary": "Joven fallece ahogado en playa de Ensenada; intentos de reanimación fueron infructuosos.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Ensenada/97858/Muere-adolescente-ahogado-en-Playa-Chapultepec",
-        "_added_at": "2026-08-10T12:07:10.124296-07:00"
+        "title": "Recolectan más de 80 toneladas de basura pesada en delegaciones",
+        "summary": "Operativo de limpieza y recolección en tres sectores de la ciudad.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/municipios/180190_recolectan_mas_de_80_toneladas_de_basura_pesada_en_tres_delegaciones",
+        "_added_at": "2026-08-11T00:19:51.185529-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-10T21:26:23.016161-07:00"
+  "last_updated": "2026-08-11T00:19:51.185529-07:00"
 }
