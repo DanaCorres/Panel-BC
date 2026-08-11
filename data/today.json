@@ -1,8 +1,36 @@
 {
   "date": "2026-08-11",
-  "run_count": 3,
+  "run_count": 4,
   "notes": {
     "seguridad": [
+      {
+        "title": "Capturan mando criminal vinculado a asesinato de Roxana Guzmán",
+        "summary": "Autoridades detienen a operador ligado al homicidio de la periodista en Tijuana.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/garcia-harfuch-informa-captura-de-mando-criminal-ligado-a-asesinato-de-roxana-guzman/?utm_source=rss&utm_medium=rss&utm_campaign=garcia-harfuch-informa-captura-de-mando-criminal-ligado-a-asesinato-de-roxana-guzman",
+        "_added_at": "2026-08-11T09:05:14.674175-07:00"
+      },
+      {
+        "title": "BC mantiene segundo lugar nacional en homicidios",
+        "summary": "Pese a reducción nacional de 51%, Baja California permanece con alta incidencia delictiva.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/bc-2do-lugar-nacional-en-homicidios-pese-a-reduccion-nacional-de-51-en-promedio-diario/?utm_source=rss&utm_medium=rss&utm_campaign=bc-2do-lugar-nacional-en-homicidios-pese-a-reduccion-nacional-de-51-en-promedio-diario",
+        "_added_at": "2026-08-11T09:05:14.674175-07:00"
+      },
+      {
+        "title": "Detienen a operador financiero de los Chapitos",
+        "summary": "UIF investiga a \"El Tío\" por operaciones de lavado de dinero para organización criminal.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/uif-investiga-a-el-tio-operador-financiero-de-los-chapitos-detenido-en-mazatlan/?utm_source=rss&utm_medium=rss&utm_campaign=uif-investiga-a-el-tio-operador-financiero-de-los-chapitos-detenido-en-mazatlan",
+        "_added_at": "2026-08-11T09:05:14.674175-07:00"
+      },
+      {
+        "title": "Dos agentes FESC gravemente heridos en choque con tráiler",
+        "summary": "Patrulla colisiona contra vehículo de carga en carretera Tecate-Mexicali.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/dos-agentes-de-la-fesc-resultan-gravemente-heridos-tras-choque-contra-trailer-en-la-carretera-tecate-mexicali/?utm_source=rss&utm_medium=rss&utm_campaign=dos-agentes-de-la-fesc-resultan-gravemente-heridos-tras-choque-contra-trailer-en-la-carretera-tecate-mexicali",
+        "_added_at": "2026-08-11T09:05:14.674175-07:00"
+      },
       {
         "title": "Cae narcotraficante de los Rusos en carretera",
         "summary": "Capturaron al Canelo, presunto integrante de organización delictiva, en punto de control vial.",
@@ -41,6 +69,27 @@
     ],
     "politica": [
       {
+        "title": "Rubén Rocha Moya mantiene licencia por decisión propia",
+        "summary": "Sheinbaum aclara situación del gobernador de Sinaloa en ausencia temporal.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/ruben-rocha-moya-sigue-con-licencia-por-decision-propia-aclara-sheinbaum/?utm_source=rss&utm_medium=rss&utm_campaign=ruben-rocha-moya-sigue-con-licencia-por-decision-propia-aclara-sheinbaum",
+        "_added_at": "2026-08-11T09:05:14.674175-07:00"
+      },
+      {
+        "title": "Regidor de Ensenada exhibido por presentar exhorto tardío",
+        "summary": "Gandolfo sometió reforma ya aprobada, generando críticas en cabildo.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/en-ensenada-exhiben-al-regidor-gandolfo-por-presentar-exhorto-cuando-la-reforma-ya-habia-sido-aprobada/?utm_source=rss&utm_medium=rss&utm_campaign=en-ensenada-exhiben-al-regidor-gandolfo-por-presentar-exhorto-cuando-la-reforma-ya-habia-sido-aprobada",
+        "_added_at": "2026-08-11T09:05:14.674175-07:00"
+      },
+      {
+        "title": "Proponen crear Secretaría de Gestión Integral de Riesgos",
+        "summary": "Iniciativa responde a afectaciones por deslizamientos en BC.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/proponen-creacion-de-secretaria-de-gestion-integral-de-riesgos-ante-afectaciones-por-deslizamientos/?utm_source=rss&utm_medium=rss&utm_campaign=proponen-creacion-de-secretaria-de-gestion-integral-de-riesgos-ante-afectaciones-por-deslizamientos",
+        "_added_at": "2026-08-11T09:05:14.674175-07:00"
+      },
+      {
         "title": "Regidor de Ensenada cuestionado por presentar exhorto ya aprobado",
         "summary": "Gandolfo exhibido por trámite extemporáneo de exhorto sobre reforma municipal.",
         "source": "ZETA Tijuana",
@@ -63,6 +112,20 @@
       }
     ],
     "economia": [
+      {
+        "title": "Actividad industrial en BC cae 11 meses consecutivos",
+        "summary": "Sector experimenta contracción prolongada afectando economía regional.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/empresarial/180194_actividad_industrial_en_bc_11_meses_en_picada",
+        "_added_at": "2026-08-11T09:05:14.674175-07:00"
+      },
+      {
+        "title": "SHCP aumenta 7.2% presupuesto de salud para BC",
+        "summary": "Incremento asignado a servicios de sanidad en la entidad.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/empresarial/180193_shcp_aplico_7_2_de_aumento_a_servicios_de_salud_en_bc",
+        "_added_at": "2026-08-11T09:05:14.674175-07:00"
+      },
       {
         "title": "SICT invertirá 41 mdp en centros comunitarios de BC",
         "summary": "Secretaría de Infraestructura asignará recursos para construcción de cuatro equipamientos en la región.",
@@ -93,6 +156,20 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Incendio en basurero clandestino causa humo visible",
+        "summary": "Fuego en Rancho Escondido, Tijuana; bomberos controlan las llamas.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/bomberos-combaten-incendio-en-basurero-clandestino-de-rancho-escondido-tijuana/?utm_source=rss&utm_medium=rss&utm_campaign=bomberos-combaten-incendio-en-basurero-clandestino-de-rancho-escondido-tijuana",
+        "_added_at": "2026-08-11T09:05:14.674175-07:00"
+      },
+      {
+        "title": "Se esperan lluvias y granizo en BC desde lunes",
+        "summary": "Condiciones climáticas adversas pronosticadas para próximos días.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/lluvias-y-granizo-en-bc-a-partir-de-la-noche-de-este-lunes/?utm_source=rss&utm_medium=rss&utm_campaign=lluvias-y-granizo-en-bc-a-partir-de-la-noche-de-este-lunes",
+        "_added_at": "2026-08-11T09:05:14.674175-07:00"
+      },
       {
         "title": "Incendio en basureros clandestinos genera humo en Tijuana",
         "summary": "Bomberos combaten fuego simultáneo en vertederos ilegales afectando calidad del aire en ciudad.",
@@ -137,5 +214,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-11T06:22:17.712628-07:00"
+  "last_updated": "2026-08-11T09:05:14.674175-07:00"
 }
