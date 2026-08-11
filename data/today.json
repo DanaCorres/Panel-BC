@@ -1,8 +1,15 @@
 {
   "date": "2026-08-11",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Cae narcotraficante de los Rusos en carretera",
+        "summary": "Capturaron al Canelo, presunto integrante de organización delictiva, en punto de control vial.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/cae-el-canelo-de-los-rusos-en-el-kilometro-57/",
+        "_added_at": "2026-08-11T03:06:14.821479-07:00"
+      },
       {
         "title": "Capturan 19 integrantes del CJNG con sentencias hasta 18 años",
         "summary": "Tribunal condena a 19 miembros de organización criminal con penas de hasta 18 años de prisión.",
@@ -57,6 +64,13 @@
     ],
     "economia": [
       {
+        "title": "SICT invertirá 41 mdp en centros comunitarios de BC",
+        "summary": "Secretaría de Infraestructura asignará recursos para construcción de cuatro equipamientos en la región.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180192_destinara_sict_mas_de_41_mdp_para_construccion_de_cuatro_centros_comunitarios_en_bc",
+        "_added_at": "2026-08-11T03:06:14.821479-07:00"
+      },
+      {
         "title": "Conagua difiere decisión sobre licitación de desaladora de Rosarito",
         "summary": "Retraso en fallo de concurso para proyecto de infraestructura hídrica.",
         "source": "ZETA Tijuana",
@@ -79,6 +93,20 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Incendio en basureros clandestinos genera humo en Tijuana",
+        "summary": "Bomberos combaten fuego simultáneo en vertederos ilegales afectando calidad del aire en ciudad.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97909/Incendio-en-basurero-clandestino-genera-humo-visible-en-varios-puntos-de-Tijuana",
+        "_added_at": "2026-08-11T03:06:14.821479-07:00"
+      },
+      {
+        "title": "Ayuntamiento entrega 89 apoyos económicos a vulnerables",
+        "summary": "Municipio distribuyó recursos entre familias en situación precaria de la jurisdicción.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/municipios/180189_entrego_ayuntamiento_89_apoyos_economicos_a_personas_en_situacion_vulnerable",
+        "_added_at": "2026-08-11T03:06:14.821479-07:00"
+      },
       {
         "title": "Incendios en basureros clandestinos generan humo en Tijuana",
         "summary": "Bomberos atienden múltiples focos en depósitos irregulares de residuos.",
@@ -109,5 +137,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-11T00:19:51.185529-07:00"
+  "last_updated": "2026-08-11T03:06:14.821479-07:00"
 }
