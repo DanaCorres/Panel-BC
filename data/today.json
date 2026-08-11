@@ -1,8 +1,15 @@
 {
   "date": "2026-08-10",
-  "run_count": 7,
+  "run_count": 8,
   "notes": {
     "seguridad": [
+      {
+        "title": "19 integrantes del CJNG condenados hasta 18 años",
+        "summary": "Tribunal sentencia a miembros de organización criminal a penas de hasta 18 años de prisión.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/tribunal-condena-hasta-18-anos-de-prision-a-19-integrantes-del-cjng/",
+        "_added_at": "2026-08-10T21:26:23.016161-07:00"
+      },
       {
         "title": "Desmantelan célula criminal vinculada a homicidios en Tecate",
         "summary": "Autoridades desarticulan organización delictiva ligada a asesinatos y ataques armados en la región de Tecate.",
@@ -65,16 +72,23 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/seguridad/180158_asesinan_a_dos_hombres_a_tiros_uno_en_camino_verde_otro_en_la_colonia_libertad",
         "_added_at": "2026-08-10T12:07:10.124296-07:00"
-      },
-      {
-        "title": "Detienen a dos por robo en recicladora con arma",
-        "summary": "Capturan a dos individuos por robo de metal en recicladora; portaban pistola de utilería.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/180162_detienen_a_dos_por_robar_metal_en_recicladora_traian_pistola_de_utileria",
-        "_added_at": "2026-08-10T12:07:10.124296-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Regidor de Ensenada expuesto por presentar exhorto tardío",
+        "summary": "Gandolfo criticado tras presentar solicitud cuando reforma ya había sido aprobada por cabildo.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/en-ensenada-exhiben-al-regidor-gandolfo-por-presentar-exhorto-cuando-la-reforma-ya-habia-sido-aprobada/",
+        "_added_at": "2026-08-10T21:26:23.016161-07:00"
+      },
+      {
+        "title": "Amplían anticipo de participaciones para Ensenada",
+        "summary": "Turnan a Comisión de Hacienda propuesta para aumentar a 91.7 mdp recursos municipales.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/turnan-a-la-comision-de-hacienda-propuesta-para-ampliar-a-91-7-mdp-el-anticipo-de-participaciones-para-ensenada/",
+        "_added_at": "2026-08-10T21:26:23.016161-07:00"
+      },
       {
         "title": "Proponen nueva Secretaría de Gestión Integral de Riesgos",
         "summary": "Legisladores impulsan creación de dependencia para atender deslizamientos y desastres naturales en BC.",
@@ -130,20 +144,6 @@
         "source": "El Mexicano",
         "url": "https://el-mexicano.com.mx/Noticia/The%20Border/97869/Guardia-Nacional-seguir%C3%A1-en-Washington-hasta-2029",
         "_added_at": "2026-08-10T09:04:39.303203-07:00"
-      },
-      {
-        "title": "Burgueño reúne a ciudadanos en Ensenada con proyecto 4T",
-        "summary": "Funcionario presenta avances de política nacional a vecinos de Ensenada buscando respaldo ciudadano.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Estatal/97860/Ismael-Burgue%C3%B1o-acerca-a-vecinos-de-Ensenada-los-avances-de-la-4T-y-refuerza-respaldo-al-proyecto-nacional",
-        "_added_at": "2026-08-10T03:25:04.759717-07:00"
-      },
-      {
-        "title": "Detención de apoderada de Ruffo bajo escrutinio político",
-        "summary": "Morena sostiene que detención de representante legal no constituye persecución política contra exfuncionario.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/detencion-de-apoderada-legal-confirma-que-no-hay-persecucion-politica-contra-ruffo-morena/?utm_source=rss&utm_medium=rss&utm_campaign=detencion-de-apoderada-legal-confirma-que-no-hay-persecucion-politica-contra-ruffo-morena",
-        "_added_at": "2026-08-10T03:25:04.759717-07:00"
       }
     ],
     "economia": [
@@ -220,6 +220,20 @@
     ],
     "sociedad": [
       {
+        "title": "Incendio en basurero clandestino de Tijuana",
+        "summary": "Bomberos atienden fuego en depósito ilegal en Rancho Escondido con humo visible.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97909/Incendio-en-basurero-clandestino-genera-humo-visible-en-varios-puntos-de-Tijuana",
+        "_added_at": "2026-08-10T21:26:23.016161-07:00"
+      },
+      {
+        "title": "Lluvias y granizo pronosticado en Baja California",
+        "summary": "Alerta meteorológica por precipitación, vientos fuertes y caída de hielo a partir de lunes.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180183_pronostican_lluvias_a_partir_de_esta_noche_en_la_region_habra_vientos_fuertes_y_caida_de_granizo",
+        "_added_at": "2026-08-10T21:26:23.016161-07:00"
+      },
+      {
         "title": "Alertan sobre uso excesivo de redes sociales en menores",
         "summary": "Expertos advierten sobre riesgos del consumo digital entre niños y adolescentes en BC.",
         "source": "AFN Tijuana",
@@ -274,22 +288,8 @@
         "source": "El Mexicano",
         "url": "https://el-mexicano.com.mx/Noticia/Ensenada/97858/Muere-adolescente-ahogado-en-Playa-Chapultepec",
         "_added_at": "2026-08-10T12:07:10.124296-07:00"
-      },
-      {
-        "title": "IMSS destaca inversión en infraestructura hospitalaria BC",
-        "summary": "Instituto celebra 75 años con mejoras en hospitales de Baja California.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97857/Destaca-IMSS-inversi%C3%B3n-en-infraestructura-hospitalaria-en-BC",
-        "_added_at": "2026-08-10T12:07:10.124296-07:00"
-      },
-      {
-        "title": "Fiesta de Colores celebrada en viñedo L.A. Cetto",
-        "summary": "Evento cultural en bodega regional reúne a aficionados al vino y la gastronomía.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/celebran-la-fiesta-de-colores-en-l-a-cetto/?utm_source=rss&utm_medium=rss&utm_campaign=celebran-la-fiesta-de-colores-en-l-a-cetto",
-        "_added_at": "2026-08-10T09:04:39.303203-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-10T19:18:38.346704-07:00"
+  "last_updated": "2026-08-10T21:26:23.016161-07:00"
 }
