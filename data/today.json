@@ -1,8 +1,15 @@
 {
   "date": "2026-08-12",
-  "run_count": 3,
+  "run_count": 4,
   "notes": {
     "seguridad": [
+      {
+        "title": "Ejecutan a hombre y lesionan dos en tiroteo en Tecate",
+        "summary": "Un hombre fue asesinado y dos más heridos por arma de fuego en Tecate.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/180239_ejecutan_a_un_hombre_y_lesionan_a_dos_a_balazos_en_tecate",
+        "_added_at": "2026-08-12T09:03:57.096425-07:00"
+      },
       {
         "title": "Detienen presunto integrante del Cártel de Sinaloa en Ensenada",
         "summary": "Autoridades capturan al G1, presunto miembro de organización criminal en Ensenada.",
@@ -64,6 +71,20 @@
     ],
     "economia": [
       {
+        "title": "BC generó 42 mil empleos en gobierno, primer lugar nacional",
+        "summary": "Baja California lidera creación de empleos gubernamentales con 42,149 nuevas plazas.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/empresarial/180238_sos_bc_genero_42_149_nuevos_empleos_en_gobierno_primer_lugar_nacional",
+        "_added_at": "2026-08-12T09:03:57.096425-07:00"
+      },
+      {
+        "title": "Recesión en servicios acelera despidos de profesionistas",
+        "summary": "Crisis en sector servicios de BC provoca despidos masivos de profesionales.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/empresarial/180236_recesion_en_sector_servicios_de_bc_acelera_despidos_de_profesionistas",
+        "_added_at": "2026-08-12T09:03:57.096425-07:00"
+      },
+      {
         "title": "San Quintín solicita exención de pago por regularización de tierras",
         "summary": "Congreso de BC aprueba en comisiones propuesta de municipio para evitar cuotas regularización.",
         "source": "El Mexicano",
@@ -93,6 +114,34 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Equipo infantil de Tijuana varado en Colombia tras sismo",
+        "summary": "Jóvenes futbolistas tijuanenses quedaron atrapados por terremoto; SRE mantiene contacto.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180228_sre_mantiene_contacto_con_el_equipo_infantil_de_tijuana_varado_en_colombia",
+        "_added_at": "2026-08-12T09:03:57.096425-07:00"
+      },
+      {
+        "title": "Entregan 175 vales de uniformes a estudiantes de Rosarito",
+        "summary": "Municipio distribuyó vales para útiles escolares a estudiantes.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Rosarito/97953/Entregan-175-vales-de-uniformes-a-estudiantes-de-Playas-de-Rosarito",
+        "_added_at": "2026-08-12T09:03:57.096425-07:00"
+      },
+      {
+        "title": "Incendio en basurero de Tijuana causa problemas respiratorios",
+        "summary": "Autoridades recomiendan cubrebocas por humo de incendio en vertedero.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180230_recomiendan_uso_de_cubrebocas_ante_el_incendio_en_basurero_de_tijuana",
+        "_added_at": "2026-08-12T09:03:57.096425-07:00"
+      },
+      {
+        "title": "Border Battle reunirá 42 equipos a beneficio de Tijuana Sin Hambre",
+        "summary": "Torneo deportivo con causa benéfica congregará equipos de futbol infantil.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97951/Border-Battle-reunir%C3%A1-a-42-equipos-en-Tijuana-a-beneficio-de-Tijuana-Sin-Hambre",
+        "_added_at": "2026-08-12T09:03:57.096425-07:00"
+      },
       {
         "title": "Familiares de detenidos en festejo exigen atención de fiscalía local",
         "summary": "Allegados demandan investigación sobre aprehensiones ocurridas durante celebración.",
@@ -130,5 +179,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-12T06:27:14.093770-07:00"
+  "last_updated": "2026-08-12T09:03:57.096425-07:00"
 }
