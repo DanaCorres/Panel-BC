@@ -1,6 +1,6 @@
 {
   "date": "2026-08-11",
-  "run_count": 7,
+  "run_count": 8,
   "notes": {
     "seguridad": [
       {
@@ -76,6 +76,20 @@
     ],
     "politica": [
       {
+        "title": "Investigan a Marina del Pilar, esposo y otros funcionarios",
+        "summary": "Nuevo audio confirma investigación contra gobernadora y allegados por presuntas irregularidades.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/cuarto-audio-de-marina-del-pilar-si-la-investigan-a-ella-a-su-esposo-y-a-otros/?utm_source=rss&utm_medium=rss&utm_campaign=cuarto-audio-de-marina-del-pilar-si-la-investigan-a-ella-a-su-esposo-y-a-otros",
+        "_added_at": "2026-08-11T21:54:40.435310-07:00"
+      },
+      {
+        "title": "San Quintín solicita exención de pago en regularización tierras",
+        "summary": "Congreso de BC aprueba en comisiones propuesta para eximir costos de regularización.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/San%20Quint%C3%ADn/97944/Aprueba-Congeso-en-comisiones-eximir-pago-de-regularizaci%C3%B3n-de-tierras-en-San-Quint%C3%ADn",
+        "_added_at": "2026-08-11T21:54:40.435310-07:00"
+      },
+      {
         "title": "Gobierno de BCS sin comprobar 117 millones de pesos",
         "summary": "Cuentas públicas estatales presentan irregularidades en justificación de recursos ejercidos.",
         "source": "ZETA Tijuana",
@@ -130,23 +144,16 @@
         "source": "El Mexicano",
         "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97943/Inicia-campa%C3%B1a-Soy-M%C3%A9xico-2026",
         "_added_at": "2026-08-11T14:57:11.935424-07:00"
-      },
-      {
-        "title": "Rubén Rocha Moya mantiene licencia por decisión propia",
-        "summary": "Sheinbaum aclara situación del gobernador de Sinaloa en ausencia temporal.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/ruben-rocha-moya-sigue-con-licencia-por-decision-propia-aclara-sheinbaum/?utm_source=rss&utm_medium=rss&utm_campaign=ruben-rocha-moya-sigue-con-licencia-por-decision-propia-aclara-sheinbaum",
-        "_added_at": "2026-08-11T09:05:14.674175-07:00"
-      },
-      {
-        "title": "Regidor de Ensenada exhibido por presentar exhorto tardío",
-        "summary": "Gandolfo sometió reforma ya aprobada, generando críticas en cabildo.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/en-ensenada-exhiben-al-regidor-gandolfo-por-presentar-exhorto-cuando-la-reforma-ya-habia-sido-aprobada/?utm_source=rss&utm_medium=rss&utm_campaign=en-ensenada-exhiben-al-regidor-gandolfo-por-presentar-exhorto-cuando-la-reforma-ya-habia-sido-aprobada",
-        "_added_at": "2026-08-11T09:05:14.674175-07:00"
       }
     ],
     "economia": [
+      {
+        "title": "Tecate reactiva multas por falta de pago parquímetros",
+        "summary": "Municipio retoma colocación de arañas en vehículos por incumplimiento de pago.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180226_tecate_retoma_el_uso_de_aranas_en_autos_por_falta_de_pago_en_parquimetros",
+        "_added_at": "2026-08-11T21:54:40.435310-07:00"
+      },
       {
         "title": "Rezago en infraestructura de Tijuana suma 25 mil millones",
         "summary": "Evaluación estatal revela deuda pendiente en proyectos de desarrollo y servicios públicos.",
@@ -209,16 +216,37 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/empresarial/180194_actividad_industrial_en_bc_11_meses_en_picada",
         "_added_at": "2026-08-11T09:05:14.674175-07:00"
-      },
-      {
-        "title": "SHCP aumenta 7.2% presupuesto de salud para BC",
-        "summary": "Incremento asignado a servicios de sanidad en la entidad.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/empresarial/180193_shcp_aplico_7_2_de_aumento_a_servicios_de_salud_en_bc",
-        "_added_at": "2026-08-11T09:05:14.674175-07:00"
       }
     ],
     "sociedad": [
+      {
+        "title": "Equipo infantil tijuanense varado en Colombia tras sismo",
+        "summary": "Niños campeones quedan atrapados; SRE coordina retorno, vuelos ya programados.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180225_ninos_campeones_de_tijuana_quedaron_varados_en_colombia_por_el_sismo",
+        "_added_at": "2026-08-11T21:54:40.435310-07:00"
+      },
+      {
+        "title": "Inicia campaña Soy México 2026 en Baja California",
+        "summary": "BC registra hijos de mexicanos nacidos en Estados Unidos para nacionalidad.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180219_inicia_en_bc_campana_soy_mexico_2026_en_apoyo_a_nacidos_en_eu",
+        "_added_at": "2026-08-11T21:54:40.435310-07:00"
+      },
+      {
+        "title": "IMDET presenta quinta etapa Serial Atlético Delegacional",
+        "summary": "Evento deportivo en Playas de Tijuana suma nueva etapa de competencias.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/presenta-imdet-quinta-etapa-del-serial-atletico-delegacional-de-playas-de-tijuana/?utm_source=rss&utm_medium=rss&utm_campaign=presenta-imdet-quinta-etapa-del-serial-atletico-delegacional-de-playas-de-tijuana",
+        "_added_at": "2026-08-11T21:54:40.435310-07:00"
+      },
+      {
+        "title": "Muere poeta y ensayista Vicente Quirarte",
+        "summary": "Fallece destacado intelectual mexicano con trayectoria en literatura.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/murio-el-poeta-y-ensayista-vicente-quirarte/?utm_source=rss&utm_medium=rss&utm_campaign=murio-el-poeta-y-ensayista-vicente-quirarte",
+        "_added_at": "2026-08-11T21:54:40.435310-07:00"
+      },
       {
         "title": "Equipo infantil de Tijuana varado en Colombia por sismo",
         "summary": "Menores futbolistas quedaron atrapados tras terremoto; SRE coordina retorno a México.",
@@ -260,36 +288,8 @@
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/08/nos-impusieron-una-nueva-estancia-protestan-por-cierre-de-guarderia-en-la-paz/?utm_source=rss&utm_medium=rss&utm_campaign=nos-impusieron-una-nueva-estancia-protestan-por-cierre-de-guarderia-en-la-paz",
         "_added_at": "2026-08-11T14:57:11.935424-07:00"
-      },
-      {
-        "title": "Ingenieros sugieren desalojo en ladera de Otay por Sube-T",
-        "summary": "Especialistas recomiendan evacuación preventiva de zona afectada por obra de transporte masivo.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180216_ingenieros_sugieren_desalojar_ladera_de_otay_por_obra_sube_t",
-        "_added_at": "2026-08-11T14:57:11.935424-07:00"
-      },
-      {
-        "title": "Proponen prohibir celulares inteligentes a menores de 16 años",
-        "summary": "Iniciativa busca restringir acceso de adolescentes a teléfonos móviles en Baja California.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/proponen-prohibir-telefonos-inteligentes-a-menores-de-16-anos/?utm_source=rss&utm_medium=rss&utm_campaign=proponen-prohibir-telefonos-inteligentes-a-menores-de-16-anos",
-        "_added_at": "2026-08-11T12:12:47.206417-07:00"
-      },
-      {
-        "title": "Advierten riesgo de colapsos por zonas deslizadas abandonadas",
-        "summary": "Autoridades alertan sobre peligro en terrenos inestables sin atención en Tijuana.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97936/Advierten-riesgo-de-nuevos-colapsos-por-abandono-de-zonas-deslizadas-en-Tijuana",
-        "_added_at": "2026-08-11T12:12:47.206417-07:00"
-      },
-      {
-        "title": "Estudiantes UABC enfrentan falta de transporte en Valle de Palmas",
-        "summary": "Universitarios carecen de opciones de movilidad para llegar a campus.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180212_sufren_por_falta_de_transporte_para_estudiar_en_la_uabc_de_valle_de_las_palmas",
-        "_added_at": "2026-08-11T12:12:47.206417-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-11T19:33:48.977227-07:00"
+  "last_updated": "2026-08-11T21:54:40.435310-07:00"
 }
