@@ -1,8 +1,36 @@
 {
   "date": "2026-08-12",
-  "run_count": 4,
+  "run_count": 5,
   "notes": {
     "seguridad": [
+      {
+        "title": "Capturan a presunto integrante del Cártel en Ensenada",
+        "summary": "Autoridades detienen al G1, vinculado al Cártel de Sinaloa, en operativo en Ensenada.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/detienen-en-ensenada-al-g1-presunto-integrante-del-cartel-de-sinaloa/",
+        "_added_at": "2026-08-12T12:12:38.498573-07:00"
+      },
+      {
+        "title": "Localizan tres cadáveres en distintos puntos de Tijuana",
+        "summary": "Hallazgo de tres cuerpos sin vida en diferentes sectores de la ciudad.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/180244_localizan_tres_cadaveres_en_distintos_puntos_de_tijuana",
+        "_added_at": "2026-08-12T12:12:38.498573-07:00"
+      },
+      {
+        "title": "Cuerpo calcinado dentro de auto incendiado en Buenos Aires",
+        "summary": "Hallan restos mortales en vehículo quemado en sector de Buenos Aires Norte.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97982/Hallan-cuerpo-calcinado-dentro-de-veh%C3%ADculo-incendiado-en-Buenos-Aires-Norte",
+        "_added_at": "2026-08-12T12:12:38.498573-07:00"
+      },
+      {
+        "title": "Detienen a hombre con orden por sustracción de menores",
+        "summary": "FESC captura a individuo acusado de robo de menores y violencia intrafamiliar.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/agentes-de-la-fesc-detienen-a-hombre-con-orden-de-aprehension-por-sustraccion-de-menores-y-violencia-familiar/",
+        "_added_at": "2026-08-12T12:12:38.498573-07:00"
+      },
       {
         "title": "Ejecutan a hombre y lesionan dos en tiroteo en Tecate",
         "summary": "Un hombre fue asesinado y dos más heridos por arma de fuego en Tecate.",
@@ -40,6 +68,27 @@
       }
     ],
     "politica": [
+      {
+        "title": "Ernesto Ruffo promueve amparo contra vinculación a proceso",
+        "summary": "Exgobernador Ruffo interpone amparo contra procedimiento judicial y prisión preventiva.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/ernesto-ruffo-promueve-amparo-contra-vinculacion-a-proceso-y-prision-preventiva/",
+        "_added_at": "2026-08-12T12:12:38.498573-07:00"
+      },
+      {
+        "title": "Investigan a Marina del Pilar, su esposo y otros",
+        "summary": "Nuevo audio revela que gobernadora de Baja California está siendo investigada junto a cercanos.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/cuarto-audio-de-marina-del-pilar-si-la-investigan-a-ella-a-su-esposo-y-a-otros/",
+        "_added_at": "2026-08-12T12:12:38.498573-07:00"
+      },
+      {
+        "title": "Cuatro funcionarios salen del gabinete buscando candidaturas",
+        "summary": "Integrantes del gobierno renuncian para buscar posiciones electorales en 2027.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180255_salen_cuatro_del_gabinete_de_marina_buscaran_candidaturas_en_2027",
+        "_added_at": "2026-08-12T12:12:38.498573-07:00"
+      },
       {
         "title": "Comité pide a FGR asumir asesinatos de periodistas",
         "summary": "Organismo solicita que Fiscalía General de República centralice investigaciones de crímenes contra prensa.",
@@ -115,6 +164,34 @@
     ],
     "sociedad": [
       {
+        "title": "Madres de Tijuana evitan cruzar frontera por temor a perder visa",
+        "summary": "Incertidumbre crece entre residentes locales sobre políticas migratorias estadounidenses.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97985/%E2%80%9CPrefiero-no-cruzar-para-no-perder-mi-visa%E2%80%9D;-crece-incertidumbre-entre-madres-de-Tijuana",
+        "_added_at": "2026-08-12T12:12:38.498573-07:00"
+      },
+      {
+        "title": "Restricciones a embarazadas por turismo de parto en EU",
+        "summary": "Estados Unidos advierte limitaciones a mujeres embarazadas para prevenir nacimientos en el país.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180257_advierten_restricciones_a_embarazadas_por_turismo_de_parto_en_eu",
+        "_added_at": "2026-08-12T12:12:38.498573-07:00"
+      },
+      {
+        "title": "Beisbolistas infantiles de Tijuana van a Williamsport",
+        "summary": "Menores representarán a México en torneo internacional tras meses de entrenamiento.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97957/Ni%C3%B1os-beisbolistas-de-Tijuana-listos-para-representar-a-M%C3%A9xico-en-Williamsport",
+        "_added_at": "2026-08-12T12:12:38.498573-07:00"
+      },
+      {
+        "title": "Festival de animación RevuShorts llega a la región",
+        "summary": "Exhiben producciones animadas del noroeste y California en evento local.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/exhibira-revushorts-animacion-producida-en-el-noroeste-y-california/",
+        "_added_at": "2026-08-12T12:12:38.498573-07:00"
+      },
+      {
         "title": "Equipo infantil de Tijuana varado en Colombia tras sismo",
         "summary": "Jóvenes futbolistas tijuanenses quedaron atrapados por terremoto; SRE mantiene contacto.",
         "source": "AFN Tijuana",
@@ -155,29 +232,8 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/180225_ninos_campeones_de_tijuana_quedaron_varados_en_colombia_por_el_sismo",
         "_added_at": "2026-08-12T03:15:16.579424-07:00"
-      },
-      {
-        "title": "Equipo infantil de Tijuana regresa desde Colombia tras sismo",
-        "summary": "Niños campeones quedaron varados en Bogotá por evento sísmico; vuelos programados.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180227_ninos_de_tijuana_ya_estan_en_bogota_hay_vuelos_de_regreso_programados",
-        "_added_at": "2026-08-12T00:43:28.397602-07:00"
-      },
-      {
-        "title": "Sedeti firma convenio de apoyo a deportistas",
-        "summary": "Dependencia establece acuerdo para fortalecer programas de desarrollo deportivo.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/municipios/180232_sedeti_firma_convenio_para_apoyo_a_deportistas",
-        "_added_at": "2026-08-12T00:43:28.397602-07:00"
-      },
-      {
-        "title": "Inicia campaña Soy México 2026 en Mexicali",
-        "summary": "Registro de hijos nacidos en EUA para acceso a ciudadanía mexicana abierto.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97943/Inicia-campa%C3%B1a-Soy-M%C3%A9xico-2026",
-        "_added_at": "2026-08-12T00:43:28.397602-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-12T09:03:57.096425-07:00"
+  "last_updated": "2026-08-12T12:12:38.498573-07:00"
 }
