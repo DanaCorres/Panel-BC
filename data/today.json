@@ -1,6 +1,6 @@
 {
   "date": "2026-08-12",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
       {
@@ -34,6 +34,13 @@
     ],
     "politica": [
       {
+        "title": "Comité pide a FGR asumir asesinatos de periodistas",
+        "summary": "Organismo solicita que Fiscalía General de República centralice investigaciones de crímenes contra prensa.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180234_comite_pide_a_la_fgr_asumir_investigaciones_de_asesinatos_de_periodistas",
+        "_added_at": "2026-08-12T03:15:16.579424-07:00"
+      },
+      {
         "title": "Investigan a Marina del Pilar, esposo y otros por corrupción",
         "summary": "Cuarto audio confirma investigación contra gobernadora y círculo cercano por actos irregulares.",
         "source": "ZETA Tijuana",
@@ -57,6 +64,13 @@
     ],
     "economia": [
       {
+        "title": "San Quintín solicita exención de pago para regularización de tierras",
+        "summary": "Municipio pide al Congreso de BC condonar pagos por trámites de regularización de propiedades.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180222_pide_san_quintin_al_congreso_de_bc_exentar_de_pago_regularizacion_de_terrenos",
+        "_added_at": "2026-08-12T03:15:16.579424-07:00"
+      },
+      {
         "title": "Eva Moreno pide solución a apagones en Mexicali",
         "summary": "Legisladora solicita atender crisis de cortes de energía que afecta a residentes.",
         "source": "AFN Tijuana",
@@ -72,6 +86,13 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Equipo infantil de Tijuana varado en Colombia tras sismo",
+        "summary": "Niños campeones quedaron atrapados en el país tras terremoto; gobierno gestiona regreso a casa.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180225_ninos_campeones_de_tijuana_quedaron_varados_en_colombia_por_el_sismo",
+        "_added_at": "2026-08-12T03:15:16.579424-07:00"
+      },
       {
         "title": "Equipo infantil de Tijuana regresa desde Colombia tras sismo",
         "summary": "Niños campeones quedaron varados en Bogotá por evento sísmico; vuelos programados.",
@@ -95,5 +116,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-12T00:43:28.397602-07:00"
+  "last_updated": "2026-08-12T03:15:16.579424-07:00"
 }
