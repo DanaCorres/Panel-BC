@@ -1,295 +1,99 @@
 {
-  "date": "2026-08-11",
-  "run_count": 8,
+  "date": "2026-08-12",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Detienen a hombre con orden por sustracción de menores",
-        "summary": "Agentes de FESC capturaron a sujeto con antecedentes por violencia familiar y sustracción de menores en Tijuana.",
+        "title": "Detienen presunto integrante del Cártel de Sinaloa en Ensenada",
+        "summary": "Autoridades capturan al G1, presunto miembro de organización criminal en Ensenada.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/detienen-en-ensenada-al-g1-presunto-integrante-del-cartel-de-sinaloa/?utm_source=rss&utm_medium=rss&utm_campaign=detienen-en-ensenada-al-g1-presunto-integrante-del-cartel-de-sinaloa",
+        "_added_at": "2026-08-12T00:43:28.397602-07:00"
+      },
+      {
+        "title": "Detienen hombre por sustracción de menores y violencia familiar",
+        "summary": "FESC aprehende a sujeto con orden por sustracción de menores y delitos de violencia.",
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/08/agentes-de-la-fesc-detienen-a-hombre-con-orden-de-aprehension-por-sustraccion-de-menores-y-violencia-familiar/?utm_source=rss&utm_medium=rss&utm_campaign=agentes-de-la-fesc-detienen-a-hombre-con-orden-de-aprehension-por-sustraccion-de-menores-y-violencia-familiar",
-        "_added_at": "2026-08-11T19:33:48.977227-07:00"
+        "_added_at": "2026-08-12T00:43:28.397602-07:00"
       },
       {
-        "title": "Incendio persiste en basurero clandestino de Tijuana",
-        "summary": "Bomberos continúan combatiendo fuego en Rancho Escondido; autoridades recomiendan uso de cubrebocas.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/bomberos-de-tijuana-continua-combatiendo-incendio-en-basurero-clandestino-de-rancho-escondido/?utm_source=rss&utm_medium=rss&utm_campaign=bomberos-de-tijuana-continua-combatiendo-incendio-en-basurero-clandestino-de-rancho-escondido",
-        "_added_at": "2026-08-11T19:33:48.977227-07:00"
-      },
-      {
-        "title": "CBP detiene a joven con 7.5 kilos de fentanilo",
-        "summary": "Policía fronteriza captura a individuo con droga oculta en motocicleta en punto de control.",
+        "title": "CBP detiene joven con 7.5 kilos de fentanilo en motocicleta",
+        "summary": "Patrulla Fronteriza captura a individuo con gran cantidad de fentanilo oculto.",
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/seguridad/180221_cbp_detiene_a_joven_con_7_5_kilos_de_fentanilo_ocultos_en_motocicleta",
-        "_added_at": "2026-08-11T19:33:48.977227-07:00"
+        "_added_at": "2026-08-12T00:43:28.397602-07:00"
       },
       {
-        "title": "EU acusa de narcoterrorismo a integrantes del CJNG",
-        "summary": "Autoridades estadounidenses presentan cargos por narcoterrorismo contra cuatro presuntos miembros del cártel en la región.",
+        "title": "Incendio en basurero clandestino afecta Rancho Escondido",
+        "summary": "Bomberos combaten fuego en sitio de residuos clandestino; autoridades recomiendan cubrebocas.",
         "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/eu-acusa-de-narcoterrorismo-a-cuatro-presuntos-integrantes-del-cjng/?utm_source=rss&utm_medium=rss&utm_campaign=eu-acusa-de-narcoterrorismo-a-cuatro-presuntos-integrantes-del-cjng",
-        "_added_at": "2026-08-11T14:57:11.935424-07:00"
-      },
-      {
-        "title": "Ola de asaltos en La Paz aumenta inseguridad",
-        "summary": "Se reporta incremento de robos en la capital bajacaliforniana afectando a residentes.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/ola-de-asaltos-en-la-paz-2/?utm_source=rss&utm_medium=rss&utm_campaign=ola-de-asaltos-en-la-paz-2",
-        "_added_at": "2026-08-11T14:57:11.935424-07:00"
-      },
-      {
-        "title": "Detienen a presunto traficante \"El Canelo\" en Mexicali",
-        "summary": "Capturan a sujeto con ese mote en operativo realizado en el Valle de Mexicali.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97946/Detienen-a-%22El-Canelo%22-en-el-Valle-de-Mexicali",
-        "_added_at": "2026-08-11T14:57:11.935424-07:00"
-      },
-      {
-        "title": "Motociclista capturado con fentanilo en San Ysidro",
-        "summary": "Agentes detienen a individuo que intentaba cruzar más de 16 libras de droga por la garita.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/The%20Border/97945/Motociclista-detenidos-por-intentar-cruzar-mas-de-16-libras-de-fentanilo-por-garita-de-San-Ysidro",
-        "_added_at": "2026-08-11T14:57:11.935424-07:00"
-      },
-      {
-        "title": "Localizan restos humanos por segunda vez en Ensenada",
-        "summary": "Descubren restos en El Roble, Ensenada; segunda localización en mismo sitio.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/localizan-por-segunda-ocasion-restos-humanos-en-el-roble-en-ensenada/?utm_source=rss&utm_medium=rss&utm_campaign=localizan-por-segunda-ocasion-restos-humanos-en-el-roble-en-ensenada",
-        "_added_at": "2026-08-11T12:12:47.206417-07:00"
-      },
-      {
-        "title": "Detienen a miembro de Los Rusos con armas y drogas",
-        "summary": "Capturan a El Canelo, supuesto integrante de organización delictiva en Kilómetro 57.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/180208_cae_el_canelo_con_armas_y_drogas_presunto_integrante_de_los_rusos",
-        "_added_at": "2026-08-11T12:12:47.206417-07:00"
-      },
-      {
-        "title": "Capturan mando criminal vinculado a asesinato de Roxana Guzmán",
-        "summary": "Autoridades detienen a operador ligado al homicidio de la periodista en Tijuana.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/garcia-harfuch-informa-captura-de-mando-criminal-ligado-a-asesinato-de-roxana-guzman/?utm_source=rss&utm_medium=rss&utm_campaign=garcia-harfuch-informa-captura-de-mando-criminal-ligado-a-asesinato-de-roxana-guzman",
-        "_added_at": "2026-08-11T09:05:14.674175-07:00"
+        "url": "https://zetatijuana.com/2026/08/bomberos-de-tijuana-continua-combatiendo-incendio-en-basurero-clandestino-de-rancho-escondido/?utm_source=rss&utm_medium=rss&utm_campaign=bomberos-de-tijuana-continua-combatiendo-incendio-en-basurero-clandestino-de-rancho-escondido",
+        "_added_at": "2026-08-12T00:43:28.397602-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Investigan a Marina del Pilar, esposo y otros funcionarios",
-        "summary": "Nuevo audio confirma investigación contra gobernadora y allegados por presuntas irregularidades.",
+        "title": "Investigan a Marina del Pilar, esposo y otros por corrupción",
+        "summary": "Cuarto audio confirma investigación contra gobernadora y círculo cercano por actos irregulares.",
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/08/cuarto-audio-de-marina-del-pilar-si-la-investigan-a-ella-a-su-esposo-y-a-otros/?utm_source=rss&utm_medium=rss&utm_campaign=cuarto-audio-de-marina-del-pilar-si-la-investigan-a-ella-a-su-esposo-y-a-otros",
-        "_added_at": "2026-08-11T21:54:40.435310-07:00"
+        "_added_at": "2026-08-12T00:43:28.397602-07:00"
       },
       {
-        "title": "San Quintín solicita exención de pago en regularización tierras",
-        "summary": "Congreso de BC aprueba en comisiones propuesta para eximir costos de regularización.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/San%20Quint%C3%ADn/97944/Aprueba-Congeso-en-comisiones-eximir-pago-de-regularizaci%C3%B3n-de-tierras-en-San-Quint%C3%ADn",
-        "_added_at": "2026-08-11T21:54:40.435310-07:00"
-      },
-      {
-        "title": "Gobierno de BCS sin comprobar 117 millones de pesos",
-        "summary": "Cuentas públicas estatales presentan irregularidades en justificación de recursos ejercidos.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/gobierno-de-bcs-sin-comprobar-mas-de-117-mdp-de-cuentas-publicas/?utm_source=rss&utm_medium=rss&utm_campaign=gobierno-de-bcs-sin-comprobar-mas-de-117-mdp-de-cuentas-publicas",
-        "_added_at": "2026-08-11T19:33:48.977227-07:00"
-      },
-      {
-        "title": "Macalpín no descarta candidatura; señala cortejo político",
-        "summary": "Figura política local responde sobre posible participación en próximas elecciones estatales.",
+        "title": "Macalpín responde sobre candidatura: \"Me están coqueteando\"",
+        "summary": "Político no descarta ser candidato; afirma estar siendo cortejado por grupos políticos.",
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/afn_politico/180231_me_estan_coqueteando_respondio_macalpin_pero_no_descarta_ser_candidato",
-        "_added_at": "2026-08-11T19:33:48.977227-07:00"
+        "_added_at": "2026-08-12T00:43:28.397602-07:00"
       },
       {
-        "title": "Inicia campaña \"Soy México 2026\" en Baja California",
-        "summary": "Programa federal busca apoyar a mexicanos nacidos en Estados Unidos en la entidad.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180219_inicia_en_bc_campana_soy_mexico_2026_en_apoyo_a_nacidos_en_eu",
-        "_added_at": "2026-08-11T19:33:48.977227-07:00"
-      },
-      {
-        "title": "Castro Trenti busca unidad en Morena Mexicali",
-        "summary": "Líder solicita reunión con dirigencia estatal para resolver diferencias entre aspirantes.",
+        "title": "San Quintín pide exentar pago de regularización de tierras",
+        "summary": "Congreso de BC aprueba en comisiones propuesta para eliminar costos de regularización.",
         "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97938/Pide-Castro-Trenti-a-dirigencia-estatal-de-MORENA-reuni%C3%B3n-con-aspirantes",
-        "_added_at": "2026-08-11T19:33:48.977227-07:00"
-      },
-      {
-        "title": "Castro busca frenar desarrollos inmobiliarios en Tijuana",
-        "summary": "Autoridad municipal propone restricciones a proyectos mientras sector empresarial pide certidumbre legal.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/castro-busca-frenar-desarrollos-inmobiliarios-cce-pide-certeza-juridica/?utm_source=rss&utm_medium=rss&utm_campaign=castro-busca-frenar-desarrollos-inmobiliarios-cce-pide-certeza-juridica",
-        "_added_at": "2026-08-11T14:57:11.935424-07:00"
-      },
-      {
-        "title": "Saúl González destaca unidad del movimiento político",
-        "summary": "Dirigente enfatiza importancia de mantener cohesión en organización política local.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/la-unidad-del-movimiento-debe-prevalecer-ante-todo-saul-gonzalez/?utm_source=rss&utm_medium=rss&utm_campaign=la-unidad-del-movimiento-debe-prevalecer-ante-todo-saul-gonzalez",
-        "_added_at": "2026-08-11T14:57:11.935424-07:00"
-      },
-      {
-        "title": "Marina del Pilar debe terminar gobierno conforme ley",
-        "summary": "Castro Trenti exige que gobernadora concluya mandato respetando marco legal vigente.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180214_marina_del_pilar_debe_concluir_su_gobierno_conforme_a_la_ley_castro_trenti",
-        "_added_at": "2026-08-11T14:57:11.935424-07:00"
-      },
-      {
-        "title": "Inicia campaña \"Soy México 2026\" en Baja California",
-        "summary": "Lanzan programa de apoyo dirigido a ciudadanos nacidos en Estados Unidos en la región.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97943/Inicia-campa%C3%B1a-Soy-M%C3%A9xico-2026",
-        "_added_at": "2026-08-11T14:57:11.935424-07:00"
+        "url": "https://el-mexicano.com.mx/Noticia/San%20Quint%C3%ADn/97944/Aprueba-Congeso-en-comisiones-eximir-pago-de-regularizaci%C3%B3n-de-tierras-en-San-Quint%C3%ADn",
+        "_added_at": "2026-08-12T00:43:28.397602-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Tecate reactiva multas por falta de pago parquímetros",
-        "summary": "Municipio retoma colocación de arañas en vehículos por incumplimiento de pago.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180226_tecate_retoma_el_uso_de_aranas_en_autos_por_falta_de_pago_en_parquimetros",
-        "_added_at": "2026-08-11T21:54:40.435310-07:00"
-      },
-      {
-        "title": "Rezago en infraestructura de Tijuana suma 25 mil millones",
-        "summary": "Evaluación estatal revela deuda pendiente en proyectos de desarrollo y servicios públicos.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/rezago-en-infraestructura-de-tijuana-alcanza-los-25-mil-millones-de-pesos/?utm_source=rss&utm_medium=rss&utm_campaign=rezago-en-infraestructura-de-tijuana-alcanza-los-25-mil-millones-de-pesos",
-        "_added_at": "2026-08-11T19:33:48.977227-07:00"
-      },
-      {
-        "title": "Eva Moreno exige solución a apagones en Mexicali",
-        "summary": "Autoridad municipal denuncia recurrentes cortes de energía afectando a ciudadanía.",
+        "title": "Eva Moreno pide solución a apagones en Mexicali",
+        "summary": "Legisladora solicita atender crisis de cortes de energía que afecta a residentes.",
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/180223_eva_moreno_pide_solucion_a_apagones_que_afectan_a_mexicalenses",
-        "_added_at": "2026-08-11T19:33:48.977227-07:00"
+        "_added_at": "2026-08-12T00:43:28.397602-07:00"
       },
       {
-        "title": "San Quintín solicita exención en regularización de terrenos",
-        "summary": "Municipio pide al Congreso estatal condonar cobros por formalización de propiedades.",
+        "title": "Tecate retoma uso de arañas por falta de pago parquímetros",
+        "summary": "Municipio reanuda confiscación de vehículos por incumplimiento de pagos de estacionamiento.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180222_pide_san_quintin_al_congreso_de_bc_exentar_de_pago_regularizacion_de_terrenos",
-        "_added_at": "2026-08-11T19:33:48.977227-07:00"
-      },
-      {
-        "title": "Aumento a transporte: ni chóferes ni usuarios satisfechos",
-        "summary": "Incremento de tarifas genera descontento entre operadores y pasajeros de transporte público.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/aumento-a-transporte-choferes-no-les-alcanza-usuarios-es-impagable/?utm_source=rss&utm_medium=rss&utm_campaign=aumento-a-transporte-choferes-no-les-alcanza-usuarios-es-impagable",
-        "_added_at": "2026-08-11T14:57:11.935424-07:00"
-      },
-      {
-        "title": "BCS sin comprobar 117 millones de pesos en cuentas",
-        "summary": "Auditoría detecta falta de comprobación de recursos públicos en gobierno de Baja California Sur.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/gobierno-de-bcs-sin-comprobar-mas-de-117-mdp-de-cuentas-publicas/?utm_source=rss&utm_medium=rss&utm_campaign=gobierno-de-bcs-sin-comprobar-mas-de-117-mdp-de-cuentas-publicas",
-        "_added_at": "2026-08-11T14:57:11.935424-07:00"
-      },
-      {
-        "title": "Suspenden cuota de medidores en recibos de agua",
-        "summary": "Ciudadanía logra que autoridades cancelen cobro adicional por servicio de medición hídrica.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/gana-ciudadania-suspenden-cuota-para-medidores-en-recibos-de-agua/?utm_source=rss&utm_medium=rss&utm_campaign=gana-ciudadania-suspenden-cuota-para-medidores-en-recibos-de-agua",
-        "_added_at": "2026-08-11T14:57:11.935424-07:00"
-      },
-      {
-        "title": "Congreso aprueba eximir pago de regularización en San Quintín",
-        "summary": "Comisiones legislativas autorizan exemción de costos para regularización de tierras en municipio.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/San%20Quint%C3%ADn/97944/Aprueba-Congeso-en-comisiones-eximir-pago-de-regularizaci%C3%B3n-de-tierras-en-San-Quint%C3%ADn",
-        "_added_at": "2026-08-11T14:57:11.935424-07:00"
-      },
-      {
-        "title": "Puente El Chaparral reabre tras remodelaciones",
-        "summary": "Concluyen trabajos de restauración en cruce fronterizo importante entre Tijuana y San Diego.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180209_reabren_puente_el_chaparral_tras_concluir_remodelaciones",
-        "_added_at": "2026-08-11T12:12:47.206417-07:00"
-      },
-      {
-        "title": "Actividad industrial en BC cae 11 meses consecutivos",
-        "summary": "Sector experimenta contracción prolongada afectando economía regional.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/empresarial/180194_actividad_industrial_en_bc_11_meses_en_picada",
-        "_added_at": "2026-08-11T09:05:14.674175-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/180226_tecate_retoma_el_uso_de_aranas_en_autos_por_falta_de_pago_en_parquimetros",
+        "_added_at": "2026-08-12T00:43:28.397602-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Equipo infantil tijuanense varado en Colombia tras sismo",
-        "summary": "Niños campeones quedan atrapados; SRE coordina retorno, vuelos ya programados.",
+        "title": "Equipo infantil de Tijuana regresa desde Colombia tras sismo",
+        "summary": "Niños campeones quedaron varados en Bogotá por evento sísmico; vuelos programados.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180225_ninos_campeones_de_tijuana_quedaron_varados_en_colombia_por_el_sismo",
-        "_added_at": "2026-08-11T21:54:40.435310-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/180227_ninos_de_tijuana_ya_estan_en_bogota_hay_vuelos_de_regreso_programados",
+        "_added_at": "2026-08-12T00:43:28.397602-07:00"
       },
       {
-        "title": "Inicia campaña Soy México 2026 en Baja California",
-        "summary": "BC registra hijos de mexicanos nacidos en Estados Unidos para nacionalidad.",
+        "title": "Sedeti firma convenio de apoyo a deportistas",
+        "summary": "Dependencia establece acuerdo para fortalecer programas de desarrollo deportivo.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180219_inicia_en_bc_campana_soy_mexico_2026_en_apoyo_a_nacidos_en_eu",
-        "_added_at": "2026-08-11T21:54:40.435310-07:00"
+        "url": "https://www.afntijuana.info/municipios/180232_sedeti_firma_convenio_para_apoyo_a_deportistas",
+        "_added_at": "2026-08-12T00:43:28.397602-07:00"
       },
       {
-        "title": "IMDET presenta quinta etapa Serial Atlético Delegacional",
-        "summary": "Evento deportivo en Playas de Tijuana suma nueva etapa de competencias.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/presenta-imdet-quinta-etapa-del-serial-atletico-delegacional-de-playas-de-tijuana/?utm_source=rss&utm_medium=rss&utm_campaign=presenta-imdet-quinta-etapa-del-serial-atletico-delegacional-de-playas-de-tijuana",
-        "_added_at": "2026-08-11T21:54:40.435310-07:00"
-      },
-      {
-        "title": "Muere poeta y ensayista Vicente Quirarte",
-        "summary": "Fallece destacado intelectual mexicano con trayectoria en literatura.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/murio-el-poeta-y-ensayista-vicente-quirarte/?utm_source=rss&utm_medium=rss&utm_campaign=murio-el-poeta-y-ensayista-vicente-quirarte",
-        "_added_at": "2026-08-11T21:54:40.435310-07:00"
-      },
-      {
-        "title": "Equipo infantil de Tijuana varado en Colombia por sismo",
-        "summary": "Menores futbolistas quedaron atrapados tras terremoto; SRE coordina retorno a México.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/equipo-tijuanense-de-futbol-infantil-queda-varado-en-colombia-tras-sismo/?utm_source=rss&utm_medium=rss&utm_campaign=equipo-tijuanense-de-futbol-infantil-queda-varado-en-colombia-tras-sismo",
-        "_added_at": "2026-08-11T19:33:48.977227-07:00"
-      },
-      {
-        "title": "Niños beisbolistas tijuanenses representarán a México",
-        "summary": "Jóvenes campeones viajarán a Williamsport para participar en torneo internacional.",
+        "title": "Inicia campaña Soy México 2026 en Mexicali",
+        "summary": "Registro de hijos nacidos en EUA para acceso a ciudadanía mexicana abierto.",
         "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97957/Ni%C3%B1os-beisbolistas-de-Tijuana-listos-para-representar-a-M%C3%A9xico-en-Williamsport",
-        "_added_at": "2026-08-11T19:33:48.977227-07:00"
-      },
-      {
-        "title": "Entregan vales de uniformes a estudiantes de Rosarito",
-        "summary": "Programa de apoyo beneficia a 175 alumnos con material escolar en Playas de Rosarito.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Rosarito/97953/Entregan-175-vales-de-uniformes-a-estudiantes-de-Playas-de-Rosarito",
-        "_added_at": "2026-08-11T19:33:48.977227-07:00"
-      },
-      {
-        "title": "Tecate retoma uso de arañas por falta de pago parquímetros",
-        "summary": "Municipio aplica medidas para cobrar infracciones por incumplimiento de estacionamiento.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180226_tecate_retoma_el_uso_de_aranas_en_autos_por_falta_de_pago_en_parquimetros",
-        "_added_at": "2026-08-11T19:33:48.977227-07:00"
-      },
-      {
-        "title": "Aumentan casos de dengue grave en Baja California Sur",
-        "summary": "Autoridades sanitarias advierten sobre incremento de infecciones severas por dengue en la región.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/aumentan-casos-de-dengue-grave-signos-de-alarma-en-bcs/?utm_source=rss&utm_medium=rss&utm_campaign=aumentan-casos-de-dengue-grave-signos-de-alarma-en-bcs",
-        "_added_at": "2026-08-11T14:57:11.935424-07:00"
-      },
-      {
-        "title": "Protestan por cierre de guardería en La Paz",
-        "summary": "Padres de familia reclaman clausura de servicio que los obliga a buscar nuevas opciones.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/nos-impusieron-una-nueva-estancia-protestan-por-cierre-de-guarderia-en-la-paz/?utm_source=rss&utm_medium=rss&utm_campaign=nos-impusieron-una-nueva-estancia-protestan-por-cierre-de-guarderia-en-la-paz",
-        "_added_at": "2026-08-11T14:57:11.935424-07:00"
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97943/Inicia-campa%C3%B1a-Soy-M%C3%A9xico-2026",
+        "_added_at": "2026-08-12T00:43:28.397602-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-11T21:54:40.435310-07:00"
+  "last_updated": "2026-08-12T00:43:28.397602-07:00"
 }
