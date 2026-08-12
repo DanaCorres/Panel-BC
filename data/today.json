@@ -1,8 +1,36 @@
 {
   "date": "2026-08-12",
-  "run_count": 5,
+  "run_count": 6,
   "notes": {
     "seguridad": [
+      {
+        "title": "Secuestradores condenados a 50 años en Tijuana",
+        "summary": "Tribunal sentencia a secuestradores a pena de cinco décadas de cárcel en Tijuana.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97988/Reciben-secuestradores-pena-de-50-a%C3%B1os-de-c%C3%A1rcel-en-Tijuana",
+        "_added_at": "2026-08-12T14:54:57.425231-07:00"
+      },
+      {
+        "title": "Mujer muere atropellada en vía rápida de Tijuana",
+        "summary": "Accidente mortal en vía rápida deja una mujer fallecida por atropellamiento.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97983/Mujer-pierde-la-vida-tras-ser-atropellada-en-la-V%C3%ADa-R%C3%A1pida",
+        "_added_at": "2026-08-12T14:54:57.425231-07:00"
+      },
+      {
+        "title": "Capturan traficante de heroína buscada en EE.UU.",
+        "summary": "Autoridades detienen en Tijuana a mujer estadounidense buscada por tráfico de heroína.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97986/Atoran-en-Tijuana-a-%22gringa%22-buscada-en-su-pa%C3%ADs,-por-tr%C3%A1fico-de-hero%C3%ADna",
+        "_added_at": "2026-08-12T14:54:57.425231-07:00"
+      },
+      {
+        "title": "Alerta por cemento adulterado en Tijuana",
+        "summary": "Congreso interviene ante riesgos por distribución de cemento huachicol en Tijuana.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Nacional/97990/Alerta-nacional-por-%27cemento-huachicol%27%3A-Congreso-interviene-ante-riesgos-latentes-en-Tijuana",
+        "_added_at": "2026-08-12T14:54:57.425231-07:00"
+      },
       {
         "title": "Capturan a presunto integrante del Cártel en Ensenada",
         "summary": "Autoridades detienen al G1, vinculado al Cártel de Sinaloa, en operativo en Ensenada.",
@@ -44,30 +72,23 @@
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/08/detienen-en-ensenada-al-g1-presunto-integrante-del-cartel-de-sinaloa/?utm_source=rss&utm_medium=rss&utm_campaign=detienen-en-ensenada-al-g1-presunto-integrante-del-cartel-de-sinaloa",
         "_added_at": "2026-08-12T00:43:28.397602-07:00"
-      },
-      {
-        "title": "Detienen hombre por sustracción de menores y violencia familiar",
-        "summary": "FESC aprehende a sujeto con orden por sustracción de menores y delitos de violencia.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/agentes-de-la-fesc-detienen-a-hombre-con-orden-de-aprehension-por-sustraccion-de-menores-y-violencia-familiar/?utm_source=rss&utm_medium=rss&utm_campaign=agentes-de-la-fesc-detienen-a-hombre-con-orden-de-aprehension-por-sustraccion-de-menores-y-violencia-familiar",
-        "_added_at": "2026-08-12T00:43:28.397602-07:00"
-      },
-      {
-        "title": "CBP detiene joven con 7.5 kilos de fentanilo en motocicleta",
-        "summary": "Patrulla Fronteriza captura a individuo con gran cantidad de fentanilo oculto.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/180221_cbp_detiene_a_joven_con_7_5_kilos_de_fentanilo_ocultos_en_motocicleta",
-        "_added_at": "2026-08-12T00:43:28.397602-07:00"
-      },
-      {
-        "title": "Incendio en basurero clandestino afecta Rancho Escondido",
-        "summary": "Bomberos combaten fuego en sitio de residuos clandestino; autoridades recomiendan cubrebocas.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/bomberos-de-tijuana-continua-combatiendo-incendio-en-basurero-clandestino-de-rancho-escondido/?utm_source=rss&utm_medium=rss&utm_campaign=bomberos-de-tijuana-continua-combatiendo-incendio-en-basurero-clandestino-de-rancho-escondido",
-        "_added_at": "2026-08-12T00:43:28.397602-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Cuatro funcionarios abandonan gabinete rumbo a 2027",
+        "summary": "Medina Amarillas, Arregui, Rodríguez y García dejan cargos para buscar candidaturas.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/medina-amarillas-arregui-rodriguez-y-garcia-dejan-el-gabinete-rumbo-a-2027/",
+        "_added_at": "2026-08-12T14:54:57.425231-07:00"
+      },
+      {
+        "title": "Meli Espinoza formaliza ingreso a MORENA",
+        "summary": "Funcionaria hace oficial su afiliación al partido MORENA.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180267_meli_espinoza_formaliza_su_ingreso_a_morena",
+        "_added_at": "2026-08-12T14:54:57.425231-07:00"
+      },
       {
         "title": "Ernesto Ruffo promueve amparo contra vinculación a proceso",
         "summary": "Exgobernador Ruffo interpone amparo contra procedimiento judicial y prisión preventiva.",
@@ -120,6 +141,13 @@
     ],
     "economia": [
       {
+        "title": "Tecate implementa multas por incumplimiento de parquímetro",
+        "summary": "Municipio aplicará sanciones a conductores que no paguen tarifa de estacionamiento.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180260_aplicaran_multas_en_tecate_a_quien_no_pague_la_cuota_del_parquimetro",
+        "_added_at": "2026-08-12T14:54:57.425231-07:00"
+      },
+      {
         "title": "BC generó 42 mil empleos en gobierno, primer lugar nacional",
         "summary": "Baja California lidera creación de empleos gubernamentales con 42,149 nuevas plazas.",
         "source": "AFN Tijuana",
@@ -163,6 +191,27 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Treinta muertes por calor en Baja California alertan",
+        "summary": "Ola de calor deja 30 fallecidos; autoridades consideran activar Plan DN-III-E.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180262_han_muerto_30_por_el_calor_en_bc_pediran_aplicar_el_plan_dn_iii_e",
+        "_added_at": "2026-08-12T14:54:57.425231-07:00"
+      },
+      {
+        "title": "Cruz Roja convoca a carrera salvavidas en Tijuana",
+        "summary": "Séptima edición de \"Todo México Salvando Vidas\" se realizará el 6 de septiembre.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97987/Tijuana-alista-s%C3%A9ptima-edici%C3%B3n-de-la-carrera-atl%C3%A9tica-%E2%80%9CTodo-M%C3%A9xico-Salvando-Vidas%E2%80%9D,-ser%C3%A1-este-6-de-septiembre",
+        "_added_at": "2026-08-12T14:54:57.425231-07:00"
+      },
+      {
+        "title": "Agente federal accidentado reportado en estado grave",
+        "summary": "Elemento de la FESC sufre accidente en Mexicali y se reporta en condición grave.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180266_reportan_grave_a_agente_de_la_fesc_accidentado_en_mexicali",
+        "_added_at": "2026-08-12T14:54:57.425231-07:00"
+      },
       {
         "title": "Madres de Tijuana evitan cruzar frontera por temor a perder visa",
         "summary": "Incertidumbre crece entre residentes locales sobre políticas migratorias estadounidenses.",
@@ -211,29 +260,8 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/180230_recomiendan_uso_de_cubrebocas_ante_el_incendio_en_basurero_de_tijuana",
         "_added_at": "2026-08-12T09:03:57.096425-07:00"
-      },
-      {
-        "title": "Border Battle reunirá 42 equipos a beneficio de Tijuana Sin Hambre",
-        "summary": "Torneo deportivo con causa benéfica congregará equipos de futbol infantil.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97951/Border-Battle-reunir%C3%A1-a-42-equipos-en-Tijuana-a-beneficio-de-Tijuana-Sin-Hambre",
-        "_added_at": "2026-08-12T09:03:57.096425-07:00"
-      },
-      {
-        "title": "Familiares de detenidos en festejo exigen atención de fiscalía local",
-        "summary": "Allegados demandan investigación sobre aprehensiones ocurridas durante celebración.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180233_familiares_de_detenidos_durante_un_festejo_exigen_atencion_de_la_fiscalia",
-        "_added_at": "2026-08-12T06:27:14.093770-07:00"
-      },
-      {
-        "title": "Equipo infantil de Tijuana varado en Colombia tras sismo",
-        "summary": "Niños campeones quedaron atrapados en el país tras terremoto; gobierno gestiona regreso a casa.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180225_ninos_campeones_de_tijuana_quedaron_varados_en_colombia_por_el_sismo",
-        "_added_at": "2026-08-12T03:15:16.579424-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-12T12:12:38.498573-07:00"
+  "last_updated": "2026-08-12T14:54:57.425231-07:00"
 }
