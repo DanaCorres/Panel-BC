@@ -1,6 +1,6 @@
 {
   "date": "2026-08-12",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
       {
@@ -64,6 +64,13 @@
     ],
     "economia": [
       {
+        "title": "San Quintín solicita exención de pago por regularización de tierras",
+        "summary": "Congreso de BC aprueba en comisiones propuesta de municipio para evitar cuotas regularización.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/San%20Quint%C3%ADn/97944/Aprueba-Congeso-en-comisiones-eximir-pago-de-regularizaci%C3%B3n-de-tierras-en-San-Quint%C3%ADn",
+        "_added_at": "2026-08-12T06:27:14.093770-07:00"
+      },
+      {
         "title": "San Quintín solicita exención de pago para regularización de tierras",
         "summary": "Municipio pide al Congreso de BC condonar pagos por trámites de regularización de propiedades.",
         "source": "AFN Tijuana",
@@ -86,6 +93,13 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Familiares de detenidos en festejo exigen atención de fiscalía local",
+        "summary": "Allegados demandan investigación sobre aprehensiones ocurridas durante celebración.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180233_familiares_de_detenidos_durante_un_festejo_exigen_atencion_de_la_fiscalia",
+        "_added_at": "2026-08-12T06:27:14.093770-07:00"
+      },
       {
         "title": "Equipo infantil de Tijuana varado en Colombia tras sismo",
         "summary": "Niños campeones quedaron atrapados en el país tras terremoto; gobierno gestiona regreso a casa.",
@@ -116,5 +130,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-12T03:15:16.579424-07:00"
+  "last_updated": "2026-08-12T06:27:14.093770-07:00"
 }
