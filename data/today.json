@@ -1,8 +1,29 @@
 {
   "date": "2026-08-13",
-  "run_count": 5,
+  "run_count": 6,
   "notes": {
     "seguridad": [
+      {
+        "title": "Arrendatario comparecerá ante juez por huachicol fiscal en El Sauzal",
+        "summary": "Arrendatario de predio en El Sauzal acuerda presentarse ante autoridades por delito fiscal relacionado con huachicol.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/arrendatario-de-predio-en-el-sauzal-acuerda-comparecer-ante-juez-por-huachicol-fiscal/?utm_source=rss&utm_medium=rss&utm_campaign=arrendatario-de-predio-en-el-sauzal-acuerda-comparecer-ante-juez-por-huachicol-fiscal",
+        "_added_at": "2026-08-13T14:54:49.219611-07:00"
+      },
+      {
+        "title": "Detienen a menor de edad portando fusil en vía pública",
+        "summary": "Autoridades capturan a joven menor de edad quien fue encontrado armado con fusil en la calle.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/180307_detienen_a_un_menor_de_edad_con_un_fusil",
+        "_added_at": "2026-08-13T14:54:49.219611-07:00"
+      },
+      {
+        "title": "Sentencian a delincuente por robo de vehículo",
+        "summary": "Juez dicta condena contra presunto ladrón de automóviles tras proceso legal.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/98038/Recibe-delincuente-sentencia-por-robo-de-veh%C3%ADculo",
+        "_added_at": "2026-08-13T14:54:49.219611-07:00"
+      },
       {
         "title": "Vinculan a cuatro integrantes de célula delictiva en Tecate",
         "summary": "Autoridades procesaron a cuatro presuntos miembros de organización criminal que operaba en Tecate.",
@@ -51,30 +72,37 @@
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/08/ataque-armado-en-yonke-deja-dos-lesionados-detienen-a-uno-y-otro-huye/?utm_source=rss&utm_medium=rss&utm_campaign=ataque-armado-en-yonke-deja-dos-lesionados-detienen-a-uno-y-otro-huye",
         "_added_at": "2026-08-13T03:16:49.038251-07:00"
-      },
-      {
-        "title": "Embajador EU promete perseguir CJNG a nivel mundial",
-        "summary": "Representante estadounidense advierte búsqueda internacional contra cártel en cualquier territorio.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/advierte-embajador-johnson-que-eu-perseguira-al-cjng-en-cualquier-lugar-del-mundo/?utm_source=rss&utm_medium=rss&utm_campaign=advierte-embajador-johnson-que-eu-perseguira-al-cjng-en-cualquier-lugar-del-mundo",
-        "_added_at": "2026-08-13T00:45:48.755311-07:00"
-      },
-      {
-        "title": "Localizan con vida dueño de taquería en Ensenada",
-        "summary": "Propietario de El Chino aparece tras secuestro; autoridades investigan motivos del levantón.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/localizan-con-bien-al-dueno-de-taqueria-el-chino-en-ensenada-investigan-causas-del-levanton/?utm_source=rss&utm_medium=rss&utm_campaign=localizan-con-bien-al-dueno-de-taqueria-el-chino-en-ensenada-investigan-causas-del-levanton",
-        "_added_at": "2026-08-13T00:45:48.755311-07:00"
-      },
-      {
-        "title": "Ataques armados dejan heridos en Tijuana y Tecate",
-        "summary": "Tiroteos en yonke y farmacia causan lesiones; detienen a uno de los agresores.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/180282_asesinan_a_balazos_a_un_hombre_en_tecate",
-        "_added_at": "2026-08-13T00:45:48.755311-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Morena frena juicio político contra gobernadora Marina del Pilar",
+        "summary": "Congreso de BC rechaza solicitud de juicio político contra gobernadora; Morena impide procedimiento pese a petición.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/morena-frena-solicitud-de-juicio-politico-contra-marina-del-pilar-en-congreso-de-bc/?utm_source=rss&utm_medium=rss&utm_campaign=morena-frena-solicitud-de-juicio-politico-contra-marina-del-pilar-en-congreso-de-bc",
+        "_added_at": "2026-08-13T14:54:49.219611-07:00"
+      },
+      {
+        "title": "Maru Campos exigirá en Tijuana liberación de Ruffo Appel",
+        "summary": "Gobernadora de Chihuahua visitará Tijuana para demandar la liberación del exgobernador Ruffo Appel.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/maru-campos-visitara-tijuana-para-exigir-la-liberacion-de-ruffo-appel/?utm_source=rss&utm_medium=rss&utm_campaign=maru-campos-visitara-tijuana-para-exigir-la-liberacion-de-ruffo-appel",
+        "_added_at": "2026-08-13T14:54:49.219611-07:00"
+      },
+      {
+        "title": "Diputado Diego Ibarra se incorpora al partido Morena",
+        "summary": "Legislador anuncia su afiliación al movimiento político Morena en Baja California.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180316_anuncia_diputado_diego_ibarra_su_incorporacion_al_partido_morena",
+        "_added_at": "2026-08-13T14:54:49.219611-07:00"
+      },
+      {
+        "title": "IEEBC condena violencia política en elecciones locales",
+        "summary": "Instituto Electoral de BC advierte sobre actos de violencia política durante procesos electorales estatales.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180318_desconocen_limites_quienes_ejercen_violencia_politica_ieebc",
+        "_added_at": "2026-08-13T14:54:49.219611-07:00"
+      },
       {
         "title": "Sheinbaum rechaza derechos de réplica del PAN",
         "summary": "Presidenta niega acceso a conferencia matutina para respuesta del partido opositor.",
@@ -116,37 +144,30 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/empresarial/180285_gobierno_de_ensenada_cerrara_con_deficit_en_2026_burocracia_ahorca_presupuesto",
         "_added_at": "2026-08-13T09:03:35.360724-07:00"
-      },
-      {
-        "title": "PRI denuncia amenazas y persecución de Morena",
-        "summary": "Partido reclama represalias políticas en contra de sus militantes.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/nacionales/180275_denuncia_el_pri_amenazas_y_persecucion_politica_por_parte_de_morena",
-        "_added_at": "2026-08-13T03:16:49.038251-07:00"
-      },
-      {
-        "title": "Detienen exfuncionario de Alito Moreno por peculado",
-        "summary": "Arrestan exdirector de Comunicación por presunto desvío de recursos públicos.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/detienen-a-exdirector-de-comunicacion-de-alito-moreno-por-presunto-peculado/?utm_source=rss&utm_medium=rss&utm_campaign=detienen-a-exdirector-de-comunicacion-de-alito-moreno-por-presunto-peculado",
-        "_added_at": "2026-08-13T00:45:48.755311-07:00"
-      },
-      {
-        "title": "Renuncias en Tijuana; tres dejan cargos públicos",
-        "summary": "Inician dimisiones de funcionarios en la administración local.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/afn_politico/180277_empezaron_las_renuncias_salen_tres_de_la_lista_de_afn",
-        "_added_at": "2026-08-13T00:45:48.755311-07:00"
-      },
-      {
-        "title": "Proponen prohibir celulares en escuelas de BC",
-        "summary": "Legisladores revisarán iniciativa para restringir uso dispositivos móviles en aulas.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180274_revisaran_propuesta_para_prohibir_el_uso_de_dispositivos_moviles_en_escuelas_de_bc",
-        "_added_at": "2026-08-13T00:45:48.755311-07:00"
       }
     ],
     "economia": [
+      {
+        "title": "Conagua difiere tercera vez fallo de licitación de desaladora Rosarito",
+        "summary": "Autoridad del agua retrasa nuevamente la resolución del proceso de licitación para planta desalinizadora en Rosarito.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/por-tercera-vez-conagua-difiere-el-fallo-de-la-licitacion-de-desaladora-de-rosarito/?utm_source=rss&utm_medium=rss&utm_campaign=por-tercera-vez-conagua-difiere-el-fallo-de-la-licitacion-de-desaladora-de-rosarito",
+        "_added_at": "2026-08-13T14:54:49.219611-07:00"
+      },
+      {
+        "title": "Turismo médico y dental destaca como éxito económico estatal",
+        "summary": "Funcionario destaca el crecimiento y importancia del turismo médico-dental en Baja California.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180312_resalta_badiola_el_exito_del_turismo_medico_y_dental_en_baja_california",
+        "_added_at": "2026-08-13T14:54:49.219611-07:00"
+      },
+      {
+        "title": "Coparmex pide renuncia definitiva de funcionarios con ambiciones políticas",
+        "summary": "Organización empresarial exige que servidores públicos renuncien si buscan otro cargo.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180308_pide_coparmex_renuncia_definitiva_de_funcionarios_que_busquen_otro_cargo",
+        "_added_at": "2026-08-13T14:54:49.219611-07:00"
+      },
       {
         "title": "Dólar baja ligeramente en casas de cambio locales",
         "summary": "Moneda estadounidense registra descenso en cotización al cierre de jornada.",
@@ -191,6 +212,27 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Bomberos de Rosarito reciben nuevas unidades de emergencia",
+        "summary": "Autoridades entregan vehículos adicionales a cuerpo de bomberos para mejorar atención de emergencias.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Rosarito/98040/Entregan-unidades-a-Bomberos-de-Playas-de-Rosarito-para-reforzar-atenci%C3%B3n-de-emergencias",
+        "_added_at": "2026-08-13T14:54:49.219611-07:00"
+      },
+      {
+        "title": "Personas ciegas realizan senderismo inclusivo en Cerro Colorado",
+        "summary": "Actividad inclusiva permite a invidentes disfrutar de experiencia de excursionismo en Tijuana.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98037/Personas-ciegas-conquistan-el-Cerro-Colorado-con-senderismo-inclusivo",
+        "_added_at": "2026-08-13T14:54:49.219611-07:00"
+      },
+      {
+        "title": "Abogados exigen al Congreso frenar impunidad estatal",
+        "summary": "Gremio jurídico solicita legisladores implementen medidas contra la impunidad en Baja California.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180310_exigen_abogados_al_congreso_frenar_la_impunidad_en_el_estado",
+        "_added_at": "2026-08-13T14:54:49.219611-07:00"
+      },
       {
         "title": "Niños de Tijuana regresan tras estar varados en Colombia",
         "summary": "Equipo infantil regresa a casa después de quedar atrapado en el país suramericano.",
@@ -239,29 +281,8 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/180274_revisaran_propuesta_para_prohibir_el_uso_de_dispositivos_moviles_en_escuelas_de_bc",
         "_added_at": "2026-08-13T03:16:49.038251-07:00"
-      },
-      {
-        "title": "Preparan rehabilitación de unidades deportivas Tijuana",
-        "summary": "Autoridades mejoran instalaciones incluyendo baños en varios centros.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97996/Preparan-rehabilitaci%C3%B3n-de-unidades-deportivas-en-Tijuana",
-        "_added_at": "2026-08-13T03:16:49.038251-07:00"
-      },
-      {
-        "title": "Suman 30 muertes por calor en Baja California",
-        "summary": "Onda de calor intenso causa decesos en la entidad durante temporada estival.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/aumentan-a-30-los-fallecimientos-por-calor-en-baja-california/?utm_source=rss&utm_medium=rss&utm_campaign=aumentan-a-30-los-fallecimientos-por-calor-en-baja-california",
-        "_added_at": "2026-08-13T00:45:48.755311-07:00"
-      },
-      {
-        "title": "Chubascos y vientos dejan daños en Mexicali",
-        "summary": "Tormenta causa encharcamientos y derriba postes de electricidad en varias zonas.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180284_chubascos_y_fuertes_vientos_dejan_encharcamientos_y_postes_caidos_en_zonas_de_mexicali",
-        "_added_at": "2026-08-13T00:45:48.755311-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-13T12:13:18.219313-07:00"
+  "last_updated": "2026-08-13T14:54:49.219611-07:00"
 }
