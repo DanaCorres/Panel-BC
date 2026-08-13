@@ -1,8 +1,36 @@
 {
   "date": "2026-08-13",
-  "run_count": 3,
+  "run_count": 4,
   "notes": {
     "seguridad": [
+      {
+        "title": "Muere empresario baleado en su domicilio en Playas de Tijuana",
+        "summary": "Hombre fue atacado a disparos en el patio de su vivienda en la zona costera de Tijuana.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/98017/Hombre-es-asesinado-a-balazos-en-el-patio-de-su-domicilio-en-Playas-de-Tijuana",
+        "_added_at": "2026-08-13T09:03:35.360724-07:00"
+      },
+      {
+        "title": "Localizan con vida al dueño de taquería tras levantón en Ensenada",
+        "summary": "Propietario de El Chino fue localizado sano y salvo; autoridades investigan motivos del secuestro.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/localizan-con-bien-al-dueno-de-taqueria-el-chino-en-ensenada-investigan-causas-del-levanton/",
+        "_added_at": "2026-08-13T09:03:35.360724-07:00"
+      },
+      {
+        "title": "Ataque armado en yonke deja dos lesionados en Tijuana",
+        "summary": "Tiroteo en establecimiento dejó heridos; capturan a un sospechoso mientras otro logró escapar.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/ataque-armado-en-yonke-deja-dos-lesionados-detienen-a-uno-y-otro-huye/",
+        "_added_at": "2026-08-13T09:03:35.360724-07:00"
+      },
+      {
+        "title": "Embajador EU promete perseguir CJNG en cualquier parte del mundo",
+        "summary": "Funcionario estadounidense advierte intensificación de operaciones contra cartel en el extranjero.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/advierte-embajador-johnson-que-eu-perseguira-al-cjng-en-cualquier-lugar-del-mundo/",
+        "_added_at": "2026-08-13T09:03:35.360724-07:00"
+      },
       {
         "title": "Ataque armado en yonke deja dos lesionados",
         "summary": "Balacera en taller genera heridos; capturan a uno de los atacantes.",
@@ -41,6 +69,27 @@
     ],
     "politica": [
       {
+        "title": "Vinculan a Guadalupe Hernández por huachicol en caso Ingemar",
+        "summary": "Funcionario es procesado por robo de combustible en investigación relacionada con contratista.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/vinculan-a-guadalupe-hernandez-por-huachicol-fiscal-en-caso-ingemar/",
+        "_added_at": "2026-08-13T09:03:35.360724-07:00"
+      },
+      {
+        "title": "Detienen a exdirector de comunicación de Alito Moreno por peculado",
+        "summary": "Exfuncionario del PRI es capturado por presunto desvío de recursos públicos.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/detienen-a-exdirector-de-comunicacion-de-alito-moreno-por-presunto-peculado/",
+        "_added_at": "2026-08-13T09:03:35.360724-07:00"
+      },
+      {
+        "title": "Municipio de Ensenada cerrará con déficit fiscal en 2026",
+        "summary": "Gobierno local enfrenta crisis presupuestaria por exceso de burocracia y gastos administrativos.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/empresarial/180285_gobierno_de_ensenada_cerrara_con_deficit_en_2026_burocracia_ahorca_presupuesto",
+        "_added_at": "2026-08-13T09:03:35.360724-07:00"
+      },
+      {
         "title": "PRI denuncia amenazas y persecución de Morena",
         "summary": "Partido reclama represalias políticas en contra de sus militantes.",
         "source": "AFN Tijuana",
@@ -71,6 +120,20 @@
     ],
     "economia": [
       {
+        "title": "Federación destinó 8,875 millones para educación básica en BC",
+        "summary": "Gobierno federal invierte recursos significativos en infraestructura y servicios educativos del estado.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/empresarial/180286_federacion_destino_8_875_mdp_para_educacion_basica_en_bc",
+        "_added_at": "2026-08-13T09:03:35.360724-07:00"
+      },
+      {
+        "title": "Banxico impulsará pagos digitales con nuevas reglas antes de diciembre",
+        "summary": "Banco central introduce regulaciones para modernizar transacciones electrónicas en el país.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180288_banxico_impulsara_pagos_digitales_con_nuevas_reglas_antes_de_diciembre",
+        "_added_at": "2026-08-13T09:03:35.360724-07:00"
+      },
+      {
         "title": "Revisar reglamento casetas vigilancia en Mexicali",
         "summary": "Residenciales buscan aclarar normativa sobre tarifas y derechos de cobro en accesos.",
         "source": "El Mexicano",
@@ -93,6 +156,20 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Aumentan a 30 fallecimientos por ola de calor en Baja California",
+        "summary": "Crisis de temperaturas extremas registra cifra alarmante de decesos en el estado.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/aumentan-a-30-los-fallecimientos-por-calor-en-baja-california/",
+        "_added_at": "2026-08-13T09:03:35.360724-07:00"
+      },
+      {
+        "title": "Realizarán foros sobre prohibición de celulares en escuelas de BC",
+        "summary": "Secretaría de Educación abre espacios de análisis sobre propuesta presidencial de restricción.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97999/Realizar%C3%A1n-foros-para-analizar-prohibici%C3%B3n-de-celulares-en-las-escuelas%3A-SEE",
+        "_added_at": "2026-08-13T09:03:35.360724-07:00"
+      },
       {
         "title": "Revisarán prohibición de móviles en escuelas BC",
         "summary": "Gobierno analiza propuesta para restringir dispositivos en planteles educativos.",
@@ -137,5 +214,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-13T06:34:55.750747-07:00"
+  "last_updated": "2026-08-13T09:03:35.360724-07:00"
 }
