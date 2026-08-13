@@ -1,8 +1,36 @@
 {
   "date": "2026-08-12",
-  "run_count": 6,
+  "run_count": 7,
   "notes": {
     "seguridad": [
+      {
+        "title": "Embajador EU advierte persecución al CJNG en cualquier lugar",
+        "summary": "Estados Unidos intensifica amenaza contra el cartel en el extranjero. Mensaje directo del embajador Johnson sobre enfoque antidrogas.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/advierte-embajador-johnson-que-eu-perseguira-al-cjng-en-cualquier-lugar-del-mundo/?utm_source=rss&utm_medium=rss&utm_campaign=advierte-embajador-johnson-que-eu-perseguira-al-cjng-en-cualquier-lugar-del-mundo",
+        "_added_at": "2026-08-12T19:35:18.245351-07:00"
+      },
+      {
+        "title": "Localizan con bien dueño de taquería en Ensenada",
+        "summary": "Empresario de Ensenada recuperado tras levantón. Autoridades investigan causas del incidente relacionado con seguridad.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/localizan-con-bien-al-dueno-de-taqueria-el-chino-en-ensenada-investigan-causas-del-levanton/?utm_source=rss&utm_medium=rss&utm_campaign=localizan-con-bien-al-dueno-de-taqueria-el-chino-en-ensenada-investigan-causas-del-levanton",
+        "_added_at": "2026-08-12T19:35:18.245351-07:00"
+      },
+      {
+        "title": "Tiroteo en Tijuana deja dos heridos; detienen a uno",
+        "summary": "Ataque armado en establecimiento de compraventa de autos. Un sospechoso capturado, otro en fuga.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/98000/Ataque-armado-deja-a-dos-personas-lesionadas-en-%E2%80%9Cel-callej%C3%B3n-de-los-Yonkes%E2%80%9D",
+        "_added_at": "2026-08-12T19:35:18.245351-07:00"
+      },
+      {
+        "title": "Desalojo en UABC por falsa alarma de bomba",
+        "summary": "Reporte de explosivo obliga evacuación de campus en Valle de las Palmas. Investigación en curso.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180271_desalojan_campus_de_la_uabc_por_reporte_de_bomba_en_valle_de_las_palmas",
+        "_added_at": "2026-08-12T19:35:18.245351-07:00"
+      },
       {
         "title": "Secuestradores condenados a 50 años en Tijuana",
         "summary": "Tribunal sentencia a secuestradores a pena de cinco décadas de cárcel en Tijuana.",
@@ -44,37 +72,23 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/seguridad/180244_localizan_tres_cadaveres_en_distintos_puntos_de_tijuana",
         "_added_at": "2026-08-12T12:12:38.498573-07:00"
-      },
-      {
-        "title": "Cuerpo calcinado dentro de auto incendiado en Buenos Aires",
-        "summary": "Hallan restos mortales en vehículo quemado en sector de Buenos Aires Norte.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97982/Hallan-cuerpo-calcinado-dentro-de-veh%C3%ADculo-incendiado-en-Buenos-Aires-Norte",
-        "_added_at": "2026-08-12T12:12:38.498573-07:00"
-      },
-      {
-        "title": "Detienen a hombre con orden por sustracción de menores",
-        "summary": "FESC captura a individuo acusado de robo de menores y violencia intrafamiliar.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/agentes-de-la-fesc-detienen-a-hombre-con-orden-de-aprehension-por-sustraccion-de-menores-y-violencia-familiar/",
-        "_added_at": "2026-08-12T12:12:38.498573-07:00"
-      },
-      {
-        "title": "Ejecutan a hombre y lesionan dos en tiroteo en Tecate",
-        "summary": "Un hombre fue asesinado y dos más heridos por arma de fuego en Tecate.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/180239_ejecutan_a_un_hombre_y_lesionan_a_dos_a_balazos_en_tecate",
-        "_added_at": "2026-08-12T09:03:57.096425-07:00"
-      },
-      {
-        "title": "Detienen presunto integrante del Cártel de Sinaloa en Ensenada",
-        "summary": "Autoridades capturan al G1, presunto miembro de organización criminal en Ensenada.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/detienen-en-ensenada-al-g1-presunto-integrante-del-cartel-de-sinaloa/?utm_source=rss&utm_medium=rss&utm_campaign=detienen-en-ensenada-al-g1-presunto-integrante-del-cartel-de-sinaloa",
-        "_added_at": "2026-08-12T00:43:28.397602-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Cuatro funcionarios dejan gabinete rumbo a 2027",
+        "summary": "Medina Amarillas, Arregui, Rodríguez y García renuncian. Movimientos previos a carrera electoral próxima.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/medina-amarillas-arregui-rodriguez-y-garcia-dejan-el-gabinete-rumbo-a-2027/?utm_source=rss&utm_medium=rss&utm_campaign=medina-amarillas-arregui-rodriguez-y-garcia-dejan-el-gabinete-rumbo-a-2027",
+        "_added_at": "2026-08-12T19:35:18.245351-07:00"
+      },
+      {
+        "title": "PRI denuncia amenazas y persecución de Morena",
+        "summary": "Partido denota represalias políticas. Campaña publicitaria del gobierno refiere mensajes de Morena según oposición.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/nacionales/180275_denuncia_el_pri_amenazas_y_persecucion_politica_por_parte_de_morena",
+        "_added_at": "2026-08-12T19:35:18.245351-07:00"
+      },
       {
         "title": "Cuatro funcionarios abandonan gabinete rumbo a 2027",
         "summary": "Medina Amarillas, Arregui, Rodríguez y García dejan cargos para buscar candidaturas.",
@@ -130,16 +144,16 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/afn_politico/180231_me_estan_coqueteando_respondio_macalpin_pero_no_descarta_ser_candidato",
         "_added_at": "2026-08-12T00:43:28.397602-07:00"
-      },
-      {
-        "title": "San Quintín pide exentar pago de regularización de tierras",
-        "summary": "Congreso de BC aprueba en comisiones propuesta para eliminar costos de regularización.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/San%20Quint%C3%ADn/97944/Aprueba-Congeso-en-comisiones-eximir-pago-de-regularizaci%C3%B3n-de-tierras-en-San-Quint%C3%ADn",
-        "_added_at": "2026-08-12T00:43:28.397602-07:00"
       }
     ],
     "economia": [
+      {
+        "title": "Apoyan 50 micro y pequeñas empresas en Rosarito",
+        "summary": "Programa de subsidios a negocios locales. Iniciativa de desarrollo económico en municipio de costa.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/municipios/180272_brindan_apoyo_a_50_micro_y_pequenas_empresas_de_playas_de_rosarito",
+        "_added_at": "2026-08-12T19:35:18.245351-07:00"
+      },
       {
         "title": "Tecate implementa multas por incumplimiento de parquímetro",
         "summary": "Municipio aplicará sanciones a conductores que no paguen tarifa de estacionamiento.",
@@ -192,6 +206,27 @@
     ],
     "sociedad": [
       {
+        "title": "Fallecimientos por calor suman 30 en Baja California",
+        "summary": "Crisis sanitaria por temperaturas extremas. Cifra en aumento durante onda de calor.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/aumentan-a-30-los-fallecimientos-por-calor-en-baja-california/?utm_source=rss&utm_medium=rss&utm_campaign=aumentan-a-30-los-fallecimientos-por-calor-en-baja-california",
+        "_added_at": "2026-08-12T19:35:18.245351-07:00"
+      },
+      {
+        "title": "Alerta por tormenta eléctrica en Mexicali",
+        "summary": "Sistema climático severo se aproxima a región. Recomendación de precaución a población.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180273_alertan_por_llegada_de_tormenta_electrica_en_mexicali",
+        "_added_at": "2026-08-12T19:35:18.245351-07:00"
+      },
+      {
+        "title": "Foros analizan prohibición de celulares en escuelas BC",
+        "summary": "Propuesta educativa sobre dispositivos móviles. Secretaría de Educación realiza consulta pública.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97999/Realizar%C3%A1n-foros-para-analizar-prohibici%C3%B3n-de-celulares-en-las-escuelas%3A-SEE",
+        "_added_at": "2026-08-12T19:35:18.245351-07:00"
+      },
+      {
         "title": "Treinta muertes por calor en Baja California alertan",
         "summary": "Ola de calor deja 30 fallecidos; autoridades consideran activar Plan DN-III-E.",
         "source": "AFN Tijuana",
@@ -239,29 +274,8 @@
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/08/exhibira-revushorts-animacion-producida-en-el-noroeste-y-california/",
         "_added_at": "2026-08-12T12:12:38.498573-07:00"
-      },
-      {
-        "title": "Equipo infantil de Tijuana varado en Colombia tras sismo",
-        "summary": "Jóvenes futbolistas tijuanenses quedaron atrapados por terremoto; SRE mantiene contacto.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180228_sre_mantiene_contacto_con_el_equipo_infantil_de_tijuana_varado_en_colombia",
-        "_added_at": "2026-08-12T09:03:57.096425-07:00"
-      },
-      {
-        "title": "Entregan 175 vales de uniformes a estudiantes de Rosarito",
-        "summary": "Municipio distribuyó vales para útiles escolares a estudiantes.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Rosarito/97953/Entregan-175-vales-de-uniformes-a-estudiantes-de-Playas-de-Rosarito",
-        "_added_at": "2026-08-12T09:03:57.096425-07:00"
-      },
-      {
-        "title": "Incendio en basurero de Tijuana causa problemas respiratorios",
-        "summary": "Autoridades recomiendan cubrebocas por humo de incendio en vertedero.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180230_recomiendan_uso_de_cubrebocas_ante_el_incendio_en_basurero_de_tijuana",
-        "_added_at": "2026-08-12T09:03:57.096425-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-12T14:54:57.425231-07:00"
+  "last_updated": "2026-08-12T19:35:18.245351-07:00"
 }
