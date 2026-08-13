@@ -1,6 +1,6 @@
 {
   "date": "2026-08-13",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
       {
@@ -71,6 +71,13 @@
     ],
     "economia": [
       {
+        "title": "Revisar reglamento casetas vigilancia en Mexicali",
+        "summary": "Residenciales buscan aclarar normativa sobre tarifas y derechos de cobro en accesos.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97998/Busca-red-de-residenciales-revisar-reglamento-de-casetas-de-vigilancia",
+        "_added_at": "2026-08-13T06:34:55.750747-07:00"
+      },
+      {
         "title": "Apoyan 50 micro y pequeñas empresas en Rosarito",
         "summary": "Gobierno brinda respaldo financiero a negocios locales de Playas de Rosarito.",
         "source": "AFN Tijuana",
@@ -130,5 +137,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-13T03:16:49.038251-07:00"
+  "last_updated": "2026-08-13T06:34:55.750747-07:00"
 }
