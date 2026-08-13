@@ -1,8 +1,22 @@
 {
   "date": "2026-08-12",
-  "run_count": 7,
+  "run_count": 8,
   "notes": {
     "seguridad": [
+      {
+        "title": "Ataque armado en yonke deja dos heridos",
+        "summary": "Tiroteo en Tijuana causa lesiones; detienen a uno de los agresores y otro logra escapar.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/ataque-armado-en-yonke-deja-dos-lesionados-detienen-a-uno-y-otro-huye/?utm_source=rss&utm_medium=rss&utm_campaign=ataque-armado-en-yonke-deja-dos-lesionados-detienen-a-uno-y-otro-huye",
+        "_added_at": "2026-08-12T21:58:44.718353-07:00"
+      },
+      {
+        "title": "Disparan contra hombre en farmacia de Tecate",
+        "summary": "Incidente violento en comercio tecatense causa pánico entre comerciantes y clientes.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/180281_disparan_contra_un_hombre_en_una_farmacia_en_tecate",
+        "_added_at": "2026-08-12T21:58:44.718353-07:00"
+      },
       {
         "title": "Embajador EU advierte persecución al CJNG en cualquier lugar",
         "summary": "Estados Unidos intensifica amenaza contra el cartel en el extranjero. Mensaje directo del embajador Johnson sobre enfoque antidrogas.",
@@ -58,23 +72,16 @@
         "source": "El Mexicano",
         "url": "https://el-mexicano.com.mx/Noticia/Nacional/97990/Alerta-nacional-por-%27cemento-huachicol%27%3A-Congreso-interviene-ante-riesgos-latentes-en-Tijuana",
         "_added_at": "2026-08-12T14:54:57.425231-07:00"
-      },
-      {
-        "title": "Capturan a presunto integrante del Cártel en Ensenada",
-        "summary": "Autoridades detienen al G1, vinculado al Cártel de Sinaloa, en operativo en Ensenada.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/detienen-en-ensenada-al-g1-presunto-integrante-del-cartel-de-sinaloa/",
-        "_added_at": "2026-08-12T12:12:38.498573-07:00"
-      },
-      {
-        "title": "Localizan tres cadáveres en distintos puntos de Tijuana",
-        "summary": "Hallazgo de tres cuerpos sin vida en diferentes sectores de la ciudad.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/180244_localizan_tres_cadaveres_en_distintos_puntos_de_tijuana",
-        "_added_at": "2026-08-12T12:12:38.498573-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Detienen a exdirector de comunicación de Moreno",
+        "summary": "Aprehen a funcionario por presunto peculado; caso liga a dirigente nacional del PRI.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/detienen-a-exdirector-de-comunicacion-de-alito-moreno-por-presunto-peculado/?utm_source=rss&utm_medium=rss&utm_campaign=detienen-a-exdirector-de-comunicacion-de-alito-moreno-por-presunto-peculado",
+        "_added_at": "2026-08-12T21:58:44.718353-07:00"
+      },
       {
         "title": "Cuatro funcionarios dejan gabinete rumbo a 2027",
         "summary": "Medina Amarillas, Arregui, Rodríguez y García renuncian. Movimientos previos a carrera electoral próxima.",
@@ -136,13 +143,6 @@
         "summary": "Cuarto audio confirma investigación contra gobernadora y círculo cercano por actos irregulares.",
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/08/cuarto-audio-de-marina-del-pilar-si-la-investigan-a-ella-a-su-esposo-y-a-otros/?utm_source=rss&utm_medium=rss&utm_campaign=cuarto-audio-de-marina-del-pilar-si-la-investigan-a-ella-a-su-esposo-y-a-otros",
-        "_added_at": "2026-08-12T00:43:28.397602-07:00"
-      },
-      {
-        "title": "Macalpín responde sobre candidatura: \"Me están coqueteando\"",
-        "summary": "Político no descarta ser candidato; afirma estar siendo cortejado por grupos políticos.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/afn_politico/180231_me_estan_coqueteando_respondio_macalpin_pero_no_descarta_ser_candidato",
         "_added_at": "2026-08-12T00:43:28.397602-07:00"
       }
     ],
@@ -206,6 +206,27 @@
     ],
     "sociedad": [
       {
+        "title": "Abandonan campus UABC por reporte de bomba",
+        "summary": "Desalojo preventivo en Valle de Palmas tras amenaza; autoridades investigan.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180271_desalojan_campus_de_la_uabc_por_reporte_de_bomba_en_valle_de_las_palmas",
+        "_added_at": "2026-08-12T21:58:44.718353-07:00"
+      },
+      {
+        "title": "Revisarán prohibición de celulares en escuelas BC",
+        "summary": "Legislatura analiza propuesta para restringir uso de dispositivos móviles en aulas.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180274_revisaran_propuesta_para_prohibir_el_uso_de_dispositivos_moviles_en_escuelas_de_bc",
+        "_added_at": "2026-08-12T21:58:44.718353-07:00"
+      },
+      {
+        "title": "Rehabilitarán unidades deportivas en Tijuana",
+        "summary": "Municipio ejecuta obras de mejora en infraestructura; incluye reparación de instalaciones.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97996/Preparan-rehabilitaci%C3%B3n-de-unidades-deportivas-en-Tijuana",
+        "_added_at": "2026-08-12T21:58:44.718353-07:00"
+      },
+      {
         "title": "Fallecimientos por calor suman 30 en Baja California",
         "summary": "Crisis sanitaria por temperaturas extremas. Cifra en aumento durante onda de calor.",
         "source": "ZETA Tijuana",
@@ -253,29 +274,8 @@
         "source": "El Mexicano",
         "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97985/%E2%80%9CPrefiero-no-cruzar-para-no-perder-mi-visa%E2%80%9D;-crece-incertidumbre-entre-madres-de-Tijuana",
         "_added_at": "2026-08-12T12:12:38.498573-07:00"
-      },
-      {
-        "title": "Restricciones a embarazadas por turismo de parto en EU",
-        "summary": "Estados Unidos advierte limitaciones a mujeres embarazadas para prevenir nacimientos en el país.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180257_advierten_restricciones_a_embarazadas_por_turismo_de_parto_en_eu",
-        "_added_at": "2026-08-12T12:12:38.498573-07:00"
-      },
-      {
-        "title": "Beisbolistas infantiles de Tijuana van a Williamsport",
-        "summary": "Menores representarán a México en torneo internacional tras meses de entrenamiento.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97957/Ni%C3%B1os-beisbolistas-de-Tijuana-listos-para-representar-a-M%C3%A9xico-en-Williamsport",
-        "_added_at": "2026-08-12T12:12:38.498573-07:00"
-      },
-      {
-        "title": "Festival de animación RevuShorts llega a la región",
-        "summary": "Exhiben producciones animadas del noroeste y California en evento local.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/exhibira-revushorts-animacion-producida-en-el-noroeste-y-california/",
-        "_added_at": "2026-08-12T12:12:38.498573-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-12T19:35:18.245351-07:00"
+  "last_updated": "2026-08-12T21:58:44.718353-07:00"
 }
