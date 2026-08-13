@@ -1,8 +1,15 @@
 {
   "date": "2026-08-13",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Ataque armado en yonke deja dos lesionados",
+        "summary": "Balacera en taller genera heridos; capturan a uno de los atacantes.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/ataque-armado-en-yonke-deja-dos-lesionados-detienen-a-uno-y-otro-huye/?utm_source=rss&utm_medium=rss&utm_campaign=ataque-armado-en-yonke-deja-dos-lesionados-detienen-a-uno-y-otro-huye",
+        "_added_at": "2026-08-13T03:16:49.038251-07:00"
+      },
       {
         "title": "Embajador EU promete perseguir CJNG a nivel mundial",
         "summary": "Representante estadounidense advierte búsqueda internacional contra cártel en cualquier territorio.",
@@ -33,6 +40,13 @@
       }
     ],
     "politica": [
+      {
+        "title": "PRI denuncia amenazas y persecución de Morena",
+        "summary": "Partido reclama represalias políticas en contra de sus militantes.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/nacionales/180275_denuncia_el_pri_amenazas_y_persecucion_politica_por_parte_de_morena",
+        "_added_at": "2026-08-13T03:16:49.038251-07:00"
+      },
       {
         "title": "Detienen exfuncionario de Alito Moreno por peculado",
         "summary": "Arrestan exdirector de Comunicación por presunto desvío de recursos públicos.",
@@ -73,6 +87,20 @@
     ],
     "sociedad": [
       {
+        "title": "Revisarán prohibición de móviles en escuelas BC",
+        "summary": "Gobierno analiza propuesta para restringir dispositivos en planteles educativos.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180274_revisaran_propuesta_para_prohibir_el_uso_de_dispositivos_moviles_en_escuelas_de_bc",
+        "_added_at": "2026-08-13T03:16:49.038251-07:00"
+      },
+      {
+        "title": "Preparan rehabilitación de unidades deportivas Tijuana",
+        "summary": "Autoridades mejoran instalaciones incluyendo baños en varios centros.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97996/Preparan-rehabilitaci%C3%B3n-de-unidades-deportivas-en-Tijuana",
+        "_added_at": "2026-08-13T03:16:49.038251-07:00"
+      },
+      {
         "title": "Suman 30 muertes por calor en Baja California",
         "summary": "Onda de calor intenso causa decesos en la entidad durante temporada estival.",
         "source": "ZETA Tijuana",
@@ -102,5 +130,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-13T00:45:48.755311-07:00"
+  "last_updated": "2026-08-13T03:16:49.038251-07:00"
 }
