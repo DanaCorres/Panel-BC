@@ -1,8 +1,22 @@
 {
   "date": "2026-08-13",
-  "run_count": 4,
+  "run_count": 5,
   "notes": {
     "seguridad": [
+      {
+        "title": "Vinculan a cuatro integrantes de célula delictiva en Tecate",
+        "summary": "Autoridades procesaron a cuatro presuntos miembros de organización criminal que operaba en Tecate.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/vinculan-a-proceso-a-cuatro-presuntos-integrantes-de-celula-delictiva-que-operaba-en-tecate/?utm_source=rss&utm_medium=rss&utm_campaign=vinculan-a-proceso-a-cuatro-presuntos-integrantes-de-celula-delictiva-que-operaba-en-tecate",
+        "_added_at": "2026-08-13T12:13:18.219313-07:00"
+      },
+      {
+        "title": "Ejecutan a hombre en Playas de Tijuana",
+        "summary": "Disparan contra sujeto dentro del patio de vivienda en zona costera de Tijuana.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/180300_ejecutan_a_tiros_a_un_hombre_en_patio_de_vivienda_en_playas_de_tijuana",
+        "_added_at": "2026-08-13T12:13:18.219313-07:00"
+      },
       {
         "title": "Muere empresario baleado en su domicilio en Playas de Tijuana",
         "summary": "Hombre fue atacado a disparos en el patio de su vivienda en la zona costera de Tijuana.",
@@ -58,16 +72,30 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/seguridad/180282_asesinan_a_balazos_a_un_hombre_en_tecate",
         "_added_at": "2026-08-13T00:45:48.755311-07:00"
-      },
-      {
-        "title": "Desalojan campus de UABC por reporte de bomba",
-        "summary": "Evacuación de Valle de las Palmas ante amenaza de artefacto explosivo.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180271_desalojan_campus_de_la_uabc_por_reporte_de_bomba_en_valle_de_las_palmas",
-        "_added_at": "2026-08-13T00:45:48.755311-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Sheinbaum rechaza derechos de réplica del PAN",
+        "summary": "Presidenta niega acceso a conferencia matutina para respuesta del partido opositor.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/que-hagan-su-propia-conferencia-sheinbaum-rechaza-derechos-de-replica-del-pan/?utm_source=rss&utm_medium=rss&utm_campaign=que-hagan-su-propia-conferencia-sheinbaum-rechaza-derechos-de-replica-del-pan",
+        "_added_at": "2026-08-13T12:13:18.219313-07:00"
+      },
+      {
+        "title": "PAN solicita separar del cargo a funcionaria federal",
+        "summary": "Partido opositora demanda juicio político contra Marina por sus acciones.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180303_solicitara_el_pan_separar_del_cargo_y_juicio_politico_contra_marina",
+        "_added_at": "2026-08-13T12:13:18.219313-07:00"
+      },
+      {
+        "title": "Ismael Burgueño reafirma principios de Morena en Baja California",
+        "summary": "Dirigente busca mantener compromisos fundacionales con sectores históricamente marginados.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/98027/Ismael-Burgue%C3%B1o-plantea-mantener-en-Baja-California-los-principios-fundacionales-de-Morena-en-favor-de-quienes-por-a%C3%B1os-fueron-olvidados",
+        "_added_at": "2026-08-13T12:13:18.219313-07:00"
+      },
       {
         "title": "Vinculan a Guadalupe Hernández por huachicol en caso Ingemar",
         "summary": "Funcionario es procesado por robo de combustible en investigación relacionada con contratista.",
@@ -120,6 +148,13 @@
     ],
     "economia": [
       {
+        "title": "Dólar baja ligeramente en casas de cambio locales",
+        "summary": "Moneda estadounidense registra descenso en cotización al cierre de jornada.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180301_tiene_el_dolar_ligero_descenso_a_la_venta_en_casas_de_cambio_locales",
+        "_added_at": "2026-08-13T12:13:18.219313-07:00"
+      },
+      {
         "title": "Federación destinó 8,875 millones para educación básica en BC",
         "summary": "Gobierno federal invierte recursos significativos en infraestructura y servicios educativos del estado.",
         "source": "AFN Tijuana",
@@ -156,6 +191,34 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Niños de Tijuana regresan tras estar varados en Colombia",
+        "summary": "Equipo infantil regresa a casa después de quedar atrapado en el país suramericano.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/ninos-tijuanenses-del-equipo-leyendas-obeliz-regresan-de-colombia-tras-estar-varados/?utm_source=rss&utm_medium=rss&utm_campaign=ninos-tijuanenses-del-equipo-leyendas-obeliz-regresan-de-colombia-tras-estar-varados",
+        "_added_at": "2026-08-13T12:13:18.219313-07:00"
+      },
+      {
+        "title": "Mitad de tijuanenses vive en hogares pobres",
+        "summary": "Análisis revela que 50 por ciento de población capitalina enfrenta condiciones de pobreza.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/editoriales/180302_mitad_de_tijuanenses_viven_en_un_hogar_pobre_ismael_plascencia",
+        "_added_at": "2026-08-13T12:13:18.219313-07:00"
+      },
+      {
+        "title": "Advierten sobre fraudes en ofertas de empleo",
+        "summary": "Autoridades alertan a ciudadanos sobre estafas mediante anuncios falsos de trabajo.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180305_advierten_de_fraudes_mediante_ofertas_de_empleo",
+        "_added_at": "2026-08-13T12:13:18.219313-07:00"
+      },
+      {
+        "title": "Destacan atención a salud mental y protección animal",
+        "summary": "Ante autoridad se presentan demandas de mejora en estos servicios sociales.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180306_destacan_ante_alvarez_temas_sobre_atencion_a_la_salud_mental_y_proteccion_de_animales",
+        "_added_at": "2026-08-13T12:13:18.219313-07:00"
+      },
       {
         "title": "Aumentan a 30 fallecimientos por ola de calor en Baja California",
         "summary": "Crisis de temperaturas extremas registra cifra alarmante de decesos en el estado.",
@@ -197,22 +260,8 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/180284_chubascos_y_fuertes_vientos_dejan_encharcamientos_y_postes_caidos_en_zonas_de_mexicali",
         "_added_at": "2026-08-13T00:45:48.755311-07:00"
-      },
-      {
-        "title": "Leyendas Obeliz regresa a Tijuana tras incertidumbre",
-        "summary": "Equipo infantil retorna con seguridad tras días complicados en Colombia.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98007/Leyendas-Obeliz-regresa-a-Tijuana-entre-abrazos-y-l%C3%A1grimas-tras-d%C3%ADas-de-incertidumbre-en-Colombia",
-        "_added_at": "2026-08-13T00:45:48.755311-07:00"
-      },
-      {
-        "title": "Alcalde abandera 80 paratletas de Tijuana",
-        "summary": "Autoridad local respalda participación de deportistas adaptados en competencias.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/municipios/180279_abandero_el_alcalde_a_mas_de_80_paratletas_de_tijuana",
-        "_added_at": "2026-08-13T00:45:48.755311-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-13T09:03:35.360724-07:00"
+  "last_updated": "2026-08-13T12:13:18.219313-07:00"
 }
