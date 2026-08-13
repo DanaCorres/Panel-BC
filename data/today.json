@@ -1,281 +1,106 @@
 {
-  "date": "2026-08-12",
-  "run_count": 8,
+  "date": "2026-08-13",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Ataque armado en yonke deja dos heridos",
-        "summary": "Tiroteo en Tijuana causa lesiones; detienen a uno de los agresores y otro logra escapar.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/ataque-armado-en-yonke-deja-dos-lesionados-detienen-a-uno-y-otro-huye/?utm_source=rss&utm_medium=rss&utm_campaign=ataque-armado-en-yonke-deja-dos-lesionados-detienen-a-uno-y-otro-huye",
-        "_added_at": "2026-08-12T21:58:44.718353-07:00"
-      },
-      {
-        "title": "Disparan contra hombre en farmacia de Tecate",
-        "summary": "Incidente violento en comercio tecatense causa pánico entre comerciantes y clientes.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/180281_disparan_contra_un_hombre_en_una_farmacia_en_tecate",
-        "_added_at": "2026-08-12T21:58:44.718353-07:00"
-      },
-      {
-        "title": "Embajador EU advierte persecución al CJNG en cualquier lugar",
-        "summary": "Estados Unidos intensifica amenaza contra el cartel en el extranjero. Mensaje directo del embajador Johnson sobre enfoque antidrogas.",
+        "title": "Embajador EU promete perseguir CJNG a nivel mundial",
+        "summary": "Representante estadounidense advierte búsqueda internacional contra cártel en cualquier territorio.",
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/08/advierte-embajador-johnson-que-eu-perseguira-al-cjng-en-cualquier-lugar-del-mundo/?utm_source=rss&utm_medium=rss&utm_campaign=advierte-embajador-johnson-que-eu-perseguira-al-cjng-en-cualquier-lugar-del-mundo",
-        "_added_at": "2026-08-12T19:35:18.245351-07:00"
+        "_added_at": "2026-08-13T00:45:48.755311-07:00"
       },
       {
-        "title": "Localizan con bien dueño de taquería en Ensenada",
-        "summary": "Empresario de Ensenada recuperado tras levantón. Autoridades investigan causas del incidente relacionado con seguridad.",
+        "title": "Localizan con vida dueño de taquería en Ensenada",
+        "summary": "Propietario de El Chino aparece tras secuestro; autoridades investigan motivos del levantón.",
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/08/localizan-con-bien-al-dueno-de-taqueria-el-chino-en-ensenada-investigan-causas-del-levanton/?utm_source=rss&utm_medium=rss&utm_campaign=localizan-con-bien-al-dueno-de-taqueria-el-chino-en-ensenada-investigan-causas-del-levanton",
-        "_added_at": "2026-08-12T19:35:18.245351-07:00"
+        "_added_at": "2026-08-13T00:45:48.755311-07:00"
       },
       {
-        "title": "Tiroteo en Tijuana deja dos heridos; detienen a uno",
-        "summary": "Ataque armado en establecimiento de compraventa de autos. Un sospechoso capturado, otro en fuga.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/98000/Ataque-armado-deja-a-dos-personas-lesionadas-en-%E2%80%9Cel-callej%C3%B3n-de-los-Yonkes%E2%80%9D",
-        "_added_at": "2026-08-12T19:35:18.245351-07:00"
+        "title": "Ataques armados dejan heridos en Tijuana y Tecate",
+        "summary": "Tiroteos en yonke y farmacia causan lesiones; detienen a uno de los agresores.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/180282_asesinan_a_balazos_a_un_hombre_en_tecate",
+        "_added_at": "2026-08-13T00:45:48.755311-07:00"
       },
       {
-        "title": "Desalojo en UABC por falsa alarma de bomba",
-        "summary": "Reporte de explosivo obliga evacuación de campus en Valle de las Palmas. Investigación en curso.",
+        "title": "Desalojan campus de UABC por reporte de bomba",
+        "summary": "Evacuación de Valle de las Palmas ante amenaza de artefacto explosivo.",
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/180271_desalojan_campus_de_la_uabc_por_reporte_de_bomba_en_valle_de_las_palmas",
-        "_added_at": "2026-08-12T19:35:18.245351-07:00"
-      },
-      {
-        "title": "Secuestradores condenados a 50 años en Tijuana",
-        "summary": "Tribunal sentencia a secuestradores a pena de cinco décadas de cárcel en Tijuana.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97988/Reciben-secuestradores-pena-de-50-a%C3%B1os-de-c%C3%A1rcel-en-Tijuana",
-        "_added_at": "2026-08-12T14:54:57.425231-07:00"
-      },
-      {
-        "title": "Mujer muere atropellada en vía rápida de Tijuana",
-        "summary": "Accidente mortal en vía rápida deja una mujer fallecida por atropellamiento.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97983/Mujer-pierde-la-vida-tras-ser-atropellada-en-la-V%C3%ADa-R%C3%A1pida",
-        "_added_at": "2026-08-12T14:54:57.425231-07:00"
-      },
-      {
-        "title": "Capturan traficante de heroína buscada en EE.UU.",
-        "summary": "Autoridades detienen en Tijuana a mujer estadounidense buscada por tráfico de heroína.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/97986/Atoran-en-Tijuana-a-%22gringa%22-buscada-en-su-pa%C3%ADs,-por-tr%C3%A1fico-de-hero%C3%ADna",
-        "_added_at": "2026-08-12T14:54:57.425231-07:00"
-      },
-      {
-        "title": "Alerta por cemento adulterado en Tijuana",
-        "summary": "Congreso interviene ante riesgos por distribución de cemento huachicol en Tijuana.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Nacional/97990/Alerta-nacional-por-%27cemento-huachicol%27%3A-Congreso-interviene-ante-riesgos-latentes-en-Tijuana",
-        "_added_at": "2026-08-12T14:54:57.425231-07:00"
+        "_added_at": "2026-08-13T00:45:48.755311-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Detienen a exdirector de comunicación de Moreno",
-        "summary": "Aprehen a funcionario por presunto peculado; caso liga a dirigente nacional del PRI.",
+        "title": "Detienen exfuncionario de Alito Moreno por peculado",
+        "summary": "Arrestan exdirector de Comunicación por presunto desvío de recursos públicos.",
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/08/detienen-a-exdirector-de-comunicacion-de-alito-moreno-por-presunto-peculado/?utm_source=rss&utm_medium=rss&utm_campaign=detienen-a-exdirector-de-comunicacion-de-alito-moreno-por-presunto-peculado",
-        "_added_at": "2026-08-12T21:58:44.718353-07:00"
+        "_added_at": "2026-08-13T00:45:48.755311-07:00"
       },
       {
-        "title": "Cuatro funcionarios dejan gabinete rumbo a 2027",
-        "summary": "Medina Amarillas, Arregui, Rodríguez y García renuncian. Movimientos previos a carrera electoral próxima.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/medina-amarillas-arregui-rodriguez-y-garcia-dejan-el-gabinete-rumbo-a-2027/?utm_source=rss&utm_medium=rss&utm_campaign=medina-amarillas-arregui-rodriguez-y-garcia-dejan-el-gabinete-rumbo-a-2027",
-        "_added_at": "2026-08-12T19:35:18.245351-07:00"
-      },
-      {
-        "title": "PRI denuncia amenazas y persecución de Morena",
-        "summary": "Partido denota represalias políticas. Campaña publicitaria del gobierno refiere mensajes de Morena según oposición.",
+        "title": "Renuncias en Tijuana; tres dejan cargos públicos",
+        "summary": "Inician dimisiones de funcionarios en la administración local.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/nacionales/180275_denuncia_el_pri_amenazas_y_persecucion_politica_por_parte_de_morena",
-        "_added_at": "2026-08-12T19:35:18.245351-07:00"
+        "url": "https://www.afntijuana.info/afn_politico/180277_empezaron_las_renuncias_salen_tres_de_la_lista_de_afn",
+        "_added_at": "2026-08-13T00:45:48.755311-07:00"
       },
       {
-        "title": "Cuatro funcionarios abandonan gabinete rumbo a 2027",
-        "summary": "Medina Amarillas, Arregui, Rodríguez y García dejan cargos para buscar candidaturas.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/medina-amarillas-arregui-rodriguez-y-garcia-dejan-el-gabinete-rumbo-a-2027/",
-        "_added_at": "2026-08-12T14:54:57.425231-07:00"
-      },
-      {
-        "title": "Meli Espinoza formaliza ingreso a MORENA",
-        "summary": "Funcionaria hace oficial su afiliación al partido MORENA.",
+        "title": "Proponen prohibir celulares en escuelas de BC",
+        "summary": "Legisladores revisarán iniciativa para restringir uso dispositivos móviles en aulas.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180267_meli_espinoza_formaliza_su_ingreso_a_morena",
-        "_added_at": "2026-08-12T14:54:57.425231-07:00"
-      },
-      {
-        "title": "Ernesto Ruffo promueve amparo contra vinculación a proceso",
-        "summary": "Exgobernador Ruffo interpone amparo contra procedimiento judicial y prisión preventiva.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/ernesto-ruffo-promueve-amparo-contra-vinculacion-a-proceso-y-prision-preventiva/",
-        "_added_at": "2026-08-12T12:12:38.498573-07:00"
-      },
-      {
-        "title": "Investigan a Marina del Pilar, su esposo y otros",
-        "summary": "Nuevo audio revela que gobernadora de Baja California está siendo investigada junto a cercanos.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/cuarto-audio-de-marina-del-pilar-si-la-investigan-a-ella-a-su-esposo-y-a-otros/",
-        "_added_at": "2026-08-12T12:12:38.498573-07:00"
-      },
-      {
-        "title": "Cuatro funcionarios salen del gabinete buscando candidaturas",
-        "summary": "Integrantes del gobierno renuncian para buscar posiciones electorales en 2027.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180255_salen_cuatro_del_gabinete_de_marina_buscaran_candidaturas_en_2027",
-        "_added_at": "2026-08-12T12:12:38.498573-07:00"
-      },
-      {
-        "title": "Comité pide a FGR asumir asesinatos de periodistas",
-        "summary": "Organismo solicita que Fiscalía General de República centralice investigaciones de crímenes contra prensa.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180234_comite_pide_a_la_fgr_asumir_investigaciones_de_asesinatos_de_periodistas",
-        "_added_at": "2026-08-12T03:15:16.579424-07:00"
-      },
-      {
-        "title": "Investigan a Marina del Pilar, esposo y otros por corrupción",
-        "summary": "Cuarto audio confirma investigación contra gobernadora y círculo cercano por actos irregulares.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/cuarto-audio-de-marina-del-pilar-si-la-investigan-a-ella-a-su-esposo-y-a-otros/?utm_source=rss&utm_medium=rss&utm_campaign=cuarto-audio-de-marina-del-pilar-si-la-investigan-a-ella-a-su-esposo-y-a-otros",
-        "_added_at": "2026-08-12T00:43:28.397602-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/180274_revisaran_propuesta_para_prohibir_el_uso_de_dispositivos_moviles_en_escuelas_de_bc",
+        "_added_at": "2026-08-13T00:45:48.755311-07:00"
       }
     ],
     "economia": [
       {
         "title": "Apoyan 50 micro y pequeñas empresas en Rosarito",
-        "summary": "Programa de subsidios a negocios locales. Iniciativa de desarrollo económico en municipio de costa.",
+        "summary": "Gobierno brinda respaldo financiero a negocios locales de Playas de Rosarito.",
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/municipios/180272_brindan_apoyo_a_50_micro_y_pequenas_empresas_de_playas_de_rosarito",
-        "_added_at": "2026-08-12T19:35:18.245351-07:00"
+        "_added_at": "2026-08-13T00:45:48.755311-07:00"
       },
       {
-        "title": "Tecate implementa multas por incumplimiento de parquímetro",
-        "summary": "Municipio aplicará sanciones a conductores que no paguen tarifa de estacionamiento.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180260_aplicaran_multas_en_tecate_a_quien_no_pague_la_cuota_del_parquimetro",
-        "_added_at": "2026-08-12T14:54:57.425231-07:00"
-      },
-      {
-        "title": "BC generó 42 mil empleos en gobierno, primer lugar nacional",
-        "summary": "Baja California lidera creación de empleos gubernamentales con 42,149 nuevas plazas.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/empresarial/180238_sos_bc_genero_42_149_nuevos_empleos_en_gobierno_primer_lugar_nacional",
-        "_added_at": "2026-08-12T09:03:57.096425-07:00"
-      },
-      {
-        "title": "Recesión en servicios acelera despidos de profesionistas",
-        "summary": "Crisis en sector servicios de BC provoca despidos masivos de profesionales.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/empresarial/180236_recesion_en_sector_servicios_de_bc_acelera_despidos_de_profesionistas",
-        "_added_at": "2026-08-12T09:03:57.096425-07:00"
-      },
-      {
-        "title": "San Quintín solicita exención de pago por regularización de tierras",
-        "summary": "Congreso de BC aprueba en comisiones propuesta de municipio para evitar cuotas regularización.",
+        "title": "Rehabilitarán unidades deportivas en Tijuana",
+        "summary": "Municipio planea obras de renovación incluyendo reparación de instalaciones sanitarias.",
         "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/San%20Quint%C3%ADn/97944/Aprueba-Congeso-en-comisiones-eximir-pago-de-regularizaci%C3%B3n-de-tierras-en-San-Quint%C3%ADn",
-        "_added_at": "2026-08-12T06:27:14.093770-07:00"
-      },
-      {
-        "title": "San Quintín solicita exención de pago para regularización de tierras",
-        "summary": "Municipio pide al Congreso de BC condonar pagos por trámites de regularización de propiedades.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180222_pide_san_quintin_al_congreso_de_bc_exentar_de_pago_regularizacion_de_terrenos",
-        "_added_at": "2026-08-12T03:15:16.579424-07:00"
-      },
-      {
-        "title": "Eva Moreno pide solución a apagones en Mexicali",
-        "summary": "Legisladora solicita atender crisis de cortes de energía que afecta a residentes.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180223_eva_moreno_pide_solucion_a_apagones_que_afectan_a_mexicalenses",
-        "_added_at": "2026-08-12T00:43:28.397602-07:00"
-      },
-      {
-        "title": "Tecate retoma uso de arañas por falta de pago parquímetros",
-        "summary": "Municipio reanuda confiscación de vehículos por incumplimiento de pagos de estacionamiento.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180226_tecate_retoma_el_uso_de_aranas_en_autos_por_falta_de_pago_en_parquimetros",
-        "_added_at": "2026-08-12T00:43:28.397602-07:00"
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97996/Preparan-rehabilitaci%C3%B3n-de-unidades-deportivas-en-Tijuana",
+        "_added_at": "2026-08-13T00:45:48.755311-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Abandonan campus UABC por reporte de bomba",
-        "summary": "Desalojo preventivo en Valle de Palmas tras amenaza; autoridades investigan.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180271_desalojan_campus_de_la_uabc_por_reporte_de_bomba_en_valle_de_las_palmas",
-        "_added_at": "2026-08-12T21:58:44.718353-07:00"
-      },
-      {
-        "title": "Revisarán prohibición de celulares en escuelas BC",
-        "summary": "Legislatura analiza propuesta para restringir uso de dispositivos móviles en aulas.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180274_revisaran_propuesta_para_prohibir_el_uso_de_dispositivos_moviles_en_escuelas_de_bc",
-        "_added_at": "2026-08-12T21:58:44.718353-07:00"
-      },
-      {
-        "title": "Rehabilitarán unidades deportivas en Tijuana",
-        "summary": "Municipio ejecuta obras de mejora en infraestructura; incluye reparación de instalaciones.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97996/Preparan-rehabilitaci%C3%B3n-de-unidades-deportivas-en-Tijuana",
-        "_added_at": "2026-08-12T21:58:44.718353-07:00"
-      },
-      {
-        "title": "Fallecimientos por calor suman 30 en Baja California",
-        "summary": "Crisis sanitaria por temperaturas extremas. Cifra en aumento durante onda de calor.",
+        "title": "Suman 30 muertes por calor en Baja California",
+        "summary": "Onda de calor intenso causa decesos en la entidad durante temporada estival.",
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/08/aumentan-a-30-los-fallecimientos-por-calor-en-baja-california/?utm_source=rss&utm_medium=rss&utm_campaign=aumentan-a-30-los-fallecimientos-por-calor-en-baja-california",
-        "_added_at": "2026-08-12T19:35:18.245351-07:00"
+        "_added_at": "2026-08-13T00:45:48.755311-07:00"
       },
       {
-        "title": "Alerta por tormenta eléctrica en Mexicali",
-        "summary": "Sistema climático severo se aproxima a región. Recomendación de precaución a población.",
+        "title": "Chubascos y vientos dejan daños en Mexicali",
+        "summary": "Tormenta causa encharcamientos y derriba postes de electricidad en varias zonas.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180273_alertan_por_llegada_de_tormenta_electrica_en_mexicali",
-        "_added_at": "2026-08-12T19:35:18.245351-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/180284_chubascos_y_fuertes_vientos_dejan_encharcamientos_y_postes_caidos_en_zonas_de_mexicali",
+        "_added_at": "2026-08-13T00:45:48.755311-07:00"
       },
       {
-        "title": "Foros analizan prohibición de celulares en escuelas BC",
-        "summary": "Propuesta educativa sobre dispositivos móviles. Secretaría de Educación realiza consulta pública.",
+        "title": "Leyendas Obeliz regresa a Tijuana tras incertidumbre",
+        "summary": "Equipo infantil retorna con seguridad tras días complicados en Colombia.",
         "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97999/Realizar%C3%A1n-foros-para-analizar-prohibici%C3%B3n-de-celulares-en-las-escuelas%3A-SEE",
-        "_added_at": "2026-08-12T19:35:18.245351-07:00"
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98007/Leyendas-Obeliz-regresa-a-Tijuana-entre-abrazos-y-l%C3%A1grimas-tras-d%C3%ADas-de-incertidumbre-en-Colombia",
+        "_added_at": "2026-08-13T00:45:48.755311-07:00"
       },
       {
-        "title": "Treinta muertes por calor en Baja California alertan",
-        "summary": "Ola de calor deja 30 fallecidos; autoridades consideran activar Plan DN-III-E.",
+        "title": "Alcalde abandera 80 paratletas de Tijuana",
+        "summary": "Autoridad local respalda participación de deportistas adaptados en competencias.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180262_han_muerto_30_por_el_calor_en_bc_pediran_aplicar_el_plan_dn_iii_e",
-        "_added_at": "2026-08-12T14:54:57.425231-07:00"
-      },
-      {
-        "title": "Cruz Roja convoca a carrera salvavidas en Tijuana",
-        "summary": "Séptima edición de \"Todo México Salvando Vidas\" se realizará el 6 de septiembre.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97987/Tijuana-alista-s%C3%A9ptima-edici%C3%B3n-de-la-carrera-atl%C3%A9tica-%E2%80%9CTodo-M%C3%A9xico-Salvando-Vidas%E2%80%9D,-ser%C3%A1-este-6-de-septiembre",
-        "_added_at": "2026-08-12T14:54:57.425231-07:00"
-      },
-      {
-        "title": "Agente federal accidentado reportado en estado grave",
-        "summary": "Elemento de la FESC sufre accidente en Mexicali y se reporta en condición grave.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180266_reportan_grave_a_agente_de_la_fesc_accidentado_en_mexicali",
-        "_added_at": "2026-08-12T14:54:57.425231-07:00"
-      },
-      {
-        "title": "Madres de Tijuana evitan cruzar frontera por temor a perder visa",
-        "summary": "Incertidumbre crece entre residentes locales sobre políticas migratorias estadounidenses.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97985/%E2%80%9CPrefiero-no-cruzar-para-no-perder-mi-visa%E2%80%9D;-crece-incertidumbre-entre-madres-de-Tijuana",
-        "_added_at": "2026-08-12T12:12:38.498573-07:00"
+        "url": "https://www.afntijuana.info/municipios/180279_abandero_el_alcalde_a_mas_de_80_paratletas_de_tijuana",
+        "_added_at": "2026-08-13T00:45:48.755311-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-12T21:58:44.718353-07:00"
+  "last_updated": "2026-08-13T00:45:48.755311-07:00"
 }
