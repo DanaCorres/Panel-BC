@@ -1,8 +1,36 @@
 {
   "date": "2026-08-13",
-  "run_count": 6,
+  "run_count": 7,
   "notes": {
     "seguridad": [
+      {
+        "title": "Detienen a cinco miembros de Los Rusos en Mexicali",
+        "summary": "Autoridades capturan a integrantes de la organización criminal acusados de privación de libertad.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/en-mexicali-detiene-a-cinco-integrantes-de-los-rusos-por-privar-de-la-libertad-a-un-hombre/",
+        "_added_at": "2026-08-13T19:33:25.396350-07:00"
+      },
+      {
+        "title": "Menor portaba arma larga en vía pública",
+        "summary": "Autoridades detienen a joven que portaba arma de fuego sin autorización en Baja California.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/98042/Chamaco-portaba-un-arma-larga-en-la-v%C3%ADa-p%C3%BAblica,-detenido",
+        "_added_at": "2026-08-13T19:33:25.396350-07:00"
+      },
+      {
+        "title": "Deslizamientos reportados en Sánchez Taboada de Tijuana",
+        "summary": "Ayuntamiento solicita informe del CENAPRED sobre deslizamientos de tierra en la zona.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180327_espera_ayuntamiento_informe_del_cenapred_sobre_deslizamientos_en_la_sanchez_taboada",
+        "_added_at": "2026-08-13T19:33:25.396350-07:00"
+      },
+      {
+        "title": "Arrendatario comparece por huachicol en El Sauzal",
+        "summary": "Propietario de predio acuerda presentarse ante juez por caso de robo de combustible.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/arrendatario-de-predio-en-el-sauzal-acuerda-comparecer-ante-juez-por-huachicol-fiscal/",
+        "_added_at": "2026-08-13T19:33:25.396350-07:00"
+      },
       {
         "title": "Arrendatario comparecerá ante juez por huachicol fiscal en El Sauzal",
         "summary": "Arrendatario de predio en El Sauzal acuerda presentarse ante autoridades por delito fiscal relacionado con huachicol.",
@@ -44,37 +72,30 @@
         "source": "El Mexicano",
         "url": "https://el-mexicano.com.mx/Noticia/Policiaca/98017/Hombre-es-asesinado-a-balazos-en-el-patio-de-su-domicilio-en-Playas-de-Tijuana",
         "_added_at": "2026-08-13T09:03:35.360724-07:00"
-      },
-      {
-        "title": "Localizan con vida al dueño de taquería tras levantón en Ensenada",
-        "summary": "Propietario de El Chino fue localizado sano y salvo; autoridades investigan motivos del secuestro.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/localizan-con-bien-al-dueno-de-taqueria-el-chino-en-ensenada-investigan-causas-del-levanton/",
-        "_added_at": "2026-08-13T09:03:35.360724-07:00"
-      },
-      {
-        "title": "Ataque armado en yonke deja dos lesionados en Tijuana",
-        "summary": "Tiroteo en establecimiento dejó heridos; capturan a un sospechoso mientras otro logró escapar.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/ataque-armado-en-yonke-deja-dos-lesionados-detienen-a-uno-y-otro-huye/",
-        "_added_at": "2026-08-13T09:03:35.360724-07:00"
-      },
-      {
-        "title": "Embajador EU promete perseguir CJNG en cualquier parte del mundo",
-        "summary": "Funcionario estadounidense advierte intensificación de operaciones contra cartel en el extranjero.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/advierte-embajador-johnson-que-eu-perseguira-al-cjng-en-cualquier-lugar-del-mundo/",
-        "_added_at": "2026-08-13T09:03:35.360724-07:00"
-      },
-      {
-        "title": "Ataque armado en yonke deja dos lesionados",
-        "summary": "Balacera en taller genera heridos; capturan a uno de los atacantes.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/ataque-armado-en-yonke-deja-dos-lesionados-detienen-a-uno-y-otro-huye/?utm_source=rss&utm_medium=rss&utm_campaign=ataque-armado-en-yonke-deja-dos-lesionados-detienen-a-uno-y-otro-huye",
-        "_added_at": "2026-08-13T03:16:49.038251-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Morena frena juicio político contra Marina del Pilar",
+        "summary": "Legisladores de Morena bloquean solicitud de juicio político a gobernadora de BC.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/morena-frena-solicitud-de-juicio-politico-contra-marina-del-pilar-en-congreso-de-bc/",
+        "_added_at": "2026-08-13T19:33:25.396350-07:00"
+      },
+      {
+        "title": "Maru Campos visitará Tijuana por liberación de Ruffo Appel",
+        "summary": "Gobernadora de Chihuahua acudirá a exigir la libertad del exgobernador de BC.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/maru-campos-visitara-tijuana-para-exigir-la-liberacion-de-ruffo-appel/",
+        "_added_at": "2026-08-13T19:33:25.396350-07:00"
+      },
+      {
+        "title": "IEEBC registra 12 denuncias por violencia política en 2026",
+        "summary": "Instituto electoral documenta casos de violencia política en la entidad durante el año.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/98044/Registra-IEEBC-12-denuncias-por-violencia-pol%C3%ADtica-en-2026",
+        "_added_at": "2026-08-13T19:33:25.396350-07:00"
+      },
       {
         "title": "Morena frena juicio político contra gobernadora Marina del Pilar",
         "summary": "Congreso de BC rechaza solicitud de juicio político contra gobernadora; Morena impide procedimiento pese a petición.",
@@ -123,30 +144,37 @@
         "source": "El Mexicano",
         "url": "https://el-mexicano.com.mx/Noticia/Estatal/98027/Ismael-Burgue%C3%B1o-plantea-mantener-en-Baja-California-los-principios-fundacionales-de-Morena-en-favor-de-quienes-por-a%C3%B1os-fueron-olvidados",
         "_added_at": "2026-08-13T12:13:18.219313-07:00"
-      },
-      {
-        "title": "Vinculan a Guadalupe Hernández por huachicol en caso Ingemar",
-        "summary": "Funcionario es procesado por robo de combustible en investigación relacionada con contratista.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/vinculan-a-guadalupe-hernandez-por-huachicol-fiscal-en-caso-ingemar/",
-        "_added_at": "2026-08-13T09:03:35.360724-07:00"
-      },
-      {
-        "title": "Detienen a exdirector de comunicación de Alito Moreno por peculado",
-        "summary": "Exfuncionario del PRI es capturado por presunto desvío de recursos públicos.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/detienen-a-exdirector-de-comunicacion-de-alito-moreno-por-presunto-peculado/",
-        "_added_at": "2026-08-13T09:03:35.360724-07:00"
-      },
-      {
-        "title": "Municipio de Ensenada cerrará con déficit fiscal en 2026",
-        "summary": "Gobierno local enfrenta crisis presupuestaria por exceso de burocracia y gastos administrativos.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/empresarial/180285_gobierno_de_ensenada_cerrara_con_deficit_en_2026_burocracia_ahorca_presupuesto",
-        "_added_at": "2026-08-13T09:03:35.360724-07:00"
       }
     ],
     "economia": [
+      {
+        "title": "Conagua pospone tercera vez fallo de desaladora en Rosarito",
+        "summary": "Dependencia federal difiere nuevamente el resultado de licitación para planta desaladora.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/por-tercera-vez-conagua-difiere-el-fallo-de-la-licitacion-de-desaladora-de-rosarito/",
+        "_added_at": "2026-08-13T19:33:25.396350-07:00"
+      },
+      {
+        "title": "Productores agrícolas exponen demandas ante funcionarios",
+        "summary": "Agricultores presentan peticiones y necesidades ante autoridades estatales.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180326_productores_agricolas_exponen_sus_demandas_ante_funcionarios_estatales",
+        "_added_at": "2026-08-13T19:33:25.396350-07:00"
+      },
+      {
+        "title": "Bombeeros de Rosarito reciben unidades nuevas",
+        "summary": "Entregan vehículos a cuerpo de bomberos para mejorar atención de emergencias.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Rosarito/98040/Entregan-unidades-a-Bomberos-de-Playas-de-Rosarito-para-reforzar-atenci%C3%B3n-de-emergencias",
+        "_added_at": "2026-08-13T19:33:25.396350-07:00"
+      },
+      {
+        "title": "Complicaciones continúan en centro de transferencia de Tecate",
+        "summary": "Persisten problemas operativos en instalación de gestión de residuos local.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180319_siguen_las_complicaciones_en_el_centro_de_transferencia_de_tecate",
+        "_added_at": "2026-08-13T19:33:25.396350-07:00"
+      },
       {
         "title": "Conagua difiere tercera vez fallo de licitación de desaladora Rosarito",
         "summary": "Autoridad del agua retrasa nuevamente la resolución del proceso de licitación para planta desalinizadora en Rosarito.",
@@ -188,30 +216,23 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/180288_banxico_impulsara_pagos_digitales_con_nuevas_reglas_antes_de_diciembre",
         "_added_at": "2026-08-13T09:03:35.360724-07:00"
-      },
-      {
-        "title": "Revisar reglamento casetas vigilancia en Mexicali",
-        "summary": "Residenciales buscan aclarar normativa sobre tarifas y derechos de cobro en accesos.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97998/Busca-red-de-residenciales-revisar-reglamento-de-casetas-de-vigilancia",
-        "_added_at": "2026-08-13T06:34:55.750747-07:00"
-      },
-      {
-        "title": "Apoyan 50 micro y pequeñas empresas en Rosarito",
-        "summary": "Gobierno brinda respaldo financiero a negocios locales de Playas de Rosarito.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/municipios/180272_brindan_apoyo_a_50_micro_y_pequenas_empresas_de_playas_de_rosarito",
-        "_added_at": "2026-08-13T00:45:48.755311-07:00"
-      },
-      {
-        "title": "Rehabilitarán unidades deportivas en Tijuana",
-        "summary": "Municipio planea obras de renovación incluyendo reparación de instalaciones sanitarias.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/97996/Preparan-rehabilitaci%C3%B3n-de-unidades-deportivas-en-Tijuana",
-        "_added_at": "2026-08-13T00:45:48.755311-07:00"
       }
     ],
     "sociedad": [
+      {
+        "title": "Activista cuestiona sanciones por maltrato animal",
+        "summary": "Defensor de derechos animales señala inconsistencias en castigos por crueldad.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180328_expone_activista_incongruencia_en_sanciones_por_maltrato_animal",
+        "_added_at": "2026-08-13T19:33:25.396350-07:00"
+      },
+      {
+        "title": "Lluvias y chubascos esperados en BC este fin de semana",
+        "summary": "Pronóstico meteorológico advierte sobre precipitaciones para la entidad.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180321_lluvias_y_chubascos_para_la_entidad_anuncian_para_este_fin_de_semana",
+        "_added_at": "2026-08-13T19:33:25.396350-07:00"
+      },
       {
         "title": "Bomberos de Rosarito reciben nuevas unidades de emergencia",
         "summary": "Autoridades entregan vehículos adicionales a cuerpo de bomberos para mejorar atención de emergencias.",
@@ -267,22 +288,8 @@
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/08/aumentan-a-30-los-fallecimientos-por-calor-en-baja-california/",
         "_added_at": "2026-08-13T09:03:35.360724-07:00"
-      },
-      {
-        "title": "Realizarán foros sobre prohibición de celulares en escuelas de BC",
-        "summary": "Secretaría de Educación abre espacios de análisis sobre propuesta presidencial de restricción.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/97999/Realizar%C3%A1n-foros-para-analizar-prohibici%C3%B3n-de-celulares-en-las-escuelas%3A-SEE",
-        "_added_at": "2026-08-13T09:03:35.360724-07:00"
-      },
-      {
-        "title": "Revisarán prohibición de móviles en escuelas BC",
-        "summary": "Gobierno analiza propuesta para restringir dispositivos en planteles educativos.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180274_revisaran_propuesta_para_prohibir_el_uso_de_dispositivos_moviles_en_escuelas_de_bc",
-        "_added_at": "2026-08-13T03:16:49.038251-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-13T14:54:49.219611-07:00"
+  "last_updated": "2026-08-13T19:33:25.396350-07:00"
 }
