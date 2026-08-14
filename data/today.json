@@ -1,8 +1,15 @@
 {
   "date": "2026-08-14",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Deslizamientos en Sánchez Taboada requieren estudios de riesgo",
+        "summary": "Autoridades esperan análisis del CENAPRED para definir obras de mitigación en zona de riesgo tijuanense.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/esperan-estudios-de-cenapred-para-definir-obras-en-zona-de-riesgo-de-sanchez-taboada/?utm_source=rss&utm_medium=rss&utm_campaign=esperan-estudios-de-cenapred-para-definir-obras-en-zona-de-riesgo-de-sanchez-taboada",
+        "_added_at": "2026-08-14T06:23:29.780923-07:00"
+      },
       {
         "title": "Cinco miembros de Los Rusos detenidos en Mexicali",
         "summary": "Autoridades capturan a integrantes de la organización criminal acusados de privación de libertad.",
@@ -85,6 +92,13 @@
     ],
     "economia": [
       {
+        "title": "Alcaldías de BC reciben 737 millones para obra social",
+        "summary": "Municipios de Baja California obtienen recursos federales para proyectos de beneficio comunitario.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/empresarial/180335_alcaldias_de_bc_reciben_737_mdp_para_obra_social",
+        "_added_at": "2026-08-14T06:23:29.780923-07:00"
+      },
+      {
         "title": "Reforma a ley de ingresos aprobada en San Quintín",
         "summary": "El congreso estatal aprobó modificaciones fiscales para el municipio de San Quintín.",
         "source": "El Mexicano",
@@ -144,5 +158,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-14T03:12:27.500762-07:00"
+  "last_updated": "2026-08-14T06:23:29.780923-07:00"
 }
