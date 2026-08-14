@@ -1,295 +1,92 @@
 {
-  "date": "2026-08-13",
-  "run_count": 8,
+  "date": "2026-08-14",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Capturan a cinco integrantes de Los Rusos en Mexicali",
-        "summary": "Autoridades detienen a cinco miembros de la banda por privación de la libertad de una persona en Mexicali.",
+        "title": "Cinco miembros de Los Rusos detenidos en Mexicali",
+        "summary": "Autoridades capturaron a cinco integrantes de la organización criminal acusados de privación de libertad en Mexicali.",
         "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/en-mexicali-detiene-a-cinco-integrantes-de-los-rusos-por-privar-de-la-libertad-a-un-hombre/?utm_source=rss&utm_medium=rss&utm_campaign=en-mexicali-detiene-a-cinco-integrantes-de-los-rusos-por-privar-de-la-libertad-a-un-hombre",
-        "_added_at": "2026-08-13T21:55:37.903830-07:00"
+        "url": "https://zetatijuana.com/2026/08/en-mexicali-detiene-a-cinco-integrantes-de-los-rusos-por-privar-de-la-libertad-a-un-hombre/",
+        "_added_at": "2026-08-14T00:43:14.412753-07:00"
       },
       {
         "title": "Identifican presuntos asesinos de parientes de Alfredo Olivas",
-        "summary": "Autoridades identifican a responsables de asesinatos de familiares del músico, pero aún sin detenciones.",
+        "summary": "Se identificó a probables responsables de crímenes contra familiares del músico, aunque no han sido detenidos.",
         "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/identifican-a-presuntos-asesinos-de-parientes-de-alfredo-olivas-sin-detenerlos/?utm_source=rss&utm_medium=rss&utm_campaign=identifican-a-presuntos-asesinos-de-parientes-de-alfredo-olivas-sin-detenerlos",
-        "_added_at": "2026-08-13T21:55:37.903830-07:00"
-      },
-      {
-        "title": "Detienen a cinco miembros de Los Rusos en Mexicali",
-        "summary": "Autoridades capturan a integrantes de la organización criminal acusados de privación de libertad.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/en-mexicali-detiene-a-cinco-integrantes-de-los-rusos-por-privar-de-la-libertad-a-un-hombre/",
-        "_added_at": "2026-08-13T19:33:25.396350-07:00"
-      },
-      {
-        "title": "Menor portaba arma larga en vía pública",
-        "summary": "Autoridades detienen a joven que portaba arma de fuego sin autorización en Baja California.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/98042/Chamaco-portaba-un-arma-larga-en-la-v%C3%ADa-p%C3%BAblica,-detenido",
-        "_added_at": "2026-08-13T19:33:25.396350-07:00"
-      },
-      {
-        "title": "Deslizamientos reportados en Sánchez Taboada de Tijuana",
-        "summary": "Ayuntamiento solicita informe del CENAPRED sobre deslizamientos de tierra en la zona.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180327_espera_ayuntamiento_informe_del_cenapred_sobre_deslizamientos_en_la_sanchez_taboada",
-        "_added_at": "2026-08-13T19:33:25.396350-07:00"
-      },
-      {
-        "title": "Arrendatario comparece por huachicol en El Sauzal",
-        "summary": "Propietario de predio acuerda presentarse ante juez por caso de robo de combustible.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/arrendatario-de-predio-en-el-sauzal-acuerda-comparecer-ante-juez-por-huachicol-fiscal/",
-        "_added_at": "2026-08-13T19:33:25.396350-07:00"
-      },
-      {
-        "title": "Arrendatario comparecerá ante juez por huachicol fiscal en El Sauzal",
-        "summary": "Arrendatario de predio en El Sauzal acuerda presentarse ante autoridades por delito fiscal relacionado con huachicol.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/arrendatario-de-predio-en-el-sauzal-acuerda-comparecer-ante-juez-por-huachicol-fiscal/?utm_source=rss&utm_medium=rss&utm_campaign=arrendatario-de-predio-en-el-sauzal-acuerda-comparecer-ante-juez-por-huachicol-fiscal",
-        "_added_at": "2026-08-13T14:54:49.219611-07:00"
-      },
-      {
-        "title": "Detienen a menor de edad portando fusil en vía pública",
-        "summary": "Autoridades capturan a joven menor de edad quien fue encontrado armado con fusil en la calle.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/180307_detienen_a_un_menor_de_edad_con_un_fusil",
-        "_added_at": "2026-08-13T14:54:49.219611-07:00"
-      },
-      {
-        "title": "Sentencian a delincuente por robo de vehículo",
-        "summary": "Juez dicta condena contra presunto ladrón de automóviles tras proceso legal.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/98038/Recibe-delincuente-sentencia-por-robo-de-veh%C3%ADculo",
-        "_added_at": "2026-08-13T14:54:49.219611-07:00"
-      },
-      {
-        "title": "Vinculan a cuatro integrantes de célula delictiva en Tecate",
-        "summary": "Autoridades procesaron a cuatro presuntos miembros de organización criminal que operaba en Tecate.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/vinculan-a-proceso-a-cuatro-presuntos-integrantes-de-celula-delictiva-que-operaba-en-tecate/?utm_source=rss&utm_medium=rss&utm_campaign=vinculan-a-proceso-a-cuatro-presuntos-integrantes-de-celula-delictiva-que-operaba-en-tecate",
-        "_added_at": "2026-08-13T12:13:18.219313-07:00"
+        "url": "https://zetatijuana.com/2026/08/identifican-a-presuntos-asesinos-de-parientes-de-alfredo-olivas-sin-detenerlos/",
+        "_added_at": "2026-08-14T00:43:14.412753-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Bermúdez Requena denuncia persecución política desde prisión",
-        "summary": "Exfuncionario acusa acoso político mientras cumple sentencia en penal del Altiplano.",
+        "title": "EE.UU. revoca visa a Andy López Beltrán",
+        "summary": "Estados Unidos canceló la visa del morenista quien exigió respuestas al gobierno estadounidense.",
         "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/hernan-bermudez-requena-denuncia-persecucion-politica-desde-el-altiplano/?utm_source=rss&utm_medium=rss&utm_campaign=hernan-bermudez-requena-denuncia-persecucion-politica-desde-el-altiplano",
-        "_added_at": "2026-08-13T21:55:37.903830-07:00"
+        "url": "https://zetatijuana.com/2026/08/ee-uu-revoca-visa-a-andy-lopez-beltran-el-morenista-exige-respuestas-a-trump/",
+        "_added_at": "2026-08-14T00:43:14.412753-07:00"
       },
       {
-        "title": "Gobernadora de Chihuahua critica persecución a opositores",
-        "summary": "Maru Campos denuncia represión contra quienes se expresan críticamente en el régimen.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180330_gobernadora_de_chihuahua_acusa_persecucion_a_quien_se_exprese_contra_el_regimen",
-        "_added_at": "2026-08-13T21:55:37.903830-07:00"
+        "title": "Maru Campos denuncia persecución política en caso Ruffo",
+        "summary": "La gobernadora de Chihuahua acusa irregularidades y persecución contra quien critique al régimen.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/maru-campos-y-familiares-de-ruffo-appel-denuncian-persecucion-politica-e-irregularidades-en-su-proceso/",
+        "_added_at": "2026-08-14T00:43:14.412753-07:00"
       },
       {
         "title": "Morena frena juicio político contra Marina del Pilar",
-        "summary": "Legisladores de Morena bloquean solicitud de juicio político a gobernadora de BC.",
+        "summary": "El congreso local rechazó solicitud de procedimiento político contra la gobernadora de Baja California.",
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/08/morena-frena-solicitud-de-juicio-politico-contra-marina-del-pilar-en-congreso-de-bc/",
-        "_added_at": "2026-08-13T19:33:25.396350-07:00"
+        "_added_at": "2026-08-14T00:43:14.412753-07:00"
       },
       {
-        "title": "Maru Campos visitará Tijuana por liberación de Ruffo Appel",
-        "summary": "Gobernadora de Chihuahua acudirá a exigir la libertad del exgobernador de BC.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/maru-campos-visitara-tijuana-para-exigir-la-liberacion-de-ruffo-appel/",
-        "_added_at": "2026-08-13T19:33:25.396350-07:00"
-      },
-      {
-        "title": "IEEBC registra 12 denuncias por violencia política en 2026",
-        "summary": "Instituto electoral documenta casos de violencia política en la entidad durante el año.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Estatal/98044/Registra-IEEBC-12-denuncias-por-violencia-pol%C3%ADtica-en-2026",
-        "_added_at": "2026-08-13T19:33:25.396350-07:00"
-      },
-      {
-        "title": "Morena frena juicio político contra gobernadora Marina del Pilar",
-        "summary": "Congreso de BC rechaza solicitud de juicio político contra gobernadora; Morena impide procedimiento pese a petición.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/morena-frena-solicitud-de-juicio-politico-contra-marina-del-pilar-en-congreso-de-bc/?utm_source=rss&utm_medium=rss&utm_campaign=morena-frena-solicitud-de-juicio-politico-contra-marina-del-pilar-en-congreso-de-bc",
-        "_added_at": "2026-08-13T14:54:49.219611-07:00"
-      },
-      {
-        "title": "Maru Campos exigirá en Tijuana liberación de Ruffo Appel",
-        "summary": "Gobernadora de Chihuahua visitará Tijuana para demandar la liberación del exgobernador Ruffo Appel.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/maru-campos-visitara-tijuana-para-exigir-la-liberacion-de-ruffo-appel/?utm_source=rss&utm_medium=rss&utm_campaign=maru-campos-visitara-tijuana-para-exigir-la-liberacion-de-ruffo-appel",
-        "_added_at": "2026-08-13T14:54:49.219611-07:00"
-      },
-      {
-        "title": "Diputado Diego Ibarra se incorpora al partido Morena",
-        "summary": "Legislador anuncia su afiliación al movimiento político Morena en Baja California.",
+        "title": "PAN critica desempeño del gobierno estatal",
+        "summary": "Coordinador panista describe administración como motivo de \"bochorno nacional\" en sesión legislativa.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180316_anuncia_diputado_diego_ibarra_su_incorporacion_al_partido_morena",
-        "_added_at": "2026-08-13T14:54:49.219611-07:00"
-      },
-      {
-        "title": "IEEBC condena violencia política en elecciones locales",
-        "summary": "Instituto Electoral de BC advierte sobre actos de violencia política durante procesos electorales estatales.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180318_desconocen_limites_quienes_ejercen_violencia_politica_ieebc",
-        "_added_at": "2026-08-13T14:54:49.219611-07:00"
-      },
-      {
-        "title": "Sheinbaum rechaza derechos de réplica del PAN",
-        "summary": "Presidenta niega acceso a conferencia matutina para respuesta del partido opositor.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/que-hagan-su-propia-conferencia-sheinbaum-rechaza-derechos-de-replica-del-pan/?utm_source=rss&utm_medium=rss&utm_campaign=que-hagan-su-propia-conferencia-sheinbaum-rechaza-derechos-de-replica-del-pan",
-        "_added_at": "2026-08-13T12:13:18.219313-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/180334_gobierno_de_bc_es_motivo_de_bochorno_nacional_dice_el_coordinador_de_diputados_del_pan",
+        "_added_at": "2026-08-14T00:43:14.412753-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Arrendatario de El Sauzal comparecerá por huachicol fiscal",
-        "summary": "Sujeto acuerda presentarse ante juez por presunto desvío de combustible en Ensenada.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/arrendatario-de-predio-en-el-sauzal-acuerda-comparecer-ante-juez-por-huachicol-fiscal/?utm_source=rss&utm_medium=rss&utm_campaign=arrendatario-de-predio-en-el-sauzal-acuerda-comparecer-ante-juez-por-huachicol-fiscal",
-        "_added_at": "2026-08-13T21:55:37.903830-07:00"
+        "title": "Reforma a ley de ingresos aprobada en San Quintín",
+        "summary": "El congreso estatal aprobó modificaciones fiscales para el municipio de San Quintín.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/San%20Quint%C3%ADn/98061/Aprueba-Congreso-reforma-a-ley-de-ingresos-se-San-Quint%C3%ADn",
+        "_added_at": "2026-08-14T00:43:14.412753-07:00"
       },
       {
-        "title": "Conagua pospone tercera vez fallo de desaladora en Rosarito",
-        "summary": "Dependencia federal difiere nuevamente el resultado de licitación para planta desaladora.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/por-tercera-vez-conagua-difiere-el-fallo-de-la-licitacion-de-desaladora-de-rosarito/",
-        "_added_at": "2026-08-13T19:33:25.396350-07:00"
-      },
-      {
-        "title": "Productores agrícolas exponen demandas ante funcionarios",
-        "summary": "Agricultores presentan peticiones y necesidades ante autoridades estatales.",
+        "title": "Productores agrícolas exponen demandas ante estado",
+        "summary": "Agricultores presentaron solicitudes y problemas ante funcionarios estatales en reunión formal.",
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/180326_productores_agricolas_exponen_sus_demandas_ante_funcionarios_estatales",
-        "_added_at": "2026-08-13T19:33:25.396350-07:00"
-      },
-      {
-        "title": "Bombeeros de Rosarito reciben unidades nuevas",
-        "summary": "Entregan vehículos a cuerpo de bomberos para mejorar atención de emergencias.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Rosarito/98040/Entregan-unidades-a-Bomberos-de-Playas-de-Rosarito-para-reforzar-atenci%C3%B3n-de-emergencias",
-        "_added_at": "2026-08-13T19:33:25.396350-07:00"
-      },
-      {
-        "title": "Complicaciones continúan en centro de transferencia de Tecate",
-        "summary": "Persisten problemas operativos en instalación de gestión de residuos local.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180319_siguen_las_complicaciones_en_el_centro_de_transferencia_de_tecate",
-        "_added_at": "2026-08-13T19:33:25.396350-07:00"
-      },
-      {
-        "title": "Conagua difiere tercera vez fallo de licitación de desaladora Rosarito",
-        "summary": "Autoridad del agua retrasa nuevamente la resolución del proceso de licitación para planta desalinizadora en Rosarito.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/por-tercera-vez-conagua-difiere-el-fallo-de-la-licitacion-de-desaladora-de-rosarito/?utm_source=rss&utm_medium=rss&utm_campaign=por-tercera-vez-conagua-difiere-el-fallo-de-la-licitacion-de-desaladora-de-rosarito",
-        "_added_at": "2026-08-13T14:54:49.219611-07:00"
-      },
-      {
-        "title": "Turismo médico y dental destaca como éxito económico estatal",
-        "summary": "Funcionario destaca el crecimiento y importancia del turismo médico-dental en Baja California.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180312_resalta_badiola_el_exito_del_turismo_medico_y_dental_en_baja_california",
-        "_added_at": "2026-08-13T14:54:49.219611-07:00"
-      },
-      {
-        "title": "Coparmex pide renuncia definitiva de funcionarios con ambiciones políticas",
-        "summary": "Organización empresarial exige que servidores públicos renuncien si buscan otro cargo.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180308_pide_coparmex_renuncia_definitiva_de_funcionarios_que_busquen_otro_cargo",
-        "_added_at": "2026-08-13T14:54:49.219611-07:00"
-      },
-      {
-        "title": "Dólar baja ligeramente en casas de cambio locales",
-        "summary": "Moneda estadounidense registra descenso en cotización al cierre de jornada.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180301_tiene_el_dolar_ligero_descenso_a_la_venta_en_casas_de_cambio_locales",
-        "_added_at": "2026-08-13T12:13:18.219313-07:00"
-      },
-      {
-        "title": "Federación destinó 8,875 millones para educación básica en BC",
-        "summary": "Gobierno federal invierte recursos significativos en infraestructura y servicios educativos del estado.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/empresarial/180286_federacion_destino_8_875_mdp_para_educacion_basica_en_bc",
-        "_added_at": "2026-08-13T09:03:35.360724-07:00"
+        "_added_at": "2026-08-14T00:43:14.412753-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "CENAPRED estudia obras en zona de riesgo de Sánchez Taboada",
-        "summary": "Autoridades aguardan análisis de Centro Nacional de Prevención de Desastres para definir intervenciones.",
+        "title": "Estudios de CENAPRED para zona de riesgo Sánchez Taboada",
+        "summary": "Ayuntamiento espera evaluación técnica para definir obras de mitigación en área vulnerable.",
         "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/esperan-estudios-de-cenapred-para-definir-obras-en-zona-de-riesgo-de-sanchez-taboada/?utm_source=rss&utm_medium=rss&utm_campaign=esperan-estudios-de-cenapred-para-definir-obras-en-zona-de-riesgo-de-sanchez-taboada",
-        "_added_at": "2026-08-13T21:55:37.903830-07:00"
+        "url": "https://zetatijuana.com/2026/08/esperan-estudios-de-cenapred-para-definir-obras-en-zona-de-riesgo-de-sanchez-taboada/",
+        "_added_at": "2026-08-14T00:43:14.412753-07:00"
       },
       {
-        "title": "Complicaciones continúan en centro de transferencia de Tecate",
-        "summary": "Persisten problemas operativos en instalación municipal de residuos de Tecate.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180319_siguen_las_complicaciones_en_el_centro_de_transferencia_de_tecate",
-        "_added_at": "2026-08-13T21:55:37.903830-07:00"
+        "title": "Comité Plural por la Libertad de Ernesto Ruffo",
+        "summary": "Se constituyó comité ciudadano para respaldar al ex gobernador durante proceso legal.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98062/Anuncian-en-Tijuana-la-creaci%C3%B3n-del-Comit%C3%A9-Plural-por-la-Libertad-de-Ernesto-Ruffo",
+        "_added_at": "2026-08-14T00:43:14.412753-07:00"
       },
       {
-        "title": "Activista cuestiona sanciones por maltrato animal",
-        "summary": "Defensor de derechos animales señala inconsistencias en castigos por crueldad.",
+        "title": "Activista expone inconsistencias en sanciones por maltrato animal",
+        "summary": "Se cuestionaron las penas inconsistentes aplicadas en casos de crueldad contra animales.",
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/180328_expone_activista_incongruencia_en_sanciones_por_maltrato_animal",
-        "_added_at": "2026-08-13T19:33:25.396350-07:00"
-      },
-      {
-        "title": "Lluvias y chubascos esperados en BC este fin de semana",
-        "summary": "Pronóstico meteorológico advierte sobre precipitaciones para la entidad.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180321_lluvias_y_chubascos_para_la_entidad_anuncian_para_este_fin_de_semana",
-        "_added_at": "2026-08-13T19:33:25.396350-07:00"
-      },
-      {
-        "title": "Bomberos de Rosarito reciben nuevas unidades de emergencia",
-        "summary": "Autoridades entregan vehículos adicionales a cuerpo de bomberos para mejorar atención de emergencias.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Rosarito/98040/Entregan-unidades-a-Bomberos-de-Playas-de-Rosarito-para-reforzar-atenci%C3%B3n-de-emergencias",
-        "_added_at": "2026-08-13T14:54:49.219611-07:00"
-      },
-      {
-        "title": "Personas ciegas realizan senderismo inclusivo en Cerro Colorado",
-        "summary": "Actividad inclusiva permite a invidentes disfrutar de experiencia de excursionismo en Tijuana.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98037/Personas-ciegas-conquistan-el-Cerro-Colorado-con-senderismo-inclusivo",
-        "_added_at": "2026-08-13T14:54:49.219611-07:00"
-      },
-      {
-        "title": "Abogados exigen al Congreso frenar impunidad estatal",
-        "summary": "Gremio jurídico solicita legisladores implementen medidas contra la impunidad en Baja California.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180310_exigen_abogados_al_congreso_frenar_la_impunidad_en_el_estado",
-        "_added_at": "2026-08-13T14:54:49.219611-07:00"
-      },
-      {
-        "title": "Niños de Tijuana regresan tras estar varados en Colombia",
-        "summary": "Equipo infantil regresa a casa después de quedar atrapado en el país suramericano.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/ninos-tijuanenses-del-equipo-leyendas-obeliz-regresan-de-colombia-tras-estar-varados/?utm_source=rss&utm_medium=rss&utm_campaign=ninos-tijuanenses-del-equipo-leyendas-obeliz-regresan-de-colombia-tras-estar-varados",
-        "_added_at": "2026-08-13T12:13:18.219313-07:00"
-      },
-      {
-        "title": "Mitad de tijuanenses vive en hogares pobres",
-        "summary": "Análisis revela que 50 por ciento de población capitalina enfrenta condiciones de pobreza.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/editoriales/180302_mitad_de_tijuanenses_viven_en_un_hogar_pobre_ismael_plascencia",
-        "_added_at": "2026-08-13T12:13:18.219313-07:00"
-      },
-      {
-        "title": "Advierten sobre fraudes en ofertas de empleo",
-        "summary": "Autoridades alertan a ciudadanos sobre estafas mediante anuncios falsos de trabajo.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180305_advierten_de_fraudes_mediante_ofertas_de_empleo",
-        "_added_at": "2026-08-13T12:13:18.219313-07:00"
+        "_added_at": "2026-08-14T00:43:14.412753-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-13T21:55:37.903830-07:00"
+  "last_updated": "2026-08-14T00:43:14.412753-07:00"
 }
