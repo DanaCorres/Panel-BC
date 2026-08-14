@@ -1,8 +1,22 @@
 {
   "date": "2026-08-14",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Cinco miembros de Los Rusos detenidos en Mexicali",
+        "summary": "Autoridades capturan a integrantes de la organización criminal acusados de privación de libertad.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/en-mexicali-detiene-a-cinco-integrantes-de-los-rusos-por-privar-de-la-libertad-a-un-hombre/?utm_source=rss&utm_medium=rss&utm_campaign=en-mexicali-detiene-a-cinco-integrantes-de-los-rusos-por-privar-de-la-libertad-a-un-hombre",
+        "_added_at": "2026-08-14T03:12:27.500762-07:00"
+      },
+      {
+        "title": "Identifican presuntos homicidas de familia Olivas sin detención",
+        "summary": "Autoridades localizan responsables de asesinatos pero no proceden a su captura.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/identifican-a-presuntos-asesinos-de-parientes-de-alfredo-olivas-sin-detenerlos/?utm_source=rss&utm_medium=rss&utm_campaign=identifican-a-presuntos-asesinos-de-parientes-de-alfredo-olivas-sin-detenerlos",
+        "_added_at": "2026-08-14T03:12:27.500762-07:00"
+      },
       {
         "title": "Cinco miembros de Los Rusos detenidos en Mexicali",
         "summary": "Autoridades capturaron a cinco integrantes de la organización criminal acusados de privación de libertad en Mexicali.",
@@ -19,6 +33,27 @@
       }
     ],
     "politica": [
+      {
+        "title": "Visa revocada a Andy López: disputa con Trump",
+        "summary": "Estados Unidos cancela documentos de entrada a hijo de AMLO quien cuestiona decisión.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/ee-uu-revoca-visa-a-andy-lopez-beltran-el-morenista-exige-respuestas-a-trump/?utm_source=rss&utm_medium=rss&utm_campaign=ee-uu-revoca-visa-a-andy-lopez-beltran-el-morenista-exige-respuestas-a-trump",
+        "_added_at": "2026-08-14T03:12:27.500762-07:00"
+      },
+      {
+        "title": "Maru Campos denuncia persecución política contra Ruffo",
+        "summary": "Familiares de expresidente alegan irregularidades y represión en su contra.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/maru-campos-y-familiares-de-ruffo-appel-denuncian-persecucion-politica-e-irregularidades-en-su-proceso/?utm_source=rss&utm_medium=rss&utm_campaign=maru-campos-y-familiares-de-ruffo-appel-denuncian-persecucion-politica-e-irregularidades-en-su-proceso",
+        "_added_at": "2026-08-14T03:12:27.500762-07:00"
+      },
+      {
+        "title": "Crean comité para defender libertad de Ernesto Ruffo",
+        "summary": "Ciudadanía se organiza en Tijuana para respaldar al exgobernador detenido.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98062/Anuncian-en-Tijuana-la-creaci%C3%B3n-del-Comit%C3%A9-Plural-por-la-Libertad-de-Ernesto-Ruffo",
+        "_added_at": "2026-08-14T03:12:27.500762-07:00"
+      },
       {
         "title": "EE.UU. revoca visa a Andy López Beltrán",
         "summary": "Estados Unidos canceló la visa del morenista quien exigió respuestas al gobierno estadounidense.",
@@ -66,6 +101,27 @@
     ],
     "sociedad": [
       {
+        "title": "CENAPRED analiza riesgos en Sánchez Taboada",
+        "summary": "Autoridades evalúan deslizamientos para definir obras preventivas en zona.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/esperan-estudios-de-cenapred-para-definir-obras-en-zona-de-riesgo-de-sanchez-taboada/?utm_source=rss&utm_medium=rss&utm_campaign=esperan-estudios-de-cenapred-para-definir-obras-en-zona-de-riesgo-de-sanchez-taboada",
+        "_added_at": "2026-08-14T03:12:27.500762-07:00"
+      },
+      {
+        "title": "Lluvia y chubascos esperados en Baja California",
+        "summary": "Meteorología pronostica precipitaciones para fin de semana en la entidad.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180321_lluvias_y_chubascos_para_la_entidad_anuncian_para_este_fin_de_semana",
+        "_added_at": "2026-08-14T03:12:27.500762-07:00"
+      },
+      {
+        "title": "Problemas continúan en centro de transferencia Tecate",
+        "summary": "Siguen las complicaciones operativas en instalación de residuos.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180319_siguen_las_complicaciones_en_el_centro_de_transferencia_de_tecate",
+        "_added_at": "2026-08-14T03:12:27.500762-07:00"
+      },
+      {
         "title": "Estudios de CENAPRED para zona de riesgo Sánchez Taboada",
         "summary": "Ayuntamiento espera evaluación técnica para definir obras de mitigación en área vulnerable.",
         "source": "ZETA Tijuana",
@@ -88,5 +144,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-14T00:43:14.412753-07:00"
+  "last_updated": "2026-08-14T03:12:27.500762-07:00"
 }
