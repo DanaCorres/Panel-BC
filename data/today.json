@@ -1,8 +1,15 @@
 {
   "date": "2026-08-14",
-  "run_count": 3,
+  "run_count": 4,
   "notes": {
     "seguridad": [
+      {
+        "title": "Tráiler arrastra vehículo en Vía Rápida Alamar",
+        "summary": "Accidente vial en Tijuana donde un tráiler impactó y arrastró a otro vehículo varios metros.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/98063/Tr%C3%A1iler-arrastra-varios-metros-a-veh%C3%ADculo-sobre-la-V%C3%ADa-R%C3%A1pida-Alamar",
+        "_added_at": "2026-08-14T08:58:15.321342-07:00"
+      },
       {
         "title": "Deslizamientos en Sánchez Taboada requieren estudios de riesgo",
         "summary": "Autoridades esperan análisis del CENAPRED para definir obras de mitigación en zona de riesgo tijuanense.",
@@ -40,6 +47,13 @@
       }
     ],
     "politica": [
+      {
+        "title": "Sheinbaum acusa injerencia política en revocación de visa a Andy López",
+        "summary": "Presidenta exige pruebas a EUA sobre cancelación de visa a hijo de expresidente, calificando acción como persecución.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/sheinbaum-exige-pruebas-a-eu-y-acusa-injerencia-politica-por-revocacion-de-visa-de-andy/",
+        "_added_at": "2026-08-14T08:58:15.321342-07:00"
+      },
       {
         "title": "Visa revocada a Andy López: disputa con Trump",
         "summary": "Estados Unidos cancela documentos de entrada a hijo de AMLO quien cuestiona decisión.",
@@ -92,6 +106,20 @@
     ],
     "economia": [
       {
+        "title": "Tijuana con 4,145 mdp de Aportaciones y Participaciones",
+        "summary": "Gobierno municipal dispone de recursos federales para ejercicio presupuestal actual.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/empresarial/180336_gobierno_de_tijuana_cuenta_con_4_145_mdp_de_aportaciones_y_participaciones",
+        "_added_at": "2026-08-14T08:58:15.321342-07:00"
+      },
+      {
+        "title": "EUA reinicia inspecciones de aguacate en Michoacán",
+        "summary": "Se reanuda exportación agrícola tras reactivar verificaciones sanitarias estadounidenses.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/eua-reinicia-inspecciones-en-michoacan-se-reanuda-exportacion-de-aguacate/",
+        "_added_at": "2026-08-14T08:58:15.321342-07:00"
+      },
+      {
         "title": "Alcaldías de BC reciben 737 millones para obra social",
         "summary": "Municipios de Baja California obtienen recursos federales para proyectos de beneficio comunitario.",
         "source": "AFN Tijuana",
@@ -114,6 +142,20 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Servicios Públicos en Mexicali atiende reportes tras lluvias",
+        "summary": "Dependencia municipal retiró obstáculos y atendió 22 reportes de afectaciones por precipitaciones.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/98048/Servicios-P%C3%BAblicos-atendi%C3%B3-22-reportes-tras-lluvias-en-Mexicali",
+        "_added_at": "2026-08-14T08:58:15.321342-07:00"
+      },
+      {
+        "title": "Activista reclama demora en aprobación de Ley Amparito",
+        "summary": "Gestión ciudadana busca mayores castigos legales contra mascotas que causen muertes.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/98047/Reclama-activista-a-diputados-demora-en-aprobar-una-adici%C3%B3n-a-la-Ley-Amparito",
+        "_added_at": "2026-08-14T08:58:15.321342-07:00"
+      },
       {
         "title": "CENAPRED analiza riesgos en Sánchez Taboada",
         "summary": "Autoridades evalúan deslizamientos para definir obras preventivas en zona.",
@@ -158,5 +200,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-14T06:23:29.780923-07:00"
+  "last_updated": "2026-08-14T08:58:15.321342-07:00"
 }
