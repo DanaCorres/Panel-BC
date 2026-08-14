@@ -1,8 +1,22 @@
 {
   "date": "2026-08-13",
-  "run_count": 7,
+  "run_count": 8,
   "notes": {
     "seguridad": [
+      {
+        "title": "Capturan a cinco integrantes de Los Rusos en Mexicali",
+        "summary": "Autoridades detienen a cinco miembros de la banda por privación de la libertad de una persona en Mexicali.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/en-mexicali-detiene-a-cinco-integrantes-de-los-rusos-por-privar-de-la-libertad-a-un-hombre/?utm_source=rss&utm_medium=rss&utm_campaign=en-mexicali-detiene-a-cinco-integrantes-de-los-rusos-por-privar-de-la-libertad-a-un-hombre",
+        "_added_at": "2026-08-13T21:55:37.903830-07:00"
+      },
+      {
+        "title": "Identifican presuntos asesinos de parientes de Alfredo Olivas",
+        "summary": "Autoridades identifican a responsables de asesinatos de familiares del músico, pero aún sin detenciones.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/identifican-a-presuntos-asesinos-de-parientes-de-alfredo-olivas-sin-detenerlos/?utm_source=rss&utm_medium=rss&utm_campaign=identifican-a-presuntos-asesinos-de-parientes-de-alfredo-olivas-sin-detenerlos",
+        "_added_at": "2026-08-13T21:55:37.903830-07:00"
+      },
       {
         "title": "Detienen a cinco miembros de Los Rusos en Mexicali",
         "summary": "Autoridades capturan a integrantes de la organización criminal acusados de privación de libertad.",
@@ -58,23 +72,23 @@
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/08/vinculan-a-proceso-a-cuatro-presuntos-integrantes-de-celula-delictiva-que-operaba-en-tecate/?utm_source=rss&utm_medium=rss&utm_campaign=vinculan-a-proceso-a-cuatro-presuntos-integrantes-de-celula-delictiva-que-operaba-en-tecate",
         "_added_at": "2026-08-13T12:13:18.219313-07:00"
-      },
-      {
-        "title": "Ejecutan a hombre en Playas de Tijuana",
-        "summary": "Disparan contra sujeto dentro del patio de vivienda en zona costera de Tijuana.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/180300_ejecutan_a_tiros_a_un_hombre_en_patio_de_vivienda_en_playas_de_tijuana",
-        "_added_at": "2026-08-13T12:13:18.219313-07:00"
-      },
-      {
-        "title": "Muere empresario baleado en su domicilio en Playas de Tijuana",
-        "summary": "Hombre fue atacado a disparos en el patio de su vivienda en la zona costera de Tijuana.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/98017/Hombre-es-asesinado-a-balazos-en-el-patio-de-su-domicilio-en-Playas-de-Tijuana",
-        "_added_at": "2026-08-13T09:03:35.360724-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Bermúdez Requena denuncia persecución política desde prisión",
+        "summary": "Exfuncionario acusa acoso político mientras cumple sentencia en penal del Altiplano.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/hernan-bermudez-requena-denuncia-persecucion-politica-desde-el-altiplano/?utm_source=rss&utm_medium=rss&utm_campaign=hernan-bermudez-requena-denuncia-persecucion-politica-desde-el-altiplano",
+        "_added_at": "2026-08-13T21:55:37.903830-07:00"
+      },
+      {
+        "title": "Gobernadora de Chihuahua critica persecución a opositores",
+        "summary": "Maru Campos denuncia represión contra quienes se expresan críticamente en el régimen.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180330_gobernadora_de_chihuahua_acusa_persecucion_a_quien_se_exprese_contra_el_regimen",
+        "_added_at": "2026-08-13T21:55:37.903830-07:00"
+      },
       {
         "title": "Morena frena juicio político contra Marina del Pilar",
         "summary": "Legisladores de Morena bloquean solicitud de juicio político a gobernadora de BC.",
@@ -130,23 +144,16 @@
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/08/que-hagan-su-propia-conferencia-sheinbaum-rechaza-derechos-de-replica-del-pan/?utm_source=rss&utm_medium=rss&utm_campaign=que-hagan-su-propia-conferencia-sheinbaum-rechaza-derechos-de-replica-del-pan",
         "_added_at": "2026-08-13T12:13:18.219313-07:00"
-      },
-      {
-        "title": "PAN solicita separar del cargo a funcionaria federal",
-        "summary": "Partido opositora demanda juicio político contra Marina por sus acciones.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180303_solicitara_el_pan_separar_del_cargo_y_juicio_politico_contra_marina",
-        "_added_at": "2026-08-13T12:13:18.219313-07:00"
-      },
-      {
-        "title": "Ismael Burgueño reafirma principios de Morena en Baja California",
-        "summary": "Dirigente busca mantener compromisos fundacionales con sectores históricamente marginados.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Estatal/98027/Ismael-Burgue%C3%B1o-plantea-mantener-en-Baja-California-los-principios-fundacionales-de-Morena-en-favor-de-quienes-por-a%C3%B1os-fueron-olvidados",
-        "_added_at": "2026-08-13T12:13:18.219313-07:00"
       }
     ],
     "economia": [
+      {
+        "title": "Arrendatario de El Sauzal comparecerá por huachicol fiscal",
+        "summary": "Sujeto acuerda presentarse ante juez por presunto desvío de combustible en Ensenada.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/arrendatario-de-predio-en-el-sauzal-acuerda-comparecer-ante-juez-por-huachicol-fiscal/?utm_source=rss&utm_medium=rss&utm_campaign=arrendatario-de-predio-en-el-sauzal-acuerda-comparecer-ante-juez-por-huachicol-fiscal",
+        "_added_at": "2026-08-13T21:55:37.903830-07:00"
+      },
       {
         "title": "Conagua pospone tercera vez fallo de desaladora en Rosarito",
         "summary": "Dependencia federal difiere nuevamente el resultado de licitación para planta desaladora.",
@@ -209,16 +216,23 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/empresarial/180286_federacion_destino_8_875_mdp_para_educacion_basica_en_bc",
         "_added_at": "2026-08-13T09:03:35.360724-07:00"
-      },
-      {
-        "title": "Banxico impulsará pagos digitales con nuevas reglas antes de diciembre",
-        "summary": "Banco central introduce regulaciones para modernizar transacciones electrónicas en el país.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180288_banxico_impulsara_pagos_digitales_con_nuevas_reglas_antes_de_diciembre",
-        "_added_at": "2026-08-13T09:03:35.360724-07:00"
       }
     ],
     "sociedad": [
+      {
+        "title": "CENAPRED estudia obras en zona de riesgo de Sánchez Taboada",
+        "summary": "Autoridades aguardan análisis de Centro Nacional de Prevención de Desastres para definir intervenciones.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/esperan-estudios-de-cenapred-para-definir-obras-en-zona-de-riesgo-de-sanchez-taboada/?utm_source=rss&utm_medium=rss&utm_campaign=esperan-estudios-de-cenapred-para-definir-obras-en-zona-de-riesgo-de-sanchez-taboada",
+        "_added_at": "2026-08-13T21:55:37.903830-07:00"
+      },
+      {
+        "title": "Complicaciones continúan en centro de transferencia de Tecate",
+        "summary": "Persisten problemas operativos en instalación municipal de residuos de Tecate.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180319_siguen_las_complicaciones_en_el_centro_de_transferencia_de_tecate",
+        "_added_at": "2026-08-13T21:55:37.903830-07:00"
+      },
       {
         "title": "Activista cuestiona sanciones por maltrato animal",
         "summary": "Defensor de derechos animales señala inconsistencias en castigos por crueldad.",
@@ -274,22 +288,8 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/180305_advierten_de_fraudes_mediante_ofertas_de_empleo",
         "_added_at": "2026-08-13T12:13:18.219313-07:00"
-      },
-      {
-        "title": "Destacan atención a salud mental y protección animal",
-        "summary": "Ante autoridad se presentan demandas de mejora en estos servicios sociales.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180306_destacan_ante_alvarez_temas_sobre_atencion_a_la_salud_mental_y_proteccion_de_animales",
-        "_added_at": "2026-08-13T12:13:18.219313-07:00"
-      },
-      {
-        "title": "Aumentan a 30 fallecimientos por ola de calor en Baja California",
-        "summary": "Crisis de temperaturas extremas registra cifra alarmante de decesos en el estado.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/aumentan-a-30-los-fallecimientos-por-calor-en-baja-california/",
-        "_added_at": "2026-08-13T09:03:35.360724-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-13T19:33:25.396350-07:00"
+  "last_updated": "2026-08-13T21:55:37.903830-07:00"
 }
