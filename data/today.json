@@ -1,8 +1,22 @@
 {
   "date": "2026-08-15",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Detienen a dos integrantes de Los Rusos con armas",
+        "summary": "Autoridades capturaron a dos personas ligadas a Los Rusos y aseguraron armamento y un vehículo.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/detienen-a-dos-personas-ligadas-a-los-rusos-ademas-de-armas-y-un-vehiculo/",
+        "_added_at": "2026-08-15T08:28:31.887170-07:00"
+      },
+      {
+        "title": "Agente de seguridad resulta herido en enfrentamiento en Tecate",
+        "summary": "Un agente de la AEI fue baleado durante enfrentamiento en bulevar Defensores de Baja California.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/98094/Lesionan-a-balazos-a-agente-de-la-AEI-tras-enfrentamiento-en-Tecate",
+        "_added_at": "2026-08-15T08:28:31.887170-07:00"
+      },
       {
         "title": "Vinculan a proceso a sicarios por ataque a regidora de Tecate",
         "summary": "Tres presuntos sicarios fueron procesados tras atentado contra funcionaria municipal y su esposo en Tecate.",
@@ -41,6 +55,27 @@
     ],
     "politica": [
       {
+        "title": "Comité exige justicia por Ernesto Ruffo como preso político",
+        "summary": "Grupo plural cataloga al ex gobernador como preso político y demanda su libertad y justicia.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/comite-plural-por-la-libertad-de-ernesto-ruffo-exige-justicia-y-cataloga-al-ex-gobernador-como-preso-politico/",
+        "_added_at": "2026-08-15T08:28:31.887170-07:00"
+      },
+      {
+        "title": "Se confirma investigación contra Marina del Pilar",
+        "summary": "Autoridades confirman investigación en contra de la gobernadora de Baja California.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/se-confirma-investigacion-de-marina-del-pilar/",
+        "_added_at": "2026-08-15T08:28:31.887170-07:00"
+      },
+      {
+        "title": "Gobernadores de Morena denuncian presiones y amenazas",
+        "summary": "Mandatarios morenistas reportan campañas de desinformación y presiones políticas.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180377_gobernadores_de_morena_denuncian_presiones_amenazas_y_campanas_de_desinformacion",
+        "_added_at": "2026-08-15T08:28:31.887170-07:00"
+      },
+      {
         "title": "Regidor denuncia falta de sesiones de cabildo en Tijuana",
         "summary": "Funcionario municipal critica inactividad legislativa desde llegada del alcalde suplente a la administración.",
         "source": "AFN Tijuana",
@@ -77,6 +112,27 @@
       }
     ],
     "economia": [
+      {
+        "title": "Cox Energy construirá desaladora de Rosarito en tres años",
+        "summary": "Empresa gana licitación para construir planta desaladora en municipio de Rosarito.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Rosarito/98104/Cox-Energy-gana-licitaci%C3%B3n-para-construir-la-desaladora-de-Rosarito",
+        "_added_at": "2026-08-15T08:28:31.887170-07:00"
+      },
+      {
+        "title": "Inflación en construcción acelera 4.47% en Tijuana durante julio",
+        "summary": "Índice de precios de materiales para constructores en Tijuana registra alza significativa.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/empresarial/180379_acelera_4_47_inflacion_para_constructores_en_tijuana_durante_julio",
+        "_added_at": "2026-08-15T08:28:31.887170-07:00"
+      },
+      {
+        "title": "Actividades primarias en BC suben marginalmente 0.4% en julio",
+        "summary": "Sector agrícola de Baja California registra pequeño incremento en actividad económica.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/empresarial/180380_oxigeno_en_el_campo_de_bc_alza_marginal_del_0_4_en_actividades_primarias",
+        "_added_at": "2026-08-15T08:28:31.887170-07:00"
+      },
       {
         "title": "Cox Energy construirá desaladora en Rosarito",
         "summary": "Empresa ganadora de licitación edificará planta desaladora en tres años.",
@@ -137,5 +193,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-15T05:52:04.292382-07:00"
+  "last_updated": "2026-08-15T08:28:31.887170-07:00"
 }

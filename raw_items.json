@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T12:52:03.570336+00:00",
+  "generated_at": "2026-08-15T15:28:31.188741+00:00",
   "items": [
     {
       "source": "ZETA Tijuana",
@@ -63,6 +63,36 @@
     },
     {
       "source": "AFN Tijuana",
+      "title": "¡Ah, pillin !",
+      "url": "https://www.afntijuana.info/cartones/180383_ah_pillin",
+      "published": ""
+    },
+    {
+      "source": "AFN Tijuana",
+      "title": "Señalando el rumbo del país",
+      "url": "https://www.afntijuana.info/cartones/180382_senalando_el_rumbo_del_pais",
+      "published": ""
+    },
+    {
+      "source": "AFN Tijuana",
+      "title": "Perspectivas 2027",
+      "url": "https://www.afntijuana.info/cartones/180381_perspectivas_2027",
+      "published": ""
+    },
+    {
+      "source": "AFN Tijuana",
+      "title": "Oxígeno en el campo de BC; alza marginal del 0.4% en Actividades Primarias",
+      "url": "https://www.afntijuana.info/empresarial/180380_oxigeno_en_el_campo_de_bc_alza_marginal_del_0_4_en_actividades_primarias",
+      "published": ""
+    },
+    {
+      "source": "AFN Tijuana",
+      "title": "Acelera 4.47% inflación para constructores en Tijuana durante julio",
+      "url": "https://www.afntijuana.info/empresarial/180379_acelera_4_47_inflacion_para_constructores_en_tijuana_durante_julio",
+      "published": ""
+    },
+    {
+      "source": "AFN Tijuana",
       "title": "Automovilista baleado embistió a su presunto agresor; ambos resultan heridos",
       "url": "https://www.afntijuana.info/seguridad/180378_automovilista_baleado_embistio_a_su_presunto_agresor_ambos_resultan_heridos",
       "published": ""
@@ -119,36 +149,6 @@
       "source": "AFN Tijuana",
       "title": "Vinculan a proceso a cuatro más por ataque a regidora y su esposo en Tecate",
       "url": "https://www.afntijuana.info/seguridad/180369_vinculan_a_proceso_a_cuatro_mas_por_ataque_a_regidora_y_su_esposo_en_tecate",
-      "published": ""
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Marina debió escribir una carta a Trump, igual que \"Andy\": Ruiz Uribe",
-      "url": "https://www.afntijuana.info/informacion_general/180368_marina_debio_escribir_una_carta_a_trump_igual_que_andy_ruiz_uribe",
-      "published": ""
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Lesionan a un elemento de la AEI en tiroteo; lo reportan fuera de peligro",
-      "url": "https://www.afntijuana.info/seguridad/180367_lesionan_a_un_elemento_de_la_aei_en_tiroteo_lo_reportan_fuera_de_peligro",
-      "published": ""
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Pone en marcha la Guardia Nacional base operativa en Valle de las Palmas",
-      "url": "https://www.afntijuana.info/informacion_general/180366_pone_en_marcha_la_guardia_nacional_base_operativa_en_valle_de_las_palmas",
-      "published": ""
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Retiro de visa de hijo de AMLO tensará las relaciones entre países, aseguran",
-      "url": "https://www.afntijuana.info/nacionales/180365_retiro_de_visa_de_hijo_de_amlo_tensara_las_relaciones_entre_paises_aseguran",
-      "published": ""
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Exige Gilvaja acciones contundentes contra la extorsión y el cobro de piso",
-      "url": "https://www.afntijuana.info/informacion_general/180364_exige_gilvaja_acciones_contundentes_contra_la_extorsion_y_el_cobro_de_piso",
       "published": ""
     },
     {
@@ -249,13 +249,31 @@
     },
     {
       "source": "El Imparcial (Tijuana)",
-      "title": "Comerciante recibe disparo y embiste a presunto atacante contra una pared en Tijuana",
-      "url": "https://www.elimparcial.com/tij/policiaca/2026/08/14/comerciante-recibe-disparo-y-embiste-a-presunto-atacante-contra-una-pared-en-tijuana/",
+      "title": "Anuncian empresa que construirá desaladora en Rosarito",
+      "url": "https://www.elimparcial.com/tij/rosarito/2026/08/14/anuncian-empresa-que-construira-desaladora-en-rosarito/",
       "published": ""
     },
     {
       "source": "El Imparcial (Tijuana)",
-      "title": "Un comerciante resultó herido de bala y embistió con su camioneta al presunto atacante, quien quedó prensado contra una pared en Tijuana.",
+      "title": "El consorcio de empresas Cox Energy y Cox Water realizará la obra en Playas de Rosarito por 5 mil 200 millones de pesos.",
+      "url": "https://www.elimparcial.com/tij/rosarito/2026/08/14/anuncian-empresa-que-construira-desaladora-en-rosarito/",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial (Tijuana)",
+      "title": "Cáncer en Baja California: estilos de vida agravan panorama",
+      "url": "https://www.elimparcial.com/tij/tijuana/2026/08/14/cancer-en-baja-california-estilos-de-vida-y-diagnosticos-tardios-complican-el-panorama/",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial (Tijuana)",
+      "title": "Modifican vialidades en Buena Vista para mejorar circulación",
+      "url": "https://www.elimparcial.com/tij/tijuana/2026/08/15/modifican-vialidades-en-buena-vista-para-mejorar-circulacion/",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial (Tijuana)",
+      "title": "Comerciante recibe disparo y embiste a presunto atacante contra una pared en Tijuana",
       "url": "https://www.elimparcial.com/tij/policiaca/2026/08/14/comerciante-recibe-disparo-y-embiste-a-presunto-atacante-contra-una-pared-en-tijuana/",
       "published": ""
     },
@@ -291,12 +309,6 @@
     },
     {
       "source": "El Imparcial (Tijuana)",
-      "title": "Anuncian empresa que construirá desaladora en Rosarito",
-      "url": "https://www.elimparcial.com/tij/rosarito/2026/08/14/anuncian-empresa-que-construira-desaladora-en-rosarito/",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
       "title": "UABC prevé crecimiento en su matrícula durante los próximos años",
       "url": "https://www.elimparcial.com/tij/tijuana/2026/08/14/uabc-preve-crecimiento-en-su-matricula-durante-los-proximos-anos/",
       "published": ""
@@ -317,18 +329,6 @@
       "source": "El Imparcial (Tijuana)",
       "title": "Rocío Adame cuestiona regreso de Fidel Mogollón a la bancada",
       "url": "https://www.elimparcial.com/tij/rosarito/2026/08/14/rocio-adame-cuestiona-regreso-de-fidel-mogollon-a-la-bancada-de-morena/",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Contribuyentes enfrentarán mayor fiscalización y revisión de sus operaciones",
-      "url": "https://www.elimparcial.com/tij/tijuana/2026/08/14/contribuyentes-enfrentaran-mayor-fiscalizacion-y-revision-de-sus-operaciones/",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Agente de la AEI resulta herido tras enfrentamiento a balazos en Tecate",
-      "url": "https://www.elimparcial.com/tij/policiaca/2026/08/14/agente-de-la-aei-resulta-herido-tras-enfrentamiento-a-balazos-en-tecate/",
       "published": ""
     },
     {
