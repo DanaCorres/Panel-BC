@@ -1,8 +1,29 @@
 {
   "date": "2026-08-14",
-  "run_count": 8,
+  "run_count": 9,
   "notes": {
     "seguridad": [
+      {
+        "title": "Detienen a dos vinculados con los Rusos en Tijuana",
+        "summary": "Captura de presuntos integrantes de organización criminal con armas y vehículo asegurado.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/detienen-a-dos-personas-ligadas-a-los-rusos-ademas-de-armas-y-un-vehiculo/?utm_source=rss&utm_medium=rss&utm_campaign=detienen-a-dos-personas-ligadas-a-los-rusos-ademas-de-armas-y-un-vehiculo",
+        "_added_at": "2026-08-14T23:50:42.490135-07:00"
+      },
+      {
+        "title": "Vinculan a proceso a sicarios por ataque a regidora de Tecate",
+        "summary": "Siete presuntos responsables del atentado contra funcionaria municipal enfrentan proceso legal.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/180369_vinculan_a_proceso_a_cuatro_mas_por_ataque_a_regidora_y_su_esposo_en_tecate",
+        "_added_at": "2026-08-14T23:50:42.490135-07:00"
+      },
+      {
+        "title": "Automovilista baleado embiste a agresor en Tijuana",
+        "summary": "Conductor fue atacado a balazos e impactó con su auto al presunto atacante; ambos heridos.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/180378_automovilista_baleado_embistio_a_su_presunto_agresor_ambos_resultan_heridos",
+        "_added_at": "2026-08-14T23:50:42.490135-07:00"
+      },
       {
         "title": "Tres sicarios vinculados a atentado contra regidora de Tecate",
         "summary": "Proceso penal iniciado contra presuntos responsables del ataque a autoridad municipal y su esposo en Tecate.",
@@ -51,30 +72,16 @@
         "source": "El Mexicano",
         "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98097/Investigan-muerte-Eitan-Neo-como-homicidio-doloso,-v%C3%ADctima-de-violencia-y-violaci%C3%B3n-sexual-en-Tijuana",
         "_added_at": "2026-08-14T18:43:03.217535-07:00"
-      },
-      {
-        "title": "Adolescente vinculado a proceso por reclutamiento criminal",
-        "summary": "Autoridades procesaron a menor acusado de reclutar personas para organizaciones delictivas en Tijuana.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/vinculan-a-proceso-penal-a-adolescente-presunto-reclutador-para-el-crimen-organizado/?utm_source=rss&utm_medium=rss&utm_campaign=vinculan-a-proceso-penal-a-adolescente-presunto-reclutador-para-el-crimen-organizado",
-        "_added_at": "2026-08-14T14:32:14.127299-07:00"
-      },
-      {
-        "title": "Nueve migrantes interceptados en operación costera",
-        "summary": "Guardia Costera detuvo a migrantes en panga cerca de costas de San Diego.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/The%20Border/98085/Nueve-migrantes-detenidos-en-panga-por-la-Guardia-Costera",
-        "_added_at": "2026-08-14T14:32:14.127299-07:00"
-      },
-      {
-        "title": "Gilvaja exige acciones contra extorsión y cobro de piso",
-        "summary": "Autoridad demanda operativos contundentes contra delincuencia organizada en municipio.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180364_exige_gilvaja_acciones_contundentes_contra_la_extorsion_y_el_cobro_de_piso",
-        "_added_at": "2026-08-14T14:32:14.127299-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Comité exige justicia por Ernesto Ruffo como preso político",
+        "summary": "Organizaciones califican al exgobernador como preso político y demandan su liberación inmediata.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/comite-plural-por-la-libertad-de-ernesto-ruffo-exige-justicia-y-cataloga-al-ex-gobernador-como-preso-politico/?utm_source=rss&utm_medium=rss&utm_campaign=comite-plural-por-la-libertad-de-ernesto-ruffo-exige-justicia-y-cataloga-al-ex-gobernador-como-preso-politico",
+        "_added_at": "2026-08-14T23:50:42.490135-07:00"
+      },
       {
         "title": "Marina respalda postura de Morena tras revocación de visa",
         "summary": "Gobernadora expresa respaldo a comunicado oficial sobre caso de visa estadounidense revocada.",
@@ -137,16 +144,16 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/180363_cce_califica_de_simulacion_actos_de_morena_y_pan_en_bc",
         "_added_at": "2026-08-14T14:32:14.127299-07:00"
-      },
-      {
-        "title": "Comité por libertad de Ernesto Ruffo presentado en Ensenada",
-        "summary": "Se formaliza grupo de apoyo al ex gobernador en municipio coastal.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180361_presentan_en_ensenada_el_comite_por_la_libertad_de_ernesto_ruffo_appel",
-        "_added_at": "2026-08-14T14:32:14.127299-07:00"
       }
     ],
     "economia": [
+      {
+        "title": "Suscriben plan metropolitano Tijuana, Tecate y Rosarito",
+        "summary": "Tres municipios firman convenio para elaborar estrategia de desarrollo regional coordinada.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/municipios/180371_suscriben_convenio_para_elaborar_plan_metropolitano_entre_tijuana_tecate_y_rosarito",
+        "_added_at": "2026-08-14T23:50:42.490135-07:00"
+      },
       {
         "title": "Cox Energy construirá desaladora en Rosarito en tres años",
         "summary": "Empresa gana licitación para proyecto de agua en municipio costero de Baja California.",
@@ -209,16 +216,23 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/empresarial/180336_gobierno_de_tijuana_cuenta_con_4_145_mdp_de_aportaciones_y_participaciones",
         "_added_at": "2026-08-14T08:58:15.321342-07:00"
-      },
-      {
-        "title": "EUA reinicia inspecciones de aguacate en Michoacán",
-        "summary": "Se reanuda exportación agrícola tras reactivar verificaciones sanitarias estadounidenses.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/eua-reinicia-inspecciones-en-michoacan-se-reanuda-exportacion-de-aguacate/",
-        "_added_at": "2026-08-14T08:58:15.321342-07:00"
       }
     ],
     "sociedad": [
+      {
+        "title": "Desalojan a residentes de vivienda en la vía pública, Tecate",
+        "summary": "Autoridades remueven a familias que habitaban construcción irregular en espacio público.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180376_desalojan_a_residentes_de_una_vivienda_fincada_en_la_via_publica_en_tecate",
+        "_added_at": "2026-08-14T23:50:42.490135-07:00"
+      },
+      {
+        "title": "Se cumple un año del socavón en centro de Tijuana",
+        "summary": "Aniversario del hundimiento de suelo en zona céntrica mantiene impacto en infraestructura local.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98105/Se-cumple-1-a%C3%B1o-de-socav%C3%B3n-en-la-Calle-10ma-de-Zona-Centro-de-Tijuana",
+        "_added_at": "2026-08-14T23:50:42.490135-07:00"
+      },
       {
         "title": "Garantizan lugares a más de 5 mil jóvenes en preparatoria",
         "summary": "Sistema educativo de Baja California asegura inscripción de estudiantes en bachillerato.",
@@ -274,22 +288,8 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/180362_exigen_abogadas_castigo_a_responsables_por_la_muerte_de_un_bebe",
         "_added_at": "2026-08-14T14:32:14.127299-07:00"
-      },
-      {
-        "title": "Impartirán diplomado en terapia de arte en Tijuana",
-        "summary": "Se ofrece programa de capacitación en terapia artística en la ciudad.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/impartiran-diplomado-en-terapia-de-arte-2/?utm_source=rss&utm_medium=rss&utm_campaign=impartiran-diplomado-en-terapia-de-arte-2",
-        "_added_at": "2026-08-14T12:04:27.378048-07:00"
-      },
-      {
-        "title": "Tijuana necesita renovar infraestructura hídrica",
-        "summary": "Antiguedad de redes genera fugas frecuentes; se requiere modernización urgente.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98050/Tijuana-requiere-renovar-su-infraestructura-h%C3%ADdrica-ante-antig%C3%BCedad-de-redes",
-        "_added_at": "2026-08-14T12:04:27.378048-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-14T20:46:42.166881-07:00"
+  "last_updated": "2026-08-14T23:50:42.490135-07:00"
 }
