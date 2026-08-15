@@ -1,8 +1,15 @@
 {
   "date": "2026-08-15",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Vinculan a proceso a sicarios por ataque a regidora de Tecate",
+        "summary": "Tres presuntos sicarios fueron procesados tras atentado contra funcionaria municipal y su esposo en Tecate.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/vinculan-a-proceso-a-tres-presuntos-sicarios-por-atentado-contra-regidora-de-tecate/?utm_source=rss&utm_medium=rss&utm_campaign=vinculan-a-proceso-a-tres-presuntos-sicarios-por-atentado-contra-regidora-de-tecate",
+        "_added_at": "2026-08-15T05:52:04.292382-07:00"
+      },
       {
         "title": "Detienen a dos presuntos integrantes de Los Rusos",
         "summary": "Capturan a dos personas ligadas a grupo criminal; se aseguran armas y vehículo en operativo.",
@@ -33,6 +40,13 @@
       }
     ],
     "politica": [
+      {
+        "title": "Regidor denuncia falta de sesiones de cabildo en Tijuana",
+        "summary": "Funcionario municipal critica inactividad legislativa desde llegada del alcalde suplente a la administración.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180372_denuncia_regidor_falta_de_sesiones_de_cabildo_desde_la_llegada_del_alcalde_suplente",
+        "_added_at": "2026-08-15T05:52:04.292382-07:00"
+      },
       {
         "title": "Comité exige libertad de Ernesto Ruffo",
         "summary": "Organizaciones catalogan al ex gobernador como preso político y demandan su liberación.",
@@ -87,6 +101,13 @@
     ],
     "sociedad": [
       {
+        "title": "Tijuana, Tecate y Rosarito elaborarán plan metropolitano conjunto",
+        "summary": "Municipios suscriben convenio para coordinar desarrollo integral y planificación territorial integrada.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/municipios/180371_suscriben_convenio_para_elaborar_plan_metropolitano_entre_tijuana_tecate_y_rosarito",
+        "_added_at": "2026-08-15T05:52:04.292382-07:00"
+      },
+      {
         "title": "Garantizan espacios en preparatorias para jóvenes",
         "summary": "Estado asigna más de cinco mil lugares en escuelas de educación media superior.",
         "source": "El Mexicano",
@@ -116,5 +137,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-15T02:33:07.965078-07:00"
+  "last_updated": "2026-08-15T05:52:04.292382-07:00"
 }
