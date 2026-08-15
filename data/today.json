@@ -1,8 +1,36 @@
 {
   "date": "2026-08-14",
-  "run_count": 7,
+  "run_count": 8,
   "notes": {
     "seguridad": [
+      {
+        "title": "Tres sicarios vinculados a atentado contra regidora de Tecate",
+        "summary": "Proceso penal iniciado contra presuntos responsables del ataque a autoridad municipal y su esposo en Tecate.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/vinculan-a-proceso-a-tres-presuntos-sicarios-por-atentado-contra-regidora-de-tecate/",
+        "_added_at": "2026-08-14T20:46:42.166881-07:00"
+      },
+      {
+        "title": "Adolescente detenido como reclutador para crimen organizado",
+        "summary": "Menor vinculado a proceso por reclutar integrantes para grupos criminales en la región.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/vinculan-a-proceso-penal-a-adolescente-presunto-reclutador-para-el-crimen-organizado/",
+        "_added_at": "2026-08-14T20:46:42.166881-07:00"
+      },
+      {
+        "title": "Elemento de la AEI lesionado en tiroteo en Tecate",
+        "summary": "Agente recibió impactos de bala durante enfrentamiento; se reporta fuera de peligro.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/180367_lesionan_a_un_elemento_de_la_aei_en_tiroteo_lo_reportan_fuera_de_peligro",
+        "_added_at": "2026-08-14T20:46:42.166881-07:00"
+      },
+      {
+        "title": "Guardia Nacional establece base operativa en Valle de Palmas",
+        "summary": "Instalación de puesto para fortalecer presencia y operaciones de seguridad en zona de Tijuana.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180366_pone_en_marcha_la_guardia_nacional_base_operativa_en_valle_de_las_palmas",
+        "_added_at": "2026-08-14T20:46:42.166881-07:00"
+      },
       {
         "title": "Vinculan a proceso a sicarios por atentado contra regidora de Tecate",
         "summary": "Tres presuntos sicarios fueron vinculados a proceso por ataque contra regidora y su esposo en Tecate.",
@@ -44,37 +72,30 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/180364_exige_gilvaja_acciones_contundentes_contra_la_extorsion_y_el_cobro_de_piso",
         "_added_at": "2026-08-14T14:32:14.127299-07:00"
-      },
-      {
-        "title": "Nueve migrantes interceptados en panga frente a San Diego",
-        "summary": "Autoridades detectaron a nueve personas ocultas en embarcación cerca de costas californiana intenta cruzar ilegalmente.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/interceptan-a-nueve-posibles-migrantes-en-la-costa-de-san-diego/?utm_source=rss&utm_medium=rss&utm_campaign=interceptan-a-nueve-posibles-migrantes-en-la-costa-de-san-diego",
-        "_added_at": "2026-08-14T12:04:27.378048-07:00"
-      },
-      {
-        "title": "Alertan sobre engaños para cruzar migrantes en vehículos",
-        "summary": "Autoridades advierten sobre estafas para transportar migrantes ocultos hacia Estados Unidos en vehículos.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180350_alertan_sobre_enganos_para_cruzar_migrantes_ocultos_en_vehiculos_hacia_eu",
-        "_added_at": "2026-08-14T12:04:27.378048-07:00"
-      },
-      {
-        "title": "Tráiler arrastra vehículo en Vía Rápida Alamar",
-        "summary": "Accidente vial en Tijuana donde un tráiler impactó y arrastró a otro vehículo varios metros.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/98063/Tr%C3%A1iler-arrastra-varios-metros-a-veh%C3%ADculo-sobre-la-V%C3%ADa-R%C3%A1pida-Alamar",
-        "_added_at": "2026-08-14T08:58:15.321342-07:00"
-      },
-      {
-        "title": "Deslizamientos en Sánchez Taboada requieren estudios de riesgo",
-        "summary": "Autoridades esperan análisis del CENAPRED para definir obras de mitigación en zona de riesgo tijuanense.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/esperan-estudios-de-cenapred-para-definir-obras-en-zona-de-riesgo-de-sanchez-taboada/?utm_source=rss&utm_medium=rss&utm_campaign=esperan-estudios-de-cenapred-para-definir-obras-en-zona-de-riesgo-de-sanchez-taboada",
-        "_added_at": "2026-08-14T06:23:29.780923-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Marina respalda postura de Morena tras revocación de visa",
+        "summary": "Gobernadora expresa respaldo a comunicado oficial sobre caso de visa estadounidense revocada.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/marina-respalda-ambiguo-mensaje-de-morena-tras-revocacion-de-visa-de-andy/",
+        "_added_at": "2026-08-14T20:46:42.166881-07:00"
+      },
+      {
+        "title": "Se confirma investigación contra Marina del Pilar",
+        "summary": "Autoridades federales avanzan en indagatoria contra la gobernadora de Baja California.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/se-confirma-investigacion-de-marina-del-pilar/",
+        "_added_at": "2026-08-14T20:46:42.166881-07:00"
+      },
+      {
+        "title": "PAN solicita investigación contra López Beltrán por presuntos vínculos",
+        "summary": "Partido de oposición pide pesquisa sobre posibles relaciones con fraude fiscal.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/pan-exige-investigacion-contra-lopez-beltran-por-posibles-vinculos-con-huachicol-fiscal/",
+        "_added_at": "2026-08-14T20:46:42.166881-07:00"
+      },
       {
         "title": "Confirman investigación contra Marina del Pilar",
         "summary": "Se confirma proceso de investigación contra la funcionaria estatal.",
@@ -123,30 +144,23 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/180361_presentan_en_ensenada_el_comite_por_la_libertad_de_ernesto_ruffo_appel",
         "_added_at": "2026-08-14T14:32:14.127299-07:00"
-      },
-      {
-        "title": "Sheinbaum exige pruebas a EU por revocación de visa",
-        "summary": "Presidenta acusa injerencia política de Estados Unidos tras cancelación de visa a Andy López.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/sheinbaum-exige-pruebas-a-eu-y-acusa-injerencia-politica-por-revocacion-de-visa-de-andy/?utm_source=rss&utm_medium=rss&utm_campaign=sheinbaum-exige-pruebas-a-eu-y-acusa-injerencia-politica-por-revocacion-de-visa-de-andy",
-        "_added_at": "2026-08-14T12:04:27.378048-07:00"
-      },
-      {
-        "title": "Designan nueva delegada en Isla de Cedros",
-        "summary": "Norma Alicia Vélez es designada como delegada municipal en Isla de Cedros.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180358_designan_a_norma_alicia_velez_como_delegada_en_isla_de_cedros",
-        "_added_at": "2026-08-14T12:04:27.378048-07:00"
-      },
-      {
-        "title": "Sheinbaum acusa injerencia política en revocación de visa a Andy López",
-        "summary": "Presidenta exige pruebas a EUA sobre cancelación de visa a hijo de expresidente, calificando acción como persecución.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/sheinbaum-exige-pruebas-a-eu-y-acusa-injerencia-politica-por-revocacion-de-visa-de-andy/",
-        "_added_at": "2026-08-14T08:58:15.321342-07:00"
       }
     ],
     "economia": [
+      {
+        "title": "Cox Energy construirá desaladora en Rosarito en tres años",
+        "summary": "Empresa gana licitación para proyecto de agua en municipio costero de Baja California.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/cox-energy-hara-desaladora-de-rosarito-en-tres-anos/",
+        "_added_at": "2026-08-14T20:46:42.166881-07:00"
+      },
+      {
+        "title": "CFE y residenciales se reunirán por frecuentes cortes de luz",
+        "summary": "Afectados por apagones de hasta 4 horas se coordinan con compañía eléctrica en Mexicali.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/98092/Red-de-residenciales-tendr%C3%A1-reuni%C3%B3n-con-CFE-sobre-apagones",
+        "_added_at": "2026-08-14T20:46:42.166881-07:00"
+      },
       {
         "title": "Cox Energy construirá desaladora en Rosarito en tres años",
         "summary": "Empresa desarrollará planta de desalinización en municipio costero.",
@@ -202,23 +216,16 @@
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/08/eua-reinicia-inspecciones-en-michoacan-se-reanuda-exportacion-de-aguacate/",
         "_added_at": "2026-08-14T08:58:15.321342-07:00"
-      },
-      {
-        "title": "Alcaldías de BC reciben 737 millones para obra social",
-        "summary": "Municipios de Baja California obtienen recursos federales para proyectos de beneficio comunitario.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/empresarial/180335_alcaldias_de_bc_reciben_737_mdp_para_obra_social",
-        "_added_at": "2026-08-14T06:23:29.780923-07:00"
-      },
-      {
-        "title": "Reforma a ley de ingresos aprobada en San Quintín",
-        "summary": "El congreso estatal aprobó modificaciones fiscales para el municipio de San Quintín.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/San%20Quint%C3%ADn/98061/Aprueba-Congreso-reforma-a-ley-de-ingresos-se-San-Quint%C3%ADn",
-        "_added_at": "2026-08-14T00:43:14.412753-07:00"
       }
     ],
     "sociedad": [
+      {
+        "title": "Garantizan lugares a más de 5 mil jóvenes en preparatoria",
+        "summary": "Sistema educativo de Baja California asegura inscripción de estudiantes en bachillerato.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/98093/Garantizan-espacios-en-preparatoria-a-m%C3%A1s-de-5-mil-j%C3%B3venes",
+        "_added_at": "2026-08-14T20:46:42.166881-07:00"
+      },
       {
         "title": "Suscriben convenio metropolitano entre Tijuana, Tecate y Rosarito",
         "summary": "Tres municipios establecen acuerdo para elaborar plan de desarrollo conjunto.",
@@ -281,15 +288,8 @@
         "source": "El Mexicano",
         "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98050/Tijuana-requiere-renovar-su-infraestructura-h%C3%ADdrica-ante-antig%C3%BCedad-de-redes",
         "_added_at": "2026-08-14T12:04:27.378048-07:00"
-      },
-      {
-        "title": "Congreso Diocesano Guadalupano los días 15 y 16",
-        "summary": "Iglesia convoca al tercer encuentro Guadalupano en agosto próximo.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180357_invitan_al_tercer_congreso_diocesano_guadalupano_los_dias_15_y_16_de_agosto",
-        "_added_at": "2026-08-14T12:04:27.378048-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-14T18:43:03.217535-07:00"
+  "last_updated": "2026-08-14T20:46:42.166881-07:00"
 }
