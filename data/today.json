@@ -1,8 +1,29 @@
 {
   "date": "2026-08-14",
-  "run_count": 6,
+  "run_count": 7,
   "notes": {
     "seguridad": [
+      {
+        "title": "Vinculan a proceso a sicarios por atentado contra regidora de Tecate",
+        "summary": "Tres presuntos sicarios fueron vinculados a proceso por ataque contra regidora y su esposo en Tecate.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/vinculan-a-proceso-a-tres-presuntos-sicarios-por-atentado-contra-regidora-de-tecate/?utm_source=rss&utm_medium=rss&utm_campaign=vinculan-a-proceso-a-tres-presuntos-sicarios-por-atentado-contra-regidora-de-tecate",
+        "_added_at": "2026-08-14T18:43:03.217535-07:00"
+      },
+      {
+        "title": "Agente de la AEI herido en tiroteo en Tecate",
+        "summary": "Elemento de seguridad resultó lesionado tras enfrentamiento armado, fuera de peligro.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/180367_lesionan_a_un_elemento_de_la_aei_tras_tiroteo_lo_reportan_fuera_de_peligro",
+        "_added_at": "2026-08-14T18:43:03.217535-07:00"
+      },
+      {
+        "title": "Investigan muerte de menor como homicidio en Tijuana",
+        "summary": "Muerte de Eitan Neo investigada como homicidio con violencia y abuso sexual.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98097/Investigan-muerte-Eitan-Neo-como-homicidio-doloso,-v%C3%ADctima-de-violencia-y-violaci%C3%B3n-sexual-en-Tijuana",
+        "_added_at": "2026-08-14T18:43:03.217535-07:00"
+      },
       {
         "title": "Adolescente vinculado a proceso por reclutamiento criminal",
         "summary": "Autoridades procesaron a menor acusado de reclutar personas para organizaciones delictivas en Tijuana.",
@@ -51,30 +72,37 @@
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/08/esperan-estudios-de-cenapred-para-definir-obras-en-zona-de-riesgo-de-sanchez-taboada/?utm_source=rss&utm_medium=rss&utm_campaign=esperan-estudios-de-cenapred-para-definir-obras-en-zona-de-riesgo-de-sanchez-taboada",
         "_added_at": "2026-08-14T06:23:29.780923-07:00"
-      },
-      {
-        "title": "Cinco miembros de Los Rusos detenidos en Mexicali",
-        "summary": "Autoridades capturan a integrantes de la organización criminal acusados de privación de libertad.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/en-mexicali-detiene-a-cinco-integrantes-de-los-rusos-por-privar-de-la-libertad-a-un-hombre/?utm_source=rss&utm_medium=rss&utm_campaign=en-mexicali-detiene-a-cinco-integrantes-de-los-rusos-por-privar-de-la-libertad-a-un-hombre",
-        "_added_at": "2026-08-14T03:12:27.500762-07:00"
-      },
-      {
-        "title": "Identifican presuntos homicidas de familia Olivas sin detención",
-        "summary": "Autoridades localizan responsables de asesinatos pero no proceden a su captura.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/identifican-a-presuntos-asesinos-de-parientes-de-alfredo-olivas-sin-detenerlos/?utm_source=rss&utm_medium=rss&utm_campaign=identifican-a-presuntos-asesinos-de-parientes-de-alfredo-olivas-sin-detenerlos",
-        "_added_at": "2026-08-14T03:12:27.500762-07:00"
-      },
-      {
-        "title": "Cinco miembros de Los Rusos detenidos en Mexicali",
-        "summary": "Autoridades capturaron a cinco integrantes de la organización criminal acusados de privación de libertad en Mexicali.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/en-mexicali-detiene-a-cinco-integrantes-de-los-rusos-por-privar-de-la-libertad-a-un-hombre/",
-        "_added_at": "2026-08-14T00:43:14.412753-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Confirman investigación contra Marina del Pilar",
+        "summary": "Se confirma proceso de investigación contra la funcionaria estatal.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/se-confirma-investigacion-de-marina-del-pilar/?utm_source=rss&utm_medium=rss&utm_campaign=se-confirma-investigacion-de-marina-del-pilar",
+        "_added_at": "2026-08-14T18:43:03.217535-07:00"
+      },
+      {
+        "title": "PAN exige investigación contra López Beltrán por huachicol",
+        "summary": "Partido opositor demanda pesquisa sobre presuntos vínculos con defraudación fiscal.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/pan-exige-investigacion-contra-lopez-beltran-por-posibles-vinculos-con-huachicol-fiscal/?utm_source=rss&utm_medium=rss&utm_campaign=pan-exige-investigacion-contra-lopez-beltran-por-posibles-vinculos-con-huachicol-fiscal",
+        "_added_at": "2026-08-14T18:43:03.217535-07:00"
+      },
+      {
+        "title": "Regidor denuncia falta de sesiones de cabildo en Tijuana",
+        "summary": "Funcionario municipal acusa paralización de asambleas desde llegada de alcalde suplente.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180372_denuncia_regidor_falta_de_sesiones_de_cabildo_desde_la_llegada_del_alcalde_suplente",
+        "_added_at": "2026-08-14T18:43:03.217535-07:00"
+      },
+      {
+        "title": "Mónica Vega descarta licencia para candidatura municipal",
+        "summary": "Titular de transporte descarta separarse del cargo para buscar nominación electoral.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98099/M%C3%B3nica-Vega-descarta-licencia-para-buscar-candidatura;-seguir%C3%A1-al-frente-de-la-CESPT",
+        "_added_at": "2026-08-14T18:43:03.217535-07:00"
+      },
       {
         "title": "CCE pide vigilancia sobre aspirantes electorales 2027",
         "summary": "Consejo pide supervisión para evitar actos anticipados de campaña en próximas elecciones.",
@@ -116,37 +144,16 @@
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/08/sheinbaum-exige-pruebas-a-eu-y-acusa-injerencia-politica-por-revocacion-de-visa-de-andy/",
         "_added_at": "2026-08-14T08:58:15.321342-07:00"
-      },
-      {
-        "title": "Visa revocada a Andy López: disputa con Trump",
-        "summary": "Estados Unidos cancela documentos de entrada a hijo de AMLO quien cuestiona decisión.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/ee-uu-revoca-visa-a-andy-lopez-beltran-el-morenista-exige-respuestas-a-trump/?utm_source=rss&utm_medium=rss&utm_campaign=ee-uu-revoca-visa-a-andy-lopez-beltran-el-morenista-exige-respuestas-a-trump",
-        "_added_at": "2026-08-14T03:12:27.500762-07:00"
-      },
-      {
-        "title": "Maru Campos denuncia persecución política contra Ruffo",
-        "summary": "Familiares de expresidente alegan irregularidades y represión en su contra.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/maru-campos-y-familiares-de-ruffo-appel-denuncian-persecucion-politica-e-irregularidades-en-su-proceso/?utm_source=rss&utm_medium=rss&utm_campaign=maru-campos-y-familiares-de-ruffo-appel-denuncian-persecucion-politica-e-irregularidades-en-su-proceso",
-        "_added_at": "2026-08-14T03:12:27.500762-07:00"
-      },
-      {
-        "title": "Crean comité para defender libertad de Ernesto Ruffo",
-        "summary": "Ciudadanía se organiza en Tijuana para respaldar al exgobernador detenido.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98062/Anuncian-en-Tijuana-la-creaci%C3%B3n-del-Comit%C3%A9-Plural-por-la-Libertad-de-Ernesto-Ruffo",
-        "_added_at": "2026-08-14T03:12:27.500762-07:00"
-      },
-      {
-        "title": "EE.UU. revoca visa a Andy López Beltrán",
-        "summary": "Estados Unidos canceló la visa del morenista quien exigió respuestas al gobierno estadounidense.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/ee-uu-revoca-visa-a-andy-lopez-beltran-el-morenista-exige-respuestas-a-trump/",
-        "_added_at": "2026-08-14T00:43:14.412753-07:00"
       }
     ],
     "economia": [
+      {
+        "title": "Cox Energy construirá desaladora en Rosarito en tres años",
+        "summary": "Empresa desarrollará planta de desalinización en municipio costero.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/cox-energy-hara-desaladora-de-rosarito-en-tres-anos/?utm_source=rss&utm_medium=rss&utm_campaign=cox-energy-hara-desaladora-de-rosarito-en-tres-anos",
+        "_added_at": "2026-08-14T18:43:03.217535-07:00"
+      },
       {
         "title": "Tijuana destaca como centro de turismo médico regional",
         "summary": "Especialistas reconocen a ciudad como principal destino para procedimientos médicos en zona.",
@@ -209,16 +216,37 @@
         "source": "El Mexicano",
         "url": "https://el-mexicano.com.mx/Noticia/San%20Quint%C3%ADn/98061/Aprueba-Congreso-reforma-a-ley-de-ingresos-se-San-Quint%C3%ADn",
         "_added_at": "2026-08-14T00:43:14.412753-07:00"
-      },
-      {
-        "title": "Productores agrícolas exponen demandas ante estado",
-        "summary": "Agricultores presentaron solicitudes y problemas ante funcionarios estatales en reunión formal.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180326_productores_agricolas_exponen_sus_demandas_ante_funcionarios_estatales",
-        "_added_at": "2026-08-14T00:43:14.412753-07:00"
       }
     ],
     "sociedad": [
+      {
+        "title": "Suscriben convenio metropolitano entre Tijuana, Tecate y Rosarito",
+        "summary": "Tres municipios establecen acuerdo para elaborar plan de desarrollo conjunto.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/municipios/180371_suscriben_convenio_para_elaborar_plan_metropolitano_entre_tijuana_tecate_y_rosarito",
+        "_added_at": "2026-08-14T18:43:03.217535-07:00"
+      },
+      {
+        "title": "Guardia Nacional abre base operativa en Valle de las Palmas",
+        "summary": "Institución militar instala nuevo centro de operaciones en zona de Tijuana.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180366_pone_en_marcha_la_guardia_nacional_base_operativa_en_valle_de_las_palmas",
+        "_added_at": "2026-08-14T18:43:03.217535-07:00"
+      },
+      {
+        "title": "Viñedo experimental La Morita celebra cosecha con reutilización de agua",
+        "summary": "Proyecto agrícola en Tijuana destaca uso sostenible de agua tratada.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98098/Celebran-cosecha-del-vi%C3%B1edo-experimental-La-Morita;-destacan-re%C3%BAso-de-agua-tratada",
+        "_added_at": "2026-08-14T18:43:03.217535-07:00"
+      },
+      {
+        "title": "Presentan comité por libertad de Ernesto Ruffo Appel en Ensenada",
+        "summary": "Grupo activista constituido para exigir liberación de exfuncionario.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180361_presentan_en_ensenada_el_comite_por_la_libertad_de_ernesto_ruffo_appel",
+        "_added_at": "2026-08-14T18:43:03.217535-07:00"
+      },
       {
         "title": "Congreso aprueba exhorto para nueva jurisdicción sanitaria",
         "summary": "Legisladores de Mexicali aprueban iniciativa para construcción de infraestructura de salud.",
@@ -260,36 +288,8 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/180357_invitan_al_tercer_congreso_diocesano_guadalupano_los_dias_15_y_16_de_agosto",
         "_added_at": "2026-08-14T12:04:27.378048-07:00"
-      },
-      {
-        "title": "Jubilados protestan en aniversario 89 de la CFE",
-        "summary": "Pensionistas de Comisión Federal de Electricidad demandan mejoras laborales.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180352_protestan_jubilados_en_aniversario_89_de_la_cfe",
-        "_added_at": "2026-08-14T12:04:27.378048-07:00"
-      },
-      {
-        "title": "Servicios Públicos en Mexicali atiende reportes tras lluvias",
-        "summary": "Dependencia municipal retiró obstáculos y atendió 22 reportes de afectaciones por precipitaciones.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/98048/Servicios-P%C3%BAblicos-atendi%C3%B3-22-reportes-tras-lluvias-en-Mexicali",
-        "_added_at": "2026-08-14T08:58:15.321342-07:00"
-      },
-      {
-        "title": "Activista reclama demora en aprobación de Ley Amparito",
-        "summary": "Gestión ciudadana busca mayores castigos legales contra mascotas que causen muertes.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/98047/Reclama-activista-a-diputados-demora-en-aprobar-una-adici%C3%B3n-a-la-Ley-Amparito",
-        "_added_at": "2026-08-14T08:58:15.321342-07:00"
-      },
-      {
-        "title": "CENAPRED analiza riesgos en Sánchez Taboada",
-        "summary": "Autoridades evalúan deslizamientos para definir obras preventivas en zona.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/esperan-estudios-de-cenapred-para-definir-obras-en-zona-de-riesgo-de-sanchez-taboada/?utm_source=rss&utm_medium=rss&utm_campaign=esperan-estudios-de-cenapred-para-definir-obras-en-zona-de-riesgo-de-sanchez-taboada",
-        "_added_at": "2026-08-14T03:12:27.500762-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-14T14:32:14.127299-07:00"
+  "last_updated": "2026-08-14T18:43:03.217535-07:00"
 }
