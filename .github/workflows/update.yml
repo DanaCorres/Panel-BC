@@ -1,11 +1,11 @@
-name: Actualizar panel de noticias
+    name: Actualizar panel de noticias
 
 on:
   schedule:
     # Cada 3 horas, en UTC. Baja California está en UTC-7 (horario de verano)
     # o UTC-8 (horario estándar) -- ajusta las horas si quieres que coincidan
     # con momentos específicos del día local.
-    - cron: "0 */3 * * *"
+        - cron: "0 4,16,22 * * *"
   workflow_dispatch: {}  # permite correrlo manualmente desde la pestaña Actions
 
 permissions:
