@@ -1,8 +1,36 @@
 {
   "date": "2026-08-18",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Cuatro cuerpos hallados en Tijuana; piden refuerzo vigilancia",
+        "summary": "Consejo Ciudadano exige a autoridades intensificar seguridad tras hallazgo de cuatro cadáveres en la zona norte de Tijuana.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98223/Exige-Consejo-Ciudadano-de-Seguridad-reforzar-vigilancia-tras-hallazgo-de-cuatro-cuerpos-en-Tijuana",
+        "_added_at": "2026-08-18T15:29:33.715122-07:00"
+      },
+      {
+        "title": "Detienen a \"El Lalo\" por desaparición en Tijuana",
+        "summary": "Capturan a presunto delincuente relacionado con caso de persona desaparecida en la ciudad.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/98220/Cae-%22El-Lalo%22-por-la-desaparici%C3%B3n-de-una-persona-en-Tijuana",
+        "_added_at": "2026-08-18T15:29:33.715122-07:00"
+      },
+      {
+        "title": "Crimen organizado supera capacidad de autoridades locales",
+        "summary": "Analistas advierten que delincuencia organizada rebasa control de gobiernos municipales en la región.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98219/Aseguran-que-delincuencia-organizada-supera-a-autoridades-locales",
+        "_added_at": "2026-08-18T15:29:33.715122-07:00"
+      },
+      {
+        "title": "IMSS alerta sobre intentos de homicidio dentro de hospitales",
+        "summary": "Institución reporta preocupación por presuntos casos de pacientes victimados dentro de sus instalaciones en BC.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/preocupa-al-imss-que-intenten-rematar-a-pacientes-dentro-de-sus-hospitales/",
+        "_added_at": "2026-08-18T15:29:33.715122-07:00"
+      },
       {
         "title": "Cinco muertos en choque contra camión en Boulevard 2000",
         "summary": "Accidente vial fatal en Tijuana deja cinco fallecidos tras impacto contra vehículo de carga.",
@@ -34,6 +62,27 @@
     ],
     "politica": [
       {
+        "title": "García Castro renuncia para buscar coordinación de Morena Tijuana",
+        "summary": "Funcionario es primer aspirante en renunciar para contender por candidatura morenista en municipio.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98221/Jes%C3%BAs-Garc%C3%ADa-Castro%3A-primer-aspirante-en-anunciar-su-renuncia-para-buscar-la-candidatura-de-Morena-por-Tijuana",
+        "_added_at": "2026-08-18T15:29:33.715122-07:00"
+      },
+      {
+        "title": "Diana Von Borstel apuesta por experiencia hacia gubernatura",
+        "summary": "Candidata destaca su trayectoria política como fortaleza para contienda por gobierno estatal.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/diana-von-borstel-apuesta-por-experiencia-y-madurez-politica-hacia-la-gubernatura/",
+        "_added_at": "2026-08-18T15:29:33.715122-07:00"
+      },
+      {
+        "title": "Juan Manuel Martínez Verdeja encabeza Secretaría del Trabajo BC",
+        "summary": "Nuevo funcionario asume como encargado de despacho en dependencia estatal de trabajo.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180508_designan_a_juan_manuel_martinez_al_frente_de_la_secretaria_del_trabajo_de_bc",
+        "_added_at": "2026-08-18T15:29:33.715122-07:00"
+      },
+      {
         "title": "Sheinbaum rechaza críticas sobre revocación de visas",
         "summary": "Presidenta insiste en que cancelación de visas constituye injerencia en asuntos internos.",
         "source": "ZETA Tijuana",
@@ -50,6 +99,27 @@
     ],
     "economia": [
       {
+        "title": "Red de licencias falsas de alcohol aún sin sentencias",
+        "summary": "Autoridades no han condenado a operadores de esquema de permisos fraudulentos para venta de bebidas alcohólicas.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/red-de-licencias-apocrifas-de-alcohol-aun-sin-sentencias/",
+        "_added_at": "2026-08-18T15:29:33.715122-07:00"
+      },
+      {
+        "title": "Baja California arrastra diez años de rezago urbanístico",
+        "summary": "Asociación Municipal advierte sobre deficiencias acumuladas en planeación urbana estatal.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/baja-california-arrastra-casi-10-anos-de-planeacion-urbana-amu/",
+        "_added_at": "2026-08-18T15:29:33.715122-07:00"
+      },
+      {
+        "title": "Aprueban ampliación de 8 millones al Poder Judicial BC",
+        "summary": "Congreso estatal autoriza recursos adicionales para funcionamiento del sistema judicial.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180510_aprueban_ampliacion_de_8_mdp_al_poder_judicial_del_estado",
+        "_added_at": "2026-08-18T15:29:33.715122-07:00"
+      },
+      {
         "title": "Recuperación económica de 2.3% genera más informalidad laboral",
         "summary": "Crecimiento modesto en Baja California incrementa desigualdad y empleos informales.",
         "source": "ZETA Tijuana",
@@ -65,6 +135,27 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Defensa activa Plan DN-III-E en Mexicali por calor extremo",
+        "summary": "Fuerzas armadas despliegan operativo para asistencia humanitaria ante temperaturas peligrosas.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/98224/Arranca-Plan-DN-III-E-en-Mexicali-por-altas-temperaturas",
+        "_added_at": "2026-08-18T15:29:33.715122-07:00"
+      },
+      {
+        "title": "Semarnat autoriza proyecto Cerritos La L; comunidad se opone",
+        "summary": "Dependencia federal da visto bueno a desarrollo mientras residentes rechazar iniciativa.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/semarnat-autoriza-y-comunidad-rechaza-proyecto-cerritos-la-l/",
+        "_added_at": "2026-08-18T15:29:33.715122-07:00"
+      },
+      {
+        "title": "Desalojan clínica IMSS en Tecate por incendio sin heridos",
+        "summary": "Siniestro obliga evacuación de pacientes y personal de instalación hospitalaria.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180504_desalojan_clinica_del_imss_en_tecate_por_incendio_reportan_saldo_blanco",
+        "_added_at": "2026-08-18T15:29:33.715122-07:00"
+      },
       {
         "title": "Recomiendan documentar gastos de parto de hijos en EUA",
         "summary": "Orientación a familias bajacalifornianas sobre requisitos migratorios para menores nacidos al norte.",
@@ -88,5 +179,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-18T12:15:32.123482-07:00"
+  "last_updated": "2026-08-18T15:29:33.715122-07:00"
 }
