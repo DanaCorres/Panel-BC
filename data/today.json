@@ -1,197 +1,92 @@
 {
-  "date": "2026-08-15",
-  "run_count": 3,
+  "date": "2026-08-18",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Detienen a dos integrantes de Los Rusos con armas",
-        "summary": "Autoridades capturaron a dos personas ligadas a Los Rusos y aseguraron armamento y un vehículo.",
+        "title": "Cinco muertos en choque contra camión en Boulevard 2000",
+        "summary": "Accidente vial fatal en Tijuana deja cinco fallecidos tras impacto contra vehículo de carga.",
         "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/detienen-a-dos-personas-ligadas-a-los-rusos-ademas-de-armas-y-un-vehiculo/",
-        "_added_at": "2026-08-15T08:28:31.887170-07:00"
+        "url": "https://zetatijuana.com/2026/08/mueren-cinco-al-impactarse-contra-camion-en-el-boulevard-2000/",
+        "_added_at": "2026-08-18T12:15:32.123482-07:00"
       },
       {
-        "title": "Agente de seguridad resulta herido en enfrentamiento en Tecate",
-        "summary": "Un agente de la AEI fue baleado durante enfrentamiento en bulevar Defensores de Baja California.",
+        "title": "Hallazgo de cadáveres en Zona Norte tijuanense",
+        "summary": "Descubren tres cuerpos con signos de violencia en inmueble de la Zona Norte de Tijuana.",
         "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/98094/Lesionan-a-balazos-a-agente-de-la-AEI-tras-enfrentamiento-en-Tecate",
-        "_added_at": "2026-08-15T08:28:31.887170-07:00"
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/98210/Hallan-a-tres-personas-sin-vida-y-con-huellas-de-violencia-en-la-Zona-Norte",
+        "_added_at": "2026-08-18T12:15:32.123482-07:00"
       },
       {
-        "title": "Vinculan a proceso a sicarios por ataque a regidora de Tecate",
-        "summary": "Tres presuntos sicarios fueron procesados tras atentado contra funcionaria municipal y su esposo en Tecate.",
+        "title": "Recuperan 17 vehículos robados y capturan a 11 delincuentes",
+        "summary": "Operativo policial logra localizar autos con reporte de robo y asegurar a individuos con órdenes.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/180500_recuperan_17_autos_con_reporte_de_robo_y_detienen_a_11_con_ordenes_de_aprehensión",
+        "_added_at": "2026-08-18T12:15:32.123482-07:00"
+      },
+      {
+        "title": "Centro de Transferencias en Tecate se incendia por sexta ocasión",
+        "summary": "Instalación en Tecate sufre nuevo incendio, evidenciando patrón de eventos similares en el año.",
         "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/vinculan-a-proceso-a-tres-presuntos-sicarios-por-atentado-contra-regidora-de-tecate/?utm_source=rss&utm_medium=rss&utm_campaign=vinculan-a-proceso-a-tres-presuntos-sicarios-por-atentado-contra-regidora-de-tecate",
-        "_added_at": "2026-08-15T05:52:04.292382-07:00"
-      },
-      {
-        "title": "Detienen a dos presuntos integrantes de Los Rusos",
-        "summary": "Capturan a dos personas ligadas a grupo criminal; se aseguran armas y vehículo en operativo.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/detienen-a-dos-personas-ligadas-a-los-rusos-ademas-de-armas-y-un-vehiculo/?utm_source=rss&utm_medium=rss&utm_campaign=detienen-a-dos-personas-ligadas-a-los-rusos-ademas-de-armas-y-un-vehiculo",
-        "_added_at": "2026-08-15T02:33:07.965078-07:00"
-      },
-      {
-        "title": "Vinculan a proceso a sicarios por atentado en Tecate",
-        "summary": "Juez vincula a proceso a cuatro sospechosos por ataque a regidora y su esposo en Tecate.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/180369_vinculan_a_proceso_a_cuatro_mas_por_ataque_a_regidora_y_su_esposo_en_tecate",
-        "_added_at": "2026-08-15T02:33:07.965078-07:00"
-      },
-      {
-        "title": "Elemento AEI herido en tiroteo en Tecate",
-        "summary": "Agente de Aduanas e Inmigración resulta lesionado durante enfrentamiento armado.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/180367_lesionan_a_un_elemento_de_la_aei_en_tiroteo_lo_reportan_fuera_de_peligro",
-        "_added_at": "2026-08-15T02:33:07.965078-07:00"
-      },
-      {
-        "title": "Choque vehicular deja heridos en Tijuana",
-        "summary": "Automovilista baleado embiste a su agresor; ambos resultan con lesiones en incidente.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/180378_automovilista_baleado_embistio_a_su_presunto_agresor_ambos_resultan_heridos",
-        "_added_at": "2026-08-15T02:33:07.965078-07:00"
+        "url": "https://zetatijuana.com/2026/08/por-sexta-vez-en-el-ano-se-incendia-centro-de-transferencias-en-tecate/",
+        "_added_at": "2026-08-18T12:15:32.123482-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Comité exige justicia por Ernesto Ruffo como preso político",
-        "summary": "Grupo plural cataloga al ex gobernador como preso político y demanda su libertad y justicia.",
+        "title": "Sheinbaum rechaza críticas sobre revocación de visas",
+        "summary": "Presidenta insiste en que cancelación de visas constituye injerencia en asuntos internos.",
         "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/comite-plural-por-la-libertad-de-ernesto-ruffo-exige-justicia-y-cataloga-al-ex-gobernador-como-preso-politico/",
-        "_added_at": "2026-08-15T08:28:31.887170-07:00"
+        "url": "https://zetatijuana.com/2026/08/revocacion-de-visas-es-injerencia-insiste-sheinbaum/",
+        "_added_at": "2026-08-18T12:15:32.123482-07:00"
       },
       {
-        "title": "Se confirma investigación contra Marina del Pilar",
-        "summary": "Autoridades confirman investigación en contra de la gobernadora de Baja California.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/se-confirma-investigacion-de-marina-del-pilar/",
-        "_added_at": "2026-08-15T08:28:31.887170-07:00"
-      },
-      {
-        "title": "Gobernadores de Morena denuncian presiones y amenazas",
-        "summary": "Mandatarios morenistas reportan campañas de desinformación y presiones políticas.",
+        "title": "Gobierno detiene alusiones públicas a periodistas en conferencias",
+        "summary": "Administración modifica estrategia de comunicación para evitar mencionamientos directos a comunicadores.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180377_gobernadores_de_morena_denuncian_presiones_amenazas_y_campanas_de_desinformacion",
-        "_added_at": "2026-08-15T08:28:31.887170-07:00"
-      },
-      {
-        "title": "Regidor denuncia falta de sesiones de cabildo en Tijuana",
-        "summary": "Funcionario municipal critica inactividad legislativa desde llegada del alcalde suplente a la administración.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180372_denuncia_regidor_falta_de_sesiones_de_cabildo_desde_la_llegada_del_alcalde_suplente",
-        "_added_at": "2026-08-15T05:52:04.292382-07:00"
-      },
-      {
-        "title": "Comité exige libertad de Ernesto Ruffo",
-        "summary": "Organizaciones catalogan al ex gobernador como preso político y demandan su liberación.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/comite-plural-por-la-libertad-de-ernesto-ruffo-exige-justicia-y-cataloga-al-ex-gobernador-como-preso-politico/?utm_source=rss&utm_medium=rss&utm_campaign=comite-plural-por-la-libertad-de-ernesto-ruffo-exige-justicia-y-cataloga-al-ex-gobernador-como-preso-politico",
-        "_added_at": "2026-08-15T02:33:07.965078-07:00"
-      },
-      {
-        "title": "Se confirma investigación contra Marina del Pilar",
-        "summary": "Autoridades confirman proceso de investigación en contra de la gobernadora de Baja California.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/se-confirma-investigacion-de-marina-del-pilar/?utm_source=rss&utm_medium=rss&utm_campaign=se-confirma-investigacion-de-marina-del-pilar",
-        "_added_at": "2026-08-15T02:33:07.965078-07:00"
-      },
-      {
-        "title": "Acuerdo metropolitano entre tres municipios",
-        "summary": "Tijuana, Tecate y Rosarito suscriben convenio para elaborar plan de desarrollo conjunto.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/municipios/180371_suscriben_convenio_para_elaborar_plan_metropolitano_entre_tijuana_tecate_y_rosarito",
-        "_added_at": "2026-08-15T02:33:07.965078-07:00"
-      },
-      {
-        "title": "PAN pide investigación a Andy López Beltrán",
-        "summary": "Partido solicita que FGR cite e investigue al hijo de AMLO por presuntos vínculos ilícitos.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180370_pide_el_pan_a_la_fgr_citar_e_investigar_a_andy_lopez_beltran",
-        "_added_at": "2026-08-15T02:33:07.965078-07:00"
+        "url": "https://www.afntijuana.info/nacionales/180499_recula_sheinbaum_ya_no_aludiran_a_periodistas_de_manera_oficial",
+        "_added_at": "2026-08-18T12:15:32.123482-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Cox Energy construirá desaladora de Rosarito en tres años",
-        "summary": "Empresa gana licitación para construir planta desaladora en municipio de Rosarito.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Rosarito/98104/Cox-Energy-gana-licitaci%C3%B3n-para-construir-la-desaladora-de-Rosarito",
-        "_added_at": "2026-08-15T08:28:31.887170-07:00"
-      },
-      {
-        "title": "Inflación en construcción acelera 4.47% en Tijuana durante julio",
-        "summary": "Índice de precios de materiales para constructores en Tijuana registra alza significativa.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/empresarial/180379_acelera_4_47_inflacion_para_constructores_en_tijuana_durante_julio",
-        "_added_at": "2026-08-15T08:28:31.887170-07:00"
-      },
-      {
-        "title": "Actividades primarias en BC suben marginalmente 0.4% en julio",
-        "summary": "Sector agrícola de Baja California registra pequeño incremento en actividad económica.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/empresarial/180380_oxigeno_en_el_campo_de_bc_alza_marginal_del_0_4_en_actividades_primarias",
-        "_added_at": "2026-08-15T08:28:31.887170-07:00"
-      },
-      {
-        "title": "Cox Energy construirá desaladora en Rosarito",
-        "summary": "Empresa ganadora de licitación edificará planta desaladora en tres años.",
+        "title": "Recuperación económica de 2.3% genera más informalidad laboral",
+        "summary": "Crecimiento modesto en Baja California incrementa desigualdad y empleos informales.",
         "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/cox-energy-hara-desaladora-de-rosarito-en-tres-anos/?utm_source=rss&utm_medium=rss&utm_campaign=cox-energy-hara-desaladora-de-rosarito-en-tres-anos",
-        "_added_at": "2026-08-15T02:33:07.965078-07:00"
+        "url": "https://zetatijuana.com/2026/08/con-2-3-por-ciento-de-recuperacion-economica-aumenta-informalidad-y-desigualdad-laboral/",
+        "_added_at": "2026-08-18T12:15:32.123482-07:00"
       },
       {
-        "title": "CFE y residentes discuten sobre apagones en Mexicali",
-        "summary": "Asociaciones de vecinos se reunirán con compañía eléctrica por cortes de hasta cuatro horas.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/98092/Red-de-residenciales-tendr%C3%A1-reuni%C3%B3n-con-CFE-sobre-apagones",
-        "_added_at": "2026-08-15T02:33:07.965078-07:00"
-      },
-      {
-        "title": "Más de cien exfuncionarios judiciales sin pago",
-        "summary": "Magistrada en retiro denuncia que integrantes del Poder Judicial anterior no reciben ingresos.",
+        "title": "Afiliaciones de patrones al IMSS caen 3.16% anualmente",
+        "summary": "Registros de empleadores en Baja California presentan contracción significativa.",
         "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/mas-de-100-integrantes-de-poder-judicial-anterior-aun-no-reciben-pago-magistrada-en-retiro/?utm_source=rss&utm_medium=rss&utm_campaign=mas-de-100-integrantes-de-poder-judicial-anterior-aun-no-reciben-pago-magistrada-en-retiro",
-        "_added_at": "2026-08-15T02:33:07.965078-07:00"
+        "url": "https://zetatijuana.com/2026/08/patrones-inscritos-en-el-imss-en-baja-california-disminuyen-3-16-a-tasa-anual/",
+        "_added_at": "2026-08-18T12:15:32.123482-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Tijuana, Tecate y Rosarito elaborarán plan metropolitano conjunto",
-        "summary": "Municipios suscriben convenio para coordinar desarrollo integral y planificación territorial integrada.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/municipios/180371_suscriben_convenio_para_elaborar_plan_metropolitano_entre_tijuana_tecate_y_rosarito",
-        "_added_at": "2026-08-15T05:52:04.292382-07:00"
-      },
-      {
-        "title": "Garantizan espacios en preparatorias para jóvenes",
-        "summary": "Estado asigna más de cinco mil lugares en escuelas de educación media superior.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Estatal/98093/Garantizan-espacios-en-preparatoria-a-m%C3%A1s-de-5-mil-j%C3%B3venes",
-        "_added_at": "2026-08-15T02:33:07.965078-07:00"
-      },
-      {
-        "title": "Desalojan vivienda en zona publica de Tecate",
-        "summary": "Autoridades remueven residentes de inmueble construido sobre terreno público.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180376_desalojan_a_residentes_de_una_vivienda_fincada_en_la_via_publica_en_tecate",
-        "_added_at": "2026-08-15T02:33:07.965078-07:00"
-      },
-      {
-        "title": "Tercera edición de Congreso Diocesano Guadalupano",
-        "summary": "Iglesia anuncia tercera edición de encuentro religioso a celebrarse en Tijuana.",
+        "title": "Recomiendan documentar gastos de parto de hijos en EUA",
+        "summary": "Orientación a familias bajacalifornianas sobre requisitos migratorios para menores nacidos al norte.",
         "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/anuncian-tercer-congreso-diocesano-guadalupano-en-tijuana/?utm_source=rss&utm_medium=rss&utm_campaign=anuncian-tercer-congreso-diocesano-guadalupano-en-tijuana",
-        "_added_at": "2026-08-15T02:33:07.965078-07:00"
+        "url": "https://zetatijuana.com/2026/08/recomiendan-a-padres-con-hijos-en-eua-tener-documentos-de-que-cubrieron-gastos-del-parto/",
+        "_added_at": "2026-08-18T12:15:32.123482-07:00"
       },
       {
-        "title": "Socavón en centro de Tijuana cumple un año",
-        "summary": "Se conmemora aniversario del hundimiento en Calle 10 que afectó infraestructura urbana.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98105/Se-cumple-1-a%C3%B1o-de-socav%C3%B3n-en-la-Calle-10ma-de-Zona-Centro-de-Tijuana",
-        "_added_at": "2026-08-15T02:33:07.965078-07:00"
+        "title": "Denuncia desmonte ilegal en Reserva Biosfera El Vizcaíno",
+        "summary": "Autoridades investigan tala no autorizada de quince hectáreas en área protegida bajacaliforniana.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/denuncian-desmonte-ilegal-de-15-hectareas-en-reserva-de-la-biosfera-el-vizcaino/",
+        "_added_at": "2026-08-18T12:15:32.123482-07:00"
+      },
+      {
+        "title": "Rehabilitan cancha deportiva en Lomas Taurinas",
+        "summary": "Proyecto de infraestructura comunitaria avanza en zona tijuanense con apoyo oficial.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180502_rehabilitan_cancha_en_lomas_taurinas_con_apoyo_del_programa_mexico_bien_hecho",
+        "_added_at": "2026-08-18T12:15:32.123482-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-15T08:28:31.887170-07:00"
+  "last_updated": "2026-08-18T12:15:32.123482-07:00"
 }
