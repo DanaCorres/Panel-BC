@@ -1,8 +1,36 @@
 {
   "date": "2026-08-18",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Quinto cuerpo hallado en zona del Hipódromo",
+        "summary": "Aparece otro cadáver en Hipódromo a pesar de operativo coordinado de autoridades en Tijuana.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/pese-a-operativo-coordinado-dejan-quinto-cuerpo-en-el-hipodromo/?utm_source=rss&utm_medium=rss&utm_campaign=pese-a-operativo-coordinado-dejan-quinto-cuerpo-en-el-hipodromo",
+        "_added_at": "2026-08-18T20:15:40.084495-07:00"
+      },
+      {
+        "title": "CBP decomisa 3.5 toneladas droga en frontera julio",
+        "summary": "Aduanas estadounidenses confisca importante cantidad de estupefacientes en Baja California durante mes anterior.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/cbp-decomisa-mas-de-3-5-toneladas-de-droga-en-la-frontera-durante-julio/?utm_source=rss&utm_medium=rss&utm_campaign=cbp-decomisa-mas-de-3-5-toneladas-de-droga-en-la-frontera-durante-julio",
+        "_added_at": "2026-08-18T20:15:40.084495-07:00"
+      },
+      {
+        "title": "Residentes Hipódromo-Chapultepec viven con temor",
+        "summary": "Pobladores de zona reportan miedo tras recientes actos de violencia en Tijuana.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/180521_residentes_de_hipodromo_chapultepec_viven_con_temor_tras_recientes_hechos_violentos",
+        "_added_at": "2026-08-18T20:15:40.084495-07:00"
+      },
+      {
+        "title": "IMSS preocupado por intentos rematar pacientes",
+        "summary": "Instituto de seguridad social alerta sobre actos violentos dentro de sus hospitales en la región.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/preocupa-al-imss-que-intenten-rematar-a-pacientes-dentro-de-sus-hospitales/?utm_source=rss&utm_medium=rss&utm_campaign=preocupa-al-imss-que-intenten-rematar-a-pacientes-dentro-de-sus-hospitales",
+        "_added_at": "2026-08-18T20:15:40.084495-07:00"
+      },
       {
         "title": "Cuatro cuerpos hallados en Tijuana; piden refuerzo vigilancia",
         "summary": "Consejo Ciudadano exige a autoridades intensificar seguridad tras hallazgo de cuatro cadáveres en la zona norte de Tijuana.",
@@ -44,23 +72,30 @@
         "source": "El Mexicano",
         "url": "https://el-mexicano.com.mx/Noticia/Policiaca/98210/Hallan-a-tres-personas-sin-vida-y-con-huellas-de-violencia-en-la-Zona-Norte",
         "_added_at": "2026-08-18T12:15:32.123482-07:00"
-      },
-      {
-        "title": "Recuperan 17 vehículos robados y capturan a 11 delincuentes",
-        "summary": "Operativo policial logra localizar autos con reporte de robo y asegurar a individuos con órdenes.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/180500_recuperan_17_autos_con_reporte_de_robo_y_detienen_a_11_con_ordenes_de_aprehensión",
-        "_added_at": "2026-08-18T12:15:32.123482-07:00"
-      },
-      {
-        "title": "Centro de Transferencias en Tecate se incendia por sexta ocasión",
-        "summary": "Instalación en Tecate sufre nuevo incendio, evidenciando patrón de eventos similares en el año.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/por-sexta-vez-en-el-ano-se-incendia-centro-de-transferencias-en-tecate/",
-        "_added_at": "2026-08-18T12:15:32.123482-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "García Castro aspira coordinación Morena Tijuana",
+        "summary": "Político de origen priista busca posición en estructura de Morena en municipio de Tijuana.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180514_garcia_castro_va_por_la_coordinacion_municipal_de_morena_en_tijuana",
+        "_added_at": "2026-08-18T20:15:40.084495-07:00"
+      },
+      {
+        "title": "Morena definirá cuarto pasajero el 25 agosto",
+        "summary": "Partido guinda realizará encuesta para elegir candidato faltante en Baja California próximo.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/afn_politico/180522_para_el_25_la_definicion_de_la_encuesta_de_morena_iquien_sera_el_cuarto_pasajero",
+        "_added_at": "2026-08-18T20:15:40.084495-07:00"
+      },
+      {
+        "title": "Morenistas respaldan a Fernando Castro Trenti",
+        "summary": "Militantes cierran filas en apoyo a candidato en Baja California.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/98239/Cierran-filas-morenistas-en-respaldo-a-Fernando-Castro-Trenti",
+        "_added_at": "2026-08-18T20:15:40.084495-07:00"
+      },
       {
         "title": "García Castro renuncia para buscar coordinación de Morena Tijuana",
         "summary": "Funcionario es primer aspirante en renunciar para contender por candidatura morenista en municipio.",
@@ -99,6 +134,27 @@
     ],
     "economia": [
       {
+        "title": "Ediciones Era reduce operaciones al mínimo",
+        "summary": "Editorial importante en Tijuana ajusta labores y disminuye activamente sus operaciones.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/ediciones-era-informo-que-reduce-al-minimo-sus-operaciones/?utm_source=rss&utm_medium=rss&utm_campaign=ediciones-era-informo-que-reduce-al-minimo-sus-operaciones",
+        "_added_at": "2026-08-18T20:15:40.084495-07:00"
+      },
+      {
+        "title": "BC arrastra diez años rezago planeación urbana",
+        "summary": "Asociación advierte que estado mantiene importante atraso en ordenamiento territorial.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/baja-california-arrastra-casi-10-anos-de-rezago-en-planeacion-urbana-amu/?utm_source=rss&utm_medium=rss&utm_campaign=baja-california-arrastra-casi-10-anos-de-rezago-en-planeacion-urbana-amu",
+        "_added_at": "2026-08-18T20:15:40.084495-07:00"
+      },
+      {
+        "title": "Mexicali analiza venta alcohol en cines teatros",
+        "summary": "Cabildo de Mexicali discute iniciativa para permitir bebidas alcohólicas en estos espacios.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/98226/En-an%C3%A1lisis-propuesta-para-vender-alcohol-en-cines-y-teatros",
+        "_added_at": "2026-08-18T20:15:40.084495-07:00"
+      },
+      {
         "title": "Red de licencias falsas de alcohol aún sin sentencias",
         "summary": "Autoridades no han condenado a operadores de esquema de permisos fraudulentos para venta de bebidas alcohólicas.",
         "source": "ZETA Tijuana",
@@ -135,6 +191,34 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Ensenada recibe cinco camiones recolección basura",
+        "summary": "Municipio costero obtiene nuevos vehículos para mejorar servicios de limpieza municipal.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180523_entregan_cinco_nuevos_camiones_para_recoleccion_de_basura_en_ensenada",
+        "_added_at": "2026-08-18T20:15:40.084495-07:00"
+      },
+      {
+        "title": "Reconocen medallistas Juegos Centroamericanos BC",
+        "summary": "Estado hace homenaje a deportistas que ganaron medallas en competencia internacional.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/reconoce-baja-california-a-medallistas-de-juegos-centroamericanos/?utm_source=rss&utm_medium=rss&utm_campaign=reconoce-baja-california-a-medallistas-de-juegos-centroamericanos",
+        "_added_at": "2026-08-18T20:15:40.084495-07:00"
+      },
+      {
+        "title": "Plan DN-III activado Mexicali por clima extremo",
+        "summary": "Defensa Nacional interviene en Mexicali ante altas temperaturas y emergencia climatológica.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180512_aplica_la_defensa_el_plan_dn_iii_e_por_clima_extremo_en_mexicali",
+        "_added_at": "2026-08-18T20:15:40.084495-07:00"
+      },
+      {
+        "title": "HSMT inaugura nueva área atención adultos mayores",
+        "summary": "Hospital de Tijuana abre espacio dedicado para brindar servicio especializado a tercera edad.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98238/Avanza-HSMT-en-nueva-%C3%A1rea-para-adultos-mayores",
+        "_added_at": "2026-08-18T20:15:40.084495-07:00"
+      },
       {
         "title": "Defensa activa Plan DN-III-E en Mexicali por calor extremo",
         "summary": "Fuerzas armadas despliegan operativo para asistencia humanitaria ante temperaturas peligrosas.",
@@ -179,5 +263,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-18T15:29:33.715122-07:00"
+  "last_updated": "2026-08-18T20:15:40.084495-07:00"
 }
