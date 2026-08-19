@@ -1,8 +1,36 @@
 {
   "date": "2026-08-19",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Fiscal investiga cinco cuerpos hallados en Tijuana",
+        "summary": "Autoridades localizan cinco cadáveres en Tijuana. Fiscal sugiere que víctimas fueron seleccionadas deliberadamente.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/parece-que-escogieron-a-las-victimas-fiscal-andrade-tras-los-hallazgos-de-cinco-cuerpos-en-tijuana/?utm_source=rss&utm_medium=rss&utm_campaign=parece-que-escogieron-a-las-victimas-fiscal-andrade-tras-los-hallazgos-de-cinco-cuerpos-en-tijuana",
+        "_added_at": "2026-08-19T15:29:51.741192-07:00"
+      },
+      {
+        "title": "Detienen a dos mujeres por amenazas en Playas",
+        "summary": "Autoridades capturan a dos mujeres por colocar mensajes amenazantes y cabezas de cerdo en Playas de Tijuana.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/detienen-a-dos-mujeres-por-colocar-mensajes-amenazantes-y-abandonar-cabezas-de-cerdo-en-playas-de-tijuana/?utm_source=rss&utm_medium=rss&utm_campaign=detienen-a-dos-mujeres-por-colocar-mensajes-amenazantes-y-abandonar-cabezas-de-cerdo-en-playas-de-tijuana",
+        "_added_at": "2026-08-19T15:29:51.741192-07:00"
+      },
+      {
+        "title": "Asesinan a dos personas a balazos en Ensenada",
+        "summary": "Reportan homicidios en Ensenada. Víctimas recibieron disparos en operación violenta.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/180553_asesinan_a_dos_personas_a_balazos_en_ensenada",
+        "_added_at": "2026-08-19T15:29:51.741192-07:00"
+      },
+      {
+        "title": "Arrestan individuo armado en colonia Hipódromo",
+        "summary": "Capturan a sujeto portando arma tipo fusil en Tijuana. Decomisan arma de fuego.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/180554_detienen_a_un_individuo_con_un_arma_tipo_fusil_por_la_colonia_hipodromo",
+        "_added_at": "2026-08-19T15:29:51.741192-07:00"
+      },
       {
         "title": "Hallan otro cadáver en zona del Hipódromo de Tijuana",
         "summary": "Localizan cuerpo pese a operativos policiacos intensos en la región del Hipódromo tijuanense.",
@@ -34,6 +62,34 @@
     ],
     "politica": [
       {
+        "title": "CSP no confirma investigación de EE.UU. contra Marina",
+        "summary": "Gobierno estatal no desmiente reportes sobre investigación estadounidense contra gobernadora.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/csp-no-desmiente-a-zeta-dice-no-tener-informacion-sobre-investigacion-de-ee-uu-contra-marina-del-pilar/?utm_source=rss&utm_medium=rss&utm_campaign=csp-no-desmiente-a-zeta-dice-no-tener-informacion-sobre-investigacion-de-ee-uu-contra-marina-del-pilar",
+        "_added_at": "2026-08-19T15:29:51.741192-07:00"
+      },
+      {
+        "title": "Falta acuerdo federal para publicar declaraciones",
+        "summary": "Persisten obstáculos para transparencia de declaraciones patrimoniales de funcionarios bajacalifornianos.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180558_falta_acuerdo_federal_para_publicar_declaraciones_patrimoniales_de_funcionarios_de_bc",
+        "_added_at": "2026-08-19T15:29:51.741192-07:00"
+      },
+      {
+        "title": "Morena repondrá sanción contra Julieta por TJEBC",
+        "summary": "Tribunal electoral ordena a partido reabrir procedimiento sancionador contra candidata.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180557_morena_repondra_procedimiento_sancionador_contra_julieta_por_orden_del_tjebc",
+        "_added_at": "2026-08-19T15:29:51.741192-07:00"
+      },
+      {
+        "title": "Gobernadora defiende gasto en concierto de Eden",
+        "summary": "Titular del ejecutivo justifica inversión de seis millones de pesos en evento musical.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/98268/Defiende-gobernadora-gasto-para-presentaci%C3%B3n-de-Eden-Mu%C3%B1oz",
+        "_added_at": "2026-08-19T15:29:51.741192-07:00"
+      },
+      {
         "title": "Colaboradores de FCT denuncian traición de cúpula Morena en BC",
         "summary": "Militantes reclaman trato desigual de la dirigencia estatal de Morena en Baja California.",
         "source": "ZETA Tijuana",
@@ -56,6 +112,20 @@
       }
     ],
     "economia": [
+      {
+        "title": "Aumenta 50% interés por regularización ante SAT",
+        "summary": "Contribuyentes en Baja California muestran mayor disposición a formalizarse ante autoridades tributarias.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/aumento-50-el-interes-por-regularizarse-ante-el-sat-en-baja-california/?utm_source=rss&utm_medium=rss&utm_campaign=aumento-50-el-interes-por-regularizarse-ante-el-sat-en-baja-california",
+        "_added_at": "2026-08-19T15:29:51.741192-07:00"
+      },
+      {
+        "title": "Analizarán financiamiento hotelero en foro binacional",
+        "summary": "Se desarrolla foro en Tijuana para discutir opciones de financiamiento del sector hotelero regional.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98274/Analizar%C3%A1n-financiamiento-hotelero-en-foro-binacional",
+        "_added_at": "2026-08-19T15:29:51.741192-07:00"
+      },
       {
         "title": "Máximo histórico de exportaciones en maquiladoras de Ensenada",
         "summary": "Industria maquiladora registra niveles récord de ventas al exterior desde Ensenada.",
@@ -80,6 +150,27 @@
     ],
     "sociedad": [
       {
+        "title": "Ensenada ampliará red de videovigilancia con drones",
+        "summary": "Puerto invierte en expansion de sistemas de cámaras y tecnología de vigilancia aérea.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180561_ampliara_ensenada_su_red_de_video_vigilancia_con_camaras_y_drones",
+        "_added_at": "2026-08-19T15:29:51.741192-07:00"
+      },
+      {
+        "title": "Niña de 6 años necesita cirugía para preservar vista",
+        "summary": "Menor en Tijuana requiere intervención quirúrgica urgente para evitar pérdida de visión.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98276/%E2%80%9CPapi,-no-te-veo;-mami,-no-te-veo%E2%80%9D%3A-Keren,-de-6-a%C3%B1os,-necesita-cirug%C3%ADa-para-no-perder-la-vista",
+        "_added_at": "2026-08-19T15:29:51.741192-07:00"
+      },
+      {
+        "title": "Abandonan bebé recién nacida en El Salitral",
+        "summary": "Se localiza infanta abandonada en rancho de comunidad rural tijuanense.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/180555_abandonan_a_una_bebe_recien_nacida_en_rancho_de_el_salitral",
+        "_added_at": "2026-08-19T15:29:51.741192-07:00"
+      },
+      {
         "title": "Edén Muñoz participará en festejos patrios de Mexicali",
         "summary": "Artista confirmado para participar en celebraciones independentistas en capital de BC.",
         "source": "El Mexicano",
@@ -88,5 +179,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-19T09:37:09.995747-07:00"
+  "last_updated": "2026-08-19T15:29:51.741192-07:00"
 }
