@@ -1,267 +1,92 @@
 {
-  "date": "2026-08-18",
-  "run_count": 3,
+  "date": "2026-08-19",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Quinto cuerpo hallado en zona del Hipódromo",
-        "summary": "Aparece otro cadáver en Hipódromo a pesar de operativo coordinado de autoridades en Tijuana.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/pese-a-operativo-coordinado-dejan-quinto-cuerpo-en-el-hipodromo/?utm_source=rss&utm_medium=rss&utm_campaign=pese-a-operativo-coordinado-dejan-quinto-cuerpo-en-el-hipodromo",
-        "_added_at": "2026-08-18T20:15:40.084495-07:00"
-      },
-      {
-        "title": "CBP decomisa 3.5 toneladas droga en frontera julio",
-        "summary": "Aduanas estadounidenses confisca importante cantidad de estupefacientes en Baja California durante mes anterior.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/cbp-decomisa-mas-de-3-5-toneladas-de-droga-en-la-frontera-durante-julio/?utm_source=rss&utm_medium=rss&utm_campaign=cbp-decomisa-mas-de-3-5-toneladas-de-droga-en-la-frontera-durante-julio",
-        "_added_at": "2026-08-18T20:15:40.084495-07:00"
-      },
-      {
-        "title": "Residentes Hipódromo-Chapultepec viven con temor",
-        "summary": "Pobladores de zona reportan miedo tras recientes actos de violencia en Tijuana.",
+        "title": "Hallan otro cadáver en zona del Hipódromo de Tijuana",
+        "summary": "Localizan cuerpo pese a operativos policiacos intensos en la región del Hipódromo tijuanense.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/180521_residentes_de_hipodromo_chapultepec_viven_con_temor_tras_recientes_hechos_violentos",
-        "_added_at": "2026-08-18T20:15:40.084495-07:00"
+        "url": "https://www.afntijuana.info/seguridad/180526_hallan_otro_cadaver_en_la_zona_del_hipodromo_pese_a_fuerte_operativo_policiaco",
+        "_added_at": "2026-08-19T09:37:09.995747-07:00"
       },
       {
-        "title": "IMSS preocupado por intentos rematar pacientes",
-        "summary": "Instituto de seguridad social alerta sobre actos violentos dentro de sus hospitales en la región.",
+        "title": "Hombre herido en ataque a negocio de máquinas tragamonedas",
+        "summary": "Sujeto recibe disparos en establecimiento con aparatos electrónicos en Tijuana.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/180533_hieren_a_balazos_a_un_hombre_en_negocio_con_maquinitas_tragamonedas",
+        "_added_at": "2026-08-19T09:37:09.995747-07:00"
+      },
+      {
+        "title": "CBP decomisa más de 67 millones en drogas en garitas",
+        "summary": "Aduanas decomisan narcóticos por valor superior a 67 millones durante julio en California.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/180527_cbp_decomiso_mas_de_67_mdd_en_narcoticos_durante_julio_en_garitas_de_california",
+        "_added_at": "2026-08-19T09:37:09.995747-07:00"
+      },
+      {
+        "title": "Rescatan recién nacida abandonada en tambo en Maneadero",
+        "summary": "Encuentran bebé dentro de contenedor de basura en Ensenada; rescatan con vida.",
         "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/preocupa-al-imss-que-intenten-rematar-a-pacientes-dentro-de-sus-hospitales/?utm_source=rss&utm_medium=rss&utm_campaign=preocupa-al-imss-que-intenten-rematar-a-pacientes-dentro-de-sus-hospitales",
-        "_added_at": "2026-08-18T20:15:40.084495-07:00"
-      },
-      {
-        "title": "Cuatro cuerpos hallados en Tijuana; piden refuerzo vigilancia",
-        "summary": "Consejo Ciudadano exige a autoridades intensificar seguridad tras hallazgo de cuatro cadáveres en la zona norte de Tijuana.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98223/Exige-Consejo-Ciudadano-de-Seguridad-reforzar-vigilancia-tras-hallazgo-de-cuatro-cuerpos-en-Tijuana",
-        "_added_at": "2026-08-18T15:29:33.715122-07:00"
-      },
-      {
-        "title": "Detienen a \"El Lalo\" por desaparición en Tijuana",
-        "summary": "Capturan a presunto delincuente relacionado con caso de persona desaparecida en la ciudad.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/98220/Cae-%22El-Lalo%22-por-la-desaparici%C3%B3n-de-una-persona-en-Tijuana",
-        "_added_at": "2026-08-18T15:29:33.715122-07:00"
-      },
-      {
-        "title": "Crimen organizado supera capacidad de autoridades locales",
-        "summary": "Analistas advierten que delincuencia organizada rebasa control de gobiernos municipales en la región.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98219/Aseguran-que-delincuencia-organizada-supera-a-autoridades-locales",
-        "_added_at": "2026-08-18T15:29:33.715122-07:00"
-      },
-      {
-        "title": "IMSS alerta sobre intentos de homicidio dentro de hospitales",
-        "summary": "Institución reporta preocupación por presuntos casos de pacientes victimados dentro de sus instalaciones en BC.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/preocupa-al-imss-que-intenten-rematar-a-pacientes-dentro-de-sus-hospitales/",
-        "_added_at": "2026-08-18T15:29:33.715122-07:00"
-      },
-      {
-        "title": "Cinco muertos en choque contra camión en Boulevard 2000",
-        "summary": "Accidente vial fatal en Tijuana deja cinco fallecidos tras impacto contra vehículo de carga.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/mueren-cinco-al-impactarse-contra-camion-en-el-boulevard-2000/",
-        "_added_at": "2026-08-18T12:15:32.123482-07:00"
-      },
-      {
-        "title": "Hallazgo de cadáveres en Zona Norte tijuanense",
-        "summary": "Descubren tres cuerpos con signos de violencia en inmueble de la Zona Norte de Tijuana.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/98210/Hallan-a-tres-personas-sin-vida-y-con-huellas-de-violencia-en-la-Zona-Norte",
-        "_added_at": "2026-08-18T12:15:32.123482-07:00"
+        "url": "https://zetatijuana.com/2026/08/rescatan-a-recien-nacida-dentro-de-un-tambo-de-basura-en-maneadero/",
+        "_added_at": "2026-08-19T09:37:09.995747-07:00"
       }
     ],
     "politica": [
       {
-        "title": "García Castro aspira coordinación Morena Tijuana",
-        "summary": "Político de origen priista busca posición en estructura de Morena en municipio de Tijuana.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180514_garcia_castro_va_por_la_coordinacion_municipal_de_morena_en_tijuana",
-        "_added_at": "2026-08-18T20:15:40.084495-07:00"
-      },
-      {
-        "title": "Morena definirá cuarto pasajero el 25 agosto",
-        "summary": "Partido guinda realizará encuesta para elegir candidato faltante en Baja California próximo.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/afn_politico/180522_para_el_25_la_definicion_de_la_encuesta_de_morena_iquien_sera_el_cuarto_pasajero",
-        "_added_at": "2026-08-18T20:15:40.084495-07:00"
-      },
-      {
-        "title": "Morenistas respaldan a Fernando Castro Trenti",
-        "summary": "Militantes cierran filas en apoyo a candidato en Baja California.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Estatal/98239/Cierran-filas-morenistas-en-respaldo-a-Fernando-Castro-Trenti",
-        "_added_at": "2026-08-18T20:15:40.084495-07:00"
-      },
-      {
-        "title": "García Castro renuncia para buscar coordinación de Morena Tijuana",
-        "summary": "Funcionario es primer aspirante en renunciar para contender por candidatura morenista en municipio.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98221/Jes%C3%BAs-Garc%C3%ADa-Castro%3A-primer-aspirante-en-anunciar-su-renuncia-para-buscar-la-candidatura-de-Morena-por-Tijuana",
-        "_added_at": "2026-08-18T15:29:33.715122-07:00"
-      },
-      {
-        "title": "Diana Von Borstel apuesta por experiencia hacia gubernatura",
-        "summary": "Candidata destaca su trayectoria política como fortaleza para contienda por gobierno estatal.",
+        "title": "Colaboradores de FCT denuncian traición de cúpula Morena en BC",
+        "summary": "Militantes reclaman trato desigual de la dirigencia estatal de Morena en Baja California.",
         "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/diana-von-borstel-apuesta-por-experiencia-y-madurez-politica-hacia-la-gubernatura/",
-        "_added_at": "2026-08-18T15:29:33.715122-07:00"
+        "url": "https://zetatijuana.com/2026/08/colaboradores-de-fct-se-dicen-traicionados-por-cupula-de-morena-en-bc/",
+        "_added_at": "2026-08-19T09:37:09.995747-07:00"
       },
       {
-        "title": "Juan Manuel Martínez Verdeja encabeza Secretaría del Trabajo BC",
-        "summary": "Nuevo funcionario asume como encargado de despacho en dependencia estatal de trabajo.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180508_designan_a_juan_manuel_martinez_al_frente_de_la_secretaria_del_trabajo_de_bc",
-        "_added_at": "2026-08-18T15:29:33.715122-07:00"
-      },
-      {
-        "title": "Sheinbaum rechaza críticas sobre revocación de visas",
-        "summary": "Presidenta insiste en que cancelación de visas constituye injerencia en asuntos internos.",
+        "title": "Sheinbaum niega conocer investigación contra Marina del Pilar",
+        "summary": "Presidenta asegura desconocer pesquisa de Estados Unidos contra gobernadora de BC.",
         "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/revocacion-de-visas-es-injerencia-insiste-sheinbaum/",
-        "_added_at": "2026-08-18T12:15:32.123482-07:00"
+        "url": "https://zetatijuana.com/2026/08/sheinbaum-asegura-desconocer-investigacion-contra-marina-del-pilar-por-parte-de-eu/",
+        "_added_at": "2026-08-19T09:37:09.995747-07:00"
       },
       {
-        "title": "Gobierno detiene alusiones públicas a periodistas en conferencias",
-        "summary": "Administración modifica estrategia de comunicación para evitar mencionamientos directos a comunicadores.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/nacionales/180499_recula_sheinbaum_ya_no_aludiran_a_periodistas_de_manera_oficial",
-        "_added_at": "2026-08-18T12:15:32.123482-07:00"
+        "title": "México busca sanciones penales por muertes en custodia ICE",
+        "summary": "Gobierno mexicano persigue penalizaciones por decesos de 17 nacionales bajo custodia estadounidense.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/mexico-buscara-sanciones-penales-por-muerte-de-17-mexicanos-bajo-custodia-de-ice/",
+        "_added_at": "2026-08-19T09:37:09.995747-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Ediciones Era reduce operaciones al mínimo",
-        "summary": "Editorial importante en Tijuana ajusta labores y disminuye activamente sus operaciones.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/ediciones-era-informo-que-reduce-al-minimo-sus-operaciones/?utm_source=rss&utm_medium=rss&utm_campaign=ediciones-era-informo-que-reduce-al-minimo-sus-operaciones",
-        "_added_at": "2026-08-18T20:15:40.084495-07:00"
-      },
-      {
-        "title": "BC arrastra diez años rezago planeación urbana",
-        "summary": "Asociación advierte que estado mantiene importante atraso en ordenamiento territorial.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/baja-california-arrastra-casi-10-anos-de-rezago-en-planeacion-urbana-amu/?utm_source=rss&utm_medium=rss&utm_campaign=baja-california-arrastra-casi-10-anos-de-rezago-en-planeacion-urbana-amu",
-        "_added_at": "2026-08-18T20:15:40.084495-07:00"
-      },
-      {
-        "title": "Mexicali analiza venta alcohol en cines teatros",
-        "summary": "Cabildo de Mexicali discute iniciativa para permitir bebidas alcohólicas en estos espacios.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/98226/En-an%C3%A1lisis-propuesta-para-vender-alcohol-en-cines-y-teatros",
-        "_added_at": "2026-08-18T20:15:40.084495-07:00"
-      },
-      {
-        "title": "Red de licencias falsas de alcohol aún sin sentencias",
-        "summary": "Autoridades no han condenado a operadores de esquema de permisos fraudulentos para venta de bebidas alcohólicas.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/red-de-licencias-apocrifas-de-alcohol-aun-sin-sentencias/",
-        "_added_at": "2026-08-18T15:29:33.715122-07:00"
-      },
-      {
-        "title": "Baja California arrastra diez años de rezago urbanístico",
-        "summary": "Asociación Municipal advierte sobre deficiencias acumuladas en planeación urbana estatal.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/baja-california-arrastra-casi-10-anos-de-planeacion-urbana-amu/",
-        "_added_at": "2026-08-18T15:29:33.715122-07:00"
-      },
-      {
-        "title": "Aprueban ampliación de 8 millones al Poder Judicial BC",
-        "summary": "Congreso estatal autoriza recursos adicionales para funcionamiento del sistema judicial.",
+        "title": "Máximo histórico de exportaciones en maquiladoras de Ensenada",
+        "summary": "Industria maquiladora registra niveles récord de ventas al exterior desde Ensenada.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180510_aprueban_ampliacion_de_8_mdp_al_poder_judicial_del_estado",
-        "_added_at": "2026-08-18T15:29:33.715122-07:00"
+        "url": "https://www.afntijuana.info/empresarial/180531_maximo_historico_de_exportaciones_de_maquiladoras_en_ensenada",
+        "_added_at": "2026-08-19T09:37:09.995747-07:00"
       },
       {
-        "title": "Recuperación económica de 2.3% genera más informalidad laboral",
-        "summary": "Crecimiento modesto en Baja California incrementa desigualdad y empleos informales.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/con-2-3-por-ciento-de-recuperacion-economica-aumenta-informalidad-y-desigualdad-laboral/",
-        "_added_at": "2026-08-18T12:15:32.123482-07:00"
+        "title": "Incertidumbre elimina 6,714 empleos en construcción de BC",
+        "summary": "Sector construcción pierde miles de puestos por falta de claridad en proyectos estatales.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/empresarial/180532_incertidumbre_en_proyectos_provoca_perdida_de_6_714_empleos_en_la_construccion_de_bc",
+        "_added_at": "2026-08-19T09:37:09.995747-07:00"
       },
       {
-        "title": "Afiliaciones de patrones al IMSS caen 3.16% anualmente",
-        "summary": "Registros de empleadores en Baja California presentan contracción significativa.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/patrones-inscritos-en-el-imss-en-baja-california-disminuyen-3-16-a-tasa-anual/",
-        "_added_at": "2026-08-18T12:15:32.123482-07:00"
+        "title": "Arranca cosecha de algodón en Valle de Mexicali",
+        "summary": "Comienza recolección de algodón en ciclo primavera-verano en región agrícola.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/98229/Arranca-cosecha-del-algod%C3%B3n-en-el-Valle-de-Mexicali",
+        "_added_at": "2026-08-19T09:37:09.995747-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Ensenada recibe cinco camiones recolección basura",
-        "summary": "Municipio costero obtiene nuevos vehículos para mejorar servicios de limpieza municipal.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180523_entregan_cinco_nuevos_camiones_para_recoleccion_de_basura_en_ensenada",
-        "_added_at": "2026-08-18T20:15:40.084495-07:00"
-      },
-      {
-        "title": "Reconocen medallistas Juegos Centroamericanos BC",
-        "summary": "Estado hace homenaje a deportistas que ganaron medallas en competencia internacional.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/reconoce-baja-california-a-medallistas-de-juegos-centroamericanos/?utm_source=rss&utm_medium=rss&utm_campaign=reconoce-baja-california-a-medallistas-de-juegos-centroamericanos",
-        "_added_at": "2026-08-18T20:15:40.084495-07:00"
-      },
-      {
-        "title": "Plan DN-III activado Mexicali por clima extremo",
-        "summary": "Defensa Nacional interviene en Mexicali ante altas temperaturas y emergencia climatológica.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180512_aplica_la_defensa_el_plan_dn_iii_e_por_clima_extremo_en_mexicali",
-        "_added_at": "2026-08-18T20:15:40.084495-07:00"
-      },
-      {
-        "title": "HSMT inaugura nueva área atención adultos mayores",
-        "summary": "Hospital de Tijuana abre espacio dedicado para brindar servicio especializado a tercera edad.",
+        "title": "Edén Muñoz participará en festejos patrios de Mexicali",
+        "summary": "Artista confirmado para participar en celebraciones independentistas en capital de BC.",
         "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98238/Avanza-HSMT-en-nueva-%C3%A1rea-para-adultos-mayores",
-        "_added_at": "2026-08-18T20:15:40.084495-07:00"
-      },
-      {
-        "title": "Defensa activa Plan DN-III-E en Mexicali por calor extremo",
-        "summary": "Fuerzas armadas despliegan operativo para asistencia humanitaria ante temperaturas peligrosas.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/98224/Arranca-Plan-DN-III-E-en-Mexicali-por-altas-temperaturas",
-        "_added_at": "2026-08-18T15:29:33.715122-07:00"
-      },
-      {
-        "title": "Semarnat autoriza proyecto Cerritos La L; comunidad se opone",
-        "summary": "Dependencia federal da visto bueno a desarrollo mientras residentes rechazar iniciativa.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/semarnat-autoriza-y-comunidad-rechaza-proyecto-cerritos-la-l/",
-        "_added_at": "2026-08-18T15:29:33.715122-07:00"
-      },
-      {
-        "title": "Desalojan clínica IMSS en Tecate por incendio sin heridos",
-        "summary": "Siniestro obliga evacuación de pacientes y personal de instalación hospitalaria.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180504_desalojan_clinica_del_imss_en_tecate_por_incendio_reportan_saldo_blanco",
-        "_added_at": "2026-08-18T15:29:33.715122-07:00"
-      },
-      {
-        "title": "Recomiendan documentar gastos de parto de hijos en EUA",
-        "summary": "Orientación a familias bajacalifornianas sobre requisitos migratorios para menores nacidos al norte.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/recomiendan-a-padres-con-hijos-en-eua-tener-documentos-de-que-cubrieron-gastos-del-parto/",
-        "_added_at": "2026-08-18T12:15:32.123482-07:00"
-      },
-      {
-        "title": "Denuncia desmonte ilegal en Reserva Biosfera El Vizcaíno",
-        "summary": "Autoridades investigan tala no autorizada de quince hectáreas en área protegida bajacaliforniana.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/denuncian-desmonte-ilegal-de-15-hectareas-en-reserva-de-la-biosfera-el-vizcaino/",
-        "_added_at": "2026-08-18T12:15:32.123482-07:00"
-      },
-      {
-        "title": "Rehabilitan cancha deportiva en Lomas Taurinas",
-        "summary": "Proyecto de infraestructura comunitaria avanza en zona tijuanense con apoyo oficial.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180502_rehabilitan_cancha_en_lomas_taurinas_con_apoyo_del_programa_mexico_bien_hecho",
-        "_added_at": "2026-08-18T12:15:32.123482-07:00"
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/98228/Ed%C3%A9n-Mu%C3%B1oz-participar%C3%A1-en-festejos-patrios-en-Mexicali",
+        "_added_at": "2026-08-19T09:37:09.995747-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-18T20:15:40.084495-07:00"
+  "last_updated": "2026-08-19T09:37:09.995747-07:00"
 }
