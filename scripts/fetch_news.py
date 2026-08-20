@@ -16,8 +16,11 @@ de cada una, y así. Con ocho fuentes, los primeros 40 son cinco de cada una.
 """
 
 import json
+import os
 import re
-from datetime import datetime, timezone
+from datetime import date, datetime, timedelta, timezone
+from email.utils import parsedate_to_datetime
+from zoneinfo import ZoneInfo
 
 import feedparser
 import requests
@@ -49,6 +52,9 @@ HTML_SOURCES = [
 ]
 
 MAX_PER_SOURCE = 15
+
+# Baja California sí cambia de horario de verano.
+LOCAL_TZ = ZoneInfo("America/Tijuana")
 
 # Enlaces del home que no son notas. Al scrapear un menú se cuelan secciones,
 # avisos legales y llamados a suscribirse; antes daba igual porque estas
@@ -131,6 +137,100 @@ def fetch_html(source):
     return items
 
 
+# --------------------------------------------------------------------------
+# Que solo entren notas de hoy
+# --------------------------------------------------------------------------
+# Tres filtros, de más a menos confiable:
+#   1. La fecha del RSS, cuando la fuente la manda.
+#   2. La fecha metida en la URL: casi todos los medios usan /2026/08/20/ o
+#      -20-08-2026 en la dirección de sus notas.
+#   3. El historial: si una URL ya estaba en la portada en días anteriores,
+#      no es nueva hoy aunque el medio la siga mostrando.
+# Lo que no cae en ninguno de los tres se deja pasar: más vale una nota vieja
+# colada que perder una buena por falta de datos.
+
+HISTORIAL = "data/urls_vistas.json"
+DIAS_QUE_RECUERDA = 4
+
+FECHA_EN_URL = [
+    re.compile(r"/(20\d{2})/(\d{1,2})/(\d{1,2})/"),        # /2026/08/20/
+    re.compile(r"/(20\d{2})-(\d{1,2})-(\d{1,2})"),          # /2026-08-20
+    re.compile(r"[-_](\d{1,2})[-_](\d{1,2})[-_](20\d{2})"),  # -20-08-2026
+]
+
+
+def fecha_de_url(url):
+    """Fecha escrita en la dirección de la nota, o None si no trae."""
+    for i, patron in enumerate(FECHA_EN_URL):
+        m = patron.search(url or "")
+        if not m:
+            continue
+        try:
+            a, b, c = (int(x) for x in m.groups())
+            anio, mes, dia = (c, b, a) if i == 2 else (a, b, c)
+            return date(anio, mes, dia)
+        except ValueError:
+            return None
+    return None
+
+
+def fecha_de_rss(publicado):
+    """Fecha del campo published de un feed."""
+    if not publicado:
+        return None
+    try:
+        t = parsedate_to_datetime(publicado)
+        return t.astimezone(LOCAL_TZ).date()
+    except (TypeError, ValueError):
+        return None
+
+
+def cargar_historial():
+    try:
+        with open(HISTORIAL, encoding="utf-8") as f:
+            return json.load(f)
+    except (OSError, ValueError):
+        return {}
+
+
+def guardar_historial(historial, hoy):
+    """Guarda las URLs vistas y olvida las de hace más de unos días."""
+    limite = (hoy - timedelta(days=DIAS_QUE_RECUERDA)).isoformat()
+    vigentes = {u: d for u, d in historial.items() if d >= limite}
+    try:
+        os.makedirs(os.path.dirname(HISTORIAL), exist_ok=True)
+        with open(HISTORIAL, "w", encoding="utf-8") as f:
+            json.dump(vigentes, f, ensure_ascii=False, indent=1)
+    except OSError as e:
+        print(f"[aviso] no pude guardar el historial de URLs: {e}")
+
+
+def filtrar_de_hoy(items, historial, hoy):
+    """Deja solo lo que se puede dar por publicado hoy."""
+    de_hoy, viejas, sin_fecha = [], 0, 0
+    for it in items:
+        fecha = fecha_de_rss(it.get("published")) or fecha_de_url(it.get("url"))
+
+        if fecha is not None:
+            if fecha == hoy:
+                de_hoy.append(it)
+            else:
+                viejas += 1
+            continue
+
+        # Sin fecha: vale el historial. Si ya la habíamos visto otro día, fuera.
+        primera_vez = historial.get(it["url"])
+        if primera_vez and primera_vez < hoy.isoformat():
+            viejas += 1
+            continue
+        sin_fecha += 1
+        de_hoy.append(it)
+
+    print(f"  filtro de fecha: {len(de_hoy)} de hoy, {viejas} descartadas por "
+          f"viejas ({sin_fecha} pasaron sin fecha, por historial)")
+    return de_hoy
+
+
 def intercalar(por_fuente):
     """Une las listas por turnos: una nota de cada fuente, luego la siguiente.
 
@@ -154,6 +254,13 @@ def main():
         por_fuente[s["name"]] = fetch_html(s)
 
     all_items = intercalar(por_fuente)
+
+    hoy = datetime.now(LOCAL_TZ).date()
+    historial = cargar_historial()
+    all_items = filtrar_de_hoy(all_items, historial, hoy)
+    for it in all_items:
+        historial.setdefault(it["url"], hoy.isoformat())
+    guardar_historial(historial, hoy)
 
     out = {
         "generated_at": datetime.now(timezone.utc).isoformat(),
