@@ -1,8 +1,29 @@
 {
   "date": "2026-08-19",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Vinculan a proceso a atacante de yonke en Tijuana",
+        "summary": "Uno de los presuntos agresores de comercio fue procesado legalmente tras ataque.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/vinculan-a-proceso-a-uno-de-los-presuntos-atacantes-de-un-yonke-en-5-y-10/?utm_source=rss&utm_medium=rss&utm_campaign=vinculan-a-proceso-a-uno-de-los-presuntos-atacantes-de-un-yonke-en-5-y-10",
+        "_added_at": "2026-08-19T20:14:54.735526-07:00"
+      },
+      {
+        "title": "Consejo Ciudadano refuta reducción de delitos en Tecate",
+        "summary": "Autoridades locales contradicen reportes sobre disminución de criminalidad en el municipio.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180574_presidente_de_consejo_ciudadano_desmiente_supuesta_disminucion_de_delitos_en_tecate",
+        "_added_at": "2026-08-19T20:14:54.735526-07:00"
+      },
+      {
+        "title": "Decomisan cigarros de contrabando asiático en BC",
+        "summary": "Autoridades aseguran casi seis millones de unidades de cigarrillos ilegales procedentes de Asia.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180578_decomisan_casi_6_millones_de_cigarros_pirata_procedentes_de_asia",
+        "_added_at": "2026-08-19T20:14:54.735526-07:00"
+      },
       {
         "title": "Fiscal investiga cinco cuerpos hallados en Tijuana",
         "summary": "Autoridades localizan cinco cadáveres en Tijuana. Fiscal sugiere que víctimas fueron seleccionadas deliberadamente.",
@@ -51,16 +72,30 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/seguridad/180527_cbp_decomiso_mas_de_67_mdd_en_narcoticos_durante_julio_en_garitas_de_california",
         "_added_at": "2026-08-19T09:37:09.995747-07:00"
-      },
-      {
-        "title": "Rescatan recién nacida abandonada en tambo en Maneadero",
-        "summary": "Encuentran bebé dentro de contenedor de basura en Ensenada; rescatan con vida.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/rescatan-a-recien-nacida-dentro-de-un-tambo-de-basura-en-maneadero/",
-        "_added_at": "2026-08-19T09:37:09.995747-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Baja California perjudicada por políticas gubernamentales: análisis",
+        "summary": "Publicación crítica sobre daños ocasionados por administración federal en la entidad.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/baja-california-tierra-quemada-por-la-4t/?utm_source=rss&utm_medium=rss&utm_campaign=baja-california-tierra-quemada-por-la-4t",
+        "_added_at": "2026-08-19T20:14:54.735526-07:00"
+      },
+      {
+        "title": "Regidores del PAN en Mexicali piden explicaciones de seguridad",
+        "summary": "Legisladores panistas solicitan comparecencia del director de Seguridad Pública municipal.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/municipios/180581_regidores_del_pan_en_mexicali_piden_comparecencia_del_director_de_seguridad_publica",
+        "_added_at": "2026-08-19T20:14:54.735526-07:00"
+      },
+      {
+        "title": "Acuerdo federal necesario para exhibir declaraciones patrimoniales",
+        "summary": "Institución de Honestidad indica que transparencia requiere coordinación con gobierno central.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/98283/Se-requiere-acuerdo-federal-para-exhibir-declaraciones-patrimoniales%3A-Honestidad-y-funci%C3%B3n-p%C3%BAblica",
+        "_added_at": "2026-08-19T20:14:54.735526-07:00"
+      },
       {
         "title": "CSP no confirma investigación de EE.UU. contra Marina",
         "summary": "Gobierno estatal no desmiente reportes sobre investigación estadounidense contra gobernadora.",
@@ -113,6 +148,20 @@
     ],
     "economia": [
       {
+        "title": "Comercio local se fortalece en BC y Mexicali",
+        "summary": "Funcionaria Norma Bustamante reporta mejora en actividad comercial de ambas regiones.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180577_se_fortalecio_el_comercio_local_en_bc_y_mexicali_afirma_norma_bustamante",
+        "_added_at": "2026-08-19T20:14:54.735526-07:00"
+      },
+      {
+        "title": "Turismo sin cancelaciones tras violencia en Tijuana",
+        "summary": "COTUCO reporta que hechos delictivos recientes no han afectado reservaciones turísticas.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98285/Sin-cancelaciones-tur%C3%ADsticas-tras-recientes-hechos-violentos-en-Tijuana%3A-COTUCO",
+        "_added_at": "2026-08-19T20:14:54.735526-07:00"
+      },
+      {
         "title": "Aumenta 50% interés por regularización ante SAT",
         "summary": "Contribuyentes en Baja California muestran mayor disposición a formalizarse ante autoridades tributarias.",
         "source": "ZETA Tijuana",
@@ -150,6 +199,27 @@
     ],
     "sociedad": [
       {
+        "title": "Mexicali registra 33 de 35 muertes por calor en BC",
+        "summary": "Crisis de salud en ciudad fronteriza con mayoría de decesos por golpe de calor.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/salud/180572_mexicali_concentra_33_de_las_35_muertes_por_golpe_de_calor_en_la_entidad",
+        "_added_at": "2026-08-19T20:14:54.735526-07:00"
+      },
+      {
+        "title": "Familia desalojada sigue viviendo en la intemperie en Tecate",
+        "summary": "Grupo tecatense continúa sin vivienda tras desalojo, denuncian condiciones inhumanas.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180569_familia_tecatense_desalojada_sigue_viviendo_a_la_intemperie_denuncian",
+        "_added_at": "2026-08-19T20:14:54.735526-07:00"
+      },
+      {
+        "title": "Se desarrolla proyecto de memorial para desaparecidos",
+        "summary": "Iniciativa en desarrollo para honrar memoria de personas desaparecidas en Baja California.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180570_en_desarrollo_proyecto_de_memorial_en_honor_a_desaparecidos",
+        "_added_at": "2026-08-19T20:14:54.735526-07:00"
+      },
+      {
         "title": "Ensenada ampliará red de videovigilancia con drones",
         "summary": "Puerto invierte en expansion de sistemas de cámaras y tecnología de vigilancia aérea.",
         "source": "AFN Tijuana",
@@ -179,5 +249,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-19T15:29:51.741192-07:00"
+  "last_updated": "2026-08-19T20:14:54.735526-07:00"
 }
