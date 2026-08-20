@@ -2,7 +2,7 @@ name: Actualizar panel de noticias
 
 on:
   schedule:
-    # 3 veces al día: 9am, 3pm y 7:30pm hora Baja California/Sonora (UTC-7)
+    # 3 veces al día: 9am, 3pm y 7:30pm hora Sonora/Baja California (UTC-7)
     - cron: "0 16,22 * * *"
     - cron: "30 2 * * *"
   workflow_dispatch: {}  # permite correrlo manualmente desde la pestaña Actions
@@ -10,9 +10,16 @@ on:
 permissions:
   contents: write
 
+# Dos corridas a la vez acabarían peleándose por el mismo data/today.json.
+concurrency:
+  group: panel
+  cancel-in-progress: false
+
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -35,13 +42,37 @@ jobs:
 
       - name: Commit y push si hubo cambios
         run: |
-          git config user.name "panel-bc-bot"
+          git config user.name "panel-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add index.html raw_items.json data/today.json
-          if ! git diff --cached --quiet; then
-            git commit -m "Actualización automática del panel"
-            git pull --rebase origin main
-            git push
-          else
-            echo "Sin cambios que subir."
+
+          # "data" completo, no solo today.json: ahí vive también
+          # data/urls_vistas.json, el historial que permite saber si una nota
+          # ya estaba en la portada en días anteriores. Sin guardarlo, el
+          # filtro de fecha pierde su tercer criterio.
+          publicar() {
+            git add index.html raw_items.json data
+            git diff --cached --quiet && return 1
+            git commit -q -m "Actualización automática del panel"
+            return 0
+          }
+
+          if ! publicar; then
+            echo "Sin cambios."
+            exit 0
           fi
+
+          # Son archivos generados: si otra corrida publicó primero, no tiene
+          # sentido fusionar, se rehace el commit encima de lo último.
+          for intento in 1 2 3; do
+            if git push; then
+              echo "Publicado en el intento $intento."
+              exit 0
+            fi
+            echo "Otra corrida publicó primero; rehago el commit encima."
+            git fetch origin ${{ github.ref_name }}
+            git reset --soft origin/${{ github.ref_name }}
+            publicar || { echo "Nada que publicar."; exit 0; }
+          done
+
+          echo "No se pudo publicar tras tres intentos."
+          exit 1
