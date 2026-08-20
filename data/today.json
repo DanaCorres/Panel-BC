@@ -1,253 +1,120 @@
 {
-  "date": "2026-08-19",
-  "run_count": 3,
+  "date": "2026-08-20",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Vinculan a proceso a atacante de yonke en Tijuana",
-        "summary": "Uno de los presuntos agresores de comercio fue procesado legalmente tras ataque.",
+        "title": "Hallan cadáver encajuelado en Jardines de Chapultepec",
+        "summary": "Localizan cuerpo sin vida en vehículo; suman seis hallazgos similares en la zona de Tijuana.",
         "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/vinculan-a-proceso-a-uno-de-los-presuntos-atacantes-de-un-yonke-en-5-y-10/?utm_source=rss&utm_medium=rss&utm_campaign=vinculan-a-proceso-a-uno-de-los-presuntos-atacantes-de-un-yonke-en-5-y-10",
-        "_added_at": "2026-08-19T20:14:54.735526-07:00"
+        "url": "https://zetatijuana.com/2026/08/hallan-cadaver-encajuelado-en-jardines-de-chapultepec-suman-seis-en-la-zona/",
+        "_added_at": "2026-08-20T15:33:21.333563-07:00"
       },
       {
-        "title": "Consejo Ciudadano refuta reducción de delitos en Tecate",
-        "summary": "Autoridades locales contradicen reportes sobre disminución de criminalidad en el municipio.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180574_presidente_de_consejo_ciudadano_desmiente_supuesta_disminucion_de_delitos_en_tecate",
-        "_added_at": "2026-08-19T20:14:54.735526-07:00"
-      },
-      {
-        "title": "Decomisan cigarros de contrabando asiático en BC",
-        "summary": "Autoridades aseguran casi seis millones de unidades de cigarrillos ilegales procedentes de Asia.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180578_decomisan_casi_6_millones_de_cigarros_pirata_procedentes_de_asia",
-        "_added_at": "2026-08-19T20:14:54.735526-07:00"
-      },
-      {
-        "title": "Fiscal investiga cinco cuerpos hallados en Tijuana",
-        "summary": "Autoridades localizan cinco cadáveres en Tijuana. Fiscal sugiere que víctimas fueron seleccionadas deliberadamente.",
+        "title": "Decomisan 120 kilos de fentanilo en Mexicali",
+        "summary": "Operativo en Hacienda del Bosque asegura droga, armas y vehículos en Mexicali.",
         "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/parece-que-escogieron-a-las-victimas-fiscal-andrade-tras-los-hallazgos-de-cinco-cuerpos-en-tijuana/?utm_source=rss&utm_medium=rss&utm_campaign=parece-que-escogieron-a-las-victimas-fiscal-andrade-tras-los-hallazgos-de-cinco-cuerpos-en-tijuana",
-        "_added_at": "2026-08-19T15:29:51.741192-07:00"
+        "url": "https://zetatijuana.com/2026/08/518177/",
+        "_added_at": "2026-08-20T15:33:21.333563-07:00"
       },
       {
-        "title": "Detienen a dos mujeres por amenazas en Playas",
-        "summary": "Autoridades capturan a dos mujeres por colocar mensajes amenazantes y cabezas de cerdo en Playas de Tijuana.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/detienen-a-dos-mujeres-por-colocar-mensajes-amenazantes-y-abandonar-cabezas-de-cerdo-en-playas-de-tijuana/?utm_source=rss&utm_medium=rss&utm_campaign=detienen-a-dos-mujeres-por-colocar-mensajes-amenazantes-y-abandonar-cabezas-de-cerdo-en-playas-de-tijuana",
-        "_added_at": "2026-08-19T15:29:51.741192-07:00"
-      },
-      {
-        "title": "Asesinan a dos personas a balazos en Ensenada",
-        "summary": "Reportan homicidios en Ensenada. Víctimas recibieron disparos en operación violenta.",
+        "title": "Confirma Laureano guerra entre criminales en Tijuana",
+        "summary": "Autoridades reconocen enfrentamientos entre grupos delictivos en la ciudad.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/180553_asesinan_a_dos_personas_a_balazos_en_ensenada",
-        "_added_at": "2026-08-19T15:29:51.741192-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/180618_confirma_laureano_la_guerra_entre_grupos_criminales_en_tijuana",
+        "_added_at": "2026-08-20T15:33:21.333563-07:00"
       },
       {
-        "title": "Arrestan individuo armado en colonia Hipódromo",
-        "summary": "Capturan a sujeto portando arma tipo fusil en Tijuana. Decomisan arma de fuego.",
+        "title": "Sentencian a 46 años por asesinato de menor",
+        "summary": "Hombre condenado por matar a tiros a un niño en funeraria de Tijuana.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/180554_detienen_a_un_individuo_con_un_arma_tipo_fusil_por_la_colonia_hipodromo",
-        "_added_at": "2026-08-19T15:29:51.741192-07:00"
-      },
-      {
-        "title": "Hallan otro cadáver en zona del Hipódromo de Tijuana",
-        "summary": "Localizan cuerpo pese a operativos policiacos intensos en la región del Hipódromo tijuanense.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/180526_hallan_otro_cadaver_en_la_zona_del_hipodromo_pese_a_fuerte_operativo_policiaco",
-        "_added_at": "2026-08-19T09:37:09.995747-07:00"
-      },
-      {
-        "title": "Hombre herido en ataque a negocio de máquinas tragamonedas",
-        "summary": "Sujeto recibe disparos en establecimiento con aparatos electrónicos en Tijuana.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/180533_hieren_a_balazos_a_un_hombre_en_negocio_con_maquinitas_tragamonedas",
-        "_added_at": "2026-08-19T09:37:09.995747-07:00"
-      },
-      {
-        "title": "CBP decomisa más de 67 millones en drogas en garitas",
-        "summary": "Aduanas decomisan narcóticos por valor superior a 67 millones durante julio en California.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/180527_cbp_decomiso_mas_de_67_mdd_en_narcoticos_durante_julio_en_garitas_de_california",
-        "_added_at": "2026-08-19T09:37:09.995747-07:00"
+        "url": "https://www.afntijuana.info/seguridad/180611_lo_sentencian_a_46_anos_de_carcel_por_matar_a_tiros_a_un_menor_en_funeraria",
+        "_added_at": "2026-08-20T15:33:21.333563-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Baja California perjudicada por políticas gubernamentales: análisis",
-        "summary": "Publicación crítica sobre daños ocasionados por administración federal en la entidad.",
+        "title": "FGR anuncia traslado de Farías Laguna a México",
+        "summary": "Fiscal General ordena traslado de detenido a la capital del país.",
         "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/baja-california-tierra-quemada-por-la-4t/?utm_source=rss&utm_medium=rss&utm_campaign=baja-california-tierra-quemada-por-la-4t",
-        "_added_at": "2026-08-19T20:14:54.735526-07:00"
+        "url": "https://zetatijuana.com/2026/08/fgr-anuncia-traslado-de-farias-laguna-a-mexico/",
+        "_added_at": "2026-08-20T15:33:21.333563-07:00"
       },
       {
-        "title": "Regidores del PAN en Mexicali piden explicaciones de seguridad",
-        "summary": "Legisladores panistas solicitan comparecencia del director de Seguridad Pública municipal.",
+        "title": "Dagoberto Valdés nuevo secretario de Salud BC",
+        "summary": "Toma posesión nuevo titular de la dependencia en Baja California.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/dagoberto-valdes-juarez-es-nuevo-secretario-de-salud-en-baja-california/",
+        "_added_at": "2026-08-20T15:33:21.333563-07:00"
+      },
+      {
+        "title": "TEPJF ordena investigar denuncias contra Julieta",
+        "summary": "Tribunal electoral ordena al IEEBC investigar acusaciones contra funcionaria.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/municipios/180581_regidores_del_pan_en_mexicali_piden_comparecencia_del_director_de_seguridad_publica",
-        "_added_at": "2026-08-19T20:14:54.735526-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/180620_tepjf_ordena_al_ieebc_investigar_las_denuncias_contra_julieta",
+        "_added_at": "2026-08-20T15:33:21.333563-07:00"
       },
       {
-        "title": "Acuerdo federal necesario para exhibir declaraciones patrimoniales",
-        "summary": "Institución de Honestidad indica que transparencia requiere coordinación con gobierno central.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Estatal/98283/Se-requiere-acuerdo-federal-para-exhibir-declaraciones-patrimoniales%3A-Honestidad-y-funci%C3%B3n-p%C3%BAblica",
-        "_added_at": "2026-08-19T20:14:54.735526-07:00"
-      },
-      {
-        "title": "CSP no confirma investigación de EE.UU. contra Marina",
-        "summary": "Gobierno estatal no desmiente reportes sobre investigación estadounidense contra gobernadora.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/csp-no-desmiente-a-zeta-dice-no-tener-informacion-sobre-investigacion-de-ee-uu-contra-marina-del-pilar/?utm_source=rss&utm_medium=rss&utm_campaign=csp-no-desmiente-a-zeta-dice-no-tener-informacion-sobre-investigacion-de-ee-uu-contra-marina-del-pilar",
-        "_added_at": "2026-08-19T15:29:51.741192-07:00"
-      },
-      {
-        "title": "Falta acuerdo federal para publicar declaraciones",
-        "summary": "Persisten obstáculos para transparencia de declaraciones patrimoniales de funcionarios bajacalifornianos.",
+        "title": "PAN critica salida irregular de magistrada Soto",
+        "summary": "Partido cuestiona proceso acelerado de separación de funcionaria judicial.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180558_falta_acuerdo_federal_para_publicar_declaraciones_patrimoniales_de_funcionarios_de_bc",
-        "_added_at": "2026-08-19T15:29:51.741192-07:00"
-      },
-      {
-        "title": "Morena repondrá sanción contra Julieta por TJEBC",
-        "summary": "Tribunal electoral ordena a partido reabrir procedimiento sancionador contra candidata.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180557_morena_repondra_procedimiento_sancionador_contra_julieta_por_orden_del_tjebc",
-        "_added_at": "2026-08-19T15:29:51.741192-07:00"
-      },
-      {
-        "title": "Gobernadora defiende gasto en concierto de Eden",
-        "summary": "Titular del ejecutivo justifica inversión de seis millones de pesos en evento musical.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/98268/Defiende-gobernadora-gasto-para-presentaci%C3%B3n-de-Eden-Mu%C3%B1oz",
-        "_added_at": "2026-08-19T15:29:51.741192-07:00"
-      },
-      {
-        "title": "Colaboradores de FCT denuncian traición de cúpula Morena en BC",
-        "summary": "Militantes reclaman trato desigual de la dirigencia estatal de Morena en Baja California.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/colaboradores-de-fct-se-dicen-traicionados-por-cupula-de-morena-en-bc/",
-        "_added_at": "2026-08-19T09:37:09.995747-07:00"
-      },
-      {
-        "title": "Sheinbaum niega conocer investigación contra Marina del Pilar",
-        "summary": "Presidenta asegura desconocer pesquisa de Estados Unidos contra gobernadora de BC.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/sheinbaum-asegura-desconocer-investigacion-contra-marina-del-pilar-por-parte-de-eu/",
-        "_added_at": "2026-08-19T09:37:09.995747-07:00"
-      },
-      {
-        "title": "México busca sanciones penales por muertes en custodia ICE",
-        "summary": "Gobierno mexicano persigue penalizaciones por decesos de 17 nacionales bajo custodia estadounidense.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/mexico-buscara-sanciones-penales-por-muerte-de-17-mexicanos-bajo-custodia-de-ice/",
-        "_added_at": "2026-08-19T09:37:09.995747-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/180617_salida_de_la_magistrada_soto_fue_irregular_y_acelerado_considera_el_pan",
+        "_added_at": "2026-08-20T15:33:21.333563-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Comercio local se fortalece en BC y Mexicali",
-        "summary": "Funcionaria Norma Bustamante reporta mejora en actividad comercial de ambas regiones.",
+        "title": "UABC invertirá 15 millones en refrigeración Valle Palmas",
+        "summary": "Universidad destina recursos para mejorar sistemas de aire en campus Tijuana.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180577_se_fortalecio_el_comercio_local_en_bc_y_mexicali_afirma_norma_bustamante",
-        "_added_at": "2026-08-19T20:14:54.735526-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/180619_invertira_la_uabc_15_mdp_para_refrigeracion_en_el_campus_valle_de_las_palmas",
+        "_added_at": "2026-08-20T15:33:21.333563-07:00"
       },
       {
-        "title": "Turismo sin cancelaciones tras violencia en Tijuana",
-        "summary": "COTUCO reporta que hechos delictivos recientes no han afectado reservaciones turísticas.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98285/Sin-cancelaciones-tur%C3%ADsticas-tras-recientes-hechos-violentos-en-Tijuana%3A-COTUCO",
-        "_added_at": "2026-08-19T20:14:54.735526-07:00"
-      },
-      {
-        "title": "Aumenta 50% interés por regularización ante SAT",
-        "summary": "Contribuyentes en Baja California muestran mayor disposición a formalizarse ante autoridades tributarias.",
+        "title": "UABC construirá edificios gastronomía y medicina",
+        "summary": "Fondos del Sorteo 97 financiarán infraestructura académica en universidad.",
         "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/aumento-50-el-interes-por-regularizarse-ante-el-sat-en-baja-california/?utm_source=rss&utm_medium=rss&utm_campaign=aumento-50-el-interes-por-regularizarse-ante-el-sat-en-baja-california",
-        "_added_at": "2026-08-19T15:29:51.741192-07:00"
+        "url": "https://zetatijuana.com/2026/08/edificios-en-gastronomia-y-medicina-lo-que-se-lograra-con-el-sorteo-97-de-uabc/",
+        "_added_at": "2026-08-20T15:33:21.333563-07:00"
       },
       {
-        "title": "Analizarán financiamiento hotelero en foro binacional",
-        "summary": "Se desarrolla foro en Tijuana para discutir opciones de financiamiento del sector hotelero regional.",
+        "title": "Levantan trigueros plantón en Sader Mexicali",
+        "summary": "Culmina manifestación de productores agrícolas en dependencia federal.",
         "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98274/Analizar%C3%A1n-financiamiento-hotelero-en-foro-binacional",
-        "_added_at": "2026-08-19T15:29:51.741192-07:00"
-      },
-      {
-        "title": "Máximo histórico de exportaciones en maquiladoras de Ensenada",
-        "summary": "Industria maquiladora registra niveles récord de ventas al exterior desde Ensenada.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/empresarial/180531_maximo_historico_de_exportaciones_de_maquiladoras_en_ensenada",
-        "_added_at": "2026-08-19T09:37:09.995747-07:00"
-      },
-      {
-        "title": "Incertidumbre elimina 6,714 empleos en construcción de BC",
-        "summary": "Sector construcción pierde miles de puestos por falta de claridad en proyectos estatales.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/empresarial/180532_incertidumbre_en_proyectos_provoca_perdida_de_6_714_empleos_en_la_construccion_de_bc",
-        "_added_at": "2026-08-19T09:37:09.995747-07:00"
-      },
-      {
-        "title": "Arranca cosecha de algodón en Valle de Mexicali",
-        "summary": "Comienza recolección de algodón en ciclo primavera-verano en región agrícola.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/98229/Arranca-cosecha-del-algod%C3%B3n-en-el-Valle-de-Mexicali",
-        "_added_at": "2026-08-19T09:37:09.995747-07:00"
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/98337/Levantan-trigueros-plant%C3%B3n-en-Sader",
+        "_added_at": "2026-08-20T15:33:21.333563-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Mexicali registra 33 de 35 muertes por calor en BC",
-        "summary": "Crisis de salud en ciudad fronteriza con mayoría de decesos por golpe de calor.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/salud/180572_mexicali_concentra_33_de_las_35_muertes_por_golpe_de_calor_en_la_entidad",
-        "_added_at": "2026-08-19T20:14:54.735526-07:00"
+        "title": "Hospital General Tijuana sin insumos laboratorio",
+        "summary": "Centro hospitalario enfrenta escasez de materiales para pruebas diagnósticas.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/se-queda-sin-insumos-laboratorio-de-hospital-general-de-tijuana/",
+        "_added_at": "2026-08-20T15:33:21.333563-07:00"
       },
       {
-        "title": "Familia desalojada sigue viviendo en la intemperie en Tecate",
-        "summary": "Grupo tecatense continúa sin vivienda tras desalojo, denuncian condiciones inhumanas.",
+        "title": "Advierten sobre retos virales peligrosos para menores",
+        "summary": "Autoridades alerta a padres sobre desafíos en redes que arriesgan a niños.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180569_familia_tecatense_desalojada_sigue_viviendo_a_la_intemperie_denuncian",
-        "_added_at": "2026-08-19T20:14:54.735526-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/180622_advierten_a_padres_de_familia_de_retos_virales_peligrosos_para_menores",
+        "_added_at": "2026-08-20T15:33:21.333563-07:00"
       },
       {
-        "title": "Se desarrolla proyecto de memorial para desaparecidos",
-        "summary": "Iniciativa en desarrollo para honrar memoria de personas desaparecidas en Baja California.",
+        "title": "Piden identificar fuentes de incendios en edificios",
+        "summary": "Autoridades solicitan a residentes reportar riesgos de fuego en construcciones verticales.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180570_en_desarrollo_proyecto_de_memorial_en_honor_a_desaparecidos",
-        "_added_at": "2026-08-19T20:14:54.735526-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/180621_piden_identificar_fuentes_de_incendios_a_residentes_de_edificios_verticales",
+        "_added_at": "2026-08-20T15:33:21.333563-07:00"
       },
       {
-        "title": "Ensenada ampliará red de videovigilancia con drones",
-        "summary": "Puerto invierte en expansion de sistemas de cámaras y tecnología de vigilancia aérea.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180561_ampliara_ensenada_su_red_de_video_vigilancia_con_camaras_y_drones",
-        "_added_at": "2026-08-19T15:29:51.741192-07:00"
-      },
-      {
-        "title": "Niña de 6 años necesita cirugía para preservar vista",
-        "summary": "Menor en Tijuana requiere intervención quirúrgica urgente para evitar pérdida de visión.",
+        "title": "Buscan direcciones asuntos indígenas en siete municipios",
+        "summary": "Propuesta para crear instancias dedicadas a población indígena en Baja California.",
         "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98276/%E2%80%9CPapi,-no-te-veo;-mami,-no-te-veo%E2%80%9D%3A-Keren,-de-6-a%C3%B1os,-necesita-cirug%C3%ADa-para-no-perder-la-vista",
-        "_added_at": "2026-08-19T15:29:51.741192-07:00"
-      },
-      {
-        "title": "Abandonan bebé recién nacida en El Salitral",
-        "summary": "Se localiza infanta abandonada en rancho de comunidad rural tijuanense.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/180555_abandonan_a_una_bebe_recien_nacida_en_rancho_de_el_salitral",
-        "_added_at": "2026-08-19T15:29:51.741192-07:00"
-      },
-      {
-        "title": "Edén Muñoz participará en festejos patrios de Mexicali",
-        "summary": "Artista confirmado para participar en celebraciones independentistas en capital de BC.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/98228/Ed%C3%A9n-Mu%C3%B1oz-participar%C3%A1-en-festejos-patrios-en-Mexicali",
-        "_added_at": "2026-08-19T09:37:09.995747-07:00"
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/98333/Buscan-que-los-siete-municipios-de-BC-cuenten-con-direcciones-de-asuntos-ind%C3%ADgenas",
+        "_added_at": "2026-08-20T15:33:21.333563-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-19T20:14:54.735526-07:00"
+  "last_updated": "2026-08-20T15:33:21.333563-07:00"
 }
