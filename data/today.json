@@ -1,218 +1,92 @@
 {
-  "date": "2026-08-20",
-  "run_count": 2,
+  "date": "2026-08-21",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Vecinos demandan seguridad tras hallazgo de cuatro cuerpos",
-        "summary": "Habitantes de Hipódromo-Chapultepec exigen mayor vigilancia tras descubrimiento de cadáveres en la zona.",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/vecinos-de-hipodromo-chapultepec-exigen-mayor-seguridad-tras-hallazgo-de-cuatro-cuerpos/",
-        "_added_at": "2026-08-20T20:26:48.651513-07:00"
-      },
-      {
-        "title": "Localizan cadáver dentro de cajuela en Rancho Grande",
-        "summary": "Autoridades hallaron cuerpo sin vida en vehículo abandonado en zona de Tijuana.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/98328/%C3%9Altimahora%7C-Localizan-cuerpo-sin-vida-dentro-de-la-cajuela-de-un-veh%C3%ADculo-en-Rancho-Grande",
-        "_added_at": "2026-08-20T20:26:48.651513-07:00"
-      },
-      {
-        "title": "Detienen individuo con arma y dosis de cristal",
-        "summary": "Capturan a sujeto portando revólver y 96 dosis de droga cristalina en operativo.",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/detienen-a-hombre-con-arma-de-fuego-y-96-dosis-de-presunto-cristal/",
-        "_added_at": "2026-08-20T20:26:48.651513-07:00"
-      },
-      {
-        "title": "Fortalecen coordinación para búsqueda de desaparecidos",
-        "summary": "Baja California refuerza estrategias coordinadas entre instituciones para localizar personas desaparecidas.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Estatal/98344/Fortalece-BC-coordinaci%C3%B3n-para-la-b%C3%BAsqueda-de-personas-desaparecidas",
-        "_added_at": "2026-08-20T20:26:48.651513-07:00"
-      },
-      {
-        "title": "Hallan cadáver encajuelado en Jardines de Chapultepec",
-        "summary": "Localizan cuerpo sin vida en vehículo; suman seis hallazgos similares en la zona de Tijuana.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/hallan-cadaver-encajuelado-en-jardines-de-chapultepec-suman-seis-en-la-zona/",
-        "_added_at": "2026-08-20T15:33:21.333563-07:00"
-      },
-      {
-        "title": "Decomisan 120 kilos de fentanilo en Mexicali",
-        "summary": "Operativo en Hacienda del Bosque asegura droga, armas y vehículos en Mexicali.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/518177/",
-        "_added_at": "2026-08-20T15:33:21.333563-07:00"
-      },
-      {
-        "title": "Confirma Laureano guerra entre criminales en Tijuana",
-        "summary": "Autoridades reconocen enfrentamientos entre grupos delictivos en la ciudad.",
+        "title": "Taxi vuelca en Tijuana, deja varios lesionados",
+        "summary": "Accidente de taxi de ruta en bulevar Cuauhtémoc Sur reporta múltiples heridos en la ciudad.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180618_confirma_laureano_la_guerra_entre_grupos_criminales_en_tijuana",
-        "_added_at": "2026-08-20T15:33:21.333563-07:00"
+        "url": "https://www.afntijuana.info/seguridad/180640_volco_taxi_de_ruta_en_el_bulevar_cuauhtemoc_sur_hubo_7_lesionados",
+        "_added_at": "2026-08-21T09:40:44.221921-07:00"
       },
       {
-        "title": "Sentencian a 46 años por asesinato de menor",
-        "summary": "Hombre condenado por matar a tiros a un niño en funeraria de Tijuana.",
+        "title": "Detectan disputa entre grupos delictivos en Tijuana",
+        "summary": "Enfrentamiento entre bandas criminales genera refuerzo de operativos policiales en la zona.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/08/21/disputa-entre-grupos-delictivos-provoca-refuerzo-policial-en-tijuana/",
+        "_added_at": "2026-08-21T09:40:44.221921-07:00"
+      },
+      {
+        "title": "CBP retira visas a choferes mexicanos en garita",
+        "summary": "CANACAR denuncia cancelación de permisos migratorios por autoridades estadounidenses a transportistas.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/180611_lo_sentencian_a_46_anos_de_carcel_por_matar_a_tiros_a_un_menor_en_funeraria",
-        "_added_at": "2026-08-20T15:33:21.333563-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/180634_denuncia_canacar_el_retiro_de_visas_por_agentes_del_cbp_a_choferes_mexicanos",
+        "_added_at": "2026-08-21T09:40:44.221921-07:00"
       }
     ],
     "politica": [
       {
-        "title": "PRI exige sanción por promoción excedida de Marina del Pilar",
-        "summary": "Partido opositor demanda que Congreso investigue y sancione presuntas irregularidades en promoción de funcionaria.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180629_debe_congreso_sancionar_promocion_excedida_de_marina_del_pilar_advierte_el_pri",
-        "_added_at": "2026-08-20T20:26:48.651513-07:00"
-      },
-      {
-        "title": "Dagoberto Valdés asume como secretario de Salud en BC",
-        "summary": "Nuevo funcionario toma posesión del cargo en la entidad para administración sanitaria estatal.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180628_dagoberto_valdes_asumio_como_nuevo_secretario_de_salud_en_bc",
-        "_added_at": "2026-08-20T20:26:48.651513-07:00"
-      },
-      {
-        "title": "Drones comprados por gobierno anterior de Tecate no fueron entregados",
-        "summary": "Investigación revela que adquisiciones de administración previa en municipio no se materializaron.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180626_drones_presuntamente_comprados_por_el_anterior_gobierno_de_tecate_no_fueron_entregados",
-        "_added_at": "2026-08-20T20:26:48.651513-07:00"
-      },
-      {
-        "title": "FGR anuncia traslado de Farías Laguna a México",
-        "summary": "Fiscal General ordena traslado de detenido a la capital del país.",
+        "title": "México rechaza deportaciones de migrantes a terceros países",
+        "summary": "Gobierno mexicano expresa desacuerdo con política estadounidense de envío de connacionales a otros países.",
         "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/fgr-anuncia-traslado-de-farias-laguna-a-mexico/",
-        "_added_at": "2026-08-20T15:33:21.333563-07:00"
+        "url": "https://zetatijuana.com/2026/08/mexico-expresa-desacuerdo-con-eua-por-retorno-de-connacionales-a-terceros-paises/?utm_source=rss&utm_medium=rss&utm_campaign=mexico-expresa-desacuerdo-con-eua-por-retorno-de-connacionales-a-terceros-paises",
+        "_added_at": "2026-08-21T09:40:44.221921-07:00"
       },
       {
-        "title": "Dagoberto Valdés nuevo secretario de Salud BC",
-        "summary": "Toma posesión nuevo titular de la dependencia en Baja California.",
+        "title": "Rosa Icela busca austeridad presupuestal para 2027",
+        "summary": "Funcionaria pide recortes al INE y Poder Judicial para próximo ciclo presupuestario federal.",
         "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/dagoberto-valdes-juarez-es-nuevo-secretario-de-salud-en-baja-california/",
-        "_added_at": "2026-08-20T15:33:21.333563-07:00"
+        "url": "https://zetatijuana.com/2026/08/confia-rosa-icela-en-lograr-acuerdo-con-el-ine-y-poder-judicial-en-austeridad-presupuestal/?utm_source=rss&utm_medium=rss&utm_campaign=confia-rosa-icela-en-lograr-acuerdo-con-el-ine-y-poder-judicial-en-austeridad-presupuestal",
+        "_added_at": "2026-08-21T09:40:44.221921-07:00"
       },
       {
-        "title": "TEPJF ordena investigar denuncias contra Julieta",
-        "summary": "Tribunal electoral ordena al IEEBC investigar acusaciones contra funcionaria.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180620_tepjf_ordena_al_ieebc_investigar_las_denuncias_contra_julieta",
-        "_added_at": "2026-08-20T15:33:21.333563-07:00"
-      },
-      {
-        "title": "PAN critica salida irregular de magistrada Soto",
-        "summary": "Partido cuestiona proceso acelerado de separación de funcionaria judicial.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180617_salida_de_la_magistrada_soto_fue_irregular_y_acelerado_considera_el_pan",
-        "_added_at": "2026-08-20T15:33:21.333563-07:00"
+        "title": "Fin de contrato de protección para periodistas",
+        "summary": "Rosa Icela anuncia conclusión de convenio con empresa encargada de seguridad de comunicadores.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Nacional/98365/Rosa-Icela-anuncia-fin-de-contrato-con-empresa-de-protecci%C3%B3n-a-periodistas",
+        "_added_at": "2026-08-21T09:40:44.221921-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Productores de trigo reciben apoyo de mil 500 pesos por hectárea",
-        "summary": "Gobierno estatal otorga subsidios a agricultores trigueros de Baja California para fortalecer producción.",
+        "title": "Remesas en Tijuana alcanzan 435 millones en semestre",
+        "summary": "Flujo de dinero desde el extranjero hacia la ciudad suma cifra significativa en primer semestre.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180630_productores_de_trigo_de_bc_recibiran_apoyo_de_mil_500_pesos_por_hectarea",
-        "_added_at": "2026-08-20T20:26:48.651513-07:00"
+        "url": "https://www.afntijuana.info/empresarial/180635_llegan_a_tijuana_435_mdd_de_remesas_al_primer_semestre",
+        "_added_at": "2026-08-21T09:40:44.221921-07:00"
       },
       {
-        "title": "Call center en Tijuana ofrece sueldos hasta diez mil semanales",
-        "summary": "Centro de atención telefónica anuncia oportunidades laborales con remuneración competitiva en la ciudad.",
-        "source": "Yo Amo Tijuana",
-        "url": "https://amotijuana.com/call-center-en-tijuana-arranca-el-ano-con-sueldos-de-hasta-10000-semanales/",
-        "_added_at": "2026-08-20T20:26:48.651513-07:00"
-      },
-      {
-        "title": "Lanzan terrenos sin enganche cerca de Valle de Guadalupe",
-        "summary": "Desarrollador ofrece propiedades con apartado de quinientos dólares en zona de Rosarito.",
-        "source": "Yo Amo Tijuana",
-        "url": "https://amotijuana.com/lanzan-terrenos-sin-enganche-y-con-apartado-de-500-dolares-cerca-de-valle-de-guadalupe/",
-        "_added_at": "2026-08-20T20:26:48.651513-07:00"
-      },
-      {
-        "title": "UABC invertirá 15 millones en refrigeración Valle Palmas",
-        "summary": "Universidad destina recursos para mejorar sistemas de aire en campus Tijuana.",
+        "title": "Cierran comercios y servicios en Tijuana",
+        "summary": "Sector comercial y de servicios reporta cierre de negocios como tendencia en la ciudad.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180619_invertira_la_uabc_15_mdp_para_refrigeracion_en_el_campus_valle_de_las_palmas",
-        "_added_at": "2026-08-20T15:33:21.333563-07:00"
+        "url": "https://www.afntijuana.info/empresarial/180636_comercio_y_servicios_empresas_que_mas_cierran_en_tijuana",
+        "_added_at": "2026-08-21T09:40:44.221921-07:00"
       },
       {
-        "title": "UABC construirá edificios gastronomía y medicina",
-        "summary": "Fondos del Sorteo 97 financiarán infraestructura académica en universidad.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/edificios-en-gastronomia-y-medicina-lo-que-se-lograra-con-el-sorteo-97-de-uabc/",
-        "_added_at": "2026-08-20T15:33:21.333563-07:00"
+        "title": "Municipio otorga créditos a emprendedores tijuanenses",
+        "summary": "Ayuntamiento de Tijuana entrega 285 créditos para fomentar iniciativas empresariales locales.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/municipios/180633_ayuntamiento_de_tijuana_entrego_285_creditos_a_emprendedores",
+        "_added_at": "2026-08-21T09:40:44.221921-07:00"
       },
       {
-        "title": "Levantan trigueros plantón en Sader Mexicali",
-        "summary": "Culmina manifestación de productores agrícolas en dependencia federal.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/98337/Levantan-trigueros-plant%C3%B3n-en-Sader",
-        "_added_at": "2026-08-20T15:33:21.333563-07:00"
+        "title": "Pemex acumula deuda histórica con proveedores",
+        "summary": "Empresa petrolera estatal se aproxima a adeudo récord de miles de millones de dólares.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/mexico/2026/08/21/pemex-acumula-adeudos-por-21-mil-millones-de-dolares-con-proveedores-y-el-sector-advierte-que-ya-equivalen-al-85-del-rezago-que-obligo-al-gobierno-a-crear-un-programa-extraordinario-de-pagos/",
+        "_added_at": "2026-08-21T09:40:44.221921-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Exigen espacios en escuelas para niños neurodivergentes",
-        "summary": "Defensores señalan que demanda de aulas especializadas supera capacidad actual de instituciones educativas.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/08/20/exigen-espacios-en-las-escuelas-para-ninos-neurodivergentes/",
-        "_added_at": "2026-08-20T20:26:48.651513-07:00"
-      },
-      {
-        "title": "Diputada entrega tres mil mochilas a estudiantes",
-        "summary": "Legisladora Daylín García realiza distribución de útiles escolares entre niñas y niños de la región.",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/diputada-daylin-garcia-entrega-3-mil-mochilas-para-ninas-y-ninos/",
-        "_added_at": "2026-08-20T20:26:48.651513-07:00"
-      },
-      {
-        "title": "Hospital General de Tijuana sin insumos en laboratorio",
-        "summary": "Centro de salud enfrenta escasez de materiales necesarios para realizar análisis clínicos a pacientes.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/se-queda-sin-insumos-laboratorio-de-hospital-general-de-tijuana/?utm_source=rss&utm_medium=rss&utm_campaign=se-queda-sin-insumos-laboratorio-de-hospital-general-de-tijuana",
-        "_added_at": "2026-08-20T20:26:48.651513-07:00"
-      },
-      {
-        "title": "Vecinos rechazan reubicación por ampliación de zona riesgo",
-        "summary": "Habitantes de San Antonio de los Buenos se oponen a mudanza obligatoria por expansión de área peligrosa.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/vecinos-rechazan-posible-reubicacion-por-ampliacion-de-zona-de-riesgo-en-colonias-de-san-antonio-de-los-buenos/?utm_source=rss&utm_medium=rss&utm_campaign=vecinos-rechazan-posible-reubicacion-por-ampliacion-de-zona-de-riesgo-en-colonias-de-san-antonio-de-los-buenos",
-        "_added_at": "2026-08-20T20:26:48.651513-07:00"
-      },
-      {
-        "title": "Hospital General Tijuana sin insumos laboratorio",
-        "summary": "Centro hospitalario enfrenta escasez de materiales para pruebas diagnósticas.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/se-queda-sin-insumos-laboratorio-de-hospital-general-de-tijuana/",
-        "_added_at": "2026-08-20T15:33:21.333563-07:00"
-      },
-      {
-        "title": "Advierten sobre retos virales peligrosos para menores",
-        "summary": "Autoridades alerta a padres sobre desafíos en redes que arriesgan a niños.",
+        "title": "Alcalde recorre sendero seguro en Terrazas del Valle",
+        "summary": "Autoridad municipal supervisa proyecto de infraestructura segura en zona residencial de Tijuana.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180622_advierten_a_padres_de_familia_de_retos_virales_peligrosos_para_menores",
-        "_added_at": "2026-08-20T15:33:21.333563-07:00"
-      },
-      {
-        "title": "Piden identificar fuentes de incendios en edificios",
-        "summary": "Autoridades solicitan a residentes reportar riesgos de fuego en construcciones verticales.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180621_piden_identificar_fuentes_de_incendios_a_residentes_de_edificios_verticales",
-        "_added_at": "2026-08-20T15:33:21.333563-07:00"
-      },
-      {
-        "title": "Buscan direcciones asuntos indígenas en siete municipios",
-        "summary": "Propuesta para crear instancias dedicadas a población indígena en Baja California.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Estatal/98333/Buscan-que-los-siete-municipios-de-BC-cuenten-con-direcciones-de-asuntos-ind%C3%ADgenas",
-        "_added_at": "2026-08-20T15:33:21.333563-07:00"
+        "url": "https://www.afntijuana.info/municipios/180632_recorre_alcalde_el_sendero_seguro_en_terrazas_del_valle",
+        "_added_at": "2026-08-21T09:40:44.221921-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-20T20:26:48.651513-07:00"
+  "last_updated": "2026-08-21T09:40:44.221921-07:00"
 }
