@@ -1,8 +1,36 @@
 {
   "date": "2026-08-22",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Colectivos critican rezago forense y desapariciones en BC",
+        "summary": "Organizaciones sociales reclaman a la Fiscalía por acumulación de casos sin resolver y demoras en identificación de restos.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/entre-desapariciones-y-rezago-forense-colectivos-arremeten-contra-la-fiscalia-de-bc/?utm_source=rss&utm_medium=rss&utm_campaign=entre-desapariciones-y-rezago-forense-colectivos-arremeten-contra-la-fiscalia-de-bc",
+        "_added_at": "2026-08-22T15:27:32.761211-07:00"
+      },
+      {
+        "title": "Localizan vehículo calcinado en Mexicali con desaparecido",
+        "summary": "Encuentran auto quemado de persona reportada desaparecida en el Valle de Mexicali.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/localizan-vehiculo-calcinado-de-hombre-desaparecido-en-el-valle-de-mexicali/?utm_source=rss&utm_medium=rss&utm_campaign=localizan-vehiculo-calcinado-de-hombre-desaparecido-en-el-valle-de-mexicali",
+        "_added_at": "2026-08-22T15:27:32.761211-07:00"
+      },
+      {
+        "title": "Robo violento a monseñor Ackerman: vinculan a detenido",
+        "summary": "Presunto responsable del ataque y robo al religioso es procesado ante autoridades.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/vinculan-a-proceso-a-presunto-responsable-de-robo-violento-a-monsenor-eduardo-ackerman/?utm_source=rss&utm_medium=rss&utm_campaign=vinculan-a-proceso-a-presunto-responsable-de-robo-violento-a-monsenor-eduardo-ackerman",
+        "_added_at": "2026-08-22T15:27:32.761211-07:00"
+      },
+      {
+        "title": "FGR captura a \"Miguel Comando\" en Villa Fontana",
+        "summary": "Operativo federal detiene a sospechoso con cartuchos en domicilio.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/detienefgr-a-miguel-comando-en-villa-fontana-hallan-cartuchos-durante-cateo/?utm_source=rss&utm_medium=rss&utm_campaign=detienefgr-a-miguel-comando-en-villa-fontana-hallan-cartuchos-durante-cateo",
+        "_added_at": "2026-08-22T15:27:32.761211-07:00"
+      },
       {
         "title": "Homicidio en bar de Tijuana deja mujer herida",
         "summary": "Disparo en restaurante bar causa muerte de hombre y lesiones a mujer durante ataque armado.",
@@ -20,6 +48,27 @@
     ],
     "politica": [
       {
+        "title": "Retorno de Rocha Moya genera críticas políticas en BC",
+        "summary": "Gobernador de Sinaloa regresa al cargo tras 112 días; Sheinbaum cuestiona decisión.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/el-poder-sin-principios-se-vuelve-arrogancia-y-abuso-sheinbaum-tras-retorno-de-rocha-moya-al-cargo/?utm_source=rss&utm_medium=rss&utm_campaign=el-poder-sin-principios-se-vuelve-arrogancia-y-abuso-sheinbaum-tras-retorno-de-rocha-moya-al-cargo",
+        "_added_at": "2026-08-22T15:27:32.761211-07:00"
+      },
+      {
+        "title": "PRI y PAN anuncian acciones legales contra Rocha Moya",
+        "summary": "Partidos de oposición promueven juicio y demandan transparencia en investigaciones.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180703_pan_promovera_juicio_contra_rocha_y_desaparicion_de_poderes_en_sinaloa_liz_mata",
+        "_added_at": "2026-08-22T15:27:32.761211-07:00"
+      },
+      {
+        "title": "Julieta Ramírez analiza panorama legal de Baja California",
+        "summary": "Funcionaria se reúne con juristas para evaluar situación normativa estatal.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/08/22/se-reune-julieta-ramirez-con-juristas-para-analizar-el-panorama-legal-en-baja-california/",
+        "_added_at": "2026-08-22T15:27:32.761211-07:00"
+      },
+      {
         "title": "Gobernadores respaldan a Sheinbaum contra Rocha Moya",
         "summary": "Mandatarios de Morena lanzan llamado al gobernador de Sinaloa respaldando a presidenta.",
         "source": "El Mexicano",
@@ -28,6 +77,13 @@
       }
     ],
     "economia": [
+      {
+        "title": "Dólar se mantiene por debajo de 17 pesos en Tijuana",
+        "summary": "Tipo de cambio estable en casas de cambio de la frontera.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180700_sigue_el_dolar_por_debajo_de_los_17_pesos_en_casas_de_cambio_de_tijuana",
+        "_added_at": "2026-08-22T15:27:32.761211-07:00"
+      },
       {
         "title": "Tecate recibe ratificación de crédito por 160 millones",
         "summary": "HR Ratings ratifica a gobierno municipal acceso a financiamiento de ciento sesenta millones.",
@@ -45,6 +101,34 @@
     ],
     "sociedad": [
       {
+        "title": "Saturación de albergues por baja adopción de mascotas",
+        "summary": "Refugios de Tijuana enfrentan crisis de capacidad; pocos ciudadanos adoptan.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98405/Se-saturan-albergues-por-baja-adopci%C3%B3n-de-perros-y-gatos",
+        "_added_at": "2026-08-22T15:27:32.761211-07:00"
+      },
+      {
+        "title": "Mural en frontera visibiliza crisis de desaparecidos",
+        "summary": "Mujeres buscadoras pintan obra para recordar a víctimas en Playas de Tijuana.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98407/Pintan-mural-en-la-frontera-para-visibilizar-la-crisis-de-personas-desaparecidas",
+        "_added_at": "2026-08-22T15:27:32.761211-07:00"
+      },
+      {
+        "title": "Fortalecen salud comunitaria con comités ciudadanos en BC",
+        "summary": "Se crean 136 comités para mejorar atención sanitaria en comunidades locales.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/98406/Fortalecen-la-salud-comunitaria-con-136-comit%C3%A9s-ciudadanos-en-Baja-California",
+        "_added_at": "2026-08-22T15:27:32.761211-07:00"
+      },
+      {
+        "title": "Municipio entrega mil vales para uniformes escolares",
+        "summary": "Presidente municipal apoya a estudiantes de Tijuana con vestuario escolar.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98404/Entrega-presidente-municipal-mil-vales-para-uniformes-escolares",
+        "_added_at": "2026-08-22T15:27:32.761211-07:00"
+      },
+      {
         "title": "Honran memoria de dos bomberos de Tijuana",
         "summary": "Se incorporan nombres de bomberos al memorial durante celebración del Día Nacional.",
         "source": "El Mexicano",
@@ -60,5 +144,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-22T09:31:10.442085-07:00"
+  "last_updated": "2026-08-22T15:27:32.761211-07:00"
 }
