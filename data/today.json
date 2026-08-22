@@ -1,274 +1,64 @@
 {
-  "date": "2026-08-21",
-  "run_count": 3,
+  "date": "2026-08-22",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Hallan calcinada camioneta de desaparecido en Mexicali",
-        "summary": "Localizan vehículo quemado de hombre reportado como desaparecido en Mexicali.",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/localizan-calcinada-camioneta-de-hombre-desaparecido-en-mexicali/",
-        "_added_at": "2026-08-21T20:12:12.284862-07:00"
-      },
-      {
-        "title": "Identifican quinto cuerpo en caso de encajuelados",
-        "summary": "Autoridades identificaron a Jonathan, joven de 19 años buscado por su familia, como quinta víctima en operativo.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/identifican-a-quinto-encajuelado-jonathan-de-19-anos-lo-buscaba-su-familia/?utm_source=rss&utm_medium=rss&utm_campaign=identifican-a-quinto-encajuelado-jonathan-de-19-anos-lo-buscaba-su-familia",
-        "_added_at": "2026-08-21T15:30:21.424258-07:00"
-      },
-      {
-        "title": "Queman vehículo de rescatista de animales en Tijuana",
-        "summary": "Atacan y destruyen auto de activista protector de perros, quien resultó afectado por el incidente.",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/si-me-querian-dar-en-la-madre-me-la-dieron-queman-vehiculo-de-rescatista-de-perros/",
-        "_added_at": "2026-08-21T15:30:21.424258-07:00"
-      },
-      {
-        "title": "Delitos disminuyen en Rosarito durante julio",
-        "summary": "Siete de nueve indicadores delictivos registraron reducción en el municipio durante el mes.",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/disminuyen-7-de-9-indicadores-delictivos-en-rosarito-durante-julio/",
-        "_added_at": "2026-08-21T15:30:21.424258-07:00"
-      },
-      {
-        "title": "Arrestan madre por abandonar bebé en basura en Ensenada",
-        "summary": "Ejecutan orden de aprehensión contra mujer acusada de dejar infante en contenedor de basura.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/cumplimentan-orden-de-aprehension-contra-madre-que-tiro-a-bebe-en-un-bote-de-basura-en-maneadero/?utm_source=rss&utm_medium=rss&utm_campaign=cumplimentan-orden-de-aprehension-contra-madre-que-tiro-a-bebe-en-un-bote-de-basura-en-maneadero",
-        "_added_at": "2026-08-21T15:30:21.424258-07:00"
-      },
-      {
-        "title": "Taxi vuelca en Tijuana, deja varios lesionados",
-        "summary": "Accidente de taxi de ruta en bulevar Cuauhtémoc Sur reporta múltiples heridos en la ciudad.",
+        "title": "Homicidio en bar de Tijuana deja mujer herida",
+        "summary": "Disparo en restaurante bar causa muerte de hombre y lesiones a mujer durante ataque armado.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/180640_volco_taxi_de_ruta_en_el_bulevar_cuauhtemoc_sur_hubo_7_lesionados",
-        "_added_at": "2026-08-21T09:40:44.221921-07:00"
+        "url": "https://www.afntijuana.info/seguridad/180682_asesinan_a_balazos_a_un_hombre_en_un_restaurante_bar_una_mujer_resulto_lesionada",
+        "_added_at": "2026-08-22T09:31:10.442085-07:00"
       },
       {
-        "title": "Detectan disputa entre grupos delictivos en Tijuana",
-        "summary": "Enfrentamiento entre bandas criminales genera refuerzo de operativos policiales en la zona.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/08/21/disputa-entre-grupos-delictivos-provoca-refuerzo-policial-en-tijuana/",
-        "_added_at": "2026-08-21T09:40:44.221921-07:00"
-      },
-      {
-        "title": "CBP retira visas a choferes mexicanos en garita",
-        "summary": "CANACAR denuncia cancelación de permisos migratorios por autoridades estadounidenses a transportistas.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180634_denuncia_canacar_el_retiro_de_visas_por_agentes_del_cbp_a_choferes_mexicanos",
-        "_added_at": "2026-08-21T09:40:44.221921-07:00"
+        "title": "Narcomanta en Mexicali amenaza a grupo rival",
+        "summary": "Aparece manta de El Mechacorta dirigida contra Los Rusos en territorio de Mexicali.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/en-mexicali-dejan-narcomanta-amenazando-a-los-rusos-se-la-atribuye-el-mechacorta/?utm_source=rss&utm_medium=rss&utm_campaign=en-mexicali-dejan-narcomanta-amenazando-a-los-rusos-se-la-atribuye-el-mechacorta",
+        "_added_at": "2026-08-22T09:31:10.442085-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Morena distancia de Rocha por retomar gubernatura",
-        "summary": "Legisladores de Morena critican decisión de Rocha de reasumir cargo de gobernador.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/morena-se-deslinda-de-rocha-en-su-decision-de-reasumir-gubernatura/?utm_source=rss&utm_medium=rss&utm_campaign=morena-se-deslinda-de-rocha-en-su-decision-de-reasumir-gubernatura",
-        "_added_at": "2026-08-21T20:12:12.284862-07:00"
-      },
-      {
-        "title": "Segob considera regreso de Rocha asunto personal",
-        "summary": "Secretaría de Gobernación se posiciona sobre reintegración de gobernador a cargo.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/de-caracter-personal-segob-se-posiciona-sobre-reintegracion-de-rocha-moya/?utm_source=rss&utm_medium=rss&utm_campaign=de-caracter-personal-segob-se-posiciona-sobre-reintegracion-de-rocha-moya",
-        "_added_at": "2026-08-21T20:12:12.284862-07:00"
-      },
-      {
-        "title": "Teresita Balderas activa campaña por alcaldía",
-        "summary": "Candidata continúa gira de campaña para competir por puesto de alcaldesa.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/afn_politico/180674_teresita_balderas_en_plena_campana_por_la_alcaldia",
-        "_added_at": "2026-08-21T20:12:12.284862-07:00"
-      },
-      {
-        "title": "Agatón responde críticas políticas de regidora",
-        "summary": "Funcionario reacciona ante calificaciones de \"narco régimen\" dirigidas a Morena.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180676_que_se_preocupe_por_alito_responde_agaton_a_regidora_que_califico_a_morena_de_narco_regimen",
-        "_added_at": "2026-08-21T20:12:12.284862-07:00"
-      },
-      {
-        "title": "PAN rechaza gobierno de Sinaloa tras reincorporación de Rocha",
-        "summary": "Partido panista desconoce legitimidad de administración tras retorno de exgobernador investigado.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/pan-desconoce-gobierno-de-sinaloa-tras-reincorporacion-de-rocha-moya/?utm_source=rss&utm_medium=rss&utm_campaign=pan-desconoce-gobierno-de-sinaloa-tras-reincorporacion-de-rocha-moya",
-        "_added_at": "2026-08-21T15:30:21.424258-07:00"
-      },
-      {
-        "title": "Morena confirma investigaciones contra Rocha Moya",
-        "summary": "Partido morenista mantiene indagaciones en México respecto al gobernador de Sinaloa.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180667_confirma_morena_investigaciones_en_mexico_sobre_rocha_moya",
-        "_added_at": "2026-08-21T15:30:21.424258-07:00"
-      },
-      {
-        "title": "SEGOB asegura que reincorporación de Rocha fue personal",
-        "summary": "Secretaría de Gobernación sostiene que retorno del exgobernador respondió a decisión individual.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/nacionales/180662_reincorporacion_de_rocha_fue_determinacion_de_caracter_personal_segob",
-        "_added_at": "2026-08-21T15:30:21.424258-07:00"
-      },
-      {
-        "title": "Juez desestima amparo sobre restricciones a Rocha Moya",
-        "summary": "Tribunal rechaza demanda que cuestionaba limitaciones para comentar publicaciones del político.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/juez-desecha-amparo-por-restricciones-para-comentar-publicaciones-de-rocha-moya/?utm_source=rss&utm_medium=rss&utm_campaign=juez-desecha-amparo-por-restricciones-para-comentar-publicaciones-de-rocha-moya",
-        "_added_at": "2026-08-21T15:30:21.424258-07:00"
-      },
-      {
-        "title": "México rechaza deportaciones de migrantes a terceros países",
-        "summary": "Gobierno mexicano expresa desacuerdo con política estadounidense de envío de connacionales a otros países.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/mexico-expresa-desacuerdo-con-eua-por-retorno-de-connacionales-a-terceros-paises/?utm_source=rss&utm_medium=rss&utm_campaign=mexico-expresa-desacuerdo-con-eua-por-retorno-de-connacionales-a-terceros-paises",
-        "_added_at": "2026-08-21T09:40:44.221921-07:00"
-      },
-      {
-        "title": "Rosa Icela busca austeridad presupuestal para 2027",
-        "summary": "Funcionaria pide recortes al INE y Poder Judicial para próximo ciclo presupuestario federal.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/confia-rosa-icela-en-lograr-acuerdo-con-el-ine-y-poder-judicial-en-austeridad-presupuestal/?utm_source=rss&utm_medium=rss&utm_campaign=confia-rosa-icela-en-lograr-acuerdo-con-el-ine-y-poder-judicial-en-austeridad-presupuestal",
-        "_added_at": "2026-08-21T09:40:44.221921-07:00"
+        "title": "Gobernadores respaldan a Sheinbaum contra Rocha Moya",
+        "summary": "Mandatarios de Morena lanzan llamado al gobernador de Sinaloa respaldando a presidenta.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Nacional/98393/Gobernadores-de-Morena-respaldan-a-Sheinbaum-y-lanzan-llamado-a-Rocha-Moya",
+        "_added_at": "2026-08-22T09:31:10.442085-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Falta insumos en Hospital General de Tijuana",
-        "summary": "Podrían suspenderse cirugías programadas por escasez de materiales en institución.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/podrian-suspender-cirugias-programadas-en-hgt-por-falta-de-insumos/?utm_source=rss&utm_medium=rss&utm_campaign=podrian-suspender-cirugias-programadas-en-hgt-por-falta-de-insumos",
-        "_added_at": "2026-08-21T20:12:12.284862-07:00"
-      },
-      {
-        "title": "Alza de fletes encarece útiles escolares",
-        "summary": "Incremento en costos de transporte eleva precios de productos escolares en Tijuana.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/08/21/alza-en-fletes-encarece-productos-escolares-en-tijuana/",
-        "_added_at": "2026-08-21T20:12:12.284862-07:00"
-      },
-      {
-        "title": "Bono verde 1 avanza en obras hidráulicas",
-        "summary": "Secretario de Hacienda reporta 92% del fondo comprometido en proyectos de agua.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/el-92-del-bono-verde-1-ya-se-encuentra-comprometido-en-obras-hidraulicas-secretario-de-hacienda/?utm_source=rss&utm_medium=rss&utm_campaign=el-92-del-bono-verde-1-ya-se-encuentra-comprometido-en-obras-hidraulicas-secretario-de-hacienda",
-        "_added_at": "2026-08-21T20:12:12.284862-07:00"
-      },
-      {
-        "title": "UABC ofrece apoyos tras protesta estudiantil en Tijuana",
-        "summary": "Universidad anuncia medidas económicas para estudiantes con dificultades tras manifestación por restricciones.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/08/21/uabc-responde-a-protesta-de-estudiantes-y-ofrece-apoyos-economicos/",
-        "_added_at": "2026-08-21T15:30:21.424258-07:00"
-      },
-      {
-        "title": "Falta dinero para útiles escolares en Tijuana",
-        "summary": "Padres de familia enfrentan limitaciones económicas para comprar materiales de regreso a clases.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98372/Falta-de-dinero-de-padres-de-familia-frena-compras-escolares-en-Tijuana",
-        "_added_at": "2026-08-21T15:30:21.424258-07:00"
-      },
-      {
-        "title": "Profeco recomienda comprar en establecimientos autorizados",
-        "summary": "Organismo aconseja adquirir útiles escolares en comercios legales durante feria de regreso a clases.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/08/21/profeco-recomienda-comprar-utiles-escolares-en-comercios-establecidos/",
-        "_added_at": "2026-08-21T15:30:21.424258-07:00"
-      },
-      {
-        "title": "San Felipe tendrá nueva competencia de carreras en 2027",
-        "summary": "Anuncian carrera fuera de caminos NORRA 250 en municipio de Baja California para próximo año.",
+        "title": "Tecate recibe ratificación de crédito por 160 millones",
+        "summary": "HR Ratings ratifica a gobierno municipal acceso a financiamiento de ciento sesenta millones.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180663_anuncia_san_felipe_carrera_fuera_de_caminos_norra_250_2027",
-        "_added_at": "2026-08-21T15:30:21.424258-07:00"
+        "url": "https://www.afntijuana.info/empresarial/180681_hr_ratings_ratifica_a_gobierno_de_tecate_credito_por_160_mdp",
+        "_added_at": "2026-08-22T09:31:10.442085-07:00"
       },
       {
-        "title": "Remesas en Tijuana alcanzan 435 millones en semestre",
-        "summary": "Flujo de dinero desde el extranjero hacia la ciudad suma cifra significativa en primer semestre.",
+        "title": "Ensenada recibe aumento en recursos federales",
+        "summary": "Participaciones y aportaciones para Ensenada suben cuatro punto siete por ciento.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/empresarial/180635_llegan_a_tijuana_435_mdd_de_remesas_al_primer_semestre",
-        "_added_at": "2026-08-21T09:40:44.221921-07:00"
-      },
-      {
-        "title": "Cierran comercios y servicios en Tijuana",
-        "summary": "Sector comercial y de servicios reporta cierre de negocios como tendencia en la ciudad.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/empresarial/180636_comercio_y_servicios_empresas_que_mas_cierran_en_tijuana",
-        "_added_at": "2026-08-21T09:40:44.221921-07:00"
-      },
-      {
-        "title": "Municipio otorga créditos a emprendedores tijuanenses",
-        "summary": "Ayuntamiento de Tijuana entrega 285 créditos para fomentar iniciativas empresariales locales.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/municipios/180633_ayuntamiento_de_tijuana_entrego_285_creditos_a_emprendedores",
-        "_added_at": "2026-08-21T09:40:44.221921-07:00"
+        "url": "https://www.afntijuana.info/empresarial/180680_alza_del_4_7_en_aportaciones_y_participaciones_para_ensenada",
+        "_added_at": "2026-08-22T09:31:10.442085-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Mujeres buscadoras enfrentan amenazas y abandono",
-        "summary": "Amnistía Internacional denuncia falta de apoyo y riesgo para buscadoras en Tijuana.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/08/21/mujeres-buscadoras-enfrentan-falta-de-apoyo-y-amenazas-amnistia-internacional/",
-        "_added_at": "2026-08-21T20:12:12.284862-07:00"
-      },
-      {
-        "title": "Ola de calor: Tijuana alcanzará 32 grados",
-        "summary": "Temperaturas altas esperadas en próximos días en capital del estado.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/08/21/ola-de-calor-en-tijuana-temperaturas-alcanzaran-hasta-32-grados-durante-los-proximos-dias/",
-        "_added_at": "2026-08-21T20:12:12.284862-07:00"
-      },
-      {
-        "title": "Saturan centros telefónicos en Tijuana",
-        "summary": "Personas atiborran servicios de atención al cliente en múltiples centrales.",
+        "title": "Honran memoria de dos bomberos de Tijuana",
+        "summary": "Se incorporan nombres de bomberos al memorial durante celebración del Día Nacional.",
         "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98388/Personas-saturan-centros-de-atenci%C3%B3n-telef%C3%B3nica",
-        "_added_at": "2026-08-21T20:12:12.284862-07:00"
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98395/Honran-la-trayectoria-de-dos-bomberos-al-incorporar-sus-nombres-al-memorial-en-el-D%C3%ADa-Nacional-del-Bombero",
+        "_added_at": "2026-08-22T09:31:10.442085-07:00"
       },
       {
-        "title": "Vuelca taxi de ruta dejando varios heridos",
-        "summary": "Accidente de transporte público causa lesiones a múltiples pasajeros en BC.",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/vuelca-taxi-de-ruta-y-deja-varias-personas-lesionadas/",
-        "_added_at": "2026-08-21T20:12:12.284862-07:00"
-      },
-      {
-        "title": "Inicia Feria de Regreso a Clases con ofertas en Tijuana",
-        "summary": "Profeco inaugura feria de útiles escolares en Plaza Galerías Hipódromo con descuentos y promociones.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/arranca-feria-de-regreso-a-clases-profeco-2026-en-plaza-galerias-hipodromo/?utm_source=rss&utm_medium=rss&utm_medium=rss&utm_campaign=arranca-feria-de-regreso-a-clases-profeco-2026-en-plaza-galerias-hipodromo",
-        "_added_at": "2026-08-21T15:30:21.424258-07:00"
-      },
-      {
-        "title": "Promocionan venta anticipada de artículos patrios en Tecate",
-        "summary": "Vendedores ambulantes adelantan comercialización de productos para celebraciones del mes de septiembre.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180668_adelantan_ambulantes_venta_de_articulos_del_mes_patrio_en_tecate",
-        "_added_at": "2026-08-21T15:30:21.424258-07:00"
-      },
-      {
-        "title": "IMDET fortalece deporte adaptado en centros de iniciación",
-        "summary": "Instituto municipal impulsa actividades para personas con discapacidad en centros de desarrollo deportivo.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/imdet-fortalece-el-deporte-adaptado-en-los-centros-de-iniciacion-y-desarrollo-deportivo/?utm_source=rss&utm_medium=rss&utm_campaign=imdet-fortalece-el-deporte-adaptado-en-los-centros-de-iniciacion-y-desarrollo-deportivo",
-        "_added_at": "2026-08-21T15:30:21.424258-07:00"
-      },
-      {
-        "title": "Denuncian explotación infantil en calles de Ensenada",
-        "summary": "Reportan que menores son obligados a pedir dinero a turistas en zona costera del estado.",
+        "title": "Estado otorga estímulos a cuerpos de bomberos",
+        "summary": "Gobierno estatal entrega reconocimientos económicos a elementos del cuerpo de bomberos.",
         "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/ensenada/2026/08/21/denuncian-explotacion-de-ninos-que-piden-dinero-a-turistas-en-ensenada/",
-        "_added_at": "2026-08-21T15:30:21.424258-07:00"
-      },
-      {
-        "title": "Alcalde recorre sendero seguro en Terrazas del Valle",
-        "summary": "Autoridad municipal supervisa proyecto de infraestructura segura en zona residencial de Tijuana.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/municipios/180632_recorre_alcalde_el_sendero_seguro_en_terrazas_del_valle",
-        "_added_at": "2026-08-21T09:40:44.221921-07:00"
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/08/22/otorga-estado-estimulos-a-bomberos/",
+        "_added_at": "2026-08-22T09:31:10.442085-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-21T20:12:12.284862-07:00"
+  "last_updated": "2026-08-22T09:31:10.442085-07:00"
 }
