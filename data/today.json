@@ -1,225 +1,85 @@
 {
-  "date": "2026-08-22",
-  "run_count": 3,
+  "date": "2026-08-23",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Detienen sujeto con arma y droga en Tijuana",
-        "summary": "Autoridades capturaron a un hombre en posesión de armas, drogas y vehículo en la colonia 10 de Mayo.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/detienen-a-hombre-con-arma-y-droga-en-la-colonia-10-de-mayo-en-tijuana/?utm_source=rss&utm_medium=rss&utm_campaign=detienen-a-hombre-con-arma-y-droga-en-la-colonia-10-de-mayo-en-tijuana",
-        "_added_at": "2026-08-22T20:26:54.386530-07:00"
+        "title": "Hombre muere por ataque armado en Matamoros",
+        "summary": "Persona fallece tras ser atacada a balazos en Granjas Familiares del Matamoros.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/98422/Hombre-muere-tras-ser-atacado-a-balazos-en-Granjas-Familiares-del-Matamoros",
+        "_added_at": "2026-08-23T09:32:20.905855-07:00"
       },
       {
-        "title": "Ataque armado en Gastro & Bar mata a hombre",
-        "summary": "Tiroteo en establecimiento nocturno deja un fallecido y una herida en Tijuana.",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/ataque-armado-en-gastro-bar-deja-un-hombre-muerto-y-una-mujer-herida/",
-        "_added_at": "2026-08-22T20:26:54.386530-07:00"
-      },
-      {
-        "title": "Contralmirante Fernando Farías en prisión preventiva",
-        "summary": "Oficial de la Marina enfrentará proceso legal bajo medida cautelar de prisión.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/en-prision-preventiva-contralmirante-fernando-farias/?utm_source=rss&utm_medium=rss&utm_campaign=en-prision-preventiva-contralmirante-fernando-farias",
-        "_added_at": "2026-08-22T20:26:54.386530-07:00"
-      },
-      {
-        "title": "Colectivos critican rezago forense y desapariciones en BC",
-        "summary": "Organizaciones sociales reclaman a la Fiscalía por acumulación de casos sin resolver y demoras en identificación de restos.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/entre-desapariciones-y-rezago-forense-colectivos-arremeten-contra-la-fiscalia-de-bc/?utm_source=rss&utm_medium=rss&utm_campaign=entre-desapariciones-y-rezago-forense-colectivos-arremeten-contra-la-fiscalia-de-bc",
-        "_added_at": "2026-08-22T15:27:32.761211-07:00"
-      },
-      {
-        "title": "Localizan vehículo calcinado en Mexicali con desaparecido",
-        "summary": "Encuentran auto quemado de persona reportada desaparecida en el Valle de Mexicali.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/localizan-vehiculo-calcinado-de-hombre-desaparecido-en-el-valle-de-mexicali/?utm_source=rss&utm_medium=rss&utm_campaign=localizan-vehiculo-calcinado-de-hombre-desaparecido-en-el-valle-de-mexicali",
-        "_added_at": "2026-08-22T15:27:32.761211-07:00"
-      },
-      {
-        "title": "Robo violento a monseñor Ackerman: vinculan a detenido",
-        "summary": "Presunto responsable del ataque y robo al religioso es procesado ante autoridades.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/vinculan-a-proceso-a-presunto-responsable-de-robo-violento-a-monsenor-eduardo-ackerman/?utm_source=rss&utm_medium=rss&utm_campaign=vinculan-a-proceso-a-presunto-responsable-de-robo-violento-a-monsenor-eduardo-ackerman",
-        "_added_at": "2026-08-22T15:27:32.761211-07:00"
-      },
-      {
-        "title": "FGR captura a \"Miguel Comando\" en Villa Fontana",
-        "summary": "Operativo federal detiene a sospechoso con cartuchos en domicilio.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/detienefgr-a-miguel-comando-en-villa-fontana-hallan-cartuchos-durante-cateo/?utm_source=rss&utm_medium=rss&utm_campaign=detienefgr-a-miguel-comando-en-villa-fontana-hallan-cartuchos-durante-cateo",
-        "_added_at": "2026-08-22T15:27:32.761211-07:00"
-      },
-      {
-        "title": "Homicidio en bar de Tijuana deja mujer herida",
-        "summary": "Disparo en restaurante bar causa muerte de hombre y lesiones a mujer durante ataque armado.",
+        "title": "Tres heridos por disparo en Roberto de la Madrid",
+        "summary": "Tres personas resultan lesionadas por arma de fuego en colonia robdo de la Madrid.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/180682_asesinan_a_balazos_a_un_hombre_en_un_restaurante_bar_una_mujer_resulto_lesionada",
-        "_added_at": "2026-08-22T09:31:10.442085-07:00"
+        "url": "https://www.afntijuana.info/seguridad/180717_lesionan_a_balazos_a_tres_personas_en_la_colonia_roberto_de_la_madrid",
+        "_added_at": "2026-08-23T09:32:20.905855-07:00"
       },
       {
-        "title": "Narcomanta en Mexicali amenaza a grupo rival",
-        "summary": "Aparece manta de El Mechacorta dirigida contra Los Rusos en territorio de Mexicali.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/en-mexicali-dejan-narcomanta-amenazando-a-los-rusos-se-la-atribuye-el-mechacorta/?utm_source=rss&utm_medium=rss&utm_campaign=en-mexicali-dejan-narcomanta-amenazando-a-los-rusos-se-la-atribuye-el-mechacorta",
-        "_added_at": "2026-08-22T09:31:10.442085-07:00"
+        "title": "Disparan y hieren a hombre en colonia Hidalgo",
+        "summary": "Individuo resulta herido por ataque armado en zona residencial de Tijuana.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/180718_disparan_y_hieren_a_un_hombre_en_la_colonia_hidalgo",
+        "_added_at": "2026-08-23T09:32:20.905855-07:00"
+      },
+      {
+        "title": "Detienen sospechoso de robo violento contra sacerdote",
+        "summary": "Autoridades capturan a presunto responsable de asalto a mano armada contra padre Ackerman.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180719_detienen_a_sospechoso_de_robo_con_violencia_contra_el_padre_eduardo_ackerman",
+        "_added_at": "2026-08-23T09:32:20.905855-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Amnistía alerta sobre desapariciones en Baja California",
-        "summary": "Organización internacional señala que crisis de desapariciones y forense agrava situación estatal.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/08/22/desapariciones-y-crisis-forense-agravan-situacion-de-baja-california-senala-amnistia-internacional/",
-        "_added_at": "2026-08-22T20:26:54.386530-07:00"
-      },
-      {
-        "title": "Ismael Burgueño cierra precampaña en Mariano Matamoros",
-        "summary": "Candidato de Morena convoca a simpatizantes para clausura de precampaña.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/a-traves-de-chats-convocan-al-cierre-de-precampana-de-ismael-burgueno-en-mariano-matamoros/?utm_source=rss&utm_medium=rss&utm_campaign=a-traves-de-chats-convocan-al-cierre-de-precampana-de-ismael-burgueno-en-mariano-matamoros",
-        "_added_at": "2026-08-22T20:26:54.386530-07:00"
-      },
-      {
-        "title": "Retorno de Rocha Moya genera críticas políticas en BC",
-        "summary": "Gobernador de Sinaloa regresa al cargo tras 112 días; Sheinbaum cuestiona decisión.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/el-poder-sin-principios-se-vuelve-arrogancia-y-abuso-sheinbaum-tras-retorno-de-rocha-moya-al-cargo/?utm_source=rss&utm_medium=rss&utm_campaign=el-poder-sin-principios-se-vuelve-arrogancia-y-abuso-sheinbaum-tras-retorno-de-rocha-moya-al-cargo",
-        "_added_at": "2026-08-22T15:27:32.761211-07:00"
-      },
-      {
-        "title": "PRI y PAN anuncian acciones legales contra Rocha Moya",
-        "summary": "Partidos de oposición promueven juicio y demandan transparencia en investigaciones.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180703_pan_promovera_juicio_contra_rocha_y_desaparicion_de_poderes_en_sinaloa_liz_mata",
-        "_added_at": "2026-08-22T15:27:32.761211-07:00"
-      },
-      {
-        "title": "Julieta Ramírez analiza panorama legal de Baja California",
-        "summary": "Funcionaria se reúne con juristas para evaluar situación normativa estatal.",
+        "title": "Congreso de Sinaloa decidirá licencia de Rocha Moya",
+        "summary": "Legislatura estatal resuelve sobre permiso de gobernador en contexto de cambios políticos.",
         "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/08/22/se-reune-julieta-ramirez-con-juristas-para-analizar-el-panorama-legal-en-baja-california/",
-        "_added_at": "2026-08-22T15:27:32.761211-07:00"
+        "url": "https://www.elimparcial.com/mexico/2026/08/23/congreso-de-sinaloa-decidira-nueva-licencia-de-ruben-rocha-quien-podria-quedar-como-gobernador-y-que-dice-la-ley/",
+        "_added_at": "2026-08-23T09:32:20.905855-07:00"
       },
       {
-        "title": "Gobernadores respaldan a Sheinbaum contra Rocha Moya",
-        "summary": "Mandatarios de Morena lanzan llamado al gobernador de Sinaloa respaldando a presidenta.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Nacional/98393/Gobernadores-de-Morena-respaldan-a-Sheinbaum-y-lanzan-llamado-a-Rocha-Moya",
-        "_added_at": "2026-08-22T09:31:10.442085-07:00"
+        "title": "Piden no usar UABC para promoción político partidista",
+        "summary": "Solicitan evitar que universidad estatal sea escenario para activismo de partidos políticos.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180716_piden_no_usar_la_uabc_para_promover_marchas_politico_partidistas",
+        "_added_at": "2026-08-23T09:32:20.905855-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Histórica librería del Centro Tijuana cierra después casi un siglo",
-        "summary": "Librería del Parque cierra operaciones tras décadas de presencia en Centro Histórico.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180712_cierra_sus_puertas_la_libreria_del_parque_casi_un_siglo_de_historia_en_el_centro_de_tijuana",
-        "_added_at": "2026-08-22T20:26:54.386530-07:00"
-      },
-      {
-        "title": "Registro Civil funcionará 20 años en Cine Lux",
-        "summary": "Dependencia se mudará al cine y reducen monto de alquiler para operaciones.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180709_funcionara_20_anos_el_registro_civil_en_el_cine_lux_reducen_monto_de_alquiler",
-        "_added_at": "2026-08-22T20:26:54.386530-07:00"
-      },
-      {
-        "title": "Dólar se mantiene por debajo de 17 pesos en Tijuana",
-        "summary": "Tipo de cambio estable en casas de cambio de la frontera.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180700_sigue_el_dolar_por_debajo_de_los_17_pesos_en_casas_de_cambio_de_tijuana",
-        "_added_at": "2026-08-22T15:27:32.761211-07:00"
-      },
-      {
-        "title": "Tecate recibe ratificación de crédito por 160 millones",
-        "summary": "HR Ratings ratifica a gobierno municipal acceso a financiamiento de ciento sesenta millones.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/empresarial/180681_hr_ratings_ratifica_a_gobierno_de_tecate_credito_por_160_mdp",
-        "_added_at": "2026-08-22T09:31:10.442085-07:00"
-      },
-      {
-        "title": "Ensenada recibe aumento en recursos federales",
-        "summary": "Participaciones y aportaciones para Ensenada suben cuatro punto siete por ciento.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/empresarial/180680_alza_del_4_7_en_aportaciones_y_participaciones_para_ensenada",
-        "_added_at": "2026-08-22T09:31:10.442085-07:00"
+        "title": "Cotización del dólar en Tijuana",
+        "summary": "Reporte del tipo de cambio del peso frente a moneda estadounidense.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98421/Cotizaci%C3%B3n-del-d%C3%B3lar-durante-este-domingo-en-la-ciudad-de-Tijuana",
+        "_added_at": "2026-08-23T09:32:20.905855-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Madre continúa búsqueda de hijo desaparecido desde 2025",
-        "summary": "María de Lourdes mantiene campaña para localizar a Víctor Miguel Heredia Santana.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/08/22/madre-mantiene-busqueda-de-su-hijo-desaparecido-desde-2025-en-tijuana/",
-        "_added_at": "2026-08-22T20:26:54.386530-07:00"
-      },
-      {
-        "title": "Mural honra lucha de madres buscadoras en frontera",
-        "summary": "Visibilizan movimiento de madres de desaparecidos con obra en muro fronterizo.",
+        "title": "Academia de Policía sin funcionar segundo año consecutivo",
+        "summary": "Institución de capacitación policial permanece cerrada sin resolver situación operativa.",
         "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/visibilizan-lucha-de-madres-buscadoras-de-baja-california-con-mural-en-muro-fronterizo/?utm_source=rss&utm_medium=rss&utm_campaign=visibilizan-lucha-de-madres-buscadoras-de-baja-california-con-mural-en-muro-fronterizo",
-        "_added_at": "2026-08-22T20:26:54.386530-07:00"
+        "url": "https://zetatijuana.com/2026/08/segundo-ano-sin-academia-de-policia/?utm_source=rss&utm_medium=rss&utm_campaign=segundo-ano-sin-academia-de-policia",
+        "_added_at": "2026-08-23T09:32:20.905855-07:00"
       },
       {
-        "title": "Bomberos Tijuana celebran 104 años de servicio",
-        "summary": "Corporación conmemora aniversario con eventos, mariachi y fuegos artificiales.",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/con-mariachi-musica-y-fuegos-artificiales-bomberos-de-tijuana-celebran-104-anos/",
-        "_added_at": "2026-08-22T20:26:54.386530-07:00"
+        "title": "Ensenadense Isaac del Toro campeón Tour de Alemania",
+        "summary": "Ciclista de Ensenada gana prestigiosa competencia internacional de ciclismo.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180722_el_ensenadense_isaac_del_toro_se_corona_campeon_del_tour_de_alemania_2026",
+        "_added_at": "2026-08-23T09:32:20.905855-07:00"
       },
       {
-        "title": "Conductora atropella a dos menores en Guaycura",
-        "summary": "Accidente vial deja dos niños lesionados tras incumplimiento de alto.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/08/22/conductora-omitio-alto-antes-de-atropellar-a-dos-menores-en-guaycura/",
-        "_added_at": "2026-08-22T20:26:54.386530-07:00"
-      },
-      {
-        "title": "Saturación de albergues por baja adopción de mascotas",
-        "summary": "Refugios de Tijuana enfrentan crisis de capacidad; pocos ciudadanos adoptan.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98405/Se-saturan-albergues-por-baja-adopci%C3%B3n-de-perros-y-gatos",
-        "_added_at": "2026-08-22T15:27:32.761211-07:00"
-      },
-      {
-        "title": "Mural en frontera visibiliza crisis de desaparecidos",
-        "summary": "Mujeres buscadoras pintan obra para recordar a víctimas en Playas de Tijuana.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98407/Pintan-mural-en-la-frontera-para-visibilizar-la-crisis-de-personas-desaparecidas",
-        "_added_at": "2026-08-22T15:27:32.761211-07:00"
-      },
-      {
-        "title": "Fortalecen salud comunitaria con comités ciudadanos en BC",
-        "summary": "Se crean 136 comités para mejorar atención sanitaria en comunidades locales.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Estatal/98406/Fortalecen-la-salud-comunitaria-con-136-comit%C3%A9s-ciudadanos-en-Baja-California",
-        "_added_at": "2026-08-22T15:27:32.761211-07:00"
-      },
-      {
-        "title": "Municipio entrega mil vales para uniformes escolares",
-        "summary": "Presidente municipal apoya a estudiantes de Tijuana con vestuario escolar.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98404/Entrega-presidente-municipal-mil-vales-para-uniformes-escolares",
-        "_added_at": "2026-08-22T15:27:32.761211-07:00"
-      },
-      {
-        "title": "Honran memoria de dos bomberos de Tijuana",
-        "summary": "Se incorporan nombres de bomberos al memorial durante celebración del Día Nacional.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98395/Honran-la-trayectoria-de-dos-bomberos-al-incorporar-sus-nombres-al-memorial-en-el-D%C3%ADa-Nacional-del-Bombero",
-        "_added_at": "2026-08-22T09:31:10.442085-07:00"
-      },
-      {
-        "title": "Estado otorga estímulos a cuerpos de bomberos",
-        "summary": "Gobierno estatal entrega reconocimientos económicos a elementos del cuerpo de bomberos.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/08/22/otorga-estado-estimulos-a-bomberos/",
-        "_added_at": "2026-08-22T09:31:10.442085-07:00"
+        "title": "Arregui ofrece diagnóstico y equipo para mejorar Ensenada",
+        "summary": "Aspirante propone evaluación integral y formación de grupos de trabajo municipal.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180720_ofrece_arregui_hacer_diagnostico_y_formar_equipos_para_mejorar_ensenada",
+        "_added_at": "2026-08-23T09:32:20.905855-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-22T20:26:54.386530-07:00"
+  "last_updated": "2026-08-23T09:32:20.905855-07:00"
 }
