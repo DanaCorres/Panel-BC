@@ -1,8 +1,29 @@
 {
   "date": "2026-08-22",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Detienen sujeto con arma y droga en Tijuana",
+        "summary": "Autoridades capturaron a un hombre en posesión de armas, drogas y vehículo en la colonia 10 de Mayo.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/detienen-a-hombre-con-arma-y-droga-en-la-colonia-10-de-mayo-en-tijuana/?utm_source=rss&utm_medium=rss&utm_campaign=detienen-a-hombre-con-arma-y-droga-en-la-colonia-10-de-mayo-en-tijuana",
+        "_added_at": "2026-08-22T20:26:54.386530-07:00"
+      },
+      {
+        "title": "Ataque armado en Gastro & Bar mata a hombre",
+        "summary": "Tiroteo en establecimiento nocturno deja un fallecido y una herida en Tijuana.",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/ataque-armado-en-gastro-bar-deja-un-hombre-muerto-y-una-mujer-herida/",
+        "_added_at": "2026-08-22T20:26:54.386530-07:00"
+      },
+      {
+        "title": "Contralmirante Fernando Farías en prisión preventiva",
+        "summary": "Oficial de la Marina enfrentará proceso legal bajo medida cautelar de prisión.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/en-prision-preventiva-contralmirante-fernando-farias/?utm_source=rss&utm_medium=rss&utm_campaign=en-prision-preventiva-contralmirante-fernando-farias",
+        "_added_at": "2026-08-22T20:26:54.386530-07:00"
+      },
       {
         "title": "Colectivos critican rezago forense y desapariciones en BC",
         "summary": "Organizaciones sociales reclaman a la Fiscalía por acumulación de casos sin resolver y demoras en identificación de restos.",
@@ -48,6 +69,20 @@
     ],
     "politica": [
       {
+        "title": "Amnistía alerta sobre desapariciones en Baja California",
+        "summary": "Organización internacional señala que crisis de desapariciones y forense agrava situación estatal.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/08/22/desapariciones-y-crisis-forense-agravan-situacion-de-baja-california-senala-amnistia-internacional/",
+        "_added_at": "2026-08-22T20:26:54.386530-07:00"
+      },
+      {
+        "title": "Ismael Burgueño cierra precampaña en Mariano Matamoros",
+        "summary": "Candidato de Morena convoca a simpatizantes para clausura de precampaña.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/a-traves-de-chats-convocan-al-cierre-de-precampana-de-ismael-burgueno-en-mariano-matamoros/?utm_source=rss&utm_medium=rss&utm_campaign=a-traves-de-chats-convocan-al-cierre-de-precampana-de-ismael-burgueno-en-mariano-matamoros",
+        "_added_at": "2026-08-22T20:26:54.386530-07:00"
+      },
+      {
         "title": "Retorno de Rocha Moya genera críticas políticas en BC",
         "summary": "Gobernador de Sinaloa regresa al cargo tras 112 días; Sheinbaum cuestiona decisión.",
         "source": "ZETA Tijuana",
@@ -78,6 +113,20 @@
     ],
     "economia": [
       {
+        "title": "Histórica librería del Centro Tijuana cierra después casi un siglo",
+        "summary": "Librería del Parque cierra operaciones tras décadas de presencia en Centro Histórico.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180712_cierra_sus_puertas_la_libreria_del_parque_casi_un_siglo_de_historia_en_el_centro_de_tijuana",
+        "_added_at": "2026-08-22T20:26:54.386530-07:00"
+      },
+      {
+        "title": "Registro Civil funcionará 20 años en Cine Lux",
+        "summary": "Dependencia se mudará al cine y reducen monto de alquiler para operaciones.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180709_funcionara_20_anos_el_registro_civil_en_el_cine_lux_reducen_monto_de_alquiler",
+        "_added_at": "2026-08-22T20:26:54.386530-07:00"
+      },
+      {
         "title": "Dólar se mantiene por debajo de 17 pesos en Tijuana",
         "summary": "Tipo de cambio estable en casas de cambio de la frontera.",
         "source": "AFN Tijuana",
@@ -100,6 +149,34 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Madre continúa búsqueda de hijo desaparecido desde 2025",
+        "summary": "María de Lourdes mantiene campaña para localizar a Víctor Miguel Heredia Santana.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/08/22/madre-mantiene-busqueda-de-su-hijo-desaparecido-desde-2025-en-tijuana/",
+        "_added_at": "2026-08-22T20:26:54.386530-07:00"
+      },
+      {
+        "title": "Mural honra lucha de madres buscadoras en frontera",
+        "summary": "Visibilizan movimiento de madres de desaparecidos con obra en muro fronterizo.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/visibilizan-lucha-de-madres-buscadoras-de-baja-california-con-mural-en-muro-fronterizo/?utm_source=rss&utm_medium=rss&utm_campaign=visibilizan-lucha-de-madres-buscadoras-de-baja-california-con-mural-en-muro-fronterizo",
+        "_added_at": "2026-08-22T20:26:54.386530-07:00"
+      },
+      {
+        "title": "Bomberos Tijuana celebran 104 años de servicio",
+        "summary": "Corporación conmemora aniversario con eventos, mariachi y fuegos artificiales.",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/con-mariachi-musica-y-fuegos-artificiales-bomberos-de-tijuana-celebran-104-anos/",
+        "_added_at": "2026-08-22T20:26:54.386530-07:00"
+      },
+      {
+        "title": "Conductora atropella a dos menores en Guaycura",
+        "summary": "Accidente vial deja dos niños lesionados tras incumplimiento de alto.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/08/22/conductora-omitio-alto-antes-de-atropellar-a-dos-menores-en-guaycura/",
+        "_added_at": "2026-08-22T20:26:54.386530-07:00"
+      },
       {
         "title": "Saturación de albergues por baja adopción de mascotas",
         "summary": "Refugios de Tijuana enfrentan crisis de capacidad; pocos ciudadanos adoptan.",
@@ -144,5 +221,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-22T15:27:32.761211-07:00"
+  "last_updated": "2026-08-22T20:26:54.386530-07:00"
 }
