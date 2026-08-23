@@ -1,8 +1,36 @@
 {
   "date": "2026-08-23",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Ataques armados dejan muerto y cuatro heridos en Tijuana",
+        "summary": "Diversos enfrentamientos armados en Tijuana resultaron en una persona fallecida y cuatro lesionadas durante el fin de semana.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/un-muerto-y-cuatro-lesionados-dejan-diversos-ataques-armados-en-tijuana/?utm_source=rss&utm_medium=rss&utm_campaign=un-muerto-y-cuatro-lesionados-dejan-diversos-ataques-armados-en-tijuana",
+        "_added_at": "2026-08-23T15:28:17.740038-07:00"
+      },
+      {
+        "title": "Seis hombres armados secuestran adulto mayor en Rosarito",
+        "summary": "Familia reporta desaparición de anciano tras levantamiento por grupo armado en Rosarito.",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/levantan-a-abuelito-seis-hombres-armados-en-rosarito-familia-desesperada/",
+        "_added_at": "2026-08-23T15:28:17.740038-07:00"
+      },
+      {
+        "title": "Dos cuerpos hallados flotando en playa Monalisa, Ensenada",
+        "summary": "Descubren dos cadáveres en aguas de playa Monalisa, posiblemente ahogados.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/dos-cuerpos-son-localizados-flotando-en-playa-monalisa-en-ensenada/?utm_source=rss&utm_medium=rss&utm_campaign=dos-cuerpos-son-localizados-flotando-en-playa-monalisa-en-ensenada",
+        "_added_at": "2026-08-23T15:28:17.740038-07:00"
+      },
+      {
+        "title": "Empresario de Rosarito privado de libertad por delincuentes",
+        "summary": "Reportan desaparición de empresario de Rosarito tras secuestro por grupo criminal.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/privan-de-la-libertad-a-empresario-de-rosarito/?utm_source=rss&utm_medium=rss&utm_campaign=privan-de-la-libertad-a-empresario-de-rosarito",
+        "_added_at": "2026-08-23T15:28:17.740038-07:00"
+      },
       {
         "title": "Hombre muere por ataque armado en Matamoros",
         "summary": "Persona fallece tras ser atacada a balazos en Granjas Familiares del Matamoros.",
@@ -34,6 +62,13 @@
     ],
     "politica": [
       {
+        "title": "Pedro Montejo Peterson descarta candidatura para alcaldía",
+        "summary": "Funcionario anuncia no participará en contienda por presidencia municipal de Tijuana.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/pedro-montejo-peterson-se-descarta-para-alcaldia-de-tijuana/?utm_source=rss&utm_medium=rss&utm_campaign=pedro-montejo-peterson-se-descarta-para-alcaldia-de-tijuana",
+        "_added_at": "2026-08-23T15:28:17.740038-07:00"
+      },
+      {
         "title": "Congreso de Sinaloa decidirá licencia de Rocha Moya",
         "summary": "Legislatura estatal resuelve sobre permiso de gobernador en contexto de cambios políticos.",
         "source": "El Imparcial (Tijuana)",
@@ -50,6 +85,34 @@
     ],
     "economia": [
       {
+        "title": "Tijuana limitará pases Fast Lane por saturación",
+        "summary": "Autoridades analizan reducir incorporación de usuarios para evitar filas de hasta 90 minutos.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/08/23/tijuana-limitara-pases-de-fast-lane-para-evitar-filas-de-hasta-90-minutos/",
+        "_added_at": "2026-08-23T15:28:17.740038-07:00"
+      },
+      {
+        "title": "Falta de agua y energía amenaza crecimiento de Ensenada",
+        "summary": "Carencias de servicios básicos podrían frenar desarrollo económico de Ensenada.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/ensenada/2026/08/23/falta-de-agua-y-energia-podria-frenar-crecimiento-economico-de-ensenada/",
+        "_added_at": "2026-08-23T15:28:17.740038-07:00"
+      },
+      {
+        "title": "Comerciantes de uniformes enfrentan altos aranceles",
+        "summary": "Sector de confección reporta incremento en costos por gravámenes e incremento en fletes.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180732_comerciantes_de_uniformes_enfrentan_altos_costos_en_aranceles_y_fletes",
+        "_added_at": "2026-08-23T15:28:17.740038-07:00"
+      },
+      {
+        "title": "Gas LP baja ligeramente en Baja California",
+        "summary": "Registran descenso moderado en precios de gas de distribución en el estado.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/mxl/mexicali/2026/08/23/gas-lp-baja-ligeramente-en-baja-california/",
+        "_added_at": "2026-08-23T15:28:17.740038-07:00"
+      },
+      {
         "title": "Cotización del dólar en Tijuana",
         "summary": "Reporte del tipo de cambio del peso frente a moneda estadounidense.",
         "source": "El Mexicano",
@@ -58,6 +121,34 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Refuerzan acciones contra el calor en Mexicali",
+        "summary": "Autoridades intensifican medidas preventivas ante temperaturas extremas en la región.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/98440/Refuerzan-acciones-contra-el-calor%3A-Norma-Bustamante",
+        "_added_at": "2026-08-23T15:28:17.740038-07:00"
+      },
+      {
+        "title": "Registro Civil permanecerá 20 años en Cine Lux",
+        "summary": "Oficina de Registro Civil continuará operando en ubicación temporal Cine Lux Mexicali.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/98439/Registro-Civil-permanecer%C3%A1-20-a%C3%B1os-en-Cine-Lux%3A-Oficial%C3%ADa-Mayor",
+        "_added_at": "2026-08-23T15:28:17.740038-07:00"
+      },
+      {
+        "title": "Bomberos advierten peligro en asentamientos irregulares",
+        "summary": "Cuerpo de bomberos alerta sobre riesgo de incendios en zonas de vivienda precaria.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98438/Advierten-bomberos-peligro-por-incendios-en-asentamientos-irregulares",
+        "_added_at": "2026-08-23T15:28:17.740038-07:00"
+      },
+      {
+        "title": "Trasladarán ciervos del Parque Morelos a Mexicali",
+        "summary": "Autoridades reubican fauna del parque Morelos hacia santuario en Mexicali.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/08/23/trasladaran-ciervos-del-parque-morelos-de-tijuana-a-santuario-en-mexicali/",
+        "_added_at": "2026-08-23T15:28:17.740038-07:00"
+      },
       {
         "title": "Academia de Policía sin funcionar segundo año consecutivo",
         "summary": "Institución de capacitación policial permanece cerrada sin resolver situación operativa.",
@@ -81,5 +172,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-23T09:32:20.905855-07:00"
+  "last_updated": "2026-08-23T15:28:17.740038-07:00"
 }
