@@ -1,8 +1,22 @@
 {
   "date": "2026-08-23",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Empresario secuestrado en Rosarito; autoridades lanzan operativo",
+        "summary": "Fuerte despliegue policial y militar en Rosarito tras rapto de empresario. Policía solicita información ciudadana.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/sspc-pide-ayuda-a-ciudadania-para-localizar-al-empresario-privado-de-la-libertad-en-rosarito/?utm_source=rss&utm_medium=rss&utm_campaign=sspc-pide-ayuda-a-ciudadania-para-localizar-al-empresario-privado-de-la-libertad-en-rosarito",
+        "_added_at": "2026-08-23T20:28:26.520554-07:00"
+      },
+      {
+        "title": "Detienen a \"El Picoro\", distribuidor de drogas en Guadalupe Victoria",
+        "summary": "Captura de presunto narcotraficante principal en el Ejido Guadalupe Victoria.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/detienen-a-el-picoro-principal-distribuidor-de-droga-en-el-ejido-guadalupe-victoria/?utm_source=rss&utm_medium=rss&utm_campaign=detienen-a-el-picoro-principal-distribuidor-de-droga-en-el-ejido-guadalupe-victoria",
+        "_added_at": "2026-08-23T20:28:26.520554-07:00"
+      },
       {
         "title": "Ataques armados dejan muerto y cuatro heridos en Tijuana",
         "summary": "Diversos enfrentamientos armados en Tijuana resultaron en una persona fallecida y cuatro lesionadas durante el fin de semana.",
@@ -62,6 +76,20 @@
     ],
     "politica": [
       {
+        "title": "Burgueño congrega militantes de Morena en Tijuana",
+        "summary": "Ismael Burgueño encabeza evento con militancia estatal, promoviendo principios de humanismo.",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/burgueno-congrega-a-militantes-de-morena-de-todo-el-estado/",
+        "_added_at": "2026-08-23T20:28:26.520554-07:00"
+      },
+      {
+        "title": "Debate sobre candidata mujer para gubernatura de Baja California",
+        "summary": "Se replantea interrogante sobre perfil femenino o masculino para próximo gobernador.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/afn_politico/180738_imujer_u_hombre_para_la_gubernatura_de_baja_california_se_repite_la_pregunta",
+        "_added_at": "2026-08-23T20:28:26.520554-07:00"
+      },
+      {
         "title": "Pedro Montejo Peterson descarta candidatura para alcaldía",
         "summary": "Funcionario anuncia no participará en contienda por presidencia municipal de Tijuana.",
         "source": "ZETA Tijuana",
@@ -84,6 +112,20 @@
       }
     ],
     "economia": [
+      {
+        "title": "Restaurantes afectados por apagones y cortes de agua frecuentes",
+        "summary": "Canirac reporta interrupciones de servicios casi semanales afectando operaciones comerciales en Tijuana.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/apagones-electricos-y-cortes-de-agua-afectan-a-restaurantes-de-tijuana-casi-cada-semana-canirac/?utm_source=rss&utm_medium=rss&utm_campaign=apagones-electricos-y-cortes-de-agua-afectan-a-restaurantes-de-tijuana-casi-cada-semana-canirac",
+        "_added_at": "2026-08-23T20:28:26.520554-07:00"
+      },
+      {
+        "title": "Migrantes y familias enfrentan obstáculos laborales por falta de guarderías",
+        "summary": "Sistema de cuidados insuficiente limita acceso al empleo en Tijuana.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98446/Falta-de-un-sistema-de-cuidados-limita-acceso-de-migrantes-y-familias-al-empleo",
+        "_added_at": "2026-08-23T20:28:26.520554-07:00"
+      },
       {
         "title": "Tijuana limitará pases Fast Lane por saturación",
         "summary": "Autoridades analizan reducir incorporación de usuarios para evitar filas de hasta 90 minutos.",
@@ -121,6 +163,34 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Baja California amplía salas sensoriales para menores neurodivergentes",
+        "summary": "Ampliación de espacios especializados para infancias neurodivergentes en el estado.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180736_bc_amplia_red_de_salas_sensoriales_para_menores_neurodivergentes",
+        "_added_at": "2026-08-23T20:28:26.520554-07:00"
+      },
+      {
+        "title": "Convocatoria abierta para inscripción en programa de desarrollo escolar",
+        "summary": "Se lanzan inscripciones para jóvenes en iniciativa de desarrollo educativo.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/municipios/180741_lanzan_convocatoria_para_inscribir_a_jovenes_en_programa_de_desarrollo_escolar",
+        "_added_at": "2026-08-23T20:28:26.520554-07:00"
+      },
+      {
+        "title": "CBTIS abre espacios para estudiantes de nuevo ingreso en Tijuana",
+        "summary": "Institutos técnicos ofrecen carreras diversas para ciclo escolar próximo.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/08/23/cbtis-abre-espacios-para-nuevo-ingreso-en-tijuana/",
+        "_added_at": "2026-08-23T20:28:26.520554-07:00"
+      },
+      {
+        "title": "Municipio impulsa programa \"Mis Vacaciones en la Biblioteca\"",
+        "summary": "Iniciativa municipal para proporcionar actividades culturales a menores durante periodo vacacional.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/municipios/180742_ayuntamiento_impulsa_el_programa_mis_vacaciones_en_la_biblioteca",
+        "_added_at": "2026-08-23T20:28:26.520554-07:00"
+      },
       {
         "title": "Refuerzan acciones contra el calor en Mexicali",
         "summary": "Autoridades intensifican medidas preventivas ante temperaturas extremas en la región.",
@@ -162,15 +232,8 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/180722_el_ensenadense_isaac_del_toro_se_corona_campeon_del_tour_de_alemania_2026",
         "_added_at": "2026-08-23T09:32:20.905855-07:00"
-      },
-      {
-        "title": "Arregui ofrece diagnóstico y equipo para mejorar Ensenada",
-        "summary": "Aspirante propone evaluación integral y formación de grupos de trabajo municipal.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180720_ofrece_arregui_hacer_diagnostico_y_formar_equipos_para_mejorar_ensenada",
-        "_added_at": "2026-08-23T09:32:20.905855-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-23T15:28:17.740038-07:00"
+  "last_updated": "2026-08-23T20:28:26.520554-07:00"
 }
