@@ -1,239 +1,92 @@
 {
-  "date": "2026-08-23",
-  "run_count": 3,
+  "date": "2026-08-24",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Empresario secuestrado en Rosarito; autoridades lanzan operativo",
-        "summary": "Fuerte despliegue policial y militar en Rosarito tras rapto de empresario. Policía solicita información ciudadana.",
+        "title": "Hombre asesinado minutos después de salir de prisión en Tijuana",
+        "summary": "Persona identificada como \"El Pelucas\" fue ejecutado poco después de abandonar el penal de La Mesa en Tijuana.",
         "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/sspc-pide-ayuda-a-ciudadania-para-localizar-al-empresario-privado-de-la-libertad-en-rosarito/?utm_source=rss&utm_medium=rss&utm_campaign=sspc-pide-ayuda-a-ciudadania-para-localizar-al-empresario-privado-de-la-libertad-en-rosarito",
-        "_added_at": "2026-08-23T20:28:26.520554-07:00"
+        "url": "https://zetatijuana.com/2026/08/asesinan-a-el-pelucas-minutos-despues-de-salir-de-prision-en-tijuana/?utm_source=rss&utm_medium=rss&utm_campaign=asesinan-a-el-pelucas-minutos-despues-de-salir-de-prision-en-tijuana",
+        "_added_at": "2026-08-24T09:44:50.263300-07:00"
       },
       {
-        "title": "Detienen a \"El Picoro\", distribuidor de drogas en Guadalupe Victoria",
-        "summary": "Captura de presunto narcotraficante principal en el Ejido Guadalupe Victoria.",
+        "title": "Cadáver localizado cerca de invernadero en Ensenada",
+        "summary": "Encontraron a un hombre sin vida en los alrededores de un invernadero en jurisdicción de Ensenada.",
         "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/detienen-a-el-picoro-principal-distribuidor-de-droga-en-el-ejido-guadalupe-victoria/?utm_source=rss&utm_medium=rss&utm_campaign=detienen-a-el-picoro-principal-distribuidor-de-droga-en-el-ejido-guadalupe-victoria",
-        "_added_at": "2026-08-23T20:28:26.520554-07:00"
+        "url": "https://zetatijuana.com/2026/08/localizan-a-hombre-sin-vida-cerca-de-un-invernadero-de-ensenada/?utm_source=rss&utm_medium=rss&utm_campaign=localizan-a-hombre-sin-vida-cerca-de-un-invernadero-de-ensenada",
+        "_added_at": "2026-08-24T09:44:50.263300-07:00"
       },
       {
-        "title": "Ataques armados dejan muerto y cuatro heridos en Tijuana",
-        "summary": "Diversos enfrentamientos armados en Tijuana resultaron en una persona fallecida y cuatro lesionadas durante el fin de semana.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/un-muerto-y-cuatro-lesionados-dejan-diversos-ataques-armados-en-tijuana/?utm_source=rss&utm_medium=rss&utm_campaign=un-muerto-y-cuatro-lesionados-dejan-diversos-ataques-armados-en-tijuana",
-        "_added_at": "2026-08-23T15:28:17.740038-07:00"
-      },
-      {
-        "title": "Seis hombres armados secuestran adulto mayor en Rosarito",
-        "summary": "Familia reporta desaparición de anciano tras levantamiento por grupo armado en Rosarito.",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/levantan-a-abuelito-seis-hombres-armados-en-rosarito-familia-desesperada/",
-        "_added_at": "2026-08-23T15:28:17.740038-07:00"
-      },
-      {
-        "title": "Dos cuerpos hallados flotando en playa Monalisa, Ensenada",
-        "summary": "Descubren dos cadáveres en aguas de playa Monalisa, posiblemente ahogados.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/dos-cuerpos-son-localizados-flotando-en-playa-monalisa-en-ensenada/?utm_source=rss&utm_medium=rss&utm_campaign=dos-cuerpos-son-localizados-flotando-en-playa-monalisa-en-ensenada",
-        "_added_at": "2026-08-23T15:28:17.740038-07:00"
-      },
-      {
-        "title": "Empresario de Rosarito privado de libertad por delincuentes",
-        "summary": "Reportan desaparición de empresario de Rosarito tras secuestro por grupo criminal.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/privan-de-la-libertad-a-empresario-de-rosarito/?utm_source=rss&utm_medium=rss&utm_campaign=privan-de-la-libertad-a-empresario-de-rosarito",
-        "_added_at": "2026-08-23T15:28:17.740038-07:00"
-      },
-      {
-        "title": "Hombre muere por ataque armado en Matamoros",
-        "summary": "Persona fallece tras ser atacada a balazos en Granjas Familiares del Matamoros.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/98422/Hombre-muere-tras-ser-atacado-a-balazos-en-Granjas-Familiares-del-Matamoros",
-        "_added_at": "2026-08-23T09:32:20.905855-07:00"
-      },
-      {
-        "title": "Tres heridos por disparo en Roberto de la Madrid",
-        "summary": "Tres personas resultan lesionadas por arma de fuego en colonia robdo de la Madrid.",
+        "title": "Choque múltiple en bulevar Terán deja muerto y lesionados",
+        "summary": "Accidente grave en Tijuana con varios vehículos involucrados dejó al menos una persona fallecida.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/180717_lesionan_a_balazos_a_tres_personas_en_la_colonia_roberto_de_la_madrid",
-        "_added_at": "2026-08-23T09:32:20.905855-07:00"
+        "url": "https://www.afntijuana.info/seguridad/180750_choque_multiple_sobre_el_bulevar_teran_deja_al_menos_una_persona_sin_vida_y_varios_lesionados",
+        "_added_at": "2026-08-24T09:44:50.263300-07:00"
       },
       {
-        "title": "Disparan y hieren a hombre en colonia Hidalgo",
-        "summary": "Individuo resulta herido por ataque armado en zona residencial de Tijuana.",
+        "title": "Empresario secuestrado en Playas de Rosarito fue liberado",
+        "summary": "Hombre empresario que fue privado de su libertad en Rosarito logró ser rescatado.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/180718_disparan_y_hieren_a_un_hombre_en_la_colonia_hidalgo",
-        "_added_at": "2026-08-23T09:32:20.905855-07:00"
-      },
-      {
-        "title": "Detienen sospechoso de robo violento contra sacerdote",
-        "summary": "Autoridades capturan a presunto responsable de asalto a mano armada contra padre Ackerman.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180719_detienen_a_sospechoso_de_robo_con_violencia_contra_el_padre_eduardo_ackerman",
-        "_added_at": "2026-08-23T09:32:20.905855-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/180749_liberan_a_empresario_secuestrado_en_playas_de_rosarito",
+        "_added_at": "2026-08-24T09:44:50.263300-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Burgueño congrega militantes de Morena en Tijuana",
-        "summary": "Ismael Burgueño encabeza evento con militancia estatal, promoviendo principios de humanismo.",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/burgueno-congrega-a-militantes-de-morena-de-todo-el-estado/",
-        "_added_at": "2026-08-23T20:28:26.520554-07:00"
-      },
-      {
-        "title": "Debate sobre candidata mujer para gubernatura de Baja California",
-        "summary": "Se replantea interrogante sobre perfil femenino o masculino para próximo gobernador.",
+        "title": "Sheinbaum critica a Rocha Moya por \"imprudencia\" y conflictividad",
+        "summary": "Presidenta califica de imprudente al exgobernador de Sinaloa y se niega a dialogar sobre el caso.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/afn_politico/180738_imujer_u_hombre_para_la_gubernatura_de_baja_california_se_repite_la_pregunta",
-        "_added_at": "2026-08-23T20:28:26.520554-07:00"
+        "url": "https://www.afntijuana.info/nacionales/180760_califica_sheinbaum_de_imprudente_a_rocha_no_hablo_del_caso_con_amlo_dice",
+        "_added_at": "2026-08-24T09:44:50.263300-07:00"
       },
       {
-        "title": "Pedro Montejo Peterson descarta candidatura para alcaldía",
-        "summary": "Funcionario anuncia no participará en contienda por presidencia municipal de Tijuana.",
+        "title": "Sheinbaum defiende calidad de universidades Juárez y Castellanos",
+        "summary": "Presidenta responde a críticas sobre las instituciones educativas públicas en Baja California.",
         "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/pedro-montejo-peterson-se-descarta-para-alcaldia-de-tijuana/?utm_source=rss&utm_medium=rss&utm_campaign=pedro-montejo-peterson-se-descarta-para-alcaldia-de-tijuana",
-        "_added_at": "2026-08-23T15:28:17.740038-07:00"
+        "url": "https://zetatijuana.com/2026/08/universidades-juarez-y-castellanos-no-son-mala-calidad-defiende-sheinbaum/?utm_source=rss&utm_medium=rss&utm_campaign=universidades-juarez-y-castellanos-no-son-mala-calidad-defiende-sheinbaum",
+        "_added_at": "2026-08-24T09:44:50.263300-07:00"
       },
       {
-        "title": "Congreso de Sinaloa decidirá licencia de Rocha Moya",
-        "summary": "Legislatura estatal resuelve sobre permiso de gobernador en contexto de cambios políticos.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/mexico/2026/08/23/congreso-de-sinaloa-decidira-nueva-licencia-de-ruben-rocha-quien-podria-quedar-como-gobernador-y-que-dice-la-ley/",
-        "_added_at": "2026-08-23T09:32:20.905855-07:00"
-      },
-      {
-        "title": "Piden no usar UABC para promoción político partidista",
-        "summary": "Solicitan evitar que universidad estatal sea escenario para activismo de partidos políticos.",
+        "title": "Moreira critica contradictions de Morena respecto a Rocha",
+        "summary": "Opositores señalan inconsistencias en la postura de Morena hacia el expresidente de Sinaloa.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180716_piden_no_usar_la_uabc_para_promover_marchas_politico_partidistas",
-        "_added_at": "2026-08-23T09:32:20.905855-07:00"
+        "url": "https://www.afntijuana.info/nacionales/180761_contradiccion_de_morena_respaldan_a_rocha_y_luego_lo_rechazan_critica_moreira",
+        "_added_at": "2026-08-24T09:44:50.263300-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Restaurantes afectados por apagones y cortes de agua frecuentes",
-        "summary": "Canirac reporta interrupciones de servicios casi semanales afectando operaciones comerciales en Tijuana.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/apagones-electricos-y-cortes-de-agua-afectan-a-restaurantes-de-tijuana-casi-cada-semana-canirac/?utm_source=rss&utm_medium=rss&utm_campaign=apagones-electricos-y-cortes-de-agua-afectan-a-restaurantes-de-tijuana-casi-cada-semana-canirac",
-        "_added_at": "2026-08-23T20:28:26.520554-07:00"
-      },
-      {
-        "title": "Migrantes y familias enfrentan obstáculos laborales por falta de guarderías",
-        "summary": "Sistema de cuidados insuficiente limita acceso al empleo en Tijuana.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98446/Falta-de-un-sistema-de-cuidados-limita-acceso-de-migrantes-y-familias-al-empleo",
-        "_added_at": "2026-08-23T20:28:26.520554-07:00"
-      },
-      {
-        "title": "Tijuana limitará pases Fast Lane por saturación",
-        "summary": "Autoridades analizan reducir incorporación de usuarios para evitar filas de hasta 90 minutos.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/08/23/tijuana-limitara-pases-de-fast-lane-para-evitar-filas-de-hasta-90-minutos/",
-        "_added_at": "2026-08-23T15:28:17.740038-07:00"
-      },
-      {
-        "title": "Falta de agua y energía amenaza crecimiento de Ensenada",
-        "summary": "Carencias de servicios básicos podrían frenar desarrollo económico de Ensenada.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/ensenada/2026/08/23/falta-de-agua-y-energia-podria-frenar-crecimiento-economico-de-ensenada/",
-        "_added_at": "2026-08-23T15:28:17.740038-07:00"
-      },
-      {
-        "title": "Comerciantes de uniformes enfrentan altos aranceles",
-        "summary": "Sector de confección reporta incremento en costos por gravámenes e incremento en fletes.",
+        "title": "Maquiladora de BC perdió casi 8 mil empleos recientemente",
+        "summary": "Industria maquiladora en Baja California registra reducción significativa de su plantilla laboral.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180732_comerciantes_de_uniformes_enfrentan_altos_costos_en_aranceles_y_fletes",
-        "_added_at": "2026-08-23T15:28:17.740038-07:00"
+        "url": "https://www.afntijuana.info/empresarial/180752_perdio_7_952_trabajadores_la_industria_maquiladora_de_bc",
+        "_added_at": "2026-08-24T09:44:50.263300-07:00"
       },
       {
-        "title": "Gas LP baja ligeramente en Baja California",
-        "summary": "Registran descenso moderado en precios de gas de distribución en el estado.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/mxl/mexicali/2026/08/23/gas-lp-baja-ligeramente-en-baja-california/",
-        "_added_at": "2026-08-23T15:28:17.740038-07:00"
+        "title": "Gobierno de BC reporta superávit; ISSSTECALI con alto déficit",
+        "summary": "Estado presenta cifras positivas de 4,336 mdp pero instituto de salud acumula deuda de 8,500 mdp.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/empresarial/180751_gobierno_de_bc_con_superavit_por_4_336_mdp_issstecali_con_deficit_por_8_500_mdp",
+        "_added_at": "2026-08-24T09:44:50.263300-07:00"
       },
       {
-        "title": "Cotización del dólar en Tijuana",
-        "summary": "Reporte del tipo de cambio del peso frente a moneda estadounidense.",
+        "title": "Gasolina más cara en San Diego afecta ventas en Tijuana",
+        "summary": "Diferencia de precios en combustible con California impacta negativamente comercio local.",
         "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98421/Cotizaci%C3%B3n-del-d%C3%B3lar-durante-este-domingo-en-la-ciudad-de-Tijuana",
-        "_added_at": "2026-08-23T09:32:20.905855-07:00"
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98442/Gasolina-m%C3%A1s-cara-en-San-Diego-y-bajas-ventas-para-Tijuana",
+        "_added_at": "2026-08-24T09:44:50.263300-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Baja California amplía salas sensoriales para menores neurodivergentes",
-        "summary": "Ampliación de espacios especializados para infancias neurodivergentes en el estado.",
+        "title": "Marcha encabezada por Julieta Ramírez convoca a cuatro mil personas",
+        "summary": "Movimiento ciudadano en Tijuana logra importante participación de residentes en actividad colectiva.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180736_bc_amplia_red_de_salas_sensoriales_para_menores_neurodivergentes",
-        "_added_at": "2026-08-23T20:28:26.520554-07:00"
-      },
-      {
-        "title": "Convocatoria abierta para inscripción en programa de desarrollo escolar",
-        "summary": "Se lanzan inscripciones para jóvenes en iniciativa de desarrollo educativo.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/municipios/180741_lanzan_convocatoria_para_inscribir_a_jovenes_en_programa_de_desarrollo_escolar",
-        "_added_at": "2026-08-23T20:28:26.520554-07:00"
-      },
-      {
-        "title": "CBTIS abre espacios para estudiantes de nuevo ingreso en Tijuana",
-        "summary": "Institutos técnicos ofrecen carreras diversas para ciclo escolar próximo.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/08/23/cbtis-abre-espacios-para-nuevo-ingreso-en-tijuana/",
-        "_added_at": "2026-08-23T20:28:26.520554-07:00"
-      },
-      {
-        "title": "Municipio impulsa programa \"Mis Vacaciones en la Biblioteca\"",
-        "summary": "Iniciativa municipal para proporcionar actividades culturales a menores durante periodo vacacional.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/municipios/180742_ayuntamiento_impulsa_el_programa_mis_vacaciones_en_la_biblioteca",
-        "_added_at": "2026-08-23T20:28:26.520554-07:00"
-      },
-      {
-        "title": "Refuerzan acciones contra el calor en Mexicali",
-        "summary": "Autoridades intensifican medidas preventivas ante temperaturas extremas en la región.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/98440/Refuerzan-acciones-contra-el-calor%3A-Norma-Bustamante",
-        "_added_at": "2026-08-23T15:28:17.740038-07:00"
-      },
-      {
-        "title": "Registro Civil permanecerá 20 años en Cine Lux",
-        "summary": "Oficina de Registro Civil continuará operando en ubicación temporal Cine Lux Mexicali.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/98439/Registro-Civil-permanecer%C3%A1-20-a%C3%B1os-en-Cine-Lux%3A-Oficial%C3%ADa-Mayor",
-        "_added_at": "2026-08-23T15:28:17.740038-07:00"
-      },
-      {
-        "title": "Bomberos advierten peligro en asentamientos irregulares",
-        "summary": "Cuerpo de bomberos alerta sobre riesgo de incendios en zonas de vivienda precaria.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98438/Advierten-bomberos-peligro-por-incendios-en-asentamientos-irregulares",
-        "_added_at": "2026-08-23T15:28:17.740038-07:00"
-      },
-      {
-        "title": "Trasladarán ciervos del Parque Morelos a Mexicali",
-        "summary": "Autoridades reubican fauna del parque Morelos hacia santuario en Mexicali.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/08/23/trasladaran-ciervos-del-parque-morelos-de-tijuana-a-santuario-en-mexicali/",
-        "_added_at": "2026-08-23T15:28:17.740038-07:00"
-      },
-      {
-        "title": "Academia de Policía sin funcionar segundo año consecutivo",
-        "summary": "Institución de capacitación policial permanece cerrada sin resolver situación operativa.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/segundo-ano-sin-academia-de-policia/?utm_source=rss&utm_medium=rss&utm_campaign=segundo-ano-sin-academia-de-policia",
-        "_added_at": "2026-08-23T09:32:20.905855-07:00"
-      },
-      {
-        "title": "Ensenadense Isaac del Toro campeón Tour de Alemania",
-        "summary": "Ciclista de Ensenada gana prestigiosa competencia internacional de ciclismo.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180722_el_ensenadense_isaac_del_toro_se_corona_campeon_del_tour_de_alemania_2026",
-        "_added_at": "2026-08-23T09:32:20.905855-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/180747_alrededor_de_cuatro_mil_personas_asistieron_a_marcha_encabezada_por_julieta_ramirez",
+        "_added_at": "2026-08-24T09:44:50.263300-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-23T20:28:26.520554-07:00"
+  "last_updated": "2026-08-24T09:44:50.263300-07:00"
 }
