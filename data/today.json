@@ -1,8 +1,36 @@
 {
   "date": "2026-08-24",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Hombre asesinado minutos después de salir de prisión",
+        "summary": "Individuo fue ejecutado poco tiempo después de obtener su libertad en Tijuana.",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/matan-a-hombre-minutos-despues-de-salir-de-prision-2/",
+        "_added_at": "2026-08-24T15:32:30.755483-07:00"
+      },
+      {
+        "title": "Vecinos de Zona Norte denuncian despojo criminal",
+        "summary": "Grupos criminales despojan propiedades a residentes en la Zona Norte de Tijuana.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/vecinos-de-zona-norte-denuncian-despojo-de-propiedades-por-grupos-criminales/?utm_source=rss&utm_medium=rss&utm_campaign=vecinos-de-zona-norte-denuncian-despojo-de-propiedades-por-grupos-criminales",
+        "_added_at": "2026-08-24T15:32:30.755483-07:00"
+      },
+      {
+        "title": "Policía detiene a hombre con fusil en Colas del Matamoros",
+        "summary": "Captura de sujeto armado con fusil y cartuchos en zona de Tijuana.",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/policia-municipal-detiene-a-hombre-con-fusil-y-cartuchos-en-colas-del-matamoros/",
+        "_added_at": "2026-08-24T15:32:30.755483-07:00"
+      },
+      {
+        "title": "Peatón muere tras ser atropellado sin auxilio",
+        "summary": "Persona fallece por impacto vehicular; conductor abandonó el lugar del accidente.",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/peaton-muere-tras-ser-atropellado-conductor-huye-del-lugar/",
+        "_added_at": "2026-08-24T15:32:30.755483-07:00"
+      },
       {
         "title": "Hombre asesinado minutos después de salir de prisión en Tijuana",
         "summary": "Persona identificada como \"El Pelucas\" fue ejecutado poco después de abandonar el penal de La Mesa en Tijuana.",
@@ -34,6 +62,34 @@
     ],
     "politica": [
       {
+        "title": "PAN y PRI acusan a Morena de proteger a Rocha Moya",
+        "summary": "Partidos opositores denuncian que Morena respalda al exgobernador Rocha Moya.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/nacionales/180776_pan_y_pri_acusan_a_morena_de_proteger_a_rocha_moya",
+        "_added_at": "2026-08-24T15:32:30.755483-07:00"
+      },
+      {
+        "title": "Torres financió campaña de Burgueño de forma \"caritativa\"",
+        "summary": "Montserrat Caballero comenta sobre financiamiento de campaña de aspirante priista.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/torres-pago-de-manera-caritativa-campana-de-ismael-burgueno-montserrat-caballero/?utm_source=rss&utm_medium=rss&utm_campaign=torres-pago-de-manera-caritativa-campana-de-ismael-burgueno-montserrat-caballero",
+        "_added_at": "2026-08-24T15:32:30.755483-07:00"
+      },
+      {
+        "title": "Osuna Jaime formaliza aspiración por el PAN",
+        "summary": "Candidato del Partido Acción Nacional registra sus aspiraciones de cara a elecciones.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/hector-osuna-jaime-formalizo-sus-aspiraciones-por-el-partido-accion-nacional/?utm_source=rss&utm_medium=rss&utm_campaign=hector-osuna-jaime-formalizo-sus-aspiraciones-por-el-partido-accion-nacional",
+        "_added_at": "2026-08-24T15:32:30.755483-07:00"
+      },
+      {
+        "title": "Coparmex advierte sobre licencias temporales de funcionarios",
+        "summary": "Cámara empresarial expresa preocupación por afectaciones a Baja California.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180773_coparmex_advierte_que_licencias_temporales_de_funcionarios_afectan_a_baja_california",
+        "_added_at": "2026-08-24T15:32:30.755483-07:00"
+      },
+      {
         "title": "Sheinbaum critica a Rocha Moya por \"imprudencia\" y conflictividad",
         "summary": "Presidenta califica de imprudente al exgobernador de Sinaloa y se niega a dialogar sobre el caso.",
         "source": "AFN Tijuana",
@@ -56,6 +112,34 @@
       }
     ],
     "economia": [
+      {
+        "title": "Mexicali lidera salario promedio en Baja California",
+        "summary": "IMSS confirma que la capital estatal tiene mayor ingreso diario promedio.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/municipios/180771_ratifica_el_imss_que_mexicali_es_lider_en_salario_promedio_diario_en_baja_california",
+        "_added_at": "2026-08-24T15:32:30.755483-07:00"
+      },
+      {
+        "title": "Papelerías esperan repunte por regreso a clases",
+        "summary": "Comerciantes anticipan incremento en ventas con inicio del ciclo escolar.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/08/24/papelerias-de-tijuana-esperan-mas-ventas-por-regreso-a-clases/",
+        "_added_at": "2026-08-24T15:32:30.755483-07:00"
+      },
+      {
+        "title": "Padres gastan entre 9 a 11 mil pesos en regreso a clases",
+        "summary": "Familias desembolsan importante cantidad de dinero en útiles y uniformes escolares.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/entre-9-mil-y-11-mil-pesos-gastan-padres-de-familia-este-regreso-a-clases-en-tijuana/?utm_source=rss&utm_medium=rss&utm_campaign=entre-9-mil-y-11-mil-pesos-gastan-padres-de-familia-este-regreso-a-clases-en-tijuana",
+        "_added_at": "2026-08-24T15:32:30.755483-07:00"
+      },
+      {
+        "title": "Transportistas bloquean vialidades por nuevas rutas de IMOS",
+        "summary": "Unidades de Altisa paralizan circulación en avenidas 5 y 10 en protesta.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/08/24/transportistas-bloquean-5-y-10-por-nuevas-rutas-de-imos/",
+        "_added_at": "2026-08-24T15:32:30.755483-07:00"
+      },
       {
         "title": "Maquiladora de BC perdió casi 8 mil empleos recientemente",
         "summary": "Industria maquiladora en Baja California registra reducción significativa de su plantilla laboral.",
@@ -80,6 +164,34 @@
     ],
     "sociedad": [
       {
+        "title": "Niña de 2 años se ahoga en alberca de jardín de eventos",
+        "summary": "Menor fallece ahogada en instalación de espacio para eventos en Mexicali.",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/muere-nina-de-2-anos-tras-ahogarse-en-alberca-de-jardin-de-eventos-en-mexicali/",
+        "_added_at": "2026-08-24T15:32:30.755483-07:00"
+      },
+      {
+        "title": "Beneficiarias de Tarjeta Violeta reciben pago de agosto",
+        "summary": "Mujeres en Baja California obtienen apoyo económico en esta semana.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180770_recibiran_pago_de_agosto_las_beneficiarias_de_la_tarjeta_violeta_en_baja_california",
+        "_added_at": "2026-08-24T15:32:30.755483-07:00"
+      },
+      {
+        "title": "Sindicatura vigilará entrega de apoyos escolares en Tijuana",
+        "summary": "Dependencia supervisa distribución de beneficios educativos a estudiantes.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/08/24/sindicatura-vigilara-entrega-de-apoyos-escolares-en-tijuana/",
+        "_added_at": "2026-08-24T15:32:30.755483-07:00"
+      },
+      {
+        "title": "Vecinos de Paseos del Vergel exigen soluciones tras deslizamiento",
+        "summary": "Residentes reclaman atención dos meses después de desastre en Tijuana.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/a-dos-meses-de-deslizamiento-vecinos-de-paseos-del-vergel-exigen-soluciones/?utm_source=rss&utm_medium=rss&utm_campaign=a-dos-meses-de-deslizamiento-vecinos-de-paseos-del-vergel-exigen-soluciones",
+        "_added_at": "2026-08-24T15:32:30.755483-07:00"
+      },
+      {
         "title": "Marcha encabezada por Julieta Ramírez convoca a cuatro mil personas",
         "summary": "Movimiento ciudadano en Tijuana logra importante participación de residentes en actividad colectiva.",
         "source": "AFN Tijuana",
@@ -88,5 +200,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-24T09:44:50.263300-07:00"
+  "last_updated": "2026-08-24T15:32:30.755483-07:00"
 }
