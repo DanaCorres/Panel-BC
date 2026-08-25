@@ -1,8 +1,22 @@
 {
   "date": "2026-08-24",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Hombre asesinado en Zona Norte de Tijuana",
+        "summary": "Sujeto muere tras recibir disparos en Zona Norte. Motocicleta abandonada en el lugar.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/98504/Hombre-muere-tras-ser-atacado-a-balazos-en-la-Zona-Norte-de-Tijuana",
+        "_added_at": "2026-08-24T20:23:08.788594-07:00"
+      },
+      {
+        "title": "Niña de dos años muere ahogada en Mexicali",
+        "summary": "Menor fallece tras ahogarse en alberca de jardín de eventos en Mexicali.",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/muere-nina-de-2-anos-tras-ahogarse-en-alberca-de-jardin-de-eventos-en-mexicali/",
+        "_added_at": "2026-08-24T20:23:08.788594-07:00"
+      },
       {
         "title": "Hombre asesinado minutos después de salir de prisión",
         "summary": "Individuo fue ejecutado poco tiempo después de obtener su libertad en Tijuana.",
@@ -62,6 +76,34 @@
     ],
     "politica": [
       {
+        "title": "Álvarez ve sin impacto deslinde morenista sobre Rocha Moya",
+        "summary": "Funcionario minimiza efectos del distanciamiento de morenistas respecto a Rocha Moya.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/alvarez-desestima-que-deslinde-de-morenistas-con-rocha-moya-afecte-a-morena/?utm_source=rss&utm_medium=rss&utm_campaign=alvarez-desestima-que-deslinde-de-morenistas-con-rocha-moya-afecte-a-morena",
+        "_added_at": "2026-08-24T20:23:08.788594-07:00"
+      },
+      {
+        "title": "Ariel Lizárraga designado coordinador de Gabinete",
+        "summary": "Nuevo coordinador de Gabinete asume cargo en gobierno de Marina.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180791_ariel_lizarraga_nuevo_coordinador_de_gabinete_en_el_gobierno_de_marina",
+        "_added_at": "2026-08-24T20:23:08.788594-07:00"
+      },
+      {
+        "title": "Vega y Montejo renuncian a disputa por alcaldía",
+        "summary": "Dos candidatos se retiran de la contienda por la presidencia municipal.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/afn_politico/180787_monica_vega_y_pedro_montejo_se_bajaron_de_la_pugna_por_la_alcaldia",
+        "_added_at": "2026-08-24T20:23:08.788594-07:00"
+      },
+      {
+        "title": "Molina impulsa iniciativa contra contaminación visual",
+        "summary": "Legislador presenta propuesta para reducir publicidad y contaminación visual en BC.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180786_molina_va_otra_vez_por_la_contaminacion_visual_en_baja_california",
+        "_added_at": "2026-08-24T20:23:08.788594-07:00"
+      },
+      {
         "title": "PAN y PRI acusan a Morena de proteger a Rocha Moya",
         "summary": "Partidos opositores denuncian que Morena respalda al exgobernador Rocha Moya.",
         "source": "AFN Tijuana",
@@ -102,16 +144,37 @@
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/08/universidades-juarez-y-castellanos-no-son-mala-calidad-defiende-sheinbaum/?utm_source=rss&utm_medium=rss&utm_campaign=universidades-juarez-y-castellanos-no-son-mala-calidad-defiende-sheinbaum",
         "_added_at": "2026-08-24T09:44:50.263300-07:00"
-      },
-      {
-        "title": "Moreira critica contradictions de Morena respecto a Rocha",
-        "summary": "Opositores señalan inconsistencias en la postura de Morena hacia el expresidente de Sinaloa.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/nacionales/180761_contradiccion_de_morena_respaldan_a_rocha_y_luego_lo_rechazan_critica_moreira",
-        "_added_at": "2026-08-24T09:44:50.263300-07:00"
       }
     ],
     "economia": [
+      {
+        "title": "Productores agrícolas reciben apoyos para cultivo de trigo",
+        "summary": "Gobierno entrega subsidios a agricultores para incrementar producción triguera.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/98502/Reciben-productores-apoyos-para-el-cultivo-de-trigo",
+        "_added_at": "2026-08-24T20:23:08.788594-07:00"
+      },
+      {
+        "title": "Impulsan capacitación especializada para maquiladoras",
+        "summary": "Se promueve entrenamiento técnico enfocado en necesidades de industria manufacturera.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98500/Impulsan-capacitaci%C3%B3n-especializada-para-industria-maquiladora",
+        "_added_at": "2026-08-24T20:23:08.788594-07:00"
+      },
+      {
+        "title": "Transportistas bloquean Bulevar Lázaro Cárdenas",
+        "summary": "Choferes protestan por invasión de rutas en sectores 5 y 10 de la ciudad.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180784_bloquean_transportistas_el_bulevar_lazaro_cardenas_en_la_5_y_10_denuncian_invasion_de_rutas",
+        "_added_at": "2026-08-24T20:23:08.788594-07:00"
+      },
+      {
+        "title": "IMOS denuncia a Altisa por conflicto de rutas",
+        "summary": "Asociación de transportistas señala a competidor por bloqueos en zona de Otay.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/08/24/imos-senala-a-altisa-por-bloqueo-y-disputa-de-ruta-en-otay/",
+        "_added_at": "2026-08-24T20:23:08.788594-07:00"
+      },
       {
         "title": "Mexicali lidera salario promedio en Baja California",
         "summary": "IMSS confirma que la capital estatal tiene mayor ingreso diario promedio.",
@@ -153,16 +216,37 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/empresarial/180751_gobierno_de_bc_con_superavit_por_4_336_mdp_issstecali_con_deficit_por_8_500_mdp",
         "_added_at": "2026-08-24T09:44:50.263300-07:00"
-      },
-      {
-        "title": "Gasolina más cara en San Diego afecta ventas en Tijuana",
-        "summary": "Diferencia de precios en combustible con California impacta negativamente comercio local.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98442/Gasolina-m%C3%A1s-cara-en-San-Diego-y-bajas-ventas-para-Tijuana",
-        "_added_at": "2026-08-24T09:44:50.263300-07:00"
       }
     ],
     "sociedad": [
+      {
+        "title": "230 perros y gatos rescatados buscan hogar en Mexicali",
+        "summary": "Santuario Animal Mily alberga mascotas necesitadas de adopción en la región.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/mxl/mexicali/2026/08/24/buscan-hogar-para-230-perros-y-gatos-rescatados-en-mexicali/",
+        "_added_at": "2026-08-24T20:23:08.788594-07:00"
+      },
+      {
+        "title": "Ballena de doce metros aparece muerta en Playas",
+        "summary": "Cetáceo hallado sin vida en litoral de Tijuana; investigación en curso.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/08/24/aparece-ballena-muerta-de-12-metros-en-playas-de-tijuana/",
+        "_added_at": "2026-08-24T20:23:08.788594-07:00"
+      },
+      {
+        "title": "Advierten sobre enfermedades transmitidas por garrapatas",
+        "summary": "Autoridades alertan sobre riesgos sanitarios por parasitosis en la región.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/08/24/advierten-riesgo-de-enfermedades-transmitidas-por-garrapatas/",
+        "_added_at": "2026-08-24T20:23:08.788594-07:00"
+      },
+      {
+        "title": "Asesoría legal para personas autistas en justicia",
+        "summary": "Programa brinda apoyo jurídico especializado a individuos con espectro autista.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/08/24/daran-asesoria-legal-a-personas-autistas-para-facilitar-su-acceso-a-la-justicia/",
+        "_added_at": "2026-08-24T20:23:08.788594-07:00"
+      },
       {
         "title": "Niña de 2 años se ahoga en alberca de jardín de eventos",
         "summary": "Menor fallece ahogada en instalación de espacio para eventos en Mexicali.",
@@ -200,5 +284,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-24T15:32:30.755483-07:00"
+  "last_updated": "2026-08-24T20:23:08.788594-07:00"
 }
