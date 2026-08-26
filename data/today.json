@@ -1,274 +1,106 @@
 {
-  "date": "2026-08-25",
-  "run_count": 3,
+  "date": "2026-08-26",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Mexicali refuerza vigilancia tras alerta de Estados Unidos",
-        "summary": "Autoridades intensifican seguridad en edificios gubernamentales de Mexicali tras advertencia estadounidense sobre posibles amenazas.",
+        "title": "Asesinan a hombre en madrugada; detienen a dos mujeres",
+        "summary": "Homicidio en Tijuana con detención de dos mujeres armadas y un motociclista como presuntos responsables.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/180852_asesinan_a_un_hombre_esta_madrugada_detienen_a_dos_mujeres_armadas_y_a_un_motociclista",
+        "_added_at": "2026-08-26T09:51:37.513829-07:00"
+      },
+      {
+        "title": "Balean a dos hombres en Tecate; uno fallece",
+        "summary": "Tiroteo en Tecate deja una persona muerta y otra gravemente herida.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/180849_balean_a_dos_hombres_en_tecate_uno_murio_y_el_otro_fue_reportado_grave",
+        "_added_at": "2026-08-26T09:51:37.513829-07:00"
+      },
+      {
+        "title": "Queman auto y evacúan cuartería en Tijuana",
+        "summary": "Incendio intencional de vehículo causa propagación de fuego y desalojo de vecinos.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/180853_queman_auto_intencionalmente_y_las_llamas_alcanzan_cuarteria_evacuan_a_vecinos",
+        "_added_at": "2026-08-26T09:51:37.513829-07:00"
+      },
+      {
+        "title": "Periodistas denuncian violencia persistente ante Sheinbaum",
+        "summary": "Medios y RSF interpelan a autoridades federales por agresiones contra comunicadores.",
         "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/mexicali-refuerza-vigilancia-en-edificios-gubernamentales-tras-alerta-de-estados-unidos/",
-        "_added_at": "2026-08-25T20:29:36.214530-07:00"
-      },
-      {
-        "title": "Hombre asesinado a balazos en Zona Norte de Tijuana",
-        "summary": "Personas atacadas por disparos en área norte de Tijuana dejando una persona fallecida en el incidente.",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/hombre-muere-tras-ser-atacado-a-balazos-en-la-zona-norte-de-tijuana/",
-        "_added_at": "2026-08-25T15:33:04.448677-07:00"
-      },
-      {
-        "title": "Cadáver hallado dentro de carrito de supermercado",
-        "summary": "Encuentran persona sin vida dentro de carro de compras en la Zona Centro de Tijuana.",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/hallan-a-hombre-sin-vida-dentro-de-un-carrito-de-supermercado-en-la-zona-centro/",
-        "_added_at": "2026-08-25T15:33:04.448677-07:00"
-      },
-      {
-        "title": "Incendio en vivienda causa daños materiales",
-        "summary": "Casa habitación se incendia dejando solo pérdidas materiales sin víctimas reportadas.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/180834_incendio_en_casa_habitacion_solo_hubo_danos_materiales",
-        "_added_at": "2026-08-25T15:33:04.448677-07:00"
-      },
-      {
-        "title": "Alerta de seguridad de EU en Mexicali genera preocupación",
-        "summary": "Estados Unidos emite alerta de amenaza en Mexicali generando inquietud entre autoridades locales.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/08/25/estados-unidos-alerta-por-amenaza-en-mexicali-esto-se-sabe-hasta-ahora/",
-        "_added_at": "2026-08-25T15:33:04.448677-07:00"
-      },
-      {
-        "title": "Hallazgo macabro en Ensenada: restos humanos",
-        "summary": "Vecinos reportaron a perros que transportaban un brazo humano en la localidad.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/vecinos-reportan-a-perros-que-llevaban-un-brazo-humano-en-ensenada/?utm_source=rss&utm_medium=rss&utm_campaign=vecinos-reportan-a-perros-que-llevaban-un-brazo-humano-en-ensenada",
-        "_added_at": "2026-08-25T09:43:22.171265-07:00"
-      },
-      {
-        "title": "FGR resguardada por amenaza de seguridad en BC",
-        "summary": "Corporaciones refuerzan vigilancia en edificio de la FGR tras reporte de posible amenaza.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/08/25/fgr-permanece-bajo-resguardo-en-baja-california-por-amenaza-de-seguridad/",
-        "_added_at": "2026-08-25T09:43:22.171265-07:00"
-      },
-      {
-        "title": "Refuerzan seguridad en Mexicali por alerta de EU",
-        "summary": "Autoridades intensifican operativos tras alerta emitida por Estados Unidos sobre peligro.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/180794_refuerzan_seguridad_en_mexicali_ante_alerta_de_estados_unidos",
-        "_added_at": "2026-08-25T09:43:22.171265-07:00"
-      },
-      {
-        "title": "Homicidio en Zona Norte de Tijuana",
-        "summary": "Hombre asesinado a tiros en vía pública durante ataque en la Zona Norte.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/180792_asesinan_a_balazos_a_un_hombre_en_plena_via_publica_en_la_zona_norte",
-        "_added_at": "2026-08-25T09:43:22.171265-07:00"
+        "url": "https://zetatijuana.com/2026/08/rsf-y-medios-de-todo-el-pais-interpelan-a-la-presidenta-sheinbaum-y-a-las-autoridades-ante-la-persistencia-de-la-violencia-contra-periodistas/",
+        "_added_at": "2026-08-26T09:51:37.513829-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Torres financió campaña de Burgueño de forma caritativa",
-        "summary": "Montserrat Caballero acusa que Torres pagó aportaciones benéficas para la campaña de Ismael Burgueño.",
+        "title": "Sheinbaum propone restricción de doble nacionalidad",
+        "summary": "Iniciativa presidencial busca limitar injerencismo limitando nacionalidad dual para gobernantes.",
         "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/torres-pago-de-manera-caritativa-campana-de-ismael-burgueno-montserrat-caballero/",
-        "_added_at": "2026-08-25T20:29:36.214530-07:00"
+        "url": "https://zetatijuana.com/2026/08/sheinbaum-busca-limitar-injerencismo-con-restriccion-de-doble-nacionalidad/",
+        "_added_at": "2026-08-26T09:51:37.513829-07:00"
       },
       {
-        "title": "Morena no designó coordinadores para BC en primer bloque",
-        "summary": "El partido no incluyó Baja California en los nombramientos iniciales de coordinadores electorales.",
+        "title": "Sheinbaum dice no hay investigación sobre aspirantes",
+        "summary": "Presidenta niega indagatorias contra candidatos a gobernadores por Morena.",
         "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/en-primer-bloque-de-nombramientos-morena-no-designo-coordinadores-en-bc-y-bcs/",
-        "_added_at": "2026-08-25T20:29:36.214530-07:00"
+        "url": "https://zetatijuana.com/2026/08/no-hay-ninguna-investigacion-sheinbaum-sobre-aspirantes-a-gubernaturas/",
+        "_added_at": "2026-08-26T09:51:37.513829-07:00"
       },
       {
-        "title": "Claudia Agatón y Fausto Gallardo se reúnen en Ensenada",
-        "summary": "Dirigentes políticos sostienen encuentro en la ciudad costera.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180843_claudia_agaton_y_fausto_gallardo_se_reunen_en_ensenada",
-        "_added_at": "2026-08-25T20:29:36.214530-07:00"
+        "title": "Encuestas definirán candidatos de Morena: Sheinbaum",
+        "summary": "Presidenta anuncia que sondeos determinarán selección de postulantes morenistas.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/mexico/2026/08/26/candidatos-de-morena-los-definira-la-encuesta-sheinbaum/",
+        "_added_at": "2026-08-26T09:51:37.513829-07:00"
       },
       {
-        "title": "Ismael Burgueño lidera encuesta interna de Morena",
-        "summary": "Perfil destaca como favorito en proceso interno de Morena rumbo a gubernatura de Baja California.",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/previo-a-la-encuesta-interna-de-morena-ismael-burgueno-lidera-entre-los-perfiles-rumbo-al-gobierno-de-baja-california/",
-        "_added_at": "2026-08-25T15:33:04.448677-07:00"
-      },
-      {
-        "title": "Congreso BC avanza en reforma de propaganda electoral",
-        "summary": "Legisladores avanzan en modificación normativa para flexibilizar reglas sobre propaganda electoral estatal.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Estatal/98548/Congreso-de-BC-avanza-en-reforma-para-flexibilizar-propaganda-electoral",
-        "_added_at": "2026-08-25T15:33:04.448677-07:00"
-      },
-      {
-        "title": "PAN exige claridad al gobierno por alerta de seguridad",
-        "summary": "Partido panista demanda transparencia del gobierno estatal respecto a alertas de seguridad estadounidenses.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180829_pan_exige_claridad_al_gobierno_del_estado_por_alerta_de_seguridad_de_eu",
-        "_added_at": "2026-08-25T15:33:04.448677-07:00"
-      },
-      {
-        "title": "Policías piden homologación de derechos laborales",
-        "summary": "Elementos piden a Eva Moreno equiparación de prestaciones y derechos con otras corporaciones.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180833_policias_piden_a_eva_moreno_homologar_derechos_y_prestaciones_laborales",
-        "_added_at": "2026-08-25T15:33:04.448677-07:00"
-      },
-      {
-        "title": "Sheinbaum sugiere licencia para 10 funcionarios investigados",
-        "summary": "Presidenta considera que servidores públicos bajo investigación de FGR deberían separarse temporalmente.",
+        "title": "Reaparece empresario rosaritense privado de libertad",
+        "summary": "Empresario de Rosarito aparece en medios tras su detención, afirma no claudicará.",
         "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/considera-sheinbaum-que-10-funcionarios-investigados-por-fgr-deberian-tomar-licencia/?utm_source=rss&utm_medium=rss&utm_campaign=considera-sheinbaum-que-10-funcionarios-investigados-por-fgr-deberian-tomar-licencia",
-        "_added_at": "2026-08-25T09:43:22.171265-07:00"
-      },
-      {
-        "title": "Agatón se reúne con dirigente estatal del Partido Verde",
-        "summary": "Coordinadora de Morena se encuentra con Fausto Gallardo para fortalecer alianza política.",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/claudia-agaton-se-reunio-con-fausto-gallardo-garcia-dirigente-estatal-del-partido-verde-y-diputado-federal-uno-de-los-principales-aliados-politicos-de-morena-en-baja-california/",
-        "_added_at": "2026-08-25T09:43:22.171265-07:00"
-      },
-      {
-        "title": "Morena destapa candidatas femeninas para elecciones",
-        "summary": "Movimiento anuncia nominación de dos mujeres como precandidatas para cargos electorales.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180804_podrian_destapar_hoy_a_las_dos_primeras_mujeres_que_iran_por_morena",
-        "_added_at": "2026-08-25T09:43:22.171265-07:00"
+        "url": "https://zetatijuana.com/2026/08/no-voy-a-flaquear-reaparece-empresario-rosaritense-privado-de-la-libertad/",
+        "_added_at": "2026-08-26T09:51:37.513829-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Hospital Premier celebra veinte mil cirugías realizadas",
-        "summary": "Institución médica de Tijuana marca hito importante en procedimientos quirúrgicos.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/08/25/celebra-hospital-premier-20-mil-cirugias/",
-        "_added_at": "2026-08-25T20:29:36.214530-07:00"
-      },
-      {
-        "title": "Desempleo aumenta en Baja California según INEGI",
-        "summary": "Datos oficiales muestran incremento en población desocupada en el estado durante último período.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/aumenta-poblacion-desocupada-en-baja-california-inegi/?utm_source=rss&utm_medium=rss&utm_campaign=aumenta-poblacion-desocupada-en-baja-california-inegi",
-        "_added_at": "2026-08-25T15:33:04.448677-07:00"
-      },
-      {
-        "title": "Call center Tijuana ofrece sueldos hasta diez mil semanales",
-        "summary": "Centro de atención telefónica inicia año ofreciendo remuneraciones competitivas para trabajadores.",
-        "source": "Yo Amo Tijuana",
-        "url": "https://amotijuana.com/call-center-en-tijuana-arranca-el-ano-con-sueldos-de-hasta-10000-semanales/",
-        "_added_at": "2026-08-25T15:33:04.448677-07:00"
-      },
-      {
-        "title": "Lanzan terrenos sin enganche cerca de Valle de Guadalupe",
-        "summary": "Proyecto inmobiliario ofrece terrenos con solo apartado de quinientos dólares en zona turística.",
-        "source": "Yo Amo Tijuana",
-        "url": "https://amotijuana.com/lanzan-terrenos-sin-enganche-y-con-apartado-de-500-dolares-cerca-de-valle-de-guadalupe/",
-        "_added_at": "2026-08-25T15:33:04.448677-07:00"
-      },
-      {
-        "title": "Condusef alerta por fraudes en apps de préstamos",
-        "summary": "Autoridad advierte sobre estafas en aplicaciones móviles que solicitan dinero anticipado.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/dinero/2026/08/25/condusef-advierte-que-pedir-dinero-por-adelantado-para-autorizar-prestamos-en-aplicaciones-moviles-es-un-fraude-que-vacia-los-bolsillos-de-los-usuarios/",
-        "_added_at": "2026-08-25T15:33:04.448677-07:00"
-      },
-      {
-        "title": "Desempleo en BC alcanza máximo en cuatro años medio",
-        "summary": "Tasa de desocupación sube a niveles no vistos desde hace más de cuatro años.",
+        "title": "Solo 3,542 ocupados en BC ganan más de 5 salarios",
+        "summary": "Cifra muestra concentración salarial crítica en Baja California con muy pocos ingresos altos.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/empresarial/180797_desempleo_en_bc_a_su_mayor_nivel_en_4_anos_y_medio",
-        "_added_at": "2026-08-25T09:43:22.171265-07:00"
+        "url": "https://www.afntijuana.info/empresarial/180851_solo_3_542_ocupados_en_bc_ganan_mas_de_5_salarios_minimos",
+        "_added_at": "2026-08-26T09:51:37.513829-07:00"
       },
       {
-        "title": "Gasolina presiona economía de bajacalifornianos",
-        "summary": "Precios de combustible afectan presupuesto familiar durante primera quincena de agosto.",
+        "title": "BC invirtió 1,610 mdp en desalinizadora de Rosarito",
+        "summary": "Gobierno estatal ejerció recursos significativos en proyecto de agua para Rosarito.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/empresarial/180798_gasolinas_presionan_a_bajacalifornianos_en_la_primera_quincena_de_agosto",
-        "_added_at": "2026-08-25T09:43:22.171265-07:00"
+        "url": "https://www.afntijuana.info/empresarial/180850_gobierno_de_bc_ya_dispuso_de_1_610_mdp_para_desalinizadora_de_rosarito",
+        "_added_at": "2026-08-26T09:51:37.513829-07:00"
       },
       {
-        "title": "Consultorios privados crecen en Tijuana",
-        "summary": "INEGI reporta aumento en establecimientos de salud privada, especializado en quiropráctica.",
+        "title": "Vuelos privados de gobernadora rondan 20 millones",
+        "summary": "Mara Lezama realizó 43 vuelos internacionales con costos cercanos a 20 millones.",
         "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/08/25/consultorios-privados-aumentan-en-tijuana-quiropractica-y-nutriologia-son-los-que-mas-crecen/",
-        "_added_at": "2026-08-25T09:43:22.171265-07:00"
+        "url": "https://www.elimparcial.com/dinero/2026/08/26/mara-lezama-realizo-al-menos-43-vuelos-al-extranjero-en-aviones-ligados-a-proveedor-de-quintana-roo-y-los-traslados-se-estiman-en-casi-20-millones-de-pesos-gobernadora-rechaza-que-fueran-con-dinero-publico/",
+        "_added_at": "2026-08-26T09:51:37.513829-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Persisten barreras para personas autistas en Baja California",
-        "summary": "Enfrentan discriminación en educación, justicia y participación pública en el estado.",
+        "title": "Largas filas en garita San Ysidro causan caos vial",
+        "summary": "Congestión fronteriza colapsa movilidad en Tijuana por aumento de esperas.",
         "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/08/25/persisten-barreras-para-personas-autistas-en-baja-california/",
-        "_added_at": "2026-08-25T20:29:36.214530-07:00"
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/08/26/largas-filas-en-garita-de-san-ysidro-colapsan-la-movilidad-en-tijuana/",
+        "_added_at": "2026-08-26T09:51:37.513829-07:00"
       },
       {
-        "title": "Rosarito mejora espacios deportivos en colonias",
-        "summary": "Gobierno municipal invierte en infraestructura deportiva de Lomas Coronado y Villa Turística.",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/mejora-gobierno-de-rosarito-espacios-deportivos-en-lomas-de-coronado-y-villa-turistica/",
-        "_added_at": "2026-08-25T20:29:36.214530-07:00"
-      },
-      {
-        "title": "Baja California libre de dengue según autoridades",
-        "summary": "Estado reporta ausencia de casos confirmados de enfermedad transmitida por mosquitos.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Estatal/98556/Baja-California-libre-del-dengue",
-        "_added_at": "2026-08-25T20:29:36.214530-07:00"
-      },
-      {
-        "title": "Denuncian acumulación de basura en Este de Tijuana",
-        "summary": "Colonias de la zona presentan problemas de gestión de residuos sólidos.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/08/25/denuncian-acumulacion-de-basura-en-colonias-del-este-de-tijuana/",
-        "_added_at": "2026-08-25T20:29:36.214530-07:00"
-      },
-      {
-        "title": "Propietaria busca recuperar caballos por desnutrición",
-        "summary": "Dueña comparece ante autoridades para recuperar animales rescatados en estado de deterioro físico.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/ensenada/2026/08/25/propietaria-busca-recuperar-caballos-rescatados-por-desnutricion/",
-        "_added_at": "2026-08-25T15:33:04.448677-07:00"
-      },
-      {
-        "title": "Ballena de doce metros aparece muerta en playas",
-        "summary": "Organismo marino hallado en costa tijuanense genera solicitud de investigación sobre causas.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/08/25/ballena-de-12-metros-aparece-muerta-en-playas-de-tijuana-y-piden-investigar-que-le-paso/",
-        "_added_at": "2026-08-25T15:33:04.448677-07:00"
-      },
-      {
-        "title": "Accidente deja conductor prensado tras volcadura",
-        "summary": "Revolvedora de concreto vuelca en vía dejando operador atrapado en cabina del vehículo.",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/fuerte-accidente-deja-a-conductor-prensado-tras-volcadura-de-revolvedora/",
-        "_added_at": "2026-08-25T15:33:04.448677-07:00"
-      },
-      {
-        "title": "Maquiladora impulsa profesionalización con capacitación",
-        "summary": "Consultora promueve encuentro de negocios con programas certificados para industria manufacturera local.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/08/25/impulsa-baja-consulting-group-la-profesionalizacion-de-la-industria-maquiladora-con-capacitacion-certificada-en-encuentro-de-negocios/",
-        "_added_at": "2026-08-25T15:33:04.448677-07:00"
-      },
-      {
-        "title": "Alertas de EU causan incertidumbre en Mexicali",
-        "summary": "Autoridades piden calma tras emisión de advertencia de seguridad por parte estadounidense.",
+        "title": "Detienen a dos por fraude en exámenes UNAM",
+        "summary": "Captura de personas por esquema fraudulento en proceso de admisión a universidad.",
         "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/alerta-de-ee-uu-provoca-incertidumbre-en-mexicali-autoridades-llaman-a-mantener-la-calma/?utm_source=rss&utm_medium=rss&utm_campaign=alerta-de-ee-uu-provoca-incertidumbre-en-mexicali-autoridades-llaman-a-mantener-la-calma",
-        "_added_at": "2026-08-25T09:43:22.171265-07:00"
-      },
-      {
-        "title": "Juzgados federales suspenden actividades por alerta",
-        "summary": "Cierre temporal de instalaciones judiciales federales debido a situación de seguridad.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180803_suspenden_actividades_en_juzgados_federales_por_la_alerta_de_eu",
-        "_added_at": "2026-08-25T09:43:22.171265-07:00"
+        "url": "https://zetatijuana.com/2026/08/detienen-a-dos-por-presunto-fraude-en-examenes-de-ingreso-a-la-unam/",
+        "_added_at": "2026-08-26T09:51:37.513829-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-25T20:29:36.214530-07:00"
+  "last_updated": "2026-08-26T09:51:37.513829-07:00"
 }
