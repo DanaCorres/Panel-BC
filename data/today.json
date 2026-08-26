@@ -1,8 +1,15 @@
 {
   "date": "2026-08-25",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Mexicali refuerza vigilancia tras alerta de Estados Unidos",
+        "summary": "Autoridades intensifican seguridad en edificios gubernamentales de Mexicali tras advertencia estadounidense sobre posibles amenazas.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/mexicali-refuerza-vigilancia-en-edificios-gubernamentales-tras-alerta-de-estados-unidos/",
+        "_added_at": "2026-08-25T20:29:36.214530-07:00"
+      },
       {
         "title": "Hombre asesinado a balazos en Zona Norte de Tijuana",
         "summary": "Personas atacadas por disparos en área norte de Tijuana dejando una persona fallecida en el incidente.",
@@ -62,6 +69,27 @@
     ],
     "politica": [
       {
+        "title": "Torres financió campaña de Burgueño de forma caritativa",
+        "summary": "Montserrat Caballero acusa que Torres pagó aportaciones benéficas para la campaña de Ismael Burgueño.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/torres-pago-de-manera-caritativa-campana-de-ismael-burgueno-montserrat-caballero/",
+        "_added_at": "2026-08-25T20:29:36.214530-07:00"
+      },
+      {
+        "title": "Morena no designó coordinadores para BC en primer bloque",
+        "summary": "El partido no incluyó Baja California en los nombramientos iniciales de coordinadores electorales.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/en-primer-bloque-de-nombramientos-morena-no-designo-coordinadores-en-bc-y-bcs/",
+        "_added_at": "2026-08-25T20:29:36.214530-07:00"
+      },
+      {
+        "title": "Claudia Agatón y Fausto Gallardo se reúnen en Ensenada",
+        "summary": "Dirigentes políticos sostienen encuentro en la ciudad costera.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180843_claudia_agaton_y_fausto_gallardo_se_reunen_en_ensenada",
+        "_added_at": "2026-08-25T20:29:36.214530-07:00"
+      },
+      {
         "title": "Ismael Burgueño lidera encuesta interna de Morena",
         "summary": "Perfil destaca como favorito en proceso interno de Morena rumbo a gubernatura de Baja California.",
         "source": "TJ Comunica",
@@ -109,16 +137,16 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/180804_podrian_destapar_hoy_a_las_dos_primeras_mujeres_que_iran_por_morena",
         "_added_at": "2026-08-25T09:43:22.171265-07:00"
-      },
-      {
-        "title": "PAN denunciará a funcionarios por movilizaciones",
-        "summary": "Partido acusará a autoridades por manifestaciones organizadas durante fin de semana.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180795_pan_bc_denunciara_a_julieta_y_burgueno_por_movilizaciones_del_fin_de_semana",
-        "_added_at": "2026-08-25T09:43:22.171265-07:00"
       }
     ],
     "economia": [
+      {
+        "title": "Hospital Premier celebra veinte mil cirugías realizadas",
+        "summary": "Institución médica de Tijuana marca hito importante en procedimientos quirúrgicos.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/08/25/celebra-hospital-premier-20-mil-cirugias/",
+        "_added_at": "2026-08-25T20:29:36.214530-07:00"
+      },
       {
         "title": "Desempleo aumenta en Baja California según INEGI",
         "summary": "Datos oficiales muestran incremento en población desocupada en el estado durante último período.",
@@ -171,6 +199,34 @@
     ],
     "sociedad": [
       {
+        "title": "Persisten barreras para personas autistas en Baja California",
+        "summary": "Enfrentan discriminación en educación, justicia y participación pública en el estado.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/08/25/persisten-barreras-para-personas-autistas-en-baja-california/",
+        "_added_at": "2026-08-25T20:29:36.214530-07:00"
+      },
+      {
+        "title": "Rosarito mejora espacios deportivos en colonias",
+        "summary": "Gobierno municipal invierte en infraestructura deportiva de Lomas Coronado y Villa Turística.",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/mejora-gobierno-de-rosarito-espacios-deportivos-en-lomas-de-coronado-y-villa-turistica/",
+        "_added_at": "2026-08-25T20:29:36.214530-07:00"
+      },
+      {
+        "title": "Baja California libre de dengue según autoridades",
+        "summary": "Estado reporta ausencia de casos confirmados de enfermedad transmitida por mosquitos.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/98556/Baja-California-libre-del-dengue",
+        "_added_at": "2026-08-25T20:29:36.214530-07:00"
+      },
+      {
+        "title": "Denuncian acumulación de basura en Este de Tijuana",
+        "summary": "Colonias de la zona presentan problemas de gestión de residuos sólidos.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/08/25/denuncian-acumulacion-de-basura-en-colonias-del-este-de-tijuana/",
+        "_added_at": "2026-08-25T20:29:36.214530-07:00"
+      },
+      {
         "title": "Propietaria busca recuperar caballos por desnutrición",
         "summary": "Dueña comparece ante autoridades para recuperar animales rescatados en estado de deterioro físico.",
         "source": "El Imparcial (Tijuana)",
@@ -211,15 +267,8 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/180803_suspenden_actividades_en_juzgados_federales_por_la_alerta_de_eu",
         "_added_at": "2026-08-25T09:43:22.171265-07:00"
-      },
-      {
-        "title": "SEP confirma megapuentes y viernes sin clases",
-        "summary": "Secretaría de Educación anuncia calendario de descansos para ciclo escolar 2026-2027.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/mexico/2026/08/25/ya-es-oficial-sep-confirmo-dos-megapuentes-y-8-viernes-sin-clases-para-los-estudiantes-durante-el-ciclo-2026-2027-estas-son-las-fechas-que-deben-considerar-las-familias/",
-        "_added_at": "2026-08-25T09:43:22.171265-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-25T15:33:04.448677-07:00"
+  "last_updated": "2026-08-25T20:29:36.214530-07:00"
 }
