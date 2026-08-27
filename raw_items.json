@@ -1,388 +1,88 @@
 {
-  "generated_at": "2026-08-27T03:01:34.519664+00:00",
+  "generated_at": "2026-08-27T12:55:33.977019+00:00",
   "items": [
     {
-      "source": "ZETA Tijuana",
-      "title": "Sigue vigilancia en Mexicali, tras amenaza de “Los Rusos” contra FGR y Policía Municipal.",
-      "url": "https://zetatijuana.com/2026/08/sigue-vigilancia-en-mexicali-tras-amenaza-de-los-rusos-contra-fgr-y-policia-municipal/?utm_source=rss&utm_medium=rss&utm_campaign=sigue-vigilancia-en-mexicali-tras-amenaza-de-los-rusos-contra-fgr-y-policia-municipal",
-      "published": "Thu, 27 Aug 2026 02:51:29 +0000"
-    },
-    {
       "source": "AFN Tijuana",
-      "title": "Lamenta diputada que fue EU y no el gobierno local quien alertó de riesgo en Mexicali",
-      "url": "https://www.afntijuana.info/informacion_general/180892_lamenta_diputada_que_fue_eu_y_no_el_gobierno_local_quien_alerto_de_riesgo_en_mexicali",
+      "title": "FGR dijo haber encontrado más pruebas contra Ruffo; podrían fincar nuevos cargos",
+      "url": "https://www.afntijuana.info/informacion_general/180898_fgr_dijo_haber_encontrado_mas_pruebas_contra_ruffo_podrian_fincar_nuevos_cargos",
       "published": ""
     },
     {
       "source": "El Mexicano",
-      "title": "Anuncian semana del rock en MexicaliMexicali |26 de agosto",
-      "url": "https://el-mexicano.com.mx/Noticia/Mexicali/98605/Anuncian-semana-del-rock-en-Mexicali",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Detienen a tres personas por presunto homicidio en la Zona Centro de Tijuana",
-      "url": "https://www.elimparcial.com/tij/policiaca/2026/08/26/detienen-a-tres-personas-por-presunto-homicidio-en-la-zona-centro-de-tijuana/",
-      "published": ""
-    },
-    {
-      "source": "TJ Comunica",
-      "title": "“No es el puesto, es seguir aportando a la gente”: Ismael Burgueño pone la unidad por encima de aspiraciones en Morena",
-      "url": "https://tjcomunica.com/no-es-el-puesto-es-seguir-aportando-a-la-gente-ismael-burgueno-pone-la-unidad-por-encima-de-aspiraciones-en-morena/",
-      "published": ""
-    },
-    {
-      "source": "ZETA Tijuana",
-      "title": "“Vamos a seguir llamándonos Somos México”: Álvarez cuestiona veto a nombre partidista",
-      "url": "https://zetatijuana.com/2026/08/vamos-a-seguir-llamandonos-somos-mexico-alvarez-cuestiona-veto-a-nombre-partidista/?utm_source=rss&utm_medium=rss&utm_campaign=vamos-a-seguir-llamandonos-somos-mexico-alvarez-cuestiona-veto-a-nombre-partidista",
-      "published": "Thu, 27 Aug 2026 02:09:13 +0000"
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Tribunal ordena al IEE, por tercera ocasión, investigar denuncia contra Julieta Ramírez",
-      "url": "https://www.afntijuana.info/informacion_general/180891_tribunal_ordena_al_iee_por_tercera_ocasion_investigar_denuncia_contra_julieta_ramirez",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Anuncian semana del rock en MexicaliMexicali| miércoles 26 de agosto",
-      "url": "https://el-mexicano.com.mx/Noticia/Mexicali/98605/Anuncian-semana-del-rock-en-Mexicali",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Policías municipales detuvieron a tres personas presuntamente relacionadas con un homicidio en la Zona Centro y aseguraron un vehículo y dos armas cortas.",
-      "url": "https://www.elimparcial.com/tij/policiaca/2026/08/26/detienen-a-tres-personas-por-presunto-homicidio-en-la-zona-centro-de-tijuana/",
-      "published": ""
-    },
-    {
-      "source": "TJ Comunica",
-      "title": "Se registra fuga de gas en Zona Centro de Tijuana",
-      "url": "https://tjcomunica.com/se-registra-fuga-de-gas-en-zona-centro-de-tijuana/",
-      "published": ""
-    },
-    {
-      "source": "ZETA Tijuana",
-      "title": "Intelectuales exigen conservar nombre del poeta Amado Nervo en Aeropuerto de Tepic",
-      "url": "https://zetatijuana.com/2026/08/intelectuales-exigen-conservar-nombre-del-poeta-amado-nervo-en-aeropuerto-de-tepic/?utm_source=rss&utm_medium=rss&utm_campaign=intelectuales-exigen-conservar-nombre-del-poeta-amado-nervo-en-aeropuerto-de-tepic",
-      "published": "Thu, 27 Aug 2026 01:59:50 +0000"
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Apagón deja sin clases a estudiantes de la UABC en Mexicali",
-      "url": "https://www.afntijuana.info/informacion_general/180890_apagon_deja_sin_clases_a_estudiantes_de_la_uabc_en_mexicali",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Cae en Puebla presunto homicida del influencer César GastélumNacional |26 de agosto",
-      "url": "https://el-mexicano.com.mx/Noticia/Nacional/98604/Cae-en-Puebla-presunto-homicida-del-influencer-C%C3%A9sar-Gast%C3%A9lum",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Prevén continuidad de apoyo a viudas de policías de Tijuana",
-      "url": "https://www.elimparcial.com/tij/tijuana/2026/08/26/preven-continuidad-de-apoyo-a-viudas-de-policias-de-tijuana/",
-      "published": ""
-    },
-    {
-      "source": "TJ Comunica",
-      "title": "“Me declaro listo para conducir la transformación en Baja California”: Fernando Castro Trenti",
-      "url": "https://tjcomunica.com/me-declaro-listo-para-conducir-la-transformacion-en-baja-california-fernando-castro-trenti/",
-      "published": ""
-    },
-    {
-      "source": "ZETA Tijuana",
-      "title": "Bajacalifornianos miran hacia Los Ángeles 2028",
-      "url": "https://zetatijuana.com/2026/08/bajacalifornianos-miran-hacia-los-angeles-2028/?utm_source=rss&utm_medium=rss&utm_campaign=bajacalifornianos-miran-hacia-los-angeles-2028",
-      "published": "Thu, 27 Aug 2026 01:38:40 +0000"
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Bomberos de Ensenada concluyen curso de Lengua de Señas Mexicana",
-      "url": "https://www.afntijuana.info/informacion_general/180889_bomberos_de_ensenada_concluyen_curso_de_lengua_de_senas_mexicana",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Cae en Puebla presunto homicida del influencer César GastélumNacional| miércoles 26 de agosto",
-      "url": "https://el-mexicano.com.mx/Noticia/Nacional/98604/Cae-en-Puebla-presunto-homicida-del-influencer-C%C3%A9sar-Gast%C3%A9lum",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "FCA de UABC supera los 5 mil estudiantes en campus Otay",
-      "url": "https://www.elimparcial.com/tij/tijuana/2026/08/26/fca-de-uabc-supera-los-5-mil-estudiantes-en-campus-otay/",
-      "published": ""
-    },
-    {
-      "source": "TJ Comunica",
-      "title": "Ataque armado en Zona Centro termina con tres detenidos",
-      "url": "https://tjcomunica.com/ataque-armado-en-zona-centro-termina-con-tres-detenidos/",
-      "published": ""
-    },
-    {
-      "source": "ZETA Tijuana",
-      "title": "Primer adelanto de la Navidad en Disneyland",
-      "url": "https://zetatijuana.com/2026/08/primer-adelanto-de-la-navidad-en-disneyland/?utm_source=rss&utm_medium=rss&utm_campaign=primer-adelanto-de-la-navidad-en-disneyland",
-      "published": "Thu, 27 Aug 2026 01:17:09 +0000"
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "El exdiputado Héctor Mares será coordinador de agenda parlamentaria del PT",
-      "url": "https://www.afntijuana.info/informacion_general/180888_el_exdiputado_hector_mares_sera_coordinador_de_agenda_parlamentaria_del_pt",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Comparten sus próximos objetivos  medallistas de Santo Domingo 2026Deportes |26 de agosto",
-      "url": "https://el-mexicano.com.mx/Noticia/Deportes/98603/Comparten-sus-pr%C3%B3ximos-objetivos--medallistas-de-Santo-Domingo-2026",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Investigan muerte en centro de rehabilitación de Tijuana",
-      "url": "https://www.elimparcial.com/tij/policiaca/2026/08/26/investigan-muerte-en-centro-de-rehabilitacion-de-tijuana/",
-      "published": ""
-    },
-    {
-      "source": "TJ Comunica",
-      "title": "Alerta por posibles explosivos mantiene vigilancia reforzada en Mexicali",
-      "url": "https://tjcomunica.com/alerta-por-posibles-explosivos-mantiene-vigilancia-reforzada-en-mexicali/",
-      "published": ""
-    },
-    {
-      "source": "ZETA Tijuana",
-      "title": "Toros se preparan para encarar la final de la Zona Norte",
-      "url": "https://zetatijuana.com/2026/08/toros-se-preparan-para-encarar-la-final-de-la-zona-norte/?utm_source=rss&utm_medium=rss&utm_campaign=toros-se-preparan-para-encarar-la-final-de-la-zona-norte",
-      "published": "Thu, 27 Aug 2026 01:12:09 +0000"
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Senador Inzunza deja Morena y se declara independiente",
-      "url": "https://www.afntijuana.info/nacionales/180887_senador_inzunza_deja_morena_y_se_declara_independiente",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Comparten sus próximos objetivos  medallistas de Santo Domingo 2026Deportes| miércoles 26 de agosto",
-      "url": "https://el-mexicano.com.mx/Noticia/Deportes/98603/Comparten-sus-pr%C3%B3ximos-objetivos--medallistas-de-Santo-Domingo-2026",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Refugios de San Diego operan por encima de su capacidad",
-      "url": "https://www.elimparcial.com/tij/california/2026/08/26/refugios-de-san-diego-operan-por-encima-de-su-capacidad/",
-      "published": ""
-    },
-    {
-      "source": "TJ Comunica",
-      "title": "Detienen a hombre que intentó escapar con un arma hechiza",
-      "url": "https://tjcomunica.com/detienen-a-hombre-que-intento-escapar-con-un-arma-hechiza/",
-      "published": ""
-    },
-    {
-      "source": "ZETA Tijuana",
-      "title": "Fiscalía debería informar “de oficio” si investigación contra Burgueño quedó cerrada: FCT",
-      "url": "https://zetatijuana.com/2026/08/fiscalia-deberia-informar-de-oficio-si-investigacion-contra-burgueno-quedo-cerrada-fct/?utm_source=rss&utm_medium=rss&utm_campaign=fiscalia-deberia-informar-de-oficio-si-investigacion-contra-burgueno-quedo-cerrada-fct",
-      "published": "Thu, 27 Aug 2026 00:21:39 +0000"
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Ya solo quedan tres para Baja California, en la interna de Morena",
-      "url": "https://www.afntijuana.info/afn_politico/180886_ya_solo_quedan_tres_para_baja_california_en_la_interna_de_morena",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Morena elige a Santiago Nieto para derrocar al PAN en QuerétaroNacional |26 de agosto",
-      "url": "https://el-mexicano.com.mx/Noticia/Nacional/98602/Morena-elige-a-Santiago-Nieto-para-derrocar-al-PAN-en-Quer%C3%A9taro",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Movilidad y salud, principales demandas del IFDP en BC",
-      "url": "https://www.elimparcial.com/tij/tijuana/2026/08/26/movilidad-y-salud-principales-necesidades-atendidas-por-el-ifdp-en-baja-california/",
-      "published": ""
-    },
-    {
-      "source": "TJ Comunica",
-      "title": "Detienen a sujeto armado con historial por homicidio y robo de vehículos",
-      "url": "https://tjcomunica.com/detienen-a-sujeto-armado-con-historial-por-homicidio-y-robo-de-vehiculos/",
-      "published": ""
-    },
-    {
-      "source": "ZETA Tijuana",
-      "title": "AMMJE Playas de Rosarito trabajará con una agenda regional binacional",
-      "url": "https://zetatijuana.com/2026/08/ammje-playas-de-rosarito-trabajara-con-una-agenda-regional-binacional/?utm_source=rss&utm_medium=rss&utm_campaign=ammje-playas-de-rosarito-trabajara-con-una-agenda-regional-binacional",
-      "published": "Wed, 26 Aug 2026 23:39:37 +0000"
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Realizarán foros gratuitos para fortalecer MiPyMEs: Marina del Pilar",
-      "url": "https://www.afntijuana.info/informacion_general/180885_realizaran_foros_gratuitos_para_fortalecer_mipymes_marina_del_pilar",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Morena elige a Santiago Nieto para derrocar al PAN en QuerétaroNacional| miércoles 26 de agosto",
-      "url": "https://el-mexicano.com.mx/Noticia/Nacional/98602/Morena-elige-a-Santiago-Nieto-para-derrocar-al-PAN-en-Quer%C3%A9taro",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Dan último adiós a Saúl, víctima del choque cerca del IMOS",
-      "url": "https://www.elimparcial.com/tij/tijuana/2026/08/26/dan-el-ultimo-al-joven-saul-una-de-las-victimas-del-choque-que-dejo-17-lesionados-y-cinco-muertos-cerca-del-imos/",
-      "published": ""
-    },
-    {
-      "source": "TJ Comunica",
-      "title": "Balean vivienda y vehículo y dejan mensaje de amenaza",
-      "url": "https://tjcomunica.com/balean-vivienda-y-vehiculo-y-dejan-mensaje-de-amenaza/",
-      "published": ""
-    },
-    {
-      "source": "ZETA Tijuana",
-      "title": "Morena analiza sanciones contra Inzunza tras su salida del grupo parlamentario",
-      "url": "https://zetatijuana.com/2026/08/morena-analiza-sanciones-contra-inzunza-tras-su-salida-del-grupo-parlamentario/?utm_source=rss&utm_medium=rss&utm_campaign=morena-analiza-sanciones-contra-inzunza-tras-su-salida-del-grupo-parlamentario",
-      "published": "Wed, 26 Aug 2026 23:26:59 +0000"
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Advierten de riesgos para quienes conviven en el Río Tijuana",
-      "url": "https://www.afntijuana.info/informacion_general/180884_advierten_de_riesgos_para_quienes_conviven_en_el_rio_tijuana",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "“Me declaro listo”, señala Castro Trenti y va por la coordinación de Morena en BCEstatal |26 de agosto",
-      "url": "https://el-mexicano.com.mx/Noticia/Estatal/98601/%E2%80%9CMe-declaro-listo%E2%80%9D,-se%C3%B1ala-Castro-Trenti-y-va-por-la-coordinaci%C3%B3n-de-Morena-en-BC",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Fuga de gas moviliza a Bomberos en Zona Centro",
-      "url": "https://www.elimparcial.com/tij/policiaca/2026/08/26/fuga-de-gas-moviliza-a-bomberos-en-zona-centro/",
-      "published": ""
-    },
-    {
-      "source": "ZETA Tijuana",
-      "title": "Celebrarán aniversario de la Facultad de Contaduría y Administración con torneo de Golf",
-      "url": "https://zetatijuana.com/2026/08/celebraran-aniversario-de-la-facultad-de-contaduria-y-administracion-con-torneo-de-golf/?utm_source=rss&utm_medium=rss&utm_campaign=celebraran-aniversario-de-la-facultad-de-contaduria-y-administracion-con-torneo-de-golf",
-      "published": "Wed, 26 Aug 2026 22:29:56 +0000"
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Extesorera de EU confía en cambios a política migratoria y destaca beneficios del T-MEC",
-      "url": "https://www.afntijuana.info/informacion_general/180883_extesorera_de_eu_confia_en_cambios_a_politica_migratoria_y_destaca_beneficios_del_t_mec",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "“Me declaro listo”, señala Castro Trenti y va por la coordinación de Morena en BCEstatal| miércoles 26 de agosto",
-      "url": "https://el-mexicano.com.mx/Noticia/Estatal/98601/%E2%80%9CMe-declaro-listo%E2%80%9D,-se%C3%B1ala-Castro-Trenti-y-va-por-la-coordinaci%C3%B3n-de-Morena-en-BC",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Qué revisar al comprar útiles escolares, según Profeco",
-      "url": "https://www.elimparcial.com/dinero/2026/08/26/antes-del-regreso-a-clases-la-profeco-aclara-los-puntos-clave-de-resistencia-y-garantia-que-debes-revisar-al-comprar-utiles-mochilas-y-uniformes-para-asegurar-su-calidad-antes-de-gastar-en-las-tiendas/",
+      "title": "Esperan con ilusión su primer bebé Jaqueline González y Alexis MartínezSociales |26 de agosto",
+      "url": "https://el-mexicano.com.mx/Noticia/Sociales/98608/Esperan-con-ilusi%C3%B3n-su-primer-beb%C3%A9-Jaqueline-Gonz%C3%A1lez-y-Alexis-Mart%C3%ADnez",
       "published": ""
     },
     {
       "source": "AFN Tijuana",
-      "title": "Castro Trenti seguro de conseguir la nominación de su partido",
-      "url": "https://www.afntijuana.info/informacion_general/180882_castro_trenti_seguro_de_conseguir_la_nominacion_de_su_partido",
+      "title": "Manifiesto cultural en defensa de las librerías y de la cultura",
+      "url": "https://www.afntijuana.info/comunidad/180897_manifiesto_cultural_en_defensa_de_las_librerias_y_de_la_cultura",
       "published": ""
     },
     {
       "source": "El Mexicano",
-      "title": "Anuncia Index retiro de 17 visas a choferes por presunto cabotajeMexicali |26 de agosto",
-      "url": "https://el-mexicano.com.mx/Noticia/Mexicali/98600/Anuncia-Index-retiro-de-17-visas-a-choferes-por-presunto-cabotaje",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "UABC reconoce necesidad de transporte para alumnos de Santa Fe",
-      "url": "https://www.elimparcial.com/tij/tijuana/2026/08/26/uabc-reconoce-necesidad-de-transporte-para-alumnos-de-santa-fe/",
+      "title": "Esperan con ilusión su primer bebé Jaqueline González y Alexis MartínezSociales| miércoles 26 de agosto",
+      "url": "https://el-mexicano.com.mx/Noticia/Sociales/98608/Esperan-con-ilusi%C3%B3n-su-primer-beb%C3%A9-Jaqueline-Gonz%C3%A1lez-y-Alexis-Mart%C3%ADnez",
       "published": ""
     },
     {
       "source": "AFN Tijuana",
-      "title": "Eva Moreno tiene acercamiento con los aliados",
-      "url": "https://www.afntijuana.info/informacion_general/180881_eva_moreno_tiene_acercamiento_con_los_aliados",
+      "title": "Genovese Un Marciano en Tijuana",
+      "url": "https://www.afntijuana.info/fotos_historicas/180896_genovese_un_marciano_en_tijuana",
       "published": ""
     },
     {
       "source": "El Mexicano",
-      "title": "Anuncia Index retiro de 17 visas a choferes por presunto cabotajeMexicali| miércoles 26 de agosto",
-      "url": "https://el-mexicano.com.mx/Noticia/Mexicali/98600/Anuncia-Index-retiro-de-17-visas-a-choferes-por-presunto-cabotaje",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Capacitan a 3 mil padres para prevenir riesgos escolares",
-      "url": "https://www.elimparcial.com/tij/ensenada/2026/08/26/capacitan-a-3-mil-padres-de-familia-en-ensenada-para-prevenir-riesgos-en-escuelas/",
+      "title": "Festejó su cumpleaños en familia Sebastián Mejía RamosSociales |26 de agosto",
+      "url": "https://el-mexicano.com.mx/Noticia/Sociales/98607/Festej%C3%B3-su-cumplea%C3%B1os-en-familia-Sebasti%C3%A1n-Mej%C3%ADa-Ramos",
       "published": ""
     },
     {
       "source": "AFN Tijuana",
-      "title": "SNTE presenta iniciativa de ley para protección laboral en escuelas",
-      "url": "https://www.afntijuana.info/informacion_general/180880_snte_presenta_iniciativa_de_ley_para_proteccion_laboral_en_escuelas",
+      "title": "AMENGUAR LA PALABRA. PULVERIZAR EL ENCUENTRO",
+      "url": "https://www.afntijuana.info/editoriales/180895_amenguar_la_palabra_pulverizar_el_encuentro",
       "published": ""
     },
     {
       "source": "El Mexicano",
-      "title": "FGEBC descarta secuestro de empresario privado de la libertad en Playas de RosaritoRosarito| miércoles 26 de agosto",
-      "url": "https://el-mexicano.com.mx/Noticia/Rosarito/98586/FGEBC-descarta-secuestro-de-empresario-privado-de-la-libertad-en-Playas-de-Rosarito",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "“Ni tú Ni yo, El Show” llegará a Tijuana",
-      "url": "https://www.elimparcial.com/tij/tijuana/2026/08/26/ni-tu-ni-yo-el-show-llegara-a-tijuana/",
+      "title": "Festejó su cumpleaños en familia Sebastián Mejía RamosSociales| miércoles 26 de agosto",
+      "url": "https://el-mexicano.com.mx/Noticia/Sociales/98607/Festej%C3%B3-su-cumplea%C3%B1os-en-familia-Sebasti%C3%A1n-Mej%C3%ADa-Ramos",
       "published": ""
     },
     {
       "source": "AFN Tijuana",
-      "title": "¿Está amenazada la síndico Teresita Balderas?",
-      "url": "https://www.afntijuana.info/informacion_general/180879_iesta_amenazada_la_sindico_teresita_balderas",
+      "title": "Ejecutan a balazos a un joven en Tecate",
+      "url": "https://www.afntijuana.info/seguridad/180894_ejecutan_a_balazos_a_un_joven_en_tecate",
       "published": ""
     },
     {
       "source": "El Mexicano",
-      "title": "Buscan iniciar este año construcción del Memorial de los DesaparecidosMexicali| miércoles 26 de agosto",
-      "url": "https://el-mexicano.com.mx/Noticia/Mexicali/98583/Buscan-iniciar-este-a%C3%B1o-construcci%C3%B3n-del-Memorial-de-los-Desaparecidos",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Incendio forestal en Sierra de Juárez sigue activo",
-      "url": "https://www.elimparcial.com/tij/ensenada/2026/08/26/incendio-forestal-en-sierra-de-juarez-sigue-activo/",
-      "published": ""
-    },
-    {
-      "source": "TJ Comunica",
-      "title": "Van 16 exfuncionarios de Montserrat Caballero inhabilitados; investigación contra la exalcaldesa continúa.",
-      "url": "https://tjcomunica.com/van-16-exfuncionarios-de-montserrat-caballero-inhabilitados-investigacion-contra-la-exalcaldesa-continua/",
+      "title": "Entrega Canaco Mexicali útiles escolaresMexicali |26 de agosto",
+      "url": "https://el-mexicano.com.mx/Noticia/Mexicali/98606/Entrega-Canaco-Mexicali-%C3%BAtiles-escolares",
       "published": ""
     },
     {
       "source": "AFN Tijuana",
-      "title": "Han retirado visas a 17 transportistas en la garita de Mexicali: Index",
-      "url": "https://www.afntijuana.info/informacion_general/180878_han_retirado_visas_a_17_transportistas_en_la_garita_de_mexicali_index",
+      "title": "Hay 35 mil pacientes renales en Baja California",
+      "url": "https://www.afntijuana.info/informacion_general/180893_hay_35_mil_pacientes_renales_en_baja_california",
       "published": ""
     },
     {
       "source": "El Mexicano",
-      "title": "Presentan Maestros ley de protección para trabajadores de la educaciónEstatal| miércoles 26 de agosto",
-      "url": "https://el-mexicano.com.mx/Noticia/Estatal/98597/Presentan-Maestros-ley-de-protecci%C3%B3n-para-trabajadores-de-la-educaci%C3%B3n",
+      "title": "Entrega Canaco Mexicali útiles escolaresMexicali| miércoles 26 de agosto",
+      "url": "https://el-mexicano.com.mx/Noticia/Mexicali/98606/Entrega-Canaco-Mexicali-%C3%BAtiles-escolares",
       "published": ""
     },
     {
-      "source": "El Imparcial (Tijuana)",
-      "title": "María Adolfina Escobar, nueva directiva de AMMJE Playas de Rosarito",
-      "url": "https://www.elimparcial.com/videos/2026/08/26/maria-adolfina-escobar-nueva-directiva-de-ammje-playas-de-rosarito/",
+      "source": "El Mexicano",
+      "title": "Confirma Gobierno del Estado construcción de memorial para desaparecidosTras presentación de la propuesta por parte de un colectivoEstatal| miércoles 26 de agosto",
+      "url": "https://el-mexicano.com.mx/Noticia/Estatal/98591/Confirma-Gobierno-del-Estado-construcci%C3%B3n-de-memorial-para-desaparecidos",
+      "published": ""
+    },
+    {
+      "source": "El Mexicano",
+      "title": "Diputada solicitará auditoría para ex secretario de saludTras una deficiente actuación de Medina AmarillasEstatal| miércoles 26 de agosto",
+      "url": "https://el-mexicano.com.mx/Noticia/Estatal/98587/Diputada-solicitar%C3%A1-auditor%C3%ADa-para-ex-secretario-de-salud",
       "published": ""
     }
   ]
