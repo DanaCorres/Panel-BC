@@ -1,8 +1,36 @@
 {
   "date": "2026-08-26",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Vigilancia reforzada en Mexicali por amenazas de grupo criminal",
+        "summary": "Autoridades mantienen alerta tras amenazas de \"Los Rusos\" contra FGR y Policía Municipal en Mexicali.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/sigue-vigilancia-en-mexicali-tras-amenaza-de-los-rusos-contra-fgr-y-policia-municipal/?utm_source=rss&utm_medium=rss&utm_campaign=sigue-vigilancia-en-mexicali-tras-amenaza-de-los-rusos-contra-fgr-y-policia-municipal",
+        "_added_at": "2026-08-26T20:01:35.186321-07:00"
+      },
+      {
+        "title": "Tres detenidos por homicidio en Zona Centro de Tijuana",
+        "summary": "Policía municipal captura a tres personas vinculadas a homicidio, asegura armas y vehículo.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/policiaca/2026/08/26/detienen-a-tres-personas-por-presunto-homicidio-en-la-zona-centro-de-tijuana/",
+        "_added_at": "2026-08-26T20:01:35.186321-07:00"
+      },
+      {
+        "title": "Fuga de gas reportada en Zona Centro tijuanense",
+        "summary": "Incidente de seguridad por fuga de gas requiere atención en área céntrica de Tijuana.",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/se-registra-fuga-de-gas-en-zona-centro-de-tijuana/",
+        "_added_at": "2026-08-26T20:01:35.186321-07:00"
+      },
+      {
+        "title": "Detenido sujeto armado con antecedentes criminales",
+        "summary": "Capturan a individuo con historial por homicidio y robo de vehículos portando arma.",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/detienen-a-sujeto-armado-con-historial-por-homicidio-y-robo-de-vehiculos/",
+        "_added_at": "2026-08-26T20:01:35.186321-07:00"
+      },
       {
         "title": "Asesinan a hombre en madrugada; detienen a dos mujeres",
         "summary": "Homicidio en Tijuana con detención de dos mujeres armadas y un motociclista como presuntos responsables.",
@@ -34,6 +62,34 @@
     ],
     "politica": [
       {
+        "title": "Senador Inzunza abandona Morena y se declara independiente",
+        "summary": "Legislador se separa del partido Morena asumiendo postura independiente.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/nacionales/180887_senador_inzunza_deja_morena_y_se_declara_independiente",
+        "_added_at": "2026-08-26T20:01:35.186321-07:00"
+      },
+      {
+        "title": "Tribunal ordena nueva investigación sobre denuncia contra Ramírez",
+        "summary": "IEE recibe tercera orden judicial de investigar denuncia contra aspirante política.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180891_tribunal_ordena_al_iee_por_tercera_ocasion_investigar_denuncia_contra_julieta_ramirez",
+        "_added_at": "2026-08-26T20:01:35.186321-07:00"
+      },
+      {
+        "title": "Burgueño prioriza unidad partidaria sobre aspiraciones personales",
+        "summary": "Político de Morena enfatiza compromiso con el partido sobre intereses individuales.",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/no-es-el-puesto-es-seguir-aportando-a-la-gente-ismael-burgueno-pone-la-unidad-por-encima-de-aspiraciones-en-morena/",
+        "_added_at": "2026-08-26T20:01:35.186321-07:00"
+      },
+      {
+        "title": "Castro Trenti se declara listo para transformar Baja California",
+        "summary": "Candidato expresa disposición para asumir liderazgo en transformación estatal.",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/me-declaro-listo-para-conducir-la-transformacion-en-baja-california-fernando-castro-trenti/",
+        "_added_at": "2026-08-26T20:01:35.186321-07:00"
+      },
+      {
         "title": "Sheinbaum propone restricción de doble nacionalidad",
         "summary": "Iniciativa presidencial busca limitar injerencismo limitando nacionalidad dual para gobernantes.",
         "source": "ZETA Tijuana",
@@ -64,6 +120,20 @@
     ],
     "economia": [
       {
+        "title": "Foros gratuitos para fortalecer MiPyMEs en Baja California",
+        "summary": "Gobierno impulsa capacitación gratuita para pequeñas y medianas empresas del estado.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180885_realizaran_foros_gratuitos_para_fortalecer_mipymes_marina_del_pilar",
+        "_added_at": "2026-08-26T20:01:35.186321-07:00"
+      },
+      {
+        "title": "FCA de UABC supera cinco mil estudiantes en campus Otay",
+        "summary": "Facultad de Contabilidad registra crecimiento significativo de matrícula estudiantil.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/08/26/fca-de-uabc-supera-los-5-mil-estudiantes-en-campus-otay/",
+        "_added_at": "2026-08-26T20:01:35.186321-07:00"
+      },
+      {
         "title": "Solo 3,542 ocupados en BC ganan más de 5 salarios",
         "summary": "Cifra muestra concentración salarial crítica en Baja California con muy pocos ingresos altos.",
         "source": "AFN Tijuana",
@@ -87,6 +157,27 @@
     ],
     "sociedad": [
       {
+        "title": "Bomberos de Ensenada concluyen curso de Lengua de Señas",
+        "summary": "Personal de bomberos se capacita en lengua de señas para mejor atención ciudadana.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180889_bomberos_de_ensenada_concluyen_curso_de_lengua_de_senas_mexicana",
+        "_added_at": "2026-08-26T20:01:35.186321-07:00"
+      },
+      {
+        "title": "Apagón afecta clases en campus de UABC en Mexicali",
+        "summary": "Corte de energía eléctrica interrumpe actividades académicas en universidad estatal.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180890_apagon_deja_sin_clases_a_estudiantes_de_la_uabc_en_mexicali",
+        "_added_at": "2026-08-26T20:01:35.186321-07:00"
+      },
+      {
+        "title": "Movilidad y salud, prioridades del IFDP en Baja California",
+        "summary": "Dependencia estatal enfoca esfuerzos en resolver demandas de transporte y servicios sanitarios.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/08/26/movilidad-y-salud-principales-necesidades-atendidas-por-el-ifdp-en-baja-california/",
+        "_added_at": "2026-08-26T20:01:35.186321-07:00"
+      },
+      {
         "title": "Largas filas en garita San Ysidro causan caos vial",
         "summary": "Congestión fronteriza colapsa movilidad en Tijuana por aumento de esperas.",
         "source": "El Imparcial (Tijuana)",
@@ -102,5 +193,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-26T09:51:37.513829-07:00"
+  "last_updated": "2026-08-26T20:01:35.186321-07:00"
 }
