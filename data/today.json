@@ -1,8 +1,36 @@
 {
   "date": "2026-08-27",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "49 muertes por calor registradas en BC durante 2026",
+        "summary": "Baja California suma 49 fallecimientos relacionados con temperaturas extremas en lo que va del año.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/van-49-muertes-relacionadas-con-el-calor-en-baja-california-durante-2026/?utm_source=rss&utm_medium=rss&utm_campaign=van-49-muertes-relacionadas-con-el-calor-en-baja-california-durante-2026",
+        "_added_at": "2026-08-27T17:48:43.403475-07:00"
+      },
+      {
+        "title": "Excontralmirante vinculado a delincuencia organizada",
+        "summary": "Fernando Farías Laguna queda procesado por delincuencia organizada y huachicol fiscal.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/vinculan-a-proceso-al-excontralmirante-fernando-farias-laguna-por-delincuencia-organizada-y-huachicol-fiscal/?utm_source=rss&utm_medium=rss&utm_campaign=vinculan-a-proceso-al-excontralmirante-fernando-farias-laguna-por-delincuencia-organizada-y-huachicol-fiscal",
+        "_added_at": "2026-08-27T17:48:43.403475-07:00"
+      },
+      {
+        "title": "IMSS implementa detectores de metales en instalaciones",
+        "summary": "Instituto de Seguridad Social revisa a usuarios con detectores antes de acceso a oficinas.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/08/27/imss-revisara-a-usuarios-con-detector-de-metales-antes-de-entrar-a-sus-instalaciones/",
+        "_added_at": "2026-08-27T17:48:43.403475-07:00"
+      },
+      {
+        "title": "Operador de Julieta Ramírez condenado por narcotráfico",
+        "summary": "Sujeto vinculado a personaje fue sentenciado por tráfico de drogas en Estados Unidos.",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/operador-de-julieta-ramirez-fue-sentenciado-por-narcotrafico-en-estados-unidos/",
+        "_added_at": "2026-08-27T17:48:43.403475-07:00"
+      },
       {
         "title": "Joven ejecutado a balazos en Tecate",
         "summary": "Reportan homicidio de un joven en Tecate por arma de fuego.",
@@ -12,6 +40,34 @@
       }
     ],
     "politica": [
+      {
+        "title": "Ayala asegura que no declinará candidatura",
+        "summary": "Candidato afirma que continuará en contienda; si pierde se sumará al proyecto ganador.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180931_no_declinara_por_nadie_asegura_ayala_si_no_gana_se_sumara_al_proyecto",
+        "_added_at": "2026-08-27T17:48:43.403475-07:00"
+      },
+      {
+        "title": "Diputados desatienden capacitación sobre violencia de género",
+        "summary": "Legisladores locales ausentes en sesión de capacitación en materia de violencia de género.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180933_desairan_diputados_locales_capacitacion_en_materia_de_violencia_de_genero",
+        "_added_at": "2026-08-27T17:48:43.403475-07:00"
+      },
+      {
+        "title": "Abogado de Ruffo contradice acusaciones de FGR",
+        "summary": "Defensa legal refuta señalamientos de la Fiscalía General de la República contra el exgobernador.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/abogado-de-ruffo-contradice-acusaciones-de-la-fgr/?utm_source=rss&utm_medium=rss&utm_campaign=abogado-de-ruffo-contradice-acusaciones-de-la-fgr",
+        "_added_at": "2026-08-27T17:48:43.403475-07:00"
+      },
+      {
+        "title": "Agricultores irrumpen en congreso y exigen renuncia",
+        "summary": "Trigueros invaden legislatura local reclamando medidas y pidiendo salida de funcionaria.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180928_irrumpen_trigueros_en_el_congreso_reclaman_y_exigen_renuncia_de_secretaria",
+        "_added_at": "2026-08-27T17:48:43.403475-07:00"
+      },
       {
         "title": "FGR halla nuevas pruebas contra Ruffo",
         "summary": "Fiscalía General reporta evidencia adicional que podría originar cargos adicionales.",
@@ -36,6 +92,34 @@
     ],
     "economia": [
       {
+        "title": "Turismo californiano resiste alertas en Baja California",
+        "summary": "Visitantes de Estados Unidos mantienen flujo turístico pese a recomendaciones de viaje.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/98658/Turismo-de-California-resiste-alertas-en-Baja-California",
+        "_added_at": "2026-08-27T17:48:43.403475-07:00"
+      },
+      {
+        "title": "Regreso a clases triplicará ventas en Mexicali",
+        "summary": "Cámara de Comercio proyecta incremento significativo en ventas por inicio de ciclo escolar.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180932_el_regreso_a_clases_triplicara_las_ventas_canaco_mexicali",
+        "_added_at": "2026-08-27T17:48:43.403475-07:00"
+      },
+      {
+        "title": "San Quintín recibe apoyos para proyectos turísticos",
+        "summary": "Gobierno de BC destina más de 439 mil pesos para fortalecer iniciativas turísticas locales.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/San%20Quint%C3%ADn/98657/Fortalece-Baja-California-proyectos-tur%C3%ADsticos-de-San-Quint%C3%ADn-con-apoyos-por-m%C3%A1s-de-439-mil-pesos",
+        "_added_at": "2026-08-27T17:48:43.403475-07:00"
+      },
+      {
+        "title": "Buscan potenciar corredor hotelero en Rosarito",
+        "summary": "Proyecto busca atraer inversión nacional e internacional para desarrollo hotelero costero.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Rosarito/98656/Buscan-detonar-el-potencial-hotelero-del-corredor-costero-en-BC-con-capital-nacional-y-extranjero",
+        "_added_at": "2026-08-27T17:48:43.403475-07:00"
+      },
+      {
         "title": "Canaco Mexicali entrega útiles escolares",
         "summary": "Cámara de comercio distribuye material escolar a estudiantes en Mexicali.",
         "source": "El Mexicano",
@@ -44,6 +128,34 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Madre busca ver a hijo de 13 años localizado en Tijuana",
+        "summary": "Progenitora denuncia imposibilidad de contactar a menor tras ser hallado en la ciudad.",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/madre-denuncia-que-no-ha-podido-ver-a-su-hijo-de-13-anos-tras-ser-localizado-en-tijuana/",
+        "_added_at": "2026-08-27T17:48:43.403475-07:00"
+      },
+      {
+        "title": "AMU Baja California enfoca trabajo en problemáticas urbanas",
+        "summary": "Asociación estatal de municipios prioriza solución de issues urbanos con equipo multidisciplinario.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/08/27/amu-baja-california-priorizara-problematicas-urbanas-de-los-municipios/",
+        "_added_at": "2026-08-27T17:48:43.403475-07:00"
+      },
+      {
+        "title": "Mayoría de semáforos de Tijuana requieren mantenimiento",
+        "summary": "Infraestructura vial de la ciudad presenta deterioro generalizado en sistemas de control.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/08/27/mayoria-de-puntos-semaforicos-requieren-atencion-en-tijuana/",
+        "_added_at": "2026-08-27T17:48:43.403475-07:00"
+      },
+      {
+        "title": "CECyTE Altiplano destaca en robótica y educación BC",
+        "summary": "Instituto educativo muestra logros en programas tecnológicos y académicos regionales.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/08/27/cecyte-altiplano-destaca-en-robotica-y-educacion-en-baja-california/",
+        "_added_at": "2026-08-27T17:48:43.403475-07:00"
+      },
       {
         "title": "Manifiesto cultural en defensa de librerías",
         "summary": "Sector cultural se moviliza para proteger librerías locales en Tijuana.",
@@ -60,5 +172,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-27T05:55:34.547690-07:00"
+  "last_updated": "2026-08-27T17:48:43.403475-07:00"
 }
