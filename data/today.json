@@ -1,8 +1,36 @@
 {
   "date": "2026-08-29",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Homicidio en parada de autobús en Tijuana",
+        "summary": "Hombre asesinado a balazos en bulevar Insurgentes. Presuntos asaltantes dispararon contra la víctima.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/181004_asesinan_a_balazos_a_hombre_en_parada_de_camiones_del_bulevar_insurgentes",
+        "_added_at": "2026-08-29T12:19:55.140775-07:00"
+      },
+      {
+        "title": "Violencia en Tecate: dos heridos en tiroteo",
+        "summary": "Enfrentamiento armado en taquerías de Tecate dejó dos personas lesionadas por disparos.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/181003_jornada_de_violencia_en_tecate_deja_dos_heridos_en_taquerias_de_la_ciudad",
+        "_added_at": "2026-08-29T12:19:55.140775-07:00"
+      },
+      {
+        "title": "Dos hombres mueren en ataque armado Lázaro Cárdenas",
+        "summary": "Tiroteo en colonia Lázaro Cárdenas resultó en dos fallecidos. Presunto enfrentamiento entre grupos.",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/ataque-armado-deja-a-dos-hombres-sin-vida-en-la-colonia-lazaro-cardenas/",
+        "_added_at": "2026-08-29T12:19:55.140775-07:00"
+      },
+      {
+        "title": "Tiroteo cerca del Aeropuerto deja muerto y herido",
+        "summary": "Ataque armado provocó una muerte y un herido. Tres sujetos fueron detenidos en el lugar.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/180996_ataque_armado_deja_un_muerto_y_un_herido_cerca_del_aeropuerto_hay_tres_detenidos",
+        "_added_at": "2026-08-29T12:19:55.140775-07:00"
+      },
       {
         "title": "Camión volcado en Bulevar 2000 deja 15 heridos",
         "summary": "Transporte de personal se volcó causando múltiples lesionados en zona de Tijuana.",
@@ -34,6 +62,20 @@
     ],
     "politica": [
       {
+        "title": "Sheinbaum a mitad de mandato presidencial",
+        "summary": "Análisis de los primeros dos años de administración de la presidenta Claudia Sheinbaum.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/sheinbaum-los-dos-anos/?utm_source=rss&utm_medium=rss&utm_campaign=sheinbaum-los-dos-anos",
+        "_added_at": "2026-08-29T12:19:55.140775-07:00"
+      },
+      {
+        "title": "FGR reserva información de El Jando hasta 2031",
+        "summary": "Fiscalía General resguarda expediente del piloto acusado en caso Mayo Zambada por años.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/mexico/2026/08/29/fgr-reserva-hasta-2031-informacion-sobre-el-jando-piloto-senalado-de-trasladar-a-el-mayo-zambada-a-estados-unidos/",
+        "_added_at": "2026-08-29T12:19:55.140775-07:00"
+      },
+      {
         "title": "Conflicto interno en gobierno por desacuerdos",
         "summary": "Enfrentamiento entre Eva y Amador revela tensiones dentro de la administración actual.",
         "source": "AFN Tijuana",
@@ -64,6 +106,20 @@
     ],
     "economia": [
       {
+        "title": "Dólar sube por encima de 17 pesos mexicanos",
+        "summary": "Peso cede terreno ante fortaleza del dólar en últimos días de agosto.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/dinero/2026/08/29/precio-del-dolar-hoy-el-peso-cede-en-el-ultimo-asalto-de-la-semana-ante-el-avance-de-la-moneda-estadounidense-asi-cotiza-este-sabado-29-y-domingo-30-de-agosto/",
+        "_added_at": "2026-08-29T12:19:55.140775-07:00"
+      },
+      {
+        "title": "BC gastará crédito de 2,979 mdp hasta 2027",
+        "summary": "Gobierno estatal demorará gasto de crédito autorizado hasta próximo año fiscal.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/empresarial/180994_hasta_2027_terminaria_de_gastar_gobierno_de_bc_credito_por_2_979_mdp",
+        "_added_at": "2026-08-29T12:19:55.140775-07:00"
+      },
+      {
         "title": "Ayuntamiento enfrenta multa de 1 millón de pesos",
         "summary": "Falta de respuesta a solicitud ciudadana podría generar castigo económico.",
         "source": "AFN Tijuana",
@@ -80,6 +136,34 @@
     ],
     "sociedad": [
       {
+        "title": "Fallas de electricidad afectan zonas de Tijuana",
+        "summary": "Cortes de luz y bajo voltaje se registraron en varias áreas de la ciudad.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/zonas-de-tijuana-registraron-fallas-de-electricidad-y-bajo-voltaje/?utm_source=rss&utm_medium=rss&utm_campaign=zonas-de-tijuana-registraron-fallas-de-electricidad-y-bajo-voltaje",
+        "_added_at": "2026-08-29T12:19:55.140775-07:00"
+      },
+      {
+        "title": "Solicitan informe sobre apagones recurrentes Tijuana",
+        "summary": "Autoridades pedidas explicación por continuos problemas de suministro eléctrico.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/08/29/piden-informe-por-fallas-recurrentes-de-luz-en-tijuana/",
+        "_added_at": "2026-08-29T12:19:55.140775-07:00"
+      },
+      {
+        "title": "ONU Mujeres resalta necesidades de movilidad Tijuana",
+        "summary": "Organización internacional llama atención sobre problemas de transporte para mujeres.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180997_onu_mujeres_llama_a_visibilizar_necesidades_en_movilidad_en_tijuana",
+        "_added_at": "2026-08-29T12:19:55.140775-07:00"
+      },
+      {
+        "title": "Ballena hallada muerta en playas de Tijuana",
+        "summary": "Mamífero marino apareció sin vida en litoral de la ciudad.",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/aparece-ballena-sin-vida-en-playas-de-tijuana/",
+        "_added_at": "2026-08-29T12:19:55.140775-07:00"
+      },
+      {
         "title": "Casa de Cultura de Playas celebra 28 aniversario",
         "summary": "Institución cultural conmemora 28 años de servicios en Tijuana.",
         "source": "AFN Tijuana",
@@ -95,5 +179,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-29T02:12:25.843462-07:00"
+  "last_updated": "2026-08-29T12:19:55.140775-07:00"
 }
