@@ -1,8 +1,36 @@
 {
   "date": "2026-08-28",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Detienen a presunta líder de tráfico de migrantes en Tijuana",
+        "summary": "Autoridades capturan a \"La Tía\", identificada como jefa de célula dedicada al tráfico de personas.",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/detienen-a-la-tia-presunta-lider-de-celula-dedicada-al-trafico-de-migrantes/",
+        "_added_at": "2026-08-28T17:29:51.899714-07:00"
+      },
+      {
+        "title": "Menores arropellados: familiares exigen justicia en Tijuana",
+        "summary": "Padres de adolescentes atropellados en Guaycura rechazan que conductora siga en libertad.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180980_exigen_justicia_los_familiares_de_los_menores_arrollados_en_el_guaycura",
+        "_added_at": "2026-08-28T17:29:51.899714-07:00"
+      },
+      {
+        "title": "Asesinan a mujer a tiros en Mexicali",
+        "summary": "Homicidio registrado en la capital estatal durante operativo de seguridad.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/asesinan-a-mujer-a-tiros-en-mexicali/?utm_source=rss&utm_medium=rss&utm_campaign=asesinan-a-mujer-a-tiros-en-mexicali",
+        "_added_at": "2026-08-28T17:29:51.899714-07:00"
+      },
+      {
+        "title": "Investigan muerte en centro de rehabilitación de Patrulla Espiritual",
+        "summary": "CEDHBC abre expediente por deceso de joven en institución de Tijuana.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/abre-cedhbc-expediente-por-muerte-de-joven-en-centro-de-rehabilitacion-de-la-patrulla-espiritual/?utm_source=rss&utm_medium=rss&utm_campaign=abre-cedhbc-expediente-por-muerte-de-joven-en-centro-de-rehabilitacion-de-la-patrulla-espiritual",
+        "_added_at": "2026-08-28T17:29:51.899714-07:00"
+      },
       {
         "title": "Grupo criminal emite ultimátum a autoridades fronterizas",
         "summary": "Presuntos integrantes de organización delictiva amenazan a FGE y policía estatal mediante podcast sobre ataques con vehículos.",
@@ -34,6 +62,27 @@
     ],
     "politica": [
       {
+        "title": "Daylín García confirma participación en comicios de 2027",
+        "summary": "Candidata anuncia su intención de competir en próximo proceso electoral estatal.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/98707/Confirma-Dayl%C3%ADn-Garc%C3%ADa-que-participar%C3%A1-en-proceso-electoral-de-2027",
+        "_added_at": "2026-08-28T17:29:51.899714-07:00"
+      },
+      {
+        "title": "CCE critica eliminación de prohibición de propaganda electoral",
+        "summary": "Cámara de Comercio considera retroceso permitir carteles políticos en espacios públicos.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180976_un_retroceso_eliminar_la_prohibicion_de_colocar_propaganda_electoral_cce",
+        "_added_at": "2026-08-28T17:29:51.899714-07:00"
+      },
+      {
+        "title": "Fallo definitivo: Estado retiene residencia valuada en 51 mdp",
+        "summary": "Tribunal confirma que propiedad de Emilio Lozoya permanece en poder del gobierno.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/fallo-definitivo-estado-se-queda-con-la-residencia-de-51-mdp-de-emilio-lozoya/?utm_source=rss&utm_medium=rss&utm_campaign=fallo-definitivo-estado-se-queda-con-la-residencia-de-51-mdp-de-emilio-lozoya",
+        "_added_at": "2026-08-28T17:29:51.899714-07:00"
+      },
+      {
         "title": "PES asegura permanencia de su registro en Baja California",
         "summary": "Partido Estatal Socialista logra mantener registro electoral ante Instituto Electoral de BC tras revisión.",
         "source": "El Mexicano",
@@ -57,6 +106,34 @@
     ],
     "economia": [
       {
+        "title": "Retraso de un año en nueva estación de bomberos de Tecate",
+        "summary": "Obra de infraestructura en Tecate aún no concluye según cronograma original.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180979_un_ano_de_retraso_en_la_nueva_estacion_de_bomberos_de_tecate",
+        "_added_at": "2026-08-28T17:29:51.899714-07:00"
+      },
+      {
+        "title": "Alertan sobre empresas fantasma que prometen aumentar pensiones",
+        "summary": "Autoridades advierten estafas dirigidas a adultos mayores con falsas promesas de incrementos.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/98706/Alertan-por-empresas-fantasma-que-prometen-aumentar-pensiones",
+        "_added_at": "2026-08-28T17:29:51.899714-07:00"
+      },
+      {
+        "title": "Vecinos rechazan operadora Altisa en transporte público de Tijuana",
+        "summary": "Comunidad se opone a cambio de empresa concesionaria en rutas de autobús local.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/08/28/vecinos-rechazan-que-altisa-opere-rutas-del-transporte-publico-en-tijuana/",
+        "_added_at": "2026-08-28T17:29:51.899714-07:00"
+      },
+      {
+        "title": "UABC invierte 15 mdp en aire acondicionado para campus",
+        "summary": "Universidad destinará recursos para mejorar condiciones en instalaciones Valle de Palmas.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/08/28/uabc-invertira-15-mdp-en-aire-acondicionado-para-campus-valle-de-las-palmas/",
+        "_added_at": "2026-08-28T17:29:51.899714-07:00"
+      },
+      {
         "title": "Tijuana perdió 43 mil empleos antes de aranceles",
         "summary": "Economía fronteriza padecía crisis previa con pérdida significativa de empleo antes de nuevas medidas arancelarias.",
         "source": "AFN Tijuana",
@@ -79,6 +156,20 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "UABC inaugura nuevo edificio de Medicina en campus Otay",
+        "summary": "Universidad abre instalación para programas de medicina y psicología en Tijuana.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/08/28/uabc-inaugura-nuevo-edificio-de-medicina-y-psicologia-en-campus-otay/",
+        "_added_at": "2026-08-28T17:29:51.899714-07:00"
+      },
+      {
+        "title": "IMSS coordina traslado aéreo de menor para atención especializada",
+        "summary": "Institución gestiona transporte urgente de paciente pediátrico a Guadalajara.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180974_coordino_imss_traslado_aereo_de_menor_a_guadalajara_para_atencion_especializada",
+        "_added_at": "2026-08-28T17:29:51.899714-07:00"
+      },
       {
         "title": "Tijuana deroga reglamento de espectáculos taurinos",
         "summary": "Cabildo de Tijuana abroga normativa que permitía corridas de toros en el municipio.",
@@ -109,5 +200,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-28T07:26:11.573962-07:00"
+  "last_updated": "2026-08-28T17:29:51.899714-07:00"
 }
