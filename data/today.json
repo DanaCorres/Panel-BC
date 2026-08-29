@@ -1,204 +1,99 @@
 {
-  "date": "2026-08-28",
-  "run_count": 2,
+  "date": "2026-08-29",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Detienen a presunta líder de tráfico de migrantes en Tijuana",
-        "summary": "Autoridades capturan a \"La Tía\", identificada como jefa de célula dedicada al tráfico de personas.",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/detienen-a-la-tia-presunta-lider-de-celula-dedicada-al-trafico-de-migrantes/",
-        "_added_at": "2026-08-28T17:29:51.899714-07:00"
-      },
-      {
-        "title": "Menores arropellados: familiares exigen justicia en Tijuana",
-        "summary": "Padres de adolescentes atropellados en Guaycura rechazan que conductora siga en libertad.",
+        "title": "Camión volcado en Bulevar 2000 deja 15 heridos",
+        "summary": "Transporte de personal se volcó causando múltiples lesionados en zona de Tijuana.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180980_exigen_justicia_los_familiares_de_los_menores_arrollados_en_el_guaycura",
-        "_added_at": "2026-08-28T17:29:51.899714-07:00"
+        "url": "https://www.afntijuana.info/seguridad/180987_camion_de_transporte_de_personal_volco_en_el_bulevar_2000_hay_15_heridos",
+        "_added_at": "2026-08-29T02:12:25.843462-07:00"
       },
       {
-        "title": "Asesinan a mujer a tiros en Mexicali",
-        "summary": "Homicidio registrado en la capital estatal durante operativo de seguridad.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/asesinan-a-mujer-a-tiros-en-mexicali/?utm_source=rss&utm_medium=rss&utm_campaign=asesinan-a-mujer-a-tiros-en-mexicali",
-        "_added_at": "2026-08-28T17:29:51.899714-07:00"
-      },
-      {
-        "title": "Investigan muerte en centro de rehabilitación de Patrulla Espiritual",
-        "summary": "CEDHBC abre expediente por deceso de joven en institución de Tijuana.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/abre-cedhbc-expediente-por-muerte-de-joven-en-centro-de-rehabilitacion-de-la-patrulla-espiritual/?utm_source=rss&utm_medium=rss&utm_campaign=abre-cedhbc-expediente-por-muerte-de-joven-en-centro-de-rehabilitacion-de-la-patrulla-espiritual",
-        "_added_at": "2026-08-28T17:29:51.899714-07:00"
-      },
-      {
-        "title": "Grupo criminal emite ultimátum a autoridades fronterizas",
-        "summary": "Presuntos integrantes de organización delictiva amenazan a FGE y policía estatal mediante podcast sobre ataques con vehículos.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/autos-bomba-ultimatum-de-los-rusos-a-la-fge-dspm-podcast/?utm_source=rss&utm_medium=rss&utm_campaign=autos-bomba-ultimatum-de-los-rusos-a-la-fge-dspm-podcast",
-        "_added_at": "2026-08-28T07:26:11.573962-07:00"
-      },
-      {
-        "title": "Robo invisible detectado en zona fronteriza de Tijuana",
-        "summary": "Análisis sobre delincuencia organizada y hurtos que afectan económicamente a habitantes de la frontera.",
+        "title": "Persecución policiaca termina en choque múltiple",
+        "summary": "Operativo dejó un detenido y dos heridos tras colisión de vehículos en Tijuana.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/editoriales/180943_el_robo_invisible_en_la_frontera",
-        "_added_at": "2026-08-28T07:26:11.573962-07:00"
+        "url": "https://www.afntijuana.info/seguridad/180989_persecucion_policiaca_termina_en_choque_multiple_hay_un_detenido_y_al_menos_dos_heridos",
+        "_added_at": "2026-08-29T02:12:25.843462-07:00"
       },
       {
-        "title": "Activista busca respuestas sobre hermana desaparecida",
-        "summary": "Valeria Gordian presenta ante FGEBC nuevamente sobre caso de su hermana desaparecida en Tijuana.",
+        "title": "Hallan cuerpo sin vida en Valle Verde",
+        "summary": "Descubren a hombre fallecido en colonia de Tijuana.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/180988_hallan_a_un_hombre_sin_vida_en_la_colonia_valle_verde",
+        "_added_at": "2026-08-29T02:12:25.843462-07:00"
+      },
+      {
+        "title": "Demandan justicia por jóvenes atropellados",
+        "summary": "Ciudadanos exigen acción tras accidente vial en Ampliación Guaycura, Tijuana.",
         "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98663/Valeria-Gordian-acude-a-la-FGEBC-para-dar-seguimiento-a-investigaci%C3%B3n-de-su-hermana-desaparecida",
-        "_added_at": "2026-08-28T07:26:11.573962-07:00"
-      },
-      {
-        "title": "Víctima hallada con más de 40 lesiones en Tijuana",
-        "summary": "Hombre encontrado muerto en centro de rehabilitación con múltiples heridas, según reportes forenses.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180934_hombre_muerto_en_el_centro_jireh_tenia_mas_de_40_lesiones_semefo",
-        "_added_at": "2026-08-28T07:26:11.573962-07:00"
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98714/Exigen-justicia-para-j%C3%B3venes-atropellados-en-Ampliaci%C3%B3n-Guaycura",
+        "_added_at": "2026-08-29T02:12:25.843462-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Daylín García confirma participación en comicios de 2027",
-        "summary": "Candidata anuncia su intención de competir en próximo proceso electoral estatal.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Estatal/98707/Confirma-Dayl%C3%ADn-Garc%C3%ADa-que-participar%C3%A1-en-proceso-electoral-de-2027",
-        "_added_at": "2026-08-28T17:29:51.899714-07:00"
-      },
-      {
-        "title": "CCE critica eliminación de prohibición de propaganda electoral",
-        "summary": "Cámara de Comercio considera retroceso permitir carteles políticos en espacios públicos.",
+        "title": "Conflicto interno en gobierno por desacuerdos",
+        "summary": "Enfrentamiento entre Eva y Amador revela tensiones dentro de la administración actual.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180976_un_retroceso_eliminar_la_prohibicion_de_colocar_propaganda_electoral_cce",
-        "_added_at": "2026-08-28T17:29:51.899714-07:00"
+        "url": "https://www.afntijuana.info/afn_politico/180985_revienta_pleito_en_la_4t_se_enganchan_eva_y_amador",
+        "_added_at": "2026-08-29T02:12:25.843462-07:00"
       },
       {
-        "title": "Fallo definitivo: Estado retiene residencia valuada en 51 mdp",
-        "summary": "Tribunal confirma que propiedad de Emilio Lozoya permanece en poder del gobierno.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/fallo-definitivo-estado-se-queda-con-la-residencia-de-51-mdp-de-emilio-lozoya/?utm_source=rss&utm_medium=rss&utm_campaign=fallo-definitivo-estado-se-queda-con-la-residencia-de-51-mdp-de-emilio-lozoya",
-        "_added_at": "2026-08-28T17:29:51.899714-07:00"
-      },
-      {
-        "title": "PES asegura permanencia de su registro en Baja California",
-        "summary": "Partido Estatal Socialista logra mantener registro electoral ante Instituto Electoral de BC tras revisión.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Estatal/98668/El-PES-logra-conservar-su-registro-en-BC",
-        "_added_at": "2026-08-28T07:26:11.573962-07:00"
-      },
-      {
-        "title": "Morena define candidato con historia e índices negativos",
-        "summary": "Partido gubemanental considera antecedentes y negativos para elegir su aspirante en próximas elecciones de BC.",
+        "title": "Alcalde Cota aspira a nuevo cargo en 2027",
+        "summary": "Román Cota se declara orgulloso de su gestión y planea candidatura futura.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/afn_politico/180939_negativos_e_historia_definiran_al_candidato_de_morena_en_bc",
-        "_added_at": "2026-08-28T07:26:11.573962-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/180984_roman_cota_esta_orgulloso_de_su_trabajo_como_alcalde_y_buscaria_otro_cargo_en_el_2027",
+        "_added_at": "2026-08-29T02:12:25.843462-07:00"
       },
       {
-        "title": "PT respaldo a Evangelina Moreno en coordinación estatal",
-        "summary": "Partido del Trabajo apoya candidatura de Evangelina Moreno para liderazgo del partido en BC.",
+        "title": "Alfredo Álvarez recibe 21 mil propuestas ciudadanas",
+        "summary": "Candidato recopila iniciativas para impulsar el desarrollo de Baja California.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180935_pt_respalda_a_evangelina_moreno_en_ruta_por_la_coordinacion_estatal",
-        "_added_at": "2026-08-28T07:26:11.573962-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/180983_reune_alfredo_alvarez_21_mil_propuestas_ciudadanas_para_el_desarrollo_de_bc",
+        "_added_at": "2026-08-29T02:12:25.843462-07:00"
+      },
+      {
+        "title": "Critican gestión de Medina Amarillas en Salud",
+        "summary": "Daylín García cuestiona capacidad del funcionario para ser candidato en próximas elecciones.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/180981_medina_amarillas_no_debe_ser_candidato_por_su_trabajo_deficiente_en_salud_daylin_garcia",
+        "_added_at": "2026-08-29T02:12:25.843462-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Retraso de un año en nueva estación de bomberos de Tecate",
-        "summary": "Obra de infraestructura en Tecate aún no concluye según cronograma original.",
+        "title": "Ayuntamiento enfrenta multa de 1 millón de pesos",
+        "summary": "Falta de respuesta a solicitud ciudadana podría generar castigo económico.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180979_un_ano_de_retraso_en_la_nueva_estacion_de_bomberos_de_tecate",
-        "_added_at": "2026-08-28T17:29:51.899714-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/180982_falta_de_respuesta_a_una_peticion_podria_costarle_1_mdp_al_ayuntamiento_de_tijuana",
+        "_added_at": "2026-08-29T02:12:25.843462-07:00"
       },
       {
-        "title": "Alertan sobre empresas fantasma que prometen aumentar pensiones",
-        "summary": "Autoridades advierten estafas dirigidas a adultos mayores con falsas promesas de incrementos.",
+        "title": "BC avanza en saneamiento binacional del Río",
+        "summary": "Gobierno ejecuta obra para mejorar sistema de tratamiento ambiental transfronterizo.",
         "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Estatal/98706/Alertan-por-empresas-fantasma-que-prometen-aumentar-pensiones",
-        "_added_at": "2026-08-28T17:29:51.899714-07:00"
-      },
-      {
-        "title": "Vecinos rechazan operadora Altisa en transporte público de Tijuana",
-        "summary": "Comunidad se opone a cambio de empresa concesionaria en rutas de autobús local.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/08/28/vecinos-rechazan-que-altisa-opere-rutas-del-transporte-publico-en-tijuana/",
-        "_added_at": "2026-08-28T17:29:51.899714-07:00"
-      },
-      {
-        "title": "UABC invierte 15 mdp en aire acondicionado para campus",
-        "summary": "Universidad destinará recursos para mejorar condiciones en instalaciones Valle de Palmas.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/08/28/uabc-invertira-15-mdp-en-aire-acondicionado-para-campus-valle-de-las-palmas/",
-        "_added_at": "2026-08-28T17:29:51.899714-07:00"
-      },
-      {
-        "title": "Tijuana perdió 43 mil empleos antes de aranceles",
-        "summary": "Economía fronteriza padecía crisis previa con pérdida significativa de empleo antes de nuevas medidas arancelarias.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/empresarial/180947_antes_de_los_aranceles_habia_crisis_en_tijuana_perdio_43_551_empleos",
-        "_added_at": "2026-08-28T07:26:11.573962-07:00"
-      },
-      {
-        "title": "Inflación de Tijuana desacelera a 1.88 por ciento",
-        "summary": "Índice de precios en zona fronteriza muestra desaceleración en primera quincena de agosto.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/empresarial/180946_desacelera_a_1_88_inflacion_de_tijuana_en_la_primera_quincena_de_agosto",
-        "_added_at": "2026-08-28T07:26:11.573962-07:00"
-      },
-      {
-        "title": "Sector agropecuario respalda gestión estatal",
-        "summary": "Productores del campo expresan apoyo a acciones del gobierno de BC en materia agrícola.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Estatal/98667/Respalda-sector-agropecuario-a-Gobierno-del--Estado",
-        "_added_at": "2026-08-28T07:26:11.573962-07:00"
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/98713/Avanza-Gobierno-de-BC-con-obra-para-mejorar-el-saneamiento-binacional-del-R%C3%ADo-Tijuana",
+        "_added_at": "2026-08-29T02:12:25.843462-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "UABC inaugura nuevo edificio de Medicina en campus Otay",
-        "summary": "Universidad abre instalación para programas de medicina y psicología en Tijuana.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/08/28/uabc-inaugura-nuevo-edificio-de-medicina-y-psicologia-en-campus-otay/",
-        "_added_at": "2026-08-28T17:29:51.899714-07:00"
-      },
-      {
-        "title": "IMSS coordina traslado aéreo de menor para atención especializada",
-        "summary": "Institución gestiona transporte urgente de paciente pediátrico a Guadalajara.",
+        "title": "Casa de Cultura de Playas celebra 28 aniversario",
+        "summary": "Institución cultural conmemora 28 años de servicios en Tijuana.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180974_coordino_imss_traslado_aereo_de_menor_a_guadalajara_para_atencion_especializada",
-        "_added_at": "2026-08-28T17:29:51.899714-07:00"
+        "url": "https://www.afntijuana.info/municipios/180986_celebran_el_28_aniversario_de_la_casa_de_la_cultura_de_playas_de_tijuana",
+        "_added_at": "2026-08-29T02:12:25.843462-07:00"
       },
       {
-        "title": "Tijuana deroga reglamento de espectáculos taurinos",
-        "summary": "Cabildo de Tijuana abroga normativa que permitía corridas de toros en el municipio.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/abroga-cabildo-de-tijuana-reglamento-taurino/?utm_source=rss&utm_medium=rss&utm_campaign=abroga-cabildo-de-tijuana-reglamento-taurino",
-        "_added_at": "2026-08-28T07:26:11.573962-07:00"
-      },
-      {
-        "title": "Tijuanenses contemplan eclipse lunar parcial",
-        "summary": "Residentes de Tijuana presencian evento astronómico del eclipse de luna roja en agosto.",
+        "title": "Ciudadanos bloquean carretera por falta de electricidad",
+        "summary": "Residentes de Parajes de Puebla protestan por servicio deficiente en Mexicali.",
         "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98666/Contemplan-tijuanenses-eclipse-lunar-parcial",
-        "_added_at": "2026-08-28T07:26:11.573962-07:00"
-      },
-      {
-        "title": "Palenque de Tijuana inicia temporada 2026",
-        "summary": "Recinto ferial se prepara para lanzar nueva temporada de actividades y eventos próximamente.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98665/Palenque-de-Tijuana-listo-para-arrancar-temporada-2026-el-pr%C3%B3ximo-viernes",
-        "_added_at": "2026-08-28T07:26:11.573962-07:00"
-      },
-      {
-        "title": "Poder Judicial en Mexicali organiza carrera atlética",
-        "summary": "Cuarta edición de evento deportivo del Poder Judicial se realiza en capital de BC.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/98664/Cuarta-carrera-atl%C3%A9tica-del-Poder-Judicial-en-Mexicali",
-        "_added_at": "2026-08-28T07:26:11.573962-07:00"
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/98700/Bloquena-carretera-a-San-Luis-por-falta-de-luz-en-Parajes-de-Puebla",
+        "_added_at": "2026-08-29T02:12:25.843462-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-28T17:29:51.899714-07:00"
+  "last_updated": "2026-08-29T02:12:25.843462-07:00"
 }
