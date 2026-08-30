@@ -1,253 +1,64 @@
 {
-  "date": "2026-08-29",
-  "run_count": 3,
+  "date": "2026-08-30",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Tiroteo en Aeropuerto de Tijuana deja un muerto",
-        "summary": "Dos hombres baleados llegaron al estacionamiento del aeropuerto; uno falleció y otro quedó grave. Usuarios expresan preocupación por seguridad.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/policiaca/2026/08/29/llegan-al-aeropuerto-dos-hombres-baleados-uno-muere-y-otro-queda-grave/",
-        "_added_at": "2026-08-29T16:59:57.418798-07:00"
-      },
-      {
-        "title": "Múltiples ataques a balazos dejan varios muertos en Tijuana",
-        "summary": "Ataques armados en Libertad Parte Alta, Valle Verde, Lázaro Cárdenas y Río Tijuana dejaron al menos tres personas fallecidas.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/ataque-armado-en-libertad-parte-alta-deja-un-muerto-un-lesionado-y-dos-detenidos/",
-        "_added_at": "2026-08-29T16:59:57.418798-07:00"
-      },
-      {
-        "title": "Homicidio en parada de autobús en Tijuana",
-        "summary": "Hombre asesinado a balazos en bulevar Insurgentes. Presuntos asaltantes dispararon contra la víctima.",
+        "title": "Pareja detenida por balacera cerca del Aeropuerto",
+        "summary": "Hombre y mujer capturados tras tiroteo en proximidades del aeropuerto de Tijuana.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/181004_asesinan_a_balazos_a_hombre_en_parada_de_camiones_del_bulevar_insurgentes",
-        "_added_at": "2026-08-29T12:19:55.140775-07:00"
+        "url": "https://www.afntijuana.info/seguridad/181012_un_hombre_y_una_mujer_los_detenidos_por_balacera_cerca_del_aeropuerto",
+        "_added_at": "2026-08-30T01:24:38.719254-07:00"
       },
       {
-        "title": "Violencia en Tecate: dos heridos en tiroteo",
-        "summary": "Enfrentamiento armado en taquerías de Tecate dejó dos personas lesionadas por disparos.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/181003_jornada_de_violencia_en_tecate_deja_dos_heridos_en_taquerias_de_la_ciudad",
-        "_added_at": "2026-08-29T12:19:55.140775-07:00"
-      },
-      {
-        "title": "Dos hombres mueren en ataque armado Lázaro Cárdenas",
-        "summary": "Tiroteo en colonia Lázaro Cárdenas resultó en dos fallecidos. Presunto enfrentamiento entre grupos.",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/ataque-armado-deja-a-dos-hombres-sin-vida-en-la-colonia-lazaro-cardenas/",
-        "_added_at": "2026-08-29T12:19:55.140775-07:00"
-      },
-      {
-        "title": "Tiroteo cerca del Aeropuerto deja muerto y herido",
-        "summary": "Ataque armado provocó una muerte y un herido. Tres sujetos fueron detenidos en el lugar.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/180996_ataque_armado_deja_un_muerto_y_un_herido_cerca_del_aeropuerto_hay_tres_detenidos",
-        "_added_at": "2026-08-29T12:19:55.140775-07:00"
-      },
-      {
-        "title": "Camión volcado en Bulevar 2000 deja 15 heridos",
-        "summary": "Transporte de personal se volcó causando múltiples lesionados en zona de Tijuana.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/180987_camion_de_transporte_de_personal_volco_en_el_bulevar_2000_hay_15_heridos",
-        "_added_at": "2026-08-29T02:12:25.843462-07:00"
-      },
-      {
-        "title": "Persecución policiaca termina en choque múltiple",
-        "summary": "Operativo dejó un detenido y dos heridos tras colisión de vehículos en Tijuana.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/180989_persecucion_policiaca_termina_en_choque_multiple_hay_un_detenido_y_al_menos_dos_heridos",
-        "_added_at": "2026-08-29T02:12:25.843462-07:00"
-      },
-      {
-        "title": "Hallan cuerpo sin vida en Valle Verde",
-        "summary": "Descubren a hombre fallecido en colonia de Tijuana.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/180988_hallan_a_un_hombre_sin_vida_en_la_colonia_valle_verde",
-        "_added_at": "2026-08-29T02:12:25.843462-07:00"
-      },
-      {
-        "title": "Demandan justicia por jóvenes atropellados",
-        "summary": "Ciudadanos exigen acción tras accidente vial en Ampliación Guaycura, Tijuana.",
+        "title": "Menor herida al caer camioneta a barranco en libre Tijuana-Rosarito",
+        "summary": "Niña lesionada tras accidente vial en carretera federal entre Tijuana y Rosarito.",
         "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98714/Exigen-justicia-para-j%C3%B3venes-atropellados-en-Ampliaci%C3%B3n-Guaycura",
-        "_added_at": "2026-08-29T02:12:25.843462-07:00"
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/98733/Menor-resulta-lesionada-tras-caer-camioneta-a-un-barranco-en-la-libre-Tijuana-Rosarito",
+        "_added_at": "2026-08-30T01:24:38.719254-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Congreso fortalece Contraloría en transparencia y rendición",
-        "summary": "Legislatura de BC refuerza facultades de la Contraloría Interna para mejorar transparencia y supervisión gubernamental.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Estatal/98728/Fortalece-Congreso-a-la-Contralor%C3%ADa-Interna-en-materia-de-transparencia-y-rendici%C3%B3n-de-cuentas",
-        "_added_at": "2026-08-29T16:59:57.418798-07:00"
-      },
-      {
-        "title": "Ayuntamiento de Tecate despide 20 empleados por recortes",
-        "summary": "Administración municipal implementa medidas de reducción presupuestal que incluyen despidos de personal.",
+        "title": "Aspirantes a gubernatura saldrán fortalecidos: Burgueño",
+        "summary": "Dirigente estatal comenta proceso interno de selección de candidatos para gubernatura.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181007_para_reducir_gasto_ayuntamiento_de_tecate_ha_despedido_a_20_empleados",
-        "_added_at": "2026-08-29T16:59:57.418798-07:00"
-      },
-      {
-        "title": "Sheinbaum a mitad de mandato presidencial",
-        "summary": "Análisis de los primeros dos años de administración de la presidenta Claudia Sheinbaum.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/sheinbaum-los-dos-anos/?utm_source=rss&utm_medium=rss&utm_campaign=sheinbaum-los-dos-anos",
-        "_added_at": "2026-08-29T12:19:55.140775-07:00"
-      },
-      {
-        "title": "FGR reserva información de El Jando hasta 2031",
-        "summary": "Fiscalía General resguarda expediente del piloto acusado en caso Mayo Zambada por años.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/mexico/2026/08/29/fgr-reserva-hasta-2031-informacion-sobre-el-jando-piloto-senalado-de-trasladar-a-el-mayo-zambada-a-estados-unidos/",
-        "_added_at": "2026-08-29T12:19:55.140775-07:00"
-      },
-      {
-        "title": "Conflicto interno en gobierno por desacuerdos",
-        "summary": "Enfrentamiento entre Eva y Amador revela tensiones dentro de la administración actual.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/afn_politico/180985_revienta_pleito_en_la_4t_se_enganchan_eva_y_amador",
-        "_added_at": "2026-08-29T02:12:25.843462-07:00"
-      },
-      {
-        "title": "Alcalde Cota aspira a nuevo cargo en 2027",
-        "summary": "Román Cota se declara orgulloso de su gestión y planea candidatura futura.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180984_roman_cota_esta_orgulloso_de_su_trabajo_como_alcalde_y_buscaria_otro_cargo_en_el_2027",
-        "_added_at": "2026-08-29T02:12:25.843462-07:00"
-      },
-      {
-        "title": "Alfredo Álvarez recibe 21 mil propuestas ciudadanas",
-        "summary": "Candidato recopila iniciativas para impulsar el desarrollo de Baja California.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180983_reune_alfredo_alvarez_21_mil_propuestas_ciudadanas_para_el_desarrollo_de_bc",
-        "_added_at": "2026-08-29T02:12:25.843462-07:00"
-      },
-      {
-        "title": "Critican gestión de Medina Amarillas en Salud",
-        "summary": "Daylín García cuestiona capacidad del funcionario para ser candidato en próximas elecciones.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180981_medina_amarillas_no_debe_ser_candidato_por_su_trabajo_deficiente_en_salud_daylin_garcia",
-        "_added_at": "2026-08-29T02:12:25.843462-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/181014_saldran_fortalecidos_del_proceso_interno_aspirantes_a_la_gubernatura_dice_burgueno",
+        "_added_at": "2026-08-30T01:24:38.719254-07:00"
       }
     ],
     "economia": [
       {
-        "title": "CESPT debe ajustar recibos por suspensión de servicio",
-        "summary": "Exhortan a empresa de agua a corregir facturación en Tijuana y Rosarito por interrupciones del suministro.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Estatal/98729/Exhortan-a-la-CESPT-a-realizar-ajustes-en-los-recibos-por-suspensi%C3%B3n-del-servicio-en-Tijuana-y-Rosarito",
-        "_added_at": "2026-08-29T16:59:57.418798-07:00"
-      },
-      {
-        "title": "Asignan 6 millones para programa Corazones Viajeros",
-        "summary": "Gobierno de BC destina recursos para iniciativa de turismo y viajes en el estado.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Estatal/98730/Destinan-6-millones-de-pesos-al-programa-Corazones-Viajeros-en-Baja-California",
-        "_added_at": "2026-08-29T16:59:57.418798-07:00"
-      },
-      {
-        "title": "Avanzan trabajos de carriles confinados en Bulevar 2000",
-        "summary": "Construcción de transporte público sigue su curso en Tijuana con progreso en infraestructura vial.",
+        "title": "Vecinos bloquean calle por corte de electricidad en Cañón de Palmeras",
+        "summary": "Protesta en Tijuana por falta de suministro eléctrico en zona residencial.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181006_avanza_la_construccion_de_los_carriles_confinados_en_el_bulevar_2000",
-        "_added_at": "2026-08-29T16:59:57.418798-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/181013_bloquean_vecinos_calle_en_canon_de_las_palmeras_por_falta_de_electricidad",
+        "_added_at": "2026-08-30T01:24:38.719254-07:00"
       },
       {
-        "title": "Dólar sube por encima de 17 pesos mexicanos",
-        "summary": "Peso cede terreno ante fortaleza del dólar en últimos días de agosto.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/dinero/2026/08/29/precio-del-dolar-hoy-el-peso-cede-en-el-ultimo-asalto-de-la-semana-ante-el-avance-de-la-moneda-estadounidense-asi-cotiza-este-sabado-29-y-domingo-30-de-agosto/",
-        "_added_at": "2026-08-29T12:19:55.140775-07:00"
-      },
-      {
-        "title": "BC gastará crédito de 2,979 mdp hasta 2027",
-        "summary": "Gobierno estatal demorará gasto de crédito autorizado hasta próximo año fiscal.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/empresarial/180994_hasta_2027_terminaria_de_gastar_gobierno_de_bc_credito_por_2_979_mdp",
-        "_added_at": "2026-08-29T12:19:55.140775-07:00"
-      },
-      {
-        "title": "Ayuntamiento enfrenta multa de 1 millón de pesos",
-        "summary": "Falta de respuesta a solicitud ciudadana podría generar castigo económico.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180982_falta_de_respuesta_a_una_peticion_podria_costarle_1_mdp_al_ayuntamiento_de_tijuana",
-        "_added_at": "2026-08-29T02:12:25.843462-07:00"
-      },
-      {
-        "title": "BC avanza en saneamiento binacional del Río",
-        "summary": "Gobierno ejecuta obra para mejorar sistema de tratamiento ambiental transfronterizo.",
+        "title": "Avanzan gestiones legales para proteger Cerro Cuchuma",
+        "summary": "Proceso binacional en Tecate para conservación y protección del sitio natural.",
         "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Estatal/98713/Avanza-Gobierno-de-BC-con-obra-para-mejorar-el-saneamiento-binacional-del-R%C3%ADo-Tijuana",
-        "_added_at": "2026-08-29T02:12:25.843462-07:00"
+        "url": "https://el-mexicano.com.mx/Noticia/Tecate/98731/Avanza-ruta-jur%C3%ADdica-y-binacional-para-proteger-el-Cerro-Cuchum%C3%A1",
+        "_added_at": "2026-08-30T01:24:38.719254-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Tormba causa colapso de 50 postes de CFE en Mexicali",
-        "summary": "Evento meteorológico en colonia Progreso de Mexicali derribó infraestructura eléctrica causando apagones.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/derivado-a-una-tromba-se-desplomaron-50-postes-de-la-cfe-en-la-colonia-progreso-en-mexicali/",
-        "_added_at": "2026-08-29T16:59:57.418798-07:00"
-      },
-      {
-        "title": "UABC inaugura nuevos edificios y laboratorio en Tijuana",
-        "summary": "Universidad autónoma abre nuevas instalaciones académicas y de cómputo en campus de la ciudad.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181010_inauguran_edificios_y_laboratorio_de_computo_en_la_uabc_campus_tijuana",
-        "_added_at": "2026-08-29T16:59:57.418798-07:00"
-      },
-      {
-        "title": "Feria Nacional de Tijuana inicia con acceso gratuito",
-        "summary": "Evento cultural y recreativo comienza con éxito ofreciendo entrada libre a ciudadanos.",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/la-feria-nacional-de-tijuana-arranca-con-gran-exito-y-acceso-gratis/",
-        "_added_at": "2026-08-29T16:59:57.418798-07:00"
-      },
-      {
-        "title": "Fallas de electricidad afectan zonas de Tijuana",
-        "summary": "Cortes de luz y bajo voltaje se registraron en varias áreas de la ciudad.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/zonas-de-tijuana-registraron-fallas-de-electricidad-y-bajo-voltaje/?utm_source=rss&utm_medium=rss&utm_campaign=zonas-de-tijuana-registraron-fallas-de-electricidad-y-bajo-voltaje",
-        "_added_at": "2026-08-29T12:19:55.140775-07:00"
-      },
-      {
-        "title": "Solicitan informe sobre apagones recurrentes Tijuana",
-        "summary": "Autoridades pedidas explicación por continuos problemas de suministro eléctrico.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/08/29/piden-informe-por-fallas-recurrentes-de-luz-en-tijuana/",
-        "_added_at": "2026-08-29T12:19:55.140775-07:00"
-      },
-      {
-        "title": "ONU Mujeres resalta necesidades de movilidad Tijuana",
-        "summary": "Organización internacional llama atención sobre problemas de transporte para mujeres.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/180997_onu_mujeres_llama_a_visibilizar_necesidades_en_movilidad_en_tijuana",
-        "_added_at": "2026-08-29T12:19:55.140775-07:00"
-      },
-      {
-        "title": "Ballena hallada muerta en playas de Tijuana",
-        "summary": "Mamífero marino apareció sin vida en litoral de la ciudad.",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/aparece-ballena-sin-vida-en-playas-de-tijuana/",
-        "_added_at": "2026-08-29T12:19:55.140775-07:00"
-      },
-      {
-        "title": "Casa de Cultura de Playas celebra 28 aniversario",
-        "summary": "Institución cultural conmemora 28 años de servicios en Tijuana.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/municipios/180986_celebran_el_28_aniversario_de_la_casa_de_la_cultura_de_playas_de_tijuana",
-        "_added_at": "2026-08-29T02:12:25.843462-07:00"
-      },
-      {
-        "title": "Ciudadanos bloquean carretera por falta de electricidad",
-        "summary": "Residentes de Parajes de Puebla protestan por servicio deficiente en Mexicali.",
+        "title": "Familias aprovechan último fin de semana de vacaciones en playas",
+        "summary": "Visitantes disfrutan playas de Tijuana durante cierre de período vacacional.",
         "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/98700/Bloquena-carretera-a-San-Luis-por-falta-de-luz-en-Parajes-de-Puebla",
-        "_added_at": "2026-08-29T02:12:25.843462-07:00"
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98732/Aprovechan-familias-el-%C3%BAltimo-fin-de-semana-de-vacaciones-en-Playas-de-Tijuana",
+        "_added_at": "2026-08-30T01:24:38.719254-07:00"
+      },
+      {
+        "title": "CATEM conmemora 15 años de operaciones en Tijuana",
+        "summary": "Sindicato celebra aniversario de actividades laborales en la región.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181016_celebran_el_15_aniversario_del_sindicato_catem_en_tijuana",
+        "_added_at": "2026-08-30T01:24:38.719254-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-29T16:59:57.418798-07:00"
+  "last_updated": "2026-08-30T01:24:38.719254-07:00"
 }
