@@ -1,8 +1,36 @@
 {
   "date": "2026-08-30",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Detienen a dos presuntos asesinos de Patrulla Espiritual",
+        "summary": "Autoridades capturan a dos sospechosos por homicidios cometidos contra integrantes de grupo activista en Tijuana.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/arrestan-a-dos-de-los-presuntos-homicidas-de-la-patrulla-espiritual-en-tijuana/?utm_source=rss&utm_medium=rss&utm_campaign=arrestan-a-dos-de-los-presuntos-homicidas-de-la-patrulla-espiritual-en-tijuana",
+        "_added_at": "2026-08-30T12:13:33.430054-07:00"
+      },
+      {
+        "title": "Liberan a capo del CJNG; violencia se intensifica en Tecate",
+        "summary": "Sergio Serrano es puesto en libertad mientras enfrentamientos criminales aumentan en municipio fronterizo.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/liberan-a-sergio-serrano-del-cjng-arrecia-violencia-en-tecate/?utm_source=rss&utm_medium=rss&utm_campaign=liberan-a-sergio-serrano-del-cjng-arrecia-violencia-en-tecate",
+        "_added_at": "2026-08-30T12:13:33.430054-07:00"
+      },
+      {
+        "title": "Ejecutan a mujer en Guadalajara; niño queda herido",
+        "summary": "Ataque a balazos mata a una mujer e impacta a menor de edad en colonia tijuanense.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/181018_asesinan_a_balazos_a_una_mujer_en_la_colonia_guadalajara_un_nino_resulto_herido",
+        "_added_at": "2026-08-30T12:13:33.430054-07:00"
+      },
+      {
+        "title": "Hallan cadáver abandonado en canal del Río Alamar",
+        "summary": "Descubren cuerpo dentro de carriola en zona de riego tijuanense.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/181019_dejan_un_cuerpo_en_una_carriola_abandonada_en_el_canal_del_rio_alamar",
+        "_added_at": "2026-08-30T12:13:33.430054-07:00"
+      },
       {
         "title": "Pareja detenida por balacera cerca del Aeropuerto",
         "summary": "Hombre y mujer capturados tras tiroteo en proximidades del aeropuerto de Tijuana.",
@@ -20,6 +48,27 @@
     ],
     "politica": [
       {
+        "title": "Inzunza debe renunciar al Senado, no solo a Morena",
+        "summary": "Crítico de oposición demanda separación completa de senadora del cargo legislativo federal.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181024_inzunza_debe_separarse_del_senado_no_solo_de_morena_max_garcia",
+        "_added_at": "2026-08-30T12:13:33.430054-07:00"
+      },
+      {
+        "title": "Sheinbaum envía reforma de nacionalidad única para gobernantes",
+        "summary": "Iniciativa presidencial busca impedir doble nacionalidad en cargos ejecutivos estatales.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181022_envia_sheinbaum_reforma_que_busca_nacionalidad_unica_para_gobernantes",
+        "_added_at": "2026-08-30T12:13:33.430054-07:00"
+      },
+      {
+        "title": "Desabasto de agua e inseguridad, principales demandas ciudadanas",
+        "summary": "Pobladores exigen solución a crisis hídrica y violencia que afectan municipios de la región.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181023_desabasto_de_agua_e_inseguridad_entre_las_principales_demandas_ciudadanas_alfredo_alvarez",
+        "_added_at": "2026-08-30T12:13:33.430054-07:00"
+      },
+      {
         "title": "Aspirantes a gubernatura saldrán fortalecidos: Burgueño",
         "summary": "Dirigente estatal comenta proceso interno de selección de candidatos para gubernatura.",
         "source": "AFN Tijuana",
@@ -28,6 +77,27 @@
       }
     ],
     "economia": [
+      {
+        "title": "Call center en Tijuana ofrece sueldos de hasta diez mil semanales",
+        "summary": "Empresa de telecomunicaciones abre empleos con compensación competitiva para ciudadanos locales.",
+        "source": "Yo Amo Tijuana",
+        "url": "https://amotijuana.com/call-center-en-tijuana-arranca-el-ano-con-sueldos-de-hasta-10000-semanales/",
+        "_added_at": "2026-08-30T12:13:33.430054-07:00"
+      },
+      {
+        "title": "Lanzan terrenos sin enganche cerca de Valle de Guadalupe",
+        "summary": "Inmobiliarias ofrecen propiedades con apartado mínimo de quinientos dólares en zona vinícola.",
+        "source": "Yo Amo Tijuana",
+        "url": "https://amotijuana.com/lanzan-terrenos-sin-enganche-y-con-apartado-de-500-dolares-cerca-de-valle-de-guadalupe/",
+        "_added_at": "2026-08-30T12:13:33.430054-07:00"
+      },
+      {
+        "title": "Industrias buscan reducir consumo energético mediante tecnología",
+        "summary": "Manufactura tijuanense implementa sistemas para optimizar uso de electricidad y promover reciclaje.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/08/30/buscan-industrias-reducir-consumo-energetico-mediante-tecnologia-y-reciclaje/",
+        "_added_at": "2026-08-30T12:13:33.430054-07:00"
+      },
       {
         "title": "Vecinos bloquean calle por corte de electricidad en Cañón de Palmeras",
         "summary": "Protesta en Tijuana por falta de suministro eléctrico en zona residencial.",
@@ -45,6 +115,20 @@
     ],
     "sociedad": [
       {
+        "title": "Aumentan casos de golpe de calor en mascotas tijuanenses",
+        "summary": "Veterinarios registran más perros con episodios de hipertermia durante altas temperaturas estivales.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/08/30/aumentan-casos-de-golpe-de-calor-en-perros-en-tijuana-estos-son-los-sintomas-y-que-hacer/",
+        "_added_at": "2026-08-30T12:13:33.430054-07:00"
+      },
+      {
+        "title": "Aplicaciones móviles refuerzan seguridad en hogares tijuanenses",
+        "summary": "Tecnología digital gana popularidad como herramienta para monitorear y proteger viviendas.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/08/30/aumenta-uso-de-aplicaciones-moviles-para-reforzar-la-seguridad-en-hogares/",
+        "_added_at": "2026-08-30T12:13:33.430054-07:00"
+      },
+      {
         "title": "Familias aprovechan último fin de semana de vacaciones en playas",
         "summary": "Visitantes disfrutan playas de Tijuana durante cierre de período vacacional.",
         "source": "El Mexicano",
@@ -60,5 +144,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-30T01:24:38.719254-07:00"
+  "last_updated": "2026-08-30T12:13:33.430054-07:00"
 }
