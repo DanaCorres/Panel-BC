@@ -1,8 +1,22 @@
 {
   "date": "2026-08-29",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Tiroteo en Aeropuerto de Tijuana deja un muerto",
+        "summary": "Dos hombres baleados llegaron al estacionamiento del aeropuerto; uno falleció y otro quedó grave. Usuarios expresan preocupación por seguridad.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/policiaca/2026/08/29/llegan-al-aeropuerto-dos-hombres-baleados-uno-muere-y-otro-queda-grave/",
+        "_added_at": "2026-08-29T16:59:57.418798-07:00"
+      },
+      {
+        "title": "Múltiples ataques a balazos dejan varios muertos en Tijuana",
+        "summary": "Ataques armados en Libertad Parte Alta, Valle Verde, Lázaro Cárdenas y Río Tijuana dejaron al menos tres personas fallecidas.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/ataque-armado-en-libertad-parte-alta-deja-un-muerto-un-lesionado-y-dos-detenidos/",
+        "_added_at": "2026-08-29T16:59:57.418798-07:00"
+      },
       {
         "title": "Homicidio en parada de autobús en Tijuana",
         "summary": "Hombre asesinado a balazos en bulevar Insurgentes. Presuntos asaltantes dispararon contra la víctima.",
@@ -62,6 +76,20 @@
     ],
     "politica": [
       {
+        "title": "Congreso fortalece Contraloría en transparencia y rendición",
+        "summary": "Legislatura de BC refuerza facultades de la Contraloría Interna para mejorar transparencia y supervisión gubernamental.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/98728/Fortalece-Congreso-a-la-Contralor%C3%ADa-Interna-en-materia-de-transparencia-y-rendici%C3%B3n-de-cuentas",
+        "_added_at": "2026-08-29T16:59:57.418798-07:00"
+      },
+      {
+        "title": "Ayuntamiento de Tecate despide 20 empleados por recortes",
+        "summary": "Administración municipal implementa medidas de reducción presupuestal que incluyen despidos de personal.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181007_para_reducir_gasto_ayuntamiento_de_tecate_ha_despedido_a_20_empleados",
+        "_added_at": "2026-08-29T16:59:57.418798-07:00"
+      },
+      {
         "title": "Sheinbaum a mitad de mandato presidencial",
         "summary": "Análisis de los primeros dos años de administración de la presidenta Claudia Sheinbaum.",
         "source": "ZETA Tijuana",
@@ -106,6 +134,27 @@
     ],
     "economia": [
       {
+        "title": "CESPT debe ajustar recibos por suspensión de servicio",
+        "summary": "Exhortan a empresa de agua a corregir facturación en Tijuana y Rosarito por interrupciones del suministro.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/98729/Exhortan-a-la-CESPT-a-realizar-ajustes-en-los-recibos-por-suspensi%C3%B3n-del-servicio-en-Tijuana-y-Rosarito",
+        "_added_at": "2026-08-29T16:59:57.418798-07:00"
+      },
+      {
+        "title": "Asignan 6 millones para programa Corazones Viajeros",
+        "summary": "Gobierno de BC destina recursos para iniciativa de turismo y viajes en el estado.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/98730/Destinan-6-millones-de-pesos-al-programa-Corazones-Viajeros-en-Baja-California",
+        "_added_at": "2026-08-29T16:59:57.418798-07:00"
+      },
+      {
+        "title": "Avanzan trabajos de carriles confinados en Bulevar 2000",
+        "summary": "Construcción de transporte público sigue su curso en Tijuana con progreso en infraestructura vial.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181006_avanza_la_construccion_de_los_carriles_confinados_en_el_bulevar_2000",
+        "_added_at": "2026-08-29T16:59:57.418798-07:00"
+      },
+      {
         "title": "Dólar sube por encima de 17 pesos mexicanos",
         "summary": "Peso cede terreno ante fortaleza del dólar en últimos días de agosto.",
         "source": "El Imparcial (Tijuana)",
@@ -135,6 +184,27 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Tormba causa colapso de 50 postes de CFE en Mexicali",
+        "summary": "Evento meteorológico en colonia Progreso de Mexicali derribó infraestructura eléctrica causando apagones.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/derivado-a-una-tromba-se-desplomaron-50-postes-de-la-cfe-en-la-colonia-progreso-en-mexicali/",
+        "_added_at": "2026-08-29T16:59:57.418798-07:00"
+      },
+      {
+        "title": "UABC inaugura nuevos edificios y laboratorio en Tijuana",
+        "summary": "Universidad autónoma abre nuevas instalaciones académicas y de cómputo en campus de la ciudad.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181010_inauguran_edificios_y_laboratorio_de_computo_en_la_uabc_campus_tijuana",
+        "_added_at": "2026-08-29T16:59:57.418798-07:00"
+      },
+      {
+        "title": "Feria Nacional de Tijuana inicia con acceso gratuito",
+        "summary": "Evento cultural y recreativo comienza con éxito ofreciendo entrada libre a ciudadanos.",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/la-feria-nacional-de-tijuana-arranca-con-gran-exito-y-acceso-gratis/",
+        "_added_at": "2026-08-29T16:59:57.418798-07:00"
+      },
       {
         "title": "Fallas de electricidad afectan zonas de Tijuana",
         "summary": "Cortes de luz y bajo voltaje se registraron en varias áreas de la ciudad.",
@@ -179,5 +249,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-29T12:19:55.140775-07:00"
+  "last_updated": "2026-08-29T16:59:57.418798-07:00"
 }
