@@ -1,225 +1,78 @@
 {
-  "date": "2026-08-30",
-  "run_count": 3,
+  "date": "2026-08-31",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Mujer fallece y niño herido en ataque armado Guadalajara",
-        "summary": "Enfrentamiento armado en colonia Guadalajara causa muerte de mujer e injurias a menor.",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/mujer-muere-y-nino-de-4-anos-resulta-herido-tras-ataque-armado-en-colonia-guadalajara/",
-        "_added_at": "2026-08-30T17:19:59.425966-07:00"
-      },
-      {
-        "title": "Colectivos recuerdan a 35 desaparecidos en Tijuana",
-        "summary": "Activistas realizan pase de lista en Glorieta Cuauhtémoc exigiendo búsqueda de personas.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/policiaca/2026/08/30/pase-de-lista-recuerda-a-35-desaparecidos-en-tijuana/",
-        "_added_at": "2026-08-30T17:19:59.425966-07:00"
-      },
-      {
-        "title": "Detienen a dos presuntos asesinos de Patrulla Espiritual",
-        "summary": "Autoridades capturan a dos sospechosos por homicidios cometidos contra integrantes de grupo activista en Tijuana.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/arrestan-a-dos-de-los-presuntos-homicidas-de-la-patrulla-espiritual-en-tijuana/?utm_source=rss&utm_medium=rss&utm_campaign=arrestan-a-dos-de-los-presuntos-homicidas-de-la-patrulla-espiritual-en-tijuana",
-        "_added_at": "2026-08-30T12:13:33.430054-07:00"
-      },
-      {
-        "title": "Liberan a capo del CJNG; violencia se intensifica en Tecate",
-        "summary": "Sergio Serrano es puesto en libertad mientras enfrentamientos criminales aumentan en municipio fronterizo.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/liberan-a-sergio-serrano-del-cjng-arrecia-violencia-en-tecate/?utm_source=rss&utm_medium=rss&utm_campaign=liberan-a-sergio-serrano-del-cjng-arrecia-violencia-en-tecate",
-        "_added_at": "2026-08-30T12:13:33.430054-07:00"
-      },
-      {
-        "title": "Ejecutan a mujer en Guadalajara; niño queda herido",
-        "summary": "Ataque a balazos mata a una mujer e impacta a menor de edad en colonia tijuanense.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/181018_asesinan_a_balazos_a_una_mujer_en_la_colonia_guadalajara_un_nino_resulto_herido",
-        "_added_at": "2026-08-30T12:13:33.430054-07:00"
-      },
-      {
-        "title": "Hallan cadáver abandonado en canal del Río Alamar",
-        "summary": "Descubren cuerpo dentro de carriola en zona de riego tijuanense.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/181019_dejan_un_cuerpo_en_una_carriola_abandonada_en_el_canal_del_rio_alamar",
-        "_added_at": "2026-08-30T12:13:33.430054-07:00"
-      },
-      {
-        "title": "Pareja detenida por balacera cerca del Aeropuerto",
-        "summary": "Hombre y mujer capturados tras tiroteo en proximidades del aeropuerto de Tijuana.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/181012_un_hombre_y_una_mujer_los_detenidos_por_balacera_cerca_del_aeropuerto",
-        "_added_at": "2026-08-30T01:24:38.719254-07:00"
-      },
-      {
-        "title": "Menor herida al caer camioneta a barranco en libre Tijuana-Rosarito",
-        "summary": "Niña lesionada tras accidente vial en carretera federal entre Tijuana y Rosarito.",
+        "title": "Familias conmemoran a desaparecidos en Tijuana",
+        "summary": "Reunión de familiares de personas desaparecidas en el Día Internacional de Víctimas de Desaparición en La Gallera.",
         "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/98733/Menor-resulta-lesionada-tras-caer-camioneta-a-un-barranco-en-la-libre-Tijuana-Rosarito",
-        "_added_at": "2026-08-30T01:24:38.719254-07:00"
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98757/Entre-dolor-y-memoria,-familias-de-desaparecidos-se-re%C3%BAnen-en-La-Gallera-en-conmemoraci%C3%B3n-de-sus-seres-queridos",
+        "_added_at": "2026-08-31T01:45:02.711055-07:00"
       }
     ],
     "politica": [
       {
-        "title": "MC presenta queja ante INE por nombramientos de Morena",
-        "summary": "Partido opositor denuncia irregularidades en designaciones realizadas por gobierno.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/tras-primeros-nombramientos-de-morena-mc-presenta-queja-ante-el-ine/?utm_source=rss&utm_medium=rss&utm_campaign=tras-primeros-nombramientos-de-morena-mc-presenta-queja-ante-el-ine",
-        "_added_at": "2026-08-30T17:19:59.425966-07:00"
-      },
-      {
-        "title": "Burgueño se victimiza tras censura a activista FGE",
-        "summary": "Autoridad enfrenta críticas por restricción a activismo social denunciado públicamente.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/burgueno-se-victimiza-y-censura-a-activista-con-la-fge/?utm_source=rss&utm_medium=rss&utm_campaign=burgueno-se-victimiza-y-censura-a-activista-con-la-fge",
-        "_added_at": "2026-08-30T17:19:59.425966-07:00"
-      },
-      {
-        "title": "Pedro Haces Barba respalda a candidato Arregui",
-        "summary": "Liderazgo político local brinda apoyo explícito a precandidato.",
+        "title": "Morena designa a Higinio Martínez para Senado",
+        "summary": "El partido Morena designa a Higinio Martínez como presidente del Senado de la República.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181032_pedro_haces_barba_da_espaldarazo_a_arregui",
-        "_added_at": "2026-08-30T17:19:59.425966-07:00"
+        "url": "https://www.afntijuana.info/nacionales/181040_designa_morena_a_higinio_martinez_para_presidir_el_senado",
+        "_added_at": "2026-08-31T01:45:02.711055-07:00"
       },
       {
-        "title": "Inzunza debe renunciar al Senado, no solo a Morena",
-        "summary": "Crítico de oposición demanda separación completa de senadora del cargo legislativo federal.",
+        "title": "Inicia campaña para trámite de doble nacionalidad",
+        "summary": "Arranca la campaña \"Soy México\" para facilitar gestión de doble nacionalidad en Baja California.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181024_inzunza_debe_separarse_del_senado_no_solo_de_morena_max_garcia",
-        "_added_at": "2026-08-30T12:13:33.430054-07:00"
+        "url": "https://www.afntijuana.info/municipios/181042_el_martes_inicia_la_campana_soy_mexico_para_tramite_de_doble_nacionalidad",
+        "_added_at": "2026-08-31T01:45:02.711055-07:00"
       },
       {
-        "title": "Sheinbaum envía reforma de nacionalidad única para gobernantes",
-        "summary": "Iniciativa presidencial busca impedir doble nacionalidad en cargos ejecutivos estatales.",
+        "title": "Encuesta favorece a Ismael Burgueño en Tijuana",
+        "summary": "Ismael Burgueño gana sondeo de preferencia, aunque se otorga más tiempo a otra candidata.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181022_envia_sheinbaum_reforma_que_busca_nacionalidad_unica_para_gobernantes",
-        "_added_at": "2026-08-30T12:13:33.430054-07:00"
-      },
-      {
-        "title": "Desabasto de agua e inseguridad, principales demandas ciudadanas",
-        "summary": "Pobladores exigen solución a crisis hídrica y violencia que afectan municipios de la región.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181023_desabasto_de_agua_e_inseguridad_entre_las_principales_demandas_ciudadanas_alfredo_alvarez",
-        "_added_at": "2026-08-30T12:13:33.430054-07:00"
-      },
-      {
-        "title": "Aspirantes a gubernatura saldrán fortalecidos: Burgueño",
-        "summary": "Dirigente estatal comenta proceso interno de selección de candidatos para gubernatura.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181014_saldran_fortalecidos_del_proceso_interno_aspirantes_a_la_gubernatura_dice_burgueno",
-        "_added_at": "2026-08-30T01:24:38.719254-07:00"
+        "url": "https://www.afntijuana.info/afn_politico/181038_gano_la_encuesta_ismael_burgueno_pero_le_dan_mas_tiempo_a_julieta",
+        "_added_at": "2026-08-31T01:45:02.711055-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Subestaciones deficientes generan apagones Tijuana",
-        "summary": "Falta de infraestructura moderna provoca cortes de energía frecuentes en la ciudad.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181033_falta_de_subestaciones_modernas_generan_apagones_en_tijuana_asegura_especialista",
-        "_added_at": "2026-08-30T17:19:59.425966-07:00"
-      },
-      {
-        "title": "Salario mínimo BC insuficiente para vivienda digna",
-        "summary": "Organizaciones laborales advierten que percepciones no cubren necesidades habitacionales.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/08/30/salario-minimo-en-baja-california-no-alcanza-para-una-vivienda-digna-senala-catem/",
-        "_added_at": "2026-08-30T17:19:59.425966-07:00"
-      },
-      {
-        "title": "Terrenos sin enganche cerca Rosarito y Valle Guadalupe",
-        "summary": "Promotora lanza oferta inmobiliaria con apartado mínimo de 500 dólares.",
-        "source": "Yo Amo Tijuana",
-        "url": "https://amotijuana.com/lanzan-terrenos-sin-enganche-cerca-de-rosarito-y-valle-de-guadalupe/",
-        "_added_at": "2026-08-30T17:19:59.425966-07:00"
-      },
-      {
-        "title": "Call center en Tijuana ofrece sueldos de hasta diez mil semanales",
-        "summary": "Empresa de telecomunicaciones abre empleos con compensación competitiva para ciudadanos locales.",
-        "source": "Yo Amo Tijuana",
-        "url": "https://amotijuana.com/call-center-en-tijuana-arranca-el-ano-con-sueldos-de-hasta-10000-semanales/",
-        "_added_at": "2026-08-30T12:13:33.430054-07:00"
-      },
-      {
-        "title": "Lanzan terrenos sin enganche cerca de Valle de Guadalupe",
-        "summary": "Inmobiliarias ofrecen propiedades con apartado mínimo de quinientos dólares en zona vinícola.",
-        "source": "Yo Amo Tijuana",
-        "url": "https://amotijuana.com/lanzan-terrenos-sin-enganche-y-con-apartado-de-500-dolares-cerca-de-valle-de-guadalupe/",
-        "_added_at": "2026-08-30T12:13:33.430054-07:00"
-      },
-      {
-        "title": "Industrias buscan reducir consumo energético mediante tecnología",
-        "summary": "Manufactura tijuanense implementa sistemas para optimizar uso de electricidad y promover reciclaje.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/08/30/buscan-industrias-reducir-consumo-energetico-mediante-tecnologia-y-reciclaje/",
-        "_added_at": "2026-08-30T12:13:33.430054-07:00"
-      },
-      {
-        "title": "Vecinos bloquean calle por corte de electricidad en Cañón de Palmeras",
-        "summary": "Protesta en Tijuana por falta de suministro eléctrico en zona residencial.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181013_bloquean_vecinos_calle_en_canon_de_las_palmeras_por_falta_de_electricidad",
-        "_added_at": "2026-08-30T01:24:38.719254-07:00"
-      },
-      {
-        "title": "Avanzan gestiones legales para proteger Cerro Cuchuma",
-        "summary": "Proceso binacional en Tecate para conservación y protección del sitio natural.",
+        "title": "Regreso a clases impulsa ventas de uniformes",
+        "summary": "Comerciantes en Tijuana reportan aumento en ventas de uniformes escolares por inicio de ciclo educativo.",
         "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tecate/98731/Avanza-ruta-jur%C3%ADdica-y-binacional-para-proteger-el-Cerro-Cuchum%C3%A1",
-        "_added_at": "2026-08-30T01:24:38.719254-07:00"
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98758/Regreso-a-clases-impulsa-ventas-de-uniformes-en-Tijuana",
+        "_added_at": "2026-08-31T01:45:02.711055-07:00"
+      },
+      {
+        "title": "Claudia Agatón recupera operación de Proturismo",
+        "summary": "Se retoma operación de Proturismo en Ensenada para atraer inversión turística a la región.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181037_recupera_claudia_agaton_la_operacion_de_proturismo_podra_atraer_inversion_a_ensenada",
+        "_added_at": "2026-08-31T01:45:02.711055-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Más de 56 mil adultos mayores beneficiados en BC",
-        "summary": "Gobierno estatal expande programas sociales para población adulta mayor en la región.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181035_se_ha_beneficiado_a_mas_de_56_mil_adultos_mayores_con_programas_sociales_en_bc",
-        "_added_at": "2026-08-30T17:19:59.425966-07:00"
-      },
-      {
-        "title": "Colectivo vende agua financiar búsquedas desaparecidos",
-        "summary": "Grupo de activistas genera recursos mediante venta en semáforos para investigaciones.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/08/30/colectivo-de-busqueda-vende-agua-en-un-semaforo-de-tijuana-para-financiar-sus-jornadas-y-buscar-a-sus-familiares-desaparecidos/",
-        "_added_at": "2026-08-30T17:19:59.425966-07:00"
-      },
-      {
-        "title": "Secretario Salud sale; demandan revisión sistema",
-        "summary": "Partida de funcionario abre debate sobre transformación de estructura sanitaria estatal.",
+        "title": "Más de 729 mil alumnos regresan a clases",
+        "summary": "Inicia nuevo ciclo escolar en Baja California con casi tres cuartos de millón de estudiantes.",
         "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98756/Salida-de-Secretario-de-Salud-debe-abrir-paso-a-una-revisi%C3%B3n-del-sistema",
-        "_added_at": "2026-08-30T17:19:59.425966-07:00"
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/98759/Regresan-a-clases-m%C3%A1s-de-729-mil-alumnos-en-Baja-California",
+        "_added_at": "2026-08-31T01:45:02.711055-07:00"
       },
       {
-        "title": "Aumentan casos de golpe de calor en mascotas tijuanenses",
-        "summary": "Veterinarios registran más perros con episodios de hipertermia durante altas temperaturas estivales.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/08/30/aumentan-casos-de-golpe-de-calor-en-perros-en-tijuana-estos-son-los-sintomas-y-que-hacer/",
-        "_added_at": "2026-08-30T12:13:33.430054-07:00"
-      },
-      {
-        "title": "Aplicaciones móviles refuerzan seguridad en hogares tijuanenses",
-        "summary": "Tecnología digital gana popularidad como herramienta para monitorear y proteger viviendas.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/08/30/aumenta-uso-de-aplicaciones-moviles-para-reforzar-la-seguridad-en-hogares/",
-        "_added_at": "2026-08-30T12:13:33.430054-07:00"
-      },
-      {
-        "title": "Familias aprovechan último fin de semana de vacaciones en playas",
-        "summary": "Visitantes disfrutan playas de Tijuana durante cierre de período vacacional.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98732/Aprovechan-familias-el-%C3%BAltimo-fin-de-semana-de-vacaciones-en-Playas-de-Tijuana",
-        "_added_at": "2026-08-30T01:24:38.719254-07:00"
-      },
-      {
-        "title": "CATEM conmemora 15 años de operaciones en Tijuana",
-        "summary": "Sindicato celebra aniversario de actividades laborales en la región.",
+        "title": "Planteles municipales listos para ciclo escolar",
+        "summary": "Establecimientos educativos del municipio se preparan para apertura de clases en Tijuana.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181016_celebran_el_15_aniversario_del_sindicato_catem_en_tijuana",
-        "_added_at": "2026-08-30T01:24:38.719254-07:00"
+        "url": "https://www.afntijuana.info/municipios/181041_planteles_educativos_municipales_estan_listos_para_el_regreso_a_clases_este_lunes",
+        "_added_at": "2026-08-31T01:45:02.711055-07:00"
+      },
+      {
+        "title": "Fallece Genoveva Villalón, viuda de Blancornelas",
+        "summary": "Muere Genoveva Villalón, esposa del periodista asesinado Jesús Blancornelas.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181043_muere_genoveva_villalon_viuda_de_jesus_blancornelas",
+        "_added_at": "2026-08-31T01:45:02.711055-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-30T17:19:59.425966-07:00"
+  "last_updated": "2026-08-31T01:45:02.711055-07:00"
 }

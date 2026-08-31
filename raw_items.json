@@ -1,400 +1,88 @@
 {
-  "generated_at": "2026-08-31T00:19:58.675048+00:00",
+  "generated_at": "2026-08-31T08:45:01.945363+00:00",
   "items": [
     {
-      "source": "ZETA Tijuana",
-      "title": "Burgueño se victimiza y censura a activista con la FGE",
-      "url": "https://zetatijuana.com/2026/08/burgueno-se-victimiza-y-censura-a-activista-con-la-fge/?utm_source=rss&utm_medium=rss&utm_campaign=burgueno-se-victimiza-y-censura-a-activista-con-la-fge",
-      "published": "Sun, 30 Aug 2026 22:52:04 +0000"
-    },
-    {
       "source": "AFN Tijuana",
-      "title": "Destaca Eva Moreno la unidad y el proyecto de nación en reunión parlamentaria",
-      "url": "https://www.afntijuana.info/nacionales/181036_destaca_eva_moreno_la_unidad_y_el_proyecto_de_nacion_en_reunion_parlamentaria",
+      "title": "Muere Genoveva Villalón viuda de Jesús Blancornelas",
+      "url": "https://www.afntijuana.info/informacion_general/181043_muere_genoveva_villalon_viuda_de_jesus_blancornelas",
       "published": ""
     },
     {
       "source": "El Mexicano",
-      "title": "Salida de Secretario de Salud debe abrir paso a una revisión del sistemaTijuana |30 de agosto",
-      "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98756/Salida-de-Secretario-de-Salud-debe-abrir-paso-a-una-revisi%C3%B3n-del-sistema",
+      "title": "Regresan a clases más de 729 mil alumnos en Baja CaliforniaEstatal |30 de agosto",
+      "url": "https://el-mexicano.com.mx/Noticia/Estatal/98759/Regresan-a-clases-m%C3%A1s-de-729-mil-alumnos-en-Baja-California",
       "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Pase de lista recuerda a 35 desaparecidos en Tijuana",
-      "url": "https://www.elimparcial.com/tij/policiaca/2026/08/30/pase-de-lista-recuerda-a-35-desaparecidos-en-tijuana/",
-      "published": ""
-    },
-    {
-      "source": "Yo Amo Tijuana",
-      "title": "Lanzan terrenos sin enganche y con apartado de $500 dólares cerca de Valle de Guadalupe",
-      "url": "https://amotijuana.com/lanzan-terrenos-sin-enganche-y-con-apartado-de-500-dolares-cerca-de-valle-de-guadalupe/",
-      "published": ""
-    },
-    {
-      "source": "TJ Comunica",
-      "title": "Municipal detiene a hombre armad0 en techo de vivienda; policía resulta lesionado durante operativo en Tijuana",
-      "url": "https://tjcomunica.com/municipal-detiene-a-hombre-armad0-en-techo-de-vivienda-policia-resulta-lesionado-durante-operativo-en-tijuana/",
-      "published": ""
-    },
-    {
-      "source": "ZETA Tijuana",
-      "title": "Tras primeros nombramientos de Morena MC presenta queja ante el INE",
-      "url": "https://zetatijuana.com/2026/08/tras-primeros-nombramientos-de-morena-mc-presenta-queja-ante-el-ine/?utm_source=rss&utm_medium=rss&utm_campaign=tras-primeros-nombramientos-de-morena-mc-presenta-queja-ante-el-ine",
-      "published": "Sun, 30 Aug 2026 22:31:45 +0000"
     },
     {
       "source": "AFN Tijuana",
-      "title": "Se ha beneficiado a más de 56 mil adultos mayores con programas sociales en BC",
-      "url": "https://www.afntijuana.info/informacion_general/181035_se_ha_beneficiado_a_mas_de_56_mil_adultos_mayores_con_programas_sociales_en_bc",
+      "title": "El martes inicia la campaña \"Soy México\" para trámite de doble nacionalidad",
+      "url": "https://www.afntijuana.info/municipios/181042_el_martes_inicia_la_campana_soy_mexico_para_tramite_de_doble_nacionalidad",
       "published": ""
     },
     {
       "source": "El Mexicano",
-      "title": "Salida de Secretario de Salud debe abrir paso a una revisión del sistemaTijuana| domingo 30 de agosto",
-      "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98756/Salida-de-Secretario-de-Salud-debe-abrir-paso-a-una-revisi%C3%B3n-del-sistema",
+      "title": "Regresan a clases más de 729 mil alumnos en Baja CaliforniaEstatal| domingo 30 de agosto",
+      "url": "https://el-mexicano.com.mx/Noticia/Estatal/98759/Regresan-a-clases-m%C3%A1s-de-729-mil-alumnos-en-Baja-California",
       "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Familiares y colectivos realizaron un pase de lista en la Glorieta Cuauhtémoc para recordar a personas desaparecidas y exigir apoyo en su búsqueda.",
-      "url": "https://www.elimparcial.com/tij/policiaca/2026/08/30/pase-de-lista-recuerda-a-35-desaparecidos-en-tijuana/",
-      "published": ""
-    },
-    {
-      "source": "Yo Amo Tijuana",
-      "title": "¡Es hora de apoyar! mañana Zonkeys tendrá su último partido en casa contra CDMX",
-      "url": "https://amotijuana.com/es-hora-de-apoyar-manana-zonkeys-tendra-su-ultimo-partido-en-casa-contra-cdmx/",
-      "published": ""
-    },
-    {
-      "source": "TJ Comunica",
-      "title": "Localizan a una persona sin vida dentro de una carriola en Cañón del Padre",
-      "url": "https://tjcomunica.com/localizan-a-una-persona-sin-vida-dentro-de-una-carriola-en-canon-del-padre/",
-      "published": ""
-    },
-    {
-      "source": "ZETA Tijuana",
-      "title": "Colectivo Todos Domos Erick Carrillo pide justicia por desaparecidos en Baja California",
-      "url": "https://zetatijuana.com/2026/08/colectivo-todos-domos-erick-carrillo-pide-justicia-por-desaparecidos-en-baja-california/?utm_source=rss&utm_medium=rss&utm_campaign=colectivo-todos-domos-erick-carrillo-pide-justicia-por-desaparecidos-en-baja-california",
-      "published": "Sun, 30 Aug 2026 21:38:43 +0000"
     },
     {
       "source": "AFN Tijuana",
-      "title": "\"Morita\" anotó doblete a Keylor Navas y Xolos derrotó a Pumas",
-      "url": "https://www.afntijuana.info/deportes/181034_morita_anoto_doblete_a_keylor_navas_y_xolos_derroto_a_pumas",
+      "title": "Planteles educativos municipales están listos para el regreso a clases este lunes",
+      "url": "https://www.afntijuana.info/municipios/181041_planteles_educativos_municipales_estan_listos_para_el_regreso_a_clases_este_lunes",
       "published": ""
     },
     {
       "source": "El Mexicano",
-      "title": "Suspenden a policía que ingirió alcohol en un automóvilMexicali |30 de agosto",
-      "url": "https://el-mexicano.com.mx/Noticia/Mexicali/98755/Suspenden-a-polic%C3%ADa-que-ingiri%C3%B3-alcohol-en-un-autom%C3%B3vil",
+      "title": "Regreso a clases impulsa ventas de uniformes en TijuanaTijuana |30 de agosto",
+      "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98758/Regreso-a-clases-impulsa-ventas-de-uniformes-en-Tijuana",
       "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Detienen a dos hombres por homicidio en centro de rehabilitación",
-      "url": "https://www.elimparcial.com/tij/policiaca/2026/08/30/detienen-a-dos-hombres-por-homicidio-en-centro-de-rehabilitacion/",
-      "published": ""
-    },
-    {
-      "source": "Yo Amo Tijuana",
-      "title": "Lanzan terrenos sin enganche cerca de Rosarito y Valle de Guadalupe",
-      "url": "https://amotijuana.com/lanzan-terrenos-sin-enganche-cerca-de-rosarito-y-valle-de-guadalupe/",
-      "published": ""
-    },
-    {
-      "source": "TJ Comunica",
-      "title": "Mujer muere y niño de 4 años resulta herido tras ataque armado en colonia Guadalajara",
-      "url": "https://tjcomunica.com/mujer-muere-y-nino-de-4-anos-resulta-herido-tras-ataque-armado-en-colonia-guadalajara/",
-      "published": ""
-    },
-    {
-      "source": "ZETA Tijuana",
-      "title": "Arrestan a dos de los presuntos homicidas de la Patrulla Espiritual en Tijuana.",
-      "url": "https://zetatijuana.com/2026/08/arrestan-a-dos-de-los-presuntos-homicidas-de-la-patrulla-espiritual-en-tijuana/?utm_source=rss&utm_medium=rss&utm_campaign=arrestan-a-dos-de-los-presuntos-homicidas-de-la-patrulla-espiritual-en-tijuana",
-      "published": "Sun, 30 Aug 2026 18:53:12 +0000"
     },
     {
       "source": "AFN Tijuana",
-      "title": "Falta de subestaciones modernas generan apagones en Tijuana, asegura especialista",
-      "url": "https://www.afntijuana.info/informacion_general/181033_falta_de_subestaciones_modernas_generan_apagones_en_tijuana_asegura_especialista",
+      "title": "Designa Morena a Higinio Martínez para presidir el Senado",
+      "url": "https://www.afntijuana.info/nacionales/181040_designa_morena_a_higinio_martinez_para_presidir_el_senado",
       "published": ""
     },
     {
       "source": "El Mexicano",
-      "title": "Suspenden a policía que ingirió alcohol en un automóvilMexicali| domingo 30 de agosto",
-      "url": "https://el-mexicano.com.mx/Noticia/Mexicali/98755/Suspenden-a-polic%C3%ADa-que-ingiri%C3%B3-alcohol-en-un-autom%C3%B3vil",
+      "title": "Regreso a clases impulsa ventas de uniformes en TijuanaTijuana| domingo 30 de agosto",
+      "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98758/Regreso-a-clases-impulsa-ventas-de-uniformes-en-Tijuana",
       "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Toros de Tijuana pierde Juego 2 y empata Final del Norte",
-      "url": "https://www.elimparcial.com/deporte/2026/08/30/toros-de-tijuana-pierde-en-juego-2-contra-sultanes-y-la-final-del-norte-se-empata/",
-      "published": ""
-    },
-    {
-      "source": "Yo Amo Tijuana",
-      "title": "Call center en Tijuana arranca el año con sueldos de hasta $10,000 semanales",
-      "url": "https://amotijuana.com/call-center-en-tijuana-arranca-el-ano-con-sueldos-de-hasta-10000-semanales/",
-      "published": ""
-    },
-    {
-      "source": "TJ Comunica",
-      "title": "Ataqu3 armado en Tijuana deja un hombre sin vida, otro herido y dos detenidos",
-      "url": "https://tjcomunica.com/ataqu3-armado-en-tijuana-deja-un-hombre-sin-vida-otro-herido-y-dos-detenidos/",
-      "published": ""
-    },
-    {
-      "source": "ZETA Tijuana",
-      "title": "Liberan a Sergio Serrano del CJNG; arrecia violencia en Tecate",
-      "url": "https://zetatijuana.com/2026/08/liberan-a-sergio-serrano-del-cjng-arrecia-violencia-en-tecate/?utm_source=rss&utm_medium=rss&utm_campaign=liberan-a-sergio-serrano-del-cjng-arrecia-violencia-en-tecate",
-      "published": "Sun, 30 Aug 2026 18:14:11 +0000"
     },
     {
       "source": "AFN Tijuana",
-      "title": "Pedro Haces Barba da \"espaldarazo\" a Arregui",
-      "url": "https://www.afntijuana.info/informacion_general/181032_pedro_haces_barba_da_espaldarazo_a_arregui",
+      "title": "Recuerdan a sus familiares ausentes en el Día Internacional de Víctimas de Desaparición",
+      "url": "https://www.afntijuana.info/informacion_general/181039_recuerdan_a_sus_familiares_ausentes_en_el_dia_internacional_de_victimas_de_desaparicion",
       "published": ""
     },
     {
       "source": "El Mexicano",
-      "title": "Prohibición del uso del celular no debe incluir a maestrosMexicali |30 de agosto",
-      "url": "https://el-mexicano.com.mx/Noticia/Mexicali/98754/Prohibici%C3%B3n-del-uso-del-celular-no-debe-incluir-a-maestros",
+      "title": "Entre dolor y memoria, familias de desaparecidos se reúnen en La Gallera en conmemoración de sus seres queridosTijuana |30 de agosto",
+      "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98757/Entre-dolor-y-memoria,-familias-de-desaparecidos-se-re%C3%BAnen-en-La-Gallera-en-conmemoraci%C3%B3n-de-sus-seres-queridos",
       "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "DEA seguirá tras los bienes de García Luna",
-      "url": "https://www.elimparcial.com/mexico/2026/08/30/mas-de-58-millones-de-dolares-recuperados-en-florida-llevan-a-la-dea-a-mantener-la-busqueda-de-activos-vinculados-con-genaro-garcia-luna-mientras-estados-unidos-sostiene-investigaciones-pendientes-sobre-la-red-de-corrupcion/",
-      "published": ""
-    },
-    {
-      "source": "Yo Amo Tijuana",
-      "title": "Aficionados se reunirán en La Cacho para ver la final de la Liga MX",
-      "url": "https://amotijuana.com/aficionados-se-reuniran-en-la-cacho-para-ver-la-final-de-la-liga-mx/",
-      "published": ""
-    },
-    {
-      "source": "ZETA Tijuana",
-      "title": "Cierres de pre pre precampaña",
-      "url": "https://zetatijuana.com/2026/08/cierres-de-pre-pre-precampana/?utm_source=rss&utm_medium=rss&utm_campaign=cierres-de-pre-pre-precampana",
-      "published": "Sun, 30 Aug 2026 16:00:55 +0000"
     },
     {
       "source": "AFN Tijuana",
-      "title": "¿Cabeza de Vaca? Es Ricardo Salinas el objetivo de Sheinbaum",
-      "url": "https://www.afntijuana.info/informacion_general/181031_icabeza_de_vaca_es_ricardo_salinas_el_objetivo_de_sheinbaum",
+      "title": "Ganó la encuesta Ismael Burgueño, pero le dan más tiempo a Julieta",
+      "url": "https://www.afntijuana.info/afn_politico/181038_gano_la_encuesta_ismael_burgueno_pero_le_dan_mas_tiempo_a_julieta",
       "published": ""
     },
     {
       "source": "El Mexicano",
-      "title": "Prohibición del uso del celular no debe incluir a maestrosMexicali| domingo 30 de agosto",
-      "url": "https://el-mexicano.com.mx/Noticia/Mexicali/98754/Prohibici%C3%B3n-del-uso-del-celular-no-debe-incluir-a-maestros",
+      "title": "Entre dolor y memoria, familias de desaparecidos se reúnen en La Gallera en conmemoración de sus seres queridosTijuana| domingo 30 de agosto",
+      "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98757/Entre-dolor-y-memoria,-familias-de-desaparecidos-se-re%C3%BAnen-en-La-Gallera-en-conmemoraci%C3%B3n-de-sus-seres-queridos",
       "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Salario mínimo en BC: piden considerar costo de vida",
-      "url": "https://www.elimparcial.com/tij/tijuana/2026/08/30/salario-minimo-en-baja-california-no-alcanza-para-una-vivienda-digna-senala-catem/",
-      "published": ""
-    },
-    {
-      "source": "Yo Amo Tijuana",
-      "title": "El lugar de brunch en la cacho que dará pastel y bebida gratis a los cumpleañeros",
-      "url": "https://amotijuana.com/el-lugar-de-brunch-en-la-cacho-que-dara-pastel-y-bebida-gratis-a-los-cumpleaneros/",
-      "published": ""
-    },
-    {
-      "source": "ZETA Tijuana",
-      "title": "“Ni tú ni yo: El Show”  homenajea a Juan Gabriel en su décimo aniversario luctuoso",
-      "url": "https://zetatijuana.com/2026/08/ni-tu-ni-yo-el-show-homenajea-a-juan-gabriel-en-su-decimo-aniversario-luctuoso/?utm_source=rss&utm_medium=rss&utm_campaign=ni-tu-ni-yo-el-show-homenajea-a-juan-gabriel-en-su-decimo-aniversario-luctuoso",
-      "published": "Sun, 30 Aug 2026 08:48:11 +0000"
     },
     {
       "source": "AFN Tijuana",
-      "title": "Limitación en uso de celular en escuelas no debe aplicar a docentes: SNTE",
-      "url": "https://www.afntijuana.info/informacion_general/181030_limitacion_en_uso_de_celular_en_escuelas_no_debe_aplicar_a_docentes_snte",
+      "title": "Recupera Claudia Agatón la operación de Proturismo; podrá atraer inversión a Ensenada",
+      "url": "https://www.afntijuana.info/informacion_general/181037_recupera_claudia_agaton_la_operacion_de_proturismo_podra_atraer_inversion_a_ensenada",
       "published": ""
     },
     {
       "source": "El Mexicano",
-      "title": "Mujer muere y niño de 4 años resulta herido tras ataque armado en colonia GuadalajaraPoliciaca| domingo 30 de agosto",
-      "url": "https://el-mexicano.com.mx/Noticia/Policiaca/98738/Mujer-muere-y-ni%C3%B1o-de-4-a%C3%B1os-resulta-herido-tras-ataque-armado-en-colonia-Guadalajara",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Colectivo vende agua en Tijuana para financiar búsquedas",
-      "url": "https://www.elimparcial.com/tij/tijuana/2026/08/30/colectivo-de-busqueda-vende-agua-en-un-semaforo-de-tijuana-para-financiar-sus-jornadas-y-buscar-a-sus-familiares-desaparecidos/",
-      "published": ""
-    },
-    {
-      "source": "Yo Amo Tijuana",
-      "title": "Posadas al estilo picnic con chilaquiles y mimosas: así es la propuesta de este restaurante",
-      "url": "https://amotijuana.com/posadas-al-estilo-picnic-con-chilaquiles-y-mimosas-asi-es-la-propuesta-de-este-restaurante/",
-      "published": ""
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Cabildo de Mexicali analizará autorización para venta de alcohol en cines y teatros",
-      "url": "https://www.afntijuana.info/informacion_general/181029_cabildo_de_mexicali_analizara_autorizacion_para_venta_de_alcohol_en_cines_y_teatros",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Bloquean residentes de Viñas del Sol Lázaro Cárdenas por falta de luzMexicali |30 de agosto",
-      "url": "https://el-mexicano.com.mx/Noticia/Mexicali/98753/Bloquean-residentes-de-Vi%C3%B1as-del-Sol-L%C3%A1zaro-C%C3%A1rdenas-por-falta-de-luz",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "VIH y hepatitis C: dónde hacerse pruebas en Tijuana",
-      "url": "https://www.elimparcial.com/tij/tijuana/2026/08/30/refuerzan-atencion-de-vih-y-hepatitis-c-para-migrantes-en-tijuana/",
-      "published": ""
-    },
-    {
-      "source": "Yo Amo Tijuana",
-      "title": "Sueldos de $5,840 a $10,000 semanales en call center de Tijuana",
-      "url": "https://amotijuana.com/sueldos-de-5840-a-10000-semanales-en-call-center-de-tijuana/",
-      "published": ""
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Repunte en ventas de fin de año pueden mejorar con seguridad y agilidad en cruces: Palombo",
-      "url": "https://www.afntijuana.info/informacion_general/181028_repunte_en_ventas_de_fin_de_ano_pueden_mejorar_con_seguridad_y_agilidad_en_cruces_palombo",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Bloquean residentes de Viñas del Sol Lázaro Cárdenas por falta de luzMexicali| domingo 30 de agosto",
-      "url": "https://el-mexicano.com.mx/Noticia/Mexicali/98753/Bloquean-residentes-de-Vi%C3%B1as-del-Sol-L%C3%A1zaro-C%C3%A1rdenas-por-falta-de-luz",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Familias abarrotan Playas de Tijuana antes del regreso a cla",
-      "url": "https://www.elimparcial.com/tij/tijuana/2026/08/30/asi-luce-playas-de-tijuana-durante-el-ultimo-domingo-de-vacaciones-con-familias-buscando-escapar-del-calor-antes-del-regreso-a-clases/",
-      "published": ""
-    },
-    {
-      "source": "Yo Amo Tijuana",
-      "title": "El único lugar en Tijuana donde tu posada puede ser con mimosas o con cheve",
-      "url": "https://amotijuana.com/el-unico-lugar-en-tijuana-donde-tu-posada-puede-ser-con-mimosas-o-con-cheve/",
-      "published": ""
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Recorre Ruiz Uribe casa por casa colonias de Ensenada",
-      "url": "https://www.afntijuana.info/informacion_general/181027_recorre_ruiz_uribe_casa_por_casa_colonias_de_ensenada",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Burgueño pide cerrar fila para consolidar Transformación en BCEstatal |30 de agosto",
-      "url": "https://el-mexicano.com.mx/Noticia/Estatal/98752/Burgue%C3%B1o-pide-cerrar-fila-para-consolidar-Transformaci%C3%B3n-en-BC",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "UNAM recibe a 49,074 alumnos de nuevo ingreso",
-      "url": "https://www.elimparcial.com/mexico/2026/08/30/unam-ya-publico-resultados-49074-alumnos-de-nuevo-ingreso-comienzan-actividades-este-lunes/",
-      "published": ""
-    },
-    {
-      "source": "Yo Amo Tijuana",
-      "title": "Restaurante de brunch en la cacho dará pastel y bebida gratis a cumpleañeros",
-      "url": "https://amotijuana.com/restaurante-de-brunch-en-la-cacho-dara-pastel-y-bebida-gratis-a-cumpleaneros/",
-      "published": ""
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Cifra de personas desaparecidas sigue en aumento, denuncia colectivo de búsqueda",
-      "url": "https://www.afntijuana.info/informacion_general/181026_cifra_de_personas_desaparecidas_sigue_en_aumento_denuncia_colectivo_de_busqueda",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Burgueño pide cerrar fila para consolidar Transformación en BCEstatal| domingo 30 de agosto",
-      "url": "https://el-mexicano.com.mx/Noticia/Estatal/98752/Burgue%C3%B1o-pide-cerrar-fila-para-consolidar-Transformaci%C3%B3n-en-BC",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Ebrard niega que escándalos afecten negociación con EEUU",
-      "url": "https://www.elimparcial.com/mexico/2026/08/30/ebrard-rechaza-que-los-casos-de-huachicol-fiscal-rocha-moya-y-la-visa-de-andy-lopez-beltran-afecten-negociacion-con-estados-unidos-rumbo-al-t-mec/",
-      "published": ""
-    },
-    {
-      "source": "TJ Comunica",
-      "title": "Matan a hombre minutos después de salir de prisión",
-      "url": "https://tjcomunica.com/matan-a-hombre-minutos-despues-de-salir-de-prision/",
-      "published": ""
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Detienen a presuntos homicidas de interno del centro \"Jireh\"",
-      "url": "https://www.afntijuana.info/seguridad/181025_detienen_a_presuntos_homicidas_de_interno_del_centro_jireh",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "El fútbol europeo vuelve a ocupar los fines de semana en MéxicoDeportes |30 de agosto",
-      "url": "https://el-mexicano.com.mx/Noticia/Deportes/98751/El-f%C3%BAtbol-europeo-vuelve-a-ocupar-los-fines-de-semana-en-M%C3%A9xico",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Fresa mexicana: EU aplica medidas antidumping provisionales",
-      "url": "https://www.elimparcial.com/tij/ensenada/2026/08/30/fresa-mexicana-estados-unidos-impone-medidas-provisionales-por-investigacion-antidumping/",
-      "published": ""
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Inzunza debe separarse del Senado, no sólo de Morena: Max García",
-      "url": "https://www.afntijuana.info/informacion_general/181024_inzunza_debe_separarse_del_senado_no_solo_de_morena_max_garcia",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "El fútbol europeo vuelve a ocupar los fines de semana en MéxicoDeportes| domingo 30 de agosto",
-      "url": "https://el-mexicano.com.mx/Noticia/Deportes/98751/El-f%C3%BAtbol-europeo-vuelve-a-ocupar-los-fines-de-semana-en-M%C3%A9xico",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Regreso a clases: compras de última hora en Tijuana",
-      "url": "https://www.elimparcial.com/tij/tijuana/2026/08/30/regreso-a-clases-en-tijuana-papelerias-y-tiendas-de-uniformes-se-llenan-por-compras-de-ultima-hora/",
-      "published": ""
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Desabasto de agua e inseguridad, entre las principales demandas ciudadanas: Alfredo Álvarez",
-      "url": "https://www.afntijuana.info/informacion_general/181023_desabasto_de_agua_e_inseguridad_entre_las_principales_demandas_ciudadanas_alfredo_alvarez",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Nepal suma 781 muertos e inicia entierros masivos",
-      "url": "https://www.elimparcial.com/mundo/2026/08/30/nepal-suma-781-muertos-e-inicia-entierros-masivos-mientras-2502-personas-siguen-desaparecidas/",
-      "published": ""
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Envía Sheinbaum reforma que busca nacionalidad única para gobernantes",
-      "url": "https://www.afntijuana.info/informacion_general/181022_envia_sheinbaum_reforma_que_busca_nacionalidad_unica_para_gobernantes",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Urge millonaria inversión para frenar apagones en TijuanaTijuana| domingo 30 de agosto",
-      "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98748/Urge-millonaria-inversi%C3%B3n-para-frenar-apagones-en-Tijuana",
-      "published": ""
-    },
-    {
-      "source": "TJ Comunica",
-      "title": "Claudia Agatón se reunió con Fausto Gallardo García, dirigente estatal del Partido Verde y diputado federal, uno de los principales aliados políticos de Morena en Baja California.",
-      "url": "https://tjcomunica.com/claudia-agaton-se-reunio-con-fausto-gallardo-garcia-dirigente-estatal-del-partido-verde-y-diputado-federal-uno-de-los-principales-aliados-politicos-de-morena-en-baja-california/",
+      "title": "Analizará cabildo de Mexicali reforma sobre venta de alcohol en teatros y cinesMexicali| domingo 30 de agosto",
+      "url": "https://el-mexicano.com.mx/Noticia/Mexicali/98750/Analizar%C3%A1-cabildo-de-Mexicali-reforma-sobre-venta-de-alcohol-en-teatros-y-cines",
       "published": ""
     }
   ]
