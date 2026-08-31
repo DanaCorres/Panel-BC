@@ -1,8 +1,36 @@
 {
   "date": "2026-08-31",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Decomisan arsenal de alto poder en frontera",
+        "summary": "Autoridades mexicanas incautan armas de fuego provenientes de Texas en operativo de seguridad.",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/autoridades-mexicanas-decomisan-arsenal-de-alto-poder-proveniente-de-texas/",
+        "_added_at": "2026-08-31T14:23:52.611012-07:00"
+      },
+      {
+        "title": "Denuncian extorsión de agentes de FGE",
+        "summary": "Elementos de la Fiscalía General del Estado cobran dinero por muertes ocurridas en domicilios particulares.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/denuncian-extorsion-de-agentes-de-fge-cobran-5-mil-pesos-por-muertes-en-casa/",
+        "_added_at": "2026-08-31T14:23:52.611012-07:00"
+      },
+      {
+        "title": "Violencia diaria en Tecate se vuelve rutinaria",
+        "summary": "Autoridades locales reportan que muertes y desapariciones ocurren constantemente en el municipio.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181068_un_muerto_o_un_desaparecido_es_el_pan_de_cada_dia_en_tecate_aseguran",
+        "_added_at": "2026-08-31T14:23:52.611012-07:00"
+      },
+      {
+        "title": "Ejecutan a hombre en domicilio de Tecate",
+        "summary": "Personas armadas ingresan a vivienda para asesinar a un residente del municipio.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/181060_ingresan_a_domicilio_para_ejecutar_a_un_hombre_en_tecate",
+        "_added_at": "2026-08-31T14:23:52.611012-07:00"
+      },
       {
         "title": "Familias conmemoran a desaparecidos en Tijuana",
         "summary": "Reunión de familiares de personas desaparecidas en el Día Internacional de Víctimas de Desaparición en La Gallera.",
@@ -12,6 +40,27 @@
       }
     ],
     "politica": [
+      {
+        "title": "Morena designa coordinadores sin transparencia",
+        "summary": "Partido anuncia nombramientos de coordinadores de forma opaca, sin procedimiento claro de selección.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/eleccion-de-coordinadores-en-la-opacidad-morena-da-a-conocer-primeros-nombramientos/",
+        "_added_at": "2026-08-31T14:23:52.611012-07:00"
+      },
+      {
+        "title": "Julio Anguiano aspira a alcaldía por el PAN",
+        "summary": "Precandidato del Partido Acción Nacional busca postularse para la presidencia municipal de Tijuana.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181063_aspira_julio_anguiano_a_la_alcaldia_de_tijuana_por_al_pan",
+        "_added_at": "2026-08-31T14:23:52.611012-07:00"
+      },
+      {
+        "title": "Servidores públicos acompañan a Burgueño pese a prohibición",
+        "summary": "Personal del gobierno asiste a funcionario en asamblea violando normas de conflicto de interés.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/pese-a-prohibicion-explicita-servidores-acompanan-a-burgueno-en-asamblea/",
+        "_added_at": "2026-08-31T14:23:52.611012-07:00"
+      },
       {
         "title": "Morena designa a Higinio Martínez para Senado",
         "summary": "El partido Morena designa a Higinio Martínez como presidente del Senado de la República.",
@@ -36,6 +85,34 @@
     ],
     "economia": [
       {
+        "title": "Cae 35 por ciento demanda de tours en BC",
+        "summary": "Industria turística de Baja California experimenta drástica disminución en la contratación de servicios.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98786/Cae-35%25-demanda-de-tours-en-BC",
+        "_added_at": "2026-08-31T14:23:52.611012-07:00"
+      },
+      {
+        "title": "Rosarito busca 700 millones para infraestructura",
+        "summary": "Municipio gestiona inversión para mejorar infraestructura turística y vial del puerto.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Rosarito/98785/Busca-Rosarito-700-millones-de-pesos-para-detonar-infraestructura-tur%C3%ADstica-y-vial",
+        "_added_at": "2026-08-31T14:23:52.611012-07:00"
+      },
+      {
+        "title": "Turismo de bodas cae en Valle de Guadalupe",
+        "summary": "Sector de bodas y eventos en la región vinícola experimenta reducción en reservaciones.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/cae-turismo-de-bodas-en-valle-de-guadalupe/",
+        "_added_at": "2026-08-31T14:23:52.611012-07:00"
+      },
+      {
+        "title": "Piden mayor inversión de CFE para apagones",
+        "summary": "Ciudadanos de Tijuana demandan que la Comisión Federal de Electricidad aumente presupuesto.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/08/31/piden-mayor-inversion-de-cfe-para-evitar-apagones-en-tijuana/",
+        "_added_at": "2026-08-31T14:23:52.611012-07:00"
+      },
+      {
         "title": "Regreso a clases impulsa ventas de uniformes",
         "summary": "Comerciantes en Tijuana reportan aumento en ventas de uniformes escolares por inicio de ciclo educativo.",
         "source": "El Mexicano",
@@ -51,6 +128,34 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "300 mil estudiantes regresan a clases en BC",
+        "summary": "Inician ciclo escolar más de 300 mil alumnos en Baja California en distintos municipios.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/98778/M%C3%A1s-de-300-mil-estudiantes-regresan-a-las-aulas-en-Baja-California",
+        "_added_at": "2026-08-31T14:23:52.611012-07:00"
+      },
+      {
+        "title": "Ensenada: 77 mil estudiantes inician clases",
+        "summary": "Casi 78 mil alumnos de distintos niveles educativos regresan a las aulas en el puerto.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/ensenada/2026/08/31/regresan-a-clases-77-mil-793-estudiantes-en-ensenada/",
+        "_added_at": "2026-08-31T14:23:52.611012-07:00"
+      },
+      {
+        "title": "Familias de desaparecidos se reúnen en conmemoración",
+        "summary": "Padres y parientes de personas desaparecidas se congregan en La Gallera para recordar víctimas.",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/entre-dolor-y-memoria-familias-de-desaparecidos-se-reunen-en-la-gallera-en-conmemoracion-de-sus-seres-queridos/",
+        "_added_at": "2026-08-31T14:23:52.611012-07:00"
+      },
+      {
+        "title": "Proyecto Choque cumple seis años apoyando vulnerables",
+        "summary": "Iniciativa comunitaria continúa brindando asistencia integral a personas en situación precaria.",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/seis-anos-de-apoyo-a-personas-vulnerables-con-proyecto-choque/",
+        "_added_at": "2026-08-31T14:23:52.611012-07:00"
+      },
       {
         "title": "Más de 729 mil alumnos regresan a clases",
         "summary": "Inicia nuevo ciclo escolar en Baja California con casi tres cuartos de millón de estudiantes.",
@@ -74,5 +179,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-31T01:45:02.711055-07:00"
+  "last_updated": "2026-08-31T14:23:52.611012-07:00"
 }
