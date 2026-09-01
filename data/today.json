@@ -1,8 +1,29 @@
 {
   "date": "2026-08-31",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Localizan dos cadáveres en zona este de Tijuana",
+        "summary": "Hallazgo de dos hombres sin vida en un predio de la Zona Este tijuanense.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/localizan-a-dos-hombres-sin-vida-en-predio-de-la-zona-este/?utm_source=rss&utm_medium=rss&utm_campaign=localizan-a-dos-hombres-sin-vida-en-predio-de-la-zona-este",
+        "_added_at": "2026-08-31T18:09:21.794198-07:00"
+      },
+      {
+        "title": "Asesinan a comerciante de tacos en Miramar",
+        "summary": "Dueño de puesto de tacos de marisco muere baleado en colonia Miramar de Tijuana.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/asesinan-a-balazos-a-dueno-de-puesto-de-tacos-de-marisco-en-la-colonia-miramar/?utm_source=rss&utm_medium=rss&utm_campaign=asesinan-a-balazos-a-dueno-de-puesto-de-tacos-de-marisco-en-la-colonia-miramar",
+        "_added_at": "2026-08-31T18:09:21.794198-07:00"
+      },
+      {
+        "title": "Decomisan 554 mil cajetillas de cigarros ilegales",
+        "summary": "Autoridades confiscan gran cargamento de cigarros de contrabando en operativo.",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/transportaban-lamparas-que-resultaron-ser-cigarros-decomisan-mas-de-554-mil-cajetillas/",
+        "_added_at": "2026-08-31T18:09:21.794198-07:00"
+      },
       {
         "title": "Decomisan arsenal de alto poder en frontera",
         "summary": "Autoridades mexicanas incautan armas de fuego provenientes de Texas en operativo de seguridad.",
@@ -40,6 +61,34 @@
       }
     ],
     "politica": [
+      {
+        "title": "Inzunza reaparece en Senado tras 124 días ausente",
+        "summary": "Senador regresa después de cuatro meses y afecta mayoría calificada de Morena.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/reaparece-enrique-inzunza-en-el-senado-tras-124-dias-y-sacude-la-mayoria-calificada-de-morena/?utm_source=rss&utm_medium=rss&utm_campaign=reaparece-enrique-inzunza-en-el-senado-tras-124-dias-y-sacude-la-mayoria-calificada-de-morena",
+        "_added_at": "2026-08-31T18:09:21.794198-07:00"
+      },
+      {
+        "title": "Morena aprueba convocatoria para coordinadores federales",
+        "summary": "Comisión del partido autoriza proceso para elegir nuevos coordinadores nacionales.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/08/comision-de-morena-aprueba-convocatoria-para-la-eleccion-de-coordinadores-federales/?utm_source=rss&utm_medium=rss&utm_campaign=comision-de-morena-aprueba-convocatoria-para-la-eleccion-de-coordinadores-federales",
+        "_added_at": "2026-08-31T18:09:21.794198-07:00"
+      },
+      {
+        "title": "Denuncian operador de campañas negras contra Morena",
+        "summary": "Fernando Beltrán señalado como responsable de ataques políticos contra la morenista.",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/senalan-a-fernando-beltran-como-supuesto-operador-de-campanas-negras-contra-morena/",
+        "_added_at": "2026-08-31T18:09:21.794198-07:00"
+      },
+      {
+        "title": "CCE critica iniciativa sobre espacios de propaganda electoral",
+        "summary": "Consejo Empresarial rechaza propuesta relacionada con espacios para campañas políticas.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181074_critica_el_cce_iniciativa_sobre_espacios_para_propaganda_electoral",
+        "_added_at": "2026-08-31T18:09:21.794198-07:00"
+      },
       {
         "title": "Morena designa coordinadores sin transparencia",
         "summary": "Partido anuncia nombramientos de coordinadores de forma opaca, sin procedimiento claro de selección.",
@@ -85,6 +134,20 @@
     ],
     "economia": [
       {
+        "title": "Inseguridad y costos cierran negocios en Tijuana",
+        "summary": "Emprendedores cierran operaciones por violencia e incremento de gastos operacionales.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/08/31/inseguridad-y-gastos-orillan-a-emprendedores-a-cerrar-negocios-en-tijuana/",
+        "_added_at": "2026-08-31T18:09:21.794198-07:00"
+      },
+      {
+        "title": "Aprueban iniciativa para formalizar emprendedores tijuanenses",
+        "summary": "Gobierno respalda programa para regularizar pequeños negocios en la capital bajacaliforniana.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98805/Aprueban-iniciativa-para-formalizar-emprendedores-en-Tijuana",
+        "_added_at": "2026-08-31T18:09:21.794198-07:00"
+      },
+      {
         "title": "Cae 35 por ciento demanda de tours en BC",
         "summary": "Industria turística de Baja California experimenta drástica disminución en la contratación de servicios.",
         "source": "El Mexicano",
@@ -128,6 +191,20 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Más de 729 mil estudiantes regresan a clases en BC",
+        "summary": "Inicio del ciclo escolar con medidas de seguridad en diversos planteles estatales.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/08/31/regresan-a-clases-729-mil-estudiantes-en-baja-california/",
+        "_added_at": "2026-08-31T18:09:21.794198-07:00"
+      },
+      {
+        "title": "Tormentas en Mexicali derriban postes de electricidad",
+        "summary": "Fenómeno meteorológico causa daños en infraestructura eléctrica mexicaliense.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/98806/Tormentas-en-Mexicali-provocan-ca%C3%ADda-de-postes-de-luz",
+        "_added_at": "2026-08-31T18:09:21.794198-07:00"
+      },
       {
         "title": "300 mil estudiantes regresan a clases en BC",
         "summary": "Inician ciclo escolar más de 300 mil alumnos en Baja California en distintos municipios.",
@@ -179,5 +256,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-31T14:23:52.611012-07:00"
+  "last_updated": "2026-08-31T18:09:21.794198-07:00"
 }
