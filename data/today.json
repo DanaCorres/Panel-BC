@@ -1,8 +1,36 @@
 {
   "date": "2026-09-01",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Ataque con narcomina mata militar en Baja California",
+        "summary": "Soldado muerto por explosivo tipo narcomina; reporta 18 detonaciones en dos años en la región.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/nuevo-ataque-con-narcomina-deja-un-militar-muerto-18-detonaciones-en-dos-anos/?utm_source=rss&utm_medium=rss&utm_campaign=nuevo-ataque-con-narcomina-deja-un-militar-muerto-18-detonaciones-en-dos-anos",
+        "_added_at": "2026-09-01T12:18:47.452485-07:00"
+      },
+      {
+        "title": "Homicidio en Tecate; interceptan y disparan a automovilista",
+        "summary": "Conductor asesinado tras ser interceptado en municipio de Tecate durante operativo criminal.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/181107_asesinan_a_un_automovilista_en_tecate_lo_interceptaron_para_dispararle",
+        "_added_at": "2026-09-01T12:18:47.452485-07:00"
+      },
+      {
+        "title": "Ataque armado en Tecate cobra una vida",
+        "summary": "Persona muere tras ataque armado en colonia Bondad del municipio de Tecate.",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/ataque-armado-en-colonia-bondad-del-municipio-de-tecate-deja-una-persona-sin-vida/",
+        "_added_at": "2026-09-01T12:18:47.452485-07:00"
+      },
+      {
+        "title": "Activistas cuestionan FGE por búsquedas de desaparecidos",
+        "summary": "Organizaciones critican actuación de Fiscalía General en investigaciones de personas desaparecidas.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181109_cuestionan_activistas_actuacion_de_la_fge_en_busquedas_de_personas_desaparecidas",
+        "_added_at": "2026-09-01T12:18:47.452485-07:00"
+      },
       {
         "title": "Reportan desaparición de Valdez Mainero en Tijuana",
         "summary": "Se reporta la desaparición de una persona identificada como Valdez Mainero, presuntamente levantada en Tijuana.",
@@ -20,6 +48,27 @@
     ],
     "politica": [
       {
+        "title": "Sheinbaum reafirma unidad en segundo informe de gobierno",
+        "summary": "Presidenta destaca estabilidad y niega fracturas internas en su administración.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/no-hay-rompimiento-sheinbaum-reafirma-unidad-y-estabilidad-en-su-segundo-informe/?utm_source=rss&utm_medium=rss&utm_campaign=no-hay-rompimiento-sheinbaum-reafirma-unidad-y-estabilidad-en-su-segundo-informe",
+        "_added_at": "2026-09-01T12:18:47.452485-07:00"
+      },
+      {
+        "title": "Sheinbaum defiende megaobras de AMLO ante críticas",
+        "summary": "Presidenta respalda proyectos heredados pese a cuestionamientos sobre costos y resultados.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/sheinbaum-defiende-las-megaobras-de-amlo-ante-criticas-por-costos-y-resultados/?utm_source=rss&utm_medium=rss&utm_campaign=sheinbaum-defiende-las-megaobras-de-amlo-ante-criticas-por-costos-y-resultados",
+        "_added_at": "2026-09-01T12:18:47.452485-07:00"
+      },
+      {
+        "title": "Balance CSP destaca soberanía energética y seguridad",
+        "summary": "Gobierno estatal enfatiza cohesión política en estrategia de seguridad y energía.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/soberania-energetica-seguridad-y-cohesion-las-claves-politicas-detras-del-balance-oficial-de-csp/?utm_source=rss&utm_medium=rss&utm_campaign=soberania-energetica-seguridad-y-cohesion-las-claves-politicas-detras-del-balance-oficial-de-csp",
+        "_added_at": "2026-09-01T12:18:47.452485-07:00"
+      },
+      {
         "title": "Senador Inzunza reaparece y rechaza acusaciones de EE.UU.",
         "summary": "Senador Inzunza resurge públicamente, niega acusaciones estadounidenses y defiende al gobernador Rocha.",
         "source": "AFN Tijuana",
@@ -28,6 +77,20 @@
       }
     ],
     "economia": [
+      {
+        "title": "Vivienda del Bienestar: costos frenan precios en Tijuana",
+        "summary": "Terrenos y urbanización elevan gastos; desarrolladores enfrentan dificultades para alcanzar costos establecidos.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/01/tierra-y-urbanizacion-elevan-el-costo-de-la-vivienda-del-bienestar-en-tijuana/",
+        "_added_at": "2026-09-01T12:18:47.452485-07:00"
+      },
+      {
+        "title": "Tomate y chile dominan siembras en Baja California",
+        "summary": "Productos agrícolas principales en zona costera de la entidad durante ciclo actual.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/ensenada/2026/09/01/tomate-y-chile-dominan-las-siembras-en-la-zona-costa-de-baja-california/",
+        "_added_at": "2026-09-01T12:18:47.452485-07:00"
+      },
       {
         "title": "Tormentas derriban más de 100 postes en Mexicali",
         "summary": "Tormentas del fin de semana causaron daños a infraestructura eléctrica con caída de más de 100 postes de CFE.",
@@ -44,6 +107,27 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Puente de Espinoza en Ensenada cierra por daños estructurales",
+        "summary": "Infraestructura dañada obliga cierre de paso en Ensenada; afecta tránsito local.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/cierran-puente-de-la-calle-espinoza-de-ensenada-por-danos-estructurales/?utm_source=rss&utm_medium=rss&utm_campaign=cierran-puente-de-la-calle-espinoza-de-ensenada-por-danos-estructurales",
+        "_added_at": "2026-09-01T12:18:47.452485-07:00"
+      },
+      {
+        "title": "Detectan garrapatas en escuela de Ensenada",
+        "summary": "Hallazgo de parásitos en institución educativa al inicio del ciclo escolar.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/01/detectan-garrapatas-en-escuela-de-ensenada-al-iniciar-clases/",
+        "_added_at": "2026-09-01T12:18:47.452485-07:00"
+      },
+      {
+        "title": "Vigilancia por tormenta tropical; calor extremo persiste",
+        "summary": "Autoridades monitorean desarrollo de sistema tropical; continúan temperaturas altas en región.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/vigilan-posible-desarrollo-de-tormenta-tropical-persistira-calor-extremo-en-baja-california/?utm_source=rss&utm_medium=rss&utm_campaign=vigilan-posible-desarrollo-de-tormenta-tropical-persistira-calor-extremo-en-baja-california",
+        "_added_at": "2026-09-01T12:18:47.452485-07:00"
+      },
       {
         "title": "Inicia ciclo escolar; 730 mil estudiantes regresan a clases",
         "summary": "Nuevo ciclo escolar comienza en Baja California con el regreso a actividades de más de 730 mil estudiantes.",
@@ -74,5 +158,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-01T00:53:51.972394-07:00"
+  "last_updated": "2026-09-01T12:18:47.452485-07:00"
 }
