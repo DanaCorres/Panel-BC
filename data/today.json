@@ -1,260 +1,78 @@
 {
-  "date": "2026-08-31",
-  "run_count": 3,
+  "date": "2026-09-01",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Localizan dos cadáveres en zona este de Tijuana",
-        "summary": "Hallazgo de dos hombres sin vida en un predio de la Zona Este tijuanense.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/localizan-a-dos-hombres-sin-vida-en-predio-de-la-zona-este/?utm_source=rss&utm_medium=rss&utm_campaign=localizan-a-dos-hombres-sin-vida-en-predio-de-la-zona-este",
-        "_added_at": "2026-08-31T18:09:21.794198-07:00"
-      },
-      {
-        "title": "Asesinan a comerciante de tacos en Miramar",
-        "summary": "Dueño de puesto de tacos de marisco muere baleado en colonia Miramar de Tijuana.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/asesinan-a-balazos-a-dueno-de-puesto-de-tacos-de-marisco-en-la-colonia-miramar/?utm_source=rss&utm_medium=rss&utm_campaign=asesinan-a-balazos-a-dueno-de-puesto-de-tacos-de-marisco-en-la-colonia-miramar",
-        "_added_at": "2026-08-31T18:09:21.794198-07:00"
-      },
-      {
-        "title": "Decomisan 554 mil cajetillas de cigarros ilegales",
-        "summary": "Autoridades confiscan gran cargamento de cigarros de contrabando en operativo.",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/transportaban-lamparas-que-resultaron-ser-cigarros-decomisan-mas-de-554-mil-cajetillas/",
-        "_added_at": "2026-08-31T18:09:21.794198-07:00"
-      },
-      {
-        "title": "Decomisan arsenal de alto poder en frontera",
-        "summary": "Autoridades mexicanas incautan armas de fuego provenientes de Texas en operativo de seguridad.",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/autoridades-mexicanas-decomisan-arsenal-de-alto-poder-proveniente-de-texas/",
-        "_added_at": "2026-08-31T14:23:52.611012-07:00"
-      },
-      {
-        "title": "Denuncian extorsión de agentes de FGE",
-        "summary": "Elementos de la Fiscalía General del Estado cobran dinero por muertes ocurridas en domicilios particulares.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/denuncian-extorsion-de-agentes-de-fge-cobran-5-mil-pesos-por-muertes-en-casa/",
-        "_added_at": "2026-08-31T14:23:52.611012-07:00"
-      },
-      {
-        "title": "Violencia diaria en Tecate se vuelve rutinaria",
-        "summary": "Autoridades locales reportan que muertes y desapariciones ocurren constantemente en el municipio.",
+        "title": "Reportan desaparición de Valdez Mainero en Tijuana",
+        "summary": "Se reporta la desaparición de una persona identificada como Valdez Mainero, presuntamente levantada en Tijuana.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181068_un_muerto_o_un_desaparecido_es_el_pan_de_cada_dia_en_tecate_aseguran",
-        "_added_at": "2026-08-31T14:23:52.611012-07:00"
+        "url": "https://www.afntijuana.info/seguridad/181090_desaparece_valdez_mainero_dicen_que_fue_levantado",
+        "_added_at": "2026-09-01T00:53:51.972394-07:00"
       },
       {
-        "title": "Ejecutan a hombre en domicilio de Tecate",
-        "summary": "Personas armadas ingresan a vivienda para asesinar a un residente del municipio.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/181060_ingresan_a_domicilio_para_ejecutar_a_un_hombre_en_tecate",
-        "_added_at": "2026-08-31T14:23:52.611012-07:00"
-      },
-      {
-        "title": "Familias conmemoran a desaparecidos en Tijuana",
-        "summary": "Reunión de familiares de personas desaparecidas en el Día Internacional de Víctimas de Desaparición en La Gallera.",
+        "title": "Suspenden policía en Mexicali por consumo de alcohol",
+        "summary": "Autoridades suspenden a elemento de la DSPM por ingerir alcohol mientras conducía un vehículo.",
         "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98757/Entre-dolor-y-memoria,-familias-de-desaparecidos-se-re%C3%BAnen-en-La-Gallera-en-conmemoraci%C3%B3n-de-sus-seres-queridos",
-        "_added_at": "2026-08-31T01:45:02.711055-07:00"
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/98809/Suspende-DSPM-a-polic%C3%ADa-por-ingerir-alcohol-en-un-autom%C3%B3vil",
+        "_added_at": "2026-09-01T00:53:51.972394-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Inzunza reaparece en Senado tras 124 días ausente",
-        "summary": "Senador regresa después de cuatro meses y afecta mayoría calificada de Morena.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/reaparece-enrique-inzunza-en-el-senado-tras-124-dias-y-sacude-la-mayoria-calificada-de-morena/?utm_source=rss&utm_medium=rss&utm_campaign=reaparece-enrique-inzunza-en-el-senado-tras-124-dias-y-sacude-la-mayoria-calificada-de-morena",
-        "_added_at": "2026-08-31T18:09:21.794198-07:00"
-      },
-      {
-        "title": "Morena aprueba convocatoria para coordinadores federales",
-        "summary": "Comisión del partido autoriza proceso para elegir nuevos coordinadores nacionales.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/comision-de-morena-aprueba-convocatoria-para-la-eleccion-de-coordinadores-federales/?utm_source=rss&utm_medium=rss&utm_campaign=comision-de-morena-aprueba-convocatoria-para-la-eleccion-de-coordinadores-federales",
-        "_added_at": "2026-08-31T18:09:21.794198-07:00"
-      },
-      {
-        "title": "Denuncian operador de campañas negras contra Morena",
-        "summary": "Fernando Beltrán señalado como responsable de ataques políticos contra la morenista.",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/senalan-a-fernando-beltran-como-supuesto-operador-de-campanas-negras-contra-morena/",
-        "_added_at": "2026-08-31T18:09:21.794198-07:00"
-      },
-      {
-        "title": "CCE critica iniciativa sobre espacios de propaganda electoral",
-        "summary": "Consejo Empresarial rechaza propuesta relacionada con espacios para campañas políticas.",
+        "title": "Senador Inzunza reaparece y rechaza acusaciones de EE.UU.",
+        "summary": "Senador Inzunza resurge públicamente, niega acusaciones estadounidenses y defiende al gobernador Rocha.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181074_critica_el_cce_iniciativa_sobre_espacios_para_propaganda_electoral",
-        "_added_at": "2026-08-31T18:09:21.794198-07:00"
-      },
-      {
-        "title": "Morena designa coordinadores sin transparencia",
-        "summary": "Partido anuncia nombramientos de coordinadores de forma opaca, sin procedimiento claro de selección.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/eleccion-de-coordinadores-en-la-opacidad-morena-da-a-conocer-primeros-nombramientos/",
-        "_added_at": "2026-08-31T14:23:52.611012-07:00"
-      },
-      {
-        "title": "Julio Anguiano aspira a alcaldía por el PAN",
-        "summary": "Precandidato del Partido Acción Nacional busca postularse para la presidencia municipal de Tijuana.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181063_aspira_julio_anguiano_a_la_alcaldia_de_tijuana_por_al_pan",
-        "_added_at": "2026-08-31T14:23:52.611012-07:00"
-      },
-      {
-        "title": "Servidores públicos acompañan a Burgueño pese a prohibición",
-        "summary": "Personal del gobierno asiste a funcionario en asamblea violando normas de conflicto de interés.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/pese-a-prohibicion-explicita-servidores-acompanan-a-burgueno-en-asamblea/",
-        "_added_at": "2026-08-31T14:23:52.611012-07:00"
-      },
-      {
-        "title": "Morena designa a Higinio Martínez para Senado",
-        "summary": "El partido Morena designa a Higinio Martínez como presidente del Senado de la República.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/nacionales/181040_designa_morena_a_higinio_martinez_para_presidir_el_senado",
-        "_added_at": "2026-08-31T01:45:02.711055-07:00"
-      },
-      {
-        "title": "Inicia campaña para trámite de doble nacionalidad",
-        "summary": "Arranca la campaña \"Soy México\" para facilitar gestión de doble nacionalidad en Baja California.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/municipios/181042_el_martes_inicia_la_campana_soy_mexico_para_tramite_de_doble_nacionalidad",
-        "_added_at": "2026-08-31T01:45:02.711055-07:00"
-      },
-      {
-        "title": "Encuesta favorece a Ismael Burgueño en Tijuana",
-        "summary": "Ismael Burgueño gana sondeo de preferencia, aunque se otorga más tiempo a otra candidata.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/afn_politico/181038_gano_la_encuesta_ismael_burgueno_pero_le_dan_mas_tiempo_a_julieta",
-        "_added_at": "2026-08-31T01:45:02.711055-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/181078_reaparece_el_senador_inzunza_rechaza_acusacion_de_eu_defiende_a_rocha_y_discute_con_periodista",
+        "_added_at": "2026-09-01T00:53:51.972394-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Inseguridad y costos cierran negocios en Tijuana",
-        "summary": "Emprendedores cierran operaciones por violencia e incremento de gastos operacionales.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/08/31/inseguridad-y-gastos-orillan-a-emprendedores-a-cerrar-negocios-en-tijuana/",
-        "_added_at": "2026-08-31T18:09:21.794198-07:00"
-      },
-      {
-        "title": "Aprueban iniciativa para formalizar emprendedores tijuanenses",
-        "summary": "Gobierno respalda programa para regularizar pequeños negocios en la capital bajacaliforniana.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98805/Aprueban-iniciativa-para-formalizar-emprendedores-en-Tijuana",
-        "_added_at": "2026-08-31T18:09:21.794198-07:00"
-      },
-      {
-        "title": "Cae 35 por ciento demanda de tours en BC",
-        "summary": "Industria turística de Baja California experimenta drástica disminución en la contratación de servicios.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98786/Cae-35%25-demanda-de-tours-en-BC",
-        "_added_at": "2026-08-31T14:23:52.611012-07:00"
-      },
-      {
-        "title": "Rosarito busca 700 millones para infraestructura",
-        "summary": "Municipio gestiona inversión para mejorar infraestructura turística y vial del puerto.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Rosarito/98785/Busca-Rosarito-700-millones-de-pesos-para-detonar-infraestructura-tur%C3%ADstica-y-vial",
-        "_added_at": "2026-08-31T14:23:52.611012-07:00"
-      },
-      {
-        "title": "Turismo de bodas cae en Valle de Guadalupe",
-        "summary": "Sector de bodas y eventos en la región vinícola experimenta reducción en reservaciones.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/08/cae-turismo-de-bodas-en-valle-de-guadalupe/",
-        "_added_at": "2026-08-31T14:23:52.611012-07:00"
-      },
-      {
-        "title": "Piden mayor inversión de CFE para apagones",
-        "summary": "Ciudadanos de Tijuana demandan que la Comisión Federal de Electricidad aumente presupuesto.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/08/31/piden-mayor-inversion-de-cfe-para-evitar-apagones-en-tijuana/",
-        "_added_at": "2026-08-31T14:23:52.611012-07:00"
-      },
-      {
-        "title": "Regreso a clases impulsa ventas de uniformes",
-        "summary": "Comerciantes en Tijuana reportan aumento en ventas de uniformes escolares por inicio de ciclo educativo.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98758/Regreso-a-clases-impulsa-ventas-de-uniformes-en-Tijuana",
-        "_added_at": "2026-08-31T01:45:02.711055-07:00"
-      },
-      {
-        "title": "Claudia Agatón recupera operación de Proturismo",
-        "summary": "Se retoma operación de Proturismo en Ensenada para atraer inversión turística a la región.",
+        "title": "Tormentas derriban más de 100 postes en Mexicali",
+        "summary": "Tormentas del fin de semana causaron daños a infraestructura eléctrica con caída de más de 100 postes de CFE.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181037_recupera_claudia_agaton_la_operacion_de_proturismo_podra_atraer_inversion_a_ensenada",
-        "_added_at": "2026-08-31T01:45:02.711055-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/181079_tormentas_de_fin_de_semana_en_mexicali_derribaron_mas_de_100_postes_de_la_cfe",
+        "_added_at": "2026-09-01T00:53:51.972394-07:00"
+      },
+      {
+        "title": "UABC inaugura nuevos espacios educativos",
+        "summary": "Universidad Autónoma de Baja California abre dos nuevos espacios como parte de mejora de infraestructura.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/98792/Avanza-UABC-en-mejora-educativa-e-infraestructura",
+        "_added_at": "2026-09-01T00:53:51.972394-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Más de 729 mil estudiantes regresan a clases en BC",
-        "summary": "Inicio del ciclo escolar con medidas de seguridad en diversos planteles estatales.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/08/31/regresan-a-clases-729-mil-estudiantes-en-baja-california/",
-        "_added_at": "2026-08-31T18:09:21.794198-07:00"
-      },
-      {
-        "title": "Tormentas en Mexicali derriban postes de electricidad",
-        "summary": "Fenómeno meteorológico causa daños en infraestructura eléctrica mexicaliense.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/98806/Tormentas-en-Mexicali-provocan-ca%C3%ADda-de-postes-de-luz",
-        "_added_at": "2026-08-31T18:09:21.794198-07:00"
-      },
-      {
-        "title": "300 mil estudiantes regresan a clases en BC",
-        "summary": "Inician ciclo escolar más de 300 mil alumnos en Baja California en distintos municipios.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Estatal/98778/M%C3%A1s-de-300-mil-estudiantes-regresan-a-las-aulas-en-Baja-California",
-        "_added_at": "2026-08-31T14:23:52.611012-07:00"
-      },
-      {
-        "title": "Ensenada: 77 mil estudiantes inician clases",
-        "summary": "Casi 78 mil alumnos de distintos niveles educativos regresan a las aulas en el puerto.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/ensenada/2026/08/31/regresan-a-clases-77-mil-793-estudiantes-en-ensenada/",
-        "_added_at": "2026-08-31T14:23:52.611012-07:00"
-      },
-      {
-        "title": "Familias de desaparecidos se reúnen en conmemoración",
-        "summary": "Padres y parientes de personas desaparecidas se congregan en La Gallera para recordar víctimas.",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/entre-dolor-y-memoria-familias-de-desaparecidos-se-reunen-en-la-gallera-en-conmemoracion-de-sus-seres-queridos/",
-        "_added_at": "2026-08-31T14:23:52.611012-07:00"
-      },
-      {
-        "title": "Proyecto Choque cumple seis años apoyando vulnerables",
-        "summary": "Iniciativa comunitaria continúa brindando asistencia integral a personas en situación precaria.",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/seis-anos-de-apoyo-a-personas-vulnerables-con-proyecto-choque/",
-        "_added_at": "2026-08-31T14:23:52.611012-07:00"
-      },
-      {
-        "title": "Más de 729 mil alumnos regresan a clases",
-        "summary": "Inicia nuevo ciclo escolar en Baja California con casi tres cuartos de millón de estudiantes.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Estatal/98759/Regresan-a-clases-m%C3%A1s-de-729-mil-alumnos-en-Baja-California",
-        "_added_at": "2026-08-31T01:45:02.711055-07:00"
-      },
-      {
-        "title": "Planteles municipales listos para ciclo escolar",
-        "summary": "Establecimientos educativos del municipio se preparan para apertura de clases en Tijuana.",
+        "title": "Inicia ciclo escolar; 730 mil estudiantes regresan a clases",
+        "summary": "Nuevo ciclo escolar comienza en Baja California con el regreso a actividades de más de 730 mil estudiantes.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/municipios/181041_planteles_educativos_municipales_estan_listos_para_el_regreso_a_clases_este_lunes",
-        "_added_at": "2026-08-31T01:45:02.711055-07:00"
+        "url": "https://www.afntijuana.info/municipios/181089_inicio_el_nuevo_ciclo_escolar_regresaron_a_clases_mas_de_730_mil_estudiantes_en_bc",
+        "_added_at": "2026-09-01T00:53:51.972394-07:00"
       },
       {
-        "title": "Fallece Genoveva Villalón, viuda de Blancornelas",
-        "summary": "Muere Genoveva Villalón, esposa del periodista asesinado Jesús Blancornelas.",
+        "title": "Alcalde recibe a 3 mil 800 estudiantes de escuelas municipales",
+        "summary": "Presidente municipal da bienvenida a estudiantes de instituciones educativas municipales en inicio de clases.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181043_muere_genoveva_villalon_viuda_de_jesus_blancornelas",
-        "_added_at": "2026-08-31T01:45:02.711055-07:00"
+        "url": "https://www.afntijuana.info/municipios/181088_alcalde_dio_la_bienvenida_a_mas_de_3_mil_800_estudiantes_de_escuelas_municipales",
+        "_added_at": "2026-09-01T00:53:51.972394-07:00"
+      },
+      {
+        "title": "Mil 500 motociclistas participan en evento TSR en Rosarito",
+        "summary": "Se reporta presencia de aproximadamente mil 500 motociclistas durante evento TSR celebrado en Rosarito.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181084_reportan_presencia_de_mil_500_motociclistas_durante_tsr_en_rosarito",
+        "_added_at": "2026-09-01T00:53:51.972394-07:00"
+      },
+      {
+        "title": "Proponen reforma para resolver conflictos de custodia infantil",
+        "summary": "Plantean cambios legales para evitar disputas sobre custodia de menores en Baja California.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181083_plantean_reforma_legal_para_evitar_conflictos_por_custodia_de_menores",
+        "_added_at": "2026-09-01T00:53:51.972394-07:00"
       }
     ]
   },
-  "last_updated": "2026-08-31T18:09:21.794198-07:00"
+  "last_updated": "2026-09-01T00:53:51.972394-07:00"
 }
