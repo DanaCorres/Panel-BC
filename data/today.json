@@ -1,8 +1,29 @@
 {
   "date": "2026-09-01",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Ejecutado presunto criminal Carlos Beltrán en región",
+        "summary": "Confirman muerte de Carlos Beltrán por ejecución en Baja California.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/se-confirma-carlos-beltran-fue-ejecutado/?utm_source=rss&utm_medium=rss&utm_campaign=se-confirma-carlos-beltran-fue-ejecutado",
+        "_added_at": "2026-09-01T16:54:47.843834-07:00"
+      },
+      {
+        "title": "Hallan cadáver calcinado al rescatar desaparecido",
+        "summary": "Descubrimiento de cuerpo quemado durante búsqueda de persona extraviada en canalización.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181121_hallan_cadaver_calcinado_al_buscar_un_desaparecido_en_canalizacion",
+        "_added_at": "2026-09-01T16:54:47.843834-07:00"
+      },
+      {
+        "title": "Muere motociclista en choque frontal con tractocamión",
+        "summary": "Accidente fatal entre motocicleta y vehículo de carga en carretera Mexicali-Tijuana.",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/muere-motociclista-tras-impactarse-de-frente-contra-tractocamion-en-carretera-mexicali-tijuana/",
+        "_added_at": "2026-09-01T16:54:47.843834-07:00"
+      },
       {
         "title": "Ataque con narcomina mata militar en Baja California",
         "summary": "Soldado muerto por explosivo tipo narcomina; reporta 18 detonaciones en dos años en la región.",
@@ -48,6 +69,34 @@
     ],
     "politica": [
       {
+        "title": "Organizaciones reclaman avances en casos desaparecidos",
+        "summary": "Madres Unidas y Fuertes demanda a Fiscalía por falta de progreso investigativo.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/madres-unidas-y-fuertes-reclama-a-fiscalia-por-falta-de-avances-en-casos-de-desaparecidos/?utm_source=rss&utm_medium=rss&utm_campaign=madres-unidas-y-fuertes-reclama-a-fiscalia-por-falta-de-avances-en-casos-de-desaparecidos",
+        "_added_at": "2026-09-01T16:54:47.843834-07:00"
+      },
+      {
+        "title": "Ordenan retirar propaganda de candidata Julieta",
+        "summary": "IEEBC instruye eliminación de materiales de campaña adelantada en Baja California.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181118_ordenan_retirar_propaganda_fisica_de_julieta_en_bc",
+        "_added_at": "2026-09-01T16:54:47.843834-07:00"
+      },
+      {
+        "title": "Ruiz Uribe denuncia irregularidades en proceso Morena",
+        "summary": "Aspirante reporta inconsistencias en selección interna del partido.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/98852/Ruiz-Uribe-denuncia-irregularidades-en-interna-de-Morena",
+        "_added_at": "2026-09-01T16:54:47.843834-07:00"
+      },
+      {
+        "title": "Acusan a Castro de nepotismo en funcionario",
+        "summary": "Señalamientos sobre favoritismo familiar en designaciones administrativas.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/acusan-a-castro-de-nepotismo/?utm_source=rss&utm_medium=rss&utm_campaign=acusan-a-castro-de-nepotismo",
+        "_added_at": "2026-09-01T16:54:47.843834-07:00"
+      },
+      {
         "title": "Sheinbaum reafirma unidad en segundo informe de gobierno",
         "summary": "Presidenta destaca estabilidad y niega fracturas internas en su administración.",
         "source": "ZETA Tijuana",
@@ -78,6 +127,27 @@
     ],
     "economia": [
       {
+        "title": "Demanda habitacional suma 533 mil trabajadores",
+        "summary": "Potencial inmobiliario en Baja California refleja necesidad de vivienda laboral.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/demanda-potencial-de-vivienda-en-baja-california-suma-533-mil-trabajadores/?utm_source=rss&utm_medium=rss&utm_campaign=demanda-potencial-de-vivienda-en-baja-california-suma-533-mil-trabajadores",
+        "_added_at": "2026-09-01T16:54:47.843834-07:00"
+      },
+      {
+        "title": "Infonavit deposita hasta 71 mil pesos en septiembre",
+        "summary": "Transferencias a derechohabientes que cumplan requisitos de crédito.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/dinero/2026/09/01/infonavit-depositara-hasta-71-mil-pesos-en-septiembre-a-derechohabientes-que-cumplan-este-requisito-al-tramitar-su-credito-de-compra/",
+        "_added_at": "2026-09-01T16:54:47.843834-07:00"
+      },
+      {
+        "title": "Renovación del Bulevar Maneadero inicia en septiembre",
+        "summary": "Proyecto de infraestructura en Ensenada con duración de diez meses comienza.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/ensenada/2026/09/01/renovacion-del-bulevar-maneadero-arrancara-el-14-de-septiembre/",
+        "_added_at": "2026-09-01T16:54:47.843834-07:00"
+      },
+      {
         "title": "Vivienda del Bienestar: costos frenan precios en Tijuana",
         "summary": "Terrenos y urbanización elevan gastos; desarrolladores enfrentan dificultades para alcanzar costos establecidos.",
         "source": "El Imparcial (Tijuana)",
@@ -107,6 +177,34 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Baja California se posiciona en turismo sustentable",
+        "summary": "Elvia Martínez impulsa estrategia de turismo responsable en la región.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Nacional/98855/Elvia-Mart%C3%ADnez-pone-a-Baja-California-en-la-ruta-del-turismo-sustentable",
+        "_added_at": "2026-09-01T16:54:47.843834-07:00"
+      },
+      {
+        "title": "Se confirma justicia pendiente en caso Paulina Ivón",
+        "summary": "Familia continúa exigiendo resolución a casi dos años del asesinato.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/a-casi-dos-anos-del-asesinato-de-paulina-ivon-su-familia-sigue-exigiendo-justicia/?utm_source=rss&utm_medium=rss&utm_campaign=a-casi-dos-anos-del-asesinato-de-paulina-ivon-su-familia-sigue-exigiendo-justicia",
+        "_added_at": "2026-09-01T16:54:47.843834-07:00"
+      },
+      {
+        "title": "Hijas encuentran padre tras 25 años en Tijuana",
+        "summary": "Reencuentro familiar localiza a hombre en situación de calle.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/01/hijas-buscaron-a-su-papa-25-anos-y-lo-encontraron-en-situacion-de-calle-en-tijuana/",
+        "_added_at": "2026-09-01T16:54:47.843834-07:00"
+      },
+      {
+        "title": "Realizan primer Congreso Guadalupano en Mexicali",
+        "summary": "Evento inaugural sobre celebración de la Virgen de Guadalupe convoca participación.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/98853/Realizar%C3%A1n-por-primera-ocasi%C3%B3n-Congreso-Guadalupano",
+        "_added_at": "2026-09-01T16:54:47.843834-07:00"
+      },
       {
         "title": "Puente de Espinoza en Ensenada cierra por daños estructurales",
         "summary": "Infraestructura dañada obliga cierre de paso en Ensenada; afecta tránsito local.",
@@ -148,15 +246,8 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/181084_reportan_presencia_de_mil_500_motociclistas_durante_tsr_en_rosarito",
         "_added_at": "2026-09-01T00:53:51.972394-07:00"
-      },
-      {
-        "title": "Proponen reforma para resolver conflictos de custodia infantil",
-        "summary": "Plantean cambios legales para evitar disputas sobre custodia de menores en Baja California.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181083_plantean_reforma_legal_para_evitar_conflictos_por_custodia_de_menores",
-        "_added_at": "2026-09-01T00:53:51.972394-07:00"
       }
     ]
   },
-  "last_updated": "2026-09-01T12:18:47.452485-07:00"
+  "last_updated": "2026-09-01T16:54:47.843834-07:00"
 }
