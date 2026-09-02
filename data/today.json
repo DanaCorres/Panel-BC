@@ -1,8 +1,36 @@
 {
   "date": "2026-09-02",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Motociclista muere arrollado por tráiler en Mexicali",
+        "summary": "Motorista cae de su vehículo y es atropellado fatalmente por un tráiler en la zona.",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/muere-motociclista-tras-caer-y-ser-arrollado-por-un-trailer-en-mexicali/",
+        "_added_at": "2026-09-02T12:18:51.684975-07:00"
+      },
+      {
+        "title": "Hallan cuerpo calcinado durante búsqueda en canalización",
+        "summary": "Localizan restos humanos quemados mientras buscaban a persona desaparecida.",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/localizan-cuerpo-calcinado-durante-busqueda-de-desaparecido-en-la-canalizacion/",
+        "_added_at": "2026-09-02T12:18:51.684975-07:00"
+      },
+      {
+        "title": "Descubren segundo punto con restos óseos en Alamar",
+        "summary": "Hallan más restos humanos en canalización de la Vía Rápida Alamar.",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/localizan-segundo-punto-con-restos-oseos-ahora-en-la-canalizacion-de-la-via-rapida-alamar/",
+        "_added_at": "2026-09-02T12:18:51.684975-07:00"
+      },
+      {
+        "title": "Menor de 14 años muere por autolesión con arma",
+        "summary": "Adolescente fallece tras dispararse; autoridades detienen a otro joven armado.",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/menor-de-14-anos-muere-tras-autolesionarse-con-arma-de-fuego-municipales-detienen-a-otro-adolescente-armado/",
+        "_added_at": "2026-09-02T12:18:51.684975-07:00"
+      },
       {
         "title": "Narcomantas amenazan a policías en Tecate",
         "summary": "Tres pancartas con amenazas dirigidas a elementos de seguridad municipal fueron encontradas en Tecate.",
@@ -33,6 +61,27 @@
       }
     ],
     "politica": [
+      {
+        "title": "Cinco aspirantes buscan gubernatura por el PAN",
+        "summary": "Candidatos panistas inician proceso para contender por la gobernación de Baja California.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181151_cinco_buscan_la_gubernatura_por_el_pan_en_baja_california",
+        "_added_at": "2026-09-02T12:18:51.684975-07:00"
+      },
+      {
+        "title": "Mario García Franco se registra como aspirante panista",
+        "summary": "Candidato del PAN inicia trámites para competir por gubernatura estatal.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/mario-garcia-franco-se-registra-como-aspirante-del-pan-a-la-gubernatura-de-bc/?utm_source=rss&utm_medium=rss&utm_campaign=mario-garcia-franco-se-registra-como-aspirante-del-pan-a-la-gubernatura-de-bc",
+        "_added_at": "2026-09-02T12:18:51.684975-07:00"
+      },
+      {
+        "title": "Gobernadora ordena medidas preventivas por fenómeno Niño",
+        "summary": "Marina del Pilar instruye acciones preventivas ante llegada del evento climático.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98895/Instruye-Gobernadora-Marina-del-Pilar-acciones-preventivas-ante-la-llegada-del-fen%C3%B3meno-del-Ni%C3%B1o",
+        "_added_at": "2026-09-02T12:18:51.684975-07:00"
+      },
       {
         "title": "Gobierno federal destaca proyectos estratégicos en BC",
         "summary": "Funcionario presentó iniciativas del gobierno de Sheinbaum enfocadas en desarrollo regional.",
@@ -73,6 +122,34 @@
     ],
     "sociedad": [
       {
+        "title": "Falla en sistema de bombeo afecta agua en Tijuana",
+        "summary": "Problema en estación Valparaíso provoca intermitencias de agua en colonias de Santa Fe.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/02/falla-en-bombeo-valparaiso-provoca-intermitencias-de-agua-en-tijuana/",
+        "_added_at": "2026-09-02T12:18:51.684975-07:00"
+      },
+      {
+        "title": "Maestros protestan y liberan caseta Tijuana-Tecate",
+        "summary": "Docentes de la CNTE cierran momentáneamente paso vehicular en caseta fronteriza.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181149_protestan_maestros_de_la_cnte_y_liberan_caseta_de_peaje_tijuana_tecate",
+        "_added_at": "2026-09-02T12:18:51.684975-07:00"
+      },
+      {
+        "title": "Intoxicadas dos mujeres por gas en hotel Marriott",
+        "summary": "Huéspedes halladas inconscientes tras inhalación de gas en hospedaje de Tijuana.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/hallan-dos-mujeres-inconscientes-en-hotel-marriott-por-inhalacion-de-gas/?utm_source=rss&utm_medium=rss&utm_campaign=hallan-dos-mujeres-inconscientes-en-hotel-marriott-por-inhalacion-de-gas",
+        "_added_at": "2026-09-02T12:18:51.684975-07:00"
+      },
+      {
+        "title": "Gobierno de Tijuana organiza concierto por Independencia",
+        "summary": "Autoridades municipales invitan a celebración del Grito con evento musical gratuito.",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/invita-gobierno-de-tijuana-a-celebrar-el-grito-de-independencia-con-concierto-gratuito/",
+        "_added_at": "2026-09-02T12:18:51.684975-07:00"
+      },
+      {
         "title": "Alcalde envía deportistas a Juegos Nacionales Populares",
         "summary": "Funcionario municipal apoyó a jóvenes atletas que representarán al estado en competencia nacional.",
         "source": "AFN Tijuana",
@@ -88,5 +165,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-02T00:10:56.912847-07:00"
+  "last_updated": "2026-09-02T12:18:51.684975-07:00"
 }
