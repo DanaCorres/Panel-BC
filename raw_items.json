@@ -1,370 +1,148 @@
 {
-  "generated_at": "2026-09-01T23:54:47.074091+00:00",
+  "generated_at": "2026-09-02T07:10:56.189392+00:00",
   "items": [
     {
-      "source": "ZETA Tijuana",
-      "title": "Madres Unidas y Fuertes reclama a Fiscalía por falta de avances en casos de desaparecidos",
-      "url": "https://zetatijuana.com/2026/09/madres-unidas-y-fuertes-reclama-a-fiscalia-por-falta-de-avances-en-casos-de-desaparecidos/?utm_source=rss&utm_medium=rss&utm_campaign=madres-unidas-y-fuertes-reclama-a-fiscalia-por-falta-de-avances-en-casos-de-desaparecidos",
-      "published": "Tue, 01 Sep 2026 23:07:09 +0000"
-    },
-    {
       "source": "AFN Tijuana",
-      "title": "Se activa el Estado ante la proximidad del \"Súper Niño\"",
-      "url": "https://www.afntijuana.info/informacion_general/181122_se_activa_el_estado_ante_la_proximidad_del_super_nino",
+      "title": "Dejan tres narcomantas con amenazas a policías municipales de Tecate",
+      "url": "https://www.afntijuana.info/seguridad/181132_dejan_tres_narcomantas_con_amenazas_a_policias_municipales_de_tecate",
       "published": ""
     },
     {
       "source": "El Mexicano",
-      "title": "Elvia Martínez pone a Baja California en la ruta del turismo sustentableNacional |1 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Nacional/98855/Elvia-Mart%C3%ADnez-pone-a-Baja-California-en-la-ruta-del-turismo-sustentable",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Renovación del Blvr Maneadero arrancará el 14 de septiembre",
-      "url": "https://www.elimparcial.com/tij/ensenada/2026/09/01/renovacion-del-bulevar-maneadero-arrancara-el-14-de-septiembre/",
-      "published": ""
-    },
-    {
-      "source": "TJ Comunica",
-      "title": "IEEBC señala a Julieta Ramírez por campaña adelantada",
-      "url": "https://tjcomunica.com/ieebc-senala-a-julieta-ramirez-por-campana-adelantada/",
-      "published": ""
-    },
-    {
-      "source": "ZETA Tijuana",
-      "title": "Demanda potencial de vivienda en Baja California suma 533 mil trabajadores",
-      "url": "https://zetatijuana.com/2026/09/demanda-potencial-de-vivienda-en-baja-california-suma-533-mil-trabajadores/?utm_source=rss&utm_medium=rss&utm_campaign=demanda-potencial-de-vivienda-en-baja-california-suma-533-mil-trabajadores",
-      "published": "Tue, 01 Sep 2026 22:29:39 +0000"
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Hallan cadáver calcinado al buscar un desaparecido en canalización",
-      "url": "https://www.afntijuana.info/informacion_general/181121_hallan_cadaver_calcinado_al_buscar_un_desaparecido_en_canalizacion",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Elvia Martínez pone a Baja California en la ruta del turismo sustentableNacional| martes 01 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Nacional/98855/Elvia-Mart%C3%ADnez-pone-a-Baja-California-en-la-ruta-del-turismo-sustentable",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "La obra tendrá una duración de 10 meses y contempla rutas alternas y trabajos por etapas para mantener la movilidad en la zona.",
-      "url": "https://www.elimparcial.com/tij/ensenada/2026/09/01/renovacion-del-bulevar-maneadero-arrancara-el-14-de-septiembre/",
-      "published": ""
-    },
-    {
-      "source": "TJ Comunica",
-      "title": "Muere motociclista tras impactarse de frente contra tractocamión en carretera Mexicali-Tijuana",
-      "url": "https://tjcomunica.com/muere-motociclista-tras-impactarse-de-frente-contra-tractocamion-en-carretera-mexicali-tijuana/",
-      "published": ""
-    },
-    {
-      "source": "ZETA Tijuana",
-      "title": "Ruiz Uribe informa de aspirante con procedimiento por inconsistencias en proceso interno",
-      "url": "https://zetatijuana.com/2026/09/ruiz-uribe-informa-de-aspirante-con-procedimiento-por-inconsistencias-en-proceso-interno/?utm_source=rss&utm_medium=rss&utm_campaign=ruiz-uribe-informa-de-aspirante-con-procedimiento-por-inconsistencias-en-proceso-interno",
-      "published": "Tue, 01 Sep 2026 22:14:34 +0000"
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Cumplió las reglas del proceso interno, afirma Ruiz Uribe",
-      "url": "https://www.afntijuana.info/informacion_general/181120_cumplio_las_reglas_del_proceso_interno_afirma_ruiz_uribe",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Realizarán por primera ocasión Congreso GuadalupanoMexicali |1 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Mexicali/98853/Realizar%C3%A1n-por-primera-ocasi%C3%B3n-Congreso-Guadalupano",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Hijas encuentran en Tijuana a su papá tras 25 años",
-      "url": "https://www.elimparcial.com/tij/tijuana/2026/09/01/hijas-buscaron-a-su-papa-25-anos-y-lo-encontraron-en-situacion-de-calle-en-tijuana/",
-      "published": ""
-    },
-    {
-      "source": "TJ Comunica",
-      "title": "El Palenque de Tijuana recibirá a Brincos Dieras este 3 de septiembre",
-      "url": "https://tjcomunica.com/el-palenque-de-tijuana-recibira-a-brincos-dieras-este-3-de-septiembre/",
-      "published": ""
-    },
-    {
-      "source": "ZETA Tijuana",
-      "title": "“Coyote vs. Acme”: resiliencia frente a las grandes corporaciones",
-      "url": "https://zetatijuana.com/2026/09/coyote-vs-acme-resiliencia-frente-a-las-grandes-corporaciones/?utm_source=rss&utm_medium=rss&utm_campaign=coyote-vs-acme-resiliencia-frente-a-las-grandes-corporaciones",
-      "published": "Tue, 01 Sep 2026 20:32:57 +0000"
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "\"Cachan\" a estudiantes bebiendo alcohol en la UABC de Ensenada",
-      "url": "https://www.afntijuana.info/informacion_general/181119_cachan_a_estudiantes_bebiendo_alcohol_en_la_uabc_de_ensenada",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Realizarán por primera ocasión Congreso GuadalupanoMexicali| martes 01 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Mexicali/98853/Realizar%C3%A1n-por-primera-ocasi%C3%B3n-Congreso-Guadalupano",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Prevén que nuevo Reglamento de Zonificación de Tijuana quede listo a mediados de septiembre",
-      "url": "https://www.elimparcial.com/tij/tijuana/2026/09/01/preven-que-nuevo-reglamento-de-zonificacion-de-tijuana-quede-listo-a-mediados-de-septiembre/",
-      "published": ""
-    },
-    {
-      "source": "TJ Comunica",
-      "title": "Vicepresidenta de Bank of America muere tras ataque en Times Square",
-      "url": "https://tjcomunica.com/vicepresidenta-de-bank-of-america-muere-tras-ataque-en-times-square/",
-      "published": ""
-    },
-    {
-      "source": "ZETA Tijuana",
-      "title": "A casi dos años del asesinato de Paulina Ivón, su familia sigue exigiendo justicia",
-      "url": "https://zetatijuana.com/2026/09/a-casi-dos-anos-del-asesinato-de-paulina-ivon-su-familia-sigue-exigiendo-justicia/?utm_source=rss&utm_medium=rss&utm_campaign=a-casi-dos-anos-del-asesinato-de-paulina-ivon-su-familia-sigue-exigiendo-justicia",
-      "published": "Tue, 01 Sep 2026 20:21:37 +0000"
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Ordenan retirar propaganda física de Julieta en BC",
-      "url": "https://www.afntijuana.info/informacion_general/181118_ordenan_retirar_propaganda_fisica_de_julieta_en_bc",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Ruiz Uribe denuncia irregularidades en interna de MorenaEstatal |1 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Estatal/98852/Ruiz-Uribe-denuncia-irregularidades-en-interna-de-Morena",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Infonavit deposita hasta 71 mil pesos en septiembre",
-      "url": "https://www.elimparcial.com/dinero/2026/09/01/infonavit-depositara-hasta-71-mil-pesos-en-septiembre-a-derechohabientes-que-cumplan-este-requisito-al-tramitar-su-credito-de-compra/",
-      "published": ""
-    },
-    {
-      "source": "TJ Comunica",
-      "title": "Ataque armado en colonia Bondad del municipio de Tecate deja una persona sin vida",
-      "url": "https://tjcomunica.com/ataque-armado-en-colonia-bondad-del-municipio-de-tecate-deja-una-persona-sin-vida/",
-      "published": ""
-    },
-    {
-      "source": "ZETA Tijuana",
-      "title": "Se confirma: Carlos Beltrán fue ejecutado",
-      "url": "https://zetatijuana.com/2026/09/se-confirma-carlos-beltran-fue-ejecutado/?utm_source=rss&utm_medium=rss&utm_campaign=se-confirma-carlos-beltran-fue-ejecutado",
-      "published": "Tue, 01 Sep 2026 20:00:58 +0000"
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Anuncian congreso sobre los 500 años de la aparición de la Virgen de Guadalupe",
-      "url": "https://www.afntijuana.info/informacion_general/181117_anuncian_congreso_sobre_los_500_anos_de_la_aparicion_de_la_virgen_de_guadalupe",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Ruiz Uribe denuncia irregularidades en interna de MorenaEstatal| martes 01 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Estatal/98852/Ruiz-Uribe-denuncia-irregularidades-en-interna-de-Morena",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Tijuana vigila 14 deslizamientos ante posibles lluvias",
-      "url": "https://www.elimparcial.com/tij/tijuana/2026/09/01/proteccion-civil-vigila-14-deslizamientos-ante-posible-lluvia-en-tijuana/",
-      "published": ""
-    },
-    {
-      "source": "TJ Comunica",
-      "title": "Hallan a dos hombres sin vida tras ataque armado en La Presa Rural",
-      "url": "https://tjcomunica.com/hallan-a-dos-hombres-sin-vida-tras-ataque-armado-en-la-presa-rural/",
-      "published": ""
-    },
-    {
-      "source": "ZETA Tijuana",
-      "title": "Acusan a Castro de nepotismo",
-      "url": "https://zetatijuana.com/2026/09/acusan-a-castro-de-nepotismo/?utm_source=rss&utm_medium=rss&utm_campaign=acusan-a-castro-de-nepotismo",
-      "published": "Tue, 01 Sep 2026 20:00:41 +0000"
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Divide opiniones, balance del segundo informe de Claudia Sheinbaum",
-      "url": "https://www.afntijuana.info/nacionales/181116_divide_opiniones_balance_del_segundo_informe_de_claudia_sheinbaum",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Arrestan a malandro en Tijuana, con 3 armas de fuegoPoliciaca |1 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Policiaca/98851/Arrestan-a-malandro-en-Tijuana,-con-3-armas-de-fuego",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Las 11 carreras mejor pagadas sin título universitario",
-      "url": "https://www.elimparcial.com/dinero/2026/09/01/las-11-carreras-tecnicas-y-laborales-mejor-pagadas-para-jovenes-sin-titulo-universitario-que-exigen-habilidades-digitales-para-acceder-a-mejores-empleos/",
-      "published": ""
-    },
-    {
-      "source": "ZETA Tijuana",
-      "title": "“El mejor legado que podemos dejar es un mejor estado”: Milena Quiroga",
-      "url": "https://zetatijuana.com/2026/09/el-mejor-legado-que-podemos-dejar-es-un-mejor-estado-milena-quiroga/?utm_source=rss&utm_medium=rss&utm_campaign=el-mejor-legado-que-podemos-dejar-es-un-mejor-estado-milena-quiroga",
-      "published": "Tue, 01 Sep 2026 20:00:28 +0000"
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Emiten recomendaciones para prevenir riesgos en celebración de fiestas patrias",
-      "url": "https://www.afntijuana.info/informacion_general/181115_emiten_recomendaciones_para_prevenir_riesgos_en_celebracion_de_fiestas_patrias",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Arrestan a malandro en Tijuana, con 3 armas de fuegoPoliciaca| martes 01 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Policiaca/98851/Arrestan-a-malandro-en-Tijuana,-con-3-armas-de-fuego",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "IMSS dará consultas por internet para pacientes",
-      "url": "https://www.elimparcial.com/tij/tijuana/2026/09/01/imss-ofrecera-consultas-por-internet-para-reducir-rezago-en-traumatologia/",
-      "published": ""
-    },
-    {
-      "source": "ZETA Tijuana",
-      "title": "Somos, el nuevo partido político de BCS que buscará la gubernatura en 2027",
-      "url": "https://zetatijuana.com/2026/09/somos-el-nuevo-partido-politico-de-bcs-que-buscara-la-gubernatura-en-2027/?utm_source=rss&utm_medium=rss&utm_campaign=somos-el-nuevo-partido-politico-de-bcs-que-buscara-la-gubernatura-en-2027",
-      "published": "Tue, 01 Sep 2026 20:00:23 +0000"
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Matan a un menor a balazos y detienen a un adolescente con tres pistolas",
-      "url": "https://www.afntijuana.info/seguridad/181114_matan_a_un_menor_a_balazos_y_detienen_a_un_adolescente_con_tres_pistolas",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Destaca Sheinbaum acciones de agua y energía para Baja California; Segundo Informe de GobiernoNacional |1 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Nacional/98850/Destaca-Sheinbaum-acciones-de-agua-y-energ%C3%ADa-para-Baja-California;-Segundo-Informe-de-Gobierno",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Proponen permisos en la LFT para el cuidado de familiares",
-      "url": "https://www.elimparcial.com/mexico/2026/09/01/senado-analiza-presenta-iniciativa-para-dar-permisos-laborales-a-empleados-a-cargo-de-familiares-con-discapacidad-o-enfermedades-cronicas-y-evitar-la-perdida-de-empleo/",
-      "published": ""
-    },
-    {
-      "source": "ZETA Tijuana",
-      "title": "BCS en alerta ante amenaza del gusano barrenador",
-      "url": "https://zetatijuana.com/2026/09/bcs-en-alerta-ante-amenaza-del-gusano-barrenador/?utm_source=rss&utm_medium=rss&utm_campaign=bcs-en-alerta-ante-amenaza-del-gusano-barrenador",
-      "published": "Tue, 01 Sep 2026 20:00:22 +0000"
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Denuncian abusos y malos tratos en el IMMUJER y el IMJUVET de Tecate",
-      "url": "https://www.afntijuana.info/informacion_general/181113_denuncian_abusos_y_malos_tratos_en_el_immujer_y_el_imjuvet_de_tecate",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Destaca Sheinbaum acciones de agua y energía para Baja California; Segundo Informe de GobiernoNacional| martes 01 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Nacional/98850/Destaca-Sheinbaum-acciones-de-agua-y-energ%C3%ADa-para-Baja-California;-Segundo-Informe-de-Gobierno",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Grito de Independencia en Tijuana: horario y detalles",
-      "url": "https://www.elimparcial.com/tij/tijuana/2026/09/01/grito-de-independencia-en-tijuana-esperan-hasta-12-mil-personas-y-anuncian-horario-del-festejo/",
+      "title": "Disputarán semifinales en Leagues Cup 2026Deportes |1 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Deportes/98872/Disputar%C3%A1n-semifinales-en-Leagues-Cup-2026",
       "published": ""
     },
     {
       "source": "AFN Tijuana",
-      "title": "Abasto de medicamentos es del 96% en IMSS BC, asegura delegada",
-      "url": "https://www.afntijuana.info/informacion_general/181112_abasto_de_medicamentos_es_del_96_en_imss_bc_asegura_delegada",
+      "title": "Destaca Ávila Olmeda proyectos estratégicos del gobierno de Claudia Sheinbaum en BC",
+      "url": "https://www.afntijuana.info/informacion_general/181131_destaca_avila_olmeda_proyectos_estrategicos_del_gobierno_de_claudia_sheinbaum_en_bc",
       "published": ""
     },
     {
       "source": "El Mexicano",
-      "title": "Sujeto acusado de violación equiparada en Tijuana; cayó finalmentePoliciaca |1 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Policiaca/98849/Sujeto-acusado-de-violaci%C3%B3n-equiparada-en-Tijuana;-cay%C3%B3-finalmente",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Gobernadores de la 4T respaldan a Sheinbaum",
-      "url": "https://www.elimparcial.com/tij/tijuana/2026/09/01/reconocen-gobernadora-y-gobernadores-de-la-4t-resultados-del-segundo-informe-de-la-presidenta-sheinbaum/",
+      "title": "Disputarán semifinales en Leagues Cup 2026Deportes| martes 01 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Deportes/98872/Disputar%C3%A1n-semifinales-en-Leagues-Cup-2026",
       "published": ""
     },
     {
       "source": "AFN Tijuana",
-      "title": "Destaca la Canaco beneficios del IVA al 8% en la frontera Norte",
-      "url": "https://www.afntijuana.info/informacion_general/181111_destaca_la_canaco_beneficios_del_iva_al_8_en_la_frontera_norte",
+      "title": "Abanderó alcalde a jóvenes deportistas rumbo a los Juegos Nacionales Populares 2026",
+      "url": "https://www.afntijuana.info/municipios/181130_abandero_alcalde_a_jovenes_deportistas_rumbo_a_los_juegos_nacionales_populares_2026",
       "published": ""
     },
     {
       "source": "El Mexicano",
-      "title": "Sujeto acusado de violación equiparada en Tijuana; cayó finalmentePoliciaca| martes 01 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Policiaca/98849/Sujeto-acusado-de-violaci%C3%B3n-equiparada-en-Tijuana;-cay%C3%B3-finalmente",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "“Tijuana, todavía” llegará al Festival de Venecia",
-      "url": "https://www.elimparcial.com/tij/tijuana/2026/09/01/tijuana-todavia-llevara-la-diversidad-y-el-exilio-fronterizo-al-festival-de-cine-de-venecia/",
+      "title": "Sostendrá México Femenil dos amistosos con JamaicaDeportes |1 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Deportes/98871/Sostendr%C3%A1-M%C3%A9xico-Femenil-dos-amistosos-con-Jamaica",
       "published": ""
     },
     {
       "source": "AFN Tijuana",
-      "title": "Presenta Sheinbaum su segundo informe; recorrerá Estados desde el 3 de septiembre",
-      "url": "https://www.afntijuana.info/nacionales/181110_presenta_sheinbaum_su_segundo_informe_recorrera_estados_desde_el_3_de_septiembre",
+      "title": "Pide diputada a la CFE atender afectaciones por tormenta en Mexicali",
+      "url": "https://www.afntijuana.info/nacionales/181129_pide_diputada_a_la_cfe_atender_afectaciones_por_tormenta_en_mexicali",
       "published": ""
     },
     {
       "source": "El Mexicano",
-      "title": "Aumenta IMSS BC cantidad de cirugías al año a casi 60 milEl Instituto también disminuyó su déficit de especialistas a un 5%.Tijuana| martes 01 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98836/Aumenta-IMSS-BC-cantidad-de-cirug%C3%ADas-al-a%C3%B1o-a-casi-60-mil",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "De qué se trató el segundo informe de gobierno de CSP",
-      "url": "https://www.elimparcial.com/mexico/2026/09/01/de-que-se-trato-el-segundo-informe-de-gobierno-de-claudia-sheinbaum/",
+      "title": "Sostendrá México Femenil dos amistosos con JamaicaDeportes| martes 01 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Deportes/98871/Sostendr%C3%A1-M%C3%A9xico-Femenil-dos-amistosos-con-Jamaica",
       "published": ""
     },
     {
       "source": "AFN Tijuana",
-      "title": "Cuestionan activistas actuación de la FGE en búsquedas de personas desaparecidas",
-      "url": "https://www.afntijuana.info/informacion_general/181109_cuestionan_activistas_actuacion_de_la_fge_en_busquedas_de_personas_desaparecidas",
+      "title": "Disparan contra vivienda de un policía en Tecate; el sábado había sido \"levantado\"",
+      "url": "https://www.afntijuana.info/seguridad/181128_disparan_contra_vivienda_de_un_policia_en_tecate_el_sabado_habia_sido_levantado",
       "published": ""
     },
     {
       "source": "El Mexicano",
-      "title": "Señlala Julieta Ramírez más de 650 mil pesos en campaña negra durante agostoMexicali| martes 01 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Mexicali/98820/Se%C3%B1lala-Julieta-Ram%C3%ADrez-m%C3%A1s-de-650-mil-pesos-en-campa%C3%B1a-negra-durante-agosto",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Cuándo sí es buena idea volver con una ex",
-      "url": "https://www.elimparcial.com/estilos/2026/09/01/la-psicologia-explica-cuando-si-es-buena-idea-volver-con-tu-ex-que-condiciones-de-madurez-evaluar-para-una-segunda-oportunidad-y-como-evitar-repetir-errores-por-dependencia-emocional-o-soledad/",
+      "title": "Llama Padres a Ethan SalasDeportes |1 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Deportes/98870/Llama-Padres-a-Ethan-Salas",
       "published": ""
     },
     {
       "source": "AFN Tijuana",
-      "title": "Usan escalera telescópica para detener a un hombre, trepó al muro fronterizo",
-      "url": "https://www.afntijuana.info/informacion_general/181108_usan_escalera_telescopica_para_detener_a_un_hombre_trepo_al_muro_fronterizo",
+      "title": "Oposición critica seguridad y salud; Morena y aliados destacan avances en economía",
+      "url": "https://www.afntijuana.info/nacionales/181127_oposicion_critica_seguridad_y_salud_morena_y_aliados_destacan_avances_en_economia",
       "published": ""
     },
     {
       "source": "El Mexicano",
-      "title": "Así se encuentra el cruce vehicular en la garita de San Ysidro la mañana de este martes 1 de septiembreTijuana| martes 01 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98813/As%C3%AD-se-encuentra-el-cruce-vehicular-en-la-garita-de-San-Ysidro-la-ma%C3%B1ana-de-este-martes-1-de-septiembre",
+      "title": "Llama Padres a Ethan SalasDeportes| martes 01 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Deportes/98870/Llama-Padres-a-Ethan-Salas",
       "published": ""
     },
     {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Revelan imágenes del arresto al dueño de los 49ers",
-      "url": "https://www.elimparcial.com/videos/2026/09/01/revelan-imagenes-del-arresto-al-dueno-de-los-49ers/",
+      "source": "AFN Tijuana",
+      "title": "Van cerrando la \"pinza\" sobre Andy y sus amigos",
+      "url": "https://www.afntijuana.info/informacion_general/181126_van_cerrando_la_pinza_sobre_andy_y_sus_amigos",
+      "published": ""
+    },
+    {
+      "source": "El Mexicano",
+      "title": "Exige diputada a CFE atender apagones y fortalecer infraestructura en BCMexicali |1 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Mexicali/98869/Exige-diputada-a-CFE-atender-apagones-y-fortalecer-infraestructura-en-BC",
+      "published": ""
+    },
+    {
+      "source": "AFN Tijuana",
+      "title": "Secretaria de Gobernación entregó al Congreso el segundo informe de Claudia Sheinbaum",
+      "url": "https://www.afntijuana.info/nacionales/181125_secretaria_de_gobernacion_entrego_al_congreso_el_segundo_informe_de_claudia_sheinbaum",
+      "published": ""
+    },
+    {
+      "source": "El Mexicano",
+      "title": "Exige diputada a CFE atender apagones y fortalecer infraestructura en BCMexicali| martes 01 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Mexicali/98869/Exige-diputada-a-CFE-atender-apagones-y-fortalecer-infraestructura-en-BC",
+      "published": ""
+    },
+    {
+      "source": "AFN Tijuana",
+      "title": "Evangelina y Jesús ¿los terceros en discordia?",
+      "url": "https://www.afntijuana.info/afn_politico/181124_evangelina_y_jesus_ilos_terceros_en_discordia",
+      "published": ""
+    },
+    {
+      "source": "El Mexicano",
+      "title": "Migrantes enfrentan dificultades para acceder a empleos formales en BCTijuana |1 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98868/Migrantes-enfrentan-dificultades-para-acceder-a-empleos-formales-en-BC",
+      "published": ""
+    },
+    {
+      "source": "AFN Tijuana",
+      "title": "Madre buscadora denuncia falta de atención de la fiscalía",
+      "url": "https://www.afntijuana.info/informacion_general/181123_madre_buscadora_denuncia_falta_de_atencion_de_la_fiscalia",
+      "published": ""
+    },
+    {
+      "source": "El Mexicano",
+      "title": "Migrantes enfrentan dificultades para acceder a empleos formales en BCTijuana| martes 01 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98868/Migrantes-enfrentan-dificultades-para-acceder-a-empleos-formales-en-BC",
+      "published": ""
+    },
+    {
+      "source": "El Mexicano",
+      "title": "Llaman a convertirse en “Protector Estrella” para ayudar a menores durante su tratamientoTijuana |1 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98867/Llaman-a-convertirse-en-%E2%80%9CProtector-Estrella%E2%80%9D-para-ayudar-a-menores-durante-su-tratamiento",
+      "published": ""
+    },
+    {
+      "source": "El Mexicano",
+      "title": "Llaman a convertirse en “Protector Estrella” para ayudar a menores durante su tratamientoTijuana| martes 01 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98867/Llaman-a-convertirse-en-%E2%80%9CProtector-Estrella%E2%80%9D-para-ayudar-a-menores-durante-su-tratamiento",
+      "published": ""
+    },
+    {
+      "source": "El Mexicano",
+      "title": "Entrega colectivo carta ante falta de trabajo  de la FGE por desaparecidosNo hay interés en resolver los casos denuncia.Mexicali| martes 01 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Mexicali/98848/Entrega-colectivo-carta-ante-falta-de-trabajo--de-la-FGE-por-desaparecidos",
+      "published": ""
+    },
+    {
+      "source": "El Mexicano",
+      "title": "Tijuana será sede del foro estratégico “Tijuana Ciudad de Excelencia en el Servicio”Tijuana| martes 01 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98862/Tijuana-ser%C3%A1-sede-del-foro-estrat%C3%A9gico-%E2%80%9CTijuana-Ciudad-de-Excelencia-en-el-Servicio%E2%80%9D",
       "published": ""
     }
   ]

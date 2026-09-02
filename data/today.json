@@ -1,253 +1,92 @@
 {
-  "date": "2026-09-01",
-  "run_count": 3,
+  "date": "2026-09-02",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Ejecutado presunto criminal Carlos Beltrán en región",
-        "summary": "Confirman muerte de Carlos Beltrán por ejecución en Baja California.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/se-confirma-carlos-beltran-fue-ejecutado/?utm_source=rss&utm_medium=rss&utm_campaign=se-confirma-carlos-beltran-fue-ejecutado",
-        "_added_at": "2026-09-01T16:54:47.843834-07:00"
-      },
-      {
-        "title": "Hallan cadáver calcinado al rescatar desaparecido",
-        "summary": "Descubrimiento de cuerpo quemado durante búsqueda de persona extraviada en canalización.",
+        "title": "Narcomantas amenazan a policías en Tecate",
+        "summary": "Tres pancartas con amenazas dirigidas a elementos de seguridad municipal fueron encontradas en Tecate.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181121_hallan_cadaver_calcinado_al_buscar_un_desaparecido_en_canalizacion",
-        "_added_at": "2026-09-01T16:54:47.843834-07:00"
+        "url": "https://www.afntijuana.info/seguridad/181132_dejan_tres_narcomantas_con_amenazas_a_policias_municipales_de_tecate",
+        "_added_at": "2026-09-02T00:10:56.912847-07:00"
       },
       {
-        "title": "Muere motociclista en choque frontal con tractocamión",
-        "summary": "Accidente fatal entre motocicleta y vehículo de carga en carretera Mexicali-Tijuana.",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/muere-motociclista-tras-impactarse-de-frente-contra-tractocamion-en-carretera-mexicali-tijuana/",
-        "_added_at": "2026-09-01T16:54:47.843834-07:00"
-      },
-      {
-        "title": "Ataque con narcomina mata militar en Baja California",
-        "summary": "Soldado muerto por explosivo tipo narcomina; reporta 18 detonaciones en dos años en la región.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/nuevo-ataque-con-narcomina-deja-un-militar-muerto-18-detonaciones-en-dos-anos/?utm_source=rss&utm_medium=rss&utm_campaign=nuevo-ataque-con-narcomina-deja-un-militar-muerto-18-detonaciones-en-dos-anos",
-        "_added_at": "2026-09-01T12:18:47.452485-07:00"
-      },
-      {
-        "title": "Homicidio en Tecate; interceptan y disparan a automovilista",
-        "summary": "Conductor asesinado tras ser interceptado en municipio de Tecate durante operativo criminal.",
+        "title": "Disparan contra casa de policía en Tecate",
+        "summary": "Domicilio de agente municipal fue atacado a balazos; la víctima había sido levantada días antes.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/181107_asesinan_a_un_automovilista_en_tecate_lo_interceptaron_para_dispararle",
-        "_added_at": "2026-09-01T12:18:47.452485-07:00"
+        "url": "https://www.afntijuana.info/seguridad/181128_disparan_contra_vivienda_de_un_policia_en_tecate_el_sabado_habia_sido_levantado",
+        "_added_at": "2026-09-02T00:10:56.912847-07:00"
       },
       {
-        "title": "Ataque armado en Tecate cobra una vida",
-        "summary": "Persona muere tras ataque armado en colonia Bondad del municipio de Tecate.",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/ataque-armado-en-colonia-bondad-del-municipio-de-tecate-deja-una-persona-sin-vida/",
-        "_added_at": "2026-09-01T12:18:47.452485-07:00"
-      },
-      {
-        "title": "Activistas cuestionan FGE por búsquedas de desaparecidos",
-        "summary": "Organizaciones critican actuación de Fiscalía General en investigaciones de personas desaparecidas.",
+        "title": "Madre buscadora critica inacción de fiscalía",
+        "summary": "Denunció falta de atención y seguimiento en búsqueda de personas desaparecidas.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181109_cuestionan_activistas_actuacion_de_la_fge_en_busquedas_de_personas_desaparecidas",
-        "_added_at": "2026-09-01T12:18:47.452485-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/181123_madre_buscadora_denuncia_falta_de_atencion_de_la_fiscalia",
+        "_added_at": "2026-09-02T00:10:56.912847-07:00"
       },
       {
-        "title": "Reportan desaparición de Valdez Mainero en Tijuana",
-        "summary": "Se reporta la desaparición de una persona identificada como Valdez Mainero, presuntamente levantada en Tijuana.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/181090_desaparece_valdez_mainero_dicen_que_fue_levantado",
-        "_added_at": "2026-09-01T00:53:51.972394-07:00"
-      },
-      {
-        "title": "Suspenden policía en Mexicali por consumo de alcohol",
-        "summary": "Autoridades suspenden a elemento de la DSPM por ingerir alcohol mientras conducía un vehículo.",
+        "title": "Colectivo de desaparecidos reclama a FGE",
+        "summary": "Familiares entregaron carta denunciando falta de investigación en casos de personas desaparecidas en Mexicali.",
         "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/98809/Suspende-DSPM-a-polic%C3%ADa-por-ingerir-alcohol-en-un-autom%C3%B3vil",
-        "_added_at": "2026-09-01T00:53:51.972394-07:00"
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/98848/Entrega-colectivo-carta-ante-falta-de-trabajo--de-la-FGE-por-desaparecidos",
+        "_added_at": "2026-09-02T00:10:56.912847-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Organizaciones reclaman avances en casos desaparecidos",
-        "summary": "Madres Unidas y Fuertes demanda a Fiscalía por falta de progreso investigativo.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/madres-unidas-y-fuertes-reclama-a-fiscalia-por-falta-de-avances-en-casos-de-desaparecidos/?utm_source=rss&utm_medium=rss&utm_campaign=madres-unidas-y-fuertes-reclama-a-fiscalia-por-falta-de-avances-en-casos-de-desaparecidos",
-        "_added_at": "2026-09-01T16:54:47.843834-07:00"
-      },
-      {
-        "title": "Ordenan retirar propaganda de candidata Julieta",
-        "summary": "IEEBC instruye eliminación de materiales de campaña adelantada en Baja California.",
+        "title": "Gobierno federal destaca proyectos estratégicos en BC",
+        "summary": "Funcionario presentó iniciativas del gobierno de Sheinbaum enfocadas en desarrollo regional.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181118_ordenan_retirar_propaganda_fisica_de_julieta_en_bc",
-        "_added_at": "2026-09-01T16:54:47.843834-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/181131_destaca_avila_olmeda_proyectos_estrategicos_del_gobierno_de_claudia_sheinbaum_en_bc",
+        "_added_at": "2026-09-02T00:10:56.912847-07:00"
       },
       {
-        "title": "Ruiz Uribe denuncia irregularidades en proceso Morena",
-        "summary": "Aspirante reporta inconsistencias en selección interna del partido.",
+        "title": "Oposición critica seguridad; Morena resalta economía",
+        "summary": "Debate parlamentario entre bancadas sobre evaluación de políticas de seguridad y desempeño económico.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/nacionales/181127_oposicion_critica_seguridad_y_salud_morena_y_aliados_destacan_avances_en_economia",
+        "_added_at": "2026-09-02T00:10:56.912847-07:00"
+      },
+      {
+        "title": "Tijuana será sede de foro de excelencia en servicio",
+        "summary": "La ciudad albergará evento estratégico enfocado en mejorar calidad de atención y gestión pública.",
         "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Estatal/98852/Ruiz-Uribe-denuncia-irregularidades-en-interna-de-Morena",
-        "_added_at": "2026-09-01T16:54:47.843834-07:00"
-      },
-      {
-        "title": "Acusan a Castro de nepotismo en funcionario",
-        "summary": "Señalamientos sobre favoritismo familiar en designaciones administrativas.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/acusan-a-castro-de-nepotismo/?utm_source=rss&utm_medium=rss&utm_campaign=acusan-a-castro-de-nepotismo",
-        "_added_at": "2026-09-01T16:54:47.843834-07:00"
-      },
-      {
-        "title": "Sheinbaum reafirma unidad en segundo informe de gobierno",
-        "summary": "Presidenta destaca estabilidad y niega fracturas internas en su administración.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/no-hay-rompimiento-sheinbaum-reafirma-unidad-y-estabilidad-en-su-segundo-informe/?utm_source=rss&utm_medium=rss&utm_campaign=no-hay-rompimiento-sheinbaum-reafirma-unidad-y-estabilidad-en-su-segundo-informe",
-        "_added_at": "2026-09-01T12:18:47.452485-07:00"
-      },
-      {
-        "title": "Sheinbaum defiende megaobras de AMLO ante críticas",
-        "summary": "Presidenta respalda proyectos heredados pese a cuestionamientos sobre costos y resultados.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/sheinbaum-defiende-las-megaobras-de-amlo-ante-criticas-por-costos-y-resultados/?utm_source=rss&utm_medium=rss&utm_campaign=sheinbaum-defiende-las-megaobras-de-amlo-ante-criticas-por-costos-y-resultados",
-        "_added_at": "2026-09-01T12:18:47.452485-07:00"
-      },
-      {
-        "title": "Balance CSP destaca soberanía energética y seguridad",
-        "summary": "Gobierno estatal enfatiza cohesión política en estrategia de seguridad y energía.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/soberania-energetica-seguridad-y-cohesion-las-claves-politicas-detras-del-balance-oficial-de-csp/?utm_source=rss&utm_medium=rss&utm_campaign=soberania-energetica-seguridad-y-cohesion-las-claves-politicas-detras-del-balance-oficial-de-csp",
-        "_added_at": "2026-09-01T12:18:47.452485-07:00"
-      },
-      {
-        "title": "Senador Inzunza reaparece y rechaza acusaciones de EE.UU.",
-        "summary": "Senador Inzunza resurge públicamente, niega acusaciones estadounidenses y defiende al gobernador Rocha.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181078_reaparece_el_senador_inzunza_rechaza_acusacion_de_eu_defiende_a_rocha_y_discute_con_periodista",
-        "_added_at": "2026-09-01T00:53:51.972394-07:00"
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98862/Tijuana-ser%C3%A1-sede-del-foro-estrat%C3%A9gico-%E2%80%9CTijuana-Ciudad-de-Excelencia-en-el-Servicio%E2%80%9D",
+        "_added_at": "2026-09-02T00:10:56.912847-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Demanda habitacional suma 533 mil trabajadores",
-        "summary": "Potencial inmobiliario en Baja California refleja necesidad de vivienda laboral.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/demanda-potencial-de-vivienda-en-baja-california-suma-533-mil-trabajadores/?utm_source=rss&utm_medium=rss&utm_campaign=demanda-potencial-de-vivienda-en-baja-california-suma-533-mil-trabajadores",
-        "_added_at": "2026-09-01T16:54:47.843834-07:00"
-      },
-      {
-        "title": "Infonavit deposita hasta 71 mil pesos en septiembre",
-        "summary": "Transferencias a derechohabientes que cumplan requisitos de crédito.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/dinero/2026/09/01/infonavit-depositara-hasta-71-mil-pesos-en-septiembre-a-derechohabientes-que-cumplan-este-requisito-al-tramitar-su-credito-de-compra/",
-        "_added_at": "2026-09-01T16:54:47.843834-07:00"
-      },
-      {
-        "title": "Renovación del Bulevar Maneadero inicia en septiembre",
-        "summary": "Proyecto de infraestructura en Ensenada con duración de diez meses comienza.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/ensenada/2026/09/01/renovacion-del-bulevar-maneadero-arrancara-el-14-de-septiembre/",
-        "_added_at": "2026-09-01T16:54:47.843834-07:00"
-      },
-      {
-        "title": "Vivienda del Bienestar: costos frenan precios en Tijuana",
-        "summary": "Terrenos y urbanización elevan gastos; desarrolladores enfrentan dificultades para alcanzar costos establecidos.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/01/tierra-y-urbanizacion-elevan-el-costo-de-la-vivienda-del-bienestar-en-tijuana/",
-        "_added_at": "2026-09-01T12:18:47.452485-07:00"
-      },
-      {
-        "title": "Tomate y chile dominan siembras en Baja California",
-        "summary": "Productos agrícolas principales en zona costera de la entidad durante ciclo actual.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/ensenada/2026/09/01/tomate-y-chile-dominan-las-siembras-en-la-zona-costa-de-baja-california/",
-        "_added_at": "2026-09-01T12:18:47.452485-07:00"
-      },
-      {
-        "title": "Tormentas derriban más de 100 postes en Mexicali",
-        "summary": "Tormentas del fin de semana causaron daños a infraestructura eléctrica con caída de más de 100 postes de CFE.",
+        "title": "Diputada exige a CFE atender daños de tormenta",
+        "summary": "Legisladora pidió reparación de infraestructura eléctrica dañada en Mexicali por eventos climáticos.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181079_tormentas_de_fin_de_semana_en_mexicali_derribaron_mas_de_100_postes_de_la_cfe",
-        "_added_at": "2026-09-01T00:53:51.972394-07:00"
+        "url": "https://www.afntijuana.info/nacionales/181129_pide_diputada_a_la_cfe_atender_afectaciones_por_tormenta_en_mexicali",
+        "_added_at": "2026-09-02T00:10:56.912847-07:00"
       },
       {
-        "title": "UABC inaugura nuevos espacios educativos",
-        "summary": "Universidad Autónoma de Baja California abre dos nuevos espacios como parte de mejora de infraestructura.",
+        "title": "Migrantes enfrentan barreras para empleos formales",
+        "summary": "Población migrante en Tijuana experimenta dificultades para acceder a trabajos con prestaciones.",
         "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Estatal/98792/Avanza-UABC-en-mejora-educativa-e-infraestructura",
-        "_added_at": "2026-09-01T00:53:51.972394-07:00"
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98868/Migrantes-enfrentan-dificultades-para-acceder-a-empleos-formales-en-BC",
+        "_added_at": "2026-09-02T00:10:56.912847-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Baja California se posiciona en turismo sustentable",
-        "summary": "Elvia Martínez impulsa estrategia de turismo responsable en la región.",
+        "title": "Alcalde envía deportistas a Juegos Nacionales Populares",
+        "summary": "Funcionario municipal apoyó a jóvenes atletas que representarán al estado en competencia nacional.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/municipios/181130_abandero_alcalde_a_jovenes_deportistas_rumbo_a_los_juegos_nacionales_populares_2026",
+        "_added_at": "2026-09-02T00:10:56.912847-07:00"
+      },
+      {
+        "title": "Convocan a voluntarios para apoyar niños enfermos",
+        "summary": "Hospital solicita personas interesadas en convertirse en \"Protectores Estrella\" para acompañar menores en tratamiento.",
         "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Nacional/98855/Elvia-Mart%C3%ADnez-pone-a-Baja-California-en-la-ruta-del-turismo-sustentable",
-        "_added_at": "2026-09-01T16:54:47.843834-07:00"
-      },
-      {
-        "title": "Se confirma justicia pendiente en caso Paulina Ivón",
-        "summary": "Familia continúa exigiendo resolución a casi dos años del asesinato.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/a-casi-dos-anos-del-asesinato-de-paulina-ivon-su-familia-sigue-exigiendo-justicia/?utm_source=rss&utm_medium=rss&utm_campaign=a-casi-dos-anos-del-asesinato-de-paulina-ivon-su-familia-sigue-exigiendo-justicia",
-        "_added_at": "2026-09-01T16:54:47.843834-07:00"
-      },
-      {
-        "title": "Hijas encuentran padre tras 25 años en Tijuana",
-        "summary": "Reencuentro familiar localiza a hombre en situación de calle.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/01/hijas-buscaron-a-su-papa-25-anos-y-lo-encontraron-en-situacion-de-calle-en-tijuana/",
-        "_added_at": "2026-09-01T16:54:47.843834-07:00"
-      },
-      {
-        "title": "Realizan primer Congreso Guadalupano en Mexicali",
-        "summary": "Evento inaugural sobre celebración de la Virgen de Guadalupe convoca participación.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/98853/Realizar%C3%A1n-por-primera-ocasi%C3%B3n-Congreso-Guadalupano",
-        "_added_at": "2026-09-01T16:54:47.843834-07:00"
-      },
-      {
-        "title": "Puente de Espinoza en Ensenada cierra por daños estructurales",
-        "summary": "Infraestructura dañada obliga cierre de paso en Ensenada; afecta tránsito local.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/cierran-puente-de-la-calle-espinoza-de-ensenada-por-danos-estructurales/?utm_source=rss&utm_medium=rss&utm_campaign=cierran-puente-de-la-calle-espinoza-de-ensenada-por-danos-estructurales",
-        "_added_at": "2026-09-01T12:18:47.452485-07:00"
-      },
-      {
-        "title": "Detectan garrapatas en escuela de Ensenada",
-        "summary": "Hallazgo de parásitos en institución educativa al inicio del ciclo escolar.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/01/detectan-garrapatas-en-escuela-de-ensenada-al-iniciar-clases/",
-        "_added_at": "2026-09-01T12:18:47.452485-07:00"
-      },
-      {
-        "title": "Vigilancia por tormenta tropical; calor extremo persiste",
-        "summary": "Autoridades monitorean desarrollo de sistema tropical; continúan temperaturas altas en región.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/vigilan-posible-desarrollo-de-tormenta-tropical-persistira-calor-extremo-en-baja-california/?utm_source=rss&utm_medium=rss&utm_campaign=vigilan-posible-desarrollo-de-tormenta-tropical-persistira-calor-extremo-en-baja-california",
-        "_added_at": "2026-09-01T12:18:47.452485-07:00"
-      },
-      {
-        "title": "Inicia ciclo escolar; 730 mil estudiantes regresan a clases",
-        "summary": "Nuevo ciclo escolar comienza en Baja California con el regreso a actividades de más de 730 mil estudiantes.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/municipios/181089_inicio_el_nuevo_ciclo_escolar_regresaron_a_clases_mas_de_730_mil_estudiantes_en_bc",
-        "_added_at": "2026-09-01T00:53:51.972394-07:00"
-      },
-      {
-        "title": "Alcalde recibe a 3 mil 800 estudiantes de escuelas municipales",
-        "summary": "Presidente municipal da bienvenida a estudiantes de instituciones educativas municipales en inicio de clases.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/municipios/181088_alcalde_dio_la_bienvenida_a_mas_de_3_mil_800_estudiantes_de_escuelas_municipales",
-        "_added_at": "2026-09-01T00:53:51.972394-07:00"
-      },
-      {
-        "title": "Mil 500 motociclistas participan en evento TSR en Rosarito",
-        "summary": "Se reporta presencia de aproximadamente mil 500 motociclistas durante evento TSR celebrado en Rosarito.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181084_reportan_presencia_de_mil_500_motociclistas_durante_tsr_en_rosarito",
-        "_added_at": "2026-09-01T00:53:51.972394-07:00"
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98867/Llaman-a-convertirse-en-%E2%80%9CProtector-Estrella%E2%80%9D-para-ayudar-a-menores-durante-su-tratamiento",
+        "_added_at": "2026-09-02T00:10:56.912847-07:00"
       }
     ]
   },
-  "last_updated": "2026-09-01T16:54:47.843834-07:00"
+  "last_updated": "2026-09-02T00:10:56.912847-07:00"
 }
