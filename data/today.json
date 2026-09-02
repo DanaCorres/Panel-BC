@@ -1,8 +1,22 @@
 {
   "date": "2026-09-02",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Operativo Cóndor 4 desplegado en Tecate contra crimen",
+        "summary": "Más de 200 elementos realizan megaoperativo en Tecate para combatir células delictivas en la región.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181164_despliegan_operativo_condor_4_con_mas_de_200_elementos_en_tecate",
+        "_added_at": "2026-09-02T16:56:35.262998-07:00"
+      },
+      {
+        "title": "Crimen recluta menores mediante engaños en Baja California",
+        "summary": "Organizaciones delictivas utilizan manipulación y generación de confianza para reclutar niños y adolescentes en la entidad.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/02/asi-recluta-el-crimen-organizado-a-ninas-ninos-y-adolescentes-en-baja-california/",
+        "_added_at": "2026-09-02T16:56:35.262998-07:00"
+      },
       {
         "title": "Motociclista muere arrollado por tráiler en Mexicali",
         "summary": "Motorista cae de su vehículo y es atropellado fatalmente por un tráiler en la zona.",
@@ -62,6 +76,34 @@
     ],
     "politica": [
       {
+        "title": "PAN presenta cinco aspirantes a candidatura gubernamental",
+        "summary": "El partido blanquiazul lanza lista de precandidatos para la gubernatura de Baja California.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/presenta-pan-bc-lista-de-cinco-aspirantes-a-la-candidatura-a-la-gubernatura/",
+        "_added_at": "2026-09-02T16:56:35.262998-07:00"
+      },
+      {
+        "title": "IEEBC ordena a Julieta Ramírez retirar propaganda en dos días",
+        "summary": "Instituto Electoral emite medidas cautelares contra candidata por incumplimiento normativo electoral.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/ieebc-emite-medidas-cautelares-contra-julieta-ramirez-tiene-dos-dias-para-retirar-propaganda-con-su-imagen/",
+        "_added_at": "2026-09-02T16:56:35.262998-07:00"
+      },
+      {
+        "title": "PRI critica demora en resoluciones contra Julieta Ramírez",
+        "summary": "Partido rojo cuestiona lentitud de autoridades electorales en atender denuncias contra la candidata.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181162_critica_el_pri_la_demora_para_resolver_denuncias_contra_julieta_ramirez",
+        "_added_at": "2026-09-02T16:56:35.262998-07:00"
+      },
+      {
+        "title": "CNTE mantiene paro por adeudos a maestros interinos",
+        "summary": "Maestros toman caseta Tijuana-Tecate exigiendo pagos adeudados antes del inicio escolar.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/ante-inicio-escolar-cnte-mantiene-paro-por-adeudos-a-maestros-interinos-en-bc/",
+        "_added_at": "2026-09-02T16:56:35.262998-07:00"
+      },
+      {
         "title": "Cinco aspirantes buscan gubernatura por el PAN",
         "summary": "Candidatos panistas inician proceso para contender por la gobernación de Baja California.",
         "source": "AFN Tijuana",
@@ -106,6 +148,34 @@
     ],
     "economia": [
       {
+        "title": "IMSS BC reporta 96% de abasto de medicamentos",
+        "summary": "Instituto surte 30 mil recetas diarias con inventario en niveles adecuados.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/98908/Reporta-IMSS-BC-96%25-de-abasto-y-surte-30-mil-recetas-diarias",
+        "_added_at": "2026-09-02T16:56:35.262998-07:00"
+      },
+      {
+        "title": "Baja California en rango medio por costo de vivienda",
+        "summary": "Estado se ubica a la mitad en rankings nacionales de encarecimiento inmobiliario.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/02/baja-california-se-ubica-en-rango-medio-nacional-por-encarecimiento-de-vivienda/",
+        "_added_at": "2026-09-02T16:56:35.262998-07:00"
+      },
+      {
+        "title": "Langosta roja busca mantener certificación de sustentabilidad",
+        "summary": "Sector pesquero de Ensenada trabaja en preservar estándares internacionales de explotación.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/ensenada/2026/09/02/langosta-roja-busca-mantener-certificacion-internacional-de-sustentabilidad/",
+        "_added_at": "2026-09-02T16:56:35.262998-07:00"
+      },
+      {
+        "title": "CCE preocupado por regreso de propaganda electoral ilegal",
+        "summary": "Cámara de Comercio advierte sobre incumplimiento de normativas electorales en la entidad.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/98905/Preocupa-al-CCE-regreso-de-propaganda-electoral-en-BC",
+        "_added_at": "2026-09-02T16:56:35.262998-07:00"
+      },
+      {
         "title": "Diputada exige a CFE atender daños de tormenta",
         "summary": "Legisladora pidió reparación de infraestructura eléctrica dañada en Mexicali por eventos climáticos.",
         "source": "AFN Tijuana",
@@ -121,6 +191,34 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Muere Daniel Rojo, actor y maestro del teatro tijuanense",
+        "summary": "Fallecimiento del reconocido actor y cantante que fue referente cultural en Tijuana.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/muere-daniel-rojo-actor-y-maestro-del-teatro-tijuanense/",
+        "_added_at": "2026-09-02T16:56:35.262998-07:00"
+      },
+      {
+        "title": "Instalan estación para rastrear aves migratorias en San Quintín",
+        "summary": "Proyecto de monitoreo ambiental estudia rutas de migración avifaunística en la región.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/ensenada/2026/09/02/instalan-estacion-para-rastrear-rutas-migratorias-de-aves-en-san-quintin/",
+        "_added_at": "2026-09-02T16:56:35.262998-07:00"
+      },
+      {
+        "title": "Vecinos de Villa Mediterránea protestan en palacio municipal",
+        "summary": "Ciudadanos demandan respuestas a autoridades sobre problemas comunitarios sin resolver.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181161_protestan_en_palacio_municipal_exigen_respuestas_vecinos_de_villa_mediterranea",
+        "_added_at": "2026-09-02T16:56:35.262998-07:00"
+      },
+      {
+        "title": "Arranca temporada de cacería en Mexicali",
+        "summary": "Inicia periodo autorizado para actividades cinegéticas en la región desértica estatal.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/98907/Arranca-temporada-de-cacer%C3%ADa-en-Mexicali",
+        "_added_at": "2026-09-02T16:56:35.262998-07:00"
+      },
       {
         "title": "Falla en sistema de bombeo afecta agua en Tijuana",
         "summary": "Problema en estación Valparaíso provoca intermitencias de agua en colonias de Santa Fe.",
@@ -165,5 +263,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-02T12:18:51.684975-07:00"
+  "last_updated": "2026-09-02T16:56:35.262998-07:00"
 }
