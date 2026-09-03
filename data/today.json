@@ -1,267 +1,85 @@
 {
-  "date": "2026-09-02",
-  "run_count": 3,
+  "date": "2026-09-03",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Operativo Cóndor 4 desplegado en Tecate contra crimen",
-        "summary": "Más de 200 elementos realizan megaoperativo en Tecate para combatir células delictivas en la región.",
+        "title": "Cuatro hombres reciben disparos en Ensenada",
+        "summary": "Incidente violento deja a cuatro víctimas con heridas de bala en la ciudad costera de Ensenada.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181164_despliegan_operativo_condor_4_con_mas_de_200_elementos_en_tecate",
-        "_added_at": "2026-09-02T16:56:35.262998-07:00"
+        "url": "https://www.afntijuana.info/seguridad/181179_balean_a_cuatro_hombres_en_ensenada",
+        "_added_at": "2026-09-03T00:15:48.006808-07:00"
       },
       {
-        "title": "Crimen recluta menores mediante engaños en Baja California",
-        "summary": "Organizaciones delictivas utilizan manipulación y generación de confianza para reclutar niños y adolescentes en la entidad.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/02/asi-recluta-el-crimen-organizado-a-ninas-ninos-y-adolescentes-en-baja-california/",
-        "_added_at": "2026-09-02T16:56:35.262998-07:00"
-      },
-      {
-        "title": "Motociclista muere arrollado por tráiler en Mexicali",
-        "summary": "Motorista cae de su vehículo y es atropellado fatalmente por un tráiler en la zona.",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/muere-motociclista-tras-caer-y-ser-arrollado-por-un-trailer-en-mexicali/",
-        "_added_at": "2026-09-02T12:18:51.684975-07:00"
-      },
-      {
-        "title": "Hallan cuerpo calcinado durante búsqueda en canalización",
-        "summary": "Localizan restos humanos quemados mientras buscaban a persona desaparecida.",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/localizan-cuerpo-calcinado-durante-busqueda-de-desaparecido-en-la-canalizacion/",
-        "_added_at": "2026-09-02T12:18:51.684975-07:00"
-      },
-      {
-        "title": "Descubren segundo punto con restos óseos en Alamar",
-        "summary": "Hallan más restos humanos en canalización de la Vía Rápida Alamar.",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/localizan-segundo-punto-con-restos-oseos-ahora-en-la-canalizacion-de-la-via-rapida-alamar/",
-        "_added_at": "2026-09-02T12:18:51.684975-07:00"
-      },
-      {
-        "title": "Menor de 14 años muere por autolesión con arma",
-        "summary": "Adolescente fallece tras dispararse; autoridades detienen a otro joven armado.",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/menor-de-14-anos-muere-tras-autolesionarse-con-arma-de-fuego-municipales-detienen-a-otro-adolescente-armado/",
-        "_added_at": "2026-09-02T12:18:51.684975-07:00"
-      },
-      {
-        "title": "Narcomantas amenazan a policías en Tecate",
-        "summary": "Tres pancartas con amenazas dirigidas a elementos de seguridad municipal fueron encontradas en Tecate.",
+        "title": "Incendio destruye bodegas en Plaza de Abastos Los Álamos",
+        "summary": "Dos bodegas completamente consumidas por fuego en centro comercial de Tijuana.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/181132_dejan_tres_narcomantas_con_amenazas_a_policias_municipales_de_tecate",
-        "_added_at": "2026-09-02T00:10:56.912847-07:00"
+        "url": "https://www.afntijuana.info/seguridad/181180_incendio_consumio_dos_bodegas_de_la_plaza_de_abastos_los_alamos",
+        "_added_at": "2026-09-03T00:15:48.006808-07:00"
       },
       {
-        "title": "Disparan contra casa de policía en Tecate",
-        "summary": "Domicilio de agente municipal fue atacado a balazos; la víctima había sido levantada días antes.",
+        "title": "Hallan cadáver en vehículo abandonado en Ciudad Jardín",
+        "summary": "Cuerpo en avanzado estado de descomposición descubierto en colonia de Tijuana.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/181128_disparan_contra_vivienda_de_un_policia_en_tecate_el_sabado_habia_sido_levantado",
-        "_added_at": "2026-09-02T00:10:56.912847-07:00"
-      },
-      {
-        "title": "Madre buscadora critica inacción de fiscalía",
-        "summary": "Denunció falta de atención y seguimiento en búsqueda de personas desaparecidas.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181123_madre_buscadora_denuncia_falta_de_atencion_de_la_fiscalia",
-        "_added_at": "2026-09-02T00:10:56.912847-07:00"
-      },
-      {
-        "title": "Colectivo de desaparecidos reclama a FGE",
-        "summary": "Familiares entregaron carta denunciando falta de investigación en casos de personas desaparecidas en Mexicali.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/98848/Entrega-colectivo-carta-ante-falta-de-trabajo--de-la-FGE-por-desaparecidos",
-        "_added_at": "2026-09-02T00:10:56.912847-07:00"
+        "url": "https://www.afntijuana.info/seguridad/181175_hallan_cuerpo_putrefacto_en_vehiculo_abandonado_en_la_colonia_ciudad_jardin",
+        "_added_at": "2026-09-03T00:15:48.006808-07:00"
       }
     ],
     "politica": [
       {
-        "title": "PAN presenta cinco aspirantes a candidatura gubernamental",
-        "summary": "El partido blanquiazul lanza lista de precandidatos para la gubernatura de Baja California.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/presenta-pan-bc-lista-de-cinco-aspirantes-a-la-candidatura-a-la-gubernatura/",
-        "_added_at": "2026-09-02T16:56:35.262998-07:00"
-      },
-      {
-        "title": "IEEBC ordena a Julieta Ramírez retirar propaganda en dos días",
-        "summary": "Instituto Electoral emite medidas cautelares contra candidata por incumplimiento normativo electoral.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/ieebc-emite-medidas-cautelares-contra-julieta-ramirez-tiene-dos-dias-para-retirar-propaganda-con-su-imagen/",
-        "_added_at": "2026-09-02T16:56:35.262998-07:00"
-      },
-      {
-        "title": "PRI critica demora en resoluciones contra Julieta Ramírez",
-        "summary": "Partido rojo cuestiona lentitud de autoridades electorales en atender denuncias contra la candidata.",
+        "title": "Tribunal confirma suspensión de proceso penal contra Ernesto Ruffo",
+        "summary": "Decisión judicial ratifica medida suspensiva en caso del exgobernador de Baja California.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181162_critica_el_pri_la_demora_para_resolver_denuncias_contra_julieta_ramirez",
-        "_added_at": "2026-09-02T16:56:35.262998-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/181178_tribunal_ratifica_suspension_del_proceso_penal_contra_ernesto_ruffo",
+        "_added_at": "2026-09-03T00:15:48.006808-07:00"
       },
       {
-        "title": "CNTE mantiene paro por adeudos a maestros interinos",
-        "summary": "Maestros toman caseta Tijuana-Tecate exigiendo pagos adeudados antes del inicio escolar.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/ante-inicio-escolar-cnte-mantiene-paro-por-adeudos-a-maestros-interinos-en-bc/",
-        "_added_at": "2026-09-02T16:56:35.262998-07:00"
-      },
-      {
-        "title": "Cinco aspirantes buscan gubernatura por el PAN",
-        "summary": "Candidatos panistas inician proceso para contender por la gobernación de Baja California.",
+        "title": "Acusan a Julieta Ramírez de campaña sucia contra Sheinbaum",
+        "summary": "Controversia política en torno a estrategia de campaña de funcionaria estatal.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181151_cinco_buscan_la_gubernatura_por_el_pan_en_baja_california",
-        "_added_at": "2026-09-02T12:18:51.684975-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/181182_le_atribuyen_a_julieta_ramirez_guerra_sucia_contra_sheinbaum",
+        "_added_at": "2026-09-03T00:15:48.006808-07:00"
       },
       {
-        "title": "Mario García Franco se registra como aspirante panista",
-        "summary": "Candidato del PAN inicia trámites para competir por gubernatura estatal.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/mario-garcia-franco-se-registra-como-aspirante-del-pan-a-la-gubernatura-de-bc/?utm_source=rss&utm_medium=rss&utm_campaign=mario-garcia-franco-se-registra-como-aspirante-del-pan-a-la-gubernatura-de-bc",
-        "_added_at": "2026-09-02T12:18:51.684975-07:00"
-      },
-      {
-        "title": "Gobernadora ordena medidas preventivas por fenómeno Niño",
-        "summary": "Marina del Pilar instruye acciones preventivas ante llegada del evento climático.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98895/Instruye-Gobernadora-Marina-del-Pilar-acciones-preventivas-ante-la-llegada-del-fen%C3%B3meno-del-Ni%C3%B1o",
-        "_added_at": "2026-09-02T12:18:51.684975-07:00"
-      },
-      {
-        "title": "Gobierno federal destaca proyectos estratégicos en BC",
-        "summary": "Funcionario presentó iniciativas del gobierno de Sheinbaum enfocadas en desarrollo regional.",
+        "title": "Sancionarán a una de las precandidatas de Baja California",
+        "summary": "Medida disciplinaria contra aspirante político del estado.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181131_destaca_avila_olmeda_proyectos_estrategicos_del_gobierno_de_claudia_sheinbaum_en_bc",
-        "_added_at": "2026-09-02T00:10:56.912847-07:00"
-      },
-      {
-        "title": "Oposición critica seguridad; Morena resalta economía",
-        "summary": "Debate parlamentario entre bancadas sobre evaluación de políticas de seguridad y desempeño económico.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/nacionales/181127_oposicion_critica_seguridad_y_salud_morena_y_aliados_destacan_avances_en_economia",
-        "_added_at": "2026-09-02T00:10:56.912847-07:00"
-      },
-      {
-        "title": "Tijuana será sede de foro de excelencia en servicio",
-        "summary": "La ciudad albergará evento estratégico enfocado en mejorar calidad de atención y gestión pública.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98862/Tijuana-ser%C3%A1-sede-del-foro-estrat%C3%A9gico-%E2%80%9CTijuana-Ciudad-de-Excelencia-en-el-Servicio%E2%80%9D",
-        "_added_at": "2026-09-02T00:10:56.912847-07:00"
+        "url": "https://www.afntijuana.info/afn_politico/181171_sancionaran_a_una_de_las_corcholatas_de_baja_california",
+        "_added_at": "2026-09-03T00:15:48.006808-07:00"
       }
     ],
     "economia": [
       {
-        "title": "IMSS BC reporta 96% de abasto de medicamentos",
-        "summary": "Instituto surte 30 mil recetas diarias con inventario en niveles adecuados.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Estatal/98908/Reporta-IMSS-BC-96%25-de-abasto-y-surte-30-mil-recetas-diarias",
-        "_added_at": "2026-09-02T16:56:35.262998-07:00"
-      },
-      {
-        "title": "Baja California en rango medio por costo de vivienda",
-        "summary": "Estado se ubica a la mitad en rankings nacionales de encarecimiento inmobiliario.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/02/baja-california-se-ubica-en-rango-medio-nacional-por-encarecimiento-de-vivienda/",
-        "_added_at": "2026-09-02T16:56:35.262998-07:00"
-      },
-      {
-        "title": "Langosta roja busca mantener certificación de sustentabilidad",
-        "summary": "Sector pesquero de Ensenada trabaja en preservar estándares internacionales de explotación.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/ensenada/2026/09/02/langosta-roja-busca-mantener-certificacion-internacional-de-sustentabilidad/",
-        "_added_at": "2026-09-02T16:56:35.262998-07:00"
-      },
-      {
-        "title": "CCE preocupado por regreso de propaganda electoral ilegal",
-        "summary": "Cámara de Comercio advierte sobre incumplimiento de normativas electorales en la entidad.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Estatal/98905/Preocupa-al-CCE-regreso-de-propaganda-electoral-en-BC",
-        "_added_at": "2026-09-02T16:56:35.262998-07:00"
-      },
-      {
-        "title": "Diputada exige a CFE atender daños de tormenta",
-        "summary": "Legisladora pidió reparación de infraestructura eléctrica dañada en Mexicali por eventos climáticos.",
+        "title": "Nómina y asesorías superaron inversión directa en diez años",
+        "summary": "Análisis de OBSERBC revela desequilibrio presupuestal en gobierno estatal.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/nacionales/181129_pide_diputada_a_la_cfe_atender_afectaciones_por_tormenta_en_mexicali",
-        "_added_at": "2026-09-02T00:10:56.912847-07:00"
-      },
-      {
-        "title": "Migrantes enfrentan barreras para empleos formales",
-        "summary": "Población migrante en Tijuana experimenta dificultades para acceder a trabajos con prestaciones.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98868/Migrantes-enfrentan-dificultades-para-acceder-a-empleos-formales-en-BC",
-        "_added_at": "2026-09-02T00:10:56.912847-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/181172_gasto_en_nomina_y_asesorias_supero_a_la_inversion_directa_en_10_anos_obserbc",
+        "_added_at": "2026-09-03T00:15:48.006808-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Muere Daniel Rojo, actor y maestro del teatro tijuanense",
-        "summary": "Fallecimiento del reconocido actor y cantante que fue referente cultural en Tijuana.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/muere-daniel-rojo-actor-y-maestro-del-teatro-tijuanense/",
-        "_added_at": "2026-09-02T16:56:35.262998-07:00"
-      },
-      {
-        "title": "Instalan estación para rastrear aves migratorias en San Quintín",
-        "summary": "Proyecto de monitoreo ambiental estudia rutas de migración avifaunística en la región.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/ensenada/2026/09/02/instalan-estacion-para-rastrear-rutas-migratorias-de-aves-en-san-quintin/",
-        "_added_at": "2026-09-02T16:56:35.262998-07:00"
-      },
-      {
-        "title": "Vecinos de Villa Mediterránea protestan en palacio municipal",
-        "summary": "Ciudadanos demandan respuestas a autoridades sobre problemas comunitarios sin resolver.",
+        "title": "Inauguran puente peatonal Margarito Saldaña en Tijuana",
+        "summary": "Nuevo acceso peatonal mejora conectividad en zona de la ciudad.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181161_protestan_en_palacio_municipal_exigen_respuestas_vecinos_de_villa_mediterranea",
-        "_added_at": "2026-09-02T16:56:35.262998-07:00"
+        "url": "https://www.afntijuana.info/municipios/181181_inauguraron_el_puente_peatonal_margarito_saldana",
+        "_added_at": "2026-09-03T00:15:48.006808-07:00"
       },
       {
-        "title": "Arranca temporada de cacería en Mexicali",
-        "summary": "Inicia periodo autorizado para actividades cinegéticas en la región desértica estatal.",
+        "title": "Recolectan cuarenta y cuatro toneladas de basura pesada",
+        "summary": "Operativo ambiental en colonias de tres delegaciones de Tijuana.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/municipios/181183_recolectaron_mas_de_44_toneladas_de_basura_pesada_en_colonias_de_tres_delegaciones",
+        "_added_at": "2026-09-03T00:15:48.006808-07:00"
+      },
+      {
+        "title": "Residentes de complejo habitacional se movilizan en Mexicali",
+        "summary": "Manifestación ante ayuntamiento por conflictos de mantenimiento y derechos de residentes.",
         "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/98907/Arranca-temporada-de-cacer%C3%ADa-en-Mexicali",
-        "_added_at": "2026-09-02T16:56:35.262998-07:00"
-      },
-      {
-        "title": "Falla en sistema de bombeo afecta agua en Tijuana",
-        "summary": "Problema en estación Valparaíso provoca intermitencias de agua en colonias de Santa Fe.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/02/falla-en-bombeo-valparaiso-provoca-intermitencias-de-agua-en-tijuana/",
-        "_added_at": "2026-09-02T12:18:51.684975-07:00"
-      },
-      {
-        "title": "Maestros protestan y liberan caseta Tijuana-Tecate",
-        "summary": "Docentes de la CNTE cierran momentáneamente paso vehicular en caseta fronteriza.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181149_protestan_maestros_de_la_cnte_y_liberan_caseta_de_peaje_tijuana_tecate",
-        "_added_at": "2026-09-02T12:18:51.684975-07:00"
-      },
-      {
-        "title": "Intoxicadas dos mujeres por gas en hotel Marriott",
-        "summary": "Huéspedes halladas inconscientes tras inhalación de gas en hospedaje de Tijuana.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/hallan-dos-mujeres-inconscientes-en-hotel-marriott-por-inhalacion-de-gas/?utm_source=rss&utm_medium=rss&utm_campaign=hallan-dos-mujeres-inconscientes-en-hotel-marriott-por-inhalacion-de-gas",
-        "_added_at": "2026-09-02T12:18:51.684975-07:00"
-      },
-      {
-        "title": "Gobierno de Tijuana organiza concierto por Independencia",
-        "summary": "Autoridades municipales invitan a celebración del Grito con evento musical gratuito.",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/invita-gobierno-de-tijuana-a-celebrar-el-grito-de-independencia-con-concierto-gratuito/",
-        "_added_at": "2026-09-02T12:18:51.684975-07:00"
-      },
-      {
-        "title": "Alcalde envía deportistas a Juegos Nacionales Populares",
-        "summary": "Funcionario municipal apoyó a jóvenes atletas que representarán al estado en competencia nacional.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/municipios/181130_abandero_alcalde_a_jovenes_deportistas_rumbo_a_los_juegos_nacionales_populares_2026",
-        "_added_at": "2026-09-02T00:10:56.912847-07:00"
-      },
-      {
-        "title": "Convocan a voluntarios para apoyar niños enfermos",
-        "summary": "Hospital solicita personas interesadas en convertirse en \"Protectores Estrella\" para acompañar menores en tratamiento.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98867/Llaman-a-convertirse-en-%E2%80%9CProtector-Estrella%E2%80%9D-para-ayudar-a-menores-durante-su-tratamiento",
-        "_added_at": "2026-09-02T00:10:56.912847-07:00"
+        "url": "https://www.elmexicano.com.mx/Noticia/Mexicali/98912/Residentes-de-residencial-se-manifiestan-en-el-ayuntamiento-de-Mexicali",
+        "_added_at": "2026-09-03T00:15:48.006808-07:00"
       }
     ]
   },
-  "last_updated": "2026-09-02T16:56:35.262998-07:00"
+  "last_updated": "2026-09-03T00:15:48.006808-07:00"
 }
