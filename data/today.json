@@ -1,8 +1,36 @@
 {
   "date": "2026-09-03",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Detienen presunto líder criminal vinculado con Los Rusos",
+        "summary": "Autoridades capturan a \"El Amarillo\", presunto jefe de célula delictiva con conexiones en la región.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/detienen-en-puebla-a-el-amarillo-presunto-lider-de-celula-vinculada-con-los-rusos/?utm_source=rss&utm_medium=rss&utm_campaign=detienen-en-puebla-a-el-amarillo-presunto-lider-de-celula-vinculada-con-los-rusos",
+        "_added_at": "2026-09-03T12:13:05.244456-07:00"
+      },
+      {
+        "title": "Hallan cadáver en cajuela de vehículo en Tijuana",
+        "summary": "Descubren persona sin vida dentro de auto abandonado en la zona de Ciudad Jardín.",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/hallan-persona-sin-vida-dentro-de-la-cajuela-de-un-vehiculo-en-ciudad-jardin/",
+        "_added_at": "2026-09-03T12:13:05.244456-07:00"
+      },
+      {
+        "title": "Asesinato en botanero de la colonia Libertad",
+        "summary": "Hombre muere en establecimiento tras acto violento en zona de Tijuana.",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/asesinan-a-hombre-dentro-de-botanero-en-la-colonia-libertad/",
+        "_added_at": "2026-09-03T12:13:05.244456-07:00"
+      },
+      {
+        "title": "Incendio en Central de Abastos daña dos bodegas",
+        "summary": "Fuego afecta establecimientos comerciales en la central de distribución tijuanense.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/policiaca/2026/09/03/incendio-en-central-de-abastos-de-tijuana-deja-dos-bodegas-con-danos-totales/",
+        "_added_at": "2026-09-03T12:13:05.244456-07:00"
+      },
       {
         "title": "Cuatro hombres reciben disparos en Ensenada",
         "summary": "Incidente violento deja a cuatro víctimas con heridas de bala en la ciudad costera de Ensenada.",
@@ -27,6 +55,20 @@
     ],
     "politica": [
       {
+        "title": "Cámara Empresarial exige cumplimiento de compromisos gubernamentales",
+        "summary": "CCE estatal demanda acciones en inversión, seguridad y generación de empleo.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181203_pide_el_cce_estatal_atender_compromisos_de_gobierno_en_inversion_seguridad_y_empleo",
+        "_added_at": "2026-09-03T12:13:05.244456-07:00"
+      },
+      {
+        "title": "Regidora Quijada reanuda sesiones presenciales de cabildo",
+        "summary": "Funcionaria retoma participación en sesiones presenciales después de ausencia.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181198_reanuda_regidora_quijada_sesiones_presenciales_de_cabildo",
+        "_added_at": "2026-09-03T12:13:05.244456-07:00"
+      },
+      {
         "title": "Tribunal confirma suspensión de proceso penal contra Ernesto Ruffo",
         "summary": "Decisión judicial ratifica medida suspensiva en caso del exgobernador de Baja California.",
         "source": "AFN Tijuana",
@@ -50,6 +92,27 @@
     ],
     "economia": [
       {
+        "title": "Transportistas bloquean aduana por retiro masivo de visas",
+        "summary": "Traileros cierran garitas en Mexicali y San Luis Río Colorado en protesta por anulación de documentos.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/transportistas-bloquean-aduana-de-mexicali-por-retiro-masivo-de-visas-en-eu/?utm_source=rss&utm_medium=rss&utm_campaign=transportistas-bloquean-aduana-de-mexicali-por-retiro-masivo-de-visas-en-eu",
+        "_added_at": "2026-09-03T12:13:05.244456-07:00"
+      },
+      {
+        "title": "Más de 25 mil visas retiradas a operadores de tráiler",
+        "summary": "Cifra estimada de autorizaciones canceladas genera crisis en sector transporte fronterizo.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181204_estiman_que_se_han_retirado_mas_de_25_mil_visas_a_operadores_de_trailer",
+        "_added_at": "2026-09-03T12:13:05.244456-07:00"
+      },
+      {
+        "title": "Planta desalinizadora de Ensenada suspende operaciones",
+        "summary": "Mantenimiento deja sin servicio a más de 50 colonias por período indefinido.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/planta-desalinizadora-en-ensenada-suspendera-operaciones-por-mantenimiento-mas-de-50-colonias-afectadas/?utm_source=rss&utm_medium=rss&utm_campaign=planta-desalinizadora-en-ensenada-suspendera-operaciones-por-mantenimiento-mas-de-50-colonias-afectadas",
+        "_added_at": "2026-09-03T12:13:05.244456-07:00"
+      },
+      {
         "title": "Nómina y asesorías superaron inversión directa en diez años",
         "summary": "Análisis de OBSERBC revela desequilibrio presupuestal en gobierno estatal.",
         "source": "AFN Tijuana",
@@ -58,6 +121,34 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Uber Mujeres inicia operaciones en Tijuana",
+        "summary": "Servicio permite a usuarias elegir conductoras y programar viajes con anticipación.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/03/uber-mujeres-llega-a-tijuana-usuarias-podran-elegir-conductora-y-programar-viajes/",
+        "_added_at": "2026-09-03T12:13:05.244456-07:00"
+      },
+      {
+        "title": "Inauguran puente peatonal Margarito Saldaña rehabilitado",
+        "summary": "Estructura peatonal en Tijuana abre al público tras obras de remodelación.",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/inauguran-rehabilitacion-del-puente-peatonal-margarito-saldana/",
+        "_added_at": "2026-09-03T12:13:05.244456-07:00"
+      },
+      {
+        "title": "Hospital General de Ensenada enfrenta falta de insumos",
+        "summary": "Carencia de materiales obliga suspensión de toma de muestras en centro hospitalario.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/ensenada/2026/09/03/falta-de-insumos-afecta-al-hospital-general-de-ensenada-suspenden-toma-de-muestras/",
+        "_added_at": "2026-09-03T12:13:05.244456-07:00"
+      },
+      {
+        "title": "Incendio en vivienda de Mexicali mata tres perros",
+        "summary": "Fuego en casa consume animales; rescatan a un ejemplar con vida.",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/mueren-tres-perros-en-incendio-de-vivienda-en-mexicali-rescatan-a-uno/",
+        "_added_at": "2026-09-03T12:13:05.244456-07:00"
+      },
       {
         "title": "Inauguran puente peatonal Margarito Saldaña en Tijuana",
         "summary": "Nuevo acceso peatonal mejora conectividad en zona de la ciudad.",
@@ -81,5 +172,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-03T00:15:48.006808-07:00"
+  "last_updated": "2026-09-03T12:13:05.244456-07:00"
 }
