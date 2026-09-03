@@ -1,8 +1,29 @@
 {
   "date": "2026-09-03",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Muerte violenta hallada en canal de riego en Mexicali",
+        "summary": "Localizaron cadáver con signos de violencia en canal de riego de Mexicali.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/localizan-a-hombre-sin-vida-y-con-huellas-de-violencia-en-canal-de-riego-en-mexicali/?utm_source=rss&utm_medium=rss&utm_campaign=localizan-a-hombre-sin-vida-y-con-huellas-de-violencia-en-canal-de-riego-en-mexicali",
+        "_added_at": "2026-09-03T16:52:55.039335-07:00"
+      },
+      {
+        "title": "Detectan rickettsiosis en Ensenada: 32 casos, 14 muertes",
+        "summary": "Brote de rickettsiosis en Ensenada registra 32 contagios y 14 decesos en 2026.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/ensenada/2026/09/03/ensenada-registra-32-casos-de-rickettsiosis-y-14-defunciones-en-2026/",
+        "_added_at": "2026-09-03T16:52:55.039335-07:00"
+      },
+      {
+        "title": "Oficial de policía fue levantado y liberado el fin de semana",
+        "summary": "Cota Muñoz evita comentar sobre oficial secuestrado y posteriormente liberado.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181221_evita_cota_munoz_expresarse_sobre_oficial_levantado_y_liberado_el_fin_de_semana",
+        "_added_at": "2026-09-03T16:52:55.039335-07:00"
+      },
       {
         "title": "Detienen presunto líder criminal vinculado con Los Rusos",
         "summary": "Autoridades capturan a \"El Amarillo\", presunto jefe de célula delictiva con conexiones en la región.",
@@ -55,6 +76,20 @@
     ],
     "politica": [
       {
+        "title": "PRI denuncia favoritismo del IEEBC hacia Morena",
+        "summary": "Partido Revolucionario Institucional acusa a instituto electoral de parcialidad.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181220_favorece_el_ieebc_a_morena_denuncia_el_pri",
+        "_added_at": "2026-09-03T16:52:55.039335-07:00"
+      },
+      {
+        "title": "Alianza PAN-PRI en BC responde a decisiones nacionales",
+        "summary": "Vázquez Hernández confirma que coalición estatal refleja acuerdos de dirigencias nacionales.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/98969/Alianza-PAN-y-PRI-en-BC-corresponde-a-dirigencias-nacionales%3A-V%C3%A1zquez-Hern%C3%A1ndez",
+        "_added_at": "2026-09-03T16:52:55.039335-07:00"
+      },
+      {
         "title": "Cámara Empresarial exige cumplimiento de compromisos gubernamentales",
         "summary": "CCE estatal demanda acciones en inversión, seguridad y generación de empleo.",
         "source": "AFN Tijuana",
@@ -92,6 +127,34 @@
     ],
     "economia": [
       {
+        "title": "Rentas en Tijuana caen por menor demanda de vivienda",
+        "summary": "Precios de renta disminuyeron en algunas zonas; algunos departamentos bajaron 200 dólares.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/03/rentas-bajan-en-algunas-zonas-de-tijuana-ante-menor-demanda/",
+        "_added_at": "2026-09-03T16:52:55.039335-07:00"
+      },
+      {
+        "title": "Revocación de visas por cabotaje afecta transporte fronterizo",
+        "summary": "Canacar reporta hasta 25 mil visas revocadas; solicita homologar criterios con EE.UU.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/hasta-25-mil-visas-revocadas-por-cabotaje-canacar-pide-homologar-criterios-en-ee-uu/?utm_source=rss&utm_medium=rss&utm_campaign=hasta-25-mil-visas-revocadas-por-cabotaje-canacar-pide-homologar-criterios-en-ee-uu",
+        "_added_at": "2026-09-03T16:52:55.039335-07:00"
+      },
+      {
+        "title": "Faz destaca importancia del reuso de aguas residuales",
+        "summary": "Autoridades enfatizan reutilización de agua como solución a crisis hídrica en Tijuana.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181214_destaca_salomon_faz_importancia_del_reuso_de_aguas_residuales",
+        "_added_at": "2026-09-03T16:52:55.039335-07:00"
+      },
+      {
+        "title": "Choferes protestan en garita de Mexicali, amenazan expansión",
+        "summary": "Transportistas bloquean cruce fronterizo en Mexicali; advierten extender movilización.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/98940/Choferes-bloquean-garita-de-Mexicali-y-amenazan-con-extender-protesta",
+        "_added_at": "2026-09-03T16:52:55.039335-07:00"
+      },
+      {
         "title": "Transportistas bloquean aduana por retiro masivo de visas",
         "summary": "Traileros cierran garitas en Mexicali y San Luis Río Colorado en protesta por anulación de documentos.",
         "source": "ZETA Tijuana",
@@ -121,6 +184,27 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Lluvia y vientos dañan 51 escuelas; 6 sin clases por apagones",
+        "summary": "Temporal afectó infraestructura escolar; seis planteles cerraron por falta de electricidad.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181219_lluvia_y_vientos_danaron_51_escuelas_en_seis_no_hay_clases_por_falta_de_luz",
+        "_added_at": "2026-09-03T16:52:55.039335-07:00"
+      },
+      {
+        "title": "Rickettsiosis mata a 53 en BC; 56 por altas temperaturas",
+        "summary": "Estado suma 53 fallecidos por rickettsiosis y 56 por golpe de calor en 2026.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181215_suman_56_muertes_por_altas_temperaturas_y_53_por_rickettsia_en_bc",
+        "_added_at": "2026-09-03T16:52:55.039335-07:00"
+      },
+      {
+        "title": "Incendio en basurero clandestino en Cañón de las Carretas",
+        "summary": "Nuevamente se quema depósito ilegal de residuos; humo visible desde kilómetros.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98967/Nuevamente-arde-basurero-clandestino-en-el-Ca%C3%B1%C3%B3n-de-las-Carretas",
+        "_added_at": "2026-09-03T16:52:55.039335-07:00"
+      },
       {
         "title": "Uber Mujeres inicia operaciones en Tijuana",
         "summary": "Servicio permite a usuarias elegir conductoras y programar viajes con anticipación.",
@@ -172,5 +256,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-03T12:13:05.244456-07:00"
+  "last_updated": "2026-09-03T16:52:55.039335-07:00"
 }
