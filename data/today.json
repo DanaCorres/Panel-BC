@@ -1,8 +1,36 @@
 {
   "date": "2026-09-04",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Diputado federal de Morena asesinado en Tijuana",
+        "summary": "Zenyazen Escobar, diputado federal, fue encontrado muerto. Autoridades investigan el crimen ocurrido en la entidad.",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/asesinan-a-diputado-federal-de-morena-zenyazen-escobar/",
+        "_added_at": "2026-09-04T11:55:26.185697-07:00"
+      },
+      {
+        "title": "Interno muere por golpes en clínica de Tijuana",
+        "summary": "Paciente de Clínica Jireh fue asesinado por estrangulamiento y golpes. Dos personas vinculadas al homicidio.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/golpes-y-estrangulamiento-mataron-a-interno-de-clinica-jireh-vinculan-a-dos-por-homicidio/",
+        "_added_at": "2026-09-04T11:55:26.185697-07:00"
+      },
+      {
+        "title": "Accidente con volcadura en El Pípila causa tres lesionados",
+        "summary": "Choque entre vehículos provoca volcadura en El Pípila, Mexicali. Tres personas resultaron lesionadas.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/99007/Fuerte-accidente-deja-tres-personas-lesionadas-tras-choque-y-volcadura-en-El-P%C3%ADpila",
+        "_added_at": "2026-09-04T11:55:26.185697-07:00"
+      },
+      {
+        "title": "Ataque con explosivos registra 24 atentados en administración",
+        "summary": "Ataque con 200 kilos de explosivos en Ojo Caliente se suma a 23 atentados previos. García Harfuch reporta cifras.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/garcia-harfuch-revela-que-el-ataque-en-ojo-caliente-con-200-kilos-de-explosivos-se-suma-a-23-atentados-en-la-administracion/",
+        "_added_at": "2026-09-04T11:55:26.185697-07:00"
+      },
       {
         "title": "Tecate registra segundo lugar en homicidios de BC",
         "summary": "Tecate ocupa la segunda posición en índices de homicidios dentro del estado de Baja California.",
@@ -34,6 +62,34 @@
     ],
     "politica": [
       {
+        "title": "Maestros protestan por asignación de plazas en Tijuana",
+        "summary": "Docentes del SETE reclaman ante palacio municipal sobre proceso de asignación de plazas laborales.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181250_protestan_maestros_del_sete_en_palacio_municipal_por_asignacion_de_plazas",
+        "_added_at": "2026-09-04T11:55:26.185697-07:00"
+      },
+      {
+        "title": "Libera gobierno pago a 400 maestros interinos tras protestas",
+        "summary": "Tras movilizaciones de CNTE, autoridades liberan recursos para docentes interinos en Tijuana.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181249_liberan_pago_para_400_maestros_interinos_tras_protestas_de_la_cnte",
+        "_added_at": "2026-09-04T11:55:26.185697-07:00"
+      },
+      {
+        "title": "Transportistas pierden visas; Mexicali concentra 60 por ciento",
+        "summary": "Retiro de visas a transportistas afecta principalmente a ciudadanos de Mexicali en Baja California.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/04/retiro-de-visas-a-transportistas-mexicali-concentra-60-de-casos-en-baja-california/",
+        "_added_at": "2026-09-04T11:55:26.185697-07:00"
+      },
+      {
+        "title": "Cónsules visitan a traileros que bloquean la garita",
+        "summary": "Autoridades consulares se reúnen con transportistas en disputa sobre bloqueo de paso fronterizo.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181248_visitan_consules_de_mexico_a_traileros_que_bloquean_la_garita",
+        "_added_at": "2026-09-04T11:55:26.185697-07:00"
+      },
+      {
         "title": "Complicaciones en candidaturas de Baja California",
         "summary": "Las corcholatas o precandidatos enfrentan complicaciones en sus procesos para las próximas elecciones.",
         "source": "AFN Tijuana",
@@ -50,6 +106,27 @@
     ],
     "economia": [
       {
+        "title": "CFE instala módulo de atención en ayuntamiento de Tijuana",
+        "summary": "Comisión Federal de Electricidad abre oficina en palacio municipal para mejor servicio a usuarios.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181251_instalaran_modulo_de_atencion_a_usuarios_de_la_cfe_en_el_ayuntamiento",
+        "_added_at": "2026-09-04T11:55:26.185697-07:00"
+      },
+      {
+        "title": "Viaducto de Tijuana tendría nuevos accesos para desahogar tráfico",
+        "summary": "Colegio de Ingenieros propone tres puntos adicionales de entrada y salida en viaducto elevado.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/04/viaducto-elevado-de-tijuana-podria-tener-al-menos-tres-accesos-adicionales/",
+        "_added_at": "2026-09-04T11:55:26.185697-07:00"
+      },
+      {
+        "title": "Call center ofrece sueldos de hasta diez mil dólares semanales",
+        "summary": "Empresa de telecomunicaciones en Tijuana anuncia vacantes con salarios competitivos para nuevo año.",
+        "source": "Yo Amo Tijuana",
+        "url": "https://amotijuana.com/call-center-en-tijuana-arranca-el-ano-con-sueldos-de-hasta-10000-semanales/",
+        "_added_at": "2026-09-04T11:55:26.185697-07:00"
+      },
+      {
         "title": "Cumbre Industrial abre oportunidades para proveedores",
         "summary": "Evento en Tijuana genera conexiones y negocios para empresas locales de la región.",
         "source": "El Mexicano",
@@ -64,7 +141,29 @@
         "_added_at": "2026-09-04T00:18:33.256639-07:00"
       }
     ],
-    "sociedad": []
+    "sociedad": [
+      {
+        "title": "Promocionan terrenos sin enganche cerca de Valle de Guadalupe",
+        "summary": "Desarrolladora lanza oferta de propiedades en Rosarito con apartado mínimo de 500 dólares.",
+        "source": "Yo Amo Tijuana",
+        "url": "https://amotijuana.com/lanzan-terrenos-sin-enganche-y-con-apartado-de-500-dolares-cerca-de-valle-de-guadalupe/",
+        "_added_at": "2026-09-04T11:55:26.185697-07:00"
+      },
+      {
+        "title": "Impulsan uso de bioplásticos para sustituir plástico convencional",
+        "summary": "Iniciativa en Mexicali promueve alternativas ecológicas para reducir contaminación por plásticos.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/99008/Fomentan-uso-de-Biopl%C3%A1sticos-frente-al-reto-de-sustituir-al-pl%C3%A1stico",
+        "_added_at": "2026-09-04T11:55:26.185697-07:00"
+      },
+      {
+        "title": "Trabajadores piden basificación y mejora salarial en Tijuana",
+        "summary": "Personal del sistema educativo municipal reclama contratación permanente y aumento de remuneración.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/04/trabajadores-del-sistema-educativo-municipal-de-tijuana-piden-basificacion/",
+        "_added_at": "2026-09-04T11:55:26.185697-07:00"
+      }
+    ]
   },
-  "last_updated": "2026-09-04T00:18:33.256639-07:00"
+  "last_updated": "2026-09-04T11:55:26.185697-07:00"
 }
