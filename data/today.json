@@ -1,8 +1,36 @@
 {
   "date": "2026-09-04",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Homicidio en Playas de Tijuana",
+        "summary": "Joven muere en ataque armado en zona de playa tijuanense.",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/ataque-armado-deja-a-un-joven-sin-vida-en-playas-de-tijuana/",
+        "_added_at": "2026-09-04T16:51:14.030349-07:00"
+      },
+      {
+        "title": "Cuatro mil visas retiradas a transportistas BC",
+        "summary": "Consulado estadounidense revoca visas a conductores de Baja California por incumplimientos.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/suman-4-mil-visas-retiradas-a-transportistas-de-baja-california/?utm_source=rss&utm_medium=rss&utm_campaign=suman-4-mil-visas-retiradas-a-transportistas-de-baja-california",
+        "_added_at": "2026-09-04T16:51:14.030349-07:00"
+      },
+      {
+        "title": "Fraudes bancarios se multiplican en Baja California",
+        "summary": "Aumento de estafas financieras afecta a ciudadanos del estado.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/99018/Se-multiplican-fraudes-bancarios-en-Baja-California%3A-Abogado",
+        "_added_at": "2026-09-04T16:51:14.030349-07:00"
+      },
+      {
+        "title": "Diecisiete colonias en riesgo por lluvia en Tecate",
+        "summary": "Zonas vulnerables enfrentan amenaza de inundaciones por precipitaciones.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181261_hay_17_colonias_en_zonas_de_riesgo_por_lluvias_en_tecate",
+        "_added_at": "2026-09-04T16:51:14.030349-07:00"
+      },
       {
         "title": "Diputado federal de Morena asesinado en Tijuana",
         "summary": "Zenyazen Escobar, diputado federal, fue encontrado muerto. Autoridades investigan el crimen ocurrido en la entidad.",
@@ -44,23 +72,30 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/seguridad/181227_volco_vehiculo_y_cayo_15_metros_hacia_una_privada_en_canadas_del_florido",
         "_added_at": "2026-09-04T00:18:33.256639-07:00"
-      },
-      {
-        "title": "Incendio destruye domicilio en Cañón Rubén Amaya",
-        "summary": "Un fuerte incendio consumió una vivienda en el Cañón Rubén Amaya dejando pérdidas totales.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/98984/Fuerte-incendio-consume-domicilio-en-el-Ca%C3%B1%C3%B3n-Rub%C3%A9n-Amaya",
-        "_added_at": "2026-09-04T00:18:33.256639-07:00"
-      },
-      {
-        "title": "Empresarios demandan mayor seguridad en Zona Este",
-        "summary": "Emprendedores solicitan refuerzo en seguridad e infraestructura de servicios en la región.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181225_piden_emprendedores_mayor_seguridad_y_servicios_en_la_zona_este",
-        "_added_at": "2026-09-04T00:18:33.256639-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "García Franco rechaza registro en el PAN",
+        "summary": "Político declara no inscribirse en partido blanquiazul.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/nadie-me-cilindrea-no-me-registre-en-el-pan-mario-garcia-franco/?utm_source=rss&utm_medium=rss&utm_campaign=nadie-me-cilindrea-no-me-registre-en-el-pan-mario-garcia-franco",
+        "_added_at": "2026-09-04T16:51:14.030349-07:00"
+      },
+      {
+        "title": "PAN exige retirada de propaganda a Julieta Ramírez",
+        "summary": "Partido blanco ordena remoción de material electoral en vía pública antes del martes.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/julieta-ramirez-tiene-hasta-el-martes-para-retirar-propaganda-de-la-via-publica-en-bc-pan/?utm_source=rss&utm_medium=rss&utm_campaign=julieta-ramirez-tiene-hasta-el-martes-para-retirar-propaganda-de-la-via-publica-en-bc-pan",
+        "_added_at": "2026-09-04T16:51:14.030349-07:00"
+      },
+      {
+        "title": "Campaña de doble nacionalidad para menores",
+        "summary": "Tijuana activa programa para facilitar nacionalidad dual a infantes.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/04/activan-en-tijuana-campana-para-facilitar-doble-nacionalidad-a-menores/",
+        "_added_at": "2026-09-04T16:51:14.030349-07:00"
+      },
       {
         "title": "Maestros protestan por asignación de plazas en Tijuana",
         "summary": "Docentes del SETE reclaman ante palacio municipal sobre proceso de asignación de plazas laborales.",
@@ -106,6 +141,27 @@
     ],
     "economia": [
       {
+        "title": "Terrenos sin enganche cerca de Valle de Guadalupe",
+        "summary": "Promoción inmobiliaria ofrece terrenos con apartado mínimo en zona de Rosarito.",
+        "source": "Yo Amo Tijuana",
+        "url": "https://amotijuana.com/lanzan-terrenos-sin-enganche-y-con-apartado-de-500-dolares-cerca-de-valle-de-guadalupe/",
+        "_added_at": "2026-09-04T16:51:14.030349-07:00"
+      },
+      {
+        "title": "SAT multa por no activar Buzón Tributario",
+        "summary": "Autoridad fiscal sanciona contribuyentes que no activen sistema obligatorio.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/dinero/2026/09/04/el-sat-sanciona-con-multas-de-hasta-11540-pesos-a-contribuyentes-con-actividad-economica-que-no-activen-o-revisen-su-buzon-tributario/",
+        "_added_at": "2026-09-04T16:51:14.030349-07:00"
+      },
+      {
+        "title": "Corrupción afecta al cuarenta y siete por ciento de Coparmex",
+        "summary": "Encuesta revela que casi mitad de socios sufrieron actos corruptos en año.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181263_el_47_de_socios_de_coparmex_fueron_victimas_de_corrupcion_en_un_ano",
+        "_added_at": "2026-09-04T16:51:14.030349-07:00"
+      },
+      {
         "title": "CFE instala módulo de atención en ayuntamiento de Tijuana",
         "summary": "Comisión Federal de Electricidad abre oficina en palacio municipal para mejor servicio a usuarios.",
         "source": "AFN Tijuana",
@@ -143,6 +199,34 @@
     ],
     "sociedad": [
       {
+        "title": "Baja California registra cincuenta y seis muertes por calor",
+        "summary": "Estado suma decesos relacionados con altas temperaturas durante verano.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/baja-california-registra-56-muertes-relacionadas-con-las-altas-temperaturas-durante-el-verano/?utm_source=rss&utm_medium=rss&utm_campaign=baja-california-registra-56-muertes-relacionadas-con-las-altas-temperaturas-durante-el-verano",
+        "_added_at": "2026-09-04T16:51:14.030349-07:00"
+      },
+      {
+        "title": "Clínica del Chiquilín cierra operaciones",
+        "summary": "Centro de salud cesa labores; solicitan resguardo de pertenencias.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181266_cerraran_la_clinica_del_chiquilin_pide_que_no_saquen_a_los_tazos_dorados",
+        "_added_at": "2026-09-04T16:51:14.030349-07:00"
+      },
+      {
+        "title": "Setenta y cuatro perros necesitan agua e higiene",
+        "summary": "Refugio solicita ayuda urgente para hidratar y asear animales.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/04/urge-agua-para-hidratar-a-74-perros-y-banarlos/",
+        "_added_at": "2026-09-04T16:51:14.030349-07:00"
+      },
+      {
+        "title": "Simulacro de sismo siete punto uno en Mexicali",
+        "summary": "Autoridades realizarán ejercicio de evacuación el diecinueve de septiembre.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181265_haran_simulacro_de_sismo_de_7_1_grados_en_mexicali_el_dia_19",
+        "_added_at": "2026-09-04T16:51:14.030349-07:00"
+      },
+      {
         "title": "Promocionan terrenos sin enganche cerca de Valle de Guadalupe",
         "summary": "Desarrolladora lanza oferta de propiedades en Rosarito con apartado mínimo de 500 dólares.",
         "source": "Yo Amo Tijuana",
@@ -165,5 +249,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-04T11:55:26.185697-07:00"
+  "last_updated": "2026-09-04T16:51:14.030349-07:00"
 }
