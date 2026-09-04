@@ -1,260 +1,70 @@
 {
-  "date": "2026-09-03",
-  "run_count": 3,
+  "date": "2026-09-04",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Muerte violenta hallada en canal de riego en Mexicali",
-        "summary": "Localizaron cadáver con signos de violencia en canal de riego de Mexicali.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/localizan-a-hombre-sin-vida-y-con-huellas-de-violencia-en-canal-de-riego-en-mexicali/?utm_source=rss&utm_medium=rss&utm_campaign=localizan-a-hombre-sin-vida-y-con-huellas-de-violencia-en-canal-de-riego-en-mexicali",
-        "_added_at": "2026-09-03T16:52:55.039335-07:00"
-      },
-      {
-        "title": "Detectan rickettsiosis en Ensenada: 32 casos, 14 muertes",
-        "summary": "Brote de rickettsiosis en Ensenada registra 32 contagios y 14 decesos en 2026.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/ensenada/2026/09/03/ensenada-registra-32-casos-de-rickettsiosis-y-14-defunciones-en-2026/",
-        "_added_at": "2026-09-03T16:52:55.039335-07:00"
-      },
-      {
-        "title": "Oficial de policía fue levantado y liberado el fin de semana",
-        "summary": "Cota Muñoz evita comentar sobre oficial secuestrado y posteriormente liberado.",
+        "title": "Tecate registra segundo lugar en homicidios de BC",
+        "summary": "Tecate ocupa la segunda posición en índices de homicidios dentro del estado de Baja California.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181221_evita_cota_munoz_expresarse_sobre_oficial_levantado_y_liberado_el_fin_de_semana",
-        "_added_at": "2026-09-03T16:52:55.039335-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/181224_ocupa_tecate_segundo_lugar_en_homicidios_en_bc",
+        "_added_at": "2026-09-04T00:18:33.256639-07:00"
       },
       {
-        "title": "Detienen presunto líder criminal vinculado con Los Rusos",
-        "summary": "Autoridades capturan a \"El Amarillo\", presunto jefe de célula delictiva con conexiones en la región.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/detienen-en-puebla-a-el-amarillo-presunto-lider-de-celula-vinculada-con-los-rusos/?utm_source=rss&utm_medium=rss&utm_campaign=detienen-en-puebla-a-el-amarillo-presunto-lider-de-celula-vinculada-con-los-rusos",
-        "_added_at": "2026-09-03T12:13:05.244456-07:00"
-      },
-      {
-        "title": "Hallan cadáver en cajuela de vehículo en Tijuana",
-        "summary": "Descubren persona sin vida dentro de auto abandonado en la zona de Ciudad Jardín.",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/hallan-persona-sin-vida-dentro-de-la-cajuela-de-un-vehiculo-en-ciudad-jardin/",
-        "_added_at": "2026-09-03T12:13:05.244456-07:00"
-      },
-      {
-        "title": "Asesinato en botanero de la colonia Libertad",
-        "summary": "Hombre muere en establecimiento tras acto violento en zona de Tijuana.",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/asesinan-a-hombre-dentro-de-botanero-en-la-colonia-libertad/",
-        "_added_at": "2026-09-03T12:13:05.244456-07:00"
-      },
-      {
-        "title": "Incendio en Central de Abastos daña dos bodegas",
-        "summary": "Fuego afecta establecimientos comerciales en la central de distribución tijuanense.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/policiaca/2026/09/03/incendio-en-central-de-abastos-de-tijuana-deja-dos-bodegas-con-danos-totales/",
-        "_added_at": "2026-09-03T12:13:05.244456-07:00"
-      },
-      {
-        "title": "Cuatro hombres reciben disparos en Ensenada",
-        "summary": "Incidente violento deja a cuatro víctimas con heridas de bala en la ciudad costera de Ensenada.",
+        "title": "Vehículo se desploma 15 metros en Cañadas del Florido",
+        "summary": "Un automóvil volcó y cayó hacia una privada ocasionando un incidente en la zona.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/181179_balean_a_cuatro_hombres_en_ensenada",
-        "_added_at": "2026-09-03T00:15:48.006808-07:00"
+        "url": "https://www.afntijuana.info/seguridad/181227_volco_vehiculo_y_cayo_15_metros_hacia_una_privada_en_canadas_del_florido",
+        "_added_at": "2026-09-04T00:18:33.256639-07:00"
       },
       {
-        "title": "Incendio destruye bodegas en Plaza de Abastos Los Álamos",
-        "summary": "Dos bodegas completamente consumidas por fuego en centro comercial de Tijuana.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/181180_incendio_consumio_dos_bodegas_de_la_plaza_de_abastos_los_alamos",
-        "_added_at": "2026-09-03T00:15:48.006808-07:00"
+        "title": "Incendio destruye domicilio en Cañón Rubén Amaya",
+        "summary": "Un fuerte incendio consumió una vivienda en el Cañón Rubén Amaya dejando pérdidas totales.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/98984/Fuerte-incendio-consume-domicilio-en-el-Ca%C3%B1%C3%B3n-Rub%C3%A9n-Amaya",
+        "_added_at": "2026-09-04T00:18:33.256639-07:00"
       },
       {
-        "title": "Hallan cadáver en vehículo abandonado en Ciudad Jardín",
-        "summary": "Cuerpo en avanzado estado de descomposición descubierto en colonia de Tijuana.",
+        "title": "Empresarios demandan mayor seguridad en Zona Este",
+        "summary": "Emprendedores solicitan refuerzo en seguridad e infraestructura de servicios en la región.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/181175_hallan_cuerpo_putrefacto_en_vehiculo_abandonado_en_la_colonia_ciudad_jardin",
-        "_added_at": "2026-09-03T00:15:48.006808-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/181225_piden_emprendedores_mayor_seguridad_y_servicios_en_la_zona_este",
+        "_added_at": "2026-09-04T00:18:33.256639-07:00"
       }
     ],
     "politica": [
       {
-        "title": "PRI denuncia favoritismo del IEEBC hacia Morena",
-        "summary": "Partido Revolucionario Institucional acusa a instituto electoral de parcialidad.",
+        "title": "Complicaciones en candidaturas de Baja California",
+        "summary": "Las corcholatas o precandidatos enfrentan complicaciones en sus procesos para las próximas elecciones.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181220_favorece_el_ieebc_a_morena_denuncia_el_pri",
-        "_added_at": "2026-09-03T16:52:55.039335-07:00"
+        "url": "https://www.afntijuana.info/afn_politico/181223_se_complican_con_las_corcholatas_de_baja_california",
+        "_added_at": "2026-09-04T00:18:33.256639-07:00"
       },
       {
-        "title": "Alianza PAN-PRI en BC responde a decisiones nacionales",
-        "summary": "Vázquez Hernández confirma que coalición estatal refleja acuerdos de dirigencias nacionales.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Estatal/98969/Alianza-PAN-y-PRI-en-BC-corresponde-a-dirigencias-nacionales%3A-V%C3%A1zquez-Hern%C3%A1ndez",
-        "_added_at": "2026-09-03T16:52:55.039335-07:00"
-      },
-      {
-        "title": "Cámara Empresarial exige cumplimiento de compromisos gubernamentales",
-        "summary": "CCE estatal demanda acciones en inversión, seguridad y generación de empleo.",
+        "title": "Samaniego critica gasto excesivo en alquiler de cine",
+        "summary": "Autoridad cuestiona el monto invertido en el alquiler de la sala de cines Lux.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181203_pide_el_cce_estatal_atender_compromisos_de_gobierno_en_inversion_seguridad_y_empleo",
-        "_added_at": "2026-09-03T12:13:05.244456-07:00"
-      },
-      {
-        "title": "Regidora Quijada reanuda sesiones presenciales de cabildo",
-        "summary": "Funcionaria retoma participación en sesiones presenciales después de ausencia.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181198_reanuda_regidora_quijada_sesiones_presenciales_de_cabildo",
-        "_added_at": "2026-09-03T12:13:05.244456-07:00"
-      },
-      {
-        "title": "Tribunal confirma suspensión de proceso penal contra Ernesto Ruffo",
-        "summary": "Decisión judicial ratifica medida suspensiva en caso del exgobernador de Baja California.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181178_tribunal_ratifica_suspension_del_proceso_penal_contra_ernesto_ruffo",
-        "_added_at": "2026-09-03T00:15:48.006808-07:00"
-      },
-      {
-        "title": "Acusan a Julieta Ramírez de campaña sucia contra Sheinbaum",
-        "summary": "Controversia política en torno a estrategia de campaña de funcionaria estatal.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181182_le_atribuyen_a_julieta_ramirez_guerra_sucia_contra_sheinbaum",
-        "_added_at": "2026-09-03T00:15:48.006808-07:00"
-      },
-      {
-        "title": "Sancionarán a una de las precandidatas de Baja California",
-        "summary": "Medida disciplinaria contra aspirante político del estado.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/afn_politico/181171_sancionaran_a_una_de_las_corcholatas_de_baja_california",
-        "_added_at": "2026-09-03T00:15:48.006808-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/181222_critica_samaniego_gasto_por_alquiler_del_cine_lux",
+        "_added_at": "2026-09-04T00:18:33.256639-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Rentas en Tijuana caen por menor demanda de vivienda",
-        "summary": "Precios de renta disminuyeron en algunas zonas; algunos departamentos bajaron 200 dólares.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/03/rentas-bajan-en-algunas-zonas-de-tijuana-ante-menor-demanda/",
-        "_added_at": "2026-09-03T16:52:55.039335-07:00"
-      },
-      {
-        "title": "Revocación de visas por cabotaje afecta transporte fronterizo",
-        "summary": "Canacar reporta hasta 25 mil visas revocadas; solicita homologar criterios con EE.UU.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/hasta-25-mil-visas-revocadas-por-cabotaje-canacar-pide-homologar-criterios-en-ee-uu/?utm_source=rss&utm_medium=rss&utm_campaign=hasta-25-mil-visas-revocadas-por-cabotaje-canacar-pide-homologar-criterios-en-ee-uu",
-        "_added_at": "2026-09-03T16:52:55.039335-07:00"
-      },
-      {
-        "title": "Faz destaca importancia del reuso de aguas residuales",
-        "summary": "Autoridades enfatizan reutilización de agua como solución a crisis hídrica en Tijuana.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181214_destaca_salomon_faz_importancia_del_reuso_de_aguas_residuales",
-        "_added_at": "2026-09-03T16:52:55.039335-07:00"
-      },
-      {
-        "title": "Choferes protestan en garita de Mexicali, amenazan expansión",
-        "summary": "Transportistas bloquean cruce fronterizo en Mexicali; advierten extender movilización.",
+        "title": "Cumbre Industrial abre oportunidades para proveedores",
+        "summary": "Evento en Tijuana genera conexiones y negocios para empresas locales de la región.",
         "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/98940/Choferes-bloquean-garita-de-Mexicali-y-amenazan-con-extender-protesta",
-        "_added_at": "2026-09-03T16:52:55.039335-07:00"
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98982/Abre-Cumbre-Tijuana-Industrial-oportunidades-para-proveedores-locales",
+        "_added_at": "2026-09-04T00:18:33.256639-07:00"
       },
       {
-        "title": "Transportistas bloquean aduana por retiro masivo de visas",
-        "summary": "Traileros cierran garitas en Mexicali y San Luis Río Colorado en protesta por anulación de documentos.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/transportistas-bloquean-aduana-de-mexicali-por-retiro-masivo-de-visas-en-eu/?utm_source=rss&utm_medium=rss&utm_campaign=transportistas-bloquean-aduana-de-mexicali-por-retiro-masivo-de-visas-en-eu",
-        "_added_at": "2026-09-03T12:13:05.244456-07:00"
-      },
-      {
-        "title": "Más de 25 mil visas retiradas a operadores de tráiler",
-        "summary": "Cifra estimada de autorizaciones canceladas genera crisis en sector transporte fronterizo.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181204_estiman_que_se_han_retirado_mas_de_25_mil_visas_a_operadores_de_trailer",
-        "_added_at": "2026-09-03T12:13:05.244456-07:00"
-      },
-      {
-        "title": "Planta desalinizadora de Ensenada suspende operaciones",
-        "summary": "Mantenimiento deja sin servicio a más de 50 colonias por período indefinido.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/planta-desalinizadora-en-ensenada-suspendera-operaciones-por-mantenimiento-mas-de-50-colonias-afectadas/?utm_source=rss&utm_medium=rss&utm_campaign=planta-desalinizadora-en-ensenada-suspendera-operaciones-por-mantenimiento-mas-de-50-colonias-afectadas",
-        "_added_at": "2026-09-03T12:13:05.244456-07:00"
-      },
-      {
-        "title": "Nómina y asesorías superaron inversión directa en diez años",
-        "summary": "Análisis de OBSERBC revela desequilibrio presupuestal en gobierno estatal.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181172_gasto_en_nomina_y_asesorias_supero_a_la_inversion_directa_en_10_anos_obserbc",
-        "_added_at": "2026-09-03T00:15:48.006808-07:00"
+        "title": "Motociclistas tendrán carril exclusivo fronterizo",
+        "summary": "EUBC habilitará fila dedicada para motos de lunes a viernes en horario específico.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98977/Motociclistas-tendr%C3%A1n-acceso-exclusivo-para-cruzar-a-EU",
+        "_added_at": "2026-09-04T00:18:33.256639-07:00"
       }
     ],
-    "sociedad": [
-      {
-        "title": "Lluvia y vientos dañan 51 escuelas; 6 sin clases por apagones",
-        "summary": "Temporal afectó infraestructura escolar; seis planteles cerraron por falta de electricidad.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181219_lluvia_y_vientos_danaron_51_escuelas_en_seis_no_hay_clases_por_falta_de_luz",
-        "_added_at": "2026-09-03T16:52:55.039335-07:00"
-      },
-      {
-        "title": "Rickettsiosis mata a 53 en BC; 56 por altas temperaturas",
-        "summary": "Estado suma 53 fallecidos por rickettsiosis y 56 por golpe de calor en 2026.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181215_suman_56_muertes_por_altas_temperaturas_y_53_por_rickettsia_en_bc",
-        "_added_at": "2026-09-03T16:52:55.039335-07:00"
-      },
-      {
-        "title": "Incendio en basurero clandestino en Cañón de las Carretas",
-        "summary": "Nuevamente se quema depósito ilegal de residuos; humo visible desde kilómetros.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98967/Nuevamente-arde-basurero-clandestino-en-el-Ca%C3%B1%C3%B3n-de-las-Carretas",
-        "_added_at": "2026-09-03T16:52:55.039335-07:00"
-      },
-      {
-        "title": "Uber Mujeres inicia operaciones en Tijuana",
-        "summary": "Servicio permite a usuarias elegir conductoras y programar viajes con anticipación.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/03/uber-mujeres-llega-a-tijuana-usuarias-podran-elegir-conductora-y-programar-viajes/",
-        "_added_at": "2026-09-03T12:13:05.244456-07:00"
-      },
-      {
-        "title": "Inauguran puente peatonal Margarito Saldaña rehabilitado",
-        "summary": "Estructura peatonal en Tijuana abre al público tras obras de remodelación.",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/inauguran-rehabilitacion-del-puente-peatonal-margarito-saldana/",
-        "_added_at": "2026-09-03T12:13:05.244456-07:00"
-      },
-      {
-        "title": "Hospital General de Ensenada enfrenta falta de insumos",
-        "summary": "Carencia de materiales obliga suspensión de toma de muestras en centro hospitalario.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/ensenada/2026/09/03/falta-de-insumos-afecta-al-hospital-general-de-ensenada-suspenden-toma-de-muestras/",
-        "_added_at": "2026-09-03T12:13:05.244456-07:00"
-      },
-      {
-        "title": "Incendio en vivienda de Mexicali mata tres perros",
-        "summary": "Fuego en casa consume animales; rescatan a un ejemplar con vida.",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/mueren-tres-perros-en-incendio-de-vivienda-en-mexicali-rescatan-a-uno/",
-        "_added_at": "2026-09-03T12:13:05.244456-07:00"
-      },
-      {
-        "title": "Inauguran puente peatonal Margarito Saldaña en Tijuana",
-        "summary": "Nuevo acceso peatonal mejora conectividad en zona de la ciudad.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/municipios/181181_inauguraron_el_puente_peatonal_margarito_saldana",
-        "_added_at": "2026-09-03T00:15:48.006808-07:00"
-      },
-      {
-        "title": "Recolectan cuarenta y cuatro toneladas de basura pesada",
-        "summary": "Operativo ambiental en colonias de tres delegaciones de Tijuana.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/municipios/181183_recolectaron_mas_de_44_toneladas_de_basura_pesada_en_colonias_de_tres_delegaciones",
-        "_added_at": "2026-09-03T00:15:48.006808-07:00"
-      },
-      {
-        "title": "Residentes de complejo habitacional se movilizan en Mexicali",
-        "summary": "Manifestación ante ayuntamiento por conflictos de mantenimiento y derechos de residentes.",
-        "source": "El Mexicano",
-        "url": "https://www.elmexicano.com.mx/Noticia/Mexicali/98912/Residentes-de-residencial-se-manifiestan-en-el-ayuntamiento-de-Mexicali",
-        "_added_at": "2026-09-03T00:15:48.006808-07:00"
-      }
-    ]
+    "sociedad": []
   },
-  "last_updated": "2026-09-03T16:52:55.039335-07:00"
+  "last_updated": "2026-09-04T00:18:33.256639-07:00"
 }
