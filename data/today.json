@@ -1,281 +1,120 @@
 {
-  "date": "2026-09-04",
-  "run_count": 4,
+  "date": "2026-09-05",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Militares refuerzan seguridad en Tijuana",
-        "summary": "Arriban 300 elementos para incrementar presencia de fuerzas del orden en la ciudad.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/04/arriban-300-militares-para-reforzar-seguridad-en-tijuana/",
-        "_added_at": "2026-09-04T23:59:25.537155-07:00"
-      },
-      {
-        "title": "Asesinato en colonia Gas y Anexas",
-        "summary": "Hombre muere por disparo de arma de fuego en la zona norte de Tijuana.",
+        "title": "Motociclista ejecutado a balazos en Costa Azul, Ensenada",
+        "summary": "Ataque armado deja muerte de motociclista en zona de Ensenada durante enfrentamiento violento.",
         "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/a-balazos-asesinan-a-hombre-en-la-colonia-gas-y-anexas/?utm_source=rss&utm_medium=rss&utm_campaign=a-balazos-asesinan-a-hombre-en-la-colonia-gas-y-anexas",
-        "_added_at": "2026-09-04T23:59:25.537155-07:00"
+        "url": "https://zetatijuana.com/2026/09/motociclista-muere-tras-ataque-armado-en-costa-azul-ensenada/?utm_source=rss&utm_medium=rss&utm_campaign=motociclista-muere-tras-ataque-armado-en-costa-azul-ensenada",
+        "_added_at": "2026-09-05T16:41:41.095061-07:00"
       },
       {
-        "title": "Juez libera narcos; uno es asesinado después",
-        "summary": "Prisión preventiva se revierte y liberado sufre ataque letal pocas horas después.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/juez-del-bienestar-libera-narcos-matan-a-uno/?utm_source=rss&utm_medium=rss&utm_campaign=juez-del-bienestar-libera-narcos-matan-a-uno",
-        "_added_at": "2026-09-04T23:59:25.537155-07:00"
-      },
-      {
-        "title": "Homicidio en Playas de Tijuana",
-        "summary": "Joven muere en ataque armado en zona de playa tijuanense.",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/ataque-armado-deja-a-un-joven-sin-vida-en-playas-de-tijuana/",
-        "_added_at": "2026-09-04T16:51:14.030349-07:00"
-      },
-      {
-        "title": "Cuatro mil visas retiradas a transportistas BC",
-        "summary": "Consulado estadounidense revoca visas a conductores de Baja California por incumplimientos.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/suman-4-mil-visas-retiradas-a-transportistas-de-baja-california/?utm_source=rss&utm_medium=rss&utm_campaign=suman-4-mil-visas-retiradas-a-transportistas-de-baja-california",
-        "_added_at": "2026-09-04T16:51:14.030349-07:00"
-      },
-      {
-        "title": "Fraudes bancarios se multiplican en Baja California",
-        "summary": "Aumento de estafas financieras afecta a ciudadanos del estado.",
+        "title": "Peatón muere atropellado en Vía Rápida Poniente",
+        "summary": "Accidente fatal en vía importante de Tijuana causa muerte de peatón en carril central.",
         "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Estatal/99018/Se-multiplican-fraudes-bancarios-en-Baja-California%3A-Abogado",
-        "_added_at": "2026-09-04T16:51:14.030349-07:00"
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/99036/Muere-peat%C3%B3n-tras-ser-atropellado-en-la-V%C3%ADa-R%C3%A1pida-Poniente",
+        "_added_at": "2026-09-05T16:41:41.095061-07:00"
       },
       {
-        "title": "Diecisiete colonias en riesgo por lluvia en Tecate",
-        "summary": "Zonas vulnerables enfrentan amenaza de inundaciones por precipitaciones.",
+        "title": "Cuerpo hallado en vía pública de Lomas del Pedregal",
+        "summary": "Descubren cadáver de hombre abandonado en zona residencial de Tijuana.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181261_hay_17_colonias_en_zonas_de_riesgo_por_lluvias_en_tecate",
-        "_added_at": "2026-09-04T16:51:14.030349-07:00"
+        "url": "https://www.afntijuana.info/seguridad/181303_dejan_el_cuerpo_de_un_hombre_en_plena_via_publica_en_lomas_del_pedregal",
+        "_added_at": "2026-09-05T16:41:41.095061-07:00"
       },
       {
-        "title": "Diputado federal de Morena asesinado en Tijuana",
-        "summary": "Zenyazen Escobar, diputado federal, fue encontrado muerto. Autoridades investigan el crimen ocurrido en la entidad.",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/asesinan-a-diputado-federal-de-morena-zenyazen-escobar/",
-        "_added_at": "2026-09-04T11:55:26.185697-07:00"
-      },
-      {
-        "title": "Interno muere por golpes en clínica de Tijuana",
-        "summary": "Paciente de Clínica Jireh fue asesinado por estrangulamiento y golpes. Dos personas vinculadas al homicidio.",
+        "title": "Tres trabajadores desaparecen en Maneadero",
+        "summary": "Empleados de empresa agrícola Viva Orgánica reportados como desaparecidos en Ensenada.",
         "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/golpes-y-estrangulamiento-mataron-a-interno-de-clinica-jireh-vinculan-a-dos-por-homicidio/",
-        "_added_at": "2026-09-04T11:55:26.185697-07:00"
-      },
-      {
-        "title": "Accidente con volcadura en El Pípila causa tres lesionados",
-        "summary": "Choque entre vehículos provoca volcadura en El Pípila, Mexicali. Tres personas resultaron lesionadas.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/99007/Fuerte-accidente-deja-tres-personas-lesionadas-tras-choque-y-volcadura-en-El-P%C3%ADpila",
-        "_added_at": "2026-09-04T11:55:26.185697-07:00"
+        "url": "https://zetatijuana.com/2026/09/desaparecen-tres-trabajadores-de-la-empresa-viva-organica-en-maneadero/?utm_source=rss&utm_medium=rss&utm_campaign=desaparecen-tres-trabajadores-de-la-empresa-viva-organica-en-maneadero",
+        "_added_at": "2026-09-05T16:41:41.095061-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Gobierno municipal instala Consejo de Nomenclatura",
-        "summary": "Se establece órgano de nomenclatura municipal en Tijuana.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/municipios/181278_instalan_el_consejo_de_nomenclatura_municipal",
-        "_added_at": "2026-09-04T23:59:25.537155-07:00"
-      },
-      {
-        "title": "Nombran a Lorena Sillas directora de Bienestar Social",
-        "summary": "Nueva directora designada para área de bienestar social municipal.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/municipios/181277_nombran_a_lorena_sillas_directora_de_bienestar_social_municipal",
-        "_added_at": "2026-09-04T23:59:25.537155-07:00"
-      },
-      {
-        "title": "Crítica a informe de Sheinbaum desde Tijuana",
-        "summary": "Damián Retes cuestiona realidad del México presentado en informe presidencial.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181276_no_existe_el_mexico_del_que_hablo_sheinbaum_en_su_informe_damian_retes",
-        "_added_at": "2026-09-04T23:59:25.537155-07:00"
-      },
-      {
-        "title": "García Franco rechaza registro en el PAN",
-        "summary": "Político declara no inscribirse en partido blanquiazul.",
+        "title": "García Castro niega actos anticipados de campaña en festejo",
+        "summary": "Candidato organiza evento con miles de asistentes y aclara que no son actividades de precampaña.",
         "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/nadie-me-cilindrea-no-me-registre-en-el-pan-mario-garcia-franco/?utm_source=rss&utm_medium=rss&utm_campaign=nadie-me-cilindrea-no-me-registre-en-el-pan-mario-garcia-franco",
-        "_added_at": "2026-09-04T16:51:14.030349-07:00"
+        "url": "https://zetatijuana.com/2026/09/garcia-castro-festeja-cumpleanos-con-4-mil-invitados-niega-actos-anticipados-de-campana/?utm_source=rss&utm_medium=rss&utm_campaign=garcia-castro-festeja-cumpleanos-con-4-mil-invitados-niega-actos-anticipados-de-campana",
+        "_added_at": "2026-09-05T16:41:41.095061-07:00"
       },
       {
-        "title": "PAN exige retirada de propaganda a Julieta Ramírez",
-        "summary": "Partido blanco ordena remoción de material electoral en vía pública antes del martes.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/julieta-ramirez-tiene-hasta-el-martes-para-retirar-propaganda-de-la-via-publica-en-bc-pan/?utm_source=rss&utm_medium=rss&utm_campaign=julieta-ramirez-tiene-hasta-el-martes-para-retirar-propaganda-de-la-via-publica-en-bc-pan",
-        "_added_at": "2026-09-04T16:51:14.030349-07:00"
-      },
-      {
-        "title": "Campaña de doble nacionalidad para menores",
-        "summary": "Tijuana activa programa para facilitar nacionalidad dual a infantes.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/04/activan-en-tijuana-campana-para-facilitar-doble-nacionalidad-a-menores/",
-        "_added_at": "2026-09-04T16:51:14.030349-07:00"
-      },
-      {
-        "title": "Maestros protestan por asignación de plazas en Tijuana",
-        "summary": "Docentes del SETE reclaman ante palacio municipal sobre proceso de asignación de plazas laborales.",
+        "title": "Diputado cuestiona utilidad de cámaras en Tecate",
+        "summary": "Legislador expresa dudas sobre eficacia de sistemas de vigilancia tras hechos violentos recientes.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181250_protestan_maestros_del_sete_en_palacio_municipal_por_asignacion_de_plazas",
-        "_added_at": "2026-09-04T11:55:26.185697-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/181300_cuestiona_diputado_utilidad_de_las_camaras_de_seguridad_tras_hechos_violentos_en_tecate",
+        "_added_at": "2026-09-05T16:41:41.095061-07:00"
       },
       {
-        "title": "Libera gobierno pago a 400 maestros interinos tras protestas",
-        "summary": "Tras movilizaciones de CNTE, autoridades liberan recursos para docentes interinos en Tijuana.",
+        "title": "CEDHBC da seguimiento a clausura de clínica Jireh",
+        "summary": "Comisión estatal revisa cierre de instalación y traslado de pacientes internados.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181249_liberan_pago_para_400_maestros_interinos_tras_protestas_de_la_cnte",
-        "_added_at": "2026-09-04T11:55:26.185697-07:00"
-      },
-      {
-        "title": "Transportistas pierden visas; Mexicali concentra 60 por ciento",
-        "summary": "Retiro de visas a transportistas afecta principalmente a ciudadanos de Mexicali en Baja California.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/04/retiro-de-visas-a-transportistas-mexicali-concentra-60-de-casos-en-baja-california/",
-        "_added_at": "2026-09-04T11:55:26.185697-07:00"
-      },
-      {
-        "title": "Cónsules visitan a traileros que bloquean la garita",
-        "summary": "Autoridades consulares se reúnen con transportistas en disputa sobre bloqueo de paso fronterizo.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181248_visitan_consules_de_mexico_a_traileros_que_bloquean_la_garita",
-        "_added_at": "2026-09-04T11:55:26.185697-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/181301_cedhbc_da_seguimiento_a_clausura_de_clinica_jireh_y_traslado_de_internos",
+        "_added_at": "2026-09-05T16:41:41.095061-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Terrenos sin enganche cerca de Valle de Guadalupe",
-        "summary": "Promoción inmobiliaria ofrece terrenos con apartado mínimo en zona de Rosarito.",
-        "source": "Yo Amo Tijuana",
-        "url": "https://amotijuana.com/lanzan-terrenos-sin-enganche-y-con-apartado-de-500-dolares-cerca-de-valle-de-guadalupe/",
-        "_added_at": "2026-09-04T16:51:14.030349-07:00"
+        "title": "Transportistas cumplen tercera jornada de bloqueo en Mexicali",
+        "summary": "Protesta por retiro de visas de comercio continúa afectando paso fronterizo.",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/cumplen-tres-dias-de-bloqueo-transportistas-por-retiro-de-visas-b1/",
+        "_added_at": "2026-09-05T16:41:41.095061-07:00"
       },
       {
-        "title": "SAT multa por no activar Buzón Tributario",
-        "summary": "Autoridad fiscal sanciona contribuyentes que no activen sistema obligatorio.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/dinero/2026/09/04/el-sat-sanciona-con-multas-de-hasta-11540-pesos-a-contribuyentes-con-actividad-economica-que-no-activen-o-revisen-su-buzon-tributario/",
-        "_added_at": "2026-09-04T16:51:14.030349-07:00"
+        "title": "Gobierno ofrece alternativas a transportistas por cierre de garita",
+        "summary": "Autoridades estatales buscan soluciones ante paralización del comercio en frontera.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/99035/Brinda-Gobierno-de-Baja-California-alternativa-a-transportistas-ante-cierre-de-garita-comercial-en-Mexicali",
+        "_added_at": "2026-09-05T16:41:41.095061-07:00"
       },
       {
-        "title": "Corrupción afecta al cuarenta y siete por ciento de Coparmex",
-        "summary": "Encuesta revela que casi mitad de socios sufrieron actos corruptos en año.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181263_el_47_de_socios_de_coparmex_fueron_victimas_de_corrupcion_en_un_ano",
-        "_added_at": "2026-09-04T16:51:14.030349-07:00"
-      },
-      {
-        "title": "CFE instala módulo de atención en ayuntamiento de Tijuana",
-        "summary": "Comisión Federal de Electricidad abre oficina en palacio municipal para mejor servicio a usuarios.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181251_instalaran_modulo_de_atencion_a_usuarios_de_la_cfe_en_el_ayuntamiento",
-        "_added_at": "2026-09-04T11:55:26.185697-07:00"
-      },
-      {
-        "title": "Viaducto de Tijuana tendría nuevos accesos para desahogar tráfico",
-        "summary": "Colegio de Ingenieros propone tres puntos adicionales de entrada y salida en viaducto elevado.",
+        "title": "Crisis hídrica amenaza inversión en Tijuana",
+        "summary": "Escasez de agua podría frenar desarrollo inmobiliario y económico de la ciudad.",
         "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/04/viaducto-elevado-de-tijuana-podria-tener-al-menos-tres-accesos-adicionales/",
-        "_added_at": "2026-09-04T11:55:26.185697-07:00"
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/05/crisis-hidrica-podria-frenar-inversion-y-desarrollo-de-tijuana/",
+        "_added_at": "2026-09-05T16:41:41.095061-07:00"
       },
       {
-        "title": "Call center ofrece sueldos de hasta diez mil dólares semanales",
-        "summary": "Empresa de telecomunicaciones en Tijuana anuncia vacantes con salarios competitivos para nuevo año.",
-        "source": "Yo Amo Tijuana",
-        "url": "https://amotijuana.com/call-center-en-tijuana-arranca-el-ano-con-sueldos-de-hasta-10000-semanales/",
-        "_added_at": "2026-09-04T11:55:26.185697-07:00"
-      },
-      {
-        "title": "Cumbre Industrial abre oportunidades para proveedores",
-        "summary": "Evento en Tijuana genera conexiones y negocios para empresas locales de la región.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98982/Abre-Cumbre-Tijuana-Industrial-oportunidades-para-proveedores-locales",
-        "_added_at": "2026-09-04T00:18:33.256639-07:00"
-      },
-      {
-        "title": "Motociclistas tendrán carril exclusivo fronterizo",
-        "summary": "EUBC habilitará fila dedicada para motos de lunes a viernes en horario específico.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/98977/Motociclistas-tendr%C3%A1n-acceso-exclusivo-para-cruzar-a-EU",
-        "_added_at": "2026-09-04T00:18:33.256639-07:00"
+        "title": "Gobierno federal decomisa 3.8 millones de cigarros asiáticos",
+        "summary": "Operación aduanal incauta contrabando procedente de Asia en frontera norte.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/gobierno-federal-decomisa-mas-de-3-8-millones-de-cigarros-provenientes-de-asia/?utm_source=rss&utm_medium=rss&utm_campaign=gobierno-federal-decomisa-mas-de-3-8-millones-de-cigarros-provenientes-de-asia",
+        "_added_at": "2026-09-05T16:41:41.095061-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Protección Civil prepara mesa permanente ante El Niño",
-        "summary": "Instituciones se organizan para responder a posibles efectos del fenómeno climático.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181279_instalan_mesa_permanente_de_proteccion_civil_ante_posibles_efectos_del_fenomeno_de_el_nino",
-        "_added_at": "2026-09-04T23:59:25.537155-07:00"
-      },
-      {
-        "title": "COEPRIS clausura clínica Jireh en Tijuana",
-        "summary": "Establecimiento cerrado por incumplimientos sanitarios graves detectados.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/suspende-coepris-clinica-jireh-en-el-ejido-mariano-matamoros/?utm_source=rss&utm_medium=rss&utm_campaign=suspende-coepris-clinica-jireh-en-el-ejido-mariano-matamoros",
-        "_added_at": "2026-09-04T23:59:25.537155-07:00"
-      },
-      {
-        "title": "Avances en libertad de expresión en Baja California",
-        "summary": "Eva Moreno reporta progresos en materia de derechos de comunicación.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181273_hay_avances_en_materia_de_libertad_de_expresion_afirma_eva_moreno",
-        "_added_at": "2026-09-04T23:59:25.537155-07:00"
-      },
-      {
-        "title": "Baja California registra cincuenta y seis muertes por calor",
-        "summary": "Estado suma decesos relacionados con altas temperaturas durante verano.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/baja-california-registra-56-muertes-relacionadas-con-las-altas-temperaturas-durante-el-verano/?utm_source=rss&utm_medium=rss&utm_campaign=baja-california-registra-56-muertes-relacionadas-con-las-altas-temperaturas-durante-el-verano",
-        "_added_at": "2026-09-04T16:51:14.030349-07:00"
-      },
-      {
-        "title": "Clínica del Chiquilín cierra operaciones",
-        "summary": "Centro de salud cesa labores; solicitan resguardo de pertenencias.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181266_cerraran_la_clinica_del_chiquilin_pide_que_no_saquen_a_los_tazos_dorados",
-        "_added_at": "2026-09-04T16:51:14.030349-07:00"
-      },
-      {
-        "title": "Setenta y cuatro perros necesitan agua e higiene",
-        "summary": "Refugio solicita ayuda urgente para hidratar y asear animales.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/04/urge-agua-para-hidratar-a-74-perros-y-banarlos/",
-        "_added_at": "2026-09-04T16:51:14.030349-07:00"
-      },
-      {
-        "title": "Simulacro de sismo siete punto uno en Mexicali",
-        "summary": "Autoridades realizarán ejercicio de evacuación el diecinueve de septiembre.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181265_haran_simulacro_de_sismo_de_7_1_grados_en_mexicali_el_dia_19",
-        "_added_at": "2026-09-04T16:51:14.030349-07:00"
-      },
-      {
-        "title": "Promocionan terrenos sin enganche cerca de Valle de Guadalupe",
-        "summary": "Desarrolladora lanza oferta de propiedades en Rosarito con apartado mínimo de 500 dólares.",
-        "source": "Yo Amo Tijuana",
-        "url": "https://amotijuana.com/lanzan-terrenos-sin-enganche-y-con-apartado-de-500-dolares-cerca-de-valle-de-guadalupe/",
-        "_added_at": "2026-09-04T11:55:26.185697-07:00"
-      },
-      {
-        "title": "Impulsan uso de bioplásticos para sustituir plástico convencional",
-        "summary": "Iniciativa en Mexicali promueve alternativas ecológicas para reducir contaminación por plásticos.",
+        "title": "Convocatoria de colecta de mochilas en Tijuana",
+        "summary": "Ciudadanos invitados a donar útiles escolares; donantes reciben orden de flautas.",
         "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/99008/Fomentan-uso-de-Biopl%C3%A1sticos-frente-al-reto-de-sustituir-al-pl%C3%A1stico",
-        "_added_at": "2026-09-04T11:55:26.185697-07:00"
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99037/Invitan-a-colecta-de-mochilas-en-Tijuana;-donantes-recibir%C3%A1n-una-orden-de-flautas",
+        "_added_at": "2026-09-05T16:41:41.095061-07:00"
       },
       {
-        "title": "Trabajadores piden basificación y mejora salarial en Tijuana",
-        "summary": "Personal del sistema educativo municipal reclama contratación permanente y aumento de remuneración.",
+        "title": "Solicitan donaciones para niños con cáncer",
+        "summary": "Hospital General de Tijuana requiere apoyo ante desabasto de medicamentos oncológicos.",
         "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/04/trabajadores-del-sistema-educativo-municipal-de-tijuana-piden-basificacion/",
-        "_added_at": "2026-09-04T11:55:26.185697-07:00"
+        "url": "https://www.elimparcial.com/mxl/mexicali/2026/09/05/invitan-a-donar-para-ayudar-a-ninos-con-cancer-y-evitar-que-sean-victimas-de-la-falta-de-medicinas-del-hgt/",
+        "_added_at": "2026-09-05T16:41:41.095061-07:00"
+      },
+      {
+        "title": "Halloween Race 5k celebra 14 aniversario en Ensenada",
+        "summary": "Evento deportivo tradicional se llevará a cabo con participación comunitaria.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/celebraran-14-aniversario-de-carrera-atletica-halloween-race-5k-en-ensenada/?utm_source=rss&utm_medium=rss&utm_campaign=celebraran-14-aniversario-de-carrera-atletica-halloween-race-5k-en-ensenada",
+        "_added_at": "2026-09-05T16:41:41.095061-07:00"
+      },
+      {
+        "title": "Barra de Abogadas celebra 52 años de trayectoria",
+        "summary": "Organización busca impulsar relevo generacional en profesión legal de la entidad.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/05/barra-de-abogadas-celebra-52-anos-y-busca-impulsar-el-relevo-generacional/",
+        "_added_at": "2026-09-05T16:41:41.095061-07:00"
       }
     ]
   },
-  "last_updated": "2026-09-04T23:59:25.537155-07:00"
+  "last_updated": "2026-09-05T16:41:41.095061-07:00"
 }
