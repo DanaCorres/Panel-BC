@@ -1,8 +1,29 @@
 {
   "date": "2026-09-04",
-  "run_count": 3,
+  "run_count": 4,
   "notes": {
     "seguridad": [
+      {
+        "title": "Militares refuerzan seguridad en Tijuana",
+        "summary": "Arriban 300 elementos para incrementar presencia de fuerzas del orden en la ciudad.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/04/arriban-300-militares-para-reforzar-seguridad-en-tijuana/",
+        "_added_at": "2026-09-04T23:59:25.537155-07:00"
+      },
+      {
+        "title": "Asesinato en colonia Gas y Anexas",
+        "summary": "Hombre muere por disparo de arma de fuego en la zona norte de Tijuana.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/a-balazos-asesinan-a-hombre-en-la-colonia-gas-y-anexas/?utm_source=rss&utm_medium=rss&utm_campaign=a-balazos-asesinan-a-hombre-en-la-colonia-gas-y-anexas",
+        "_added_at": "2026-09-04T23:59:25.537155-07:00"
+      },
+      {
+        "title": "Juez libera narcos; uno es asesinado después",
+        "summary": "Prisión preventiva se revierte y liberado sufre ataque letal pocas horas después.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/juez-del-bienestar-libera-narcos-matan-a-uno/?utm_source=rss&utm_medium=rss&utm_campaign=juez-del-bienestar-libera-narcos-matan-a-uno",
+        "_added_at": "2026-09-04T23:59:25.537155-07:00"
+      },
       {
         "title": "Homicidio en Playas de Tijuana",
         "summary": "Joven muere en ataque armado en zona de playa tijuanense.",
@@ -51,30 +72,30 @@
         "source": "El Mexicano",
         "url": "https://el-mexicano.com.mx/Noticia/Policiaca/99007/Fuerte-accidente-deja-tres-personas-lesionadas-tras-choque-y-volcadura-en-El-P%C3%ADpila",
         "_added_at": "2026-09-04T11:55:26.185697-07:00"
-      },
-      {
-        "title": "Ataque con explosivos registra 24 atentados en administración",
-        "summary": "Ataque con 200 kilos de explosivos en Ojo Caliente se suma a 23 atentados previos. García Harfuch reporta cifras.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/garcia-harfuch-revela-que-el-ataque-en-ojo-caliente-con-200-kilos-de-explosivos-se-suma-a-23-atentados-en-la-administracion/",
-        "_added_at": "2026-09-04T11:55:26.185697-07:00"
-      },
-      {
-        "title": "Tecate registra segundo lugar en homicidios de BC",
-        "summary": "Tecate ocupa la segunda posición en índices de homicidios dentro del estado de Baja California.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181224_ocupa_tecate_segundo_lugar_en_homicidios_en_bc",
-        "_added_at": "2026-09-04T00:18:33.256639-07:00"
-      },
-      {
-        "title": "Vehículo se desploma 15 metros en Cañadas del Florido",
-        "summary": "Un automóvil volcó y cayó hacia una privada ocasionando un incidente en la zona.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/181227_volco_vehiculo_y_cayo_15_metros_hacia_una_privada_en_canadas_del_florido",
-        "_added_at": "2026-09-04T00:18:33.256639-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Gobierno municipal instala Consejo de Nomenclatura",
+        "summary": "Se establece órgano de nomenclatura municipal en Tijuana.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/municipios/181278_instalan_el_consejo_de_nomenclatura_municipal",
+        "_added_at": "2026-09-04T23:59:25.537155-07:00"
+      },
+      {
+        "title": "Nombran a Lorena Sillas directora de Bienestar Social",
+        "summary": "Nueva directora designada para área de bienestar social municipal.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/municipios/181277_nombran_a_lorena_sillas_directora_de_bienestar_social_municipal",
+        "_added_at": "2026-09-04T23:59:25.537155-07:00"
+      },
+      {
+        "title": "Crítica a informe de Sheinbaum desde Tijuana",
+        "summary": "Damián Retes cuestiona realidad del México presentado en informe presidencial.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181276_no_existe_el_mexico_del_que_hablo_sheinbaum_en_su_informe_damian_retes",
+        "_added_at": "2026-09-04T23:59:25.537155-07:00"
+      },
       {
         "title": "García Franco rechaza registro en el PAN",
         "summary": "Político declara no inscribirse en partido blanquiazul.",
@@ -123,20 +144,6 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/181248_visitan_consules_de_mexico_a_traileros_que_bloquean_la_garita",
         "_added_at": "2026-09-04T11:55:26.185697-07:00"
-      },
-      {
-        "title": "Complicaciones en candidaturas de Baja California",
-        "summary": "Las corcholatas o precandidatos enfrentan complicaciones en sus procesos para las próximas elecciones.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/afn_politico/181223_se_complican_con_las_corcholatas_de_baja_california",
-        "_added_at": "2026-09-04T00:18:33.256639-07:00"
-      },
-      {
-        "title": "Samaniego critica gasto excesivo en alquiler de cine",
-        "summary": "Autoridad cuestiona el monto invertido en el alquiler de la sala de cines Lux.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181222_critica_samaniego_gasto_por_alquiler_del_cine_lux",
-        "_added_at": "2026-09-04T00:18:33.256639-07:00"
       }
     ],
     "economia": [
@@ -199,6 +206,27 @@
     ],
     "sociedad": [
       {
+        "title": "Protección Civil prepara mesa permanente ante El Niño",
+        "summary": "Instituciones se organizan para responder a posibles efectos del fenómeno climático.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181279_instalan_mesa_permanente_de_proteccion_civil_ante_posibles_efectos_del_fenomeno_de_el_nino",
+        "_added_at": "2026-09-04T23:59:25.537155-07:00"
+      },
+      {
+        "title": "COEPRIS clausura clínica Jireh en Tijuana",
+        "summary": "Establecimiento cerrado por incumplimientos sanitarios graves detectados.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/suspende-coepris-clinica-jireh-en-el-ejido-mariano-matamoros/?utm_source=rss&utm_medium=rss&utm_campaign=suspende-coepris-clinica-jireh-en-el-ejido-mariano-matamoros",
+        "_added_at": "2026-09-04T23:59:25.537155-07:00"
+      },
+      {
+        "title": "Avances en libertad de expresión en Baja California",
+        "summary": "Eva Moreno reporta progresos en materia de derechos de comunicación.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181273_hay_avances_en_materia_de_libertad_de_expresion_afirma_eva_moreno",
+        "_added_at": "2026-09-04T23:59:25.537155-07:00"
+      },
+      {
         "title": "Baja California registra cincuenta y seis muertes por calor",
         "summary": "Estado suma decesos relacionados con altas temperaturas durante verano.",
         "source": "ZETA Tijuana",
@@ -249,5 +277,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-04T16:51:14.030349-07:00"
+  "last_updated": "2026-09-04T23:59:25.537155-07:00"
 }
