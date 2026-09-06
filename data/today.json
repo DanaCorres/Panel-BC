@@ -1,8 +1,22 @@
 {
   "date": "2026-09-06",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Hallan más restos humanos en basurero clandestino de Ensenada",
+        "summary": "Descubren nuevos restos en El Roble, Ensenada, en operativo contra criminalidad organizada.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/localizan-mas-restos-humanos-en-basurero-clandestino-en-el-roble-en-ensenada/?utm_source=rss&utm_medium=rss&utm_campaign=localizan-mas-restos-humanos-en-basurero-clandestino-en-el-roble-en-ensenada",
+        "_added_at": "2026-09-06T16:40:26.632457-07:00"
+      },
+      {
+        "title": "Alertan sobre fraudes telefónicos de instituciones bancarias falsas",
+        "summary": "Autoridades advierten sobre estafas por teléfono suplantando bancos en la región.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181320_alertan_por_fraude_telefonico_de_supuestas_instituciones_bancarias",
+        "_added_at": "2026-09-06T16:40:26.632457-07:00"
+      },
       {
         "title": "Inhabilitan tres laboratorios de metanfetamina en sierra",
         "summary": "Autoridades desmantelaron tres laboratorios clandestinos de droga en zona serrana de Guerrero.",
@@ -48,6 +62,27 @@
     ],
     "politica": [
       {
+        "title": "Transportistas levantan bloqueo en garita de Mexicali tras acuerdo",
+        "summary": "Gobierno estatal negocia con transportistas para desbloquear paso fronterizo comercial.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/transportistas-levantan-bloqueo-en-garita-de-mexicali-tras-acuerdo-con-gobierno-estatal/?utm_source=rss&utm_medium=rss&utm_campaign=transportistas-levantan-bloqueo-en-garita-de-mexicali-tras-acuerdo-con-gobierno-estatal",
+        "_added_at": "2026-09-06T16:40:26.632457-07:00"
+      },
+      {
+        "title": "Sheinbaum busca relación amistosa con administración estadounidense",
+        "summary": "Presidenta aspira a buena relación con EUA basada en primer mandato Trump.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/sheinbaum-pardo-aspira-a-una-buena-relacion-con-eua-como-en-el-primer-mandato-de-trump/?utm_source=rss&utm_medium=rss&utm_campaign=sheinbaum-pardo-aspira-a-una-buena-relacion-con-eua-como-en-el-primer-mandato-de-trump",
+        "_added_at": "2026-09-06T16:40:26.632457-07:00"
+      },
+      {
+        "title": "Sancionan a MORENA por afiliaciones indebidas en Baja California",
+        "summary": "Organismo electoral castiga al partido por prácticas irregulares de registro.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/99072/Sancionan-a-MORENA-por-afiliaciones-indebidas",
+        "_added_at": "2026-09-06T16:40:26.632457-07:00"
+      },
+      {
         "title": "Destaca Burgueño resultados en seguridad para BC",
         "summary": "Funcionario local reporta avances en estrategia de seguridad pública en Baja California.",
         "source": "El Mexicano",
@@ -77,6 +112,27 @@
       }
     ],
     "economia": [
+      {
+        "title": "Maquiladoras ofrecen aumentos de 4 a 6 por ciento para 2027",
+        "summary": "Industria manufactura planea incrementos salariales moderados en Tijuana.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/06/industria-maquiladora-de-tijuana-preve-aumentos-salariales-de-4-a-6-para-2027/",
+        "_added_at": "2026-09-06T16:40:26.632457-07:00"
+      },
+      {
+        "title": "Presentan programa maestro de desarrollo portuario en Punta Colonet",
+        "summary": "Ejidatarios conocen proyecto de infraestructura y logística marítima regional.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181327_presentan_programa_maestro_de_desarrollo_portuario_a_ejidatarios_de_punta_colonet",
+        "_added_at": "2026-09-06T16:40:26.632457-07:00"
+      },
+      {
+        "title": "Tecnología no sustituye mano de obra en construcción: CMIC",
+        "summary": "Cámara de construcción asegura que innovación complementa empleo en sector.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181323_nueva_tecnologia_no_sustituye_a_la_mano_de_obra_en_la_construccion_cmic",
+        "_added_at": "2026-09-06T16:40:26.632457-07:00"
+      },
       {
         "title": "Hacienda sube estímulo fiscal a gasolinas",
         "summary": "Gobierno incrementa subsidio a combustibles para contener alzas de precio.",
@@ -122,6 +178,34 @@
     ],
     "sociedad": [
       {
+        "title": "Rickettsiosis causa 14 muertes en Ensenada; exigen plan",
+        "summary": "Enfermedad transmitida por garrapatas genera demanda de respuesta sanitaria.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/ensenada/2026/09/06/exigen-plan-contra-la-rickettsiosis-en-ensenada-tras-14-defunciones-en-2026/",
+        "_added_at": "2026-09-06T16:40:26.632457-07:00"
+      },
+      {
+        "title": "UABC lleva brigada de salud a colonia de Ensenada",
+        "summary": "Universidad atiende necesidades médicas básicas en zona vulnerable.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181326_uabc_llevo_brigada_de_servicios_de_salud_a_colonia_de_ensenada",
+        "_added_at": "2026-09-06T16:40:26.632457-07:00"
+      },
+      {
+        "title": "Evangelina pide apoyo para mantener 74 perros rescatados",
+        "summary": "Activista busca financiamiento tras siete años de labor de protección animal.",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/siete-anos-rescatando-perros-evangelina-pide-apoyo-para-mantener-a-salvo-a-74-caninos/",
+        "_added_at": "2026-09-06T16:40:26.632457-07:00"
+      },
+      {
+        "title": "Abren convocatoria de becas JOBEC para estudiantes de BC",
+        "summary": "Programa oferece apoyo económico para preparatoria y educación superior.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/06/becas-jobec-abren-registro-para-estudiantes-de-preparatoria-y-universidad-en-bc/",
+        "_added_at": "2026-09-06T16:40:26.632457-07:00"
+      },
+      {
         "title": "Baja 400 genera cierres viales en Ensenada",
         "summary": "Evento deportivo causará restricciones de circulación del 7 al 13 de septiembre.",
         "source": "El Imparcial",
@@ -151,5 +235,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-06T11:10:03.095869-07:00"
+  "last_updated": "2026-09-06T16:40:26.632457-07:00"
 }
