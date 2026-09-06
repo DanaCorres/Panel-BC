@@ -1,8 +1,29 @@
 {
   "date": "2026-09-06",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Inhabilitan tres laboratorios de metanfetamina en sierra",
+        "summary": "Autoridades desmantelaron tres laboratorios clandestinos de droga en zona serrana de Guerrero.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/inhabilitan-tres-laboratorios-de-metanfetamina-en-la-sierra-de-guerrero/?utm_source=rss&utm_medium=rss&utm_campaign=inhabilitan-tres-laboratorios-de-metanfetamina-en-la-sierra-de-guerrero",
+        "_added_at": "2026-09-06T11:10:03.095869-07:00"
+      },
+      {
+        "title": "Amenazan a artistas con narcomanta en Tijuana",
+        "summary": "Narcotraficantes amenazaron a músicos como Natanael Cano mediante mantas intimidatorias.",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/amenazan-a-natanael-cano-y-otros-artistas-con-narcomanta/",
+        "_added_at": "2026-09-06T11:10:03.095869-07:00"
+      },
+      {
+        "title": "Detienen a seis por allanamiento y lesiones",
+        "summary": "Policía capturó a seis personas acusadas de allanamiento de morada y agresiones.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/181318_detienen_a_seis_por_allanamiento_danos_y_lesiones",
+        "_added_at": "2026-09-06T11:10:03.095869-07:00"
+      },
       {
         "title": "Peatón muere atropellado por motociclista en vía rápida",
         "summary": "Accidente fatal en Tijuana donde motociclista atropella a peatón en vía rápida, dejando una persona fallecida.",
@@ -27,6 +48,20 @@
     ],
     "politica": [
       {
+        "title": "Destaca Burgueño resultados en seguridad para BC",
+        "summary": "Funcionario local reporta avances en estrategia de seguridad pública en Baja California.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99050/Destaca-Ismael-Burgue%C3%B1o-resultados-en-seguridad-para-BC",
+        "_added_at": "2026-09-06T11:10:03.095869-07:00"
+      },
+      {
+        "title": "FGJEM presenta 60 pruebas contra detenidos",
+        "summary": "Fiscalía exhibe evidencia contra acusados en caso de multihomicidio.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/mexico/2026/09/06/fiscalia-presenta-mas-de-60-pruebas-contra-detenidos-por-multihomicidio-de-tecladista-de-camilo-septimo-su-familia-y-empleada-jueza-ordena-prision-preventiva/",
+        "_added_at": "2026-09-06T11:10:03.095869-07:00"
+      },
+      {
         "title": "Castro Trenti se declara listo para transformar Baja California",
         "summary": "Candidato Fernando Castro Trenti expresa disposición para liderar cambios en el estado.",
         "source": "TJ Comunica",
@@ -42,6 +77,27 @@
       }
     ],
     "economia": [
+      {
+        "title": "Hacienda sube estímulo fiscal a gasolinas",
+        "summary": "Gobierno incrementa subsidio a combustibles para contener alzas de precio.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/dinero/2026/09/06/hacienda-aumenta-el-estimulo-fiscal-al-ieps-para-las-gasolinas-del-5-al-11-de-septiembre-para-frenar-incrementos-bruscos-en-el-precio-por-litro/",
+        "_added_at": "2026-09-06T11:10:03.095869-07:00"
+      },
+      {
+        "title": "Banco del Bienestar suspende pagos por independencia",
+        "summary": "Institución no realizará depósitos el 16 de septiembre, reanudará el 17.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/dinero/2026/09/06/banco-del-bienestar-confirma-que-no-habra-depositos-este-16-de-septiembre-y-reanudara-la-entrega-de-apoyos-el-jueves-17-para-beneficiarios-con-letras-n-n-y-o/",
+        "_added_at": "2026-09-06T11:10:03.095869-07:00"
+      },
+      {
+        "title": "Choferes denuncian explotación laboral en Estados Unidos",
+        "summary": "Trabajadores mexicanos reportan condiciones precarias en empleos estadounidenses.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/99051/Denuncian-choferes-mexicanos-presunta-explotaci%C3%B3n-laboral-en-EU",
+        "_added_at": "2026-09-06T11:10:03.095869-07:00"
+      },
       {
         "title": "Traileros bloqueados en Mexicali podrán cruzar por Tijuana",
         "summary": "Autoridades permiten ruta alterna por Tijuana para transportistas afectados por bloqueo en Mexicali.",
@@ -66,6 +122,27 @@
     ],
     "sociedad": [
       {
+        "title": "Baja 400 genera cierres viales en Ensenada",
+        "summary": "Evento deportivo causará restricciones de circulación del 7 al 13 de septiembre.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/ensenada/2026/09/06/baja-400-estas-calles-tendran-cierres-viales-en-ensenada-del-7-al-13-de-septiembre/",
+        "_added_at": "2026-09-06T11:10:03.095869-07:00"
+      },
+      {
+        "title": "Lanzan plataforma Omnia para auditorías con agentes",
+        "summary": "Nueva herramienta digital busca modernizar procesos de fiscalización gubernamental.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99052/Lanzan-plataforma-Omnia-para-transformar-auditor%C3%ADas-con-agentes",
+        "_added_at": "2026-09-06T11:10:03.095869-07:00"
+      },
+      {
+        "title": "Jalisco en Tijuana inaugura primera edición",
+        "summary": "Festival cultural llega a avenida Revolución mostrando tradiciones jaliscienses.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99046/Jalisco-en-Tijuana-llega-a-la-avenida-Revoluci%C3%B3n-en-su-primera-edici%C3%B3n",
+        "_added_at": "2026-09-06T11:10:03.095869-07:00"
+      },
+      {
         "title": "Centro de rehabilitación Jireh cierra y traslada 73 pacientes",
         "summary": "Tras suspensión de operaciones, 73 personas en rehabilitación son transferidas a otros centros.",
         "source": "El Mexicano",
@@ -74,5 +151,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-06T00:11:59.751340-07:00"
+  "last_updated": "2026-09-06T11:10:03.095869-07:00"
 }
