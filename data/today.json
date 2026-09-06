@@ -1,120 +1,78 @@
 {
-  "date": "2026-09-05",
+  "date": "2026-09-06",
   "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Motociclista ejecutado a balazos en Costa Azul, Ensenada",
-        "summary": "Ataque armado deja muerte de motociclista en zona de Ensenada durante enfrentamiento violento.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/motociclista-muere-tras-ataque-armado-en-costa-azul-ensenada/?utm_source=rss&utm_medium=rss&utm_campaign=motociclista-muere-tras-ataque-armado-en-costa-azul-ensenada",
-        "_added_at": "2026-09-05T16:41:41.095061-07:00"
-      },
-      {
-        "title": "Peatón muere atropellado en Vía Rápida Poniente",
-        "summary": "Accidente fatal en vía importante de Tijuana causa muerte de peatón en carril central.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/99036/Muere-peat%C3%B3n-tras-ser-atropellado-en-la-V%C3%ADa-R%C3%A1pida-Poniente",
-        "_added_at": "2026-09-05T16:41:41.095061-07:00"
-      },
-      {
-        "title": "Cuerpo hallado en vía pública de Lomas del Pedregal",
-        "summary": "Descubren cadáver de hombre abandonado en zona residencial de Tijuana.",
+        "title": "Peatón muere atropellado por motociclista en vía rápida",
+        "summary": "Accidente fatal en Tijuana donde motociclista atropella a peatón en vía rápida, dejando una persona fallecida.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/181303_dejan_el_cuerpo_de_un_hombre_en_plena_via_publica_en_lomas_del_pedregal",
-        "_added_at": "2026-09-05T16:41:41.095061-07:00"
+        "url": "https://www.afntijuana.info/seguridad/181309_muere_peaton_atropellado_por_motociclista_en_la_via_rapida",
+        "_added_at": "2026-09-06T00:11:59.751340-07:00"
       },
       {
-        "title": "Tres trabajadores desaparecen en Maneadero",
-        "summary": "Empleados de empresa agrícola Viva Orgánica reportados como desaparecidos en Ensenada.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/desaparecen-tres-trabajadores-de-la-empresa-viva-organica-en-maneadero/?utm_source=rss&utm_medium=rss&utm_campaign=desaparecen-tres-trabajadores-de-la-empresa-viva-organica-en-maneadero",
-        "_added_at": "2026-09-05T16:41:41.095061-07:00"
+        "title": "Instalan comités de seguridad ciudadana en Cerro Colorado",
+        "summary": "Autoridades implementan subestrategia de seguridad mediante comités ciudadanos en zona de Cerro Colorado.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181306_instalan_la_subestrategia_comites_ciudadanos_de_seguridad_en_cerro_colorado",
+        "_added_at": "2026-09-06T00:11:59.751340-07:00"
+      },
+      {
+        "title": "Tijuana necesita más policías por baja incorporación",
+        "summary": "Autoridades reportan escasez de efectivos policiales debido a insuficiente reclutamiento en corporaciones.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99042/Urgen-m%C3%A1s-polic%C3%ADas-en-Tijuana-ante-baja-incorporaci%C3%B3n-a-corporaciones",
+        "_added_at": "2026-09-06T00:11:59.751340-07:00"
       }
     ],
     "politica": [
       {
-        "title": "García Castro niega actos anticipados de campaña en festejo",
-        "summary": "Candidato organiza evento con miles de asistentes y aclara que no son actividades de precampaña.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/garcia-castro-festeja-cumpleanos-con-4-mil-invitados-niega-actos-anticipados-de-campana/?utm_source=rss&utm_medium=rss&utm_campaign=garcia-castro-festeja-cumpleanos-con-4-mil-invitados-niega-actos-anticipados-de-campana",
-        "_added_at": "2026-09-05T16:41:41.095061-07:00"
+        "title": "Castro Trenti se declara listo para transformar Baja California",
+        "summary": "Candidato Fernando Castro Trenti expresa disposición para liderar cambios en el estado.",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/me-declaro-listo-para-conducir-la-transformacion-en-baja-california-fernando-castro-trenti/",
+        "_added_at": "2026-09-06T00:11:59.751340-07:00"
       },
       {
-        "title": "Diputado cuestiona utilidad de cámaras en Tecate",
-        "summary": "Legislador expresa dudas sobre eficacia de sistemas de vigilancia tras hechos violentos recientes.",
+        "title": "Cuestionan intereses tras evento Jalisco en Tijuana",
+        "summary": "Ciudadanos expresan dudas sobre los propósitos reales detrás del evento Jalisco en Avenida Revolución.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181300_cuestiona_diputado_utilidad_de_las_camaras_de_seguridad_tras_hechos_violentos_en_tecate",
-        "_added_at": "2026-09-05T16:41:41.095061-07:00"
-      },
-      {
-        "title": "CEDHBC da seguimiento a clausura de clínica Jireh",
-        "summary": "Comisión estatal revisa cierre de instalación y traslado de pacientes internados.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181301_cedhbc_da_seguimiento_a_clausura_de_clinica_jireh_y_traslado_de_internos",
-        "_added_at": "2026-09-05T16:41:41.095061-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/181308_cuestionan_intereses_detras_del_evento_jalisco_en_tijuana",
+        "_added_at": "2026-09-06T00:11:59.751340-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Transportistas cumplen tercera jornada de bloqueo en Mexicali",
-        "summary": "Protesta por retiro de visas de comercio continúa afectando paso fronterizo.",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/cumplen-tres-dias-de-bloqueo-transportistas-por-retiro-de-visas-b1/",
-        "_added_at": "2026-09-05T16:41:41.095061-07:00"
+        "title": "Traileros bloqueados en Mexicali podrán cruzar por Tijuana",
+        "summary": "Autoridades permiten ruta alterna por Tijuana para transportistas afectados por bloqueo en Mexicali.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181313_traileros_bloqueados_en_mexicali_podran_cruzar_por_tijuana",
+        "_added_at": "2026-09-06T00:11:59.751340-07:00"
       },
       {
-        "title": "Gobierno ofrece alternativas a transportistas por cierre de garita",
-        "summary": "Autoridades estatales buscan soluciones ante paralización del comercio en frontera.",
+        "title": "Garita Otay II aún sin fecha de operaciones",
+        "summary": "Autoridad municipal reporta que aún no hay cronograma definido para inicio de operaciones en Otay II.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181307_aun_no_hay_fecha_para_iniciar_operaciones_de_la_garita_otay_ii_honold",
+        "_added_at": "2026-09-06T00:11:59.751340-07:00"
+      },
+      {
+        "title": "Casa Ley celebra 72 años de operaciones en Tijuana",
+        "summary": "Empresa conmemora más de siete décadas de presencia y servicio a familias tijuanenses.",
         "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/99035/Brinda-Gobierno-de-Baja-California-alternativa-a-transportistas-ante-cierre-de-garita-comercial-en-Mexicali",
-        "_added_at": "2026-09-05T16:41:41.095061-07:00"
-      },
-      {
-        "title": "Crisis hídrica amenaza inversión en Tijuana",
-        "summary": "Escasez de agua podría frenar desarrollo inmobiliario y económico de la ciudad.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/05/crisis-hidrica-podria-frenar-inversion-y-desarrollo-de-tijuana/",
-        "_added_at": "2026-09-05T16:41:41.095061-07:00"
-      },
-      {
-        "title": "Gobierno federal decomisa 3.8 millones de cigarros asiáticos",
-        "summary": "Operación aduanal incauta contrabando procedente de Asia en frontera norte.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/gobierno-federal-decomisa-mas-de-3-8-millones-de-cigarros-provenientes-de-asia/?utm_source=rss&utm_medium=rss&utm_campaign=gobierno-federal-decomisa-mas-de-3-8-millones-de-cigarros-provenientes-de-asia",
-        "_added_at": "2026-09-05T16:41:41.095061-07:00"
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99040/Casa-Ley-celebra-72-a%C3%B1os-de-historia,-tradici%C3%B3n-y-cercan%C3%ADa-con-las-familias-de-Tijuana",
+        "_added_at": "2026-09-06T00:11:59.751340-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Convocatoria de colecta de mochilas en Tijuana",
-        "summary": "Ciudadanos invitados a donar útiles escolares; donantes reciben orden de flautas.",
+        "title": "Centro de rehabilitación Jireh cierra y traslada 73 pacientes",
+        "summary": "Tras suspensión de operaciones, 73 personas en rehabilitación son transferidas a otros centros.",
         "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99037/Invitan-a-colecta-de-mochilas-en-Tijuana;-donantes-recibir%C3%A1n-una-orden-de-flautas",
-        "_added_at": "2026-09-05T16:41:41.095061-07:00"
-      },
-      {
-        "title": "Solicitan donaciones para niños con cáncer",
-        "summary": "Hospital General de Tijuana requiere apoyo ante desabasto de medicamentos oncológicos.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/mxl/mexicali/2026/09/05/invitan-a-donar-para-ayudar-a-ninos-con-cancer-y-evitar-que-sean-victimas-de-la-falta-de-medicinas-del-hgt/",
-        "_added_at": "2026-09-05T16:41:41.095061-07:00"
-      },
-      {
-        "title": "Halloween Race 5k celebra 14 aniversario en Ensenada",
-        "summary": "Evento deportivo tradicional se llevará a cabo con participación comunitaria.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/celebraran-14-aniversario-de-carrera-atletica-halloween-race-5k-en-ensenada/?utm_source=rss&utm_medium=rss&utm_campaign=celebraran-14-aniversario-de-carrera-atletica-halloween-race-5k-en-ensenada",
-        "_added_at": "2026-09-05T16:41:41.095061-07:00"
-      },
-      {
-        "title": "Barra de Abogadas celebra 52 años de trayectoria",
-        "summary": "Organización busca impulsar relevo generacional en profesión legal de la entidad.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/05/barra-de-abogadas-celebra-52-anos-y-busca-impulsar-el-relevo-generacional/",
-        "_added_at": "2026-09-05T16:41:41.095061-07:00"
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99045/Tras-suspensi%C3%B3n-de-Jireh,-trasladan-a-73-personas-a-otros-centros-de-rehabilitaci%C3%B3n",
+        "_added_at": "2026-09-06T00:11:59.751340-07:00"
       }
     ]
   },
-  "last_updated": "2026-09-05T16:41:41.095061-07:00"
+  "last_updated": "2026-09-06T00:11:59.751340-07:00"
 }
