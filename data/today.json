@@ -1,239 +1,92 @@
 {
-  "date": "2026-09-06",
-  "run_count": 3,
+  "date": "2026-09-07",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Hallan más restos humanos en basurero clandestino de Ensenada",
-        "summary": "Descubren nuevos restos en El Roble, Ensenada, en operativo contra criminalidad organizada.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/localizan-mas-restos-humanos-en-basurero-clandestino-en-el-roble-en-ensenada/?utm_source=rss&utm_medium=rss&utm_campaign=localizan-mas-restos-humanos-en-basurero-clandestino-en-el-roble-en-ensenada",
-        "_added_at": "2026-09-06T16:40:26.632457-07:00"
-      },
-      {
-        "title": "Alertan sobre fraudes telefónicos de instituciones bancarias falsas",
-        "summary": "Autoridades advierten sobre estafas por teléfono suplantando bancos en la región.",
+        "title": "Choque múltiple en Boulevard 2000 causa 27 lesionados",
+        "summary": "Accidente vial en Tijuana deja múltiples personas heridas tras colisión de varios vehículos.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181320_alertan_por_fraude_telefonico_de_supuestas_instituciones_bancarias",
-        "_added_at": "2026-09-06T16:40:26.632457-07:00"
+        "url": "https://www.afntijuana.info/seguridad/181336_choque_multiple_en_el_bulevar_2000_deja_27_lesionados",
+        "_added_at": "2026-09-07T00:24:54.859194-07:00"
       },
       {
-        "title": "Inhabilitan tres laboratorios de metanfetamina en sierra",
-        "summary": "Autoridades desmantelaron tres laboratorios clandestinos de droga en zona serrana de Guerrero.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/inhabilitan-tres-laboratorios-de-metanfetamina-en-la-sierra-de-guerrero/?utm_source=rss&utm_medium=rss&utm_campaign=inhabilitan-tres-laboratorios-de-metanfetamina-en-la-sierra-de-guerrero",
-        "_added_at": "2026-09-06T11:10:03.095869-07:00"
-      },
-      {
-        "title": "Amenazan a artistas con narcomanta en Tijuana",
-        "summary": "Narcotraficantes amenazaron a músicos como Natanael Cano mediante mantas intimidatorias.",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/amenazan-a-natanael-cano-y-otros-artistas-con-narcomanta/",
-        "_added_at": "2026-09-06T11:10:03.095869-07:00"
-      },
-      {
-        "title": "Detienen a seis por allanamiento y lesiones",
-        "summary": "Policía capturó a seis personas acusadas de allanamiento de morada y agresiones.",
+        "title": "Desaparecen dos hermanos arrastrados por el mar en Ensenada",
+        "summary": "Dos hermanos se pierden mientras pescaban tras ser arrastrados por las olas.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/181318_detienen_a_seis_por_allanamiento_danos_y_lesiones",
-        "_added_at": "2026-09-06T11:10:03.095869-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/181330_desaparecen_dos_hermanos_arrastrados_por_el_mar_mientras_pescaban_en_ensenada",
+        "_added_at": "2026-09-07T00:24:54.859194-07:00"
       },
       {
-        "title": "Peatón muere atropellado por motociclista en vía rápida",
-        "summary": "Accidente fatal en Tijuana donde motociclista atropella a peatón en vía rápida, dejando una persona fallecida.",
+        "title": "Muere interno de clínica Jireh en Tijuana",
+        "summary": "Fallece persona internada en instalación de salud mental bajo circunstancias a investigar.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/181309_muere_peaton_atropellado_por_motociclista_en_la_via_rapida",
-        "_added_at": "2026-09-06T00:11:59.751340-07:00"
+        "url": "https://www.afntijuana.info/seguridad/181335_muere_interno_de_otra_clinica_jireh_en_tijuana",
+        "_added_at": "2026-09-07T00:24:54.859194-07:00"
       },
       {
-        "title": "Instalan comités de seguridad ciudadana en Cerro Colorado",
-        "summary": "Autoridades implementan subestrategia de seguridad mediante comités ciudadanos en zona de Cerro Colorado.",
+        "title": "Estadounidense detenido en Ensenada por alterar orden policial",
+        "summary": "Ciudadano extranjero aprehendido tras provocar disturbios en comandancia de policía.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181306_instalan_la_subestrategia_comites_ciudadanos_de_seguridad_en_cerro_colorado",
-        "_added_at": "2026-09-06T00:11:59.751340-07:00"
-      },
-      {
-        "title": "Tijuana necesita más policías por baja incorporación",
-        "summary": "Autoridades reportan escasez de efectivos policiales debido a insuficiente reclutamiento en corporaciones.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99042/Urgen-m%C3%A1s-polic%C3%ADas-en-Tijuana-ante-baja-incorporaci%C3%B3n-a-corporaciones",
-        "_added_at": "2026-09-06T00:11:59.751340-07:00"
+        "url": "https://www.afntijuana.info/seguridad/181331_detienen_a_estadounidense_en_ensenada_por_alterar_el_orden_en_una_comandancia_de_policia",
+        "_added_at": "2026-09-07T00:24:54.859194-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Transportistas levantan bloqueo en garita de Mexicali tras acuerdo",
-        "summary": "Gobierno estatal negocia con transportistas para desbloquear paso fronterizo comercial.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/transportistas-levantan-bloqueo-en-garita-de-mexicali-tras-acuerdo-con-gobierno-estatal/?utm_source=rss&utm_medium=rss&utm_campaign=transportistas-levantan-bloqueo-en-garita-de-mexicali-tras-acuerdo-con-gobierno-estatal",
-        "_added_at": "2026-09-06T16:40:26.632457-07:00"
-      },
-      {
-        "title": "Sheinbaum busca relación amistosa con administración estadounidense",
-        "summary": "Presidenta aspira a buena relación con EUA basada en primer mandato Trump.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/sheinbaum-pardo-aspira-a-una-buena-relacion-con-eua-como-en-el-primer-mandato-de-trump/?utm_source=rss&utm_medium=rss&utm_campaign=sheinbaum-pardo-aspira-a-una-buena-relacion-con-eua-como-en-el-primer-mandato-de-trump",
-        "_added_at": "2026-09-06T16:40:26.632457-07:00"
-      },
-      {
-        "title": "Sancionan a MORENA por afiliaciones indebidas en Baja California",
-        "summary": "Organismo electoral castiga al partido por prácticas irregulares de registro.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Estatal/99072/Sancionan-a-MORENA-por-afiliaciones-indebidas",
-        "_added_at": "2026-09-06T16:40:26.632457-07:00"
-      },
-      {
-        "title": "Destaca Burgueño resultados en seguridad para BC",
-        "summary": "Funcionario local reporta avances en estrategia de seguridad pública en Baja California.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99050/Destaca-Ismael-Burgue%C3%B1o-resultados-en-seguridad-para-BC",
-        "_added_at": "2026-09-06T11:10:03.095869-07:00"
-      },
-      {
-        "title": "FGJEM presenta 60 pruebas contra detenidos",
-        "summary": "Fiscalía exhibe evidencia contra acusados en caso de multihomicidio.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/mexico/2026/09/06/fiscalia-presenta-mas-de-60-pruebas-contra-detenidos-por-multihomicidio-de-tecladista-de-camilo-septimo-su-familia-y-empleada-jueza-ordena-prision-preventiva/",
-        "_added_at": "2026-09-06T11:10:03.095869-07:00"
-      },
-      {
-        "title": "Castro Trenti se declara listo para transformar Baja California",
-        "summary": "Candidato Fernando Castro Trenti expresa disposición para liderar cambios en el estado.",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/me-declaro-listo-para-conducir-la-transformacion-en-baja-california-fernando-castro-trenti/",
-        "_added_at": "2026-09-06T00:11:59.751340-07:00"
-      },
-      {
-        "title": "Cuestionan intereses tras evento Jalisco en Tijuana",
-        "summary": "Ciudadanos expresan dudas sobre los propósitos reales detrás del evento Jalisco en Avenida Revolución.",
+        "title": "BC requiere mayor presupuesto federal, demanda Alfredo Álvarez",
+        "summary": "Funcionario local exige aumento en asignación de recursos económicos del gobierno nacional.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181308_cuestionan_intereses_detras_del_evento_jalisco_en_tijuana",
-        "_added_at": "2026-09-06T00:11:59.751340-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/181337_bc_debe_recibir_mas_recursos_federales_afirma_alfredo_alvarez",
+        "_added_at": "2026-09-07T00:24:54.859194-07:00"
+      },
+      {
+        "title": "Destapes políticos se paralizan por conflictos internos",
+        "summary": "Desacuerdos entre Citlali y Ariadna frenan anuncios de candidatos en la entidad.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/afn_politico/181332_los_destapes_se_frenaron_por_desacuerdos_entre_citlali_y_ariadna",
+        "_added_at": "2026-09-07T00:24:54.859194-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Maquiladoras ofrecen aumentos de 4 a 6 por ciento para 2027",
-        "summary": "Industria manufactura planea incrementos salariales moderados en Tijuana.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/06/industria-maquiladora-de-tijuana-preve-aumentos-salariales-de-4-a-6-para-2027/",
-        "_added_at": "2026-09-06T16:40:26.632457-07:00"
-      },
-      {
-        "title": "Presentan programa maestro de desarrollo portuario en Punta Colonet",
-        "summary": "Ejidatarios conocen proyecto de infraestructura y logística marítima regional.",
+        "title": "IVA preferencial fronterizo cuenta con apoyo legislativo inicial",
+        "summary": "Diputados consideran viable la aprobación de tasa impositiva reducida para zona fronteriza.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181327_presentan_programa_maestro_de_desarrollo_portuario_a_ejidatarios_de_punta_colonet",
-        "_added_at": "2026-09-06T16:40:26.632457-07:00"
-      },
-      {
-        "title": "Tecnología no sustituye mano de obra en construcción: CMIC",
-        "summary": "Cámara de construcción asegura que innovación complementa empleo en sector.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181323_nueva_tecnologia_no_sustituye_a_la_mano_de_obra_en_la_construccion_cmic",
-        "_added_at": "2026-09-06T16:40:26.632457-07:00"
-      },
-      {
-        "title": "Hacienda sube estímulo fiscal a gasolinas",
-        "summary": "Gobierno incrementa subsidio a combustibles para contener alzas de precio.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/dinero/2026/09/06/hacienda-aumenta-el-estimulo-fiscal-al-ieps-para-las-gasolinas-del-5-al-11-de-septiembre-para-frenar-incrementos-bruscos-en-el-precio-por-litro/",
-        "_added_at": "2026-09-06T11:10:03.095869-07:00"
-      },
-      {
-        "title": "Banco del Bienestar suspende pagos por independencia",
-        "summary": "Institución no realizará depósitos el 16 de septiembre, reanudará el 17.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/dinero/2026/09/06/banco-del-bienestar-confirma-que-no-habra-depositos-este-16-de-septiembre-y-reanudara-la-entrega-de-apoyos-el-jueves-17-para-beneficiarios-con-letras-n-n-y-o/",
-        "_added_at": "2026-09-06T11:10:03.095869-07:00"
-      },
-      {
-        "title": "Choferes denuncian explotación laboral en Estados Unidos",
-        "summary": "Trabajadores mexicanos reportan condiciones precarias en empleos estadounidenses.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Estatal/99051/Denuncian-choferes-mexicanos-presunta-explotaci%C3%B3n-laboral-en-EU",
-        "_added_at": "2026-09-06T11:10:03.095869-07:00"
-      },
-      {
-        "title": "Traileros bloqueados en Mexicali podrán cruzar por Tijuana",
-        "summary": "Autoridades permiten ruta alterna por Tijuana para transportistas afectados por bloqueo en Mexicali.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181313_traileros_bloqueados_en_mexicali_podran_cruzar_por_tijuana",
-        "_added_at": "2026-09-06T00:11:59.751340-07:00"
-      },
-      {
-        "title": "Garita Otay II aún sin fecha de operaciones",
-        "summary": "Autoridad municipal reporta que aún no hay cronograma definido para inicio de operaciones en Otay II.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181307_aun_no_hay_fecha_para_iniciar_operaciones_de_la_garita_otay_ii_honold",
-        "_added_at": "2026-09-06T00:11:59.751340-07:00"
-      },
-      {
-        "title": "Casa Ley celebra 72 años de operaciones en Tijuana",
-        "summary": "Empresa conmemora más de siete décadas de presencia y servicio a familias tijuanenses.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99040/Casa-Ley-celebra-72-a%C3%B1os-de-historia,-tradici%C3%B3n-y-cercan%C3%ADa-con-las-familias-de-Tijuana",
-        "_added_at": "2026-09-06T00:11:59.751340-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/181328_diputados_ven_viable_aprobacion_de_iva_preferencial_para_la_zona_fronteriza_coparmex",
+        "_added_at": "2026-09-07T00:24:54.859194-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Rickettsiosis causa 14 muertes en Ensenada; exigen plan",
-        "summary": "Enfermedad transmitida por garrapatas genera demanda de respuesta sanitaria.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/ensenada/2026/09/06/exigen-plan-contra-la-rickettsiosis-en-ensenada-tras-14-defunciones-en-2026/",
-        "_added_at": "2026-09-06T16:40:26.632457-07:00"
-      },
-      {
-        "title": "UABC lleva brigada de salud a colonia de Ensenada",
-        "summary": "Universidad atiende necesidades médicas básicas en zona vulnerable.",
+        "title": "Fallece destacado periodista Octavio Fabela \"Rábano\" en Tijuana",
+        "summary": "Muere reconocido comunicador local que contribuyó al periodismo regional.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181326_uabc_llevo_brigada_de_servicios_de_salud_a_colonia_de_ensenada",
-        "_added_at": "2026-09-06T16:40:26.632457-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/181339_muere_el_periodista_octavio_fabela_rabano",
+        "_added_at": "2026-09-07T00:24:54.859194-07:00"
       },
       {
-        "title": "Evangelina pide apoyo para mantener 74 perros rescatados",
-        "summary": "Activista busca financiamiento tras siete años de labor de protección animal.",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/siete-anos-rescatando-perros-evangelina-pide-apoyo-para-mantener-a-salvo-a-74-caninos/",
-        "_added_at": "2026-09-06T16:40:26.632457-07:00"
+        "title": "Estrategia permanente requerida para prevenir adicciones: Julio Anguiano",
+        "summary": "Autoridad propone plan integral contra consumo de drogas en la región.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181338_es_necesaria_una_estrategia_permanente_para_prevenir_adicciones_julio_anguiano",
+        "_added_at": "2026-09-07T00:24:54.859194-07:00"
       },
       {
-        "title": "Abren convocatoria de becas JOBEC para estudiantes de BC",
-        "summary": "Programa oferece apoyo económico para preparatoria y educación superior.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/06/becas-jobec-abren-registro-para-estudiantes-de-preparatoria-y-universidad-en-bc/",
-        "_added_at": "2026-09-06T16:40:26.632457-07:00"
+        "title": "UABC proporciona servicios médicos en colonia de Ensenada",
+        "summary": "Universidad realiza brigada de atención sanitaria en zona vulnerable.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/comunidad/181326_uabc_llevo_brigada_de_servicios_de_salud_a_colonia_de_ensenada",
+        "_added_at": "2026-09-07T00:24:54.859194-07:00"
       },
       {
-        "title": "Baja 400 genera cierres viales en Ensenada",
-        "summary": "Evento deportivo causará restricciones de circulación del 7 al 13 de septiembre.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/tij/ensenada/2026/09/06/baja-400-estas-calles-tendran-cierres-viales-en-ensenada-del-7-al-13-de-septiembre/",
-        "_added_at": "2026-09-06T11:10:03.095869-07:00"
-      },
-      {
-        "title": "Lanzan plataforma Omnia para auditorías con agentes",
-        "summary": "Nueva herramienta digital busca modernizar procesos de fiscalización gubernamental.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99052/Lanzan-plataforma-Omnia-para-transformar-auditor%C3%ADas-con-agentes",
-        "_added_at": "2026-09-06T11:10:03.095869-07:00"
-      },
-      {
-        "title": "Jalisco en Tijuana inaugura primera edición",
-        "summary": "Festival cultural llega a avenida Revolución mostrando tradiciones jaliscienses.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99046/Jalisco-en-Tijuana-llega-a-la-avenida-Revoluci%C3%B3n-en-su-primera-edici%C3%B3n",
-        "_added_at": "2026-09-06T11:10:03.095869-07:00"
-      },
-      {
-        "title": "Centro de rehabilitación Jireh cierra y traslada 73 pacientes",
-        "summary": "Tras suspensión de operaciones, 73 personas en rehabilitación son transferidas a otros centros.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99045/Tras-suspensi%C3%B3n-de-Jireh,-trasladan-a-73-personas-a-otros-centros-de-rehabilitaci%C3%B3n",
-        "_added_at": "2026-09-06T00:11:59.751340-07:00"
+        "title": "Abierta convocatoria para becas JOBEC educativas",
+        "summary": "Se invita a estudiantes de preparatoria y universidad a solicitar apoyo económico.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181329_abren_convocatoria_para_becas_jobec_para_preparatoria_y_universidad",
+        "_added_at": "2026-09-07T00:24:54.859194-07:00"
       }
     ]
   },
-  "last_updated": "2026-09-06T16:40:26.632457-07:00"
+  "last_updated": "2026-09-07T00:24:54.859194-07:00"
 }
