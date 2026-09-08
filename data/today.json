@@ -1,8 +1,36 @@
 {
   "date": "2026-09-08",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Hallan cinco cuerpos en fosa clandestina de Ensenada",
+        "summary": "Autoridades localizaron restos óseos y cadáveres en un sitio clandestino en Ensenada, confirmando actividad delictiva en la zona.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/localizan-cinco-cuerpos-y-restos-oseos-en-fosa-clandestina-de-ensenada/?utm_source=rss&utm_medium=rss&utm_campaign=localizan-cinco-cuerpos-y-restos-oseos-en-fosa-clandestina-de-ensenada",
+        "_added_at": "2026-09-08T12:21:34.131081-07:00"
+      },
+      {
+        "title": "Detienen empleada con 70 kilos de metanfetamina en Mexicali",
+        "summary": "Servidora pública fue capturada con gran cantidad de droga, evidenciando infiltración criminal en estructura gubernamental.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/empleada-del-gobierno-de-roman-cota-es-detenida-con-casi-70-kilos-de-metanfetamina/?utm_source=rss&utm_medium=rss&utm_campaign=empleada-del-gobierno-de-roman-cota-es-detenida-con-casi-70-kilos-de-metanfetamina",
+        "_added_at": "2026-09-08T12:21:34.131081-07:00"
+      },
+      {
+        "title": "Hijo reclama justicia por asesinato en Playas de Tijuana",
+        "summary": "Homicidio ocurrió a corta distancia de instalación de Guardia Nacional, cuestionando eficacia de seguridad.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/lo-mataron-a-75-metros-de-la-guardia-nacional-pide-justicia-por-asesinato-de-su-padre-en-playas/?utm_source=rss&utm_medium=rss&utm_campaign=lo-mataron-a-75-metros-de-la-guardia-nacional-pide-justicia-por-asesinato-de-su-padre-en-playas",
+        "_added_at": "2026-09-08T12:21:34.131081-07:00"
+      },
+      {
+        "title": "Detienen a 24 migrantes en embarcación frente a isla Santa Bárbara",
+        "summary": "Operativo de seguridad marítima asegura a grupo migrante interceptado en aguas de Tijuana.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181401_detienen_a_24_migrantes_en_embarcacion_frente_a_isla_de_santa_barbara",
+        "_added_at": "2026-09-08T12:21:34.131081-07:00"
+      },
       {
         "title": "Ejecutan a tiros a hombre en residencial de Mexicali",
         "summary": "Homicidio registrado en zona residencial de Mexicali por disparos de arma de fuego.",
@@ -19,6 +47,20 @@
       }
     ],
     "politica": [
+      {
+        "title": "PRI denuncia a Armando Ayala por gastos de promoción política",
+        "summary": "Partido presenta acusación contra funcionario por presunto uso indebido de recursos para aspiraciones electorales.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181400_denuncia_el_pri_a_armando_ayala_por_gastos_para_promover_sus_aspiraciones",
+        "_added_at": "2026-09-08T12:21:34.131081-07:00"
+      },
+      {
+        "title": "Evelyn Sánchez respalda a Julieta Ramírez ante críticas políticas",
+        "summary": "Funcionaria expresa solidaridad con colega enfrentada a ataques en el ámbito político local.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99150/Respalda-Evelyn-S%C3%A1nchez-a-Julieta-Ram%C3%ADrez-ante-ataques-pol%C3%ADticos",
+        "_added_at": "2026-09-08T12:21:34.131081-07:00"
+      },
       {
         "title": "Morena enfrenta riesgo electoral en 2027",
         "summary": "Análisis indica que Morena podría perder elecciones en 2027 con candidatura entre tres opciones.",
@@ -43,6 +85,27 @@
     ],
     "economia": [
       {
+        "title": "Turismo médico en Tijuana ofrece ahorros de hasta 75 por ciento",
+        "summary": "Procedimientos quirúrgicos y odontológicos en la ciudad resultan significativamente más económicos que en Estados Unidos.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/08/procedimientos-medicos-en-tijuana-cuestan-hasta-75-menos-que-en-estados-unidos/",
+        "_added_at": "2026-09-08T12:21:34.131081-07:00"
+      },
+      {
+        "title": "Transporte de carga podría aumentar a cinco mil camiones",
+        "summary": "Proyección indica expansión del sector logístico durante temporada alta en Tijuana.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/08/transporte-de-carga-en-tijuana-podria-subir-hasta-5-mil-camiones-por-temporada-alta/",
+        "_added_at": "2026-09-08T12:21:34.131081-07:00"
+      },
+      {
+        "title": "Apagones afectan varias colonias de Tijuana",
+        "summary": "Cortes de energía prolongados impactan servicio eléctrico en múltiples sectores de la ciudad.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/08/apagones-afectan-a-varias-colonias-de-tijuana-vecinos-reportan-cortes-de-hasta-13-horas/",
+        "_added_at": "2026-09-08T12:21:34.131081-07:00"
+      },
+      {
         "title": "CANACO espera mejora en ventas próximos meses",
         "summary": "Cámara anticipa incremento de 25 a 45 por ciento en ventas para Mexicali en próximos períodos.",
         "source": "El Mexicano",
@@ -51,6 +114,27 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Nuevos elementos de seguridad se integran a Rosarito",
+        "summary": "Corporación municipal recibe refuerzo de personal comprometido con protección ciudadana.",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/playas-de-rosarito-recibe-a-nuevos-elementos-comprometidos-con-servir-y-proteger-a-la-ciudadania/",
+        "_added_at": "2026-09-08T12:21:34.131081-07:00"
+      },
+      {
+        "title": "Habilitan carril exclusivo para motos en garita de San Ysidro",
+        "summary": "Implementan nuevo acceso dedicado para motociclistas en puerto fronterizo principal de Tijuana.",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/habilitan-acceso-exclusivo-para-motocicletas-en-la-garita-de-san-ysidro/",
+        "_added_at": "2026-09-08T12:21:34.131081-07:00"
+      },
+      {
+        "title": "Septiembre inicia con venta de artículos patrios tradicionales",
+        "summary": "Comercio estacional de decoraciones y artículos mexicanos marca el inicio de mes festivo.",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/con-el-mes-de-septiembre-inician-las-ventas-de-los-articulos-patrios/",
+        "_added_at": "2026-09-08T12:21:34.131081-07:00"
+      },
       {
         "title": "Gobierno falla en supervisión de clínicas de rehabilitación",
         "summary": "Capella denuncia deficiencias en supervisión estatal de clínicas privadas de rehabilitación.",
@@ -74,5 +158,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-08T00:19:14.515593-07:00"
+  "last_updated": "2026-09-08T12:21:34.131081-07:00"
 }
