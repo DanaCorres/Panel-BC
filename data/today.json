@@ -1,260 +1,99 @@
 {
-  "date": "2026-09-08",
-  "run_count": 3,
+  "date": "2026-09-09",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Ordenes contra presuntos miembros del Cartel Inmobiliario",
-        "summary": "Quince órdenes de aprehensión giradas contra presuntos integrantes del Cartel Inmobiliario de Tijuana por autoridades federales.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/van-15-ordenes-de-aprehension-giradas-contra-presuntos-miembros-del-cartel-inmobiliario-de-tijuana/?utm_source=rss&utm_medium=rss&utm_campaign=van-15-ordenes-de-aprehension-giradas-contra-presuntos-miembros-del-cartel-inmobiliario-de-tijuana",
-        "_added_at": "2026-09-08T16:57:51.326405-07:00"
-      },
-      {
-        "title": "Percepción de inseguridad crece 14.5% en la región",
-        "summary": "Aumenta significativamente la percepción de inseguridad entre ciudadanos de Baja California.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/crece-14-5-percepcion-de-inseguridad/?utm_source=rss&utm_medium=rss&utm_campaign=crece-14-5-percepcion-de-inseguridad",
-        "_added_at": "2026-09-08T16:57:51.326405-07:00"
-      },
-      {
-        "title": "Detienen a hondureño con máquinas tragamonedas y droga",
-        "summary": "Autoridades capturan a extranjero en posesión de aparatos ilegales y sustancias prohibidas.",
+        "title": "Vientos de Santa Ana se extienden; Protección Civil alerta",
+        "summary": "Autoridades advierten sobre prolongación de vientos de Santa Ana esta temporada en la región.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/181423_detienen_a_hondureno_en_posesion_de_maquinas_tragamonedas_y_droga",
-        "_added_at": "2026-09-08T16:57:51.326405-07:00"
-      },
-      {
-        "title": "Abogados de Tijuana exigen protocolo de seguridad",
-        "summary": "Profesionistas reportan más de quince asesinatos desde 2022 y demandan medidas de protección.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/08/abogados-de-tijuana-siguen-sin-protocolo-de-seguridad-reportan-mas-de-15-asesinatos-desde-2022/",
-        "_added_at": "2026-09-08T16:57:51.326405-07:00"
-      },
-      {
-        "title": "Hallan cinco cuerpos en fosa clandestina de Ensenada",
-        "summary": "Autoridades localizaron restos óseos y cadáveres en un sitio clandestino en Ensenada, confirmando actividad delictiva en la zona.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/localizan-cinco-cuerpos-y-restos-oseos-en-fosa-clandestina-de-ensenada/?utm_source=rss&utm_medium=rss&utm_campaign=localizan-cinco-cuerpos-y-restos-oseos-en-fosa-clandestina-de-ensenada",
-        "_added_at": "2026-09-08T12:21:34.131081-07:00"
-      },
-      {
-        "title": "Detienen empleada con 70 kilos de metanfetamina en Mexicali",
-        "summary": "Servidora pública fue capturada con gran cantidad de droga, evidenciando infiltración criminal en estructura gubernamental.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/empleada-del-gobierno-de-roman-cota-es-detenida-con-casi-70-kilos-de-metanfetamina/?utm_source=rss&utm_medium=rss&utm_campaign=empleada-del-gobierno-de-roman-cota-es-detenida-con-casi-70-kilos-de-metanfetamina",
-        "_added_at": "2026-09-08T12:21:34.131081-07:00"
-      },
-      {
-        "title": "Hijo reclama justicia por asesinato en Playas de Tijuana",
-        "summary": "Homicidio ocurrió a corta distancia de instalación de Guardia Nacional, cuestionando eficacia de seguridad.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/lo-mataron-a-75-metros-de-la-guardia-nacional-pide-justicia-por-asesinato-de-su-padre-en-playas/?utm_source=rss&utm_medium=rss&utm_campaign=lo-mataron-a-75-metros-de-la-guardia-nacional-pide-justicia-por-asesinato-de-su-padre-en-playas",
-        "_added_at": "2026-09-08T12:21:34.131081-07:00"
-      },
-      {
-        "title": "Detienen a 24 migrantes en embarcación frente a isla Santa Bárbara",
-        "summary": "Operativo de seguridad marítima asegura a grupo migrante interceptado en aguas de Tijuana.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181401_detienen_a_24_migrantes_en_embarcacion_frente_a_isla_de_santa_barbara",
-        "_added_at": "2026-09-08T12:21:34.131081-07:00"
-      },
-      {
-        "title": "Ejecutan a tiros a hombre en residencial de Mexicali",
-        "summary": "Homicidio registrado en zona residencial de Mexicali por disparos de arma de fuego.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/181382_ejecutan_a_tiros_a_un_hombre_en_residencial_de_mexicali",
-        "_added_at": "2026-09-08T00:19:14.515593-07:00"
-      },
-      {
-        "title": "Familia busca hombre desaparecido en Mexicali",
-        "summary": "Familiares participan en operativo de búsqueda de persona desaparecida en Mexicali.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181381_familia_de_hombre_desaparecido_en_mexicali_participa_en_operativo_de_busqueda",
-        "_added_at": "2026-09-08T00:19:14.515593-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/181430_vientos_de_santa_ana_podrian_extenderse_esta_temporada_advierte_proteccion_civil",
+        "_added_at": "2026-09-09T00:27:50.418093-07:00"
       }
     ],
     "politica": [
       {
-        "title": "PAN propone a Pelayo como candidato a gubernatura 2027",
-        "summary": "Partido Acción Nacional adelanta movimientos electorales con candidatura para próximas elecciones estatales.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/pan-madruga-a-morena-rumbo-al-2027-pelayo-sera-candidato-a-gubernatura/?utm_source=rss&utm_medium=rss&utm_campaign=pan-madruga-a-morena-rumbo-al-2027-pelayo-sera-candidato-a-gubernatura",
-        "_added_at": "2026-09-08T16:57:51.326405-07:00"
-      },
-      {
-        "title": "COPASE pide fortalecer políticas educativas en estado",
-        "summary": "Organización hace llamado urgente a mejorar y fortalecer las estrategias de educación regional.",
+        "title": "Julieta, candidata tapada de 4T para gobernador BC",
+        "summary": "Revelan identidad de candidata presidencial del movimiento para Baja California en próximas elecciones.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181424_copase_hace_un_llamado_urgente_a_fortalecer_las_politicas_educativas",
-        "_added_at": "2026-09-08T16:57:51.326405-07:00"
+        "url": "https://www.afntijuana.info/afn_politico/181427_julieta_la_tapada_de_la_4t_para_baja_california",
+        "_added_at": "2026-09-09T00:27:50.418093-07:00"
       },
       {
-        "title": "Ciudadanos rechazan nuevo proyecto de Hermandad en Armonía",
-        "summary": "Vecinos se oponen y evidencian iniciativa de organización en zona de Tijuana.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/ciudadanos-rechazan-y-evidencian-nuevo-proyecto-de-hermandad-en-armonia/?utm_source=rss&utm_medium=rss&utm_campaign=ciudadanos-rechazan-y-evidencian-nuevo-proyecto-de-hermandad-en-armonia",
-        "_added_at": "2026-09-08T16:57:51.326405-07:00"
+        "title": "Congreso BC exhorta a CFE por apagones e infraestructura",
+        "summary": "Legisladores presentarán exhorto a compañía eléctrica por falta de inversión y cortes de energía.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/99161/Presentar%C3%A1-Congreso-de-BC-exhorto-a-CFE-por-apagones-y-falta-de-infraestructura",
+        "_added_at": "2026-09-09T00:27:50.418093-07:00"
       },
       {
-        "title": "PRI denuncia a Armando Ayala por gastos de promoción política",
-        "summary": "Partido presenta acusación contra funcionario por presunto uso indebido de recursos para aspiraciones electorales.",
+        "title": "PRI critica presupuesto por no atender necesidades principales",
+        "summary": "Partido de oposición cuestiona asignación de recursos en paquete de egresos propuesto.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181400_denuncia_el_pri_a_armando_ayala_por_gastos_para_promover_sus_aspiraciones",
-        "_added_at": "2026-09-08T12:21:34.131081-07:00"
-      },
-      {
-        "title": "Evelyn Sánchez respalda a Julieta Ramírez ante críticas políticas",
-        "summary": "Funcionaria expresa solidaridad con colega enfrentada a ataques en el ámbito político local.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99150/Respalda-Evelyn-S%C3%A1nchez-a-Julieta-Ram%C3%ADrez-ante-ataques-pol%C3%ADticos",
-        "_added_at": "2026-09-08T12:21:34.131081-07:00"
-      },
-      {
-        "title": "Morena enfrenta riesgo electoral en 2027",
-        "summary": "Análisis indica que Morena podría perder elecciones en 2027 con candidatura entre tres opciones.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/afn_politico/181368_morena_podria_perder_en_2027_candidatura_esta_entre_tres_amador",
-        "_added_at": "2026-09-08T00:19:14.515593-07:00"
-      },
-      {
-        "title": "Morena consulta perfiles para coordinación en Ensenada",
-        "summary": "Militancia de Morena realizará consulta para elegir candidatos a coordinación municipal en Ensenada.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Ensenada/99119/Militancia-de-Morena-realizar%C3%A1-consulta-para-elegir-perfiles-rumbo-a-la-Coordinaci%C3%B3n-Municipal",
-        "_added_at": "2026-09-08T00:19:14.515593-07:00"
-      },
-      {
-        "title": "Retiro de visas a transportistas será resuelto diplomáticamente",
-        "summary": "Gobierno y CCE buscan solución mediante diplomacia para retiro de visas a transportistas mexicanos.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Estatal/99123/Retiro-de-visas-a-transportistas-ser%C3%A1-atendido-mediante-diplomacia",
-        "_added_at": "2026-09-08T00:19:14.515593-07:00"
+        "url": "https://www.afntijuana.info/nacionales/181433_presupuesto_de_egresos_no_atiende_las_principales_necesidades_pri",
+        "_added_at": "2026-09-09T00:27:50.418093-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Desempleo disminuye en Mexicali según últimas cifras",
-        "summary": "Índice de desocupación registra reducción en capital del estado.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/99160/Disminuye-%C3%ADndice-de-desempleo-en-Mexicali",
-        "_added_at": "2026-09-08T16:57:51.326405-07:00"
-      },
-      {
-        "title": "Hoteleros advierten aumento de informalidad sin inversión",
-        "summary": "Sector hotelero de Tijuana pide impulsar inversiones para contener crecimiento económico informal.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/informalidad-seguira-aumentando-hoteleros-piden-impulsar-inversiones/?utm_source=rss&utm_medium=rss&utm_campaign=informalidad-seguira-aumentando-hoteleros-piden-impulsar-inversiones",
-        "_added_at": "2026-09-08T16:57:51.326405-07:00"
-      },
-      {
-        "title": "Mexicanos enfrentan negociación complicada ante T-MEC",
-        "summary": "Especialistas advierten sobre complejidades en negociaciones comerciales del tratado.",
+        "title": "Mexicali registra desocupación de 2.4% en segundo trimestre",
+        "summary": "INEGI reporta tasa de desempleo baja en la capital estatal durante período analizado.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/comunidad/181420_ante_el_t_mec_mexico_enfrenta_una_negociacion_complicada_especialistas",
-        "_added_at": "2026-09-08T16:57:51.326405-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/181425_registra_mexicali_tasa_de_desocupacion_de_2_4_en_el_segundo_trimestre_de_2026_inegi",
+        "_added_at": "2026-09-09T00:27:50.418093-07:00"
       },
       {
-        "title": "Ciudadanos protestan por recibos altos de CFE en Mexicali",
-        "summary": "Vecinos exigen intervención estatal ante cobros anormales de energía eléctrica.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/mexicalenses-exigen-intervencion-del-estado-ante-problemas-con-la-cfe/?utm_source=rss&utm_medium=rss&utm_campaign=mexicalenses-exigen-intervencion-del-estado-ante-problemas-con-la-cfe",
-        "_added_at": "2026-09-08T16:57:51.326405-07:00"
+        "title": "Hacienda plantea mayores cobros por servicios en 2027",
+        "summary": "Gobierno propone incremento en tarifas de servicios para próximo ejercicio fiscal.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/nacionales/181431_plantea_hacienda_mayores_cobros_por_servicios_para_2027",
+        "_added_at": "2026-09-09T00:27:50.418093-07:00"
       },
       {
-        "title": "Turismo médico en Tijuana ofrece ahorros de hasta 75 por ciento",
-        "summary": "Procedimientos quirúrgicos y odontológicos en la ciudad resultan significativamente más económicos que en Estados Unidos.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/08/procedimientos-medicos-en-tijuana-cuestan-hasta-75-menos-que-en-estados-unidos/",
-        "_added_at": "2026-09-08T12:21:34.131081-07:00"
+        "title": "Canaco pide criterio fiscal ante paquete económico 2027",
+        "summary": "Cámara de comercio solicita al SAT sensatez en política tributaria para próximo año.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181426_pide_canaco_al_sat_buen_criterio_fiscal_ante_paquete_economico_2027",
+        "_added_at": "2026-09-09T00:27:50.418093-07:00"
       },
       {
-        "title": "Transporte de carga podría aumentar a cinco mil camiones",
-        "summary": "Proyección indica expansión del sector logístico durante temporada alta en Tijuana.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/08/transporte-de-carga-en-tijuana-podria-subir-hasta-5-mil-camiones-por-temporada-alta/",
-        "_added_at": "2026-09-08T12:21:34.131081-07:00"
-      },
-      {
-        "title": "Apagones afectan varias colonias de Tijuana",
-        "summary": "Cortes de energía prolongados impactan servicio eléctrico en múltiples sectores de la ciudad.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/08/apagones-afectan-a-varias-colonias-de-tijuana-vecinos-reportan-cortes-de-hasta-13-horas/",
-        "_added_at": "2026-09-08T12:21:34.131081-07:00"
-      },
-      {
-        "title": "CANACO espera mejora en ventas próximos meses",
-        "summary": "Cámara anticipa incremento de 25 a 45 por ciento en ventas para Mexicali en próximos períodos.",
+        "title": "Usuarios piden nueva tarifa de luz por cobros excesivos",
+        "summary": "Ciudadanos de Mexicali demandan revisión de tarifas eléctricas por incrementos injustificados.",
         "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/99105/Espera-CANACO-mejora-en-ventas-en-los-pr%C3%B3ximos-meses",
-        "_added_at": "2026-09-08T00:19:14.515593-07:00"
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/99166/Piden-usuarios-nueva-tarifa-de-luz-ante-cobros-excesivos",
+        "_added_at": "2026-09-09T00:27:50.418093-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "UTT inicia ciclo con matrícula récord y nueva infraestructura",
-        "summary": "Universidad Tecnológica de Tijuana registra 6 mil 554 estudiantes con edificio moderno.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/08/utt-inicia-ciclo-con-matricula-record-y-nuevo-edificio/",
-        "_added_at": "2026-09-08T16:57:51.326405-07:00"
+        "title": "Apagones afectan sector Hipódromo en Tijuana",
+        "summary": "Residentes de zona reportan cortes de energía que generan inconvenientes en comunidad.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181434_apagon_afecta_a_residentes_del_sector_hipodromo_en_tijuana",
+        "_added_at": "2026-09-09T00:27:50.418093-07:00"
       },
       {
-        "title": "Padres toman escuela por falta de pago a maestros",
-        "summary": "Progenitores ocupan plantel del Guaycura en Tijuana exigiendo liquidación de salarios docentes.",
+        "title": "Llaman a recuperar derecho a ciudad en Tijuana",
+        "summary": "Activistas promueven iniciativa para mejorar acceso a servicios básicos en municipio.",
         "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99158/Padres-de-familia-toman-escuela-del-Guaycura-por-falta-de-pago-a-maestros",
-        "_added_at": "2026-09-08T16:57:51.326405-07:00"
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99168/Llaman-a-recuperar-el-%E2%80%9CDerecho-a-la-Ciudad%E2%80%9D-en-Tijuana",
+        "_added_at": "2026-09-09T00:27:50.418093-07:00"
       },
       {
-        "title": "FGE libera a enfermero de clínica Jireh tras investigación",
-        "summary": "Segunda muerte en instalación fue determinada como paro cardíaco natural.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/fge-libera-a-enfermero-de-jireh-segunda-muerte-fue-por-paro-cardiaco/?utm_source=rss&utm_medium=rss&utm_campaign=fge-libera-a-enfermero-de-jireh-segunda-muerte-fue-por-paro-cardiaco",
-        "_added_at": "2026-09-08T16:57:51.326405-07:00"
-      },
-      {
-        "title": "Nuevos elementos de seguridad se integran a Rosarito",
-        "summary": "Corporación municipal recibe refuerzo de personal comprometido con protección ciudadana.",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/playas-de-rosarito-recibe-a-nuevos-elementos-comprometidos-con-servir-y-proteger-a-la-ciudadania/",
-        "_added_at": "2026-09-08T12:21:34.131081-07:00"
-      },
-      {
-        "title": "Habilitan carril exclusivo para motos en garita de San Ysidro",
-        "summary": "Implementan nuevo acceso dedicado para motociclistas en puerto fronterizo principal de Tijuana.",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/habilitan-acceso-exclusivo-para-motocicletas-en-la-garita-de-san-ysidro/",
-        "_added_at": "2026-09-08T12:21:34.131081-07:00"
-      },
-      {
-        "title": "Septiembre inicia con venta de artículos patrios tradicionales",
-        "summary": "Comercio estacional de decoraciones y artículos mexicanos marca el inicio de mes festivo.",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/con-el-mes-de-septiembre-inician-las-ventas-de-los-articulos-patrios/",
-        "_added_at": "2026-09-08T12:21:34.131081-07:00"
-      },
-      {
-        "title": "Gobierno falla en supervisión de clínicas de rehabilitación",
-        "summary": "Capella denuncia deficiencias en supervisión estatal de clínicas privadas de rehabilitación.",
+        "title": "Alfredo Álvarez se reúne con emprendedoras en Mexicali",
+        "summary": "Funcionario sostiene encuentro con mujeres empresarias y deportistas en capital estatal.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181379_falla_el_gobierno_en_supervision_de_clinicas_de_rehabilitacion_privadas_capella",
-        "_added_at": "2026-09-08T00:19:14.515593-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/181432_se_reunio_alfredo_alvarez_con_emprendedoras_y_deportistas_en_mexicali",
+        "_added_at": "2026-09-09T00:27:50.418093-07:00"
       },
       {
-        "title": "Se esperan lluvias fuertes y descargas eléctricas",
-        "summary": "Alerta por fenómenos meteorológicos: lluvias intensas, granizo y descargas eléctricas en región.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181380_se_esperan_lluvias_fuertes_granizo_y_descargas_electricas_en_la_region",
-        "_added_at": "2026-09-08T00:19:14.515593-07:00"
-      },
-      {
-        "title": "Levantan actas a vendedores ambulantes en Ensenada",
-        "summary": "Autoridades municipales emiten actas administrativas a comerciantes ambulantes y semifijos en Ensenada.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181376_levantan_actas_administrativas_a_ambulantes_y_semifijos_en_ensenada",
-        "_added_at": "2026-09-08T00:19:14.515593-07:00"
+        "title": "Rosarito prepara celebraciones por fiestas patrias",
+        "summary": "Municipio organiza actividades en dos sedes para conmemorar independencia nacional.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Rosarito/99167/Rosarito-prepara-dos-d%C3%ADas-de-actividades-por-las-fiestas-patrias-en-Primo-Tapia-y-Santa-Anita",
+        "_added_at": "2026-09-09T00:27:50.418093-07:00"
       }
     ]
   },
-  "last_updated": "2026-09-08T16:57:51.326405-07:00"
+  "last_updated": "2026-09-09T00:27:50.418093-07:00"
 }
