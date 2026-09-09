@@ -1,8 +1,36 @@
 {
   "date": "2026-09-09",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Ataque a balazos registrado en colonia El Roble, Mexicali",
+        "summary": "Persona fue atacada a tiros en la colonia El Roble de Mexicali en incidente de violencia armada.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/lo-atacan-a-balazos-en-la-colonia-el-roble-en-mexicali/?utm_source=rss&utm_medium=rss&utm_campaign=lo-atacan-a-balazos-en-la-colonia-el-roble-en-mexicali",
+        "_added_at": "2026-09-09T12:11:20.916562-07:00"
+      },
+      {
+        "title": "Decomisan 76 kilos de cocaína en camión de carga",
+        "summary": "Autoridades aseguran droga oculta en vehículo de transporte en operación contra tráfico.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/181455_decomisan_76_kilos_de_cocaina_ocultos_en_camion_de_carga",
+        "_added_at": "2026-09-09T12:11:20.916562-07:00"
+      },
+      {
+        "title": "Trabajadora municipal de Tecate detenida con 70 kilos de metanfetamina",
+        "summary": "Empleada del Ayuntamiento de Tecate capturada en frontera con droga; autoridades investigan nexos.",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/detienen-a-trabajadora-del-ayuntamiento-de-tecate-en-la-frontera-con-casi-70-kilos-de-metanfetamina-roman-cota-intenta-deslindarse/",
+        "_added_at": "2026-09-09T12:11:20.916562-07:00"
+      },
+      {
+        "title": "Denuncian amenazas en servicios funerarios de Narcizo Alemán",
+        "summary": "Funeraria reporta intimidaciones contra su personal en Tijuana.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/en-servicios-funerarios-de-narcizo-aleman-denuncian-amenazas/?utm_source=rss&utm_medium=rss&utm_campaign=en-servicios-funerarios-de-narcizo-aleman-denuncian-amenazas",
+        "_added_at": "2026-09-09T12:11:20.916562-07:00"
+      },
       {
         "title": "Vientos de Santa Ana se extienden; Protección Civil alerta",
         "summary": "Autoridades advierten sobre prolongación de vientos de Santa Ana esta temporada en la región.",
@@ -12,6 +40,27 @@
       }
     ],
     "politica": [
+      {
+        "title": "Maestros de CNTE cierran accesos a oficinas públicas",
+        "summary": "Gremio educativo toma instalaciones por falta de pagos a maestros interinos en Tijuana.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181452_maestros_de_la_cnte_encadenan_accesos_a_oficinas_publicas",
+        "_added_at": "2026-09-09T12:11:20.916562-07:00"
+      },
+      {
+        "title": "Sandoval critica doble discurso oficial sobre educación",
+        "summary": "Funcionario cuestiona políticas públicas en materia de calidad educativa estatal.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181453_critica_sandoval_doble_discurso_oficial_sobre_calidad_educativa",
+        "_added_at": "2026-09-09T12:11:20.916562-07:00"
+      },
+      {
+        "title": "Paquete Económico 2027 enfocará evasión fiscal y gasto social",
+        "summary": "Propuesta presupuestaria establece combate a evasión como eje central de política fiscal.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/combate-a-la-evasion-fiscal-y-gasto-social-los-ejes-del-paquete-economico-2027-csp/?utm_source=rss&utm_medium=rss&utm_campaign=combate-a-la-evasion-fiscal-y-gasto-social-los-ejes-del-paquete-economico-2027-csp",
+        "_added_at": "2026-09-09T12:11:20.916562-07:00"
+      },
       {
         "title": "Julieta, candidata tapada de 4T para gobernador BC",
         "summary": "Revelan identidad de candidata presidencial del movimiento para Baja California en próximas elecciones.",
@@ -35,6 +84,34 @@
       }
     ],
     "economia": [
+      {
+        "title": "Crecimiento acelerado de Tijuana genera asentamientos irregulares",
+        "summary": "Expansión urbana sin planificación provoca ocupaciones ilegales en zonas Este y Sur.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/09/crecimiento-de-tijuana-genera-asentamientos-irregulares-y-rezago-en-infraestructura/",
+        "_added_at": "2026-09-09T12:11:20.916562-07:00"
+      },
+      {
+        "title": "Lanzan terrenos sin enganche cercanos a Valle de Guadalupe y Rosarito",
+        "summary": "Oferta inmobiliaria con apartados de 500 dólares en zonas de expansión.",
+        "source": "Yo Amo Tijuana",
+        "url": "https://amotijuana.com/lanzan-terrenos-sin-enganche-y-con-apartado-de-500-dolares-cerca-de-valle-de-guadalupe/",
+        "_added_at": "2026-09-09T12:11:20.916562-07:00"
+      },
+      {
+        "title": "Call center tijuanense ofrece sueldos de hasta 10 mil semanales",
+        "summary": "Centro de atención telefónica inicia operaciones con remuneraciones competitivas.",
+        "source": "Yo Amo Tijuana",
+        "url": "https://amotijuana.com/call-center-en-tijuana-arranca-el-ano-con-sueldos-de-hasta-10000-semanales/",
+        "_added_at": "2026-09-09T12:11:20.916562-07:00"
+      },
+      {
+        "title": "Incendio en poste CFE deja 1.500 usuarios sin electricidad",
+        "summary": "Falla en instalación subterránea ocasiona corte de suministro en Tijuana.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/incendio-de-poste-e-instalacion-subterranea-de-cfe-dejan-mil-500-usuarios-sin-luz-en-tijuana/?utm_source=rss&utm_medium=rss&utm_campaign=incendio-de-poste-e-instalacion-subterranea-de-cfe-dejan-mil-500-usuarios-sin-luz-en-tijuana",
+        "_added_at": "2026-09-09T12:11:20.916562-07:00"
+      },
       {
         "title": "Mexicali registra desocupación de 2.4% en segundo trimestre",
         "summary": "INEGI reporta tasa de desempleo baja en la capital estatal durante período analizado.",
@@ -66,6 +143,34 @@
     ],
     "sociedad": [
       {
+        "title": "Detienen a hombre por agresión a mujer embarazada en Tijuana",
+        "summary": "Expareja capturada tras atacar a gestante; víctima solicitó apoyo policial.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/policiaca/2026/09/09/mujer-embarazada-pidio-auxilio-a-policias-tras-presunta-agresion-de-su-expareja-en-tijuana/",
+        "_added_at": "2026-09-09T12:11:20.916562-07:00"
+      },
+      {
+        "title": "Inaugura presidenta pavimentación en colonia Reforma",
+        "summary": "Obra de infraestructura beneficia a familias y escuelas de la zona.",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/inaugura-presidenta-rocio-adame-obra-de-pavimentacion-que-beneficia-a-familias-y-comunidad-escolar-de-la-colonia-reforma/",
+        "_added_at": "2026-09-09T12:11:20.916562-07:00"
+      },
+      {
+        "title": "Transporte para celebración del Grito en Ensenada cuesta 50 pesos",
+        "summary": "Autoridades ofrecen servicio de movilización a eventos de Independencia.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/ensenada/2026/09/09/grito-de-independencia-en-ensenada-transporte-costara-50-pesos-y-no-se-aclara-fundamento/",
+        "_added_at": "2026-09-09T12:11:20.916562-07:00"
+      },
+      {
+        "title": "El Kekas renuncia a derecho de juicio abreviado en Ensenada",
+        "summary": "Presunto homicida de australianos opta por proceso judicial ordinario.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/en-ensenada-el-kekas-presunto-homicida-de-los-australianos-renuncio-a-su-derecho-a-un-juicio-abreviado/?utm_source=rss&utm_medium=rss&utm_campaign=en-ensenada-el-kekas-presunto-homicida-de-los-australianos-renuncio-a-su-derecho-a-un-juicio-abreviado",
+        "_added_at": "2026-09-09T12:11:20.916562-07:00"
+      },
+      {
         "title": "Apagones afectan sector Hipódromo en Tijuana",
         "summary": "Residentes de zona reportan cortes de energía que generan inconvenientes en comunidad.",
         "source": "AFN Tijuana",
@@ -95,5 +200,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-09T00:27:50.418093-07:00"
+  "last_updated": "2026-09-09T12:11:20.916562-07:00"
 }

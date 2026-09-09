@@ -1,160 +1,406 @@
 {
-  "generated_at": "2026-09-09T07:27:49.643811+00:00",
+  "generated_at": "2026-09-09T19:11:20.114924+00:00",
   "items": [
     {
-      "source": "AFN Tijuana",
-      "title": "Retrocedió México en matemáticas; siete de cada 10 no alcanzaron nivel básico",
-      "url": "https://www.afntijuana.info/nacionales/181437_retrocedio_mexico_en_matematicas_siete_de_cada_10_no_alcanzaron_nivel_basico",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Nominan a mexicanos al Balón de Oro 2026Deportes |8 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Deportes/99173/Nominan-a-mexicanos-al-Bal%C3%B3n-de-Oro-2026",
-      "published": ""
+      "source": "ZETA Tijuana",
+      "title": "Lo atacan a balazos en la colonia El Roble en Mexicali",
+      "url": "https://zetatijuana.com/2026/09/lo-atacan-a-balazos-en-la-colonia-el-roble-en-mexicali/?utm_source=rss&utm_medium=rss&utm_campaign=lo-atacan-a-balazos-en-la-colonia-el-roble-en-mexicali",
+      "published": "Wed, 09 Sep 2026 18:05:45 +0000"
     },
     {
       "source": "AFN Tijuana",
-      "title": "No habrá apagón de 48 horas en Tijuana, pero sí se registraron cortes",
-      "url": "https://www.afntijuana.info/informacion_general/181436_no_habra_apagon_de_48_horas_en_tijuana_pero_si_se_registraron_cortes",
+      "title": "Alemania, la derecha y la conquista que nadie quiso ver",
+      "url": "https://www.afntijuana.info/editoriales/181456_alemania_la_derecha_y_la_conquista_que_nadie_quiso_ver",
       "published": ""
     },
     {
       "source": "El Mexicano",
-      "title": "Nominan a mexicanos al Balón de Oro 2026Deportes| martes 08 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Deportes/99173/Nominan-a-mexicanos-al-Bal%C3%B3n-de-Oro-2026",
+      "title": "Apple presenta los nuevos AirPods 5 con funciones de IATecnología |9 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Tecnolog%C3%ADa/99201/Apple-presenta-los-nuevos-AirPods-5-con-funciones-de-IA",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial (Tijuana)",
+      "title": "Crecimiento de Tijuana genera asentamientos irregulares",
+      "url": "https://www.elimparcial.com/tij/tijuana/2026/09/09/crecimiento-de-tijuana-genera-asentamientos-irregulares-y-rezago-en-infraestructura/",
+      "published": ""
+    },
+    {
+      "source": "Yo Amo Tijuana",
+      "title": "Lanzan terrenos sin enganche y con apartado de $500 dólares cerca de Valle de Guadalupe",
+      "url": "https://amotijuana.com/lanzan-terrenos-sin-enganche-y-con-apartado-de-500-dolares-cerca-de-valle-de-guadalupe/",
+      "published": ""
+    },
+    {
+      "source": "TJ Comunica",
+      "title": "Muere motociclista tras impactarse contra camioneta en Calzada Independencia",
+      "url": "https://tjcomunica.com/muere-motociclista-tras-impactarse-contra-camioneta-en-calzada-independencia/",
+      "published": ""
+    },
+    {
+      "source": "ZETA Tijuana",
+      "title": "Anuncian sexta etapa del Serial Atlético Delegacional",
+      "url": "https://zetatijuana.com/2026/09/anuncian-sexta-etapa-del-serial-atletico-delegacional/?utm_source=rss&utm_medium=rss&utm_campaign=anuncian-sexta-etapa-del-serial-atletico-delegacional",
+      "published": "Wed, 09 Sep 2026 17:47:21 +0000"
+    },
+    {
+      "source": "AFN Tijuana",
+      "title": "Decomisan 76 kilos de cocaína ocultos en camión de carga",
+      "url": "https://www.afntijuana.info/seguridad/181455_decomisan_76_kilos_de_cocaina_ocultos_en_camion_de_carga",
+      "published": ""
+    },
+    {
+      "source": "El Mexicano",
+      "title": "Apple presenta los nuevos AirPods 5 con funciones de IATecnología| miércoles 09 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Tecnolog%C3%ADa/99201/Apple-presenta-los-nuevos-AirPods-5-con-funciones-de-IA",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial (Tijuana)",
+      "title": "El presidente del Cictac señaló que el crecimiento acelerado de Tijuana ha dificultado la planeación urbana y generado asentamientos irregulares, principalmente en el Este y sur de la ciudad.",
+      "url": "https://www.elimparcial.com/tij/tijuana/2026/09/09/crecimiento-de-tijuana-genera-asentamientos-irregulares-y-rezago-en-infraestructura/",
+      "published": ""
+    },
+    {
+      "source": "Yo Amo Tijuana",
+      "title": "¡Es hora de apoyar! mañana Zonkeys tendrá su último partido en casa contra CDMX",
+      "url": "https://amotijuana.com/es-hora-de-apoyar-manana-zonkeys-tendra-su-ultimo-partido-en-casa-contra-cdmx/",
+      "published": ""
+    },
+    {
+      "source": "TJ Comunica",
+      "title": "Conductor pierde el control y choca contra barda del Aeropuerto de Tijuana",
+      "url": "https://tjcomunica.com/conductor-pierde-el-control-y-choca-contra-barda-del-aeropuerto-de-tijuana/",
+      "published": ""
+    },
+    {
+      "source": "ZETA Tijuana",
+      "title": "En servicios funerarios de Narcizo Alemán, denuncian amenazas",
+      "url": "https://zetatijuana.com/2026/09/en-servicios-funerarios-de-narcizo-aleman-denuncian-amenazas/?utm_source=rss&utm_medium=rss&utm_campaign=en-servicios-funerarios-de-narcizo-aleman-denuncian-amenazas",
+      "published": "Wed, 09 Sep 2026 17:05:46 +0000"
+    },
+    {
+      "source": "AFN Tijuana",
+      "title": "Persisten largas filas de motociclistas en San Ysidro, aunque mejora el cruce",
+      "url": "https://www.afntijuana.info/informacion_general/181454_persisten_largas_filas_de_motociclistas_en_san_ysidro_aunque_mejora_el_cruce",
+      "published": ""
+    },
+    {
+      "source": "El Mexicano",
+      "title": "Sentencian a cadena perpetua a dos mujeres por asesinato de Sam NordquistThe Border |9 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/The%20Border/99200/Sentencian-a-cadena-perpetua-a-dos-mujeres-por-asesinato-de-Sam-Nordquist",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial (Tijuana)",
+      "title": "Detienen a hombre por presunta agresión a embarazada",
+      "url": "https://www.elimparcial.com/tij/policiaca/2026/09/09/mujer-embarazada-pidio-auxilio-a-policias-tras-presunta-agresion-de-su-expareja-en-tijuana/",
+      "published": ""
+    },
+    {
+      "source": "Yo Amo Tijuana",
+      "title": "Lanzan terrenos sin enganche cerca de Rosarito y Valle de Guadalupe",
+      "url": "https://amotijuana.com/lanzan-terrenos-sin-enganche-cerca-de-rosarito-y-valle-de-guadalupe/",
+      "published": ""
+    },
+    {
+      "source": "TJ Comunica",
+      "title": "Detienen a trabajadora del Ayuntamiento de Tecate en la frontera con casi 70 kilos de metanfetamina; Román Cota intenta deslindarse",
+      "url": "https://tjcomunica.com/detienen-a-trabajadora-del-ayuntamiento-de-tecate-en-la-frontera-con-casi-70-kilos-de-metanfetamina-roman-cota-intenta-deslindarse/",
+      "published": ""
+    },
+    {
+      "source": "ZETA Tijuana",
+      "title": "“Hechizo de amor: La magia continúa”: nostalgia y magia desaprovechadas",
+      "url": "https://zetatijuana.com/2026/09/hechizo-de-amor-la-magia-continua-nostalgia-y-magia-desaprovechadas/?utm_source=rss&utm_medium=rss&utm_campaign=hechizo-de-amor-la-magia-continua-nostalgia-y-magia-desaprovechadas",
+      "published": "Wed, 09 Sep 2026 16:44:32 +0000"
+    },
+    {
+      "source": "AFN Tijuana",
+      "title": "Critica Sandoval \"doble discurso\" oficial sobre calidad educativa",
+      "url": "https://www.afntijuana.info/informacion_general/181453_critica_sandoval_doble_discurso_oficial_sobre_calidad_educativa",
+      "published": ""
+    },
+    {
+      "source": "El Mexicano",
+      "title": "Sentencian a cadena perpetua a dos mujeres por asesinato de Sam NordquistThe Border| miércoles 09 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/The%20Border/99200/Sentencian-a-cadena-perpetua-a-dos-mujeres-por-asesinato-de-Sam-Nordquist",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial (Tijuana)",
+      "title": "Transporte para el Grito en Ensenada costará 50 pesos",
+      "url": "https://www.elimparcial.com/tij/ensenada/2026/09/09/grito-de-independencia-en-ensenada-transporte-costara-50-pesos-y-no-se-aclara-fundamento/",
+      "published": ""
+    },
+    {
+      "source": "Yo Amo Tijuana",
+      "title": "Call center en Tijuana arranca el año con sueldos de hasta $10,000 semanales",
+      "url": "https://amotijuana.com/call-center-en-tijuana-arranca-el-ano-con-sueldos-de-hasta-10000-semanales/",
+      "published": ""
+    },
+    {
+      "source": "TJ Comunica",
+      "title": "Inaugura Presidenta Rocio Adame obra de pavimentación que beneficia a familias y comunidad escolar de la colonia Reforma",
+      "url": "https://tjcomunica.com/inaugura-presidenta-rocio-adame-obra-de-pavimentacion-que-beneficia-a-familias-y-comunidad-escolar-de-la-colonia-reforma/",
+      "published": ""
+    },
+    {
+      "source": "ZETA Tijuana",
+      "title": "Combate a la evasión fiscal y gasto social, los ejes del Paquete Económico 2027: CSP",
+      "url": "https://zetatijuana.com/2026/09/combate-a-la-evasion-fiscal-y-gasto-social-los-ejes-del-paquete-economico-2027-csp/?utm_source=rss&utm_medium=rss&utm_campaign=combate-a-la-evasion-fiscal-y-gasto-social-los-ejes-del-paquete-economico-2027-csp",
+      "published": "Wed, 09 Sep 2026 16:00:29 +0000"
+    },
+    {
+      "source": "AFN Tijuana",
+      "title": "Maestros de la CNTE encadenan accesos a oficinas públicas",
+      "url": "https://www.afntijuana.info/informacion_general/181452_maestros_de_la_cnte_encadenan_accesos_a_oficinas_publicas",
+      "published": ""
+    },
+    {
+      "source": "El Mexicano",
+      "title": "CNTE mantiene tomadas instalaciones del Sistema Educativo por falta de pago a maestros interinosTijuana |9 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99199/CNTE-mantiene-tomadas-instalaciones-del-Sistema-Educativo-por-falta-de-pago-a-maestros-interinos",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial (Tijuana)",
+      "title": "Tras PISA, la SEP implementa evaluación interna",
+      "url": "https://www.elimparcial.com/mexico/2026/09/09/luego-de-que-la-prueba-pisa-revelo-un-retroceso-educativo-de-25-anos-en-mexico-la-sep-opto-por-un-esquema-de-calificacion-local-que-carece-de-supervision-independiente/",
+      "published": ""
+    },
+    {
+      "source": "Yo Amo Tijuana",
+      "title": "Aficionados se reunirán en La Cacho para ver la final de la Liga MX",
+      "url": "https://amotijuana.com/aficionados-se-reuniran-en-la-cacho-para-ver-la-final-de-la-liga-mx/",
+      "published": ""
+    },
+    {
+      "source": "ZETA Tijuana",
+      "title": "Toros cae en primer duelo de la Serie del Rey",
+      "url": "https://zetatijuana.com/2026/09/toros-cae-en-primer-duelo-de-la-serie-del-rey/?utm_source=rss&utm_medium=rss&utm_campaign=toros-cae-en-primer-duelo-de-la-serie-del-rey",
+      "published": "Wed, 09 Sep 2026 15:43:37 +0000"
+    },
+    {
+      "source": "AFN Tijuana",
+      "title": "Grupo Intocable tocará en el Zócalo capitalino durante el \"Grito\" de independencia",
+      "url": "https://www.afntijuana.info/nacionales/181451_grupo_intocable_tocara_en_el_zocalo_capitalino_durante_el_grito_de_independencia",
+      "published": ""
+    },
+    {
+      "source": "El Mexicano",
+      "title": "CNTE mantiene tomadas instalaciones del Sistema Educativo por falta de pago a maestros interinosTijuana| miércoles 09 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99199/CNTE-mantiene-tomadas-instalaciones-del-Sistema-Educativo-por-falta-de-pago-a-maestros-interinos",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial (Tijuana)",
+      "title": "Condusef alerta por suplantación de 11 empresas financieras",
+      "url": "https://www.elimparcial.com/dinero/2026/09/09/condusef-alerta-por-la-suplantacion-de-identidad-de-11-entidades-financieras-registradas-ante-el-sipres-que-son-usadas-para-exigir-dinero-antes-de-entregar-creditos/",
+      "published": ""
+    },
+    {
+      "source": "Yo Amo Tijuana",
+      "title": "El lugar de brunch en la cacho que dará pastel y bebida gratis a los cumpleañeros",
+      "url": "https://amotijuana.com/el-lugar-de-brunch-en-la-cacho-que-dara-pastel-y-bebida-gratis-a-los-cumpleaneros/",
+      "published": ""
+    },
+    {
+      "source": "ZETA Tijuana",
+      "title": "Incendio de poste e instalación subterránea de CFE dejan mil 500 usuarios sin luz en Tijuana",
+      "url": "https://zetatijuana.com/2026/09/incendio-de-poste-e-instalacion-subterranea-de-cfe-dejan-mil-500-usuarios-sin-luz-en-tijuana/?utm_source=rss&utm_medium=rss&utm_campaign=incendio-de-poste-e-instalacion-subterranea-de-cfe-dejan-mil-500-usuarios-sin-luz-en-tijuana",
+      "published": "Wed, 09 Sep 2026 14:58:57 +0000"
+    },
+    {
+      "source": "AFN Tijuana",
+      "title": "RECICLADOS",
+      "url": "https://www.afntijuana.info/editoriales/181450_reciclados",
+      "published": ""
+    },
+    {
+      "source": "El Mexicano",
+      "title": "Presidenta llama a discutir regulación de IA ante propagación de noticias falsas en redesNacional |9 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Nacional/99197/Presidenta-llama-a-discutir-regulaci%C3%B3n-de-IA-ante-propagaci%C3%B3n-de-noticias-falsas-en-redes",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial (Tijuana)",
+      "title": "Pagos del Bienestar del 9 al 15 de septiembre para letras G",
+      "url": "https://www.elimparcial.com/dinero/2026/09/09/los-apellidos-con-g-h-i-j-k-l-y-m-reciben-su-pago-de-la-pension-del-bienestar-del-9-al-15-de-septiembre-de-acuerdo-con-el-calendario-oficial-de-2026/",
+      "published": ""
+    },
+    {
+      "source": "Yo Amo Tijuana",
+      "title": "Posadas al estilo picnic con chilaquiles y mimosas: así es la propuesta de este restaurante",
+      "url": "https://amotijuana.com/posadas-al-estilo-picnic-con-chilaquiles-y-mimosas-asi-es-la-propuesta-de-este-restaurante/",
+      "published": ""
+    },
+    {
+      "source": "ZETA Tijuana",
+      "title": "En Ensenada: El Kekas, presunto homicida de los australianos, renunció a su derecho a un juicio abreviado",
+      "url": "https://zetatijuana.com/2026/09/en-ensenada-el-kekas-presunto-homicida-de-los-australianos-renuncio-a-su-derecho-a-un-juicio-abreviado/?utm_source=rss&utm_medium=rss&utm_campaign=en-ensenada-el-kekas-presunto-homicida-de-los-australianos-renuncio-a-su-derecho-a-un-juicio-abreviado",
+      "published": "Wed, 09 Sep 2026 14:40:02 +0000"
+    },
+    {
+      "source": "AFN Tijuana",
+      "title": "¿Nuevo romance? Renata Notni y Alejandro Speitzer desatan rumores tras viaje juntos",
+      "url": "https://www.afntijuana.info/espectaculos/181449_inuevo_romance_renata_notni_y_alejandro_speitzer_desatan_rumores_tras_viaje_juntos",
+      "published": ""
+    },
+    {
+      "source": "El Mexicano",
+      "title": "Presidenta llama a discutir regulación de IA ante propagación de noticias falsas en redesNacional| miércoles 09 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Nacional/99197/Presidenta-llama-a-discutir-regulaci%C3%B3n-de-IA-ante-propagaci%C3%B3n-de-noticias-falsas-en-redes",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial (Tijuana)",
+      "title": "Gasolinazo y nuevos impuestos quedan descartados para 2027",
+      "url": "https://www.elimparcial.com/mexico/2026/09/09/gasolinazo-y-nuevos-impuestos-quedan-descartados-para-2027-afirma-sheinbaum-al-presentar-los-cambios-fiscales-que-busca-aplicar-el-gobierno-federal/",
+      "published": ""
+    },
+    {
+      "source": "Yo Amo Tijuana",
+      "title": "Sueldos de $5,840 a $10,000 semanales en call center de Tijuana",
+      "url": "https://amotijuana.com/sueldos-de-5840-a-10000-semanales-en-call-center-de-tijuana/",
+      "published": ""
+    },
+    {
+      "source": "ZETA Tijuana",
+      "title": "Injerencia extranjera: una nulidad sin fronteras claras",
+      "url": "https://zetatijuana.com/2026/09/injerencia-extranjera-una-nulidad-sin-fronteras-claras/?utm_source=rss&utm_medium=rss&utm_campaign=injerencia-extranjera-una-nulidad-sin-fronteras-claras",
+      "published": "Wed, 09 Sep 2026 14:00:53 +0000"
+    },
+    {
+      "source": "AFN Tijuana",
+      "title": "Conflicto de Tini Stoessel y su padre podría escalar",
+      "url": "https://www.afntijuana.info/espectaculos/181448_conflicto_de_tini_stoessel_y_su_padre_podria_escalar",
+      "published": ""
+    },
+    {
+      "source": "El Mexicano",
+      "title": "Sheinbaum celebra aprobación en comisiones de reforma sobre doble nacionalidadNacional |9 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Nacional/99196/Sheinbaum-celebra-aprobaci%C3%B3n-en-comisiones-de-reforma-sobre-doble-nacionalidad",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial (Tijuana)",
+      "title": "SAT va contra factureras y empresas con pérdidas falsas",
+      "url": "https://www.elimparcial.com/mexico/2026/09/09/sat-y-gobierno-de-sheinbaum-detectaron-a-mas-de-54-mil-empresas-que-acumulan-hasta-cinco-anos-sin-pagar-isr-reportando-perdidas-con-facturas-falsas-y-estan-preparando-candados-legales-mas-estrictos-para-frenar-el-uso-de-gastos-ficticios-que-merman-la-recaudacion-fiscal-del-pais/",
+      "published": ""
+    },
+    {
+      "source": "Yo Amo Tijuana",
+      "title": "El único lugar en Tijuana donde tu posada puede ser con mimosas o con cheve",
+      "url": "https://amotijuana.com/el-unico-lugar-en-tijuana-donde-tu-posada-puede-ser-con-mimosas-o-con-cheve/",
       "published": ""
     },
     {
       "source": "AFN Tijuana",
-      "title": "Apagón afecta a residentes del sector Hipódromo, en Tijuana",
-      "url": "https://www.afntijuana.info/informacion_general/181434_apagon_afecta_a_residentes_del_sector_hipodromo_en_tijuana",
+      "title": "Aylín Mujica reacciona a la conmovedora canción que su ex Osamu Menéndez dedicó a su hijo Mauro",
+      "url": "https://www.afntijuana.info/espectaculos/181447_aylin_mujica_reacciona_a_la_conmovedora_cancion_que_su_ex_osamu_menendez_dedico_a_su_hijo_mauro",
       "published": ""
     },
     {
       "source": "El Mexicano",
-      "title": "Arranca NFL temporadaDeportes |8 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Deportes/99172/Arranca-NFL-temporada",
+      "title": "Sheinbaum celebra aprobación en comisiones de reforma sobre doble nacionalidadNacional| miércoles 09 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Nacional/99196/Sheinbaum-celebra-aprobaci%C3%B3n-en-comisiones-de-reforma-sobre-doble-nacionalidad",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial (Tijuana)",
+      "title": "Claves del Paquete Económico 2027",
+      "url": "https://www.elimparcial.com/dinero/2026/09/09/claves-del-paquete-economico-2027-que-explican-el-impacto-directo-en-el-bolsillo-de-los-mexicanos-con-aumentos-a-apoyos-del-bienestar-mayor-gasto-en-salud-y-la-meta-de-recaudacion-de-impuestos/",
+      "published": ""
+    },
+    {
+      "source": "Yo Amo Tijuana",
+      "title": "Restaurante de brunch en la cacho dará pastel y bebida gratis a cumpleañeros",
+      "url": "https://amotijuana.com/restaurante-de-brunch-en-la-cacho-dara-pastel-y-bebida-gratis-a-cumpleaneros/",
       "published": ""
     },
     {
       "source": "AFN Tijuana",
-      "title": "Presupuesto de Egresos no atiende las principales necesidades: PRI",
-      "url": "https://www.afntijuana.info/nacionales/181433_presupuesto_de_egresos_no_atiende_las_principales_necesidades_pri",
+      "title": "Pati Chapoy manda fuerte mensaje a Kenia Os tras pedir respeto a la prensa",
+      "url": "https://www.afntijuana.info/espectaculos/181446_pati_chapoy_manda_fuerte_mensaje_a_kenia_os_tras_pedir_respeto_a_la_prensa",
       "published": ""
     },
     {
       "source": "El Mexicano",
-      "title": "Arranca NFL temporadaDeportes| martes 08 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Deportes/99172/Arranca-NFL-temporada",
+      "title": "Presidenta rechaza ceder soberanía o afectar la economía en negociación del T-MECNacional |9 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Nacional/99195/Presidenta-rechaza-ceder-soberan%C3%ADa-o-afectar-la-econom%C3%ADa-en-negociaci%C3%B3n-del-T-MEC",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial (Tijuana)",
+      "title": "Choque contra barda del Aeropuerto de Tijuana",
+      "url": "https://www.elimparcial.com/tij/policiaca/2026/09/09/conductor-pierde-el-control-y-choca-contra-barda-del-aeropuerto-de-tijuana/",
       "published": ""
     },
     {
       "source": "AFN Tijuana",
-      "title": "Se reunió Alfredo Álvarez con emprendedoras y deportistas en Mexicali",
-      "url": "https://www.afntijuana.info/informacion_general/181432_se_reunio_alfredo_alvarez_con_emprendedoras_y_deportistas_en_mexicali",
+      "title": "Alicia Villarreal lanza nueva indirecta a Arturo Carmona",
+      "url": "https://www.afntijuana.info/espectaculos/181445_alicia_villarreal_lanza_nueva_indirecta_a_arturo_carmona",
       "published": ""
     },
     {
       "source": "El Mexicano",
-      "title": "Llegará Serial a Otay CentenarioDeportes |8 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Deportes/99171/Llegar%C3%A1-Serial-a-Otay-Centenario",
+      "title": "Presidenta rechaza ceder soberanía o afectar la economía en negociación del T-MECNacional| miércoles 09 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Nacional/99195/Presidenta-rechaza-ceder-soberan%C3%ADa-o-afectar-la-econom%C3%ADa-en-negociaci%C3%B3n-del-T-MEC",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial (Tijuana)",
+      "title": "Lobo marino aparece en pleno Centro de Ensenada",
+      "url": "https://www.elimparcial.com/tij/ensenada/2026/09/09/un-lobo-marino-aparecio-en-pleno-centro-de-ensenada-y-autoridades-tuvieron-que-resguardar-la-zona/",
       "published": ""
     },
     {
       "source": "AFN Tijuana",
-      "title": "Plantea Hacienda mayores cobros por servicios para 2027",
-      "url": "https://www.afntijuana.info/nacionales/181431_plantea_hacienda_mayores_cobros_por_servicios_para_2027",
+      "title": "Katy Perry habla de sus 9 años con Orlando Bloom",
+      "url": "https://www.afntijuana.info/espectaculos/181444_katy_perry_habla_de_sus_9_anos_con_orlando_bloom",
       "published": ""
     },
     {
       "source": "El Mexicano",
-      "title": "Llegará Serial a Otay CentenarioDeportes| martes 08 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Deportes/99171/Llegar%C3%A1-Serial-a-Otay-Centenario",
-      "published": ""
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Vientos de Santa Ana podrían extenderse esta temporada, advierte Protección Civil",
-      "url": "https://www.afntijuana.info/informacion_general/181430_vientos_de_santa_ana_podrian_extenderse_esta_temporada_advierte_proteccion_civil",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Arranca la Serie del Rey en TijuanaDeportes |8 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Deportes/99170/Arranca-la-Serie-del-Rey-en-Tijuana",
-      "published": ""
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Ante los vientos de Santa Ana ¡cerrar las ventanas!",
-      "url": "https://www.afntijuana.info/humorismo_politico/181429_ante_los_vientos_de_santa_ana_cerrar_las_ventanas",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Arranca la Serie del Rey en TijuanaDeportes| martes 08 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Deportes/99170/Arranca-la-Serie-del-Rey-en-Tijuana",
-      "published": ""
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Plantean mayor control fiscal a combustibles para 2027",
-      "url": "https://www.afntijuana.info/nacionales/181428_plantean_mayor_control_fiscal_a_combustibles_para_2027",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Llaman a recuperar el “Derecho a la Ciudad” en TijuanaTijuana |8 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99168/Llaman-a-recuperar-el-%E2%80%9CDerecho-a-la-Ciudad%E2%80%9D-en-Tijuana",
-      "published": ""
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Julieta la \"tapada\" de la 4t para Baja California",
-      "url": "https://www.afntijuana.info/afn_politico/181427_julieta_la_tapada_de_la_4t_para_baja_california",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Llaman a recuperar el “Derecho a la Ciudad” en TijuanaTijuana| martes 08 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99168/Llaman-a-recuperar-el-%E2%80%9CDerecho-a-la-Ciudad%E2%80%9D-en-Tijuana",
-      "published": ""
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Pide Canaco al SAT buen criterio fiscal ante paquete económico 2027",
-      "url": "https://www.afntijuana.info/informacion_general/181426_pide_canaco_al_sat_buen_criterio_fiscal_ante_paquete_economico_2027",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Rosarito prepara dos días de actividades por las fiestas patrias en Primo Tapia y Santa AnitaRosarito |8 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Rosarito/99167/Rosarito-prepara-dos-d%C3%ADas-de-actividades-por-las-fiestas-patrias-en-Primo-Tapia-y-Santa-Anita",
-      "published": ""
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Registra Mexicali tasa de desocupación de 2.4% en el segundo trimestre de 2026: INEGI",
-      "url": "https://www.afntijuana.info/informacion_general/181425_registra_mexicali_tasa_de_desocupacion_de_2_4_en_el_segundo_trimestre_de_2026_inegi",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Rosarito prepara dos días de actividades por las fiestas patrias en Primo Tapia y Santa AnitaRosarito| martes 08 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Rosarito/99167/Rosarito-prepara-dos-d%C3%ADas-de-actividades-por-las-fiestas-patrias-en-Primo-Tapia-y-Santa-Anita",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Presentará Congreso de BC exhorto a CFE por apagones y falta de infraestructuraDurante la sesión ordinaria este juevesMexicali| martes 08 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Mexicali/99161/Presentar%C3%A1-Congreso-de-BC-exhorto-a-CFE-por-apagones-y-falta-de-infraestructura",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Piden usuarios nueva tarifa de luz ante cobros excesivosMexicali| martes 08 de septiembre",
+      "title": "Piden usuarios nueva tarifa de luz ante cobros excesivosManifestantes acuden al Poder Ejecutivo y Legislativo para solicitar apoyoMexicali| martes 08 de septiembre",
       "url": "https://el-mexicano.com.mx/Noticia/Mexicali/99166/Piden-usuarios-nueva-tarifa-de-luz-ante-cobros-excesivos",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial (Tijuana)",
+      "title": "¿Cuánto dura la batería de un auto eléctrico?",
+      "url": "https://www.elimparcial.com/tecnologia/2026/09/09/cuanto-dura-la-bateria-de-un-auto-electrico-estos-factores-pueden-reducir-su-vida-util/",
+      "published": ""
+    },
+    {
+      "source": "AFN Tijuana",
+      "title": "Fortaleza sexenal",
+      "url": "https://www.afntijuana.info/cartones/181443_fortaleza_sexenal",
+      "published": ""
+    },
+    {
+      "source": "El Mexicano",
+      "title": "Centro de rehabilitación carece de programa de salud mentalLos pacientes fueron reubicadosMexicali| martes 08 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Mexicali/99165/Centro-de-rehabilitaci%C3%B3n-carece-de-programa-de-salud-mental",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial (Tijuana)",
+      "title": "México lidera exportación de belleza en América Latina",
+      "url": "https://www.elimparcial.com/dinero/2026/09/09/mexico-supera-a-toda-america-latina-junta-en-exportacion-de-productos-de-belleza-al-sumar-1131-millones-de-dolares-de-ventas-al-exterior-entre-enero-y-abril-de-2026/",
+      "published": ""
+    },
+    {
+      "source": "AFN Tijuana",
+      "title": "Mirada de frente",
+      "url": "https://www.afntijuana.info/cartones/181442_mirada_de_frente",
+      "published": ""
+    },
+    {
+      "source": "El Mexicano",
+      "title": "Pide Canaco facilidad al SAT para cumplimiento de obligaciones fiscalesAnte presentación de paquete económico 2027Mexicali| martes 08 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Mexicali/99163/Pide-Canaco-facilidad-al-SAT-para-cumplimiento-de-obligaciones-fiscales",
       "published": ""
     }
   ]
