@@ -1,8 +1,22 @@
 {
   "date": "2026-09-09",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "FGR imputa a integrantes de Los Rugrats por narcotráfico",
+        "summary": "Miembros de organización criminal enfrentan cargos por delincuencia organizada y narcotráfico en Baja California.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/fgr-imputa-a-integrantes-de-los-rugrats-por-delincuencia-organizada-y-narcotrafico-en-baja-california/?utm_source=rss&utm_medium=rss&utm_campaign=fgr-imputa-a-integrantes-de-los-rugrats-por-delincuencia-organizada-y-narcotrafico-en-baja-california",
+        "_added_at": "2026-09-09T16:58:18.563850-07:00"
+      },
+      {
+        "title": "Motociclista muere al impactarse contra camioneta",
+        "summary": "Accidente fatal en Calzada Independencia deja una persona fallecida.",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/muere-motociclista-tras-impactarse-contra-camioneta-en-calzada-independencia/",
+        "_added_at": "2026-09-09T16:58:18.563850-07:00"
+      },
       {
         "title": "Ataque a balazos registrado en colonia El Roble, Mexicali",
         "summary": "Persona fue atacada a tiros en la colonia El Roble de Mexicali en incidente de violencia armada.",
@@ -40,6 +54,27 @@
       }
     ],
     "politica": [
+      {
+        "title": "Funcionaria del INE renuncia al inicio del proceso electoral 2026",
+        "summary": "Claudia Arlett Espino abandona su cargo en el INE en momento crítico del proceso electoral.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/golpe-institucional-claudia-arlett-espino-deja-el-ine-justo-al-inicio-del-proceso-2026-2027/?utm_source=rss&utm_medium=rss&utm_campaign=golpe-institucional-claudia-arlett-espino-deja-el-ine-justo-al-inicio-del-proceso-2026-2027",
+        "_added_at": "2026-09-09T16:58:18.563850-07:00"
+      },
+      {
+        "title": "Renuncia Rubén Chen a delegación del Centro Histórico",
+        "summary": "Funcionario de Mexicali abandona su puesto en la delegación del Centro Histórico.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/99216/Renuncia-Ruben-Chen-a-la-delegaci%C3%B3n-del-Centro--Hist%C3%B3rico",
+        "_added_at": "2026-09-09T16:58:18.563850-07:00"
+      },
+      {
+        "title": "Eva Moreno respalda presupuesto para programas sociales",
+        "summary": "Funcionaria de Baja California apoya propuesta presupuestaria de la administración federal.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181464_eva_moreno_respalda_presupuesto_para_programas_sociales_de_sheinbaum",
+        "_added_at": "2026-09-09T16:58:18.563850-07:00"
+      },
       {
         "title": "Maestros de CNTE cierran accesos a oficinas públicas",
         "summary": "Gremio educativo toma instalaciones por falta de pagos a maestros interinos en Tijuana.",
@@ -84,6 +119,20 @@
       }
     ],
     "economia": [
+      {
+        "title": "Lanzan terrenos sin enganche en Rosarito y Valle de Guadalupe",
+        "summary": "Promotora inmobiliaria ofrece terrenos con facilidades de pago y enganche reducido.",
+        "source": "Yo Amo Tijuana",
+        "url": "https://amotijuana.com/lanzan-terrenos-sin-enganche-cerca-de-rosarito-y-valle-de-guadalupe/",
+        "_added_at": "2026-09-09T16:58:18.563850-07:00"
+      },
+      {
+        "title": "Piden estímulos fiscales permanentes para la frontera",
+        "summary": "Sector privado solicita al gobierno federal apoyos y recursos económicos sostenidos.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181463_piden_estimulos_fiscales_permanentes_y_recursos_para_la_frontera",
+        "_added_at": "2026-09-09T16:58:18.563850-07:00"
+      },
       {
         "title": "Crecimiento acelerado de Tijuana genera asentamientos irregulares",
         "summary": "Expansión urbana sin planificación provoca ocupaciones ilegales en zonas Este y Sur.",
@@ -143,6 +192,34 @@
     ],
     "sociedad": [
       {
+        "title": "Clases suspendidas en BC por temperaturas extremas superiores a 40 grados",
+        "summary": "Escuelas públicas en Baja California cierran presencialmente; autoridades implementan educación en línea.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/por-altas-temperaturas-analizan-suspender-clases-presenciales-en-baja-california/?utm_source=rss&utm_medium=rss&utm_campaign=por-altas-temperaturas-analizan-suspender-clases-presenciales-en-baja-california",
+        "_added_at": "2026-09-09T16:58:18.563850-07:00"
+      },
+      {
+        "title": "Perros sufren golpes de calor por temperaturas extremas",
+        "summary": "Mascotas en Tijuana afectadas por onda de calor; autoridades alertan sobre riesgos.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99215/Sufren-perros-golpes-de-calor-ante-las-temperaturas-extremas-en-Tijuana",
+        "_added_at": "2026-09-09T16:58:18.563850-07:00"
+      },
+      {
+        "title": "469 personas atendidas por conductas suicidas en Tijuana",
+        "summary": "Servicios de salud en Tijuana registran cifra significativa de atenciones por crisis emocionales.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/09/atienden-en-tijuana-a-469-personas-por-conductas-suicidas/",
+        "_added_at": "2026-09-09T16:58:18.563850-07:00"
+      },
+      {
+        "title": "Actividades suspendidas en PFLC por onda de calor",
+        "summary": "Procuraduría cierra operaciones presenciales ante temperaturas extremas en la región.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/suspenden-actividades-en-la-pflc-por-altas-temperaturas/?utm_source=rss&utm_medium=rss&utm_campaign=suspenden-actividades-en-la-pflc-por-altas-temperaturas",
+        "_added_at": "2026-09-09T16:58:18.563850-07:00"
+      },
+      {
         "title": "Detienen a hombre por agresión a mujer embarazada en Tijuana",
         "summary": "Expareja capturada tras atacar a gestante; víctima solicitó apoyo policial.",
         "source": "El Imparcial (Tijuana)",
@@ -183,22 +260,8 @@
         "source": "El Mexicano",
         "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99168/Llaman-a-recuperar-el-%E2%80%9CDerecho-a-la-Ciudad%E2%80%9D-en-Tijuana",
         "_added_at": "2026-09-09T00:27:50.418093-07:00"
-      },
-      {
-        "title": "Alfredo Álvarez se reúne con emprendedoras en Mexicali",
-        "summary": "Funcionario sostiene encuentro con mujeres empresarias y deportistas en capital estatal.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181432_se_reunio_alfredo_alvarez_con_emprendedoras_y_deportistas_en_mexicali",
-        "_added_at": "2026-09-09T00:27:50.418093-07:00"
-      },
-      {
-        "title": "Rosarito prepara celebraciones por fiestas patrias",
-        "summary": "Municipio organiza actividades en dos sedes para conmemorar independencia nacional.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Rosarito/99167/Rosarito-prepara-dos-d%C3%ADas-de-actividades-por-las-fiestas-patrias-en-Primo-Tapia-y-Santa-Anita",
-        "_added_at": "2026-09-09T00:27:50.418093-07:00"
       }
     ]
   },
-  "last_updated": "2026-09-09T12:11:20.916562-07:00"
+  "last_updated": "2026-09-09T16:58:18.563850-07:00"
 }
