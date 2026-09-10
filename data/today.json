@@ -1,8 +1,36 @@
 {
   "date": "2026-09-10",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Agente fiscal buscado por disparos contra expareja en Mexicali",
+        "summary": "Autoridades buscan a elemento de la fiscalía estatal que disparó contra domicilio de su expareja en Mexicali.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/181525_buscan_a_agente_de_la_fiscalia_estatal_que_disparo_contra_la_casa_de_su_expareja_en_mexicali",
+        "_added_at": "2026-09-10T16:54:00.883019-07:00"
+      },
+      {
+        "title": "Pareja detenida tras persecución armada en Tijuana",
+        "summary": "Detienen a pareja portando arma tras operativo de persecución en Tijuana.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/policiaca/2026/09/10/detienen-a-pareja-con-arma-tras-persecucion-en-tijuana/",
+        "_added_at": "2026-09-10T16:54:00.883019-07:00"
+      },
+      {
+        "title": "Sicario capturado tras persecución en Tijuana",
+        "summary": "Municipales atrapan a \"El Diablo\", presunto sicario vinculado a cartel tijuanense, tras persecución.",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/tras-una-persecucion-municipales-atoran-a-el-diablo-sicario-de-un-cartel-de-tijuana/",
+        "_added_at": "2026-09-10T16:54:00.883019-07:00"
+      },
+      {
+        "title": "Mexicanos aprehendidos por tráfico de metanfetamina en Europa",
+        "summary": "Capturan a doce mexicanos en Inglaterra y España por elaboración y distribución de metanfetamina.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/aprehenden-a-12-mexicanos-en-inglaterra-y-espana-ligados-a-la-elaboracion-y-trafico-de-metanfetamina/?utm_source=rss&utm_medium=rss&utm_campaign=aprehenden-a-12-mexicanos-en-inglaterra-y-espana-ligados-a-la-elaboracion-y-trafico-de-metanfetamina",
+        "_added_at": "2026-09-10T16:54:00.883019-07:00"
+      },
       {
         "title": "Cinco cuerpos localizados en fosa de Tecate",
         "summary": "Colectivos hallaron cinco cadáveres en Tecate, sumando nueve descubrimientos en una semana en la región.",
@@ -48,6 +76,27 @@
     ],
     "politica": [
       {
+        "title": "CFE: jubilados y trabajadores protestan en Congreso estatal",
+        "summary": "Afiliados a la CFE realizan manifestación en el Congreso del Estado demandando mejoras laborales.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181526_jubilados_y_trabajadores_de_la_cfe_protestan_en_el_congreso_del_estado",
+        "_added_at": "2026-09-10T16:54:00.883019-07:00"
+      },
+      {
+        "title": "Maestros de CNTE bloquean caseta Tijuana-Tecate nuevamente",
+        "summary": "Docentes de la CNTE retoman bloqueo de garita por falta de pago a maestros interinos.",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/maestros-de-la-cnte-vuelven-a-tomar-caseta-tijuana-tecate-siguen-sin-recibir-pago-interinos/",
+        "_added_at": "2026-09-10T16:54:00.883019-07:00"
+      },
+      {
+        "title": "Morena ordena frenar proselitismo interno entre aspirantes",
+        "summary": "Directiva de Morena instruye a candidatos suspender actividades de promoción interna.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181521_ordenan_a_aspirantes_de_morena_frenar_proselitismo_interno",
+        "_added_at": "2026-09-10T16:54:00.883019-07:00"
+      },
+      {
         "title": "INE BC: pintas no son actos de precampaña",
         "summary": "El Instituto Electoral aclaró que mensajes y pintas de aspirantes no constituyen actividades electorales prematuras.",
         "source": "AFN Tijuana",
@@ -84,6 +133,34 @@
       }
     ],
     "economia": [
+      {
+        "title": "Telnor despide 200 trabajadores; 80 en Tijuana",
+        "summary": "Empresa de telecomunicaciones realiza reducción de personal con impacto importante en Baja California.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/99284/Sacuden-despidos-a-Telnor%3A-200-trabajadores-son-despedido;-80-de-ellos-en-Tijuana",
+        "_added_at": "2026-09-10T16:54:00.883019-07:00"
+      },
+      {
+        "title": "Invierten 1,600 mdp en modernización de Aeropuerto Mexicali",
+        "summary": "Gobierno anuncia inversión significativa para actualizar infraestructura aeroportuaria de Mexicali.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181522_invierten_1_600_mdp_para_modernizar_el_aeropuerto_de_mexicali",
+        "_added_at": "2026-09-10T16:54:00.883019-07:00"
+      },
+      {
+        "title": "Tijuana requiere 700 megawatts más de electricidad: CCE",
+        "summary": "Cámara de Comercio advierte sobre déficit energético crítico en la ciudad.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/10/cce-detecta-necesidad-de-casi-700-megawatts-de-electricidad-para-tijuana/",
+        "_added_at": "2026-09-10T16:54:00.883019-07:00"
+      },
+      {
+        "title": "Urgen concretar proyecto de desaladora en Rosarito",
+        "summary": "Autoridades locales insisten en acelerar construcción de planta desalinizadora en Rosarito.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99283/Urgen-concretar-proyecto-de-desaladora-en-Rosarito",
+        "_added_at": "2026-09-10T16:54:00.883019-07:00"
+      },
       {
         "title": "Baja California enfrenta crisis energética estructural",
         "summary": "INDEX advierte que la entidad tiene problemas de suministro eléctrico por ser aislada del sistema nacional.",
@@ -125,16 +202,37 @@
         "source": "El Mexicano",
         "url": "https://el-mexicano.com.mx/Noticia/Mexicali/99235/Ampl%C3%ADan-atenci%C3%B3n-de-CFE-en-el-Valle-de-Mexicali",
         "_added_at": "2026-09-10T00:23:30.252659-07:00"
-      },
-      {
-        "title": "Hacienda reconoce imposibilidad de sostener financieramente a Pemex",
-        "summary": "Secretario de Hacienda admite que meta de hacer sostenible a Pemex no se cumplirá.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181484_no_se_cumplira_la_meta_de_hacer_sostenible_a_pemex_reconoce_el_secretario_de_hacienda",
-        "_added_at": "2026-09-10T00:23:30.252659-07:00"
       }
     ],
     "sociedad": [
+      {
+        "title": "Evacúan clínica en La Cacho por ruptura de manguera gas",
+        "summary": "Se evacuaron 22 personas de clínica tras incidente con fuga de gas; no hay lesionados.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/evacuan-a-22-personas-de-clinica-en-la-cacho-tras-ruptura-de-manguera-de-gas/?utm_source=rss&utm_medium=rss&utm_campaign=evacuan-a-22-personas-de-clinica-en-la-cacho-tras-ruptura-de-manguera-de-gas",
+        "_added_at": "2026-09-10T16:54:00.883019-07:00"
+      },
+      {
+        "title": "Mayores de 40 años registran más suicidios en BC",
+        "summary": "Instituto de Psiquiatría alerta sobre incremento de suicidios en población mayor de cuarenta años.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181524_mayores_de_40_anos_consuman_mas_suicidios_en_bc_instituto_de_psiquiatria",
+        "_added_at": "2026-09-10T16:54:00.883019-07:00"
+      },
+      {
+        "title": "Purificadora tijuanense regala agua ante ola de calor",
+        "summary": "Empresa local distribuye agua gratuita a peatones durante temperaturas extremas.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/10/toma-agua-si-la-necesitas-el-sencillo-gesto-de-una-purificadora-de-tijuana-para-ayudar-a-quienes-caminan-bajo-el-calor/",
+        "_added_at": "2026-09-10T16:54:00.883019-07:00"
+      },
+      {
+        "title": "Fenómeno Súper Niño afectará pesca y mariscos en BC",
+        "summary": "Expertos advierten que evento climático podría impactar industria pesquera y disponibilidad de mariscos.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/ensenada/2026/09/10/super-nino-podria-complicar-la-pesca-y-el-abasto-de-mariscos-en-mexico/",
+        "_added_at": "2026-09-10T16:54:00.883019-07:00"
+      },
       {
         "title": "Ola de calor en Tijuana alcanzará 35 grados",
         "summary": "Se suspenden clases presenciales por temperaturas extremas que afectarán a Baja California.",
@@ -176,22 +274,8 @@
         "source": "El Mexicano",
         "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99228/Apag%C3%B3n-revive-severas-carencias-en-el-Hospital-General-de-Tijuana%3A-sin-aire-acondicionado,-ni-elevadores",
         "_added_at": "2026-09-10T00:23:30.252659-07:00"
-      },
-      {
-        "title": "Despiden al periodista Octavio Favela en Tijuana",
-        "summary": "Comunidad periodística rinde último homenaje a reconocido comunicador que documentó época del Rábano.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99233/%E2%80%9CAfortunados-de-haber-nacido-en-la-%C3%A9poca-del-R%C3%A1bano%E2%80%9D%3A-Dan-el-%C3%BAltimo-adi%C3%B3s-al-periodista-Octavio-Favela",
-        "_added_at": "2026-09-10T00:23:30.252659-07:00"
-      },
-      {
-        "title": "Sistema educativo mexicano enfrenta retos según prueba PISA",
-        "summary": "Resultados de evaluación internacional revelan deficiencias importantes en educación del país.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181480_resultados_de_la_prueba_pisa_revela_el_reto_que_tiene_el_sistema_educativo_en_mexico_adept",
-        "_added_at": "2026-09-10T00:23:30.252659-07:00"
       }
     ]
   },
-  "last_updated": "2026-09-10T12:02:37.795456-07:00"
+  "last_updated": "2026-09-10T16:54:00.883019-07:00"
 }
