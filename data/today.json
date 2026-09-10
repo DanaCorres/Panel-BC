@@ -1,8 +1,36 @@
 {
   "date": "2026-09-10",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Cinco cuerpos localizados en fosa de Tecate",
+        "summary": "Colectivos hallaron cinco cadáveres en Tecate, sumando nueve descubrimientos en una semana en la región.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/colectivos-localizan-cinco-cuerpos-en-fosa-de-tecate-suman-nueve-hallazgos-en-una-semana/",
+        "_added_at": "2026-09-10T12:02:37.795456-07:00"
+      },
+      {
+        "title": "Pareja sin vida hallada en Ensenada",
+        "summary": "Localizaron a un matrimonio fallecido en vivienda de la colonia Popular 89 en Ensenada.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/localizan-a-pareja-sin-vida-en-vivienda-de-la-colonia-popular-89-en-ensenada/",
+        "_added_at": "2026-09-10T12:02:37.795456-07:00"
+      },
+      {
+        "title": "Hombre asesinado a balazos en Corona del Mar",
+        "summary": "Un individuo fue atacado a tiros en la zona de Corona del Mar en Tijuana, resultando con resultado fatal.",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/hombre-muere-tras-ser-atacado-a-balazos-en-corona-del-mar/",
+        "_added_at": "2026-09-10T12:02:37.795456-07:00"
+      },
+      {
+        "title": "Agente de FESC muere en servicio",
+        "summary": "Falleció un policía del Escuadrón Violeta adscrito a la FESC en Tijuana.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/181510_muere_un_agente_de_la_fesc_adscrito_al_escuadron_violeta",
+        "_added_at": "2026-09-10T12:02:37.795456-07:00"
+      },
       {
         "title": "Abogado asesinado en Mexicali: investigan actividad profesional",
         "summary": "Fiscalía estatal indica que la actividad profesional es la principal línea de investigación en el crimen de un abogado en Mexicali.",
@@ -19,6 +47,20 @@
       }
     ],
     "politica": [
+      {
+        "title": "INE BC: pintas no son actos de precampaña",
+        "summary": "El Instituto Electoral aclaró que mensajes y pintas de aspirantes no constituyen actividades electorales prematuras.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181503_pintas_y_mensajes_de_aspirantes_no_son_actos_de_precampana_dice_el_ine_bc",
+        "_added_at": "2026-09-10T12:02:37.795456-07:00"
+      },
+      {
+        "title": "Alcalde propone gobierno digital en trámites",
+        "summary": "Damián Retes presentó iniciativa para digitalizar procesos administrativos municipales en Tijuana.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99260/Plantea-Dami%C3%A1n-Retes-gobierno-digital-en-tr%C3%A1mites-municipales",
+        "_added_at": "2026-09-10T12:02:37.795456-07:00"
+      },
       {
         "title": "Senador amenaza periodista por investigación sobre Julieta Ramírez",
         "summary": "Legislador de Morena intimida a comunicador que divulgó indagación estadounidense sobre candidata a gobernadora de BC.",
@@ -42,6 +84,27 @@
       }
     ],
     "economia": [
+      {
+        "title": "Baja California enfrenta crisis energética estructural",
+        "summary": "INDEX advierte que la entidad tiene problemas de suministro eléctrico por ser aislada del sistema nacional.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181506_enfrenta_bc_problemas_de_electricidad_por_ser_una_isla_energetica_index",
+        "_added_at": "2026-09-10T12:02:37.795456-07:00"
+      },
+      {
+        "title": "Nafin y Bancomext financian PyMEs con plazos extendidos",
+        "summary": "Instituciones ofrecen créditos adaptados a necesidades de pequeñas empresas con periodos hasta 15 años.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/dinero/2026/09/10/nafin-y-bancomext-otorgan-financiamientos-con-plazos-de-hasta-15-anos-y-esquemas-de-cobro-adaptados-a-las-necesidades-de-cada-negocio/",
+        "_added_at": "2026-09-10T12:02:37.795456-07:00"
+      },
+      {
+        "title": "Gobierno reducirá 70% apoyo a deuda de Pemex",
+        "summary": "Federación cortará financiamiento a la petrolera en 2027, proyectando que genere superávit sin inyecciones.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/dinero/2026/09/10/gobierno-federal-recortara-casi-70-el-apoyo-financiero-a-pemex-en-2027-y-proyecta-que-la-petrolera-alcance-superavit-sin-inyecciones-directas/",
+        "_added_at": "2026-09-10T12:02:37.795456-07:00"
+      },
       {
         "title": "Paquete económico 2027 genera alertas en BC",
         "summary": "Legisladora señala que propuesta presupuestal para próximo año enciende señales de alerta económica.",
@@ -73,6 +136,34 @@
     ],
     "sociedad": [
       {
+        "title": "Ola de calor en Tijuana alcanzará 35 grados",
+        "summary": "Se suspenden clases presenciales por temperaturas extremas que afectarán a Baja California.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/10/ola-de-calor-en-baja-california-tijuana-llegara-a-35-c-y-suspenden-clases-presenciales/",
+        "_added_at": "2026-09-10T12:02:37.795456-07:00"
+      },
+      {
+        "title": "Línea de Crisis 075 atiende más de 4 mil llamadas",
+        "summary": "Servicio de apoyo psicológico registra alta demanda con más de cuatro mil atenciones telefónicas.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181502_atienden_mas_de_4_mil_llamadas_con_linea_de_crisis_075",
+        "_added_at": "2026-09-10T12:02:37.795456-07:00"
+      },
+      {
+        "title": "Construcción en Tijuana requiere más bancos de tiro",
+        "summary": "CMIC señala necesidad de múltiples sitios autorizados para disposición de residuos de obras.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/10/construccion-en-tijuana-mantiene-necesidad-de-bancos-de-tiro-para-residuos/",
+        "_added_at": "2026-09-10T12:02:37.795456-07:00"
+      },
+      {
+        "title": "Pescador desaparecido hallado cerca de La Bufadora",
+        "summary": "Localizaron cuerpo de uno de los pescadores que faltaba cerca de la zona turística en Ensenada.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/ensenada/2026/09/10/localizan-cuerpo-de-uno-de-los-pescadores-desaparecidos-cerca-de-la-bufadora/",
+        "_added_at": "2026-09-10T12:02:37.795456-07:00"
+      },
+      {
         "title": "Agua y luz fallida: Tijuana sufre crisis de suministro simultáneo",
         "summary": "Sistema de distribución de agua detiene bombeo debido a falta de energía eléctrica en la ciudad.",
         "source": "AFN Tijuana",
@@ -102,5 +193,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-10T00:23:30.252659-07:00"
+  "last_updated": "2026-09-10T12:02:37.795456-07:00"
 }
