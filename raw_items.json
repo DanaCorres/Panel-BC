@@ -1,388 +1,154 @@
 {
-  "generated_at": "2026-09-10T23:54:00.102855+00:00",
+  "generated_at": "2026-09-11T07:21:42.224230+00:00",
   "items": [
     {
-      "source": "ZETA Tijuana",
-      "title": "Liberan a ocho y detienen a seis en presunto hospital clandestino en Tecalitlán, Jalisco",
-      "url": "https://zetatijuana.com/2026/09/liberan-a-ocho-y-detienen-a-seis-en-presunto-hospital-clandestino-en-tecalitlan-jalisco/?utm_source=rss&utm_medium=rss&utm_campaign=liberan-a-ocho-y-detienen-a-seis-en-presunto-hospital-clandestino-en-tecalitlan-jalisco",
-      "published": "Thu, 10 Sep 2026 22:28:13 +0000"
-    },
-    {
       "source": "AFN Tijuana",
-      "title": "Jubilados y trabajadores de la CFE protestan en el Congreso del Estado",
-      "url": "https://www.afntijuana.info/informacion_general/181526_jubilados_y_trabajadores_de_la_cfe_protestan_en_el_congreso_del_estado",
+      "title": "Protestan contra el ICE en el centro de San Diego",
+      "url": "https://www.afntijuana.info/informacion_general/181544_protestan_contra_el_ice_en_el_centro_de_san_diego",
       "published": ""
     },
     {
       "source": "El Mexicano",
-      "title": "Va Toros por ventaja en Serie del Rey 2026Deportes |10 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Deportes/99286/Va-Toros-por-ventaja-en-Serie-del-Rey-2026",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Evacuan clínica en la Cacho tras reporte de explosión",
-      "url": "https://www.elimparcial.com/tij/tijuana/2026/09/10/evacuan-clinica-en-la-cacho-tras-reporte-de-explosion/",
+      "title": "Define Rafa Márquez su equipo rumbo al 2030Deportes |10 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Deportes/99291/Define-Rafa-M%C3%A1rquez-su-equipo-rumbo-al-2030",
       "published": ""
     },
     {
       "source": "TJ Comunica",
-      "title": "Evacuan Clínica en la Cacho por presunta explosión",
-      "url": "https://tjcomunica.com/evacuan-clinica-en-la-cacho-por-presunta-explosion/",
-      "published": ""
-    },
-    {
-      "source": "ZETA Tijuana",
-      "title": "Evacúan a 22 personas de clínica en La Cacho tras ruptura de manguera de gas",
-      "url": "https://zetatijuana.com/2026/09/evacuan-a-22-personas-de-clinica-en-la-cacho-tras-ruptura-de-manguera-de-gas/?utm_source=rss&utm_medium=rss&utm_campaign=evacuan-a-22-personas-de-clinica-en-la-cacho-tras-ruptura-de-manguera-de-gas",
-      "published": "Thu, 10 Sep 2026 22:10:20 +0000"
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Buscan a agente de la fiscalía estatal que disparó contra la casa de su expareja en Mexicali",
-      "url": "https://www.afntijuana.info/seguridad/181525_buscan_a_agente_de_la_fiscalia_estatal_que_disparo_contra_la_casa_de_su_expareja_en_mexicali",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Va Toros por ventaja en Serie del Rey 2026Deportes| jueves 10 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Deportes/99286/Va-Toros-por-ventaja-en-Serie-del-Rey-2026",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Un reporte de explosión movilizó a Bomberos y Cruz Roja; 22 personas fueron evacuadas y no se reportaron lesionados.",
-      "url": "https://www.elimparcial.com/tij/tijuana/2026/09/10/evacuan-clinica-en-la-cacho-tras-reporte-de-explosion/",
-      "published": ""
-    },
-    {
-      "source": "TJ Comunica",
-      "title": "Escuchar para unir. Unir para resolver: Evangelina Moreno",
-      "url": "https://tjcomunica.com/escuchar-para-unir-unir-para-resolver-evangelina-moreno/",
-      "published": ""
-    },
-    {
-      "source": "ZETA Tijuana",
-      "title": "El Jardinero promueve dos quejas en amparo contra su extradición",
-      "url": "https://zetatijuana.com/2026/09/el-jardinero-promueve-dos-quejas-en-amparo-contra-su-extradicion/?utm_source=rss&utm_medium=rss&utm_campaign=el-jardinero-promueve-dos-quejas-en-amparo-contra-su-extradicion",
-      "published": "Thu, 10 Sep 2026 21:28:17 +0000"
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Mayores de 40 años consuman más suicidios en BC: Instituto de Psiquiatría",
-      "url": "https://www.afntijuana.info/informacion_general/181524_mayores_de_40_anos_consuman_mas_suicidios_en_bc_instituto_de_psiquiatria",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Recibe Xolos a QuerétaroDeportes |10 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Deportes/99285/Recibe-Xolos-a-Quer%C3%A9taro",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Purificadora de Tijuana regala agua ante el calor",
-      "url": "https://www.elimparcial.com/tij/tijuana/2026/09/10/toma-agua-si-la-necesitas-el-sencillo-gesto-de-una-purificadora-de-tijuana-para-ayudar-a-quienes-caminan-bajo-el-calor/",
-      "published": ""
-    },
-    {
-      "source": "TJ Comunica",
-      "title": "Maestros de la CNTE vuelven a tomar caseta Tijuana-Tecate; siguen sin recibir pago interinos",
-      "url": "https://tjcomunica.com/maestros-de-la-cnte-vuelven-a-tomar-caseta-tijuana-tecate-siguen-sin-recibir-pago-interinos/",
-      "published": ""
-    },
-    {
-      "source": "ZETA Tijuana",
-      "title": "Muere por un presunto paro cardíaco elemento de la FESC en Mexicali",
-      "url": "https://zetatijuana.com/2026/09/muere-por-un-presunto-paro-cardiaco-elemento-de-la-fesc-en-mexicali/?utm_source=rss&utm_medium=rss&utm_campaign=muere-por-un-presunto-paro-cardiaco-elemento-de-la-fesc-en-mexicali",
-      "published": "Thu, 10 Sep 2026 20:43:59 +0000"
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Morena tiene ventaja rumbo al 2027, afirma Ariadna Montiel",
-      "url": "https://www.afntijuana.info/nacionales/181523_morena_tiene_ventaja_rumbo_al_2027_afirma_ariadna_montiel",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Recibe Xolos a QuerétaroDeportes| jueves 10 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Deportes/99285/Recibe-Xolos-a-Quer%C3%A9taro",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Detienen a pareja con arma tras persecución en Tijuana",
-      "url": "https://www.elimparcial.com/tij/policiaca/2026/09/10/detienen-a-pareja-con-arma-tras-persecucion-en-tijuana/",
-      "published": ""
-    },
-    {
-      "source": "TJ Comunica",
-      "title": "Operación antidrones evidencia necesidad de cooperación entre México y EE.UU.",
-      "url": "https://tjcomunica.com/operacion-antidrones-evidencia-necesidad-de-cooperacion-entre-mexico-y-ee-uu/",
-      "published": ""
-    },
-    {
-      "source": "ZETA Tijuana",
-      "title": "El R1 teme entrega extraordinaria a los Estados Unidos y pide amparo",
-      "url": "https://zetatijuana.com/2026/09/el-r1-teme-entrega-extraordinaria-a-los-estados-unidos-y-pide-amparo/?utm_source=rss&utm_medium=rss&utm_campaign=el-r1-teme-entrega-extraordinaria-a-los-estados-unidos-y-pide-amparo",
-      "published": "Thu, 10 Sep 2026 20:26:25 +0000"
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Invierten 1,600 mdp para modernizar el Aeropuerto de Mexicali",
-      "url": "https://www.afntijuana.info/informacion_general/181522_invierten_1_600_mdp_para_modernizar_el_aeropuerto_de_mexicali",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Sacuden despidos a Telnor: 200 trabajadores son despedido; 80 de ellos en TijuanaEstatal |10 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Estatal/99284/Sacuden-despidos-a-Telnor%3A-200-trabajadores-son-despedido;-80-de-ellos-en-Tijuana",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Ley de Economía Digital impulsará pagos con QR y CURP",
-      "url": "https://www.elimparcial.com/dinero/2026/09/10/la-propuesta-de-ley-de-economia-digital-del-gobierno-federal-busca-reducir-el-uso-de-efectivo-en-mexico-mediante-el-cobro-obligatorio-con-codigo-qr-el-uso-de-la-curp-digital-en-bancos-y-la-digitalizacion-total-de-tramites-publicos/",
-      "published": ""
-    },
-    {
-      "source": "TJ Comunica",
-      "title": "Francia retira su apoyo a Gianni Infantino para continuar al frente de la FIFA",
-      "url": "https://tjcomunica.com/francia-retira-su-apoyo-a-gianni-infantino-para-continuar-al-frente-de-la-fifa/",
-      "published": ""
-    },
-    {
-      "source": "ZETA Tijuana",
-      "title": "INEGI revela que siete de cada diez mexicanos temen ser víctimas de delito en su entidad",
-      "url": "https://zetatijuana.com/2026/09/mx-inegi-revela-que-siete-de-cada-diez-mexicanos-temen-ser-victimas-de-delito-en-su-entidad-262/?utm_source=rss&utm_medium=rss&utm_campaign=mx-inegi-revela-que-siete-de-cada-diez-mexicanos-temen-ser-victimas-de-delito-en-su-entidad-262",
-      "published": "Thu, 10 Sep 2026 19:46:48 +0000"
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Ordenan a aspirantes de Morena frenar proselitismo interno",
-      "url": "https://www.afntijuana.info/informacion_general/181521_ordenan_a_aspirantes_de_morena_frenar_proselitismo_interno",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Sacuden despidos a Telnor: 200 trabajadores son despedido; 80 de ellos en TijuanaEstatal| jueves 10 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Estatal/99284/Sacuden-despidos-a-Telnor%3A-200-trabajadores-son-despedido;-80-de-ellos-en-Tijuana",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Tijuana necesita más infraestructura eléctrica: CCE",
-      "url": "https://www.elimparcial.com/tij/tijuana/2026/09/10/cce-detecta-necesidad-de-casi-700-megawatts-de-electricidad-para-tijuana/",
-      "published": ""
-    },
-    {
-      "source": "TJ Comunica",
-      "title": "Sale a la luz estatua de Hernán Cortés tras 14 años desaparecida",
-      "url": "https://tjcomunica.com/sale-a-la-luz-estatua-de-hernan-cortes-tras-14-anos-desaparecida/",
-      "published": ""
-    },
-    {
-      "source": "ZETA Tijuana",
-      "title": "Aprehenden a 12 mexicanos en Inglaterra y España ligados a la elaboración y tráfico de metanfetamina",
-      "url": "https://zetatijuana.com/2026/09/aprehenden-a-12-mexicanos-en-inglaterra-y-espana-ligados-a-la-elaboracion-y-trafico-de-metanfetamina/?utm_source=rss&utm_medium=rss&utm_campaign=aprehenden-a-12-mexicanos-en-inglaterra-y-espana-ligados-a-la-elaboracion-y-trafico-de-metanfetamina",
-      "published": "Thu, 10 Sep 2026 18:10:33 +0000"
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "A NUESTROS LECTORES",
-      "url": "https://www.afntijuana.info/informacion_general/181520_a_nuestros_lectores",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "#Últimahora | Evacuan Clínica en la Cacho por presunta explosiónPoliciaca| jueves 10 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Policiaca/99270/%23%C3%9Altimahora-%7C-Evacuan-Cl%C3%ADnica-en-la-Cacho-por-presunta-explosi%C3%B3n",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Súper Niño podría afectar la pesca y mariscos en México",
-      "url": "https://www.elimparcial.com/tij/ensenada/2026/09/10/super-nino-podria-complicar-la-pesca-y-el-abasto-de-mariscos-en-mexico/",
-      "published": ""
-    },
-    {
-      "source": "TJ Comunica",
-      "title": "Sorprenden a cinco mexicanos en narcolaboratorio en Inglaterra",
-      "url": "https://tjcomunica.com/sorprenden-a-cinco-mexicanos-en-narcolaboratorio-en-inglaterra/",
-      "published": ""
-    },
-    {
-      "source": "ZETA Tijuana",
-      "title": "Toros empareja la Serie del Rey con paliza sobre Olmecas",
-      "url": "https://zetatijuana.com/2026/09/toros-empareja-la-serie-del-rey-con-paliza-sobre-olmecas/?utm_source=rss&utm_medium=rss&utm_campaign=toros-empareja-la-serie-del-rey-con-paliza-sobre-olmecas",
-      "published": "Thu, 10 Sep 2026 17:35:45 +0000"
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "\"Sólo son cartulinas\", dice director sobre \"narcomantas\" contra cuatro policías",
-      "url": "https://www.afntijuana.info/informacion_general/181519_solo_son_cartulinas_dice_director_sobre_narcomantas_contra_cuatro_policias",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Urgen concretar proyecto de desaladora en RosaritoTijuana |10 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99283/Urgen-concretar-proyecto-de-desaladora-en-Rosarito",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Cómo ahorrar luz durante el calor y usar menos el aire",
-      "url": "https://www.elimparcial.com/estilos/2026/09/10/como-ahorrar-luz-durante-el-calor-estos-habitos-reducen-el-consumo/",
-      "published": ""
-    },
-    {
-      "source": "TJ Comunica",
-      "title": "Tras una persecución, municipales atoran a “El Diablo”, sicario de un cártel de Tijuana",
-      "url": "https://tjcomunica.com/tras-una-persecucion-municipales-atoran-a-el-diablo-sicario-de-un-cartel-de-tijuana/",
-      "published": ""
-    },
-    {
-      "source": "ZETA Tijuana",
-      "title": "Colectivos localizan cinco cuerpos en fosa de Tecate; suman nueve hallazgos en una semana",
-      "url": "https://zetatijuana.com/2026/09/colectivos-localizan-cinco-cuerpos-en-fosa-de-tecate-suman-nueve-hallazgos-en-una-semana/?utm_source=rss&utm_medium=rss&utm_campaign=colectivos-localizan-cinco-cuerpos-en-fosa-de-tecate-suman-nueve-hallazgos-en-una-semana",
-      "published": "Thu, 10 Sep 2026 17:31:26 +0000"
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Se requieren al menos tres bancos de tiro para constructoras, advierten",
-      "url": "https://www.afntijuana.info/informacion_general/181518_se_requieren_al_menos_tres_bancos_de_tiro_para_constructoras_advierten",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Urgen concretar proyecto de desaladora en RosaritoTijuana| jueves 10 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99283/Urgen-concretar-proyecto-de-desaladora-en-Rosarito",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Señales de alerta del suicidio y dónde pedir ayuda",
-      "url": "https://www.elimparcial.com/dinero/2026/09/10/inegi-registra-8709-suicidios-en-mexico-durante-2025-con-mayor-afectacion-en-hombres-y-jovenes-de-15-a-29-anos-por-lo-que-especialistas-llaman-a-identificar-senales-de-alerta-y-utilizar-lineas-de-ayuda-gratuita/",
-      "published": ""
-    },
-    {
-      "source": "ZETA Tijuana",
-      "title": "Localizan a pareja sin vida en vivienda de la colonia Popular 89 en Ensenada",
-      "url": "https://zetatijuana.com/2026/09/localizan-a-pareja-sin-vida-en-vivienda-de-la-colonia-popular-89-en-ensenada/?utm_source=rss&utm_medium=rss&utm_campaign=localizan-a-pareja-sin-vida-en-vivienda-de-la-colonia-popular-89-en-ensenada",
-      "published": "Thu, 10 Sep 2026 17:18:56 +0000"
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Evacúan una clínica en la Cacho por presunta explosión",
-      "url": "https://www.afntijuana.info/informacion_general/181517_evacuan_una_clinica_en_la_cacho_por_presunta_explosion",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Incendio de buque de carga en China deja al menos 20 muertos y 5 desaparecidosMundo |10 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Mundo/99282/Incendio-de-buque-de-carga-en-China-deja-al-menos-20-muertos-y-5-desaparecidos",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Transporte de San Diego sube de precio en octubre",
-      "url": "https://www.elimparcial.com/tij/tijuana/2026/09/10/suben-tarifas-del-transporte-publico-de-san-diego-asi-quedan-los-precios/",
+      "title": "Localizan “hospital clandestino” del CJNG en Tecalitlán, Jalisco",
+      "url": "https://tjcomunica.com/localizan-hospital-clandestino-del-cjng-en-tecalitlan-jalisco/",
       "published": ""
     },
     {
       "source": "AFN Tijuana",
-      "title": "Despide Telnor a 200 empleados; acusan violaciones al contrato colectivo",
-      "url": "https://www.afntijuana.info/informacion_general/181516_despide_telnor_a_200_empleados_acusan_violaciones_al_contrato_colectivo",
+      "title": "El 1 de octubre sube el costo del transporte público en San Diego",
+      "url": "https://www.afntijuana.info/informacion_general/181543_el_1_de_octubre_sube_el_costo_del_transporte_publico_en_san_diego",
       "published": ""
     },
     {
       "source": "El Mexicano",
-      "title": "Incendio de buque de carga en China deja al menos 20 muertos y 5 desaparecidosMundo| jueves 10 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Mundo/99282/Incendio-de-buque-de-carga-en-China-deja-al-menos-20-muertos-y-5-desaparecidos",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Edson Álvarez niega acusación de secuestro",
-      "url": "https://www.elimparcial.com/deporte/2026/09/10/edson-alvarez-rompe-el-silencio-por-acusacion-de-secuestro-niega-todo-y-advierte-acciones-legales/",
+      "title": "Define Rafa Márquez su equipo rumbo al 2030Deportes| jueves 10 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Deportes/99291/Define-Rafa-M%C3%A1rquez-su-equipo-rumbo-al-2030",
       "published": ""
     },
     {
       "source": "AFN Tijuana",
-      "title": "Comienza la era Rafael Márquez con la selección mexicana rumbo al 2030",
-      "url": "https://www.afntijuana.info/deportes/181514_comienza_la_era_rafael_marquez_con_la_seleccion_mexicana_rumbo_al_2030",
+      "title": "Encabezó alcalde jornada de afiliación al programa \"Tijuana Saludable\"",
+      "url": "https://www.afntijuana.info/municipios/181542_encabezo_alcalde_jornada_de_afiliacion_al_programa_tijuana_saludable",
       "published": ""
     },
     {
       "source": "El Mexicano",
-      "title": "Asa Germann, de la serie Gen V, será Ángel en la nueva película de los X-MenFama |10 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Fama/99281/Asa-Germann,-de-la-serie-Gen-V,-ser%C3%A1-%C3%81ngel-en-la-nueva-pel%C3%ADcula-de-los-X-Men",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Rafa Márquez vigila a 60 jugadores para el Tri",
-      "url": "https://www.elimparcial.com/deporte/2026/09/10/rafa-marquez-abre-la-competencia-en-el-tri-tiene-a-60-jugadores-bajo-observacion/",
+      "title": "Asegura SSPCM y GN más de 27 kilogramos de cristal en vehículo abandonadoPoliciaca |10 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Policiaca/99290/Asegura-SSPCM-y-GN-m%C3%A1s-de-27-kilogramos-de-cristal-en-veh%C3%ADculo-abandonado",
       "published": ""
     },
     {
       "source": "AFN Tijuana",
-      "title": "Da inicio oficial el proceso electoral 2026 - 2027",
-      "url": "https://www.afntijuana.info/nacionales/181513_da_inicio_oficial_el_proceso_electoral_2026_2027",
+      "title": "Advierte Julieta relación \"distante\" con Marina del Pilar",
+      "url": "https://www.afntijuana.info/informacion_general/181541_advierte_julieta_relacion_distante_con_marina_del_pilar",
       "published": ""
     },
     {
       "source": "El Mexicano",
-      "title": "Asa Germann, de la serie Gen V, será Ángel en la nueva película de los X-MenFama| jueves 10 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Fama/99281/Asa-Germann,-de-la-serie-Gen-V,-ser%C3%A1-%C3%81ngel-en-la-nueva-pel%C3%ADcula-de-los-X-Men",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Llevan 4 días sin luz en Mariano Matamoros, Tijuana",
-      "url": "https://www.elimparcial.com/tij/tijuana/2026/09/10/mas-de-100-familias-llevan-cuatro-dias-sin-luz-en-mariano-matamoros/",
+      "title": "Asegura SSPCM y GN más de 27 kilogramos de cristal en vehículo abandonadoPoliciaca| jueves 10 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Policiaca/99290/Asegura-SSPCM-y-GN-m%C3%A1s-de-27-kilogramos-de-cristal-en-veh%C3%ADculo-abandonado",
       "published": ""
     },
     {
       "source": "AFN Tijuana",
-      "title": "Dejan dos cabezas humanas en hieleras en la carretera Escénica",
-      "url": "https://www.afntijuana.info/seguridad/181512_dejan_dos_cabezas_humanas_en_hieleras_en_la_carretera_escenica",
+      "title": "Se han atendido casi 4 mil 300 llamadas a la línea de crisis 075 en Tijuana",
+      "url": "https://www.afntijuana.info/municipios/181540_se_han_atendido_casi_4_mil_300_llamadas_a_la_linea_de_crisis_075_en_tijuana",
       "published": ""
     },
     {
       "source": "El Mexicano",
-      "title": "Tijuana tendrá festejo por el Día del Charro y las Fiestas PatriasTijuana| jueves 10 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99271/Tijuana-tendr%C3%A1-festejo-por-el-D%C3%ADa-del-Charro-y-las-Fiestas-Patrias",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "SCJN avala cannabis en alimentos para autoconsumo",
-      "url": "https://www.elimparcial.com/mundo/2026/09/10/es-oficial-la-scjn-avala-preparar-cannabis-y-thc-en-alimentos-para-autoconsumo-personal-y-mantiene-prohibidas-la-venta-distribucion-suministro-a-terceros-y-el-uso-en-medicamentos-suplementos-cosmeticos-vapeadores-y-otros-productos-sujetos-a-controles-sanitarios-especiales/",
-      "published": ""
-    },
-    {
-      "source": "TJ Comunica",
-      "title": "Hombre muere tras ser atacado a balazos en Corona del Mar",
-      "url": "https://tjcomunica.com/hombre-muere-tras-ser-atacado-a-balazos-en-corona-del-mar/",
+      "title": "Detiene SSPCM a tres presuntos responsables de asalto a camión repartidorPoliciaca |10 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Policiaca/99289/Detiene-SSPCM-a-tres-presuntos-responsables-de-asalto-a-cami%C3%B3n-repartidor",
       "published": ""
     },
     {
       "source": "AFN Tijuana",
-      "title": "Detienen a un asaltante, retuvo a trabajadora en una bodega",
-      "url": "https://www.afntijuana.info/seguridad/181511_detienen_a_un_asaltante_retuvo_a_trabajadora_en_una_bodega",
+      "title": "Llevan atención a la salud mental de forma gratuita en todo el Estado",
+      "url": "https://www.afntijuana.info/informacion_general/181539_llevan_atencion_a_la_salud_mental_de_forma_gratuita_en_todo_el_estado",
       "published": ""
     },
     {
       "source": "El Mexicano",
-      "title": "Jubilados de CFE piden eliminar retroactividad en nueva iniciativa de reforma al artículo 127Mexicali| jueves 10 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Mexicali/99269/Jubilados-de-CFE-piden-eliminar-retroactividad-en-nueva-iniciativa-de-reforma-al-art%C3%ADculo-127",
+      "title": "Detiene SSPCM a tres presuntos responsables de asalto a camión repartidorPoliciaca| jueves 10 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Policiaca/99289/Detiene-SSPCM-a-tres-presuntos-responsables-de-asalto-a-cami%C3%B3n-repartidor",
       "published": ""
     },
     {
-      "source": "El Imparcial (Tijuana)",
-      "title": "50 °C en Mexicali: así trabajan los paramédicos al límite",
-      "url": "https://www.elimparcial.com/videos/2026/09/10/50-c-en-mexicali-asi-trabajan-los-paramedicos-al-limite/",
+      "source": "AFN Tijuana",
+      "title": "Diputado de Morena se habría quitado la vida, según investigación de la FGR",
+      "url": "https://www.afntijuana.info/informacion_general/181538_diputado_de_morena_se_habria_quitado_la_vida_segun_investigacion_de_la_fgr",
+      "published": ""
+    },
+    {
+      "source": "AFN Tijuana",
+      "title": "Detienen a presuntos asaltantes de un camión repartidor",
+      "url": "https://www.afntijuana.info/seguridad/181537_detienen_a_presuntos_asaltantes_de_un_camion_repartidor",
+      "published": ""
+    },
+    {
+      "source": "El Mexicano",
+      "title": "Protestan contra ICE en centro de San DiegoThe Border |10 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/The%20Border/99287/Protestan-contra-ICE-en-centro-de-San-Diego",
+      "published": ""
+    },
+    {
+      "source": "AFN Tijuana",
+      "title": "A un año del accidente del Puente de La Concordia las víctimas no olvidan la tragedia",
+      "url": "https://www.afntijuana.info/nacionales/181536_a_un_ano_del_accidente_del_puente_de_la_concordia_las_victimas_no_olvidan_la_tragedia",
+      "published": ""
+    },
+    {
+      "source": "El Mexicano",
+      "title": "Protestan contra ICE en centro de San DiegoThe Border| jueves 10 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/The%20Border/99287/Protestan-contra-ICE-en-centro-de-San-Diego",
+      "published": ""
+    },
+    {
+      "source": "AFN Tijuana",
+      "title": "Partido Somos buscará perfiles ciudadanos como candidatos para el 2027",
+      "url": "https://www.afntijuana.info/informacion_general/181535_partido_somos_buscara_perfiles_ciudadanos_como_candidatos_para_el_2027",
+      "published": ""
+    },
+    {
+      "source": "AFN Tijuana",
+      "title": "El invierno de las tres crisis: deuda, energía y geopolítica en un mundo fragmentado",
+      "url": "https://www.afntijuana.info/editoriales/181534_el_invierno_de_las_tres_crisis_deuda_energia_y_geopolitica_en_un_mundo_fragmentado",
+      "published": ""
+    },
+    {
+      "source": "AFN Tijuana",
+      "title": "Amenaza de senador, le genera mayor escándalo a Julieta",
+      "url": "https://www.afntijuana.info/afn_politico/181533_amenaza_de_senador_le_genera_mayor_escandalo_a_julieta",
+      "published": ""
+    },
+    {
+      "source": "AFN Tijuana",
+      "title": "Vecinos del Mariano Matamoros llevan cuatro días sin luz; denuncian fuertes pérdidas",
+      "url": "https://www.afntijuana.info/informacion_general/181532_vecinos_del_mariano_matamoros_llevan_cuatro_dias_sin_luz_denuncian_fuertes_perdidas",
+      "published": ""
+    },
+    {
+      "source": "AFN Tijuana",
+      "title": "Turismo BC no ha contratado publicidad para la Casa de los Famosos, afirman",
+      "url": "https://www.afntijuana.info/informacion_general/181531_turismo_bc_no_ha_contratado_publicidad_para_la_casa_de_los_famosos_afirman",
+      "published": ""
+    },
+    {
+      "source": "El Mexicano",
+      "title": "Castro Trenti listo para ser el coordinador de la defensa de la 4TCaso contrario promoverá la unidad y apoyo a quien resulte ganadorEstatal| jueves 10 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Estatal/99275/Castro-Trenti-listo-para-ser-el-coordinador-de-la-defensa-de-la-4T",
+      "published": ""
+    },
+    {
+      "source": "AFN Tijuana",
+      "title": "Vinculan a proceso a tres hombres detenidos con armas y cartuchos",
+      "url": "https://www.afntijuana.info/seguridad/181530_vinculan_a_proceso_a_tres_hombres_detenidos_con_armas_y_cartuchos",
       "published": ""
     }
   ]

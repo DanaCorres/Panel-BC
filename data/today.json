@@ -1,281 +1,106 @@
 {
-  "date": "2026-09-10",
-  "run_count": 3,
+  "date": "2026-09-11",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Agente fiscal buscado por disparos contra expareja en Mexicali",
-        "summary": "Autoridades buscan a elemento de la fiscalía estatal que disparó contra domicilio de su expareja en Mexicali.",
+        "title": "Aseguran 27 kilos de cristal en vehículo abandonado",
+        "summary": "Autoridades locales decomisaron más de 27 kilogramos de droga cristal en un automóvil sin ocupantes.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/99290/Asegura-SSPCM-y-GN-m%C3%A1s-de-27-kilogramos-de-cristal-en-veh%C3%ADculo-abandonado",
+        "_added_at": "2026-09-11T00:21:42.758723-07:00"
+      },
+      {
+        "title": "Capturan tres sospechosos por asalto a camión repartidor",
+        "summary": "Policía estatal detuvo a tres presuntos responsables del robo a un vehículo de reparto.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/99289/Detiene-SSPCM-a-tres-presuntos-responsables-de-asalto-a-cami%C3%B3n-repartidor",
+        "_added_at": "2026-09-11T00:21:42.758723-07:00"
+      },
+      {
+        "title": "Vinculan a proceso a tres detenidos con armas",
+        "summary": "Tres sujetos fueron ligados a proceso legal tras ser hallados con armas y municiones.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/181525_buscan_a_agente_de_la_fiscalia_estatal_que_disparo_contra_la_casa_de_su_expareja_en_mexicali",
-        "_added_at": "2026-09-10T16:54:00.883019-07:00"
+        "url": "https://www.afntijuana.info/seguridad/181530_vinculan_a_proceso_a_tres_hombres_detenidos_con_armas_y_cartuchos",
+        "_added_at": "2026-09-11T00:21:42.758723-07:00"
       },
       {
-        "title": "Pareja detenida tras persecución armada en Tijuana",
-        "summary": "Detienen a pareja portando arma tras operativo de persecución en Tijuana.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/policiaca/2026/09/10/detienen-a-pareja-con-arma-tras-persecucion-en-tijuana/",
-        "_added_at": "2026-09-10T16:54:00.883019-07:00"
-      },
-      {
-        "title": "Sicario capturado tras persecución en Tijuana",
-        "summary": "Municipales atrapan a \"El Diablo\", presunto sicario vinculado a cartel tijuanense, tras persecución.",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/tras-una-persecucion-municipales-atoran-a-el-diablo-sicario-de-un-cartel-de-tijuana/",
-        "_added_at": "2026-09-10T16:54:00.883019-07:00"
-      },
-      {
-        "title": "Mexicanos aprehendidos por tráfico de metanfetamina en Europa",
-        "summary": "Capturan a doce mexicanos en Inglaterra y España por elaboración y distribución de metanfetamina.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/aprehenden-a-12-mexicanos-en-inglaterra-y-espana-ligados-a-la-elaboracion-y-trafico-de-metanfetamina/?utm_source=rss&utm_medium=rss&utm_campaign=aprehenden-a-12-mexicanos-en-inglaterra-y-espana-ligados-a-la-elaboracion-y-trafico-de-metanfetamina",
-        "_added_at": "2026-09-10T16:54:00.883019-07:00"
-      },
-      {
-        "title": "Cinco cuerpos localizados en fosa de Tecate",
-        "summary": "Colectivos hallaron cinco cadáveres en Tecate, sumando nueve descubrimientos en una semana en la región.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/colectivos-localizan-cinco-cuerpos-en-fosa-de-tecate-suman-nueve-hallazgos-en-una-semana/",
-        "_added_at": "2026-09-10T12:02:37.795456-07:00"
-      },
-      {
-        "title": "Pareja sin vida hallada en Ensenada",
-        "summary": "Localizaron a un matrimonio fallecido en vivienda de la colonia Popular 89 en Ensenada.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/localizan-a-pareja-sin-vida-en-vivienda-de-la-colonia-popular-89-en-ensenada/",
-        "_added_at": "2026-09-10T12:02:37.795456-07:00"
-      },
-      {
-        "title": "Hombre asesinado a balazos en Corona del Mar",
-        "summary": "Un individuo fue atacado a tiros en la zona de Corona del Mar en Tijuana, resultando con resultado fatal.",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/hombre-muere-tras-ser-atacado-a-balazos-en-corona-del-mar/",
-        "_added_at": "2026-09-10T12:02:37.795456-07:00"
-      },
-      {
-        "title": "Agente de FESC muere en servicio",
-        "summary": "Falleció un policía del Escuadrón Violeta adscrito a la FESC en Tijuana.",
+        "title": "Línea de crisis 075 atiende casi 4,300 llamadas",
+        "summary": "Centro de atención en salud mental en Tijuana ha respondido miles de llamadas de emergencia.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/181510_muere_un_agente_de_la_fesc_adscrito_al_escuadron_violeta",
-        "_added_at": "2026-09-10T12:02:37.795456-07:00"
-      },
-      {
-        "title": "Abogado asesinado en Mexicali: investigan actividad profesional",
-        "summary": "Fiscalía estatal indica que la actividad profesional es la principal línea de investigación en el crimen de un abogado en Mexicali.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181482_su_actividad_profesional_la_principal_linea_de_investigacion_en_crimen_de_abogado_en_mexicali_fge",
-        "_added_at": "2026-09-10T00:23:30.252659-07:00"
-      },
-      {
-        "title": "Apagones generalizan en Tijuana: hospitales y comercios afectados",
-        "summary": "Cortes de energía eléctrica impactan centros de salud, negocios y diversas zonas residenciales de Tijuana durante el día.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181485_apagones_en_tijuana_afectan_hospitales_comercios_y_diversas_colonias",
-        "_added_at": "2026-09-10T00:23:30.252659-07:00"
+        "url": "https://www.afntijuana.info/municipios/181540_se_han_atendido_casi_4_mil_300_llamadas_a_la_linea_de_crisis_075_en_tijuana",
+        "_added_at": "2026-09-11T00:21:42.758723-07:00"
       }
     ],
     "politica": [
       {
-        "title": "CFE: jubilados y trabajadores protestan en Congreso estatal",
-        "summary": "Afiliados a la CFE realizan manifestación en el Congreso del Estado demandando mejoras laborales.",
+        "title": "Diputado de Morena se habría quitado la vida",
+        "summary": "Investigación de FGR señala suicidio de legislador morenista tras presuntas irregularidades.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181526_jubilados_y_trabajadores_de_la_cfe_protestan_en_el_congreso_del_estado",
-        "_added_at": "2026-09-10T16:54:00.883019-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/181538_diputado_de_morena_se_habria_quitado_la_vida_segun_investigacion_de_la_fgr",
+        "_added_at": "2026-09-11T00:21:42.758723-07:00"
       },
       {
-        "title": "Maestros de CNTE bloquean caseta Tijuana-Tecate nuevamente",
-        "summary": "Docentes de la CNTE retoman bloqueo de garita por falta de pago a maestros interinos.",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/maestros-de-la-cnte-vuelven-a-tomar-caseta-tijuana-tecate-siguen-sin-recibir-pago-interinos/",
-        "_added_at": "2026-09-10T16:54:00.883019-07:00"
-      },
-      {
-        "title": "Morena ordena frenar proselitismo interno entre aspirantes",
-        "summary": "Directiva de Morena instruye a candidatos suspender actividades de promoción interna.",
+        "title": "Relación distante entre Julieta y Marina del Pilar",
+        "summary": "Funcionarias locales mantienen alejamiento político según declaraciones públicas recientes.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181521_ordenan_a_aspirantes_de_morena_frenar_proselitismo_interno",
-        "_added_at": "2026-09-10T16:54:00.883019-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/181541_advierte_julieta_relacion_distante_con_marina_del_pilar",
+        "_added_at": "2026-09-11T00:21:42.758723-07:00"
       },
       {
-        "title": "INE BC: pintas no son actos de precampaña",
-        "summary": "El Instituto Electoral aclaró que mensajes y pintas de aspirantes no constituyen actividades electorales prematuras.",
+        "title": "Partido Somos busca candidatos ciudadanos 2027",
+        "summary": "Partido político planea incorporar perfiles independientes para próximas elecciones estatales.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181503_pintas_y_mensajes_de_aspirantes_no_son_actos_de_precampana_dice_el_ine_bc",
-        "_added_at": "2026-09-10T12:02:37.795456-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/181535_partido_somos_buscara_perfiles_ciudadanos_como_candidatos_para_el_2027",
+        "_added_at": "2026-09-11T00:21:42.758723-07:00"
       },
       {
-        "title": "Alcalde propone gobierno digital en trámites",
-        "summary": "Damián Retes presentó iniciativa para digitalizar procesos administrativos municipales en Tijuana.",
+        "title": "Castro Trenti se prepara para defensa de la 4T",
+        "summary": "Funcionario manifiesta intención de coordinar estrategia de defensa del gobierno federal.",
         "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99260/Plantea-Dami%C3%A1n-Retes-gobierno-digital-en-tr%C3%A1mites-municipales",
-        "_added_at": "2026-09-10T12:02:37.795456-07:00"
-      },
-      {
-        "title": "Senador amenaza periodista por investigación sobre Julieta Ramírez",
-        "summary": "Legislador de Morena intimida a comunicador que divulgó indagación estadounidense sobre candidata a gobernadora de BC.",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/senador-de-morena-amenaza-a-periodista-que-revelo-investigacion-de-eu-a-julieta-ramirez/",
-        "_added_at": "2026-09-10T00:23:30.252659-07:00"
-      },
-      {
-        "title": "Julieta Ramírez enfrenta investigación estadounidense y presión interna",
-        "summary": "Candidata a gobernadora lidia con pesquisa de EE.UU. y desavenencias al interior de Morena por su precandidatura.",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/senalan-respaldo-de-amlo-a-julieta-ramirez-rumbo-a-la-gubernatura-de-baja-california/",
-        "_added_at": "2026-09-10T00:23:30.252659-07:00"
-      },
-      {
-        "title": "Marina del Pilar reconoce fricciones dentro de Morena",
-        "summary": "Gobernadora admite existencia de intrigas partidistas internas en la organización política.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181481_reconoce_marina_del_pilar_grillas_al_interior_de_morena",
-        "_added_at": "2026-09-10T00:23:30.252659-07:00"
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/99275/Castro-Trenti-listo-para-ser-el-coordinador-de-la-defensa-de-la-4T",
+        "_added_at": "2026-09-11T00:21:42.758723-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Telnor despide 200 trabajadores; 80 en Tijuana",
-        "summary": "Empresa de telecomunicaciones realiza reducción de personal con impacto importante en Baja California.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Estatal/99284/Sacuden-despidos-a-Telnor%3A-200-trabajadores-son-despedido;-80-de-ellos-en-Tijuana",
-        "_added_at": "2026-09-10T16:54:00.883019-07:00"
-      },
-      {
-        "title": "Invierten 1,600 mdp en modernización de Aeropuerto Mexicali",
-        "summary": "Gobierno anuncia inversión significativa para actualizar infraestructura aeroportuaria de Mexicali.",
+        "title": "Vecinos sin luz cuatro días, generan pérdidas",
+        "summary": "Corte eléctrico prolongado en colonia Mariano Matamoros causa daños económicos.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181522_invierten_1_600_mdp_para_modernizar_el_aeropuerto_de_mexicali",
-        "_added_at": "2026-09-10T16:54:00.883019-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/181532_vecinos_del_mariano_matamoros_llevan_cuatro_dias_sin_luz_denuncian_fuertes_perdidas",
+        "_added_at": "2026-09-11T00:21:42.758723-07:00"
       },
       {
-        "title": "Tijuana requiere 700 megawatts más de electricidad: CCE",
-        "summary": "Cámara de Comercio advierte sobre déficit energético crítico en la ciudad.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/10/cce-detecta-necesidad-de-casi-700-megawatts-de-electricidad-para-tijuana/",
-        "_added_at": "2026-09-10T16:54:00.883019-07:00"
-      },
-      {
-        "title": "Urgen concretar proyecto de desaladora en Rosarito",
-        "summary": "Autoridades locales insisten en acelerar construcción de planta desalinizadora en Rosarito.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99283/Urgen-concretar-proyecto-de-desaladora-en-Rosarito",
-        "_added_at": "2026-09-10T16:54:00.883019-07:00"
-      },
-      {
-        "title": "Baja California enfrenta crisis energética estructural",
-        "summary": "INDEX advierte que la entidad tiene problemas de suministro eléctrico por ser aislada del sistema nacional.",
+        "title": "Sube costo transporte público San Diego 1 octubre",
+        "summary": "Tarifa del transporte fronterizo aumentará próximo mes afectando a usuarios tijuanenses.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181506_enfrenta_bc_problemas_de_electricidad_por_ser_una_isla_energetica_index",
-        "_added_at": "2026-09-10T12:02:37.795456-07:00"
-      },
-      {
-        "title": "Nafin y Bancomext financian PyMEs con plazos extendidos",
-        "summary": "Instituciones ofrecen créditos adaptados a necesidades de pequeñas empresas con periodos hasta 15 años.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/dinero/2026/09/10/nafin-y-bancomext-otorgan-financiamientos-con-plazos-de-hasta-15-anos-y-esquemas-de-cobro-adaptados-a-las-necesidades-de-cada-negocio/",
-        "_added_at": "2026-09-10T12:02:37.795456-07:00"
-      },
-      {
-        "title": "Gobierno reducirá 70% apoyo a deuda de Pemex",
-        "summary": "Federación cortará financiamiento a la petrolera en 2027, proyectando que genere superávit sin inyecciones.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/dinero/2026/09/10/gobierno-federal-recortara-casi-70-el-apoyo-financiero-a-pemex-en-2027-y-proyecta-que-la-petrolera-alcance-superavit-sin-inyecciones-directas/",
-        "_added_at": "2026-09-10T12:02:37.795456-07:00"
-      },
-      {
-        "title": "Paquete económico 2027 genera alertas en BC",
-        "summary": "Legisladora señala que propuesta presupuestal para próximo año enciende señales de alerta económica.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181488_paquete_economico_2027_prende_focos_rojos_eva_maria_vazquez",
-        "_added_at": "2026-09-10T00:23:30.252659-07:00"
-      },
-      {
-        "title": "Aeropuerto de Mexicali avanza en ampliación de terminal",
-        "summary": "Proyecto de expansión del terminal aeroportuario de Mexicali continúa su avance construcción.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/99234/Avanza-aeropuerto-de-Mexicali-en-ampliar-terminal",
-        "_added_at": "2026-09-10T00:23:30.252659-07:00"
-      },
-      {
-        "title": "CFE expande servicio eléctrico en Valle de Mexicali",
-        "summary": "Compañía de energía amplía cobertura y atención de servicios en la región vallista de Mexicali.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/99235/Ampl%C3%ADan-atenci%C3%B3n-de-CFE-en-el-Valle-de-Mexicali",
-        "_added_at": "2026-09-10T00:23:30.252659-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/181543_el_1_de_octubre_sube_el_costo_del_transporte_publico_en_san_diego",
+        "_added_at": "2026-09-11T00:21:42.758723-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Evacúan clínica en La Cacho por ruptura de manguera gas",
-        "summary": "Se evacuaron 22 personas de clínica tras incidente con fuga de gas; no hay lesionados.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/evacuan-a-22-personas-de-clinica-en-la-cacho-tras-ruptura-de-manguera-de-gas/?utm_source=rss&utm_medium=rss&utm_campaign=evacuan-a-22-personas-de-clinica-en-la-cacho-tras-ruptura-de-manguera-de-gas",
-        "_added_at": "2026-09-10T16:54:00.883019-07:00"
-      },
-      {
-        "title": "Mayores de 40 años registran más suicidios en BC",
-        "summary": "Instituto de Psiquiatría alerta sobre incremento de suicidios en población mayor de cuarenta años.",
+        "title": "Programa Tijuana Saludable avanza con afiliaciones",
+        "summary": "Alcalde encabeza jornada de registro para programa de salud municipal.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181524_mayores_de_40_anos_consuman_mas_suicidios_en_bc_instituto_de_psiquiatria",
-        "_added_at": "2026-09-10T16:54:00.883019-07:00"
+        "url": "https://www.afntijuana.info/municipios/181542_encabezo_alcalde_jornada_de_afiliacion_al_programa_tijuana_saludable",
+        "_added_at": "2026-09-11T00:21:42.758723-07:00"
       },
       {
-        "title": "Purificadora tijuanense regala agua ante ola de calor",
-        "summary": "Empresa local distribuye agua gratuita a peatones durante temperaturas extremas.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/10/toma-agua-si-la-necesitas-el-sencillo-gesto-de-una-purificadora-de-tijuana-para-ayudar-a-quienes-caminan-bajo-el-calor/",
-        "_added_at": "2026-09-10T16:54:00.883019-07:00"
-      },
-      {
-        "title": "Fenómeno Súper Niño afectará pesca y mariscos en BC",
-        "summary": "Expertos advierten que evento climático podría impactar industria pesquera y disponibilidad de mariscos.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/ensenada/2026/09/10/super-nino-podria-complicar-la-pesca-y-el-abasto-de-mariscos-en-mexico/",
-        "_added_at": "2026-09-10T16:54:00.883019-07:00"
-      },
-      {
-        "title": "Ola de calor en Tijuana alcanzará 35 grados",
-        "summary": "Se suspenden clases presenciales por temperaturas extremas que afectarán a Baja California.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/10/ola-de-calor-en-baja-california-tijuana-llegara-a-35-c-y-suspenden-clases-presenciales/",
-        "_added_at": "2026-09-10T12:02:37.795456-07:00"
-      },
-      {
-        "title": "Línea de Crisis 075 atiende más de 4 mil llamadas",
-        "summary": "Servicio de apoyo psicológico registra alta demanda con más de cuatro mil atenciones telefónicas.",
+        "title": "Atienden salud mental gratis en Baja California",
+        "summary": "Estado ofrece servicios de atención psicológica sin costo a población en general.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181502_atienden_mas_de_4_mil_llamadas_con_linea_de_crisis_075",
-        "_added_at": "2026-09-10T12:02:37.795456-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/181539_llevan_atencion_a_la_salud_mental_de_forma_gratuita_en_todo_el_estado",
+        "_added_at": "2026-09-11T00:21:42.758723-07:00"
       },
       {
-        "title": "Construcción en Tijuana requiere más bancos de tiro",
-        "summary": "CMIC señala necesidad de múltiples sitios autorizados para disposición de residuos de obras.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/10/construccion-en-tijuana-mantiene-necesidad-de-bancos-de-tiro-para-residuos/",
-        "_added_at": "2026-09-10T12:02:37.795456-07:00"
-      },
-      {
-        "title": "Pescador desaparecido hallado cerca de La Bufadora",
-        "summary": "Localizaron cuerpo de uno de los pescadores que faltaba cerca de la zona turística en Ensenada.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/tij/ensenada/2026/09/10/localizan-cuerpo-de-uno-de-los-pescadores-desaparecidos-cerca-de-la-bufadora/",
-        "_added_at": "2026-09-10T12:02:37.795456-07:00"
-      },
-      {
-        "title": "Agua y luz fallida: Tijuana sufre crisis de suministro simultáneo",
-        "summary": "Sistema de distribución de agua detiene bombeo debido a falta de energía eléctrica en la ciudad.",
+        "title": "Un año del accidente Puente Concordia no se olvida",
+        "summary": "Víctimas conmemoran tragedia de hace un año en estructura fronteriza.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181477_reporta_cespt_fallas_en_el_suministro_de_agua_detienen_bombeo_por_falta_de_luz",
-        "_added_at": "2026-09-10T00:23:30.252659-07:00"
-      },
-      {
-        "title": "Hospital General Tijuana padece crisis de infraestructura por apagón",
-        "summary": "Corte eléctrico expone carencias severas: falta aire acondicionado y elevadores funcionan precariamente.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99228/Apag%C3%B3n-revive-severas-carencias-en-el-Hospital-General-de-Tijuana%3A-sin-aire-acondicionado,-ni-elevadores",
-        "_added_at": "2026-09-10T00:23:30.252659-07:00"
+        "url": "https://www.afntijuana.info/nacionales/181536_a_un_ano_del_accidente_del_puente_de_la_concordia_las_victimas_no_olvidan_la_tragedia",
+        "_added_at": "2026-09-11T00:21:42.758723-07:00"
       }
     ]
   },
-  "last_updated": "2026-09-10T16:54:00.883019-07:00"
+  "last_updated": "2026-09-11T00:21:42.758723-07:00"
 }
