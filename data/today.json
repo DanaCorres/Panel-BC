@@ -1,8 +1,36 @@
 {
   "date": "2026-09-11",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Incendio afecta bodega en colonia Mariano Matamoros",
+        "summary": "Se registró un fuerte incendio en una bodega ubicada en la colonia Mariano Matamoros de Tijuana.",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/fuerte-incendio-en-bodega-de-la-colonia-mariano-matamoros/",
+        "_added_at": "2026-09-11T12:05:11.593022-07:00"
+      },
+      {
+        "title": "Camión de transporte cae a barranco en Mesa de Otay",
+        "summary": "Vehículo de Settepi se despeñó tras incidente con pipa de bomberos en Mesa de Otay, Tijuana.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/policiaca/2026/09/11/camion-de-settepi-cae-a-un-barranco-tras-percance-con-pipa-de-bomberos-en-tijuana/",
+        "_added_at": "2026-09-11T12:05:11.593022-07:00"
+      },
+      {
+        "title": "Manipulación de cifras: menos homicidios, más desaparecidos",
+        "summary": "Reportan disminución del 28% en homicidios pero aumento del 345% en desaparecidos en Baja California.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/estado-manipula-cifras-28-menos-homicidios-345-mas-desaparecidos-podcast/",
+        "_added_at": "2026-09-11T12:05:11.593022-07:00"
+      },
+      {
+        "title": "Refuerzan vigilancia contra pirotecnia en Fiestas Patrias",
+        "summary": "Autoridades piden intensificar inspecciones de pirotecnia durante celebraciones patrias en Tijuana.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/11/piden-reforzar-vigilancia-contra-la-pirotecnia-durante-fiestas-patrias-en-tijuana/",
+        "_added_at": "2026-09-11T12:05:11.593022-07:00"
+      },
       {
         "title": "Aseguran 27 kilos de cristal en vehículo abandonado",
         "summary": "Autoridades locales decomisaron más de 27 kilogramos de droga cristal en un automóvil sin ocupantes.",
@@ -34,6 +62,27 @@
     ],
     "politica": [
       {
+        "title": "INE revisará candidatos para detectar vínculos criminales",
+        "summary": "Instituto Nacional Electoral establecerá proceso para investigar posibles conexiones de candidatos con grupos delictivos.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/mexico/2026/09/11/asi-revisara-el-ine-a-candidatos-para-detectar-posibles-vinculos-con-grupos-criminales-en-2027/",
+        "_added_at": "2026-09-11T12:05:11.593022-07:00"
+      },
+      {
+        "title": "Sheinbaum se deslinda de expresiones contra periodista",
+        "summary": "Presidenta rechaza comentarios de funcionario hacia Enrique Acevedo como condenables.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/condenable-sheinbaum-se-deslinda-de-las-expresiones-de-salazar-hacia-enrique-acevedo/",
+        "_added_at": "2026-09-11T12:05:11.593022-07:00"
+      },
+      {
+        "title": "Sheinbaum pide aclaraciones al INE sobre procesos electorales",
+        "summary": "Presidenta solicita al INE resolver dudas sobre boletas, cambios de color y asignación de recursos.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/pide-la-presidenta-claudia-sheinbaum-al-ine-aclarar-dudas-sobre-boletas-cambios-de-color-y-recursos/",
+        "_added_at": "2026-09-11T12:05:11.593022-07:00"
+      },
+      {
         "title": "Diputado de Morena se habría quitado la vida",
         "summary": "Investigación de FGR señala suicidio de legislador morenista tras presuntas irregularidades.",
         "source": "AFN Tijuana",
@@ -64,6 +113,27 @@
     ],
     "economia": [
       {
+        "title": "Paquete económico 2027 afectará flujo de empresas",
+        "summary": "Análisis indica que medidas presupuestarias federales impactarán negativamente liquidez empresarial.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/11/paquete-economico-2027-apretaria-el-flujo-de-efectivo-de-empresas/",
+        "_added_at": "2026-09-11T12:05:11.593022-07:00"
+      },
+      {
+        "title": "Librerías enfrentan competencia desleal por programas públicos",
+        "summary": "Comerciantes denuncian que iniciativas gubernamentales de cultura lectora afectan negocios locales.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/cultura-lectora-competencia-desleal-paras-las-librerias-alfonso-lopez-camacho/",
+        "_added_at": "2026-09-11T12:05:11.593022-07:00"
+      },
+      {
+        "title": "Reforma laboral: jornada de 40 horas ya es ley",
+        "summary": "Se aclaran cambios en jornada laboral: 40 horas vigentes desde 2027, pero transición aún vigente.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/dinero/2026/09/11/la-jornada-laboral-de-40-horas-ya-es-ley-en-mexico-pero-en-2026-siguen-vigentes-hasta-48-horas-que-cambia-desde-2027-y-como-queda-el-descanso-semanal/",
+        "_added_at": "2026-09-11T12:05:11.593022-07:00"
+      },
+      {
         "title": "Vecinos sin luz cuatro días, generan pérdidas",
         "summary": "Corte eléctrico prolongado en colonia Mariano Matamoros causa daños económicos.",
         "source": "AFN Tijuana",
@@ -79,6 +149,34 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "UABC instalará refrigeración en aulas de Valle de Palmas",
+        "summary": "Universidad autónoma atiende demanda de estudiantes sobre falta de climatización en campus.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/mixteca_oaxaquena/181567_atendera_uabc_falta_de_refrigeracion_en_aulas_de_valle_de_las_palmas",
+        "_added_at": "2026-09-11T12:05:11.593022-07:00"
+      },
+      {
+        "title": "Maestro Juan Zúñiga reconocido por trayectoria en educación",
+        "summary": "Homenaje a educador que trabajó desde Islas Marías hasta Casa de la Cultura de Tijuana.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/sociales/181568_juan_zuniga_maestro_desde_las_islas_marias_hasta_casa_de_la_cultura_tijuana",
+        "_added_at": "2026-09-11T12:05:11.593022-07:00"
+      },
+      {
+        "title": "Fallece Laura Alicia Camarillo, primera directora de Derecho UABC",
+        "summary": "Muere reconocida académica que fundó la Facultad de Derecho en la universidad estatal.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/muere-laura-alicia-camarillo-primera-directora-de-la-facultad-de-derecho-de-la-uabc/",
+        "_added_at": "2026-09-11T12:05:11.593022-07:00"
+      },
+      {
+        "title": "Festival de la Mexicanidad en explanada del Cecut",
+        "summary": "Invitación a evento cultural que celebra tradiciones e identidad mexicana en Tijuana.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181562_invitan_al_festival_de_la_mexicanidad_en_la_explanada_del_cecut",
+        "_added_at": "2026-09-11T12:05:11.593022-07:00"
+      },
       {
         "title": "Programa Tijuana Saludable avanza con afiliaciones",
         "summary": "Alcalde encabeza jornada de registro para programa de salud municipal.",
@@ -102,5 +200,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-11T00:21:42.758723-07:00"
+  "last_updated": "2026-09-11T12:05:11.593022-07:00"
 }
