@@ -1,274 +1,106 @@
 {
-  "date": "2026-09-11",
-  "run_count": 3,
+  "date": "2026-09-12",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Localizan restos óseos en Mexicali",
-        "summary": "Descubrimiento de restos humanos en el Rancho Garibay de Mexicali durante investigación policial.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/99334/Localizan-restos-%C3%B3seos-en-el-Rancho-Garibay-en-Mexicali",
-        "_added_at": "2026-09-11T17:00:56.019159-07:00"
-      },
-      {
-        "title": "Detienen a mujer por tráfico de armas",
-        "summary": "Capturan a estadounidense en San Luis Río Colorado que movía armamento para organización criminal.",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/detienen-a-gringa-en-san-luis-rio-colorado-que-movia-armas-para-un-cartel/",
-        "_added_at": "2026-09-11T17:00:56.019159-07:00"
-      },
-      {
-        "title": "Adolescente grave por accidente escolar",
-        "summary": "Estudiante de Tijuana resulta gravemente herido tras caerle estructura de canasta de basquetbol.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/11/adolescente-queda-grave-tras-caerle-estructura-de-canasta-de-basquetbol-en-tijuana/",
-        "_added_at": "2026-09-11T17:00:56.019159-07:00"
-      },
-      {
-        "title": "Incendio afecta bodega en colonia Mariano Matamoros",
-        "summary": "Se registró un fuerte incendio en una bodega ubicada en la colonia Mariano Matamoros de Tijuana.",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/fuerte-incendio-en-bodega-de-la-colonia-mariano-matamoros/",
-        "_added_at": "2026-09-11T12:05:11.593022-07:00"
-      },
-      {
-        "title": "Camión de transporte cae a barranco en Mesa de Otay",
-        "summary": "Vehículo de Settepi se despeñó tras incidente con pipa de bomberos en Mesa de Otay, Tijuana.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/tij/policiaca/2026/09/11/camion-de-settepi-cae-a-un-barranco-tras-percance-con-pipa-de-bomberos-en-tijuana/",
-        "_added_at": "2026-09-11T12:05:11.593022-07:00"
-      },
-      {
-        "title": "Manipulación de cifras: menos homicidios, más desaparecidos",
-        "summary": "Reportan disminución del 28% en homicidios pero aumento del 345% en desaparecidos en Baja California.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/estado-manipula-cifras-28-menos-homicidios-345-mas-desaparecidos-podcast/",
-        "_added_at": "2026-09-11T12:05:11.593022-07:00"
-      },
-      {
-        "title": "Refuerzan vigilancia contra pirotecnia en Fiestas Patrias",
-        "summary": "Autoridades piden intensificar inspecciones de pirotecnia durante celebraciones patrias en Tijuana.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/11/piden-reforzar-vigilancia-contra-la-pirotecnia-durante-fiestas-patrias-en-tijuana/",
-        "_added_at": "2026-09-11T12:05:11.593022-07:00"
-      },
-      {
-        "title": "Aseguran 27 kilos de cristal en vehículo abandonado",
-        "summary": "Autoridades locales decomisaron más de 27 kilogramos de droga cristal en un automóvil sin ocupantes.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/99290/Asegura-SSPCM-y-GN-m%C3%A1s-de-27-kilogramos-de-cristal-en-veh%C3%ADculo-abandonado",
-        "_added_at": "2026-09-11T00:21:42.758723-07:00"
-      },
-      {
-        "title": "Capturan tres sospechosos por asalto a camión repartidor",
-        "summary": "Policía estatal detuvo a tres presuntos responsables del robo a un vehículo de reparto.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/99289/Detiene-SSPCM-a-tres-presuntos-responsables-de-asalto-a-cami%C3%B3n-repartidor",
-        "_added_at": "2026-09-11T00:21:42.758723-07:00"
-      },
-      {
-        "title": "Vinculan a proceso a tres detenidos con armas",
-        "summary": "Tres sujetos fueron ligados a proceso legal tras ser hallados con armas y municiones.",
+        "title": "Camión Altisa colisiona con pipa; cuatro personas heridas",
+        "summary": "Accidente vial en Tijuana dejó cuatro heridos tras choque entre camión de transporte y pipa.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/181530_vinculan_a_proceso_a_tres_hombres_detenidos_con_armas_y_cartuchos",
-        "_added_at": "2026-09-11T00:21:42.758723-07:00"
+        "url": "https://www.afntijuana.info/seguridad/181594_camion_de_altisa_choco_con_una_pipa_hubo_cuatro_heridos",
+        "_added_at": "2026-09-12T00:14:16.842222-07:00"
+      },
+      {
+        "title": "Pareja detenida por agresiones dentro de domicilio tijuanense",
+        "summary": "Autoridades capturan a hombre y mujer tras hechos violentos al interior de una vivienda.",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/detienen-a-hombre-y-mujer-tras-agresiones-dentro-de-un-domicilio-en-tijuana/",
+        "_added_at": "2026-09-12T00:14:16.842222-07:00"
+      },
+      {
+        "title": "Fiscal inicia proceso de baja para agente que disparó casa expareja",
+        "summary": "Fiscalía abre procedimiento contra policía que efectuó disparos contra domicilio de su expareja.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181591_fiscalia_inicio_proceso_para_dar_de_baja_a_agente_que_disparo_contra_la_casa_de_su_expareja",
+        "_added_at": "2026-09-12T00:14:16.842222-07:00"
+      },
+      {
+        "title": "Congreso demanda mejora seguridad Bulevar 2000 a Gobierno Estatal",
+        "summary": "Legisladores solicitan acciones urgentes para elevar condiciones de seguridad en zona crítica.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181593_pide_congreso_al_gobierno_estatal_mejorar_condiciones_de_seguridad_en_el_bulevar_2000",
+        "_added_at": "2026-09-12T00:14:16.842222-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Ismael Burgueño lidera preferencias de Morena",
-        "summary": "Encuesta muestra a Burgueño como favorito en Morena para candidatura a gubernatura en 2027.",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/ismael-burgueno-encabeza-preferencias-de-morena-rumbo-a-la-gubernatura-en-2027/",
-        "_added_at": "2026-09-11T17:00:56.019159-07:00"
+        "title": "Sheinbaum visitará BC el 19; prevén conflictos políticos",
+        "summary": "Presidenta llegará a Baja California en contexto de tensiones y desacuerdos administrativos.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/afn_politico/181592_sheinbaum_viene_el_19_a_baja_california_encontrara_caos_y_pleitos",
+        "_added_at": "2026-09-12T00:14:16.842222-07:00"
       },
       {
-        "title": "Paro de maestros CNTE por adeudos en BC",
-        "summary": "Continúa paro de CNTE por deudas salariales a 3 mil maestros; gobierno no reconoce a todos.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/sigue-paro-de-la-cnte-por-adeudos-a-3-mil-maestros-en-bc-gobierno-no-los-reconoce-a-todos/?utm_source=rss&utm_medium=rss&utm_campaign=sigue-paro-de-la-cnte-por-adeudos-a-3-mil-maestros-en-bc-gobierno-no-los-reconoce-a-todos",
-        "_added_at": "2026-09-11T17:00:56.019159-07:00"
-      },
-      {
-        "title": "Evaluarán extensión de cierre de escuelas",
-        "summary": "Autoridades educativas analizarán si prolongar suspensión de clases por temperaturas extremas.",
+        "title": "Buscan apoyo empresarial para financiar candidaturas independientes BC",
+        "summary": "Se gestiona respaldo privado para postulantes sin afiliación partidista en el estado.",
         "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Estatal/99331/Evaluar%C3%A1-Sistema-Educativo-extender-suspensi%C3%B3n-de-clases-por-calor",
-        "_added_at": "2026-09-11T17:00:56.019159-07:00"
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/99341/Buscar%C3%A1n-apoyo-empresarial-para-financiar-candidaturas-independientes-en-BC",
+        "_added_at": "2026-09-12T00:14:16.842222-07:00"
       },
       {
-        "title": "INE revisará candidatos para detectar vínculos criminales",
-        "summary": "Instituto Nacional Electoral establecerá proceso para investigar posibles conexiones de candidatos con grupos delictivos.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/mexico/2026/09/11/asi-revisara-el-ine-a-candidatos-para-detectar-posibles-vinculos-con-grupos-criminales-en-2027/",
-        "_added_at": "2026-09-11T12:05:11.593022-07:00"
-      },
-      {
-        "title": "Sheinbaum se deslinda de expresiones contra periodista",
-        "summary": "Presidenta rechaza comentarios de funcionario hacia Enrique Acevedo como condenables.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/condenable-sheinbaum-se-deslinda-de-las-expresiones-de-salazar-hacia-enrique-acevedo/",
-        "_added_at": "2026-09-11T12:05:11.593022-07:00"
-      },
-      {
-        "title": "Sheinbaum pide aclaraciones al INE sobre procesos electorales",
-        "summary": "Presidenta solicita al INE resolver dudas sobre boletas, cambios de color y asignación de recursos.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/pide-la-presidenta-claudia-sheinbaum-al-ine-aclarar-dudas-sobre-boletas-cambios-de-color-y-recursos/",
-        "_added_at": "2026-09-11T12:05:11.593022-07:00"
-      },
-      {
-        "title": "Diputado de Morena se habría quitado la vida",
-        "summary": "Investigación de FGR señala suicidio de legislador morenista tras presuntas irregularidades.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181538_diputado_de_morena_se_habria_quitado_la_vida_segun_investigacion_de_la_fgr",
-        "_added_at": "2026-09-11T00:21:42.758723-07:00"
-      },
-      {
-        "title": "Relación distante entre Julieta y Marina del Pilar",
-        "summary": "Funcionarias locales mantienen alejamiento político según declaraciones públicas recientes.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181541_advierte_julieta_relacion_distante_con_marina_del_pilar",
-        "_added_at": "2026-09-11T00:21:42.758723-07:00"
-      },
-      {
-        "title": "Partido Somos busca candidatos ciudadanos 2027",
-        "summary": "Partido político planea incorporar perfiles independientes para próximas elecciones estatales.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181535_partido_somos_buscara_perfiles_ciudadanos_como_candidatos_para_el_2027",
-        "_added_at": "2026-09-11T00:21:42.758723-07:00"
-      },
-      {
-        "title": "Castro Trenti se prepara para defensa de la 4T",
-        "summary": "Funcionario manifiesta intención de coordinar estrategia de defensa del gobierno federal.",
+        "title": "Evelyn Sánchez solicita intérpretes indígenas en instituciones públicas",
+        "summary": "Propuesta para incluir traductores en fiscalías, tribunales y servicios de salud estatal.",
         "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Estatal/99275/Castro-Trenti-listo-para-ser-el-coordinador-de-la-defensa-de-la-4T",
-        "_added_at": "2026-09-11T00:21:42.758723-07:00"
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/99335/Pide-Evelyn-S%C3%A1nchez-int%C3%A9rpretes-ind%C3%ADgenas-en-fiscal%C3%ADas,-tribunales-y-servicios-de-salud",
+        "_added_at": "2026-09-12T00:14:16.842222-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Sidurt invierte 14.6 mdp en bacheo",
-        "summary": "Autoridad de transporte destina 14.6 millones de pesos para obras de reparación en Corredor 2000.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/sidurt-invierte-14-6-mdp-en-obras-mayores-de-bacheo-en-corredor-2000/?utm_source=rss&utm_medium=rss&utm_campaign=sidurt-invierte-14-6-mdp-en-obras-mayores-de-bacheo-en-corredor-2000",
-        "_added_at": "2026-09-11T17:00:56.019159-07:00"
+        "title": "Tijuana requiere 700 megawatts; apagones evidencian crisis energética",
+        "summary": "Cámara de Comercio alerta sobre rezago eléctrico que limita suministro en la región.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/99340/Apagones-exhiben-rezago-el%C3%A9ctrico;-Tijuana-requiere-700-megawatts-adicionales%3A-CCE",
+        "_added_at": "2026-09-12T00:14:16.842222-07:00"
       },
       {
-        "title": "Invierten 10.8 mdp en vialidad El Refugio",
-        "summary": "Destinan 10.8 millones de pesos para rehabilitación de calles en la colonia El Refugio.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181587_invierten_10_8_mdp_para_rehabilitar_vialidad_en_el_refugio",
-        "_added_at": "2026-09-11T17:00:56.019159-07:00"
+        "title": "Reforma fiscal genera preocupación en empresas tijuanenses",
+        "summary": "Sectores empresariales advierten posibles impactos negativos de cambios tributarios.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99337/Alertan-por-impacto-de-nueva-reforma-fiscal-en-empresas",
+        "_added_at": "2026-09-12T00:14:16.842222-07:00"
       },
       {
-        "title": "Paquete económico 2027 afectará flujo de empresas",
-        "summary": "Análisis indica que medidas presupuestarias federales impactarán negativamente liquidez empresarial.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/11/paquete-economico-2027-apretaria-el-flujo-de-efectivo-de-empresas/",
-        "_added_at": "2026-09-11T12:05:11.593022-07:00"
-      },
-      {
-        "title": "Librerías enfrentan competencia desleal por programas públicos",
-        "summary": "Comerciantes denuncian que iniciativas gubernamentales de cultura lectora afectan negocios locales.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/cultura-lectora-competencia-desleal-paras-las-librerias-alfonso-lopez-camacho/",
-        "_added_at": "2026-09-11T12:05:11.593022-07:00"
-      },
-      {
-        "title": "Reforma laboral: jornada de 40 horas ya es ley",
-        "summary": "Se aclaran cambios en jornada laboral: 40 horas vigentes desde 2027, pero transición aún vigente.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/dinero/2026/09/11/la-jornada-laboral-de-40-horas-ya-es-ley-en-mexico-pero-en-2026-siguen-vigentes-hasta-48-horas-que-cambia-desde-2027-y-como-queda-el-descanso-semanal/",
-        "_added_at": "2026-09-11T12:05:11.593022-07:00"
-      },
-      {
-        "title": "Vecinos sin luz cuatro días, generan pérdidas",
-        "summary": "Corte eléctrico prolongado en colonia Mariano Matamoros causa daños económicos.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181532_vecinos_del_mariano_matamoros_llevan_cuatro_dias_sin_luz_denuncian_fuertes_perdidas",
-        "_added_at": "2026-09-11T00:21:42.758723-07:00"
-      },
-      {
-        "title": "Sube costo transporte público San Diego 1 octubre",
-        "summary": "Tarifa del transporte fronterizo aumentará próximo mes afectando a usuarios tijuanenses.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181543_el_1_de_octubre_sube_el_costo_del_transporte_publico_en_san_diego",
-        "_added_at": "2026-09-11T00:21:42.758723-07:00"
+        "title": "Notarios proponen programa social para escrituración viviendas BC",
+        "summary": "Iniciativa busca facilitar trámites y acceso a documentación inmobiliaria para familias.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/99342/Proponen-notarios-programa-social-para-facilitar-escrituraci%C3%B3n-de-viviendas-en-BC",
+        "_added_at": "2026-09-12T00:14:16.842222-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Mexicali rompe récord de temperatura",
-        "summary": "Se registran 48.7 grados centígrados en Mexicali, estableciendo nuevo máximo histórico para esta fecha.",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/mexicali-registra-48-7c-y-rompe-record-de-temperatura-para-un-10-de-septiembre/",
-        "_added_at": "2026-09-11T17:00:56.019159-07:00"
+        "title": "Gobernadora instruye inspección canalización Río Tijuana",
+        "summary": "Marina del Pilar supervisa trabajos de restauración del cauce fronterizo.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/99343/Instruye-Gobernadora-Marina-del-Pilar-recorrido-de-inspecci%C3%B3n-por-canalizaci%C3%B3n-R%C3%ADo-Tijuana",
+        "_added_at": "2026-09-12T00:14:16.842222-07:00"
       },
       {
-        "title": "Crisis de agua en 60 colonias Tijuana-Rosarito",
-        "summary": "Alrededor de 60 colonias reportan fallas graves en el suministro de agua potable.",
+        "title": "Acuerdan acciones conjuntas restaurar canalización Río Tijuana",
+        "summary": "Coordinación interinstitucional para rehabilitación e infraestructura del cauce.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181590_alrededor_de_60_colonias_de_tijuana_y_rosarito_presentan_fallas_en_el_suministro_de_agua",
-        "_added_at": "2026-09-11T17:00:56.019159-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/181596_acuerdan_acciones_conjuntas_para_restaurar_la_canalizacion_del_rio_tijuana",
+        "_added_at": "2026-09-12T00:14:16.842222-07:00"
       },
       {
-        "title": "17 personas atienden por golpe de calor",
-        "summary": "Jurisdicción Sanitaria atiende a 17 personas afectadas por deshidratación y quemaduras por altas temperaturas.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/11/atienden-casos-de-deshidratacion-golpes-de-calor-y-quemaduras-en-la-piel/",
-        "_added_at": "2026-09-11T17:00:56.019159-07:00"
-      },
-      {
-        "title": "Apagones en 59 colonias Tijuana-Rosarito",
-        "summary": "Fallas de energía eléctrica generan cortes intermitentes en casi 60 colonias de ambas ciudades.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/cespt-reitera-falta-e-intermitencia-en-59-colonias-de-tijuana-y-rosarito-por-fallas-de-energia/?utm_source=rss&utm_medium=rss&utm_campaign=cespt-reitera-falta-e-intermitencia-en-59-colonias-de-tijuana-y-rosarito-por-fallas-de-energia",
-        "_added_at": "2026-09-11T17:00:56.019159-07:00"
-      },
-      {
-        "title": "UABC instalará refrigeración en aulas de Valle de Palmas",
-        "summary": "Universidad autónoma atiende demanda de estudiantes sobre falta de climatización en campus.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/mixteca_oaxaquena/181567_atendera_uabc_falta_de_refrigeracion_en_aulas_de_valle_de_las_palmas",
-        "_added_at": "2026-09-11T12:05:11.593022-07:00"
-      },
-      {
-        "title": "Maestro Juan Zúñiga reconocido por trayectoria en educación",
-        "summary": "Homenaje a educador que trabajó desde Islas Marías hasta Casa de la Cultura de Tijuana.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/sociales/181568_juan_zuniga_maestro_desde_las_islas_marias_hasta_casa_de_la_cultura_tijuana",
-        "_added_at": "2026-09-11T12:05:11.593022-07:00"
-      },
-      {
-        "title": "Fallece Laura Alicia Camarillo, primera directora de Derecho UABC",
-        "summary": "Muere reconocida académica que fundó la Facultad de Derecho en la universidad estatal.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/muere-laura-alicia-camarillo-primera-directora-de-la-facultad-de-derecho-de-la-uabc/",
-        "_added_at": "2026-09-11T12:05:11.593022-07:00"
-      },
-      {
-        "title": "Festival de la Mexicanidad en explanada del Cecut",
-        "summary": "Invitación a evento cultural que celebra tradiciones e identidad mexicana en Tijuana.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181562_invitan_al_festival_de_la_mexicanidad_en_la_explanada_del_cecut",
-        "_added_at": "2026-09-11T12:05:11.593022-07:00"
-      },
-      {
-        "title": "Programa Tijuana Saludable avanza con afiliaciones",
-        "summary": "Alcalde encabeza jornada de registro para programa de salud municipal.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/municipios/181542_encabezo_alcalde_jornada_de_afiliacion_al_programa_tijuana_saludable",
-        "_added_at": "2026-09-11T00:21:42.758723-07:00"
-      },
-      {
-        "title": "Atienden salud mental gratis en Baja California",
-        "summary": "Estado ofrece servicios de atención psicológica sin costo a población en general.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181539_llevan_atencion_a_la_salud_mental_de_forma_gratuita_en_todo_el_estado",
-        "_added_at": "2026-09-11T00:21:42.758723-07:00"
+        "title": "Fallas de luz afectan familias Zona Este Tijuana",
+        "summary": "Residents de sector solicitan solución urgente a cortes eléctricos recurrentes.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99338/Piden-soluci%C3%B3n-a-fallas-de-luz-que-afectan-a-familias-de-la-Zona-Este",
+        "_added_at": "2026-09-12T00:14:16.842222-07:00"
       }
     ]
   },
-  "last_updated": "2026-09-11T17:00:56.019159-07:00"
+  "last_updated": "2026-09-12T00:14:16.842222-07:00"
 }

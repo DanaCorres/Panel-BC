@@ -1,376 +1,142 @@
 {
-  "generated_at": "2026-09-12T00:00:55.227854+00:00",
+  "generated_at": "2026-09-12T07:14:16.176528+00:00",
   "items": [
     {
-      "source": "ZETA Tijuana",
-      "title": "Sin servicios, sin nada…",
-      "url": "https://zetatijuana.com/2026/09/sin-servicios-sin-nada/?utm_source=rss&utm_medium=rss&utm_campaign=sin-servicios-sin-nada",
-      "published": "Sat, 12 Sep 2026 00:00:06 +0000"
-    },
-    {
       "source": "AFN Tijuana",
-      "title": "Alrededor de 60 colonias de Tijuana y Rosarito presentan fallas en el suministro de agua",
-      "url": "https://www.afntijuana.info/informacion_general/181590_alrededor_de_60_colonias_de_tijuana_y_rosarito_presentan_fallas_en_el_suministro_de_agua",
+      "title": "Alumbrar el Bulevar 2000, condicionado a que haya presupuesto: Sidurt",
+      "url": "https://www.afntijuana.info/informacion_general/181598_alumbrar_el_bulevar_2000_condicionado_a_que_haya_presupuesto_sidurt",
       "published": ""
     },
     {
       "source": "El Mexicano",
-      "title": "Localizan restos óseos en el Rancho Garibay en MexicaliPoliciaca |11 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Policiaca/99334/Localizan-restos-%C3%B3seos-en-el-Rancho-Garibay-en-Mexicali",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Atienden casos de deshidratación, golpes de calor y quemaduras en la piel",
-      "url": "https://www.elimparcial.com/tij/tijuana/2026/09/11/atienden-casos-de-deshidratacion-golpes-de-calor-y-quemaduras-en-la-piel/",
+      "title": "Instruye Gobernadora Marina del Pilar recorrido de inspección por canalización Río TijuanaEstatal |11 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Estatal/99343/Instruye-Gobernadora-Marina-del-Pilar-recorrido-de-inspecci%C3%B3n-por-canalizaci%C3%B3n-R%C3%ADo-Tijuana",
       "published": ""
     },
     {
       "source": "TJ Comunica",
-      "title": "Ismael Burgueño encabeza preferencias de Morena rumbo a la gubernatura en 2027",
-      "url": "https://tjcomunica.com/ismael-burgueno-encabeza-preferencias-de-morena-rumbo-a-la-gubernatura-en-2027/",
-      "published": ""
-    },
-    {
-      "source": "ZETA Tijuana",
-      "title": "CECUT suspende actividades en Cine Planetario y Cineteca",
-      "url": "https://zetatijuana.com/2026/09/cecut-suspende-actividades-en-cine-planetario-y-cineteca/?utm_source=rss&utm_medium=rss&utm_campaign=cecut-suspende-actividades-en-cine-planetario-y-cineteca",
-      "published": "Fri, 11 Sep 2026 23:54:58 +0000"
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Hubo cinco estudiantes de la UABC afectados por altas temperaturas",
-      "url": "https://www.afntijuana.info/informacion_general/181589_hubo_cinco_estudiantes_de_la_uabc_afectados_por_altas_temperaturas",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Localizan restos óseos en el Rancho Garibay en MexicaliPoliciaca| viernes 11 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Policiaca/99334/Localizan-restos-%C3%B3seos-en-el-Rancho-Garibay-en-Mexicali",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "La Jurisdicción Sanitaria Número 2 atendió a 17 personas durante los últimos días de calor extremo, principalmente por deshidratación, golpe de calor y quemaduras.",
-      "url": "https://www.elimparcial.com/tij/tijuana/2026/09/11/atienden-casos-de-deshidratacion-golpes-de-calor-y-quemaduras-en-la-piel/",
-      "published": ""
-    },
-    {
-      "source": "TJ Comunica",
-      "title": "Mexicali registra 48.7°C y rompe récord de temperatura para un 10 de septiembre",
-      "url": "https://tjcomunica.com/mexicali-registra-48-7c-y-rompe-record-de-temperatura-para-un-10-de-septiembre/",
-      "published": ""
-    },
-    {
-      "source": "ZETA Tijuana",
-      "title": "Sidurt invierte 14.6 mdp en obras mayores de bacheo en Corredor 2000",
-      "url": "https://zetatijuana.com/2026/09/sidurt-invierte-14-6-mdp-en-obras-mayores-de-bacheo-en-corredor-2000/?utm_source=rss&utm_medium=rss&utm_campaign=sidurt-invierte-14-6-mdp-en-obras-mayores-de-bacheo-en-corredor-2000",
-      "published": "Fri, 11 Sep 2026 23:06:22 +0000"
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Realizarán Simposio de Alzheimer el 21 de septiembre en Tijuana",
-      "url": "https://www.afntijuana.info/salud/181588_realizaran_simposio_de_alzheimer_el_21_de_septiembre_en_tijuana",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Anthropic vincula a Emiratos con operación de IA contra expertos de la ONUMundo |11 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Mundo/99332/Anthropic-vincula-a-Emiratos-con-operaci%C3%B3n-de-IA-contra-expertos-de-la-ONU",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Muere Yogui, oso negro del Parque Morelos en Tijuana",
-      "url": "https://www.elimparcial.com/tij/tijuana/2026/09/11/muere-yogui-oso-negro-del-parque-morelos-en-tijuana/",
-      "published": ""
-    },
-    {
-      "source": "TJ Comunica",
-      "title": "Que estudiar no signifique tener que irte de tu tierra: Eva Moreno",
-      "url": "https://tjcomunica.com/que-estudiar-no-signifique-tener-que-irte-de-tu-tierra-eva-moreno/",
-      "published": ""
-    },
-    {
-      "source": "ZETA Tijuana",
-      "title": "CESPT reitera falta e intermitencia en 59 colonias de Tijuana y Rosarito por fallas de energía",
-      "url": "https://zetatijuana.com/2026/09/cespt-reitera-falta-e-intermitencia-en-59-colonias-de-tijuana-y-rosarito-por-fallas-de-energia/?utm_source=rss&utm_medium=rss&utm_campaign=cespt-reitera-falta-e-intermitencia-en-59-colonias-de-tijuana-y-rosarito-por-fallas-de-energia",
-      "published": "Fri, 11 Sep 2026 22:31:30 +0000"
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Invierten 10.8 mdp para rehabilitar vialidad en El Refugio",
-      "url": "https://www.afntijuana.info/informacion_general/181587_invierten_10_8_mdp_para_rehabilitar_vialidad_en_el_refugio",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Anthropic vincula a Emiratos con operación de IA contra expertos de la ONUMundo| viernes 11 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Mundo/99332/Anthropic-vincula-a-Emiratos-con-operaci%C3%B3n-de-IA-contra-expertos-de-la-ONU",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Riesgos de subir tu estado de cuenta a ChatGPT o Gemini",
-      "url": "https://www.elimparcial.com/dinero/2026/09/11/expertos-advierten-por-que-nunca-debes-subir-tu-estado-de-cuenta-bancario-a-chatgpt-gemini-o-claude-para-evitar-la-exposicion-de-tus-datos-personales/",
-      "published": ""
-    },
-    {
-      "source": "TJ Comunica",
-      "title": "Detienen a “gringa” en San Luis Río Colorado que movía armas para un cártel",
-      "url": "https://tjcomunica.com/detienen-a-gringa-en-san-luis-rio-colorado-que-movia-armas-para-un-cartel/",
-      "published": ""
-    },
-    {
-      "source": "ZETA Tijuana",
-      "title": "Nunca es tarde para redimirse: Don’t Look Back in Anger",
-      "url": "https://zetatijuana.com/2026/09/nunca-es-tarde-para-redimirse-dont-look-back-in-anger/?utm_source=rss&utm_medium=rss&utm_campaign=nunca-es-tarde-para-redimirse-dont-look-back-in-anger",
-      "published": "Fri, 11 Sep 2026 22:17:21 +0000"
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Abren convocatoria para el Reconocimiento \"Meritus 2026\" de la UABC",
-      "url": "https://www.afntijuana.info/educativas/181586_abren_convocatoria_para_el_reconocimiento_meritus_2026_de_la_uabc",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Evaluará Sistema Educativo extender suspensión de clases por calorEstatal |11 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Estatal/99331/Evaluar%C3%A1-Sistema-Educativo-extender-suspensi%C3%B3n-de-clases-por-calor",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Adolescente queda grave tras accidente en escuela de Tijuana",
-      "url": "https://www.elimparcial.com/tij/tijuana/2026/09/11/adolescente-queda-grave-tras-caerle-estructura-de-canasta-de-basquetbol-en-tijuana/",
-      "published": ""
-    },
-    {
-      "source": "TJ Comunica",
-      "title": "Cereza y Cerecito: un milagro de vida tras la tragedia de la explosión de hace un año en la CDMX",
-      "url": "https://tjcomunica.com/cereza-y-cerecito-un-milagro-de-vida-tras-la-tragedia-de-la-explosion-de-hace-un-ano-en-la-cdmx/",
-      "published": ""
-    },
-    {
-      "source": "ZETA Tijuana",
-      "title": "Detienen a operadora de Los Mayos con más de 5 mil cartuchos en Sonora",
-      "url": "https://zetatijuana.com/2026/09/detienen-a-operadora-de-los-mayos-con-mas-de-5-mil-cartuchos-en-sonora/?utm_source=rss&utm_medium=rss&utm_campaign=detienen-a-operadora-de-los-mayos-con-mas-de-5-mil-cartuchos-en-sonora",
-      "published": "Fri, 11 Sep 2026 21:12:55 +0000"
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Ordenan a CESPT frenar descargas irregulares de aguas residuales al Río Tijuana",
-      "url": "https://www.afntijuana.info/informacion_general/181585_ordenan_a_cespt_frenar_descargas_irregulares_de_aguas_residuales_al_rio_tijuana",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Evaluará Sistema Educativo extender suspensión de clases por calorEstatal| viernes 11 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Estatal/99331/Evaluar%C3%A1-Sistema-Educativo-extender-suspensi%C3%B3n-de-clases-por-calor",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Diferencias entre donar y heredar en México",
-      "url": "https://www.elimparcial.com/dinero/2026/09/11/entender-cual-es-la-diferencia-entre-donar-en-vida-y-hacer-una-herencia-permite-proteger-la-vivienda-de-los-adultos-mayores-y-cumplir-los-requisitos-del-sat-para-no-pagar-impuesto-sobre-la-renta-en-mexico/",
-      "published": ""
-    },
-    {
-      "source": "TJ Comunica",
-      "title": "Fuerte incendio en bodega de la colonia Mariano Matamoros",
-      "url": "https://tjcomunica.com/fuerte-incendio-en-bodega-de-la-colonia-mariano-matamoros/",
-      "published": ""
-    },
-    {
-      "source": "ZETA Tijuana",
-      "title": "Sigue paro de la CNTE por adeudos a 3 mil maestros en BC; gobierno no los reconoce a todos",
-      "url": "https://zetatijuana.com/2026/09/sigue-paro-de-la-cnte-por-adeudos-a-3-mil-maestros-en-bc-gobierno-no-los-reconoce-a-todos/?utm_source=rss&utm_medium=rss&utm_campaign=sigue-paro-de-la-cnte-por-adeudos-a-3-mil-maestros-en-bc-gobierno-no-los-reconoce-a-todos",
-      "published": "Fri, 11 Sep 2026 20:43:16 +0000"
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Analizarán este sábado si continúa la suspensión de clases en Baja California",
-      "url": "https://www.afntijuana.info/informacion_general/181584_analizaran_este_sabado_si_continua_la_suspension_de_clases_en_baja_california",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Camión de Settepi sale del camino y termina en un barranco tras percance con pipa de BomberosPoliciaca| viernes 11 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Policiaca/99319/Cami%C3%B3n-de-Settepi-sale-del-camino-y-termina-en-un-barranco-tras-percance-con-pipa-de-Bomberos",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "A un año del feminicidio de Karina, esperan justicia",
-      "url": "https://www.elimparcial.com/tij/tijuana/2026/09/11/familia-de-karina-hernandez-espera-justicia-a-un-ano-de-su-feminicidio/",
-      "published": ""
-    },
-    {
-      "source": "TJ Comunica",
-      "title": "Cierran garita de San Ysidro por un minuto en memoria de las víctimas del 11 de septiembre",
-      "url": "https://tjcomunica.com/cierran-garita-de-san-ysidro-por-un-minuto-en-memoria-de-las-victimas-del-11-de-septiembre/",
-      "published": ""
-    },
-    {
-      "source": "ZETA Tijuana",
-      "title": "FIL Guadalajara 2027 ya tiene Invitada de Honor: es Buenos Aires",
-      "url": "https://zetatijuana.com/2026/09/fil-guadalajara-2027-ya-tiene-invitada-de-honor-es-buenos-aires/?utm_source=rss&utm_medium=rss&utm_campaign=fil-guadalajara-2027-ya-tiene-invitada-de-honor-es-buenos-aires",
-      "published": "Fri, 11 Sep 2026 20:39:56 +0000"
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Prevén votar reforma contra doble nacionalidad el 21 de septiembre",
-      "url": "https://www.afntijuana.info/nacionales/181583_preven_votar_reforma_contra_doble_nacionalidad_el_21_de_septiembre",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Evalúan suspender clases en UABC Campus Tijuana ante altas temperaturasTijuana |11 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99330/Eval%C3%BAan-suspender-clases-en-UABC-Campus-Tijuana-ante-altas-temperaturas",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "El Niño: especialistas estudian efectos en Baja California",
-      "url": "https://www.elimparcial.com/tij/ensenada/2026/09/11/el-fenomeno-de-el-nino-comenzo-y-20-especialistas-ya-estudian-que-puede-provocar-en-baja-california/",
-      "published": ""
-    },
-    {
-      "source": "TJ Comunica",
-      "title": "Protestan contra ICE en centro de San Diego",
-      "url": "https://tjcomunica.com/protestan-contra-ice-en-centro-de-san-diego/",
-      "published": ""
-    },
-    {
-      "source": "ZETA Tijuana",
-      "title": "México encabeza bloque de cárteles fichados como “narcoterroristas” por la Casa Blanca",
-      "url": "https://zetatijuana.com/2026/09/mexico-encabeza-bloque-de-carteles-fichados-como-narcoterroristas-por-la-casa-blanca/?utm_source=rss&utm_medium=rss&utm_campaign=mexico-encabeza-bloque-de-carteles-fichados-como-narcoterroristas-por-la-casa-blanca",
-      "published": "Fri, 11 Sep 2026 19:44:34 +0000"
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Lonas y pintas de Morena contaminan visualmente las ciudades: CCE",
-      "url": "https://www.afntijuana.info/informacion_general/181582_lonas_y_pintas_de_morena_contaminan_visualmente_las_ciudades_cce",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Evalúan suspender clases en UABC Campus Tijuana ante altas temperaturasTijuana| viernes 11 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99330/Eval%C3%BAan-suspender-clases-en-UABC-Campus-Tijuana-ante-altas-temperaturas",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Retiran 12 toneladas de basura del Valle de Guadalupe",
-      "url": "https://www.elimparcial.com/tij/ensenada/2026/09/11/retiran-12-toneladas-de-basura-del-valle-de-guadalupe-durante-jornadas-de-limpieza/",
-      "published": ""
-    },
-    {
-      "source": "ZETA Tijuana",
-      "title": "Carín León pospone de último momento concierto en Las Vegas; nueva fecha será en 2027",
-      "url": "https://zetatijuana.com/2026/09/carin-leon-pospone-de-ultimo-momento-concierto-en-las-vegas-nueva-fecha-sera-en-2027/?utm_source=rss&utm_medium=rss&utm_campaign=carin-leon-pospone-de-ultimo-momento-concierto-en-las-vegas-nueva-fecha-sera-en-2027",
-      "published": "Fri, 11 Sep 2026 19:34:05 +0000"
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Localizan restos humanos cerca del Rancho Garibay",
-      "url": "https://www.afntijuana.info/seguridad/181581_localizan_restos_humanos_cerca_del_rancho_garibay",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Carin León rompe el silencio tras cancelar su concierto en Las Vegas media hora antesFama |11 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Fama/99329/Carin-Le%C3%B3n-rompe-el-silencio-tras-cancelar-su-concierto-en-Las-Vegas-media-hora-antes",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Aseguran a 4 por alterar el orden en garita de Otay",
-      "url": "https://www.elimparcial.com/tij/ensenada/2026/09/11/aseguran-a-cuatro-personas-por-alterar-el-orden-en-garita-de-otay/",
+      "title": "Detienen a hombre y mujer tras agresiones dentro de un domicilio en Tijuana",
+      "url": "https://tjcomunica.com/detienen-a-hombre-y-mujer-tras-agresiones-dentro-de-un-domicilio-en-tijuana/",
       "published": ""
     },
     {
       "source": "AFN Tijuana",
-      "title": "Modificarán el impuesto Sobre la Renta: Ramírez Cuéllar",
-      "url": "https://www.afntijuana.info/informacion_general/181580_modificaran_el_impuesto_sobre_la_renta_ramirez_cuellar",
+      "title": "Hoy hace 25 años en Tijuana, y tras los actos terroristas",
+      "url": "https://www.afntijuana.info/comunidad/181597_hoy_hace_25_anos_en_tijuana_y_tras_los_actos_terroristas",
       "published": ""
     },
     {
       "source": "El Mexicano",
-      "title": "Carin León rompe el silencio tras cancelar su concierto en Las Vegas media hora antesFama| viernes 11 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Fama/99329/Carin-Le%C3%B3n-rompe-el-silencio-tras-cancelar-su-concierto-en-Las-Vegas-media-hora-antes",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Capacitan a 70 internas en Tijuana para evitar reincidencia",
-      "url": "https://www.elimparcial.com/tij/tijuana/2026/09/11/capacitan-a-70-internas-para-reducir-la-reincidencia-en-tijuana/",
+      "title": "Instruye Gobernadora Marina del Pilar recorrido de inspección por canalización Río TijuanaEstatal| viernes 11 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Estatal/99343/Instruye-Gobernadora-Marina-del-Pilar-recorrido-de-inspecci%C3%B3n-por-canalizaci%C3%B3n-R%C3%ADo-Tijuana",
       "published": ""
     },
     {
       "source": "AFN Tijuana",
-      "title": "Periodista amenazado sí podría demandar al senador Salazar, dice analista",
-      "url": "https://www.afntijuana.info/informacion_general/181579_periodista_amenazado_si_podria_demandar_al_senador_salazar_dice_analista",
+      "title": "Acuerdan acciones conjuntas para restaurar la canalización del Río Tijuana",
+      "url": "https://www.afntijuana.info/informacion_general/181596_acuerdan_acciones_conjuntas_para_restaurar_la_canalizacion_del_rio_tijuana",
       "published": ""
     },
     {
       "source": "El Mexicano",
-      "title": "Amplía Gobierno de BC espacios educativos con nueva secundaria en Rincones de PueblaEstatal |11 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Estatal/99328/Ampl%C3%ADa-Gobierno-de-BC-espacios-educativos-con-nueva-secundaria-en-Rincones-de-Puebla",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Exempleados de Volkswagen podrían ensamblar el auto Olinia",
-      "url": "https://www.elimparcial.com/mexico/2026/09/11/empresarios-propusieron-llevar-a-los-mas-de-800-trabajadores-despedidos-de-volkswagen-para-fabricar-el-olinia-auto-electrico-100-mexicano-que-costara-menos-de-150-mil-pesos/",
+      "title": "Proponen notarios programa social para facilitar escrituración de viviendas en BCEstatal |11 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Estatal/99342/Proponen-notarios-programa-social-para-facilitar-escrituraci%C3%B3n-de-viviendas-en-BC",
       "published": ""
     },
     {
       "source": "AFN Tijuana",
-      "title": "Exigen a la FGE resolver 18 crímenes de abogados ocurridos en mandato de Marina",
-      "url": "https://www.afntijuana.info/informacion_general/181578_exigen_a_la_fge_resolver_18_crimenes_de_abogados_ocurridos_en_mandato_de_marina",
+      "title": "A 25 años del 11-S: la tragedia que también marcó a nuestra frontera",
+      "url": "https://www.afntijuana.info/comunidad/181595_a_25_anos_del_11_s_la_tragedia_que_tambien_marco_a_nuestra_frontera",
       "published": ""
     },
     {
       "source": "El Mexicano",
-      "title": "Amplía Gobierno de BC espacios educativos con nueva secundaria en Rincones de PueblaEstatal| viernes 11 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Estatal/99328/Ampl%C3%ADa-Gobierno-de-BC-espacios-educativos-con-nueva-secundaria-en-Rincones-de-Puebla",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Noche UFC: horario y dónde ver en México",
-      "url": "https://www.elimparcial.com/deporte/2026/09/11/noche-ufc-2026-a-que-hora-y-donde-ver-en-vivo-a-brandon-moreno-alexa-grasso-edgar-chairez-y-jean-silva-vs-jose-delgado-transmision-en-mexico/",
+      "title": "Proponen notarios programa social para facilitar escrituración de viviendas en BCEstatal| viernes 11 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Estatal/99342/Proponen-notarios-programa-social-para-facilitar-escrituraci%C3%B3n-de-viviendas-en-BC",
       "published": ""
     },
     {
       "source": "AFN Tijuana",
-      "title": "Unidos por Tijuana pedirá a la CFE un informe por los cortes de luz",
-      "url": "https://www.afntijuana.info/informacion_general/181577_unidos_por_tijuana_pedira_a_la_cfe_un_informe_por_los_cortes_de_luz",
+      "title": "Camión de Altisa chocó con una pipa; hubo cuatro heridos",
+      "url": "https://www.afntijuana.info/seguridad/181594_camion_de_altisa_choco_con_una_pipa_hubo_cuatro_heridos",
       "published": ""
     },
     {
       "source": "El Mexicano",
-      "title": "Tipo de cambio en TijuanaTijuana| viernes 11 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99297/Tipo-de-cambio-en-Tijuana",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "WhatsApp quedó cancelado para estos celulares",
-      "url": "https://www.elimparcial.com/tecnologia/2026/09/11/whatsapp-quedo-oficialmente-cancelado-para-estos-celulares-desde-septiembre-y-ya-no-contaran-con-el-servicio-de-meta-por-no-cumplir-los-requisitos-del-sistema/",
+      "title": "Buscarán apoyo empresarial para financiar candidaturas independientes en BCEstatal |11 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Estatal/99341/Buscar%C3%A1n-apoyo-empresarial-para-financiar-candidaturas-independientes-en-BC",
       "published": ""
     },
     {
       "source": "AFN Tijuana",
-      "title": "Exhiben en la mañanera video de asesinatos y violencia extrema",
-      "url": "https://www.afntijuana.info/informacion_general/181575_exhiben_en_la_mananera_video_de_asesinatos_y_violencia_extrema",
+      "title": "Pide Congreso al Gobierno Estatal mejorar condiciones de seguridad en el Bulevar 2000",
+      "url": "https://www.afntijuana.info/informacion_general/181593_pide_congreso_al_gobierno_estatal_mejorar_condiciones_de_seguridad_en_el_bulevar_2000",
       "published": ""
     },
     {
       "source": "El Mexicano",
-      "title": "Cierran garita de San Ysidro por un minuto en memoria de las víctimas del 11 de septiembreTijuana| viernes 11 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99293/Cierran-garita-de-San-Ysidro-por-un-minuto-en-memoria-de-las-v%C3%ADctimas-del-11-de-septiembre",
+      "title": "Buscarán apoyo empresarial para financiar candidaturas independientes en BCEstatal| viernes 11 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Estatal/99341/Buscar%C3%A1n-apoyo-empresarial-para-financiar-candidaturas-independientes-en-BC",
+      "published": ""
+    },
+    {
+      "source": "AFN Tijuana",
+      "title": "Sheinbaum viene el 19 a Baja California; encontrará caos y pleitos",
+      "url": "https://www.afntijuana.info/afn_politico/181592_sheinbaum_viene_el_19_a_baja_california_encontrara_caos_y_pleitos",
+      "published": ""
+    },
+    {
+      "source": "El Mexicano",
+      "title": "Apagones exhiben rezago eléctrico; Tijuana requiere 700 megawatts adicionales: CCEEstatal |11 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Estatal/99340/Apagones-exhiben-rezago-el%C3%A9ctrico;-Tijuana-requiere-700-megawatts-adicionales%3A-CCE",
+      "published": ""
+    },
+    {
+      "source": "AFN Tijuana",
+      "title": "Fiscalía inició proceso para dar de baja a agente que disparó contra la casa de su expareja",
+      "url": "https://www.afntijuana.info/informacion_general/181591_fiscalia_inicio_proceso_para_dar_de_baja_a_agente_que_disparo_contra_la_casa_de_su_expareja",
+      "published": ""
+    },
+    {
+      "source": "El Mexicano",
+      "title": "Apagones exhiben rezago eléctrico; Tijuana requiere 700 megawatts adicionales: CCEEstatal| viernes 11 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Estatal/99340/Apagones-exhiben-rezago-el%C3%A9ctrico;-Tijuana-requiere-700-megawatts-adicionales%3A-CCE",
+      "published": ""
+    },
+    {
+      "source": "El Mexicano",
+      "title": "Piden solución a fallas de luz que afectan a familias de la Zona EsteTijuana |11 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99338/Piden-soluci%C3%B3n-a-fallas-de-luz-que-afectan-a-familias-de-la-Zona-Este",
+      "published": ""
+    },
+    {
+      "source": "El Mexicano",
+      "title": "Piden solución a fallas de luz que afectan a familias de la Zona EsteTijuana| viernes 11 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99338/Piden-soluci%C3%B3n-a-fallas-de-luz-que-afectan-a-familias-de-la-Zona-Este",
+      "published": ""
+    },
+    {
+      "source": "El Mexicano",
+      "title": "Alertan por impacto de nueva reforma fiscal en empresasTijuana |11 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99337/Alertan-por-impacto-de-nueva-reforma-fiscal-en-empresas",
+      "published": ""
+    },
+    {
+      "source": "El Mexicano",
+      "title": "Alertan por impacto de nueva reforma fiscal en empresasTijuana| viernes 11 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99337/Alertan-por-impacto-de-nueva-reforma-fiscal-en-empresas",
+      "published": ""
+    },
+    {
+      "source": "El Mexicano",
+      "title": "Suspenderán a agente de AEI que disparó contra su ex pareja en Mexicali: FGEMexicali| viernes 11 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Mexicali/99336/Suspender%C3%A1n-a-agente-de-AEI-que-dispar%C3%B3-contra-su-ex-pareja-en-Mexicali%3A-FGE",
+      "published": ""
+    },
+    {
+      "source": "El Mexicano",
+      "title": "Pide Evelyn Sánchez intérpretes indígenas en fiscalías, tribunales y servicios de saludEstatal| viernes 11 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Estatal/99335/Pide-Evelyn-S%C3%A1nchez-int%C3%A9rpretes-ind%C3%ADgenas-en-fiscal%C3%ADas,-tribunales-y-servicios-de-salud",
       "published": ""
     }
   ]
