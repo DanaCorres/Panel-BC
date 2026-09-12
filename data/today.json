@@ -1,8 +1,29 @@
 {
   "date": "2026-09-12",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Conductor de plataforma asesinado en taquería de Tecate",
+        "summary": "Chofer de transporte por aplicación fue atacado y muerto en establecimiento de comida en Tecate.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/181605_asesinan_a_conductor_de_transporte_por_plataforma_en_una_taqueria_en_tecate",
+        "_added_at": "2026-09-12T11:15:08.762266-07:00"
+      },
+      {
+        "title": "Pareja de adultos mayores hallada sin vida en Obrera",
+        "summary": "Encuentran fallecidos a matrimonio de edad avanzada en domicilio de la colonia Obrera tijuanense.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/policiaca/2026/09/12/localizan-sin-vida-a-pareja-de-adultos-mayores-en-la-colonia-obrera/",
+        "_added_at": "2026-09-12T11:15:08.762266-07:00"
+      },
+      {
+        "title": "Incendio destruye cuarto en cuartería de Zona Norte",
+        "summary": "Fuego consume habitación de madera en vivienda compartida del área de Zona Norte.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/policiaca/2026/09/12/incendio-consume-cuarto-de-madera-en-cuarteria-de-zona-norte/",
+        "_added_at": "2026-09-12T11:15:08.762266-07:00"
+      },
       {
         "title": "Camión Altisa colisiona con pipa; cuatro personas heridas",
         "summary": "Accidente vial en Tijuana dejó cuatro heridos tras choque entre camión de transporte y pipa.",
@@ -34,6 +55,27 @@
     ],
     "politica": [
       {
+        "title": "Gobernadora inspecciona proyecto canalización Río Tijuana",
+        "summary": "Marina del Pilar realiza recorrido de supervisión en infraestructura de canalización del río.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/99343/Instruye-Gobernadora-Marina-del-Pilar-recorrido-de-inspecci%C3%B3n-por-canalizaci%C3%B3n-R%C3%ADo-Tijuana",
+        "_added_at": "2026-09-12T11:15:08.762266-07:00"
+      },
+      {
+        "title": "Acuerdan restauración conjunta de canalización Río Tijuana",
+        "summary": "Autoridades establecen acciones coordinadas para recuperación de infraestructura fluvial.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181596_acuerdan_acciones_conjuntas_para_restaurar_la_canalizacion_del_rio_tijuana",
+        "_added_at": "2026-09-12T11:15:08.762266-07:00"
+      },
+      {
+        "title": "Protección Civil niega represalia en corte agua Piñitas",
+        "summary": "Dependencia rechaza acusaciones de venganza municipal por suspensión de servicio.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/proteccion-civil-niega-que-corte-de-agua-en-calle-pinitas-haya-sido-represalia-del-ayuntamiento-de-tijuana/?utm_source=rss&utm_medium=rss&utm_campaign=proteccion-civil-niega-que-corte-de-agua-en-calle-pinitas-haya-sido-represalia-del-ayuntamiento-de-tijuana",
+        "_added_at": "2026-09-12T11:15:08.762266-07:00"
+      },
+      {
         "title": "Sheinbaum visitará BC el 19; prevén conflictos políticos",
         "summary": "Presidenta llegará a Baja California en contexto de tensiones y desacuerdos administrativos.",
         "source": "AFN Tijuana",
@@ -56,6 +98,27 @@
       }
     ],
     "economia": [
+      {
+        "title": "Apagones frenan industria por déficit infraestructura eléctrica",
+        "summary": "Falta de capacidad energética afecta operaciones manufactureras en región tijuanense.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181607_apagones_afectan_a_la_industria_por_falta_de_infraestructura_electrica_aimo",
+        "_added_at": "2026-09-12T11:15:08.762266-07:00"
+      },
+      {
+        "title": "Maquiladoras Tecate caen en exportaciones primer semestre",
+        "summary": "Sector maquilador registra desplome en envíos internacionales durante primeros seis meses.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/empresarial/181599_caida_libre_en_exportaciones_de_maquiladoras_en_tecate_al_primer_semestre",
+        "_added_at": "2026-09-12T11:15:08.762266-07:00"
+      },
+      {
+        "title": "Construcción y manufactura desaceleran actividad industrial BC",
+        "summary": "Dos sectores clave muestran contracción impactando economía regional bajacaliforniana.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/empresarial/181600_construccion_y_manufacturas_tiran_actividad_industrial_de_bc",
+        "_added_at": "2026-09-12T11:15:08.762266-07:00"
+      },
       {
         "title": "Tijuana requiere 700 megawatts; apagones evidencian crisis energética",
         "summary": "Cámara de Comercio alerta sobre rezago eléctrico que limita suministro en la región.",
@@ -80,6 +143,20 @@
     ],
     "sociedad": [
       {
+        "title": "Autoridades exhortan evitar pirotecnia en Fiestas Patrias",
+        "summary": "SMADS pide ciudadanía abstenerse de fuegos artificiales por riesgos ambientales.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/12/exhortan-a-evitar-pirotecnia-durante-fiestas-patrias-en-baja-california/",
+        "_added_at": "2026-09-12T11:15:08.762266-07:00"
+      },
+      {
+        "title": "Notarios proponen programa social escrituración viviendas BC",
+        "summary": "Plantean iniciativa para facilitar trámites de propiedad a población de bajos recursos.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/99342/Proponen-notarios-programa-social-para-facilitar-escrituraci%C3%B3n-de-viviendas-en-BC",
+        "_added_at": "2026-09-12T11:15:08.762266-07:00"
+      },
+      {
         "title": "Gobernadora instruye inspección canalización Río Tijuana",
         "summary": "Marina del Pilar supervisa trabajos de restauración del cauce fronterizo.",
         "source": "El Mexicano",
@@ -102,5 +179,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-12T00:14:16.842222-07:00"
+  "last_updated": "2026-09-12T11:15:08.762266-07:00"
 }
