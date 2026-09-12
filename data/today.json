@@ -1,8 +1,29 @@
 {
   "date": "2026-09-12",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Pareja de adultos mayores asesinada a balazos en Tijuana",
+        "summary": "Disparan contra matrimonio en colonia Obrera, Tijuana. Autoridades investigan el homicidio.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/181618_matan_a_balazos_a_pareja_de_adultos_mayores_en_vivienda_de_la_colonia_obrera",
+        "_added_at": "2026-09-12T16:53:07.292325-07:00"
+      },
+      {
+        "title": "Incendio destruye cinco viviendas en asentamiento de Tijuana",
+        "summary": "Fuego consume casas de madera en Paseo Santa María, zona Este de Tijuana sin reportes de víctimas.",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/fuerte-incendio-consume-cinco-viviendas-en-asentamiento-de-paseo-santa-maria/",
+        "_added_at": "2026-09-12T16:53:07.292325-07:00"
+      },
+      {
+        "title": "Incendio en farmacia del Centro causa solo daños materiales",
+        "summary": "Fuego afecta establecimiento comercial en zona Centro sin lesionados reportados.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181614_incendio_en_farmacia_de_la_zona_centro_deja_solo_danos_materiales",
+        "_added_at": "2026-09-12T16:53:07.292325-07:00"
+      },
       {
         "title": "Conductor de plataforma asesinado en taquería de Tecate",
         "summary": "Chofer de transporte por aplicación fue atacado y muerto en establecimiento de comida en Tecate.",
@@ -55,6 +76,13 @@
     ],
     "politica": [
       {
+        "title": "Presidenta Sheinbaum visitaría Tijuana para informe de actividades",
+        "summary": "Claudia Sheinbaum tendría visita programada a Tijuana como parte de su informe oficial.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/99358/Claudia-Sheinbaum-tendr%C3%ADa-visita-a-Tijuana-como-parte-de-su-informe-de-actividades",
+        "_added_at": "2026-09-12T16:53:07.292325-07:00"
+      },
+      {
         "title": "Gobernadora inspecciona proyecto canalización Río Tijuana",
         "summary": "Marina del Pilar realiza recorrido de supervisión en infraestructura de canalización del río.",
         "source": "El Mexicano",
@@ -98,6 +126,20 @@
       }
     ],
     "economia": [
+      {
+        "title": "Nuevo sistema de aterrizaje habilitado en Aeropuerto de Tijuana",
+        "summary": "Aeropuerto implementa infraestructura moderna para mejorar operaciones de aterrizaje.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181620_habilitan_nuevo_sistema_de_aterrizaje_en_el_aeropuerto_de_tijuana",
+        "_added_at": "2026-09-12T16:53:07.292325-07:00"
+      },
+      {
+        "title": "Profeco alerta sobre venta fraudulenta de boletos de Luis Miguel",
+        "summary": "Autoridad advierte sobre accesos falsos para gira de enero 2027 en línea.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/dinero/2026/09/12/profeco-advierte-sobre-la-venta-de-boletos-falsos-tras-detectar-accesos-fraudulentos-para-una-supuesta-gira-de-luis-miguel-en-enero-de-2027/",
+        "_added_at": "2026-09-12T16:53:07.292325-07:00"
+      },
       {
         "title": "Apagones frenan industria por déficit infraestructura eléctrica",
         "summary": "Falta de capacidad energética afecta operaciones manufactureras en región tijuanense.",
@@ -143,6 +185,34 @@
     ],
     "sociedad": [
       {
+        "title": "Organización pide a justicia que crea en padres en juicios de custodia",
+        "summary": "Grupo Soy Papá No Criminal solicita a autoridades considerar testimonios paternos equitativamente.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/mxl/mexicali/2026/09/12/piden-papas-que-justicia-tambien-les-crea/",
+        "_added_at": "2026-09-12T16:53:07.292325-07:00"
+      },
+      {
+        "title": "Jóvenes de ambos lados fronterizos se unen por Tijuana Sin Hambre",
+        "summary": "Border Battle reúne a población transfronteriza para combatir inseguridad alimentaria.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/border-battle-une-a-jovenes-de-ambos-lados-de-la-frontera-por-tijuana-sin-hambre/?utm_source=rss&utm_medium=rss&utm_campaign=border-battle-une-a-jovenes-de-ambos-lados-de-la-frontera-por-tijuana-sin-hambre",
+        "_added_at": "2026-09-12T16:53:07.292325-07:00"
+      },
+      {
+        "title": "Bikers donan juguetes y sonrisas a niños de Rosarito",
+        "summary": "Motociclistas organizan actividad benéfica para distribuir regalos a menores.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Rosarito/99360/Bikers-llegan-a-Rosarito-para-regalar-sonrisas-y-juguetes-a-ni%C3%B1os",
+        "_added_at": "2026-09-12T16:53:07.292325-07:00"
+      },
+      {
+        "title": "Altas temperaturas generan 12 alertas en Tecate",
+        "summary": "Protección Civil emite alertas por clima extremo en municipio fronterizo.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181621_se_han_emitido_12_alertas_por_altas_temperaturas_en_tecate_proteccion_civil",
+        "_added_at": "2026-09-12T16:53:07.292325-07:00"
+      },
+      {
         "title": "Autoridades exhortan evitar pirotecnia en Fiestas Patrias",
         "summary": "SMADS pide ciudadanía abstenerse de fuegos artificiales por riesgos ambientales.",
         "source": "El Imparcial (Tijuana)",
@@ -179,5 +249,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-12T11:15:08.762266-07:00"
+  "last_updated": "2026-09-12T16:53:07.292325-07:00"
 }
