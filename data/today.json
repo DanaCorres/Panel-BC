@@ -1,8 +1,29 @@
 {
   "date": "2026-09-11",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Localizan restos óseos en Mexicali",
+        "summary": "Descubrimiento de restos humanos en el Rancho Garibay de Mexicali durante investigación policial.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/99334/Localizan-restos-%C3%B3seos-en-el-Rancho-Garibay-en-Mexicali",
+        "_added_at": "2026-09-11T17:00:56.019159-07:00"
+      },
+      {
+        "title": "Detienen a mujer por tráfico de armas",
+        "summary": "Capturan a estadounidense en San Luis Río Colorado que movía armamento para organización criminal.",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/detienen-a-gringa-en-san-luis-rio-colorado-que-movia-armas-para-un-cartel/",
+        "_added_at": "2026-09-11T17:00:56.019159-07:00"
+      },
+      {
+        "title": "Adolescente grave por accidente escolar",
+        "summary": "Estudiante de Tijuana resulta gravemente herido tras caerle estructura de canasta de basquetbol.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/11/adolescente-queda-grave-tras-caerle-estructura-de-canasta-de-basquetbol-en-tijuana/",
+        "_added_at": "2026-09-11T17:00:56.019159-07:00"
+      },
       {
         "title": "Incendio afecta bodega en colonia Mariano Matamoros",
         "summary": "Se registró un fuerte incendio en una bodega ubicada en la colonia Mariano Matamoros de Tijuana.",
@@ -51,16 +72,30 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/seguridad/181530_vinculan_a_proceso_a_tres_hombres_detenidos_con_armas_y_cartuchos",
         "_added_at": "2026-09-11T00:21:42.758723-07:00"
-      },
-      {
-        "title": "Línea de crisis 075 atiende casi 4,300 llamadas",
-        "summary": "Centro de atención en salud mental en Tijuana ha respondido miles de llamadas de emergencia.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/municipios/181540_se_han_atendido_casi_4_mil_300_llamadas_a_la_linea_de_crisis_075_en_tijuana",
-        "_added_at": "2026-09-11T00:21:42.758723-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Ismael Burgueño lidera preferencias de Morena",
+        "summary": "Encuesta muestra a Burgueño como favorito en Morena para candidatura a gubernatura en 2027.",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/ismael-burgueno-encabeza-preferencias-de-morena-rumbo-a-la-gubernatura-en-2027/",
+        "_added_at": "2026-09-11T17:00:56.019159-07:00"
+      },
+      {
+        "title": "Paro de maestros CNTE por adeudos en BC",
+        "summary": "Continúa paro de CNTE por deudas salariales a 3 mil maestros; gobierno no reconoce a todos.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/sigue-paro-de-la-cnte-por-adeudos-a-3-mil-maestros-en-bc-gobierno-no-los-reconoce-a-todos/?utm_source=rss&utm_medium=rss&utm_campaign=sigue-paro-de-la-cnte-por-adeudos-a-3-mil-maestros-en-bc-gobierno-no-los-reconoce-a-todos",
+        "_added_at": "2026-09-11T17:00:56.019159-07:00"
+      },
+      {
+        "title": "Evaluarán extensión de cierre de escuelas",
+        "summary": "Autoridades educativas analizarán si prolongar suspensión de clases por temperaturas extremas.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/99331/Evaluar%C3%A1-Sistema-Educativo-extender-suspensi%C3%B3n-de-clases-por-calor",
+        "_added_at": "2026-09-11T17:00:56.019159-07:00"
+      },
       {
         "title": "INE revisará candidatos para detectar vínculos criminales",
         "summary": "Instituto Nacional Electoral establecerá proceso para investigar posibles conexiones de candidatos con grupos delictivos.",
@@ -113,6 +148,20 @@
     ],
     "economia": [
       {
+        "title": "Sidurt invierte 14.6 mdp en bacheo",
+        "summary": "Autoridad de transporte destina 14.6 millones de pesos para obras de reparación en Corredor 2000.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/sidurt-invierte-14-6-mdp-en-obras-mayores-de-bacheo-en-corredor-2000/?utm_source=rss&utm_medium=rss&utm_campaign=sidurt-invierte-14-6-mdp-en-obras-mayores-de-bacheo-en-corredor-2000",
+        "_added_at": "2026-09-11T17:00:56.019159-07:00"
+      },
+      {
+        "title": "Invierten 10.8 mdp en vialidad El Refugio",
+        "summary": "Destinan 10.8 millones de pesos para rehabilitación de calles en la colonia El Refugio.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181587_invierten_10_8_mdp_para_rehabilitar_vialidad_en_el_refugio",
+        "_added_at": "2026-09-11T17:00:56.019159-07:00"
+      },
+      {
         "title": "Paquete económico 2027 afectará flujo de empresas",
         "summary": "Análisis indica que medidas presupuestarias federales impactarán negativamente liquidez empresarial.",
         "source": "El Imparcial",
@@ -149,6 +198,34 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Mexicali rompe récord de temperatura",
+        "summary": "Se registran 48.7 grados centígrados en Mexicali, estableciendo nuevo máximo histórico para esta fecha.",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/mexicali-registra-48-7c-y-rompe-record-de-temperatura-para-un-10-de-septiembre/",
+        "_added_at": "2026-09-11T17:00:56.019159-07:00"
+      },
+      {
+        "title": "Crisis de agua en 60 colonias Tijuana-Rosarito",
+        "summary": "Alrededor de 60 colonias reportan fallas graves en el suministro de agua potable.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181590_alrededor_de_60_colonias_de_tijuana_y_rosarito_presentan_fallas_en_el_suministro_de_agua",
+        "_added_at": "2026-09-11T17:00:56.019159-07:00"
+      },
+      {
+        "title": "17 personas atienden por golpe de calor",
+        "summary": "Jurisdicción Sanitaria atiende a 17 personas afectadas por deshidratación y quemaduras por altas temperaturas.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/11/atienden-casos-de-deshidratacion-golpes-de-calor-y-quemaduras-en-la-piel/",
+        "_added_at": "2026-09-11T17:00:56.019159-07:00"
+      },
+      {
+        "title": "Apagones en 59 colonias Tijuana-Rosarito",
+        "summary": "Fallas de energía eléctrica generan cortes intermitentes en casi 60 colonias de ambas ciudades.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/cespt-reitera-falta-e-intermitencia-en-59-colonias-de-tijuana-y-rosarito-por-fallas-de-energia/?utm_source=rss&utm_medium=rss&utm_campaign=cespt-reitera-falta-e-intermitencia-en-59-colonias-de-tijuana-y-rosarito-por-fallas-de-energia",
+        "_added_at": "2026-09-11T17:00:56.019159-07:00"
+      },
       {
         "title": "UABC instalará refrigeración en aulas de Valle de Palmas",
         "summary": "Universidad autónoma atiende demanda de estudiantes sobre falta de climatización en campus.",
@@ -190,15 +267,8 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/181539_llevan_atencion_a_la_salud_mental_de_forma_gratuita_en_todo_el_estado",
         "_added_at": "2026-09-11T00:21:42.758723-07:00"
-      },
-      {
-        "title": "Un año del accidente Puente Concordia no se olvida",
-        "summary": "Víctimas conmemoran tragedia de hace un año en estructura fronteriza.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/nacionales/181536_a_un_ano_del_accidente_del_puente_de_la_concordia_las_victimas_no_olvidan_la_tragedia",
-        "_added_at": "2026-09-11T00:21:42.758723-07:00"
       }
     ]
   },
-  "last_updated": "2026-09-11T12:05:11.593022-07:00"
+  "last_updated": "2026-09-11T17:00:56.019159-07:00"
 }
