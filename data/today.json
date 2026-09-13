@@ -1,8 +1,36 @@
 {
   "date": "2026-09-13",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Sentencian a 26 años de prisión por feminicidio en Tijuana",
+        "summary": "Luis Martín condenado a 26 años de cárcel por el asesinato de Tiffany Gabriela.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/26-anos-de-prision-contra-luis-martin-por-feminicidio-de-tiffany-gabriela/?utm_source=rss&utm_medium=rss&utm_campaign=26-anos-de-prision-contra-luis-martin-por-feminicidio-de-tiffany-gabriela",
+        "_added_at": "2026-09-13T11:41:05.321016-07:00"
+      },
+      {
+        "title": "Ataque armado deja dos muertos en Mariano Matamoros",
+        "summary": "Tiroteo en colonia Mariano Matamoros Norte resulta en dos víctimas fatales.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/policiaca/2026/09/13/ataque-armado-deja-dos-hombres-muertos-en-mariano-matamoros-norte/",
+        "_added_at": "2026-09-13T11:41:05.321016-07:00"
+      },
+      {
+        "title": "Asesinato a balazos en Santa Fe mientras conducía",
+        "summary": "Hombre muere baleado dentro de vehículo en zona de Santa Fe de Tijuana.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/policiaca/2026/09/13/hombre-es-asesinado-a-balazos-mientras-conducia-en-santa-fe/",
+        "_added_at": "2026-09-13T11:41:05.321016-07:00"
+      },
+      {
+        "title": "Detienen a seis personas por riña vecinal",
+        "summary": "Autoridades capturan a seis individuos implicados en enfrentamiento entre vecinos.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/181636_detienen_a_seis_por_rina_vecinal",
+        "_added_at": "2026-09-13T11:41:05.321016-07:00"
+      },
       {
         "title": "Homicidio en colonia Tres de Octubre de Tijuana",
         "summary": "Hombre asesinado a balazos en canchas de la zona. Reportado alrededor de las 17:32 horas.",
@@ -12,6 +40,13 @@
       }
     ],
     "politica": [
+      {
+        "title": "Revocación de visa a gobernadora afecta seguridad: Capella",
+        "summary": "Capella critica que cancelación de visa a gobernadora debilitó esfuerzos de justicia.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181633_se_perdio_fuerza_en_seguridad_y_justicia_tras_revocacion_de_visa_a_la_gobernadora_capella",
+        "_added_at": "2026-09-13T11:41:05.321016-07:00"
+      },
       {
         "title": "Sheinbaum realiza mitin en avenida Revolución de Tijuana",
         "summary": "Convocatoria para acto político de la presidenta en zona céntrica de la ciudad.",
@@ -29,6 +64,20 @@
     ],
     "economia": [
       {
+        "title": "258 mil autos cruzaron BC en fin de semana de Labor Day",
+        "summary": "Alta afluencia vehicular registrada durante celebración estadounidense en frontera.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/258-mil-autos-transitaron-por-bc-durante-fin-de-semana-de-labor-day/?utm_source=rss&utm_medium=rss&utm_campaign=258-mil-autos-transitaron-por-bc-durante-fin-de-semana-de-labor-day",
+        "_added_at": "2026-09-13T11:41:05.321016-07:00"
+      },
+      {
+        "title": "BC registra flujo importante de turismo por Labor Day",
+        "summary": "Baja California experimenta incremento en visitantes estadounidenses durante festivo.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181631_registro_bc_alta_afluencia_de_turismo_por_el_labor_day_en_eu",
+        "_added_at": "2026-09-13T11:41:05.321016-07:00"
+      },
+      {
         "title": "Diputada demanda bancos de tiro en sector construcción",
         "summary": "Evelyn Sánchez y CMIC piden crear infraestructura en siete municipios de BC.",
         "source": "El Mexicano",
@@ -45,6 +94,27 @@
     ],
     "sociedad": [
       {
+        "title": "UABC alcanza cifra histórica en matrícula de posgrado",
+        "summary": "Universidad logra 2,824 alumnos en programas de posgrado tras recuperación pandémica.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/13/repuntan-posgrados-en-uabc-matricula-alcanza-cifra-historica-de-2-mil-824-alumnos/",
+        "_added_at": "2026-09-13T11:41:05.321016-07:00"
+      },
+      {
+        "title": "Tijuana lejos de cifras recomendadas de áreas verdes",
+        "summary": "Estudio señala déficit significativo de espacios verdes en la ciudad.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181635_tijuana_esta_lejos_del_promedio_recomendado_de_areas_verdes_ciga",
+        "_added_at": "2026-09-13T11:41:05.321016-07:00"
+      },
+      {
+        "title": "Bomberos rescatan a hombre atrapado en El Sauzal",
+        "summary": "Rescate exitoso de persona en zona de riesgo costero de Ensenada.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/ensenada/2026/09/13/bomberos-rescatan-a-hombre-en-zona-costera-de-riesgo-en-el-sauzal/",
+        "_added_at": "2026-09-13T11:41:05.321016-07:00"
+      },
+      {
         "title": "Segundo macrosimulacro nacional previsto en Baja California",
         "summary": "Ejercicio de protección civil con simulación de terremoto de magnitud 7.1.",
         "source": "AFN Tijuana",
@@ -60,5 +130,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-13T00:32:08.142496-07:00"
+  "last_updated": "2026-09-13T11:41:05.321016-07:00"
 }
