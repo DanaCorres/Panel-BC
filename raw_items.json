@@ -1,358 +1,94 @@
 {
-  "generated_at": "2026-09-12T23:53:06.569540+00:00",
+  "generated_at": "2026-09-13T07:32:07.408032+00:00",
   "items": [
     {
-      "source": "ZETA Tijuana",
-      "title": "Eugenio Derbez busca justicia en “El Juicio”",
-      "url": "https://zetatijuana.com/2026/09/eugenio-derbez-busca-justicia-en-el-juicio/?utm_source=rss&utm_medium=rss&utm_campaign=eugenio-derbez-busca-justicia-en-el-juicio",
-      "published": "Sat, 12 Sep 2026 22:40:33 +0000"
-    },
-    {
       "source": "AFN Tijuana",
-      "title": "YA NO ES CANTERA",
-      "url": "https://www.afntijuana.info/editoriales/181622_ya_no_es_cantera",
+      "title": "Cruz Azul se llevó el clásico joven, le quitó el invicto al América",
+      "url": "https://www.afntijuana.info/deportes/181628_cruz_azul_se_llevo_el_clasico_joven_le_quito_el_invicto_al_america",
       "published": ""
     },
     {
       "source": "El Mexicano",
-      "title": "Dan el grito de independencia de México en San DiegoThe Border |12 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/The%20Border/99362/Dan-el-grito-de-independencia-de-M%C3%A9xico-en-San-Diego",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Piden papás que justicia también les crea",
-      "url": "https://www.elimparcial.com/mxl/mexicali/2026/09/12/piden-papas-que-justicia-tambien-les-crea/",
-      "published": ""
-    },
-    {
-      "source": "TJ Comunica",
-      "title": "“Te sacaban el portafolio con dinero”: Mariana Echeverría aseguró que dio shows privados para narcos",
-      "url": "https://tjcomunica.com/te-sacaban-el-portafolio-con-dinero-mariana-echeverria-aseguro-que-dio-shows-privados-para-narcos/",
-      "published": ""
-    },
-    {
-      "source": "ZETA Tijuana",
-      "title": "“Border Battle” une a jóvenes de ambos lados de la frontera por “Tijuana Sin Hambre”",
-      "url": "https://zetatijuana.com/2026/09/border-battle-une-a-jovenes-de-ambos-lados-de-la-frontera-por-tijuana-sin-hambre/?utm_source=rss&utm_medium=rss&utm_campaign=border-battle-une-a-jovenes-de-ambos-lados-de-la-frontera-por-tijuana-sin-hambre",
-      "published": "Sat, 12 Sep 2026 22:36:02 +0000"
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Se han emitido 12 alertas por altas temperaturas en Tecate Protección Civil",
-      "url": "https://www.afntijuana.info/informacion_general/181621_se_han_emitido_12_alertas_por_altas_temperaturas_en_tecate_proteccion_civil",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Dan el grito de independencia de México en San DiegoThe Border| sábado 12 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/The%20Border/99362/Dan-el-grito-de-independencia-de-M%C3%A9xico-en-San-Diego",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Integrantes de la organización Soy Papá No Criminal pidieron a las autoridades de procuración de justicia que durante los juicios, especialmente de custodia.",
-      "url": "https://www.elimparcial.com/mxl/mexicali/2026/09/12/piden-papas-que-justicia-tambien-les-crea/",
-      "published": ""
-    },
-    {
-      "source": "TJ Comunica",
-      "title": "Fuerte incendio consume cinco viviendas en asentamiento de Paseo Santa María",
-      "url": "https://tjcomunica.com/fuerte-incendio-consume-cinco-viviendas-en-asentamiento-de-paseo-santa-maria/",
-      "published": ""
-    },
-    {
-      "source": "ZETA Tijuana",
-      "title": "Toros toma ventaja en la Serie del Rey",
-      "url": "https://zetatijuana.com/2026/09/toros-toma-ventaja-en-la-serie-del-rey/?utm_source=rss&utm_medium=rss&utm_campaign=toros-toma-ventaja-en-la-serie-del-rey",
-      "published": "Sat, 12 Sep 2026 19:16:43 +0000"
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Habilitan nuevo sistema de aterrizaje en el Aeropuerto de Tijuana",
-      "url": "https://www.afntijuana.info/informacion_general/181620_habilitan_nuevo_sistema_de_aterrizaje_en_el_aeropuerto_de_tijuana",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Entre veladoras y sus alimentos favoritos, tijuanenses despiden al Oso YogiTijuana |12 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99361/Entre-veladoras-y-sus-alimentos-favoritos,-tijuanenses-despiden-al-Oso-Yogi",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Harfuch detallá cómo era el \"hospital\" del CJNG en Jalisco",
-      "url": "https://www.elimparcial.com/mexico/2026/09/12/harfuch-revelo-como-era-el-inmueble-del-cjng-en-jalisco-mas-que-un-hospital-era-donde-llevaban-a-heridos-de-la-propia-delincuencia-organizada-a-reponerse-o-curarse/",
-      "published": ""
-    },
-    {
-      "source": "TJ Comunica",
-      "title": "Descubren granja clandestina de criptomonedas en Puebla; investigan posible lavado de dinero",
-      "url": "https://tjcomunica.com/descubren-granja-clandestina-de-criptomonedas-en-puebla-investigan-posible-lavado-de-dinero/",
-      "published": ""
-    },
-    {
-      "source": "ZETA Tijuana",
-      "title": "Protección Civil niega que corte de agua en calle Piñitas haya sido represalia del Ayuntamiento de Tijuana",
-      "url": "https://zetatijuana.com/2026/09/proteccion-civil-niega-que-corte-de-agua-en-calle-pinitas-haya-sido-represalia-del-ayuntamiento-de-tijuana/?utm_source=rss&utm_medium=rss&utm_campaign=proteccion-civil-niega-que-corte-de-agua-en-calle-pinitas-haya-sido-represalia-del-ayuntamiento-de-tijuana",
-      "published": "Sat, 12 Sep 2026 17:07:10 +0000"
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Lidia Ávila reacciona a polémica por sueldos de OV7 que destapó Mariana Ochoa",
-      "url": "https://www.afntijuana.info/espectaculos/181619_lidia_avila_reacciona_a_polemica_por_sueldos_de_ov7_que_destapo_mariana_ochoa",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Entre veladoras y sus alimentos favoritos, tijuanenses despiden al Oso YogiTijuana| sábado 12 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99361/Entre-veladoras-y-sus-alimentos-favoritos,-tijuanenses-despiden-al-Oso-Yogi",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Profeco alerta por boletos falsos de Luis Miguel",
-      "url": "https://www.elimparcial.com/dinero/2026/09/12/profeco-advierte-sobre-la-venta-de-boletos-falsos-tras-detectar-accesos-fraudulentos-para-una-supuesta-gira-de-luis-miguel-en-enero-de-2027/",
-      "published": ""
-    },
-    {
-      "source": "TJ Comunica",
-      "title": "Hija encuentra sin vida a sus padres tras varios días incomunicados",
-      "url": "https://tjcomunica.com/hija-encuentra-sin-vida-a-sus-padres-tras-varios-dias-incomunicados/",
-      "published": ""
-    },
-    {
-      "source": "ZETA Tijuana",
-      "title": "Lorena Ochoa funge como invitada especial  en el torneo de Canirac.",
-      "url": "https://zetatijuana.com/2026/09/lorena-ochoa-funge-como-invitada-especial-en-el-torneo-de-canirac/?utm_source=rss&utm_medium=rss&utm_campaign=lorena-ochoa-funge-como-invitada-especial-en-el-torneo-de-canirac",
-      "published": "Sat, 12 Sep 2026 17:00:53 +0000"
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Matan a balazos a pareja de adultos mayores en vivienda de la colonia Obrera",
-      "url": "https://www.afntijuana.info/seguridad/181618_matan_a_balazos_a_pareja_de_adultos_mayores_en_vivienda_de_la_colonia_obrera",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Bikers llegan a Rosarito para regalar sonrisas y juguetes a niñosRosarito |12 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Rosarito/99360/Bikers-llegan-a-Rosarito-para-regalar-sonrisas-y-juguetes-a-ni%C3%B1os",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Salarios mínimos necesarios para comprar el nuevo iPhone Duo",
-      "url": "https://www.elimparcial.com/dinero/2026/09/12/cuantos-salarios-minimos-necesita-un-trabajador-en-mexico-para-comprar-el-nuevo-iphone-duo-considerando-que-la-version-basica-de-47999-pesos-exige-destinar-152-dias-de-sueldo-completo-o-el-equivalente-a-5-meses-de-ingreso-laboral-integro/",
-      "published": ""
-    },
-    {
-      "source": "TJ Comunica",
-      "title": "Autoridades locales destacan cambios en seguridad tras 11 de septiembre del 2001",
-      "url": "https://tjcomunica.com/autoridades-locales-destacan-cambios-en-seguridad-tras-11-de-septiembre-del-2001/",
-      "published": ""
-    },
-    {
-      "source": "ZETA Tijuana",
-      "title": "Hospitalizan a Alan Ibarra, de Magneto",
-      "url": "https://zetatijuana.com/2026/09/hospitalizan-a-alan-ibarra-de-magneto/?utm_source=rss&utm_medium=rss&utm_campaign=hospitalizan-a-alan-ibarra-de-magneto",
-      "published": "Sat, 12 Sep 2026 16:53:26 +0000"
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Yolanda Andrade se solidariza con Gala Montes",
-      "url": "https://www.afntijuana.info/espectaculos/181617_yolanda_andrade_se_solidariza_con_gala_montes",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Bikers llegan a Rosarito para regalar sonrisas y juguetes a niñosRosarito| sábado 12 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Rosarito/99360/Bikers-llegan-a-Rosarito-para-regalar-sonrisas-y-juguetes-a-ni%C3%B1os",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Trump ofrece resolver la disputa por las Malvinas",
-      "url": "https://www.elimparcial.com/mundo/2026/09/12/trump-dice-que-podria-resolver-la-disputa-por-las-malvinas-si-argentina-y-reino-unido-se-lo-piden/",
-      "published": ""
-    },
-    {
-      "source": "TJ Comunica",
-      "title": "Xolos cae por la mínima en casa",
-      "url": "https://tjcomunica.com/xolos-cae-por-la-minima-en-casa/",
-      "published": ""
-    },
-    {
-      "source": "ZETA Tijuana",
-      "title": "Más relevantes los becarios que los enfermos mexicanos",
-      "url": "https://zetatijuana.com/2026/09/mas-relevantes-los-becarios-que-los-enfermos-mexicanos/?utm_source=rss&utm_medium=rss&utm_campaign=mas-relevantes-los-becarios-que-los-enfermos-mexicanos",
-      "published": "Sat, 12 Sep 2026 16:00:48 +0000"
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Eugenio Derbez revela las estrictas reglas que enfrentó trabajando en Broadway",
-      "url": "https://www.afntijuana.info/espectaculos/181616_eugenio_derbez_revela_las_estrictas_reglas_que_enfrento_trabajando_en_broadway",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Claudia Sheinbaum tendría visita a Tijuana como parte de su informe de actividadesEstatal| sábado 12 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Estatal/99358/Claudia-Sheinbaum-tendr%C3%ADa-visita-a-Tijuana-como-parte-de-su-informe-de-actividades",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Fiestas patrias: 7 gastos que desajustan tu presupuesto",
-      "url": "https://www.elimparcial.com/dinero/2026/09/12/condusef-advierte-sobre-los-gastos-imprevistos-que-disparan-el-presupuesto-familiar-durante-la-cena-de-las-fiestas-patrias-y-emite-recomendaciones-para-cuidar-las-finanzas-personales-este-15-de-septiembre/",
-      "published": ""
-    },
-    {
-      "source": "TJ Comunica",
-      "title": "Detienen a hombre y mujer tras agresiones dentro de un domicilio en Tijuana",
-      "url": "https://tjcomunica.com/detienen-a-hombre-y-mujer-tras-agresiones-dentro-de-un-domicilio-en-tijuana/",
+      "title": "Lady Gaga se convierte en mamá junto a su prometido Michael PolanskyFama |12 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Fama/99367/Lady-Gaga-se-convierte-en-mam%C3%A1-junto-a-su-prometido-Michael-Polansky",
       "published": ""
     },
     {
       "source": "AFN Tijuana",
-      "title": "Fuerte incendio consumió al menos cinco casas de madera en la zona Este de Tijuana",
-      "url": "https://www.afntijuana.info/informacion_general/181615_fuerte_incendio_consumio_al_menos_cinco_casas_de_madera_en_la_zona_este_de_tijuana",
+      "title": "Asesinan a tiros a un hombre en canchas de la colonia Tres de Octubre",
+      "url": "https://www.afntijuana.info/seguridad/181627_asesinan_a_tiros_a_un_hombre_en_canchas_de_la_colonia_tres_de_octubre",
       "published": ""
     },
     {
       "source": "El Mexicano",
-      "title": "Hasta siempre agente César Tapia OrozcoMexicali |12 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Mexicali/99359/Hasta-siempre-agente-C%C3%A9sar-Tapia-Orozco",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Yvonne Venegas se suma a la historia de Julio César Chávez",
-      "url": "https://www.elimparcial.com/tij/tijuana/2026/09/12/yvonne-venegas-se-suma-a-la-historia-de-julio-cesar-chavez/",
+      "title": "Lady Gaga se convierte en mamá junto a su prometido Michael PolanskyFama| sábado 12 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Fama/99367/Lady-Gaga-se-convierte-en-mam%C3%A1-junto-a-su-prometido-Michael-Polansky",
       "published": ""
     },
     {
       "source": "AFN Tijuana",
-      "title": "Incendio en farmacia de la zona Centro deja sólo daños materiales",
-      "url": "https://www.afntijuana.info/informacion_general/181614_incendio_en_farmacia_de_la_zona_centro_deja_solo_danos_materiales",
+      "title": "Invitan a mitin con Sheinbaum en la avenida Revolución en Tijuana",
+      "url": "https://www.afntijuana.info/informacion_general/181626_invitan_a_mitin_con_sheinbaum_en_la_avenida_revolucion_en_tijuana",
       "published": ""
     },
     {
       "source": "El Mexicano",
-      "title": "Hasta siempre agente César Tapia OrozcoMexicali| sábado 12 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Mexicali/99359/Hasta-siempre-agente-C%C3%A9sar-Tapia-Orozco",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Realizan jornada comunitaria de salud mental en Tijuana",
-      "url": "https://www.elimparcial.com/tij/tijuana/2026/09/12/realizan-jornada-comunitaria-de-salud-mental-en-tijuana/",
+      "title": "Más de 160 equipos de varios países participan en la Baja 400 en Ensenada 2026Deportes |12 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Deportes/99365/M%C3%A1s-de-160-equipos-de-varios-pa%C3%ADses-participan-en-la-Baja-400-en-Ensenada-2026",
       "published": ""
     },
     {
       "source": "AFN Tijuana",
-      "title": "Paquete Fiscal 2027: se pospone la consolidación fiscal de México: IMCO",
-      "url": "https://www.afntijuana.info/nacionales/181613_paquete_fiscal_2027_se_pospone_la_consolidacion_fiscal_de_mexico_imco",
+      "title": "Convocan al Segundo Macrosimulacro Nacional con \"terremoto\" de magnitud 7.1",
+      "url": "https://www.afntijuana.info/informacion_general/181625_convocan_al_segundo_macrosimulacro_nacional_con_terremoto_de_magnitud_7_1",
       "published": ""
     },
     {
       "source": "El Mexicano",
-      "title": "Detienen en El Pípila a hombre que conducía vehículo robado en EUPoliciaca |12 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Policiaca/99356/Detienen-en-El-P%C3%ADpila-a-hombre-que-conduc%C3%ADa-veh%C3%ADculo-robado-en-EU",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Piden apoyo para joven que espera cirugía en el IMSS  por tumor cerebral; necesita cuarto equipado en su casa para sobrevivir",
-      "url": "https://www.elimparcial.com/tij/tijuana/2026/09/12/piden-apoyo-para-joven-que-espera-cirugia-en-el-imss-por-tumor-cerebral-necesita-cuarto-equipado-en-su-casa-para-sobrevivir/",
+      "title": "Más de 160 equipos de varios países participan en la Baja 400 en Ensenada 2026Deportes| sábado 12 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Deportes/99365/M%C3%A1s-de-160-equipos-de-varios-pa%C3%ADses-participan-en-la-Baja-400-en-Ensenada-2026",
       "published": ""
     },
     {
       "source": "AFN Tijuana",
-      "title": "Advierten riesgos por propuesta de retirar losas del canal del Río Tijuana",
-      "url": "https://www.afntijuana.info/informacion_general/181612_advierten_riesgos_por_propuesta_de_retirar_losas_del_canal_del_rio_tijuana",
+      "title": "La filtración a Latinus ¿Respuesta por golpe a Julieta? ¿Se fortalece como candidata?",
+      "url": "https://www.afntijuana.info/afn_politico/181624_la_filtracion_a_latinus_irespuesta_por_golpe_a_julieta_ise_fortalece_como_candidata",
       "published": ""
     },
     {
       "source": "El Mexicano",
-      "title": "Detienen en El Pípila a hombre que conducía vehículo robado en EUPoliciaca| sábado 12 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Policiaca/99356/Detienen-en-El-P%C3%ADpila-a-hombre-que-conduc%C3%ADa-veh%C3%ADculo-robado-en-EU",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "La lactancia reduce bacterias resistentes en recién nacidos",
-      "url": "https://www.elimparcial.com/estilos/2026/09/12/un-estudio-demuestra-que-la-lactancia-materna-exclusiva-durante-el-primer-mes-reduce-la-presencia-de-genes-resistentes-a-antibioticos-en-bebes/",
+      "title": "Corea del Norte lanza varios misiles hacia el mar de JapónMundo |12 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Mundo/99364/Corea-del-Norte-lanza-varios-misiles-hacia-el-mar-de-Jap%C3%B3n",
       "published": ""
     },
     {
       "source": "AFN Tijuana",
-      "title": "José Luis Roma defiende al cantante tras cancelar concierto en The Sphere de Las Vegas",
-      "url": "https://www.afntijuana.info/espectaculos/181611_jose_luis_roma_defiende_al_cantante_tras_cancelar_concierto_en_the_sphere_de_las_vegas",
+      "title": "Dedican altar al oso \"Yogi\" en el zoológico del parque Morelos",
+      "url": "https://www.afntijuana.info/informacion_general/181623_dedican_altar_al_oso_yogi_en_el_zoologico_del_parque_morelos",
       "published": ""
     },
     {
       "source": "El Mexicano",
-      "title": "Caen cuatro personas con órdenes de aprehensión activas en TijuanaPoliciaca |12 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Policiaca/99355/Caen-cuatro-personas-con-%C3%B3rdenes-de-aprehensi%C3%B3n-activas-en-Tijuana",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Comunidad del Parque Morelos lamenta muerte de Yogui",
-      "url": "https://www.elimparcial.com/tij/tijuana/2026/09/12/comunidad-del-parque-morelos-de-luto-por-muerte-del-oso-yogui/",
-      "published": ""
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Reitera Román Cota posibilidad de separarse del cargo para buscar candidatura",
-      "url": "https://www.afntijuana.info/informacion_general/181610_reitera_roman_cota_posibilidad_de_separarse_del_cargo_para_buscar_candidatura",
+      "title": "Corea del Norte lanza varios misiles hacia el mar de JapónMundo| sábado 12 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Mundo/99364/Corea-del-Norte-lanza-varios-misiles-hacia-el-mar-de-Jap%C3%B3n",
       "published": ""
     },
     {
       "source": "El Mexicano",
-      "title": "Caen cuatro personas con órdenes de aprehensión activas en TijuanaPoliciaca| sábado 12 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Policiaca/99355/Caen-cuatro-personas-con-%C3%B3rdenes-de-aprehensi%C3%B3n-activas-en-Tijuana",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Santi Giménez anotó gol por primera vez en 354 días",
-      "url": "https://www.elimparcial.com/deporte/2026/09/12/santiago-gimenez-anota-su-primer-gol-con-el-porto-tras-354-dias-de-sequia/",
-      "published": ""
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Modificaciones de META buscan reducir riesgos para menores en redes sociales",
-      "url": "https://www.afntijuana.info/informacion_general/181609_modificaciones_de_meta_buscan_reducir_riesgos_para_menores_en_redes_sociales",
+      "title": "Hombre muere tras ataque armado en la colonia Tres de OctubreEl hecho fue reportado alrededor de las 17:32 horasPoliciaca| sábado 12 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Policiaca/99366/Hombre-muere-tras-ataque-armado-en-la-colonia-Tres-de-Octubre",
       "published": ""
     },
     {
       "source": "El Mexicano",
-      "title": "Piden solución a fallas de luz que afectan a familias de la Zona EsteSon alrededor de 300 familias, aunque la cifra podría ser mayorTijuana| viernes 11 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99338/Piden-soluci%C3%B3n-a-fallas-de-luz-que-afectan-a-familias-de-la-Zona-Este",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Sheinbaum niega que programas del Bienestar generen deuda",
-      "url": "https://www.elimparcial.com/mexico/2026/09/12/claudia-sheinbaum-rechaza-que-los-programas-del-bienestar-endeuden-a-mexico-y-afirma-que-se-financian-con-la-recaudacion-de-impuestos/",
-      "published": ""
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Multa el INE a Morena por afiliación indebida de profesor mexicalense",
-      "url": "https://www.afntijuana.info/informacion_general/181608_multa_el_ine_a_morena_por_afiliacion_indebida_de_profesor_mexicalense",
+      "title": "Urge diputada Evelyn Sánchez y la CMIC, la creación de los bancos de tiro de la construcción en los siete municipiosEstatal |12 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Estatal/99363/Urge-diputada-Evelyn-S%C3%A1nchez-y-la-CMIC,-la-creaci%C3%B3n-de-los-bancos-de-tiro-de-la-construcci%C3%B3n-en-los-siete-municipios",
       "published": ""
     },
     {
       "source": "El Mexicano",
-      "title": "Suspenderán a agente de AEI que disparó contra su ex pareja en Mexicali: FGELa fiscal condenó los hechos llamando reprobableMexicali| viernes 11 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Mexicali/99336/Suspender%C3%A1n-a-agente-de-AEI-que-dispar%C3%B3-contra-su-ex-pareja-en-Mexicali%3A-FGE",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Carín León logra llenar The Sphere Las Vegas junto a Pepe Aguilar y Lupe Esparza",
-      "url": "https://www.elimparcial.com/videos/2026/09/12/carin-leon-logra-llenar-the-sphere-las-vegas-junto-a-pepe-aguilar-y-lupe-esparza/",
+      "title": "Urge diputada Evelyn Sánchez y la CMIC, la creación de los bancos de tiro de la construcción en los siete municipiosEstatal| sábado 12 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Estatal/99363/Urge-diputada-Evelyn-S%C3%A1nchez-y-la-CMIC,-la-creaci%C3%B3n-de-los-bancos-de-tiro-de-la-construcci%C3%B3n-en-los-siete-municipios",
       "published": ""
     }
   ]

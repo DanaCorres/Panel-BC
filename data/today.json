@@ -1,253 +1,64 @@
 {
-  "date": "2026-09-12",
-  "run_count": 3,
+  "date": "2026-09-13",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Pareja de adultos mayores asesinada a balazos en Tijuana",
-        "summary": "Disparan contra matrimonio en colonia Obrera, Tijuana. Autoridades investigan el homicidio.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/181618_matan_a_balazos_a_pareja_de_adultos_mayores_en_vivienda_de_la_colonia_obrera",
-        "_added_at": "2026-09-12T16:53:07.292325-07:00"
-      },
-      {
-        "title": "Incendio destruye cinco viviendas en asentamiento de Tijuana",
-        "summary": "Fuego consume casas de madera en Paseo Santa María, zona Este de Tijuana sin reportes de víctimas.",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/fuerte-incendio-consume-cinco-viviendas-en-asentamiento-de-paseo-santa-maria/",
-        "_added_at": "2026-09-12T16:53:07.292325-07:00"
-      },
-      {
-        "title": "Incendio en farmacia del Centro causa solo daños materiales",
-        "summary": "Fuego afecta establecimiento comercial en zona Centro sin lesionados reportados.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181614_incendio_en_farmacia_de_la_zona_centro_deja_solo_danos_materiales",
-        "_added_at": "2026-09-12T16:53:07.292325-07:00"
-      },
-      {
-        "title": "Conductor de plataforma asesinado en taquería de Tecate",
-        "summary": "Chofer de transporte por aplicación fue atacado y muerto en establecimiento de comida en Tecate.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/181605_asesinan_a_conductor_de_transporte_por_plataforma_en_una_taqueria_en_tecate",
-        "_added_at": "2026-09-12T11:15:08.762266-07:00"
-      },
-      {
-        "title": "Pareja de adultos mayores hallada sin vida en Obrera",
-        "summary": "Encuentran fallecidos a matrimonio de edad avanzada en domicilio de la colonia Obrera tijuanense.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/policiaca/2026/09/12/localizan-sin-vida-a-pareja-de-adultos-mayores-en-la-colonia-obrera/",
-        "_added_at": "2026-09-12T11:15:08.762266-07:00"
-      },
-      {
-        "title": "Incendio destruye cuarto en cuartería de Zona Norte",
-        "summary": "Fuego consume habitación de madera en vivienda compartida del área de Zona Norte.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/policiaca/2026/09/12/incendio-consume-cuarto-de-madera-en-cuarteria-de-zona-norte/",
-        "_added_at": "2026-09-12T11:15:08.762266-07:00"
-      },
-      {
-        "title": "Camión Altisa colisiona con pipa; cuatro personas heridas",
-        "summary": "Accidente vial en Tijuana dejó cuatro heridos tras choque entre camión de transporte y pipa.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/181594_camion_de_altisa_choco_con_una_pipa_hubo_cuatro_heridos",
-        "_added_at": "2026-09-12T00:14:16.842222-07:00"
-      },
-      {
-        "title": "Pareja detenida por agresiones dentro de domicilio tijuanense",
-        "summary": "Autoridades capturan a hombre y mujer tras hechos violentos al interior de una vivienda.",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/detienen-a-hombre-y-mujer-tras-agresiones-dentro-de-un-domicilio-en-tijuana/",
-        "_added_at": "2026-09-12T00:14:16.842222-07:00"
-      },
-      {
-        "title": "Fiscal inicia proceso de baja para agente que disparó casa expareja",
-        "summary": "Fiscalía abre procedimiento contra policía que efectuó disparos contra domicilio de su expareja.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181591_fiscalia_inicio_proceso_para_dar_de_baja_a_agente_que_disparo_contra_la_casa_de_su_expareja",
-        "_added_at": "2026-09-12T00:14:16.842222-07:00"
-      },
-      {
-        "title": "Congreso demanda mejora seguridad Bulevar 2000 a Gobierno Estatal",
-        "summary": "Legisladores solicitan acciones urgentes para elevar condiciones de seguridad en zona crítica.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181593_pide_congreso_al_gobierno_estatal_mejorar_condiciones_de_seguridad_en_el_bulevar_2000",
-        "_added_at": "2026-09-12T00:14:16.842222-07:00"
+        "title": "Homicidio en colonia Tres de Octubre de Tijuana",
+        "summary": "Hombre asesinado a balazos en canchas de la zona. Reportado alrededor de las 17:32 horas.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/99366/Hombre-muere-tras-ataque-armado-en-la-colonia-Tres-de-Octubre",
+        "_added_at": "2026-09-13T00:32:08.142496-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Presidenta Sheinbaum visitaría Tijuana para informe de actividades",
-        "summary": "Claudia Sheinbaum tendría visita programada a Tijuana como parte de su informe oficial.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Estatal/99358/Claudia-Sheinbaum-tendr%C3%ADa-visita-a-Tijuana-como-parte-de-su-informe-de-actividades",
-        "_added_at": "2026-09-12T16:53:07.292325-07:00"
-      },
-      {
-        "title": "Gobernadora inspecciona proyecto canalización Río Tijuana",
-        "summary": "Marina del Pilar realiza recorrido de supervisión en infraestructura de canalización del río.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Estatal/99343/Instruye-Gobernadora-Marina-del-Pilar-recorrido-de-inspecci%C3%B3n-por-canalizaci%C3%B3n-R%C3%ADo-Tijuana",
-        "_added_at": "2026-09-12T11:15:08.762266-07:00"
-      },
-      {
-        "title": "Acuerdan restauración conjunta de canalización Río Tijuana",
-        "summary": "Autoridades establecen acciones coordinadas para recuperación de infraestructura fluvial.",
+        "title": "Sheinbaum realiza mitin en avenida Revolución de Tijuana",
+        "summary": "Convocatoria para acto político de la presidenta en zona céntrica de la ciudad.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181596_acuerdan_acciones_conjuntas_para_restaurar_la_canalizacion_del_rio_tijuana",
-        "_added_at": "2026-09-12T11:15:08.762266-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/181626_invitan_a_mitin_con_sheinbaum_en_la_avenida_revolucion_en_tijuana",
+        "_added_at": "2026-09-13T00:32:08.142496-07:00"
       },
       {
-        "title": "Protección Civil niega represalia en corte agua Piñitas",
-        "summary": "Dependencia rechaza acusaciones de venganza municipal por suspensión de servicio.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/proteccion-civil-niega-que-corte-de-agua-en-calle-pinitas-haya-sido-represalia-del-ayuntamiento-de-tijuana/?utm_source=rss&utm_medium=rss&utm_campaign=proteccion-civil-niega-que-corte-de-agua-en-calle-pinitas-haya-sido-represalia-del-ayuntamiento-de-tijuana",
-        "_added_at": "2026-09-12T11:15:08.762266-07:00"
-      },
-      {
-        "title": "Sheinbaum visitará BC el 19; prevén conflictos políticos",
-        "summary": "Presidenta llegará a Baja California en contexto de tensiones y desacuerdos administrativos.",
+        "title": "Filtración política genera debate sobre candidatura estatal",
+        "summary": "Información filtrada a Latinus cuestiona posición de figura política local.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/afn_politico/181592_sheinbaum_viene_el_19_a_baja_california_encontrara_caos_y_pleitos",
-        "_added_at": "2026-09-12T00:14:16.842222-07:00"
-      },
-      {
-        "title": "Buscan apoyo empresarial para financiar candidaturas independientes BC",
-        "summary": "Se gestiona respaldo privado para postulantes sin afiliación partidista en el estado.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Estatal/99341/Buscar%C3%A1n-apoyo-empresarial-para-financiar-candidaturas-independientes-en-BC",
-        "_added_at": "2026-09-12T00:14:16.842222-07:00"
-      },
-      {
-        "title": "Evelyn Sánchez solicita intérpretes indígenas en instituciones públicas",
-        "summary": "Propuesta para incluir traductores en fiscalías, tribunales y servicios de salud estatal.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Estatal/99335/Pide-Evelyn-S%C3%A1nchez-int%C3%A9rpretes-ind%C3%ADgenas-en-fiscal%C3%ADas,-tribunales-y-servicios-de-salud",
-        "_added_at": "2026-09-12T00:14:16.842222-07:00"
+        "url": "https://www.afntijuana.info/afn_politico/181624_la_filtracion_a_latinus_irespuesta_por_golpe_a_julieta_ise_fortalece_como_candidata",
+        "_added_at": "2026-09-13T00:32:08.142496-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Nuevo sistema de aterrizaje habilitado en Aeropuerto de Tijuana",
-        "summary": "Aeropuerto implementa infraestructura moderna para mejorar operaciones de aterrizaje.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181620_habilitan_nuevo_sistema_de_aterrizaje_en_el_aeropuerto_de_tijuana",
-        "_added_at": "2026-09-12T16:53:07.292325-07:00"
-      },
-      {
-        "title": "Profeco alerta sobre venta fraudulenta de boletos de Luis Miguel",
-        "summary": "Autoridad advierte sobre accesos falsos para gira de enero 2027 en línea.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/dinero/2026/09/12/profeco-advierte-sobre-la-venta-de-boletos-falsos-tras-detectar-accesos-fraudulentos-para-una-supuesta-gira-de-luis-miguel-en-enero-de-2027/",
-        "_added_at": "2026-09-12T16:53:07.292325-07:00"
-      },
-      {
-        "title": "Apagones frenan industria por déficit infraestructura eléctrica",
-        "summary": "Falta de capacidad energética afecta operaciones manufactureras en región tijuanense.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181607_apagones_afectan_a_la_industria_por_falta_de_infraestructura_electrica_aimo",
-        "_added_at": "2026-09-12T11:15:08.762266-07:00"
-      },
-      {
-        "title": "Maquiladoras Tecate caen en exportaciones primer semestre",
-        "summary": "Sector maquilador registra desplome en envíos internacionales durante primeros seis meses.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/empresarial/181599_caida_libre_en_exportaciones_de_maquiladoras_en_tecate_al_primer_semestre",
-        "_added_at": "2026-09-12T11:15:08.762266-07:00"
-      },
-      {
-        "title": "Construcción y manufactura desaceleran actividad industrial BC",
-        "summary": "Dos sectores clave muestran contracción impactando economía regional bajacaliforniana.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/empresarial/181600_construccion_y_manufacturas_tiran_actividad_industrial_de_bc",
-        "_added_at": "2026-09-12T11:15:08.762266-07:00"
-      },
-      {
-        "title": "Tijuana requiere 700 megawatts; apagones evidencian crisis energética",
-        "summary": "Cámara de Comercio alerta sobre rezago eléctrico que limita suministro en la región.",
+        "title": "Diputada demanda bancos de tiro en sector construcción",
+        "summary": "Evelyn Sánchez y CMIC piden crear infraestructura en siete municipios de BC.",
         "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Estatal/99340/Apagones-exhiben-rezago-el%C3%A9ctrico;-Tijuana-requiere-700-megawatts-adicionales%3A-CCE",
-        "_added_at": "2026-09-12T00:14:16.842222-07:00"
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/99363/Urge-diputada-Evelyn-S%C3%A1nchez-y-la-CMIC,-la-creaci%C3%B3n-de-los-bancos-de-tiro-de-la-construcci%C3%B3n-en-los-siete-municipios",
+        "_added_at": "2026-09-13T00:32:08.142496-07:00"
       },
       {
-        "title": "Reforma fiscal genera preocupación en empresas tijuanenses",
-        "summary": "Sectores empresariales advierten posibles impactos negativos de cambios tributarios.",
+        "title": "Baja 400 en Ensenada 2026 atrae 160 equipos internacionales",
+        "summary": "Competencia automovilística confirma participación masiva de pilotos del mundo.",
         "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99337/Alertan-por-impacto-de-nueva-reforma-fiscal-en-empresas",
-        "_added_at": "2026-09-12T00:14:16.842222-07:00"
-      },
-      {
-        "title": "Notarios proponen programa social para escrituración viviendas BC",
-        "summary": "Iniciativa busca facilitar trámites y acceso a documentación inmobiliaria para familias.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Estatal/99342/Proponen-notarios-programa-social-para-facilitar-escrituraci%C3%B3n-de-viviendas-en-BC",
-        "_added_at": "2026-09-12T00:14:16.842222-07:00"
+        "url": "https://el-mexicano.com.mx/Noticia/Deportes/99365/M%C3%A1s-de-160-equipos-de-varios-pa%C3%ADses-participan-en-la-Baja-400-en-Ensenada-2026",
+        "_added_at": "2026-09-13T00:32:08.142496-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Organización pide a justicia que crea en padres en juicios de custodia",
-        "summary": "Grupo Soy Papá No Criminal solicita a autoridades considerar testimonios paternos equitativamente.",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/mxl/mexicali/2026/09/12/piden-papas-que-justicia-tambien-les-crea/",
-        "_added_at": "2026-09-12T16:53:07.292325-07:00"
-      },
-      {
-        "title": "Jóvenes de ambos lados fronterizos se unen por Tijuana Sin Hambre",
-        "summary": "Border Battle reúne a población transfronteriza para combatir inseguridad alimentaria.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/border-battle-une-a-jovenes-de-ambos-lados-de-la-frontera-por-tijuana-sin-hambre/?utm_source=rss&utm_medium=rss&utm_campaign=border-battle-une-a-jovenes-de-ambos-lados-de-la-frontera-por-tijuana-sin-hambre",
-        "_added_at": "2026-09-12T16:53:07.292325-07:00"
-      },
-      {
-        "title": "Bikers donan juguetes y sonrisas a niños de Rosarito",
-        "summary": "Motociclistas organizan actividad benéfica para distribuir regalos a menores.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Rosarito/99360/Bikers-llegan-a-Rosarito-para-regalar-sonrisas-y-juguetes-a-ni%C3%B1os",
-        "_added_at": "2026-09-12T16:53:07.292325-07:00"
-      },
-      {
-        "title": "Altas temperaturas generan 12 alertas en Tecate",
-        "summary": "Protección Civil emite alertas por clima extremo en municipio fronterizo.",
+        "title": "Segundo macrosimulacro nacional previsto en Baja California",
+        "summary": "Ejercicio de protección civil con simulación de terremoto de magnitud 7.1.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181621_se_han_emitido_12_alertas_por_altas_temperaturas_en_tecate_proteccion_civil",
-        "_added_at": "2026-09-12T16:53:07.292325-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/181625_convocan_al_segundo_macrosimulacro_nacional_con_terremoto_de_magnitud_7_1",
+        "_added_at": "2026-09-13T00:32:08.142496-07:00"
       },
       {
-        "title": "Autoridades exhortan evitar pirotecnia en Fiestas Patrias",
-        "summary": "SMADS pide ciudadanía abstenerse de fuegos artificiales por riesgos ambientales.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/12/exhortan-a-evitar-pirotecnia-durante-fiestas-patrias-en-baja-california/",
-        "_added_at": "2026-09-12T11:15:08.762266-07:00"
-      },
-      {
-        "title": "Notarios proponen programa social escrituración viviendas BC",
-        "summary": "Plantean iniciativa para facilitar trámites de propiedad a población de bajos recursos.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Estatal/99342/Proponen-notarios-programa-social-para-facilitar-escrituraci%C3%B3n-de-viviendas-en-BC",
-        "_added_at": "2026-09-12T11:15:08.762266-07:00"
-      },
-      {
-        "title": "Gobernadora instruye inspección canalización Río Tijuana",
-        "summary": "Marina del Pilar supervisa trabajos de restauración del cauce fronterizo.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Estatal/99343/Instruye-Gobernadora-Marina-del-Pilar-recorrido-de-inspecci%C3%B3n-por-canalizaci%C3%B3n-R%C3%ADo-Tijuana",
-        "_added_at": "2026-09-12T00:14:16.842222-07:00"
-      },
-      {
-        "title": "Acuerdan acciones conjuntas restaurar canalización Río Tijuana",
-        "summary": "Coordinación interinstitucional para rehabilitación e infraestructura del cauce.",
+        "title": "Zoológico de parque Morelos dedica altar al oso Yogi",
+        "summary": "Homenaje al animal fallecido en las instalaciones de Tijuana.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181596_acuerdan_acciones_conjuntas_para_restaurar_la_canalizacion_del_rio_tijuana",
-        "_added_at": "2026-09-12T00:14:16.842222-07:00"
-      },
-      {
-        "title": "Fallas de luz afectan familias Zona Este Tijuana",
-        "summary": "Residents de sector solicitan solución urgente a cortes eléctricos recurrentes.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99338/Piden-soluci%C3%B3n-a-fallas-de-luz-que-afectan-a-familias-de-la-Zona-Este",
-        "_added_at": "2026-09-12T00:14:16.842222-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/181623_dedican_altar_al_oso_yogi_en_el_zoologico_del_parque_morelos",
+        "_added_at": "2026-09-13T00:32:08.142496-07:00"
       }
     ]
   },
-  "last_updated": "2026-09-12T16:53:07.292325-07:00"
+  "last_updated": "2026-09-13T00:32:08.142496-07:00"
 }
