@@ -1,112 +1,424 @@
 {
-  "generated_at": "2026-09-14T07:58:52.451660+00:00",
+  "generated_at": "2026-09-14T20:14:03.955760+00:00",
   "items": [
     {
-      "source": "AFN Tijuana",
-      "title": "Advierten riesgos por festival de luces de Cantoya en la Laguna Salada",
-      "url": "https://www.afntijuana.info/informacion_general/181650_advierten_riesgos_por_festival_de_luces_de_cantoya_en_la_laguna_salada",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Sorprenden a los ChargersDeportes |13 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Deportes/99395/Sorprenden-a-los-Chargers",
-      "published": ""
+      "source": "ZETA Tijuana",
+      "title": "Entre 2022 y 2026: Más de 170 muertes por golpe de calor en BC",
+      "url": "https://zetatijuana.com/2026/09/entre-2022-y-2026-mas-de-170-muertes-por-golpe-de-calor-en-bc/?utm_source=rss&utm_medium=rss&utm_campaign=entre-2022-y-2026-mas-de-170-muertes-por-golpe-de-calor-en-bc",
+      "published": "Mon, 14 Sep 2026 20:00:54 +0000"
     },
     {
       "source": "AFN Tijuana",
-      "title": "Surge expectativa por arribo de buque para mantenimiento en Ensenada",
-      "url": "https://www.afntijuana.info/informacion_general/181649_surge_expectativa_por_arribo_de_buque_para_mantenimiento_en_ensenada",
+      "title": "Fila para motociclistas modifica dinámica de cruce en San Ysidro",
+      "url": "https://www.afntijuana.info/informacion_general/181666_fila_para_motociclistas_modifica_dinamica_de_cruce_en_san_ysidro",
       "published": ""
     },
     {
       "source": "El Mexicano",
-      "title": "Sorprenden a los ChargersDeportes| domingo 13 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Deportes/99395/Sorprenden-a-los-Chargers",
+      "title": "Muere motociclista tras choque contra revolvedora en Vista Al MarPoliciaca |14 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Policiaca/99418/Muere-motociclista-tras-choque-contra-revolvedora-en-Vista-Al-Mar",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial (Tijuana)",
+      "title": "Cierres viales en Tijuana: calles cerradas el 16 de septiemb",
+      "url": "https://www.elimparcial.com/tij/tijuana/2026/09/14/cierres-viales-en-zona-del-rio-de-tijuana-por-celebracion-de-las-fiestas-patria-estas-calles-estaran-cerradas/",
+      "published": ""
+    },
+    {
+      "source": "Yo Amo Tijuana",
+      "title": "Lanzan terrenos sin enganche y con apartado de $500 dólares cerca de Valle de Guadalupe",
+      "url": "https://amotijuana.com/lanzan-terrenos-sin-enganche-y-con-apartado-de-500-dolares-cerca-de-valle-de-guadalupe/",
+      "published": ""
+    },
+    {
+      "source": "TJ Comunica",
+      "title": "Sheinbaum destaca programa “Vivienda para el bienestar”",
+      "url": "https://tjcomunica.com/sheinbaum-destaca-programa-vivienda-para-el-bienestar/",
+      "published": ""
+    },
+    {
+      "source": "ZETA Tijuana",
+      "title": "Gobernadora defiende a la CFE ante reclamos ciudadanos por falta de inversión en infraestructura en Mexicali",
+      "url": "https://zetatijuana.com/2026/09/gobernadora-defiende-a-la-cfe-ante-reclamos-ciudadanos-por-falta-de-inversion-en-infraestructura-en-mexicali/?utm_source=rss&utm_medium=rss&utm_campaign=gobernadora-defiende-a-la-cfe-ante-reclamos-ciudadanos-por-falta-de-inversion-en-infraestructura-en-mexicali",
+      "published": "Mon, 14 Sep 2026 20:00:51 +0000"
+    },
+    {
+      "source": "AFN Tijuana",
+      "title": "Luchamos por sus empresas, es un momento crucial: Elisa Ibáñez",
+      "url": "https://www.afntijuana.info/editoriales/181665_luchamos_por_sus_empresas_es_un_momento_crucial_elisa_ibanez",
+      "published": ""
+    },
+    {
+      "source": "El Mexicano",
+      "title": "Muere motociclista tras choque contra revolvedora en Vista Al MarPoliciaca| lunes 14 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Policiaca/99418/Muere-motociclista-tras-choque-contra-revolvedora-en-Vista-Al-Mar",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial (Tijuana)",
+      "title": "El Ayuntamiento de Tijuana anunció cierres parciales y totales en la Zona del Río del 14 al 16 de septiembre por las celebraciones del Día de la Independencia y el desfile cívico-militar.",
+      "url": "https://www.elimparcial.com/tij/tijuana/2026/09/14/cierres-viales-en-zona-del-rio-de-tijuana-por-celebracion-de-las-fiestas-patria-estas-calles-estaran-cerradas/",
+      "published": ""
+    },
+    {
+      "source": "Yo Amo Tijuana",
+      "title": "¡Es hora de apoyar! mañana Zonkeys tendrá su último partido en casa contra CDMX",
+      "url": "https://amotijuana.com/es-hora-de-apoyar-manana-zonkeys-tendra-su-ultimo-partido-en-casa-contra-cdmx/",
+      "published": ""
+    },
+    {
+      "source": "TJ Comunica",
+      "title": "Bicicletas abandonadas en Nevada llegarán a Tijuana, buscan beneficiar a colectivos de búsqueda y albergues migrantes",
+      "url": "https://tjcomunica.com/bicicletas-abandonadas-en-nevada-llegaran-a-tijuana-buscan-beneficiar-a-colectivos-de-busqueda-y-albergues-migrantes/",
+      "published": ""
+    },
+    {
+      "source": "ZETA Tijuana",
+      "title": "De 2018 a 2026 deuda sube 86.9%",
+      "url": "https://zetatijuana.com/2026/09/de-2018-a-2026-deuda-sube-86-9/?utm_source=rss&utm_medium=rss&utm_campaign=de-2018-a-2026-deuda-sube-86-9",
+      "published": "Mon, 14 Sep 2026 20:00:41 +0000"
+    },
+    {
+      "source": "AFN Tijuana",
+      "title": "Julieta Ramírez: cosechar tempestades",
+      "url": "https://www.afntijuana.info/editoriales/181664_julieta_ramirez_cosechar_tempestades",
+      "published": ""
+    },
+    {
+      "source": "El Mexicano",
+      "title": "Aubreah Isabella disfruta una fiesta digna de princesaSociales |14 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Sociales/99417/Aubreah-Isabella-disfruta-una-fiesta-digna-de-princesa",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial (Tijuana)",
+      "title": "Cancelan ruta de Operat a Santa Fe en Tijuana otra vez",
+      "url": "https://www.elimparcial.com/tij/tijuana/2026/09/14/cancelan-otra-vez-ruta-de-operat-a-santa-fe-en-tijuana/",
+      "published": ""
+    },
+    {
+      "source": "Yo Amo Tijuana",
+      "title": "Lanzan terrenos sin enganche cerca de Rosarito y Valle de Guadalupe",
+      "url": "https://amotijuana.com/lanzan-terrenos-sin-enganche-cerca-de-rosarito-y-valle-de-guadalupe/",
+      "published": ""
+    },
+    {
+      "source": "TJ Comunica",
+      "title": "Marea baja deja al descubierto estrellas de mar y otras especies marinas en Playas de Rosarito",
+      "url": "https://tjcomunica.com/marea-baja-deja-al-descubierto-estrellas-de-mar-y-otras-especies-marinas-en-playas-de-rosarito/",
+      "published": ""
+    },
+    {
+      "source": "ZETA Tijuana",
+      "title": "82 por ciento de fraccionamientos en Tijuana no han sido entregados al municipio",
+      "url": "https://zetatijuana.com/2026/09/82-por-ciento-de-fraccionamientos-en-tijuana-no-han-sido-entregados-al-municipio/?utm_source=rss&utm_medium=rss&utm_campaign=82-por-ciento-de-fraccionamientos-en-tijuana-no-han-sido-entregados-al-municipio",
+      "published": "Mon, 14 Sep 2026 20:00:40 +0000"
+    },
+    {
+      "source": "AFN Tijuana",
+      "title": "Murió un motociclista al chocar contra revolvedora de concreto",
+      "url": "https://www.afntijuana.info/seguridad/181663_murio_un_motociclista_al_chocar_contra_revolvedora_de_concreto",
+      "published": ""
+    },
+    {
+      "source": "El Mexicano",
+      "title": "Aubreah Isabella disfruta una fiesta digna de princesaSociales| lunes 14 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Sociales/99417/Aubreah-Isabella-disfruta-una-fiesta-digna-de-princesa",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial (Tijuana)",
+      "title": "Estudiar en línea: opciones para jóvenes con poco tiempo",
+      "url": "https://www.elimparcial.com/tij/tijuana/2026/09/14/estudiar-en-linea-una-opcion-para-jovenes-con-poco-tiempo/",
+      "published": ""
+    },
+    {
+      "source": "Yo Amo Tijuana",
+      "title": "Call center en Tijuana arranca el año con sueldos de hasta $10,000 semanales",
+      "url": "https://amotijuana.com/call-center-en-tijuana-arranca-el-ano-con-sueldos-de-hasta-10000-semanales/",
+      "published": ""
+    },
+    {
+      "source": "TJ Comunica",
+      "title": "Ataque armado deja a una pareja sin vida; tres menores resultan ilesos",
+      "url": "https://tjcomunica.com/ataque-armado-deja-a-una-pareja-sin-vida-tres-menores-resultan-ilesos/",
+      "published": ""
+    },
+    {
+      "source": "ZETA Tijuana",
+      "title": "De Rusos a Rusos, dos bandas criminales",
+      "url": "https://zetatijuana.com/2026/09/de-rusos-a-rusos-dos-bandas-criminales/?utm_source=rss&utm_medium=rss&utm_campaign=de-rusos-a-rusos-dos-bandas-criminales",
+      "published": "Mon, 14 Sep 2026 20:00:40 +0000"
+    },
+    {
+      "source": "AFN Tijuana",
+      "title": "Empleados de Cultura estatal realizan paro de labores, denuncian \"incumplimientos\"",
+      "url": "https://www.afntijuana.info/informacion_general/181662_empleados_de_cultura_estatal_realizan_paro_de_labores_denuncian_incumplimientos",
+      "published": ""
+    },
+    {
+      "source": "El Mexicano",
+      "title": "Familias tijuanenses disfrutan salas temáticas de El TrompoSociales |14 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Sociales/99416/Familias-tijuanenses-disfrutan-salas-tem%C3%A1ticas-de-El-Trompo",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial (Tijuana)",
+      "title": "Turismo médico en BC: ¿qué tratamientos buscan?",
+      "url": "https://www.elimparcial.com/tij/tijuana/2026/09/14/turismo-medico-en-baja-california-que-tratamientos-buscan/",
+      "published": ""
+    },
+    {
+      "source": "Yo Amo Tijuana",
+      "title": "Aficionados se reunirán en La Cacho para ver la final de la Liga MX",
+      "url": "https://amotijuana.com/aficionados-se-reuniran-en-la-cacho-para-ver-la-final-de-la-liga-mx/",
+      "published": ""
+    },
+    {
+      "source": "TJ Comunica",
+      "title": "‘Carrie’ regresa con una nueva serie de terror en Prime Video",
+      "url": "https://tjcomunica.com/carrie-regresa-con-una-nueva-serie-de-terror-en-prime-video/",
+      "published": ""
+    },
+    {
+      "source": "ZETA Tijuana",
+      "title": "Jireh, bajo fiscalización por los 7.2 mdp que le dio Burgueño",
+      "url": "https://zetatijuana.com/2026/09/jireh-bajo-fiscalizacion-por-los-7-2-mdp-que-le-dio-burgueno/?utm_source=rss&utm_medium=rss&utm_campaign=jireh-bajo-fiscalizacion-por-los-7-2-mdp-que-le-dio-burgueno",
+      "published": "Mon, 14 Sep 2026 20:00:31 +0000"
+    },
+    {
+      "source": "AFN Tijuana",
+      "title": "Todo financiamiento de campaña se reportó, aseguró Marina",
+      "url": "https://www.afntijuana.info/informacion_general/181661_todo_financiamiento_de_campana_se_reporto_aseguro_marina",
+      "published": ""
+    },
+    {
+      "source": "El Mexicano",
+      "title": "Familias tijuanenses disfrutan salas temáticas de El TrompoSociales| lunes 14 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Sociales/99416/Familias-tijuanenses-disfrutan-salas-tem%C3%A1ticas-de-El-Trompo",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial (Tijuana)",
+      "title": "Escuela pública es mejor que privada; Sheinbaum",
+      "url": "https://www.elimparcial.com/mexico/2026/09/14/sheinbaum-afirma-que-la-escuela-publica-es-mejor-que-la-privada-en-mexico-y-destaca-resultados-de-la-prueba-pisa/",
+      "published": ""
+    },
+    {
+      "source": "Yo Amo Tijuana",
+      "title": "El lugar de brunch en la cacho que dará pastel y bebida gratis a los cumpleañeros",
+      "url": "https://amotijuana.com/el-lugar-de-brunch-en-la-cacho-que-dara-pastel-y-bebida-gratis-a-los-cumpleaneros/",
+      "published": ""
+    },
+    {
+      "source": "TJ Comunica",
+      "title": "CEO de Anthropic lanza alerta por el rápido avance de la inteligencia artificial",
+      "url": "https://tjcomunica.com/ceo-de-anthropic-lanza-alerta-por-el-rapido-avance-de-la-inteligencia-artificial/",
+      "published": ""
+    },
+    {
+      "source": "ZETA Tijuana",
+      "title": "Frenan a aspirantes de Morena; “detengan todo tipo de promoción”",
+      "url": "https://zetatijuana.com/2026/09/frenan-a-aspirantes-de-morena-detengan-todo-tipo-de-promocion/?utm_source=rss&utm_medium=rss&utm_campaign=frenan-a-aspirantes-de-morena-detengan-todo-tipo-de-promocion",
+      "published": "Mon, 14 Sep 2026 20:00:23 +0000"
+    },
+    {
+      "source": "AFN Tijuana",
+      "title": "Alejandro Fernández habría dejado plantado a Carín León en The Sphere de Las Vegas",
+      "url": "https://www.afntijuana.info/espectaculos/181660_alejandro_fernandez_habria_dejado_plantado_a_carin_leon_en_the_sphere_de_las_vegas",
+      "published": ""
+    },
+    {
+      "source": "El Mexicano",
+      "title": "Hallaron a 18 personas reportadas como no localizadasPoliciaca |14 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Policiaca/99415/Hallaron-a-18-personas-reportadas-como-no-localizadas",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial (Tijuana)",
+      "title": "Reforma fiscal 2027: así afectaría a las empresas",
+      "url": "https://www.elimparcial.com/tij/tijuana/2026/09/14/reforma-fiscal-2027-limitar-deducciones-afectaria-a-empresas-advierten/",
+      "published": ""
+    },
+    {
+      "source": "Yo Amo Tijuana",
+      "title": "Posadas al estilo picnic con chilaquiles y mimosas: así es la propuesta de este restaurante",
+      "url": "https://amotijuana.com/posadas-al-estilo-picnic-con-chilaquiles-y-mimosas-asi-es-la-propuesta-de-este-restaurante/",
+      "published": ""
+    },
+    {
+      "source": "TJ Comunica",
+      "title": "Eugenio Derbez y Pedro Alonso se enfrentan en ‘El Juicio’, la nueva serie de Prime Video",
+      "url": "https://tjcomunica.com/eugenio-derbez-y-pedro-alonso-se-enfrentan-en-el-juicio-la-nueva-serie-de-prime-video/",
+      "published": ""
+    },
+    {
+      "source": "ZETA Tijuana",
+      "title": "Estado manipula cifras: 28% menos homicidios, 345% más desaparecidos",
+      "url": "https://zetatijuana.com/2026/09/estado-manipula-cifras-28-menos-homicidios-345-mas-desaparecidos/?utm_source=rss&utm_medium=rss&utm_campaign=estado-manipula-cifras-28-menos-homicidios-345-mas-desaparecidos",
+      "published": "Mon, 14 Sep 2026 20:00:23 +0000"
+    },
+    {
+      "source": "AFN Tijuana",
+      "title": "Prevén más de 100 visitantes en la Zona Rosa por fiestas del \"grito de independencia\"",
+      "url": "https://www.afntijuana.info/nacionales/181659_preven_mas_de_100_visitantes_en_la_zona_rosa_por_fiestas_del_grito_de_independencia",
+      "published": ""
+    },
+    {
+      "source": "El Mexicano",
+      "title": "Hallaron a 18 personas reportadas como no localizadasPoliciaca| lunes 14 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Policiaca/99415/Hallaron-a-18-personas-reportadas-como-no-localizadas",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial (Tijuana)",
+      "title": "Sheinbaum defiende nuevos créditos del Infonavit",
+      "url": "https://www.elimparcial.com/mexico/2026/09/14/sheinbaum-defiende-creditos-del-infonavit-y-rechaza-que-sean-irresponsables-explica-como-se-estan-otorgando-y-que-paso-con-los-financiamientos-impagables/",
+      "published": ""
+    },
+    {
+      "source": "Yo Amo Tijuana",
+      "title": "Sueldos de $5,840 a $10,000 semanales en call center de Tijuana",
+      "url": "https://amotijuana.com/sueldos-de-5840-a-10000-semanales-en-call-center-de-tijuana/",
+      "published": ""
+    },
+    {
+      "source": "ZETA Tijuana",
+      "title": "Zona Centro, Tres de Octubre y Revolución: entre las colonias con más despojos de Tijuana",
+      "url": "https://zetatijuana.com/2026/09/zona-centro-tres-de-octubre-y-revolucion-entre-las-colonias-con-mas-despojos-de-tijuana/?utm_source=rss&utm_medium=rss&utm_campaign=zona-centro-tres-de-octubre-y-revolucion-entre-las-colonias-con-mas-despojos-de-tijuana",
+      "published": "Mon, 14 Sep 2026 20:00:21 +0000"
+    },
+    {
+      "source": "AFN Tijuana",
+      "title": "Volcó vehículo de plataforma en canalización del bulevar Casa Blanca",
+      "url": "https://www.afntijuana.info/informacion_general/181658_volco_vehiculo_de_plataforma_en_canalizacion_del_bulevar_casa_blanca",
+      "published": ""
+    },
+    {
+      "source": "El Mexicano",
+      "title": "Sheinbaum reconoce que aún hay espacio para mejorar en educaciónNacional |14 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Nacional/99414/Sheinbaum-reconoce-que-a%C3%BAn-hay-espacio-para-mejorar-en-educaci%C3%B3n",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial (Tijuana)",
+      "title": "Cómo operaba la granja clandestina de Bitcoin en Puebla",
+      "url": "https://www.elimparcial.com/dinero/2026/09/14/como-funciona-una-granja-de-bitcoin-y-de-que-manera-operaba-el-centro-clandestino-clausurado-en-puebla-con-300-tarjetas-de-video-que-robaban-miles-de-kilovatios-a-la-cfe/",
+      "published": ""
+    },
+    {
+      "source": "Yo Amo Tijuana",
+      "title": "El único lugar en Tijuana donde tu posada puede ser con mimosas o con cheve",
+      "url": "https://amotijuana.com/el-unico-lugar-en-tijuana-donde-tu-posada-puede-ser-con-mimosas-o-con-cheve/",
+      "published": ""
+    },
+    {
+      "source": "ZETA Tijuana",
+      "title": "Motociclistas enfrentan hasta 45 minutos de demora tras nuevo carril en San Ysidro",
+      "url": "https://zetatijuana.com/2026/09/motociclistas-enfrentan-hasta-45-minutos-de-demora-tras-nuevo-carril-en-san-ysidro/?utm_source=rss&utm_medium=rss&utm_campaign=motociclistas-enfrentan-hasta-45-minutos-de-demora-tras-nuevo-carril-en-san-ysidro",
+      "published": "Mon, 14 Sep 2026 20:00:20 +0000"
+    },
+    {
+      "source": "AFN Tijuana",
+      "title": "Grito 2026",
+      "url": "https://www.afntijuana.info/cartones/181657_grito_2026",
+      "published": ""
+    },
+    {
+      "source": "El Mexicano",
+      "title": "Sheinbaum reconoce que aún hay espacio para mejorar en educaciónNacional| lunes 14 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Nacional/99414/Sheinbaum-reconoce-que-a%C3%BAn-hay-espacio-para-mejorar-en-educaci%C3%B3n",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial (Tijuana)",
+      "title": "Cancún, Vallarta y Los Cabos pierden turistas",
+      "url": "https://www.elimparcial.com/mexico/2026/09/14/sargazo-superpeso-percepcion-inseguridad-y-falta-de-vuelos-impactan-a-cancun-puerto-vallarta-y-los-cabos-durante-el-verano-con-reduccion-de-hasta-137-de-visitantes-durante-2026/",
+      "published": ""
+    },
+    {
+      "source": "Yo Amo Tijuana",
+      "title": "Restaurante de brunch en la cacho dará pastel y bebida gratis a cumpleañeros",
+      "url": "https://amotijuana.com/restaurante-de-brunch-en-la-cacho-dara-pastel-y-bebida-gratis-a-cumpleaneros/",
       "published": ""
     },
     {
       "source": "AFN Tijuana",
-      "title": "Propone SNTE al ISSSTECALI mejoras a los servicios",
-      "url": "https://www.afntijuana.info/informacion_general/181648_propone_snte_al_issstecali_mejoras_a_los_servicios",
+      "title": "Reanuda Morena designación de coordinadores; BC aún deberá esperar",
+      "url": "https://www.afntijuana.info/nacionales/181656_reanuda_morena_designacion_de_coordinadores_bc_aun_debera_esperar",
       "published": ""
     },
     {
       "source": "El Mexicano",
-      "title": "Colectivos piden un plan de búsqueda en el relleno sanitario GENTijuana |13 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99394/Colectivos-piden-un-plan-de-b%C3%BAsqueda-en-el-relleno-sanitario-GEN",
+      "title": "Hay coordinación por asesinato de joven española en Morelos: CSPNacional |14 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Nacional/99413/Hay-coordinaci%C3%B3n-por-asesinato-de-joven-espa%C3%B1ola-en-Morelos%3A-CSP",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial (Tijuana)",
+      "title": "Microsoft impone reglas éticas a sus modelos de IA MAI",
+      "url": "https://www.elimparcial.com/tecnologia/2026/09/14/bajo-la-direccion-de-mustafa-suleyman-microsoft-impuso-reglas-estrictas-a-la-inteligencia-artificial-para-prohibir-crear-armas-manipular-codigo-y-desobedecer-ordenes-humanas-y-garantizando-el-control-humano/",
       "published": ""
     },
     {
       "source": "AFN Tijuana",
-      "title": "Hace tiempo que espero este momento...",
-      "url": "https://www.afntijuana.info/sociales/181647_hace_tiempo_que_espero_este_momento",
+      "title": "Tini Stoessel habló de depresión en El Salvador: \"A día de hoy sigo con psiquiatra\"",
+      "url": "https://www.afntijuana.info/espectaculos/181655_tini_stoessel_hablo_de_depresion_en_el_salvador_a_dia_de_hoy_sigo_con_psiquiatra",
       "published": ""
     },
     {
       "source": "El Mexicano",
-      "title": "Colectivos piden un plan de búsqueda en el relleno sanitario GENTijuana| domingo 13 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99394/Colectivos-piden-un-plan-de-b%C3%BAsqueda-en-el-relleno-sanitario-GEN",
+      "title": "Hay coordinación por asesinato de joven española en Morelos: CSPNacional| lunes 14 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Nacional/99413/Hay-coordinaci%C3%B3n-por-asesinato-de-joven-espa%C3%B1ola-en-Morelos%3A-CSP",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial (Tijuana)",
+      "title": "Avenida Independencia: cierre parcial hoy en Tijuana",
+      "url": "https://www.elimparcial.com/tij/tijuana/2026/09/14/cierran-parcialmente-avenida-independencia-en-tijuana-por-fiestas-patrias/",
       "published": ""
     },
     {
       "source": "AFN Tijuana",
-      "title": "Habrá cierre de calles por los festejos patrios",
-      "url": "https://www.afntijuana.info/municipios/181646_habra_cierre_de_calles_por_los_festejos_patrios",
+      "title": "Hayden Panettiere habría muerto por una pastilla de oxicodona con fentanilo",
+      "url": "https://www.afntijuana.info/espectaculos/181654_hayden_panettiere_habria_muerto_por_una_pastilla_de_oxicodona_con_fentanilo",
       "published": ""
     },
     {
-      "source": "El Mexicano",
-      "title": "Bicicletas abandonadas en Nevada llegarán a Tijuana, buscan beneficiar a colectivos de búsqueda y albergues migrantesTijuana |13 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99393/Bicicletas-abandonadas-en-Nevada-llegar%C3%A1n-a-Tijuana,-buscan-beneficiar-a-colectivos-de-b%C3%BAsqueda-y-albergues-migrantes",
-      "published": ""
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Lidera BC en la industria de semiconductores",
-      "url": "https://www.afntijuana.info/informacion_general/181645_lidera_bc_en_la_industria_de_semiconductores",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Bicicletas abandonadas en Nevada llegarán a Tijuana, buscan beneficiar a colectivos de búsqueda y albergues migrantesTijuana| domingo 13 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99393/Bicicletas-abandonadas-en-Nevada-llegar%C3%A1n-a-Tijuana,-buscan-beneficiar-a-colectivos-de-b%C3%BAsqueda-y-albergues-migrantes",
+      "source": "El Imparcial (Tijuana)",
+      "title": "Garitas Tijuana: tiempos de espera hoy 14 de septiembre",
+      "url": "https://www.elimparcial.com/tij/tijuana/2026/09/14/fila-para-cruzar-a-estados-unidos-colapsa-vialidades-en-zona-rio-de-tijuana/",
       "published": ""
     },
     {
       "source": "AFN Tijuana",
-      "title": "Promueve ayuntamiento salud comunitaria y cuidado animal",
-      "url": "https://www.afntijuana.info/municipios/181644_promueve_ayuntamiento_salud_comunitaria_y_cuidado_animal",
+      "title": "SONDEA EL TERRENO",
+      "url": "https://www.afntijuana.info/editoriales/181653_sondea_el_terreno",
       "published": ""
     },
     {
       "source": "El Mexicano",
-      "title": "Trump prioriza carrera de IA con China sobre regulaciónThe Border |13 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/The%20Border/99392/Trump-prioriza-carrera-de-IA-con-China-sobre-regulaci%C3%B3n",
+      "title": "Así se encuentra el cruce vehicular en la garita de San Ysidro la mañana de este lunes 14 de septiembreTijuana| lunes 14 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99401/As%C3%AD-se-encuentra-el-cruce-vehicular-en-la-garita-de-San-Ysidro-la-ma%C3%B1ana-de-este-lunes-14-de-septiembre",
+      "published": ""
+    },
+    {
+      "source": "El Imparcial (Tijuana)",
+      "title": "Tendrá Tijuana un respiro de las altas temperaturas esta semana",
+      "url": "https://www.elimparcial.com/tij/tijuana/2026/09/14/tendra-tijuana-un-respiro-de-las-altas-temperaturas-esta-semana/",
+      "published": ""
+    },
+    {
+      "source": "AFN Tijuana",
+      "title": "Presión para finanzas públicas: incorporan a 48,988 trabajadores en servicio social en BC",
+      "url": "https://www.afntijuana.info/empresarial/181652_presion_para_finanzas_publicas_incorporan_a_48_988_trabajadores_en_servicio_social_en_bc",
       "published": ""
     },
     {
       "source": "El Mexicano",
-      "title": "Trump prioriza carrera de IA con China sobre regulaciónThe Border| domingo 13 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/The%20Border/99392/Trump-prioriza-carrera-de-IA-con-China-sobre-regulaci%C3%B3n",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Ambintalista rechaza evento festiva luces de cantoya en MexicaliMexicali| domingo 13 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Mexicali/99383/Ambintalista-rechaza-evento-festiva-luces-de-cantoya-en-Mexicali",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Así se encuentra el cruce vehicular en la garita de San Ysidro la mañana de este domingo 13 de septiembreTijuana| domingo 13 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99380/As%C3%AD-se-encuentra-el-cruce-vehicular-en-la-garita-de-San-Ysidro-la-ma%C3%B1ana-de-este-domingo-13-de-septiembre",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Un domingo soleado se registra en la ciudad de Tijuana.  Clima TijuanaTijuana| domingo 13 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99379/Un-domingo-soleado-se-registra-en-la-ciudad-de-Tijuana.--Clima-Tijuana",
+      "title": "Cotización del dólar para este lunes 14 de septiembreTijuana| lunes 14 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99400/Cotizaci%C3%B3n-del-d%C3%B3lar-para-este-lunes-14-de-septiembre",
       "published": ""
     }
   ]

@@ -1,8 +1,36 @@
 {
   "date": "2026-09-14",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Pareja muere en ataque armado; menores resultan ilesos",
+        "summary": "Enfrentamiento deja dos fallecidos en Tijuana mientras tres menores presenciaban el hecho sin resultar heridos.",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/ataque-armado-deja-a-una-pareja-sin-vida-tres-menores-resultan-ilesos/",
+        "_added_at": "2026-09-14T13:14:04.454048-07:00"
+      },
+      {
+        "title": "Motociclista fallece al chocar contra revolvedora",
+        "summary": "Accidente vial mortal en Vista Al Mar deja motociclista sin vida tras impacto contra maquinaria.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/181663_murio_un_motociclista_al_chocar_contra_revolvedora_de_concreto",
+        "_added_at": "2026-09-14T13:14:04.454048-07:00"
+      },
+      {
+        "title": "Más de 170 muertes por golpe de calor en BC",
+        "summary": "Entre 2022 y 2026, Baja California registra incremento significativo de fallecidos por temperaturas extremas.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/entre-2022-y-2026-mas-de-170-muertes-por-golpe-de-calor-en-bc/?utm_source=rss&utm_medium=rss&utm_campaign=entre-2022-y-2026-mas-de-170-muertes-por-golpe-de-calor-en-bc",
+        "_added_at": "2026-09-14T13:14:04.454048-07:00"
+      },
+      {
+        "title": "Hallan a 18 personas reportadas como desaparecidas",
+        "summary": "Operativo de búsqueda localiza exitosamente a dieciocho personas no localizadas en la región.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/99415/Hallaron-a-18-personas-reportadas-como-no-localizadas",
+        "_added_at": "2026-09-14T13:14:04.454048-07:00"
+      },
       {
         "title": "Colectivos demandan búsqueda organizada en relleno sanitario",
         "summary": "Organizaciones solicitan plan formal de rastreo en relleno GEN de Tijuana para localizar personas desaparecidas.",
@@ -20,6 +48,34 @@
     ],
     "politica": [
       {
+        "title": "Gobernadora defiende a CFE ante reclamos por infraestructura",
+        "summary": "Autoridad estatal responde a ciudadanos que demandan inversión en servicios eléctricos en Mexicali.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/gobernadora-defiende-a-la-cfe-ante-reclamos-ciudadanos-por-falta-de-inversion-en-infraestructura-en-mexicali/?utm_source=rss&utm_medium=rss&utm_campaign=gobernadora-defiende-a-la-cfe-ante-reclamos-ciudadanos-por-falta-de-inversion-en-infraestructura-en-mexicali",
+        "_added_at": "2026-09-14T13:14:04.454048-07:00"
+      },
+      {
+        "title": "Frenan promoción de aspirantes de Morena",
+        "summary": "Autoridades electoral ordena detener toda actividad promocional de candidatos de la coalición gobernante.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/frenan-a-aspirantes-de-morena-detengan-todo-tipo-de-promocion/?utm_source=rss&utm_medium=rss&utm_campaign=frenan-a-aspirantes-de-morena-detengan-todo-tipo-de-promocion",
+        "_added_at": "2026-09-14T13:14:04.454048-07:00"
+      },
+      {
+        "title": "Jireh bajo fiscalización por recursos entregados",
+        "summary": "Organización enfrenta revisión por 7.2 millones de pesos recibidos del administración anterior.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/jireh-bajo-fiscalizacion-por-los-7-2-mdp-que-le-dio-burgueno/?utm_source=rss&utm_medium=rss&utm_campaign=jireh-bajo-fiscalizacion-por-los-7-2-mdp-que-le-dio-burgueno",
+        "_added_at": "2026-09-14T13:14:04.454048-07:00"
+      },
+      {
+        "title": "Empleados de Cultura realizan paro laboral",
+        "summary": "Personal estatal denuncia incumplimientos de autoridades y paraliza actividades en dependencia.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181662_empleados_de_cultura_estatal_realizan_paro_de_labores_denuncian_incumplimientos",
+        "_added_at": "2026-09-14T13:14:04.454048-07:00"
+      },
+      {
         "title": "SNTE propone mejoras servicios de salud al ISSSTECALI",
         "summary": "Sindicato presenta propuesta para mejorar prestaciones sanitarias a derechohabientes en Baja California.",
         "source": "AFN Tijuana",
@@ -35,6 +91,34 @@
       }
     ],
     "economia": [
+      {
+        "title": "Deuda municipal sube 86.9% desde 2018",
+        "summary": "Tijuana incrementa considerablemente su endeudamiento en últimos ocho años de administraciones.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/de-2018-a-2026-deuda-sube-86-9/?utm_source=rss&utm_medium=rss&utm_campaign=de-2018-a-2026-deuda-sube-86-9",
+        "_added_at": "2026-09-14T13:14:04.454048-07:00"
+      },
+      {
+        "title": "82% de fraccionamientos sin entregar al municipio",
+        "summary": "Tijuana retiene sin transferencia la mayoría de desarrollos inmobiliarios incumpliendo obligaciones.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/82-por-ciento-de-fraccionamientos-en-tijuana-no-han-sido-entregados-al-municipio/?utm_source=rss&utm_medium=rss&utm_campaign=82-por-ciento-de-fraccionamientos-en-tijuana-no-han-sido-entregados-al-municipio",
+        "_added_at": "2026-09-14T13:14:04.454048-07:00"
+      },
+      {
+        "title": "Call center ofrece salarios hasta $10 mil semanales",
+        "summary": "Centro de atención telefónica en Tijuana inicia operaciones con remuneraciones competitivas.",
+        "source": "Yo Amo Tijuana",
+        "url": "https://amotijuana.com/call-center-en-tijuana-arranca-el-ano-con-sueldos-de-hasta-10000-semanales/",
+        "_added_at": "2026-09-14T13:14:04.454048-07:00"
+      },
+      {
+        "title": "Reforma fiscal 2027 afectaría a empresas locales",
+        "summary": "Propuesta federal limitaría deducciones fiscales generando preocupación entre sector empresarial.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/14/reforma-fiscal-2027-limitar-deducciones-afectaria-a-empresas-advierten/",
+        "_added_at": "2026-09-14T13:14:04.454048-07:00"
+      },
       {
         "title": "Baja California lidera producción de semiconductores nacional",
         "summary": "Estado se posiciona como principal industria de chips en México, generando oportunidades económicas.",
@@ -52,6 +136,27 @@
     ],
     "sociedad": [
       {
+        "title": "Bicicletas donadas llegaran a Tijuana para migrantes",
+        "summary": "Nevada envía bicicletas abandonadas para beneficiar colectivos de búsqueda y albergues migrantes.",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/bicicletas-abandonadas-en-nevada-llegaran-a-tijuana-buscan-beneficiar-a-colectivos-de-busqueda-y-albergues-migrantes/",
+        "_added_at": "2026-09-14T13:14:04.454048-07:00"
+      },
+      {
+        "title": "Marea baja revela especies marinas en Rosarito",
+        "summary": "Fenómeno oceanográfico deja al descubierto estrellas de mar y otros organismos en playas.",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/marea-baja-deja-al-descubierto-estrellas-de-mar-y-otras-especies-marinas-en-playas-de-rosarito/",
+        "_added_at": "2026-09-14T13:14:04.454048-07:00"
+      },
+      {
+        "title": "Turismo médico crece en Baja California",
+        "summary": "Región atrae visitantes internacionales buscando tratamientos dentales y procedimientos especializados.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/14/turismo-medico-en-baja-california-que-tratamientos-buscan/",
+        "_added_at": "2026-09-14T13:14:04.454048-07:00"
+      },
+      {
         "title": "Bicicletas de Nevada beneficiarán colectivos búsqueda tijuanenses",
         "summary": "Donación de bicicletas abandonadas apoyará a organizaciones de búsqueda y albergues de migrantes.",
         "source": "El Mexicano",
@@ -67,5 +172,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-14T00:58:53.050951-07:00"
+  "last_updated": "2026-09-14T13:14:04.454048-07:00"
 }
