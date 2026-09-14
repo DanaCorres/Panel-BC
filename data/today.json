@@ -1,211 +1,71 @@
 {
-  "date": "2026-09-13",
-  "run_count": 3,
+  "date": "2026-09-14",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Dos jóvenes asesinados fuera de bar en Tecate",
-        "summary": "Balacera afuera de un establecimiento en Tecate deja saldo de dos jóvenes acribillados.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/181639_acribillan_a_dos_jovenes_al_exterior_de_un_bar_en_tecate",
-        "_added_at": "2026-09-13T17:00:48.634556-07:00"
-      },
-      {
-        "title": "Detienen presunto traficante ligado a crimen de policía",
-        "summary": "Capturan a individuo relacionado con homicidio de agente de seguridad en Tijuana.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/181638_detienen_a_presunto_traficante_relacionado_con_el_crimen_de_un_policia",
-        "_added_at": "2026-09-13T17:00:48.634556-07:00"
-      },
-      {
-        "title": "Sentencian a 26 años de prisión por feminicidio en Tijuana",
-        "summary": "Luis Martín condenado a 26 años de cárcel por el asesinato de Tiffany Gabriela.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/26-anos-de-prision-contra-luis-martin-por-feminicidio-de-tiffany-gabriela/?utm_source=rss&utm_medium=rss&utm_campaign=26-anos-de-prision-contra-luis-martin-por-feminicidio-de-tiffany-gabriela",
-        "_added_at": "2026-09-13T11:41:05.321016-07:00"
-      },
-      {
-        "title": "Ataque armado deja dos muertos en Mariano Matamoros",
-        "summary": "Tiroteo en colonia Mariano Matamoros Norte resulta en dos víctimas fatales.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/policiaca/2026/09/13/ataque-armado-deja-dos-hombres-muertos-en-mariano-matamoros-norte/",
-        "_added_at": "2026-09-13T11:41:05.321016-07:00"
-      },
-      {
-        "title": "Asesinato a balazos en Santa Fe mientras conducía",
-        "summary": "Hombre muere baleado dentro de vehículo en zona de Santa Fe de Tijuana.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/policiaca/2026/09/13/hombre-es-asesinado-a-balazos-mientras-conducia-en-santa-fe/",
-        "_added_at": "2026-09-13T11:41:05.321016-07:00"
-      },
-      {
-        "title": "Detienen a seis personas por riña vecinal",
-        "summary": "Autoridades capturan a seis individuos implicados en enfrentamiento entre vecinos.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/181636_detienen_a_seis_por_rina_vecinal",
-        "_added_at": "2026-09-13T11:41:05.321016-07:00"
-      },
-      {
-        "title": "Homicidio en colonia Tres de Octubre de Tijuana",
-        "summary": "Hombre asesinado a balazos en canchas de la zona. Reportado alrededor de las 17:32 horas.",
+        "title": "Colectivos demandan búsqueda organizada en relleno sanitario",
+        "summary": "Organizaciones solicitan plan formal de rastreo en relleno GEN de Tijuana para localizar personas desaparecidas.",
         "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/99366/Hombre-muere-tras-ataque-armado-en-la-colonia-Tres-de-Octubre",
-        "_added_at": "2026-09-13T00:32:08.142496-07:00"
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99394/Colectivos-piden-un-plan-de-b%C3%BAsqueda-en-el-relleno-sanitario-GEN",
+        "_added_at": "2026-09-14T00:58:53.050951-07:00"
+      },
+      {
+        "title": "Advierten peligros festival luces Cantoya en Laguna Salada",
+        "summary": "Autoridades alertan sobre riesgos ambientales y de seguridad del evento de luces en la región.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181650_advierten_riesgos_por_festival_de_luces_de_cantoya_en_la_laguna_salada",
+        "_added_at": "2026-09-14T00:58:53.050951-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Eva Moreno pide mantener unidad con Sheinbaum",
-        "summary": "Gobernadora busca resolver diferencias internas y preservar cohesión dentro del proyecto político.",
+        "title": "SNTE propone mejoras servicios de salud al ISSSTECALI",
+        "summary": "Sindicato presenta propuesta para mejorar prestaciones sanitarias a derechohabientes en Baja California.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181643_pide_eva_moreno_poner_fin_a_diferencias_y_mantener_unidad_con_sheinbaum",
-        "_added_at": "2026-09-13T17:00:48.634556-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/181648_propone_snte_al_issstecali_mejoras_a_los_servicios",
+        "_added_at": "2026-09-14T00:58:53.050951-07:00"
       },
       {
-        "title": "Revocación de visa a gobernadora afecta seguridad: Capella",
-        "summary": "Capella critica que cancelación de visa a gobernadora debilitó esfuerzos de justicia.",
+        "title": "Cierres viales por celebraciones de independencia nacional",
+        "summary": "Autoridades anuncian restricciones de tránsito en Tijuana para festividades patrias próximas.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181633_se_perdio_fuerza_en_seguridad_y_justicia_tras_revocacion_de_visa_a_la_gobernadora_capella",
-        "_added_at": "2026-09-13T11:41:05.321016-07:00"
-      },
-      {
-        "title": "Sheinbaum realiza mitin en avenida Revolución de Tijuana",
-        "summary": "Convocatoria para acto político de la presidenta en zona céntrica de la ciudad.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181626_invitan_a_mitin_con_sheinbaum_en_la_avenida_revolucion_en_tijuana",
-        "_added_at": "2026-09-13T00:32:08.142496-07:00"
-      },
-      {
-        "title": "Filtración política genera debate sobre candidatura estatal",
-        "summary": "Información filtrada a Latinus cuestiona posición de figura política local.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/afn_politico/181624_la_filtracion_a_latinus_irespuesta_por_golpe_a_julieta_ise_fortalece_como_candidata",
-        "_added_at": "2026-09-13T00:32:08.142496-07:00"
+        "url": "https://www.afntijuana.info/municipios/181646_habra_cierre_de_calles_por_los_festejos_patrios",
+        "_added_at": "2026-09-14T00:58:53.050951-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Tijuana invertirá 20 millones en modernizar semáforos",
-        "summary": "Municipio destinará recursos para renovar equipos viales con 20-30 años de antigüedad.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/13/destinaran-20-millones-de-pesos-a-modernizacion-de-semaforos-en-tijuana/",
-        "_added_at": "2026-09-13T17:00:48.634556-07:00"
-      },
-      {
-        "title": "Desarrolladores de vivienda operan con margen de apenas 5%",
-        "summary": "Promotores inmobiliarios de interés social enfrentan márgenes muy bajos en utilidades.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99390/Operan-desarrolladores-de-vivienda-de-inter%C3%A9s-social-con-utilidad-de-apenas-5%25",
-        "_added_at": "2026-09-13T17:00:48.634556-07:00"
-      },
-      {
-        "title": "Maquilas abren vacantes para especialistas en inteligencia artificial",
-        "summary": "Industria maquiladora en Tijuana busca talento para trabajar en proyectos de IA.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/13/maquilas-en-tijuana-buscan-talento-para-la-era-de-la-ia-40-abrira-vacantes/",
-        "_added_at": "2026-09-13T17:00:48.634556-07:00"
-      },
-      {
-        "title": "Baja California fortalece liderazgo en semiconductores",
-        "summary": "Estado consolida posición nacional en industria de semiconductores durante 2026.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/mxl/mexicali/2026/09/13/baja-california-fortalece-su-liderazgo-nacional-en-la-industria-de-semiconductores/",
-        "_added_at": "2026-09-13T17:00:48.634556-07:00"
-      },
-      {
-        "title": "258 mil autos cruzaron BC en fin de semana de Labor Day",
-        "summary": "Alta afluencia vehicular registrada durante celebración estadounidense en frontera.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/258-mil-autos-transitaron-por-bc-durante-fin-de-semana-de-labor-day/?utm_source=rss&utm_medium=rss&utm_campaign=258-mil-autos-transitaron-por-bc-durante-fin-de-semana-de-labor-day",
-        "_added_at": "2026-09-13T11:41:05.321016-07:00"
-      },
-      {
-        "title": "BC registra flujo importante de turismo por Labor Day",
-        "summary": "Baja California experimenta incremento en visitantes estadounidenses durante festivo.",
+        "title": "Baja California lidera producción de semiconductores nacional",
+        "summary": "Estado se posiciona como principal industria de chips en México, generando oportunidades económicas.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181631_registro_bc_alta_afluencia_de_turismo_por_el_labor_day_en_eu",
-        "_added_at": "2026-09-13T11:41:05.321016-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/181645_lidera_bc_en_la_industria_de_semiconductores",
+        "_added_at": "2026-09-14T00:58:53.050951-07:00"
       },
       {
-        "title": "Diputada demanda bancos de tiro en sector construcción",
-        "summary": "Evelyn Sánchez y CMIC piden crear infraestructura en siete municipios de BC.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Estatal/99363/Urge-diputada-Evelyn-S%C3%A1nchez-y-la-CMIC,-la-creaci%C3%B3n-de-los-bancos-de-tiro-de-la-construcci%C3%B3n-en-los-siete-municipios",
-        "_added_at": "2026-09-13T00:32:08.142496-07:00"
-      },
-      {
-        "title": "Baja 400 en Ensenada 2026 atrae 160 equipos internacionales",
-        "summary": "Competencia automovilística confirma participación masiva de pilotos del mundo.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Deportes/99365/M%C3%A1s-de-160-equipos-de-varios-pa%C3%ADses-participan-en-la-Baja-400-en-Ensenada-2026",
-        "_added_at": "2026-09-13T00:32:08.142496-07:00"
+        "title": "Arribo de buque genera expectativa en puerto de Ensenada",
+        "summary": "Embarcación llega para tareas de mantenimiento, impactando actividad portuaria regional.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181649_surge_expectativa_por_arribo_de_buque_para_mantenimiento_en_ensenada",
+        "_added_at": "2026-09-14T00:58:53.050951-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Impulsan emprendimiento de mujeres en Tijuana",
-        "summary": "Iniciativas para fortalecer acceso al negocio y emprendimiento femenino en la ciudad.",
+        "title": "Bicicletas de Nevada beneficiarán colectivos búsqueda tijuanenses",
+        "summary": "Donación de bicicletas abandonadas apoyará a organizaciones de búsqueda y albergues de migrantes.",
         "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99391/Buscan-impulsar-el-emprendimiento-de-mujeres",
-        "_added_at": "2026-09-13T17:00:48.634556-07:00"
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99393/Bicicletas-abandonadas-en-Nevada-llegar%C3%A1n-a-Tijuana,-buscan-beneficiar-a-colectivos-de-b%C3%BAsqueda-y-albergues-migrantes",
+        "_added_at": "2026-09-14T00:58:53.050951-07:00"
       },
       {
-        "title": "Alerta por alta incidencia de Rickettsia en perros",
-        "summary": "Autoridades advierte sobre incremento de infección parasitaria en mascotas durante verano.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99388/Alertan-por-alta-incidencia-de-Rickettsia-en-perros-durante-el-verano",
-        "_added_at": "2026-09-13T17:00:48.634556-07:00"
-      },
-      {
-        "title": "Tijuana requiere triple de árboles para mitigar calor",
-        "summary": "Estudio muestra déficit crítico de cobertura vegetal para enfrentar altas temperaturas.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99387/Se-requieren-el-triple-de-%C3%A1rboles-en-Tijuana-para-mitigar-el-calor",
-        "_added_at": "2026-09-13T17:00:48.634556-07:00"
-      },
-      {
-        "title": "Coepris inspecciona más de 600 clínicas en Baja California",
-        "summary": "Dependencia de salud realiza operativo de verificación a establecimientos privados de atención.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/13/ponen-lupa-a-clinicas-y-consultorios-en-baja-california-suman-mas-de-600-inspecciones/",
-        "_added_at": "2026-09-13T17:00:48.634556-07:00"
-      },
-      {
-        "title": "UABC alcanza cifra histórica en matrícula de posgrado",
-        "summary": "Universidad logra 2,824 alumnos en programas de posgrado tras recuperación pandémica.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/13/repuntan-posgrados-en-uabc-matricula-alcanza-cifra-historica-de-2-mil-824-alumnos/",
-        "_added_at": "2026-09-13T11:41:05.321016-07:00"
-      },
-      {
-        "title": "Tijuana lejos de cifras recomendadas de áreas verdes",
-        "summary": "Estudio señala déficit significativo de espacios verdes en la ciudad.",
+        "title": "Ayuntamiento promueve salud comunitaria y bienestar animal",
+        "summary": "Administración municipal impulsa programas enfocados en cuidado de mascotas y salud pública.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181635_tijuana_esta_lejos_del_promedio_recomendado_de_areas_verdes_ciga",
-        "_added_at": "2026-09-13T11:41:05.321016-07:00"
-      },
-      {
-        "title": "Bomberos rescatan a hombre atrapado en El Sauzal",
-        "summary": "Rescate exitoso de persona en zona de riesgo costero de Ensenada.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/ensenada/2026/09/13/bomberos-rescatan-a-hombre-en-zona-costera-de-riesgo-en-el-sauzal/",
-        "_added_at": "2026-09-13T11:41:05.321016-07:00"
-      },
-      {
-        "title": "Segundo macrosimulacro nacional previsto en Baja California",
-        "summary": "Ejercicio de protección civil con simulación de terremoto de magnitud 7.1.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181625_convocan_al_segundo_macrosimulacro_nacional_con_terremoto_de_magnitud_7_1",
-        "_added_at": "2026-09-13T00:32:08.142496-07:00"
-      },
-      {
-        "title": "Zoológico de parque Morelos dedica altar al oso Yogi",
-        "summary": "Homenaje al animal fallecido en las instalaciones de Tijuana.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181623_dedican_altar_al_oso_yogi_en_el_zoologico_del_parque_morelos",
-        "_added_at": "2026-09-13T00:32:08.142496-07:00"
+        "url": "https://www.afntijuana.info/municipios/181644_promueve_ayuntamiento_salud_comunitaria_y_cuidado_animal",
+        "_added_at": "2026-09-14T00:58:53.050951-07:00"
       }
     ]
   },
-  "last_updated": "2026-09-13T17:00:48.634556-07:00"
+  "last_updated": "2026-09-14T00:58:53.050951-07:00"
 }

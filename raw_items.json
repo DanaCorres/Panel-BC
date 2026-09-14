@@ -1,340 +1,112 @@
 {
-  "generated_at": "2026-09-14T00:00:47.870241+00:00",
+  "generated_at": "2026-09-14T07:58:52.451660+00:00",
   "items": [
     {
-      "source": "ZETA Tijuana",
-      "title": "Isaac Del Toro gana Grand Prix de Mlontreal",
-      "url": "https://zetatijuana.com/2026/09/isaac-del-toro-gana-grand-prix-de-mlontreal/?utm_source=rss&utm_medium=rss&utm_campaign=isaac-del-toro-gana-grand-prix-de-mlontreal",
-      "published": "Sun, 13 Sep 2026 21:30:13 +0000"
-    },
-    {
       "source": "AFN Tijuana",
-      "title": "Pide Eva Moreno poner fin a diferencias y mantener unidad con Sheinbaum",
-      "url": "https://www.afntijuana.info/informacion_general/181643_pide_eva_moreno_poner_fin_a_diferencias_y_mantener_unidad_con_sheinbaum",
+      "title": "Advierten riesgos por festival de luces de Cantoya en la Laguna Salada",
+      "url": "https://www.afntijuana.info/informacion_general/181650_advierten_riesgos_por_festival_de_luces_de_cantoya_en_la_laguna_salada",
       "published": ""
     },
     {
       "source": "El Mexicano",
-      "title": "Buscan impulsar el emprendimiento de mujeresTijuana |13 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99391/Buscan-impulsar-el-emprendimiento-de-mujeres",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Tijuana invertirá 20 millones en nuevos semáforos",
-      "url": "https://www.elimparcial.com/tij/tijuana/2026/09/13/destinaran-20-millones-de-pesos-a-modernizacion-de-semaforos-en-tijuana/",
-      "published": ""
-    },
-    {
-      "source": "TJ Comunica",
-      "title": "Hombre es asesinado a balazos mientras conducía en Santa Fe",
-      "url": "https://tjcomunica.com/hombre-es-asesinado-a-balazos-mientras-conducia-en-santa-fe/",
-      "published": ""
-    },
-    {
-      "source": "ZETA Tijuana",
-      "title": "Matan a dos hombres en el Mariano Matamoros",
-      "url": "https://zetatijuana.com/2026/09/matan-a-dos-hombres-en-el-mariano-matamoros/?utm_source=rss&utm_medium=rss&utm_campaign=matan-a-dos-hombres-en-el-mariano-matamoros",
-      "published": "Sun, 13 Sep 2026 19:11:26 +0000"
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Matan a balazos a un hombre en el Valle de la Trinidad",
-      "url": "https://www.afntijuana.info/seguridad/181642_matan_a_balazos_a_un_hombre_en_el_valle_de_la_trinidad",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Buscan impulsar el emprendimiento de mujeresTijuana| domingo 13 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99391/Buscan-impulsar-el-emprendimiento-de-mujeres",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "El Ayuntamiento contempla adquirir tecnología para reemplazar equipos en las zonas con mayor congestionamiento; alrededor del 75% de los semáforos de la ciudad tiene entre 20 y 30 años de antigüedad.",
-      "url": "https://www.elimparcial.com/tij/tijuana/2026/09/13/destinaran-20-millones-de-pesos-a-modernizacion-de-semaforos-en-tijuana/",
-      "published": ""
-    },
-    {
-      "source": "TJ Comunica",
-      "title": "Hombre muere tras ataque armado en la colonia Tres de Octubre",
-      "url": "https://tjcomunica.com/hombre-muere-tras-ataque-armado-en-la-colonia-tres-de-octubre/",
-      "published": ""
-    },
-    {
-      "source": "ZETA Tijuana",
-      "title": "26 años de prisión contra Luis Martín por feminicidio de Tiffany Gabriela.",
-      "url": "https://zetatijuana.com/2026/09/26-anos-de-prision-contra-luis-martin-por-feminicidio-de-tiffany-gabriela/?utm_source=rss&utm_medium=rss&utm_campaign=26-anos-de-prision-contra-luis-martin-por-feminicidio-de-tiffany-gabriela",
-      "published": "Sun, 13 Sep 2026 17:47:50 +0000"
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Pide Coparmex uso responsable de recursos ante la ola de calor",
-      "url": "https://www.afntijuana.info/informacion_general/181641_pide_coparmex_uso_responsable_de_recursos_ante_la_ola_de_calor",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Operan desarrolladores de vivienda de interés social con utilidad de apenas 5%Tijuana |13 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99390/Operan-desarrolladores-de-vivienda-de-inter%C3%A9s-social-con-utilidad-de-apenas-5%25",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Estrés crónico: señales que afectan el trabajo",
-      "url": "https://www.elimparcial.com/tij/tijuana/2026/09/13/estres-cronico-puede-afectar-desempeno-laboral-estas-son-algunas-senales/",
-      "published": ""
-    },
-    {
-      "source": "TJ Comunica",
-      "title": "Municipal detiene a hombre con arma de fuego y 10 cartuchos en Mariano Matamoros",
-      "url": "https://tjcomunica.com/municipal-detiene-a-hombre-con-arma-de-fuego-y-10-cartuchos-en-mariano-matamoros/",
-      "published": ""
-    },
-    {
-      "source": "ZETA Tijuana",
-      "title": "258 mil autos transitaron por BC durante fin de semana de Labor Day.",
-      "url": "https://zetatijuana.com/2026/09/258-mil-autos-transitaron-por-bc-durante-fin-de-semana-de-labor-day/?utm_source=rss&utm_medium=rss&utm_campaign=258-mil-autos-transitaron-por-bc-durante-fin-de-semana-de-labor-day",
-      "published": "Sun, 13 Sep 2026 17:28:58 +0000"
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Conmemoran aniversario de la Gesta Heroica de los Niños Héroes de Chapultepec",
-      "url": "https://www.afntijuana.info/informacion_general/181640_conmemoran_aniversario_de_la_gesta_heroica_de_los_ninos_heroes_de_chapultepec",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Operan desarrolladores de vivienda de interés social con utilidad de apenas 5%Tijuana| domingo 13 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99390/Operan-desarrolladores-de-vivienda-de-inter%C3%A9s-social-con-utilidad-de-apenas-5%25",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Maquilas en Tijuana abrirán vacantes para trabajar con IA",
-      "url": "https://www.elimparcial.com/tij/tijuana/2026/09/13/maquilas-en-tijuana-buscan-talento-para-la-era-de-la-ia-40-abrira-vacantes/",
-      "published": ""
-    },
-    {
-      "source": "TJ Comunica",
-      "title": "Realiza Gobierno Municipal de Tijuana ‘Kermés, Juventud a la Mexicana’",
-      "url": "https://tjcomunica.com/realiza-gobierno-municipal-de-tijuana-kermes-juventud-a-la-mexicana/",
-      "published": ""
-    },
-    {
-      "source": "ZETA Tijuana",
-      "title": "Piden no usar pirotecnia durante fiestas patrias en Baja California.",
-      "url": "https://zetatijuana.com/2026/09/piden-no-usar-pirotecnia-durante-fiestas-patrias-en-baja-california/?utm_source=rss&utm_medium=rss&utm_campaign=piden-no-usar-pirotecnia-durante-fiestas-patrias-en-baja-california",
-      "published": "Sun, 13 Sep 2026 17:12:48 +0000"
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Acribillan a dos jóvenes al exterior de un bar en Tecate",
-      "url": "https://www.afntijuana.info/seguridad/181639_acribillan_a_dos_jovenes_al_exterior_de_un_bar_en_tecate",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Purificadora de Villa del Real ofrece vasos con agua gratis por intenso calorTijuana |13 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99389/Purificadora-de-Villa-del-Real-ofrece-vasos-con-agua-gratis-por-intenso-calor",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Coepris inspecciona más de 600 clínicas y consultorios en BC",
-      "url": "https://www.elimparcial.com/tij/tijuana/2026/09/13/ponen-lupa-a-clinicas-y-consultorios-en-baja-california-suman-mas-de-600-inspecciones/",
-      "published": ""
-    },
-    {
-      "source": "ZETA Tijuana",
-      "title": "Ahogado el interno",
-      "url": "https://zetatijuana.com/2026/09/ahogado-el-interno/?utm_source=rss&utm_medium=rss&utm_campaign=ahogado-el-interno",
-      "published": "Sun, 13 Sep 2026 16:00:05 +0000"
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Detienen a presunto traficante relacionado con el crimen de un policía",
-      "url": "https://www.afntijuana.info/seguridad/181638_detienen_a_presunto_traficante_relacionado_con_el_crimen_de_un_policia",
-      "published": ""
-    },
-    {
-      "source": "El Mexicano",
-      "title": "Purificadora de Villa del Real ofrece vasos con agua gratis por intenso calorTijuana| domingo 13 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99389/Purificadora-de-Villa-del-Real-ofrece-vasos-con-agua-gratis-por-intenso-calor",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "BC  fortalece su liderazgo nacional en la industria",
-      "url": "https://www.elimparcial.com/mxl/mexicali/2026/09/13/baja-california-fortalece-su-liderazgo-nacional-en-la-industria-de-semiconductores/",
+      "title": "Sorprenden a los ChargersDeportes |13 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Deportes/99395/Sorprenden-a-los-Chargers",
       "published": ""
     },
     {
       "source": "AFN Tijuana",
-      "title": "Vuelven los libros de matemáticas ante el fracaso de México en la prueba PISA",
-      "url": "https://www.afntijuana.info/informacion_general/181637_vuelven_los_libros_de_matematicas_ante_el_fracaso_de_mexico_en_la_prueba_pisa",
+      "title": "Surge expectativa por arribo de buque para mantenimiento en Ensenada",
+      "url": "https://www.afntijuana.info/informacion_general/181649_surge_expectativa_por_arribo_de_buque_para_mantenimiento_en_ensenada",
       "published": ""
     },
     {
       "source": "El Mexicano",
-      "title": "Ataque armado deja dos hombres muertos en Mariano Matamoros NortePoliciaca| domingo 13 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Policiaca/99369/Ataque-armado-deja-dos-hombres-muertos-en-Mariano-Matamoros-Norte",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Familia pide apoyo para repartidor que perdió un brazo",
-      "url": "https://www.elimparcial.com/tij/tijuana/2026/09/13/familia-pide-apoyo-para-trabajador-que-perdio-un-brazo-tras-accidente-en-tijuana/",
+      "title": "Sorprenden a los ChargersDeportes| domingo 13 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Deportes/99395/Sorprenden-a-los-Chargers",
       "published": ""
     },
     {
       "source": "AFN Tijuana",
-      "title": "Detienen a seis por riña vecinal",
-      "url": "https://www.afntijuana.info/seguridad/181636_detienen_a_seis_por_rina_vecinal",
+      "title": "Propone SNTE al ISSSTECALI mejoras a los servicios",
+      "url": "https://www.afntijuana.info/informacion_general/181648_propone_snte_al_issstecali_mejoras_a_los_servicios",
       "published": ""
     },
     {
       "source": "El Mexicano",
-      "title": "Alertan por alta incidencia de Rickettsia en perros durante el veranoTijuana |13 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99388/Alertan-por-alta-incidencia-de-Rickettsia-en-perros-durante-el-verano",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Detienen en Jalisco a operador de envío de drogas a EEUU",
-      "url": "https://www.elimparcial.com/mexico/2026/09/13/detienen-en-zapopan-a-canguro-presunto-operador-ligado-al-chapo-isidro-que-coordinaba-el-trafico-de-metanfetamina-y-fentanilo-hacia-seattle-y-tacoma/",
+      "title": "Colectivos piden un plan de búsqueda en el relleno sanitario GENTijuana |13 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99394/Colectivos-piden-un-plan-de-b%C3%BAsqueda-en-el-relleno-sanitario-GEN",
       "published": ""
     },
     {
       "source": "AFN Tijuana",
-      "title": "Tijuana está lejos del promedio recomendado de áreas verdes: CIGA",
-      "url": "https://www.afntijuana.info/informacion_general/181635_tijuana_esta_lejos_del_promedio_recomendado_de_areas_verdes_ciga",
+      "title": "Hace tiempo que espero este momento...",
+      "url": "https://www.afntijuana.info/sociales/181647_hace_tiempo_que_espero_este_momento",
       "published": ""
     },
     {
       "source": "El Mexicano",
-      "title": "Alertan por alta incidencia de Rickettsia en perros durante el veranoTijuana| domingo 13 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99388/Alertan-por-alta-incidencia-de-Rickettsia-en-perros-durante-el-verano",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Isaac del Toro conquista el GP de Montreal",
-      "url": "https://www.elimparcial.com/deporte/2026/09/13/isaac-del-toro-hace-historia-gana-el-gp-de-montreal-con-un-ataque-demoledor/",
+      "title": "Colectivos piden un plan de búsqueda en el relleno sanitario GENTijuana| domingo 13 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99394/Colectivos-piden-un-plan-de-b%C3%BAsqueda-en-el-relleno-sanitario-GEN",
       "published": ""
     },
     {
       "source": "AFN Tijuana",
-      "title": "Ataque a balazos deja dos muertos en el Mariano Matamoros",
-      "url": "https://www.afntijuana.info/seguridad/181634_ataque_a_balazos_deja_dos_muertos_en_el_mariano_matamoros",
+      "title": "Habrá cierre de calles por los festejos patrios",
+      "url": "https://www.afntijuana.info/municipios/181646_habra_cierre_de_calles_por_los_festejos_patrios",
       "published": ""
     },
     {
       "source": "El Mexicano",
-      "title": "Se requieren el triple de árboles en Tijuana para mitigar el calorTijuana |13 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99387/Se-requieren-el-triple-de-%C3%A1rboles-en-Tijuana-para-mitigar-el-calor",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Baja 400 en Ensenada termina con saldo blanco",
-      "url": "https://www.elimparcial.com/tij/ensenada/2026/09/13/saldo-blanco-tras-operativo-de-seguridad-por-la-baja-400-en-ensenada/",
+      "title": "Bicicletas abandonadas en Nevada llegarán a Tijuana, buscan beneficiar a colectivos de búsqueda y albergues migrantesTijuana |13 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99393/Bicicletas-abandonadas-en-Nevada-llegar%C3%A1n-a-Tijuana,-buscan-beneficiar-a-colectivos-de-b%C3%BAsqueda-y-albergues-migrantes",
       "published": ""
     },
     {
       "source": "AFN Tijuana",
-      "title": "Se perdió fuerza en seguridad y justicia tras revocación de visa a la gobernadora: Capella",
-      "url": "https://www.afntijuana.info/informacion_general/181633_se_perdio_fuerza_en_seguridad_y_justicia_tras_revocacion_de_visa_a_la_gobernadora_capella",
+      "title": "Lidera BC en la industria de semiconductores",
+      "url": "https://www.afntijuana.info/informacion_general/181645_lidera_bc_en_la_industria_de_semiconductores",
       "published": ""
     },
     {
       "source": "El Mexicano",
-      "title": "Se requieren el triple de árboles en Tijuana para mitigar el calorTijuana| domingo 13 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99387/Se-requieren-el-triple-de-%C3%A1rboles-en-Tijuana-para-mitigar-el-calor",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Rusia ataca tren de pasajeros cerca de Polonia",
-      "url": "https://www.elimparcial.com/mundo/2026/09/13/rusia-ataca-con-un-dron-un-tren-de-pasajeros-a-2-kilometros-de-polonia-minutos-despues-de-que-boris-johnson-pasara-por-la-misma-ruta-investigan-si-el-objetivo-era-el-convoy-diplomatico/",
+      "title": "Bicicletas abandonadas en Nevada llegarán a Tijuana, buscan beneficiar a colectivos de búsqueda y albergues migrantesTijuana| domingo 13 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99393/Bicicletas-abandonadas-en-Nevada-llegar%C3%A1n-a-Tijuana,-buscan-beneficiar-a-colectivos-de-b%C3%BAsqueda-y-albergues-migrantes",
       "published": ""
     },
     {
       "source": "AFN Tijuana",
-      "title": "Asesinan a balazos a un automovilista en Santa Fe",
-      "url": "https://www.afntijuana.info/seguridad/181632_asesinan_a_balazos_a_un_automovilista_en_santa_fe",
+      "title": "Promueve ayuntamiento salud comunitaria y cuidado animal",
+      "url": "https://www.afntijuana.info/municipios/181644_promueve_ayuntamiento_salud_comunitaria_y_cuidado_animal",
       "published": ""
     },
     {
       "source": "El Mexicano",
-      "title": "Casa comprada con crédito ya es del comprador aunque siga pagando al banco o a InfonavitTijuana |13 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99386/Casa-comprada-con-cr%C3%A9dito-ya-es-del-comprador-aunque-siga-pagando-al-banco-o-a-Infonavit",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Empresarios buscan quitar la comida tras jornada de 40 horas",
-      "url": "https://www.elimparcial.com/mexico/2026/09/13/empresas-buscan-eliminar-la-media-hora-de-comida-suprimir-los-tiempos-muertos-y-apretar-el-ritmo-de-produccion-diario-para-que-sus-trabajadores-compensen-el-tiempo-perdido-por-la-reduccion-de-la-jornada-laboral-de-48-a-40-horas-en-mexico-aunque-la-lft-lo-prohibe/",
-      "published": ""
-    },
-    {
-      "source": "TJ Comunica",
-      "title": "Habilitan acceso exclusivo para motocicletas en la garita de San Ysidro",
-      "url": "https://tjcomunica.com/habilitan-acceso-exclusivo-para-motocicletas-en-la-garita-de-san-ysidro/",
-      "published": ""
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Registró BC alta afluencia de turismo por el Labor Day en EU",
-      "url": "https://www.afntijuana.info/informacion_general/181631_registro_bc_alta_afluencia_de_turismo_por_el_labor_day_en_eu",
+      "title": "Trump prioriza carrera de IA con China sobre regulaciónThe Border |13 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/The%20Border/99392/Trump-prioriza-carrera-de-IA-con-China-sobre-regulaci%C3%B3n",
       "published": ""
     },
     {
       "source": "El Mexicano",
-      "title": "Casa comprada con crédito ya es del comprador aunque siga pagando al banco o a InfonavitTijuana| domingo 13 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99386/Casa-comprada-con-cr%C3%A9dito-ya-es-del-comprador-aunque-siga-pagando-al-banco-o-a-Infonavit",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Trump rechaza frenar la IA pese a alertas de Anthropic",
-      "url": "https://www.elimparcial.com/tecnologia/2026/09/13/trump-rechaza-frenar-la-inteligencia-artificial-pese-a-las-advertencias-de-anthropic-mientras-sam-altman-y-elon-musk-respaldan-bajar-el-ritmo-ante-riesgos-de-ciberataques-y-una-carrera-cada-vez-mas-tensa-con-china/",
-      "published": ""
-    },
-    {
-      "source": "TJ Comunica",
-      "title": "Con el mes de septiembre inician las ventas de los artículos patrios",
-      "url": "https://tjcomunica.com/con-el-mes-de-septiembre-inician-las-ventas-de-los-articulos-patrios/",
-      "published": ""
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "Plaza Cívica con Fernando Núñez - 13 de septiembre",
-      "url": "https://www.afntijuana.info/editoriales/181630_plaza_civica_con_fernando_nunez_13_de_septiembre",
+      "title": "Trump prioriza carrera de IA con China sobre regulaciónThe Border| domingo 13 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/The%20Border/99392/Trump-prioriza-carrera-de-IA-con-China-sobre-regulaci%C3%B3n",
       "published": ""
     },
     {
       "source": "El Mexicano",
-      "title": "Homicidios de abogados reflejan vulnerabilidad ante sistema judicial saturado: Rivera MillánMexicali| domingo 13 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Mexicali/99375/Homicidios-de-abogados-reflejan-vulnerabilidad-ante-sistema-judicial-saturado%3A-Rivera-Mill%C3%A1n",
-      "published": ""
-    },
-    {
-      "source": "El Imparcial (Tijuana)",
-      "title": "Capacitan a marinos para rescates en mal tiempo en Ensenada",
-      "url": "https://www.elimparcial.com/tij/ensenada/2026/09/13/capacitan-a-personal-naval-para-operar-embarcaciones-de-rescate-en-ensenada/",
-      "published": ""
-    },
-    {
-      "source": "AFN Tijuana",
-      "title": "PRIVATIZAR LOS SERVICIOS PÚBLICOS, EL GRAN NEGOCIO",
-      "url": "https://www.afntijuana.info/editoriales/181629_privatizar_los_servicios_publicos_el_gran_negocio",
+      "title": "Ambintalista rechaza evento festiva luces de cantoya en MexicaliMexicali| domingo 13 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Mexicali/99383/Ambintalista-rechaza-evento-festiva-luces-de-cantoya-en-Mexicali",
       "published": ""
     },
     {
       "source": "El Mexicano",
-      "title": "Impulsa sader BC mejoramiento genético del ganado bovinoMexicali| domingo 13 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Mexicali/99374/Impulsa-sader-BC-mejoramiento-gen%C3%A9tico-del-ganado-bovino",
+      "title": "Así se encuentra el cruce vehicular en la garita de San Ysidro la mañana de este domingo 13 de septiembreTijuana| domingo 13 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99380/As%C3%AD-se-encuentra-el-cruce-vehicular-en-la-garita-de-San-Ysidro-la-ma%C3%B1ana-de-este-domingo-13-de-septiembre",
+      "published": ""
+    },
+    {
+      "source": "El Mexicano",
+      "title": "Un domingo soleado se registra en la ciudad de Tijuana.  Clima TijuanaTijuana| domingo 13 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99379/Un-domingo-soleado-se-registra-en-la-ciudad-de-Tijuana.--Clima-Tijuana",
       "published": ""
     }
   ]
