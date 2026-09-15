@@ -1,8 +1,36 @@
 {
   "date": "2026-09-15",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Dos detenidos por homicidio de abogado Narciso Alemán",
+        "summary": "Dos presuntos implicados en el asesinato del abogado enfrentan prisión preventiva en Tijuana.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/en-prision-preventiva-dos-presuntos-implicados-en-homicidio-del-abogado-narciso-aleman/?utm_source=rss&utm_medium=rss&utm_campaign=en-prision-preventiva-dos-presuntos-implicados-en-homicidio-del-abogado-narciso-aleman",
+        "_added_at": "2026-09-15T12:37:00.150247-07:00"
+      },
+      {
+        "title": "Homicidio en Mexicali tras ataque armado",
+        "summary": "Hallan sin vida a un hombre tras ser atacado por armas de fuego en Mexicali.",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/hallan-sin-vida-a-hombre-tras-ataque-armado-en-mexicali/",
+        "_added_at": "2026-09-15T12:37:00.150247-07:00"
+      },
+      {
+        "title": "Joven asesinado en Lomas del Porvenir",
+        "summary": "Joven muere tras recibir ataque armado en zona de Lomas del Porvenir en Tijuana.",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/joven-muere-tras-ataque-armado-en-lomas-del-porvenir/",
+        "_added_at": "2026-09-15T12:37:00.150247-07:00"
+      },
+      {
+        "title": "FEDABO pide botón de auxilio para abogados en BC",
+        "summary": "Federación propone sistema de alarma para proteger la vida de profesionales legales.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181713_fedabo_propone_boton_de_auxilio_para_proteger_la_vida_de_abogados_en_bc",
+        "_added_at": "2026-09-15T12:37:00.150247-07:00"
+      },
       {
         "title": "Joven asesinado a balazos en Lomas del Porvenir",
         "summary": "Homicidio registrado en zona residencial de Tijuana. Víctima recibió múltiples disparos.",
@@ -19,6 +47,20 @@
       }
     ],
     "politica": [
+      {
+        "title": "JUFED rechaza rotación sorpresiva de 43 juzgadores federales",
+        "summary": "Asociación de jueces califica como arbitraria decisión de reasignación de magistrados.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/jufed-califica-de-arbitraria-la-rotacion-sorpresiva-de-43-juzgadores-federales/?utm_source=rss&utm_medium=rss&utm_campaign=jufed-califica-de-arbitraria-la-rotacion-sorpresiva-de-43-juzgadores-federales",
+        "_added_at": "2026-09-15T12:37:00.150247-07:00"
+      },
+      {
+        "title": "Adelantan destape para candidato entre Burgueño y Julieta",
+        "summary": "Anticipan anuncio de candidato para próxima elección en Baja California.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/afn_politico/181708_adelantan_destape_y_dicen_que_esta_entre_burgueno_y_julieta",
+        "_added_at": "2026-09-15T12:37:00.150247-07:00"
+      },
       {
         "title": "Morena anuncia coordinador de 4T en Baja California",
         "summary": "Partido anunciará este martes al nuevo coordinador de administración en la entidad.",
@@ -43,6 +85,20 @@
     ],
     "economia": [
       {
+        "title": "CESPT regulariza más de 7 mil cuentas en Tijuana",
+        "summary": "Organismo regulariza más de siete mil servicios de agua en Tijuana y Rosarito.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181712_regulariza_la_cespt_mas_de_7_mil_cuentas_en_tijuana_y_rosarito",
+        "_added_at": "2026-09-15T12:37:00.150247-07:00"
+      },
+      {
+        "title": "Transportistas bloquean IMOS por ruta Santa Fe-UABC",
+        "summary": "Conflicto laboral entre operadores por autorización de nueva empresa en concesión.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/15/altisa-bloquea-imos-por-autorizacion-de-nueva-empresa-en-ruta-santa-fe-uabc/",
+        "_added_at": "2026-09-15T12:37:00.150247-07:00"
+      },
+      {
         "title": "Telnor despide 200 trabajadores sindicalizados",
         "summary": "Empresa de telecomunicaciones realiza despidos sin justificación en Tijuana.",
         "source": "El Mexicano",
@@ -51,6 +107,27 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Taxi cae a barranco en bulevar 2000, varios heridos",
+        "summary": "Fuerte accidente vehicular deja múltiples lesionados en Tijuana.",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/fuerte-accidente-deja-varios-heridos-en-el-bulevar-2000-taxi-cae-a-un-barranco/",
+        "_added_at": "2026-09-15T12:37:00.150247-07:00"
+      },
+      {
+        "title": "Recomendaciones de seguridad para fiestas patrias en BC",
+        "summary": "Autoridades piden precauciones al disfrutar festividades de independencia.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181706_piden_tomar_precauciones_para_disfrutar_seguros_de_estas_festividades_en_bc",
+        "_added_at": "2026-09-15T12:37:00.150247-07:00"
+      },
+      {
+        "title": "Cierres viales en Tijuana por Grito de Independencia",
+        "summary": "Avenida Independencia cierra para preparar ceremonia de conmemoración nacional.",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/15/cierran-avenida-independencia-para-preparar-el-grito-de-independencia-en-tijuana/",
+        "_added_at": "2026-09-15T12:37:00.150247-07:00"
+      },
       {
         "title": "Padres rechazan fusión de turnos en escuela",
         "summary": "Comunidad educativa de Mexicali se opone a cambios administrativos en institución.",
@@ -67,5 +144,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-15T00:53:58.810550-07:00"
+  "last_updated": "2026-09-15T12:37:00.150247-07:00"
 }
