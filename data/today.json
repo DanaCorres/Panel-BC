@@ -1,260 +1,71 @@
 {
-  "date": "2026-09-14",
-  "run_count": 3,
+  "date": "2026-09-15",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Funcionaria acusada de tráfico cruzaba frontera semanalmente",
-        "summary": "Autoridades detienen a funcionaria vinculada con actividades ilícitas que realizaba cruces frecuentes en la frontera.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/funcionaria-traficante-cruzaba-cada-semana/?utm_source=rss&utm_medium=rss&utm_campaign=funcionaria-traficante-cruzaba-cada-semana",
-        "_added_at": "2026-09-14T17:25:19.118232-07:00"
-      },
-      {
-        "title": "Detienen dos sospechosos por muerte de abogado",
-        "summary": "Autoridades capturan a dos personas acusadas del homicidio de un abogado retirado en Tijuana.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/policiaca/2026/09/14/detienen-a-dos-por-presunto-homicidio-de-abogado-retirado-en-tijuana/",
-        "_added_at": "2026-09-14T17:25:19.118232-07:00"
-      },
-      {
-        "title": "Motociclista muere en choque contra revolvedora",
-        "summary": "Accidente fatal ocurre cuando motociclista impacta vehículo de construcción en Vista Al Mar.",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/muere-motociclista-tras-choque-contra-revolvedora-en-vista-al-mar/",
-        "_added_at": "2026-09-14T17:25:19.118232-07:00"
-      },
-      {
-        "title": "Pareja muere en ataque armado; menores resultan ilesos",
-        "summary": "Enfrentamiento deja dos fallecidos en Tijuana mientras tres menores presenciaban el hecho sin resultar heridos.",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/ataque-armado-deja-a-una-pareja-sin-vida-tres-menores-resultan-ilesos/",
-        "_added_at": "2026-09-14T13:14:04.454048-07:00"
-      },
-      {
-        "title": "Motociclista fallece al chocar contra revolvedora",
-        "summary": "Accidente vial mortal en Vista Al Mar deja motociclista sin vida tras impacto contra maquinaria.",
+        "title": "Joven asesinado a balazos en Lomas del Porvenir",
+        "summary": "Homicidio registrado en zona residencial de Tijuana. Víctima recibió múltiples disparos.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/181663_murio_un_motociclista_al_chocar_contra_revolvedora_de_concreto",
-        "_added_at": "2026-09-14T13:14:04.454048-07:00"
+        "url": "https://www.afntijuana.info/seguridad/181688_asesinan_a_balazos_a_un_joven_en_el_infonavit_lomas_del_porvenir",
+        "_added_at": "2026-09-15T00:53:58.810550-07:00"
       },
       {
-        "title": "Más de 170 muertes por golpe de calor en BC",
-        "summary": "Entre 2022 y 2026, Baja California registra incremento significativo de fallecidos por temperaturas extremas.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/entre-2022-y-2026-mas-de-170-muertes-por-golpe-de-calor-en-bc/?utm_source=rss&utm_medium=rss&utm_campaign=entre-2022-y-2026-mas-de-170-muertes-por-golpe-de-calor-en-bc",
-        "_added_at": "2026-09-14T13:14:04.454048-07:00"
-      },
-      {
-        "title": "Hallan a 18 personas reportadas como desaparecidas",
-        "summary": "Operativo de búsqueda localiza exitosamente a dieciocho personas no localizadas en la región.",
+        "title": "Jinete sufre accidente grave en Rosarito",
+        "summary": "Incidente en rodeo cuestiona protocolos de seguridad en evento. Víctima en condición grave.",
         "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/99415/Hallaron-a-18-personas-reportadas-como-no-localizadas",
-        "_added_at": "2026-09-14T13:14:04.454048-07:00"
-      },
-      {
-        "title": "Colectivos demandan búsqueda organizada en relleno sanitario",
-        "summary": "Organizaciones solicitan plan formal de rastreo en relleno GEN de Tijuana para localizar personas desaparecidas.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99394/Colectivos-piden-un-plan-de-b%C3%BAsqueda-en-el-relleno-sanitario-GEN",
-        "_added_at": "2026-09-14T00:58:53.050951-07:00"
-      },
-      {
-        "title": "Advierten peligros festival luces Cantoya en Laguna Salada",
-        "summary": "Autoridades alertan sobre riesgos ambientales y de seguridad del evento de luces en la región.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181650_advierten_riesgos_por_festival_de_luces_de_cantoya_en_la_laguna_salada",
-        "_added_at": "2026-09-14T00:58:53.050951-07:00"
+        "url": "https://el-mexicano.com.mx/Noticia/Rosarito/99444/Jinete-grave-tras-accidente-en-%E2%80%9CRodeo-de-la-Patria%E2%80%9D-pone-bajo-escrutinio-los-protocolos-de-emergencia-en-Lienzo-Charro-de-Rosarito",
+        "_added_at": "2026-09-15T00:53:58.810550-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Abelina López critica designación de Beatriz Mojica en Morena",
-        "summary": "Dirigente cuestiona procesos internos del partido y rechaza decisión sobre candidatura de Mojica.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/cuestiona-abelina-lopez-el-proceso-interno-de-morena-y-arremete-contra-la-designacion-de-beatriz-mojica/?utm_source=rss&utm_medium=rss&utm_campaign=cuestiona-abelina-lopez-el-proceso-interno-de-morena-y-arremete-contra-la-designacion-de-beatriz-mojica",
-        "_added_at": "2026-09-14T17:25:19.118232-07:00"
-      },
-      {
-        "title": "Nueva manifestación contra Alma Delia Ábrego Ceballos",
-        "summary": "Continúan protestas contra funcionaria estatal con demandas de transparencia.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/otra-manifestacion-contra-alma-delia-abrego-ceballos/?utm_source=rss&utm_medium=rss&utm_campaign=otra-manifestacion-contra-alma-delia-abrego-ceballos",
-        "_added_at": "2026-09-14T17:25:19.118232-07:00"
-      },
-      {
-        "title": "Reforma constitucional sobre injerencia extranjera genera críticas",
-        "summary": "Jueza en retiro advierte ambigüedad en nueva normativa sin precisar alcances legales.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/14/advierten-ambiguedad-en-reforma-constitucional-sobre-injerencia-extranjera/",
-        "_added_at": "2026-09-14T17:25:19.118232-07:00"
-      },
-      {
-        "title": "Gobernadora defiende a CFE ante reclamos por infraestructura",
-        "summary": "Autoridad estatal responde a ciudadanos que demandan inversión en servicios eléctricos en Mexicali.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/gobernadora-defiende-a-la-cfe-ante-reclamos-ciudadanos-por-falta-de-inversion-en-infraestructura-en-mexicali/?utm_source=rss&utm_medium=rss&utm_campaign=gobernadora-defiende-a-la-cfe-ante-reclamos-ciudadanos-por-falta-de-inversion-en-infraestructura-en-mexicali",
-        "_added_at": "2026-09-14T13:14:04.454048-07:00"
-      },
-      {
-        "title": "Frenan promoción de aspirantes de Morena",
-        "summary": "Autoridades electoral ordena detener toda actividad promocional de candidatos de la coalición gobernante.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/frenan-a-aspirantes-de-morena-detengan-todo-tipo-de-promocion/?utm_source=rss&utm_medium=rss&utm_campaign=frenan-a-aspirantes-de-morena-detengan-todo-tipo-de-promocion",
-        "_added_at": "2026-09-14T13:14:04.454048-07:00"
-      },
-      {
-        "title": "Jireh bajo fiscalización por recursos entregados",
-        "summary": "Organización enfrenta revisión por 7.2 millones de pesos recibidos del administración anterior.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/jireh-bajo-fiscalizacion-por-los-7-2-mdp-que-le-dio-burgueno/?utm_source=rss&utm_medium=rss&utm_campaign=jireh-bajo-fiscalizacion-por-los-7-2-mdp-que-le-dio-burgueno",
-        "_added_at": "2026-09-14T13:14:04.454048-07:00"
-      },
-      {
-        "title": "Empleados de Cultura realizan paro laboral",
-        "summary": "Personal estatal denuncia incumplimientos de autoridades y paraliza actividades en dependencia.",
+        "title": "Morena anuncia coordinador de 4T en Baja California",
+        "summary": "Partido anunciará este martes al nuevo coordinador de administración en la entidad.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181662_empleados_de_cultura_estatal_realizan_paro_de_labores_denuncian_incumplimientos",
-        "_added_at": "2026-09-14T13:14:04.454048-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/181684_confirma_morena_que_este_martes_anunciara_a_su_coordinador_en_baja_california",
+        "_added_at": "2026-09-15T00:53:58.810550-07:00"
       },
       {
-        "title": "SNTE propone mejoras servicios de salud al ISSSTECALI",
-        "summary": "Sindicato presenta propuesta para mejorar prestaciones sanitarias a derechohabientes en Baja California.",
+        "title": "Orden de aprehensión contra Amilcar Olán",
+        "summary": "Revelan existencia de orden judicial en contra del exfuncionario estatal.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181648_propone_snte_al_issstecali_mejoras_a_los_servicios",
-        "_added_at": "2026-09-14T00:58:53.050951-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/181685_revelan_que_habria_orden_de_aprehension_contra_amilcar_olan",
+        "_added_at": "2026-09-15T00:53:58.810550-07:00"
       },
       {
-        "title": "Cierres viales por celebraciones de independencia nacional",
-        "summary": "Autoridades anuncian restricciones de tránsito en Tijuana para festividades patrias próximas.",
+        "title": "Cabildo aprueba transferencia del SITT al IMOS",
+        "summary": "Sesión legislativa autoriza traspaso de sistema de transporte a instituto municipal.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/municipios/181646_habra_cierre_de_calles_por_los_festejos_patrios",
-        "_added_at": "2026-09-14T00:58:53.050951-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/181686_aprobo_cabildo_transferir_el_sitt_al_imos",
+        "_added_at": "2026-09-15T00:53:58.810550-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Reforma al ISR asfixiará empresas en 2027: Contadores",
-        "summary": "Colegio de Contadores advierte que cambios tributarios causarán grave impacto financiero a negocios.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/reforma-a-ley-de-isr-asfixiara-a-empresas-en-2027-colegio-de-contadores-de-baja-california/?utm_source=rss&utm_medium=rss&utm_campaign=reforma-a-ley-de-isr-asfixiara-a-empresas-en-2027-colegio-de-contadores-de-baja-california",
-        "_added_at": "2026-09-14T17:25:19.118232-07:00"
-      },
-      {
-        "title": "Telnor despide a más de 200 trabajadores sindicalizados",
-        "summary": "Empleados denuncian despidos injustificados masivos en la empresa de telecomunicaciones.",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/trabajadores-de-telnor-denuncian-despido-injustificado-de-mas-de-200-sindicalizados/",
-        "_added_at": "2026-09-14T17:25:19.118232-07:00"
-      },
-      {
-        "title": "Comerciantes esperan mayor afluencia por Fiestas Patrias",
-        "summary": "Negocios turísticos de Tijuana prevén aumento en ventas durante celebraciones de septiembre.",
+        "title": "Telnor despide 200 trabajadores sindicalizados",
+        "summary": "Empresa de telecomunicaciones realiza despidos sin justificación en Tijuana.",
         "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99438/Comerciantes-de-la-zona-tur%C3%ADstica-de-Tijuana-esperan-mayor-afluencia-por-Fiestas-Patrias",
-        "_added_at": "2026-09-14T17:25:19.118232-07:00"
-      },
-      {
-        "title": "Deuda municipal sube 86.9% desde 2018",
-        "summary": "Tijuana incrementa considerablemente su endeudamiento en últimos ocho años de administraciones.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/de-2018-a-2026-deuda-sube-86-9/?utm_source=rss&utm_medium=rss&utm_campaign=de-2018-a-2026-deuda-sube-86-9",
-        "_added_at": "2026-09-14T13:14:04.454048-07:00"
-      },
-      {
-        "title": "82% de fraccionamientos sin entregar al municipio",
-        "summary": "Tijuana retiene sin transferencia la mayoría de desarrollos inmobiliarios incumpliendo obligaciones.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/82-por-ciento-de-fraccionamientos-en-tijuana-no-han-sido-entregados-al-municipio/?utm_source=rss&utm_medium=rss&utm_campaign=82-por-ciento-de-fraccionamientos-en-tijuana-no-han-sido-entregados-al-municipio",
-        "_added_at": "2026-09-14T13:14:04.454048-07:00"
-      },
-      {
-        "title": "Call center ofrece salarios hasta $10 mil semanales",
-        "summary": "Centro de atención telefónica en Tijuana inicia operaciones con remuneraciones competitivas.",
-        "source": "Yo Amo Tijuana",
-        "url": "https://amotijuana.com/call-center-en-tijuana-arranca-el-ano-con-sueldos-de-hasta-10000-semanales/",
-        "_added_at": "2026-09-14T13:14:04.454048-07:00"
-      },
-      {
-        "title": "Reforma fiscal 2027 afectaría a empresas locales",
-        "summary": "Propuesta federal limitaría deducciones fiscales generando preocupación entre sector empresarial.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/14/reforma-fiscal-2027-limitar-deducciones-afectaria-a-empresas-advierten/",
-        "_added_at": "2026-09-14T13:14:04.454048-07:00"
-      },
-      {
-        "title": "Baja California lidera producción de semiconductores nacional",
-        "summary": "Estado se posiciona como principal industria de chips en México, generando oportunidades económicas.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181645_lidera_bc_en_la_industria_de_semiconductores",
-        "_added_at": "2026-09-14T00:58:53.050951-07:00"
-      },
-      {
-        "title": "Arribo de buque genera expectativa en puerto de Ensenada",
-        "summary": "Embarcación llega para tareas de mantenimiento, impactando actividad portuaria regional.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181649_surge_expectativa_por_arribo_de_buque_para_mantenimiento_en_ensenada",
-        "_added_at": "2026-09-14T00:58:53.050951-07:00"
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99431/Trabajadores-de-Telnor-denuncian-despido-injustificado-de-m%C3%A1s-de-200-sindicalizados",
+        "_added_at": "2026-09-15T00:53:58.810550-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Trabajadores del Poder Judicial piden igualdad salarial",
-        "summary": "Personal estatal protesta demandando aumentos uniformes en remuneraciones para todos los niveles.",
+        "title": "Padres rechazan fusión de turnos en escuela",
+        "summary": "Comunidad educativa de Mexicali se opone a cambios administrativos en institución.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181680_protestan_trabajadores_del_poder_judicial_del_estado_piden_igualdad_en_aumento_salarial",
-        "_added_at": "2026-09-14T17:25:19.118232-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/181687_padres_de_familia_piden_no_fusionar_turnos_en_escuela_de_mexicali",
+        "_added_at": "2026-09-15T00:53:58.810550-07:00"
       },
       {
-        "title": "Mujeres enfrentan obstáculos para formalizar negocios",
-        "summary": "Emprendedoras tijuanenses carecen de información y apoyo para registrar formalmente sus empresas.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/14/falta-de-informacion-dificulta-formalizacion-de-negocios-de-mujeres/",
-        "_added_at": "2026-09-14T17:25:19.118232-07:00"
-      },
-      {
-        "title": "Registran ciento ochenta y uno atenciones por suicidio laboral",
-        "summary": "Trabajadores de Tijuana reciben apoyo psicológico tras intentos o pensamientos suicidas.",
+        "title": "Rifa benéfica para víctima de incendio",
+        "summary": "Comunidad en Tijuana organiza evento solidario para ayudar a Karime tras siniestro.",
         "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99434/Registran-181-atenciones-por-atentos-y-pensamientos-suicidas-entre-trabajadores",
-        "_added_at": "2026-09-14T17:25:19.118232-07:00"
-      },
-      {
-        "title": "Bicicletas donadas llegaran a Tijuana para migrantes",
-        "summary": "Nevada envía bicicletas abandonadas para beneficiar colectivos de búsqueda y albergues migrantes.",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/bicicletas-abandonadas-en-nevada-llegaran-a-tijuana-buscan-beneficiar-a-colectivos-de-busqueda-y-albergues-migrantes/",
-        "_added_at": "2026-09-14T13:14:04.454048-07:00"
-      },
-      {
-        "title": "Marea baja revela especies marinas en Rosarito",
-        "summary": "Fenómeno oceanográfico deja al descubierto estrellas de mar y otros organismos en playas.",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/marea-baja-deja-al-descubierto-estrellas-de-mar-y-otras-especies-marinas-en-playas-de-rosarito/",
-        "_added_at": "2026-09-14T13:14:04.454048-07:00"
-      },
-      {
-        "title": "Turismo médico crece en Baja California",
-        "summary": "Región atrae visitantes internacionales buscando tratamientos dentales y procedimientos especializados.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/14/turismo-medico-en-baja-california-que-tratamientos-buscan/",
-        "_added_at": "2026-09-14T13:14:04.454048-07:00"
-      },
-      {
-        "title": "Bicicletas de Nevada beneficiarán colectivos búsqueda tijuanenses",
-        "summary": "Donación de bicicletas abandonadas apoyará a organizaciones de búsqueda y albergues de migrantes.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99393/Bicicletas-abandonadas-en-Nevada-llegar%C3%A1n-a-Tijuana,-buscan-beneficiar-a-colectivos-de-b%C3%BAsqueda-y-albergues-migrantes",
-        "_added_at": "2026-09-14T00:58:53.050951-07:00"
-      },
-      {
-        "title": "Ayuntamiento promueve salud comunitaria y bienestar animal",
-        "summary": "Administración municipal impulsa programas enfocados en cuidado de mascotas y salud pública.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/municipios/181644_promueve_ayuntamiento_salud_comunitaria_y_cuidado_animal",
-        "_added_at": "2026-09-14T00:58:53.050951-07:00"
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99442/Realizan-rifa-con-causa-busca-ayudar-a-Karime-tras-incendio",
+        "_added_at": "2026-09-15T00:53:58.810550-07:00"
       }
     ]
   },
-  "last_updated": "2026-09-14T17:25:19.118232-07:00"
+  "last_updated": "2026-09-15T00:53:58.810550-07:00"
 }
