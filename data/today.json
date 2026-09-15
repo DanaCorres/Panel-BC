@@ -1,8 +1,29 @@
 {
   "date": "2026-09-14",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Funcionaria acusada de tráfico cruzaba frontera semanalmente",
+        "summary": "Autoridades detienen a funcionaria vinculada con actividades ilícitas que realizaba cruces frecuentes en la frontera.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/funcionaria-traficante-cruzaba-cada-semana/?utm_source=rss&utm_medium=rss&utm_campaign=funcionaria-traficante-cruzaba-cada-semana",
+        "_added_at": "2026-09-14T17:25:19.118232-07:00"
+      },
+      {
+        "title": "Detienen dos sospechosos por muerte de abogado",
+        "summary": "Autoridades capturan a dos personas acusadas del homicidio de un abogado retirado en Tijuana.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/policiaca/2026/09/14/detienen-a-dos-por-presunto-homicidio-de-abogado-retirado-en-tijuana/",
+        "_added_at": "2026-09-14T17:25:19.118232-07:00"
+      },
+      {
+        "title": "Motociclista muere en choque contra revolvedora",
+        "summary": "Accidente fatal ocurre cuando motociclista impacta vehículo de construcción en Vista Al Mar.",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/muere-motociclista-tras-choque-contra-revolvedora-en-vista-al-mar/",
+        "_added_at": "2026-09-14T17:25:19.118232-07:00"
+      },
       {
         "title": "Pareja muere en ataque armado; menores resultan ilesos",
         "summary": "Enfrentamiento deja dos fallecidos en Tijuana mientras tres menores presenciaban el hecho sin resultar heridos.",
@@ -48,6 +69,27 @@
     ],
     "politica": [
       {
+        "title": "Abelina López critica designación de Beatriz Mojica en Morena",
+        "summary": "Dirigente cuestiona procesos internos del partido y rechaza decisión sobre candidatura de Mojica.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/cuestiona-abelina-lopez-el-proceso-interno-de-morena-y-arremete-contra-la-designacion-de-beatriz-mojica/?utm_source=rss&utm_medium=rss&utm_campaign=cuestiona-abelina-lopez-el-proceso-interno-de-morena-y-arremete-contra-la-designacion-de-beatriz-mojica",
+        "_added_at": "2026-09-14T17:25:19.118232-07:00"
+      },
+      {
+        "title": "Nueva manifestación contra Alma Delia Ábrego Ceballos",
+        "summary": "Continúan protestas contra funcionaria estatal con demandas de transparencia.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/otra-manifestacion-contra-alma-delia-abrego-ceballos/?utm_source=rss&utm_medium=rss&utm_campaign=otra-manifestacion-contra-alma-delia-abrego-ceballos",
+        "_added_at": "2026-09-14T17:25:19.118232-07:00"
+      },
+      {
+        "title": "Reforma constitucional sobre injerencia extranjera genera críticas",
+        "summary": "Jueza en retiro advierte ambigüedad en nueva normativa sin precisar alcances legales.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/14/advierten-ambiguedad-en-reforma-constitucional-sobre-injerencia-extranjera/",
+        "_added_at": "2026-09-14T17:25:19.118232-07:00"
+      },
+      {
         "title": "Gobernadora defiende a CFE ante reclamos por infraestructura",
         "summary": "Autoridad estatal responde a ciudadanos que demandan inversión en servicios eléctricos en Mexicali.",
         "source": "ZETA Tijuana",
@@ -91,6 +133,27 @@
       }
     ],
     "economia": [
+      {
+        "title": "Reforma al ISR asfixiará empresas en 2027: Contadores",
+        "summary": "Colegio de Contadores advierte que cambios tributarios causarán grave impacto financiero a negocios.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/reforma-a-ley-de-isr-asfixiara-a-empresas-en-2027-colegio-de-contadores-de-baja-california/?utm_source=rss&utm_medium=rss&utm_campaign=reforma-a-ley-de-isr-asfixiara-a-empresas-en-2027-colegio-de-contadores-de-baja-california",
+        "_added_at": "2026-09-14T17:25:19.118232-07:00"
+      },
+      {
+        "title": "Telnor despide a más de 200 trabajadores sindicalizados",
+        "summary": "Empleados denuncian despidos injustificados masivos en la empresa de telecomunicaciones.",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/trabajadores-de-telnor-denuncian-despido-injustificado-de-mas-de-200-sindicalizados/",
+        "_added_at": "2026-09-14T17:25:19.118232-07:00"
+      },
+      {
+        "title": "Comerciantes esperan mayor afluencia por Fiestas Patrias",
+        "summary": "Negocios turísticos de Tijuana prevén aumento en ventas durante celebraciones de septiembre.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99438/Comerciantes-de-la-zona-tur%C3%ADstica-de-Tijuana-esperan-mayor-afluencia-por-Fiestas-Patrias",
+        "_added_at": "2026-09-14T17:25:19.118232-07:00"
+      },
       {
         "title": "Deuda municipal sube 86.9% desde 2018",
         "summary": "Tijuana incrementa considerablemente su endeudamiento en últimos ocho años de administraciones.",
@@ -136,6 +199,27 @@
     ],
     "sociedad": [
       {
+        "title": "Trabajadores del Poder Judicial piden igualdad salarial",
+        "summary": "Personal estatal protesta demandando aumentos uniformes en remuneraciones para todos los niveles.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181680_protestan_trabajadores_del_poder_judicial_del_estado_piden_igualdad_en_aumento_salarial",
+        "_added_at": "2026-09-14T17:25:19.118232-07:00"
+      },
+      {
+        "title": "Mujeres enfrentan obstáculos para formalizar negocios",
+        "summary": "Emprendedoras tijuanenses carecen de información y apoyo para registrar formalmente sus empresas.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/14/falta-de-informacion-dificulta-formalizacion-de-negocios-de-mujeres/",
+        "_added_at": "2026-09-14T17:25:19.118232-07:00"
+      },
+      {
+        "title": "Registran ciento ochenta y uno atenciones por suicidio laboral",
+        "summary": "Trabajadores de Tijuana reciben apoyo psicológico tras intentos o pensamientos suicidas.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99434/Registran-181-atenciones-por-atentos-y-pensamientos-suicidas-entre-trabajadores",
+        "_added_at": "2026-09-14T17:25:19.118232-07:00"
+      },
+      {
         "title": "Bicicletas donadas llegaran a Tijuana para migrantes",
         "summary": "Nevada envía bicicletas abandonadas para beneficiar colectivos de búsqueda y albergues migrantes.",
         "source": "TJ Comunica",
@@ -172,5 +256,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-14T13:14:04.454048-07:00"
+  "last_updated": "2026-09-14T17:25:19.118232-07:00"
 }
