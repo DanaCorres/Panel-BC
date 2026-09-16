@@ -1,9 +1,59 @@
 {
   "date": "2026-09-16",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
-    "seguridad": [],
+    "seguridad": [
+      {
+        "title": "Trump exige detener funcionarios vinculados con cárteles",
+        "summary": "Presidente estadounidense demanda investigación y captura de servidores públicos mexicanos que protejan a organizaciones delictivas.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/exige-trump-a-mexico-investigar-y-detener-a-funcionarios-vinculados-con-carteles/?utm_source=rss&utm_medium=rss&utm_campaign=exige-trump-a-mexico-investigar-y-detener-a-funcionarios-vinculados-con-carteles",
+        "_added_at": "2026-09-16T12:28:19.190143-07:00"
+      },
+      {
+        "title": "Capturan al Ciego, objetivo de Los Rusos en Tijuana",
+        "summary": "Autoridades recapturan a integrante de organización criminal perseguido por rival gang en la ciudad.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/harfuchs-fesc-y-semar-recapturan-al-ciego-objetivo-de-los-rusos/?utm_source=rss&utm_medium=rss&utm_campaign=harfuchs-fesc-y-semar-recapturan-al-ciego-objetivo-de-los-rusos",
+        "_added_at": "2026-09-16T12:28:19.190143-07:00"
+      },
+      {
+        "title": "Operan montachoques en vías de Tijuana",
+        "summary": "Delincuentes actúan en la vía rápida y bulevar Insurgentes provocando choques vehiculares deliberados.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181754_operan_montachoques_en_tijuana_usan_la_via_rapida_y_el_bulevar_insurgentes",
+        "_added_at": "2026-09-16T12:28:19.190143-07:00"
+      },
+      {
+        "title": "Incendio en Sierra de Juárez afecta 80 hectáreas",
+        "summary": "Bosque de pino se consume en zona de Ensenada por siniestro que moviliza autoridades forestales.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/ensenada/2026/09/16/incendio-afecta-80-hectareas-de-bosque-de-pino-en-la-sierra-de-juarez/",
+        "_added_at": "2026-09-16T12:28:19.190143-07:00"
+      }
+    ],
     "politica": [
+      {
+        "title": "Rubio destaca cooperación bilateral en mensaje por Independencia",
+        "summary": "Funcionario estadounidense señala nueva etapa de relación con México durante conmemoración patria.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/nacionales/181757_destaca_rubio_nueva_etapa_de_cooperacion_con_mexico_en_mensaje_por_independencia",
+        "_added_at": "2026-09-16T12:28:19.190143-07:00"
+      },
+      {
+        "title": "Burgueño se reintegrará a alcaldía en cualquier momento",
+        "summary": "Abdiel Gutiérrez anuncia pronto retorno de alcalde a sus funciones sin confirmar fecha.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181753_burgueno_se_reintegrara_a_la_alcaldia_en_cualquier_momento_dice_abdiel",
+        "_added_at": "2026-09-16T12:28:19.190143-07:00"
+      },
+      {
+        "title": "Osuna acusa a Morena de extorsión y crimen organizado",
+        "summary": "Opositor critica al partido en el poder señalándolo por prácticas de corrupción y represión.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/morena-es-una-organizacion-criminal-osuna-acusa-regimen-de-extorsion/?utm_source=rss&utm_medium=rss&utm_campaign=morena-es-una-organizacion-criminal-osuna-acusa-regimen-de-extorsion",
+        "_added_at": "2026-09-16T12:28:19.190143-07:00"
+      },
       {
         "title": "Julieta Ramírez enfrenta críticas por designación como coordinadora",
         "summary": "PAN y PRI cuestionan nombramiento de Ramírez; PRI mantiene denuncias en pie contra ella.",
@@ -28,6 +78,20 @@
     ],
     "economia": [
       {
+        "title": "Cotización del dólar para miércoles 16 de septiembre",
+        "summary": "Actualización de cambio de divisa estadounidense en mercado de Tijuana.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99492/Cotizaci%C3%B3n-del-d%C3%B3lar-para-este-mi%C3%A9rcoles-16-de-septiembre",
+        "_added_at": "2026-09-16T12:28:19.190143-07:00"
+      },
+      {
+        "title": "Autos chinos fabricarán en plantas mexicanas existentes",
+        "summary": "Armadoras asiáticas producirán localmente aprovechando infraestructura para competir en precio.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/mexico/2026/09/16/ante-la-saturacion-de-importaciones-y-la-presion-arancelaria-diversas-armadoras-de-autos-chinos-se-estan-preparando-para-iniciar-su-produccion-local-en-mexico-mediante-alianzas-estrategicas-y-el-aprovechamiento-de-infraestructura-ya-establecida-ofreciendo-precios-mas-competitivos-en-el-mercado-nacional/",
+        "_added_at": "2026-09-16T12:28:19.190143-07:00"
+      },
+      {
         "title": "Gilvaja cuestiona gasto en espectáculos frente a necesidades",
         "summary": "Funcionario critica asignación presupuestaria en eventos sobre prioridades sociales.",
         "source": "AFN Tijuana",
@@ -36,6 +100,27 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "500 bicicletas de Burning Man llegan a Tijuana",
+        "summary": "Donativo beneficiará a familias de desaparecidos durante foro mundial de ciclismo.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/16/las-bicicletas-que-quedaron-abandonadas-tras-burning-man-cruzaran-a-tijuana-para-apoyar-a-familias-de-personas-desaparecidas/",
+        "_added_at": "2026-09-16T12:28:19.190143-07:00"
+      },
+      {
+        "title": "Fiestas patrias generan saldo blanco en Tijuana",
+        "summary": "Celebraciones del 16 de septiembre transcurren sin incidentes graves según reporte sanitario.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/16/saldo-blanco-en-festejos-del-15-de-septiembre-en-tijuana-atienden-a-tres-personas/",
+        "_added_at": "2026-09-16T12:28:19.190143-07:00"
+      },
+      {
+        "title": "Migrantes reconectan emocionalmente con El Grito en Tijuana",
+        "summary": "Población migrante participa en conmemoración de Independencia recuperando raíces mexicanas.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/les-reconecta-vivir-el-grito-a-los-migrantes-en-tijuana/?utm_source=rss&utm_medium=rss&utm_campaign=les-reconecta-vivir-el-grito-a-los-migrantes-en-tijuana",
+        "_added_at": "2026-09-16T12:28:19.190143-07:00"
+      },
       {
         "title": "Miles celebran Independencia en Tijuana y Ensenada",
         "summary": "Participación masiva en ceremonias del Grito en dos municipios de Baja California.",
@@ -66,5 +151,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-16T00:46:58.095915-07:00"
+  "last_updated": "2026-09-16T12:28:19.190143-07:00"
 }
