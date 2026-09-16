@@ -1,8 +1,36 @@
 {
   "date": "2026-09-15",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Violencia deja cuatro muertos en distintos puntos de Tijuana",
+        "summary": "Cuatro personas perdieron la vida en hechos violentos registrados en diferentes zonas de la ciudad.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/violencia-deja-cuatro-personas-sin-vida-en-distintos-puntos-de-tijuana/?utm_source=rss&utm_medium=rss&utm_campaign=violencia-deja-cuatro-personas-sin-vida-en-distintos-puntos-de-tijuana",
+        "_added_at": "2026-09-15T17:04:41.399209-07:00"
+      },
+      {
+        "title": "Policías sospechosos de desaparición forzada en Maneadero",
+        "summary": "Autoridades investigan la posible participación de elementos policiales en caso de desaparición.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/policias-sospechosos-de-desaparicion-forzada-en-maneadero/?utm_source=rss&utm_medium=rss&utm_campaign=policias-sospechosos-de-desaparicion-forzada-en-maneadero",
+        "_added_at": "2026-09-15T17:04:41.399209-07:00"
+      },
+      {
+        "title": "La Paz se consolida como epicentro de desapariciones",
+        "summary": "Municipio registra alta incidencia de casos de personas desaparecidas.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/la-paz-epicentro-de-desapariciones/?utm_source=rss&utm_medium=rss&utm_campaign=la-paz-epicentro-de-desapariciones",
+        "_added_at": "2026-09-15T17:04:41.399209-07:00"
+      },
+      {
+        "title": "Homicidio en Mexicali tras ataque armado",
+        "summary": "Un hombre fue asesinado a balazos en la colonia Alianza para la Producción.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/asesinan-a-balazos-a-un-hombre-en-la-colonia-alianza-para-la-produccion-en-mexicali/?utm_source=rss&utm_medium=rss&utm_campaign=asesinan-a-balazos-a-un-hombre-en-la-colonia-alianza-para-la-produccion-en-mexicali",
+        "_added_at": "2026-09-15T17:04:41.399209-07:00"
+      },
       {
         "title": "Dos detenidos por homicidio de abogado Narciso Alemán",
         "summary": "Dos presuntos implicados en el asesinato del abogado enfrentan prisión preventiva en Tijuana.",
@@ -48,6 +76,13 @@
     ],
     "politica": [
       {
+        "title": "Julieta Ramírez designada coordinadora de Morena en BC",
+        "summary": "Morena confirma a Julieta Ramírez como coordinadora estatal de transformación para proceso electoral.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/nombran-a-julieta-ramirez-coordinadora-de-morena-en-bc/?utm_source=rss&utm_medium=rss&utm_campaign=nombran-a-julieta-ramirez-coordinadora-de-morena-en-bc",
+        "_added_at": "2026-09-15T17:04:41.399209-07:00"
+      },
+      {
         "title": "JUFED rechaza rotación sorpresiva de 43 juzgadores federales",
         "summary": "Asociación de jueces califica como arbitraria decisión de reasignación de magistrados.",
         "source": "ZETA Tijuana",
@@ -85,6 +120,27 @@
     ],
     "economia": [
       {
+        "title": "Tijuana retrocede diez lugares en competitividad urbana",
+        "summary": "Evaluación del IMCO muestra descenso significativo de la ciudad en índice competitivo.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99475/Retrocede-Tijuana-10-lugares-en-competitividad-urbana-seg%C3%BAn-evaluaci%C3%B3n-del-IMCO",
+        "_added_at": "2026-09-15T17:04:41.399209-07:00"
+      },
+      {
+        "title": "Ganaderos de BC pierden hasta 50% del hato por sequía",
+        "summary": "Productores no logran recuperarse de impacto de sequía prolongada en región.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/productores-no-se-recuperan-de-sequia-caida-de-hasta-el-50-por-ciento-en-el-hato-ganadero/?utm_source=rss&utm_medium=rss&utm_campaign=productores-no-se-recuperan-de-sequia-caida-de-hasta-el-50-por-ciento-en-el-hato-ganadero",
+        "_added_at": "2026-09-15T17:04:41.399209-07:00"
+      },
+      {
+        "title": "Ofertan más de mil vacantes de empleo para universitarios",
+        "summary": "Bolsa laboral abre oportunidades para profesionales recién egresados.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181724_ofertaron_mas_de_mil_vacantes_de_empleo_para_universitarios",
+        "_added_at": "2026-09-15T17:04:41.399209-07:00"
+      },
+      {
         "title": "CESPT regulariza más de 7 mil cuentas en Tijuana",
         "summary": "Organismo regulariza más de siete mil servicios de agua en Tijuana y Rosarito.",
         "source": "AFN Tijuana",
@@ -107,6 +163,34 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Universidad Rosario Castellanos de Mexicali próxima a conclusión",
+        "summary": "Diputada informa que proyecto educativo se completará en aproximadamente un año.",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181725_preven_concluir_en_un_ano_la_universidad_rosario_castellanos_de_mexicali_diputada",
+        "_added_at": "2026-09-15T17:04:41.399209-07:00"
+      },
+      {
+        "title": "Nueva ruta conecta estudiantes de Santa Fe con universidades",
+        "summary": "IMOS habilita transporte para facilitar acceso de alumnos a UABC y TEC Tijuana.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99476/IMOS-habilita-ruta-para-conectar-a-estudiantes-y-docentes-de-Santa-Fe-con-UABC-y-TEC",
+        "_added_at": "2026-09-15T17:04:41.399209-07:00"
+      },
+      {
+        "title": "Padres denuncian fallas eléctricas en primaria de La Paz",
+        "summary": "Comunidad señala problemas de infraestructura como discriminación educativa.",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/padres-denuncian-fallas-electricas-en-primaria-de-la-paz-es-discriminacion-educativa/?utm_source=rss&utm_medium=rss&utm_campaign=padres-denuncian-fallas-electricas-en-primaria-de-la-paz-es-discriminacion-educativa",
+        "_added_at": "2026-09-15T17:04:41.399209-07:00"
+      },
+      {
+        "title": "28 casas en Lomas de la Presa esperan muro de contención",
+        "summary": "Viviendas afectadas por deslizamientos llevan más de cinco años sin protección.",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/15/llevan-mas-de-cinco-anos-esperando-un-muro-28-viviendas-de-tijuana-siguen-afectadas-por-un-deslizamiento-de-tierra/",
+        "_added_at": "2026-09-15T17:04:41.399209-07:00"
+      },
       {
         "title": "Taxi cae a barranco en bulevar 2000, varios heridos",
         "summary": "Fuerte accidente vehicular deja múltiples lesionados en Tijuana.",
@@ -144,5 +228,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-15T12:37:00.150247-07:00"
+  "last_updated": "2026-09-15T17:04:41.399209-07:00"
 }
