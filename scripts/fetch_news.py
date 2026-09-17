@@ -33,7 +33,17 @@ import feedparser
 import requests
 from bs4 import BeautifulSoup
 
-HEADERS = {"User-Agent": "Mozilla/5.0 (panel-bc-bot; +https://github.com/)"}
+# Un User-Agent que se anuncia como bot lo rechazan varios de estos medios
+# (Cloudflare), y GitHub Actions ya corre desde IPs de datacenter, que de por sí
+# son sospechosas. Los headers de un navegador real son lo que usa cualquier
+# lector de RSS; aquí solo se leen titulares públicos.
+HEADERS = {
+    "User-Agent": ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+                   "AppleWebKit/537.36 (KHTML, like Gecko) "
+                   "Chrome/122.0.0.0 Safari/537.36"),
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "es-MX,es;q=0.9,en;q=0.8",
+}
 
 # --------------------------------------------------------------------------
 # Fuentes
@@ -144,7 +154,7 @@ def leer_feed(url, nombre):
     """Lee un feed y devuelve sus entradas. Lista vacía si no sirve."""
     items = []
     try:
-        feed = feedparser.parse(url)
+        feed = feedparser.parse(url, agent=HEADERS["User-Agent"])
         # feedparser no truena con HTML: simplemente no trae entries. Eso es
         # exactamente lo que pasaba con elvigia.net/rss/ (una página, no un feed).
         for entry in feed.entries[:MAX_PER_SOURCE]:
