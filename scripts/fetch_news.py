@@ -60,14 +60,14 @@ SOURCES = [
      "feeds": ["https://afntijuana.info/rss.php"], "zona": "Tijuana"},
 
     # --- Ensenada, RSS confirmado ---
-    # OJO: elvigia.net/rss/ es la página que LISTA los feeds, no un feed.
-    # Estos son los feeds reales por sección.
-    {"name": "El Vigía (Ensenada)", "url": "https://www.elvigia.net/",
-     "feeds": [
-         "https://www.elvigia.net/rss/feed.html?r=77",   # General
-         "https://www.elvigia.net/rss/feed.html?r=91",   # El Valle
-         "https://www.elvigia.net/rss/feed.html?r=3",    # 911 / policiaca
-     ],
+    # El sitio web de El Vigía quedó FUERA: devuelve 403 desde GitHub Actions
+    # tanto en sus feeds como en el home. El bloqueo es por IP de datacenter
+    # (probado con User-Agent de bot y de navegador: mismo resultado), no se
+    # arregla con headers. Se usa en su lugar el canal de YouTube, cuyos
+    # títulos sí son titulares reales. Vienen también videos de pronóstico del
+    # clima: el prompt de curación los descarta.
+    {"name": "El Vigía (YouTube)", "url": "https://www.youtube.com/@PeriodicoElVigia",
+     "feeds": ["https://www.youtube.com/feeds/videos.xml?channel_id=UCIN8fNpieOt_gCE1sKyUylA"],
      "zona": "Ensenada"},
 
     # --- Ensenada, RSS por descubrir (casi todos WordPress) ---
@@ -77,10 +77,9 @@ SOURCES = [
     {"name": "Argumento Noticias", "url": "http://argumentonoticias.com/", "zona": "Ensenada"},
     {"name": "E1 Noticias (EnsenadaUno)", "url": "https://www.ensenadaunonoticias.info/",
      "zona": "Ensenada"},
-    # Sin RSS: sitio PHP viejo. Se scrapea la sección de noticias, NO el home
-    # (el home mezcla clasificados).
-    {"name": "Ensenada.net", "url": "https://ensenada.net/noticias/",
-     "scrape_only": True, "zona": "Ensenada"},
+    # Ensenada.net FUERA: 403 por IP de datacenter, igual que El Vigía y Canal 66.
+    # {"name": "Ensenada.net", "url": "https://ensenada.net/noticias/",
+    #  "scrape_only": True, "zona": "Ensenada"},
     {"name": "El Imparcial (Ensenada)", "url": "https://www.elimparcial.com/tij/ensenada/",
      "scrape_only": True, "zona": "Ensenada"},
     {"name": "Milenio (Ensenada)", "url": "https://www.milenio.com/temas/ensenada",
@@ -104,7 +103,8 @@ SOURCES = [
      "url": "https://www.tvaztecabajacalifornia.com/policiaca/",
      "scrape_only": True, "zona": "Baja California"},
     {"name": "Yo Amo Tijuana", "url": "https://amotijuana.com/", "zona": "Tijuana"},
-    {"name": "Canal 66", "url": "https://canal66.tv/", "zona": "Tijuana"},
+    # Canal 66 FUERA: 403 por IP de datacenter.
+    # {"name": "Canal 66", "url": "https://canal66.tv/", "zona": "Tijuana"},
     {"name": "TJ Comunica", "url": "https://tjcomunica.com/", "zona": "Tijuana"},
 ]
 
@@ -317,13 +317,27 @@ def fecha_de_url(url):
 
 
 def fecha_de_rss(publicado):
-    """Fecha del campo published de un feed."""
+    """Fecha del campo published de un feed.
+
+    Acepta los dos formatos que aparecen en la práctica:
+    - RSS clásico / RFC 2822: "Wed, 17 Sep 2026 08:51:00 -0700"
+    - Atom / ISO 8601:        "2026-09-17T08:51:00-07:00"  (YouTube usa este)
+    """
     if not publicado:
         return None
+
     try:
         t = parsedate_to_datetime(publicado)
         return t.astimezone(LOCAL_TZ).date()
     except (TypeError, ValueError):
+        pass
+
+    try:
+        t = datetime.fromisoformat(publicado.replace("Z", "+00:00"))
+        if t.tzinfo is None:
+            return t.date()
+        return t.astimezone(LOCAL_TZ).date()
+    except (TypeError, ValueError, AttributeError):
         return None
 
 
