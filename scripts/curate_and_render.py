@@ -3,11 +3,11 @@ Toma raw_items.json (salida de fetch_news.py), le pide a Claude que elija
 las notas más relevantes por categoría y las resuma en sus propias palabras
 (nunca copiar texto textual, por derechos de autor).
 
-A diferencia de una versión anterior, ESTE script ACUMULA las notas del día
-en data/today.json en vez de sobrescribirlas en cada corrida -- así, aunque
-solo revises el panel una o dos veces al día, ves todo lo relevante que pasó,
-no solo el último snapshot de hace 3 horas. El acumulado se reinicia solo
-cuando cambia el día (hora de Baja California).
+Este script ACUMULA las notas del día en data/today.json en vez de
+sobrescribirlas en cada corrida -- así, aunque solo revises el panel una o
+dos veces al día, ves todo lo relevante que pasó, no solo el último
+snapshot. El acumulado se reinicia solo cuando cambia el día (hora de
+Baja California).
 
 Requiere la variable de entorno ANTHROPIC_API_KEY (se configura como
 "secret" en GitHub, ver README).
@@ -25,46 +25,89 @@ MODEL = "claude-haiku-4-5-20251001"  # rápido y barato, suficiente para curar t
 
 LOCAL_TZ = ZoneInfo("America/Tijuana")  # UTC-7/UTC-8 según horario de verano
 
-MAX_ITEMS_TO_CURATE = 40       # titulares que se le mandan a Claude por corrida
-MAX_NEW_PER_CATEGORY = 4       # notas nuevas que Claude puede elegir por corrida
-MAX_ACCUMULATED_PER_CATEGORY = 10  # tope de notas acumuladas por categoría en el día
+# Con ~23 fuentes, 40 titulares dejaba fuera a la mayoría de los medios.
+# 180 cubre casi todo lo recolectado y sigue siendo baratísimo con Haiku:
+# son unos pocos miles de tokens de entrada por corrida.
+MAX_ITEMS_TO_CURATE = 180
+
+# Para llegar a 10-15 acumuladas por categoría hay que subir los dos topes.
+# 8 nuevas por corrida x 3 corridas = hasta 24 candidatas al día por categoría,
+# que el tope de acumulado recorta a 15.
+MAX_NEW_PER_CATEGORY = 8
+MAX_ACCUMULATED_PER_CATEGORY = 15
+
+# 5 categorías x 8 notas x (título + resumen) ya no cabe en 4096.
+MAX_OUTPUT_TOKENS = 8192
 
 DATA_FILE = "data/today.json"
 
-CATEGORIES = ["seguridad", "politica", "economia", "sociedad"]
+CATEGORIES = ["seguridad", "politica", "economia", "eventos", "sociedad"]
 CATEGORY_LABELS = {
     "seguridad": "Seguridad",
     "politica": "Política y gobierno",
     "economia": "Economía",
-    "sociedad": "Sociedad, cultura y deportes",
+    "eventos": "Eventos y cultura",
+    "sociedad": "Sociedad y deportes",
 }
 CATEGORY_COLORS = {
     "seguridad": "var(--seguridad)",
     "politica": "var(--politica)",
     "economia": "var(--economia)",
+    "eventos": "var(--eventos)",
     "sociedad": "var(--sociedad)",
 }
 
 SYSTEM_PROMPT = f"""Eres un editor de noticias para un panel enfocado en Baja California, México.
-Se te da una lista de titulares recientes tomados de medios locales (con su fuente y URL).
-Tu trabajo:
-1. Quédate solo con las notas relevantes para Baja California (Tijuana, Mexicali, Ensenada,
-   Tecate, Rosarito, San Quintín). Descarta notas genéricas de espectáculos/deportes internacionales
-   que no tengan relación con el estado.
-2. Clasifica cada nota elegida en una de estas categorías: seguridad, politica, economia, sociedad.
-3. Elige como máximo {MAX_NEW_PER_CATEGORY} notas por categoría, priorizando lo más importante
-   e impactante del momento.
-4. Para cada nota, escribe un título MUY corto (máx 12 palabras) y un resumen MUY breve
-   (máx 20 palabras), ambos EN TUS PROPIAS PALABRAS -- nunca copies el titular original tal cual
-   ni frases textuales de la fuente. Sé conciso: es más importante que el JSON quede completo
-   que dar detalle.
-5. IMPORTANTE sobre el formato: responde ÚNICAMENTE con JSON válido, sin texto adicional, sin
-   bloques de markdown (nada de ```). Si un título o resumen necesita usar comillas dobles,
-   escápalas como \\" para no romper el JSON. No uses saltos de línea dentro de los valores de
-   texto. Estructura exacta:
+Se te da una lista de titulares recientes tomados de medios locales (con su fuente, zona y URL).
 
-{{"seguridad": [{{"title": "...", "summary": "...", "source": "...", "url": "..."}}],
- "politica": [...], "economia": [...], "sociedad": [...]}}
+PRIORIDAD EDITORIAL: lo que más importa es política/gobierno y seguridad en
+Ensenada, Tijuana y el estado. Economía, eventos/cultura y sociedad son
+secundarios pero sí interesan.
+
+Tu trabajo:
+
+1. Quédate solo con las notas relevantes para Baja California (Tijuana, Mexicali,
+   Ensenada, Tecate, Rosarito, San Quintín). Descarta:
+   - Notas nacionales o internacionales sin relación con el estado.
+   - Espectáculos, virales, horóscopos, curiosidades.
+   - CLIMA y pronósticos del tiempo: no van en este panel, descártalos siempre.
+
+2. Clasifica cada nota elegida en una de estas categorías:
+   - seguridad: violencia, delito, operativos, fiscalía, política de seguridad.
+     IMPORTANTE: prefiere lo que tenga implicación institucional o muestre un
+     patrón (cifras, denuncias, decisiones de autoridad, casos con seguimiento)
+     sobre el hecho aislado de nota roja (un choque, un detenido cualquiera, un
+     asegurado con droga). Varios de estos medios publican mucho incidente
+     suelto; no llenes la categoría con eso. Si un hecho aislado es realmente
+     grande, sí va.
+   - politica: gobierno, cabildo, congreso, partidos, elecciones, funcionarios,
+     presupuesto público, conflictos entre poderes.
+   - economia: empleo, inversión, industria, comercio, turismo con cifras.
+   - eventos: eventos, cultura, festivales, convocatorias, agenda de la ciudad.
+   - sociedad: comunidad, educación, salud pública, servicios, deportes locales.
+
+3. Elige como máximo {MAX_NEW_PER_CATEGORY} notas por categoría, priorizando lo
+   más importante e impactante del momento. Si hay poco material bueno en una
+   categoría, elige menos: mejor pocas notas fuertes que rellenar.
+
+4. No repitas la misma noticia dos veces aunque venga de medios distintos.
+   Si varios medios cubren lo mismo, elige una sola y usa la fuente más clara.
+
+5. Para cada nota escribe:
+   - "title": título MUY corto (máx 12 palabras)
+   - "summary": resumen MUY breve (máx 25 palabras)
+   - "zona": "Ensenada", "Tijuana", "Mexicali" o "Baja California" según el
+     contenido de la nota (no necesariamente la zona que trae la fuente)
+   Título y resumen EN TUS PROPIAS PALABRAS: nunca copies el titular original
+   tal cual ni frases textuales de la fuente.
+
+6. FORMATO: responde ÚNICAMENTE con JSON válido, sin texto adicional, sin
+   bloques de markdown (nada de ```). Si un título o resumen necesita comillas
+   dobles, escápalas como \\" para no romper el JSON. No uses saltos de línea
+   dentro de los valores de texto. Estructura exacta:
+
+{{"seguridad": [{{"title": "...", "summary": "...", "zona": "...", "source": "...", "url": "..."}}],
+ "politica": [...], "economia": [...], "eventos": [...], "sociedad": [...]}}
 
 Si una categoría no tiene notas relevantes, devuélvela como lista vacía.
 """
@@ -75,7 +118,11 @@ def build_user_prompt(items):
     for it in items[:MAX_ITEMS_TO_CURATE]:
         if not it.get("title"):
             continue
-        lines.append(f"- [{it['source']}] {it['title']} ({it['url']})")
+        zona = it.get("zona", "")
+        etiqueta = f"{it['source']}"
+        if zona:
+            etiqueta += f" / {zona}"
+        lines.append(f"- [{etiqueta}] {it['title']} ({it['url']})")
     return "Titulares disponibles:\n" + "\n".join(lines)
 
 
@@ -129,13 +176,18 @@ def curate_new(items):
         raise SystemExit("Falta la variable de entorno ANTHROPIC_API_KEY")
 
     client = anthropic.Anthropic(api_key=api_key)
+    prompt = build_user_prompt(items)
+    print(f"[info] se le mandan {prompt.count(chr(10))} titulares al modelo")
     resp = client.messages.create(
         model=MODEL,
-        max_tokens=4096,
+        max_tokens=MAX_OUTPUT_TOKENS,
         system=SYSTEM_PROMPT,
-        messages=[{"role": "user", "content": build_user_prompt(items)}],
+        messages=[{"role": "user", "content": prompt}],
     )
     print(f"[info] stop_reason de la API: {resp.stop_reason}")
+    if resp.stop_reason == "max_tokens":
+        print("[aviso] la respuesta se cortó por max_tokens; considera subir "
+              "MAX_OUTPUT_TOKENS o bajar MAX_NEW_PER_CATEGORY.")
     return extract_json(resp.content[0].text)
 
 
@@ -183,17 +235,19 @@ def render_cards(notes_by_cat):
     for cat in CATEGORIES:
         notes = notes_by_cat.get(cat, [])
         html_blocks.append(f'<section>\n<div class="section-title"><span class="dot" '
-                            f'style="background:{CATEGORY_COLORS[cat]}"></span>'
-                            f'<h2>{CATEGORY_LABELS[cat]}</h2></div>')
+                           f'style="background:{CATEGORY_COLORS[cat]}"></span>'
+                           f'<h2>{CATEGORY_LABELS[cat]}</h2></div>')
         if not notes:
             html_blocks.append('<p style="font-size:13px;color:var(--muted)">'
-                                'Sin notas relevantes por ahora.</p>')
+                               'Sin notas relevantes por ahora.</p>')
         for note in notes:
+            zona = note.get("zona", "")
+            zona_html = f' · {zona}' if zona else ''
             html_blocks.append(f'''
 <div class="card {cat}">
   <h3><a href="{note.get("url", "#")}" style="color:inherit;text-decoration:none">{note.get("title", "")}</a></h3>
   <p>{note.get("summary", "")}</p>
-  <p class="src">{note.get("source", "")}</p>
+  <p class="src">{note.get("source", "")}{zona_html}</p>
 </div>''')
         html_blocks.append("</section>")
     return "\n".join(html_blocks)
@@ -235,6 +289,8 @@ def main():
     with open("index.html", "w", encoding="utf-8") as f:
         f.write(html)
 
+    for cat in CATEGORIES:
+        print(f"  {CATEGORY_LABELS[cat]}: {len(accumulated['notes'].get(cat, []))}")
     print(f"index.html regenerado. Acumulado del día: "
           f"{sum(len(v) for v in accumulated['notes'].values())} notas "
           f"en {accumulated['run_count']} corridas.")
