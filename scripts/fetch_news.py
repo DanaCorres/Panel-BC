@@ -1,18 +1,25 @@
 """
 Recolecta titulares recientes de medios de Baja California.
-- Fuentes con RSS: se leen directo (más estable).
-- Fuentes sin RSS: scraping simple del home (más frágil, puede romperse
-  si el medio cambia su HTML; revisar SOURCES si un scraper deja de traer notas).
-- Facebook / Instagram no se incluyen: requieren login, no son accesibles vía script.
+
+Cada fuente se declara una sola vez en SOURCES. Para cada una:
+- Si trae "feeds", se leen esos feeds directo (lo más estable).
+- Si no, se intenta descubrir su RSS probando las rutas más comunes
+  (/feed/, /rss/, ?feed=rss2, etc.). Lo que se descubre se guarda en
+  data/feeds.json para no volver a probar en cada corrida.
+- Si no hay RSS, se scrapea el home (más frágil: puede romperse si el
+  medio cambia su HTML).
+
+Facebook / Instagram no se incluyen: requieren login, no son accesibles
+vía script. Ver notas_manuales.json si quieres meter algo a mano.
 
 Salida: raw_items.json con una lista de {source, title, url, published}
 
-IMPORTANTE sobre el orden de la salida: curate_and_render.py se queda con los
-primeros 40 titulares del archivo. Si aquí se escribieran uno tras otro, fuente
-por fuente, las tres de RSS (15 cada una = 45) llenarían el cupo y los cinco
-medios de scraping nunca llegarían al modelo. Por eso la lista se entrega
-intercalada: primero el titular más reciente de cada fuente, luego el segundo
-de cada una, y así. Con ocho fuentes, los primeros 40 son cinco de cada una.
+IMPORTANTE sobre el orden de la salida: curate_and_render.py se queda con
+los primeros MAX_ITEMS_TO_CURATE titulares del archivo. Si aquí se
+escribieran uno tras otro, fuente por fuente, las primeras llenarían el
+cupo y las últimas nunca llegarían al modelo. Por eso la lista se entrega
+intercalada: primero el titular más reciente de cada fuente, luego el
+segundo de cada una, y así.
 """
 
 import json
@@ -28,42 +35,89 @@ from bs4 import BeautifulSoup
 
 HEADERS = {"User-Agent": "Mozilla/5.0 (panel-bc-bot; +https://github.com/)"}
 
-# Fuentes con RSS conocido o probable. Si una URL de feed deja de funcionar,
-# el bloque de abajo simplemente la salta (no truena todo el pipeline).
-RSS_SOURCES = [
-    {"name": "ZETA Tijuana", "url": "https://zetatijuana.com/feed/"},
-    {"name": "El Vigía (Ensenada)", "url": "https://www.elvigia.net/rss/"},
-    {"name": "AFN Tijuana", "url": "https://afntijuana.info/rss.php"},
+# --------------------------------------------------------------------------
+# Fuentes
+# --------------------------------------------------------------------------
+# "feeds": lista de URLs de RSS ya confirmadas (se usan tal cual).
+# Sin "feeds": se intenta descubrir el RSS y, si no hay, se scrapea el home.
+# "zona" es informativo: se le pasa al modelo para que pueda agrupar.
+
+SOURCES = [
+    # --- Tijuana / estatal, RSS confirmado ---
+    {"name": "ZETA Tijuana", "url": "https://zetatijuana.com/",
+     "feeds": ["https://zetatijuana.com/feed/"], "zona": "Tijuana"},
+    {"name": "AFN Tijuana", "url": "https://afntijuana.info/",
+     "feeds": ["https://afntijuana.info/rss.php"], "zona": "Tijuana"},
+
+    # --- Ensenada, RSS confirmado ---
+    # OJO: elvigia.net/rss/ es la página que LISTA los feeds, no un feed.
+    # Estos son los feeds reales por sección.
+    {"name": "El Vigía (Ensenada)", "url": "https://www.elvigia.net/",
+     "feeds": [
+         "https://www.elvigia.net/rss/feed.html?r=77",   # General
+         "https://www.elvigia.net/rss/feed.html?r=91",   # El Valle
+         "https://www.elvigia.net/rss/feed.html?r=3",    # 911 / policiaca
+     ],
+     "zona": "Ensenada"},
+
+    # --- Ensenada, RSS por descubrir (casi todos WordPress) ---
+    {"name": "EnsenadaHoy", "url": "https://ensenadahoy.com/", "zona": "Ensenada"},
+    {"name": "Rada Noticias", "url": "https://radanoticias.info/", "zona": "Ensenada"},
+    {"name": "AGP Noticias", "url": "https://agpnoticias.com/news/", "zona": "Ensenada"},
+    {"name": "Argumento Noticias", "url": "http://argumentonoticias.com/", "zona": "Ensenada"},
+    {"name": "E1 Noticias (EnsenadaUno)", "url": "https://www.ensenadaunonoticias.info/",
+     "zona": "Ensenada"},
+    # Sin RSS: sitio PHP viejo. Se scrapea la sección de noticias, NO el home
+    # (el home mezcla clasificados).
+    {"name": "Ensenada.net", "url": "https://ensenada.net/noticias/",
+     "scrape_only": True, "zona": "Ensenada"},
+    {"name": "El Imparcial (Ensenada)", "url": "https://www.elimparcial.com/tij/ensenada/",
+     "scrape_only": True, "zona": "Ensenada"},
+    {"name": "Milenio (Ensenada)", "url": "https://www.milenio.com/temas/ensenada",
+     "scrape_only": True, "zona": "Ensenada"},
+
+    # --- Tijuana / estatal, RSS por descubrir ---
+    {"name": "Esquina 32", "url": "https://esquina32.com/", "zona": "Tijuana"},
+    {"name": "En Línea BC", "url": "https://www.enlineabc.com.mx/", "zona": "Baja California"},
+    {"name": "Cadena Noticias", "url": "https://cadenanoticias.com/", "zona": "Baja California"},
+    {"name": "Zona Norte", "url": "https://zonanorte.mx/", "zona": "Tijuana"},
+
+    # --- Tijuana / estatal, scraping ---
+    {"name": "El Mexicano", "url": "https://el-mexicano.com.mx/", "zona": "Baja California"},
+    {"name": "El Imparcial (Tijuana)", "url": "https://www.elimparcial.com/tijuana",
+     "scrape_only": True, "zona": "Tijuana"},
+    # TV Azteca BC corre en Arc XP. Se apunta a secciones, NO al home: el home
+    # se llena de nota viral nacional (horóscopos, notas de EEUU, espectáculos).
+    {"name": "TV Azteca BC", "url": "https://www.tvaztecabajacalifornia.com/noticias/",
+     "scrape_only": True, "zona": "Baja California"},
+    {"name": "TV Azteca BC (policiaca)",
+     "url": "https://www.tvaztecabajacalifornia.com/policiaca/",
+     "scrape_only": True, "zona": "Baja California"},
+    {"name": "Yo Amo Tijuana", "url": "https://amotijuana.com/", "zona": "Tijuana"},
+    {"name": "Canal 66", "url": "https://canal66.tv/", "zona": "Tijuana"},
+    {"name": "TJ Comunica", "url": "https://tjcomunica.com/", "zona": "Tijuana"},
 ]
 
-# Fuentes sin RSS confiable: se scrapea el home y se toman los enlaces
-# que parecen notas (heurística simple por longitud de texto y href).
-HTML_SOURCES = [
-    {"name": "El Mexicano", "url": "https://el-mexicano.com.mx/"},
-    {"name": "El Imparcial (Tijuana)", "url": "https://www.elimparcial.com/tijuana"},
-    # Estas tres se habían descartado antes por un falso positivo: una prueba
-    # anterior devolvió 403 con "host_not_allowed", pero ese bloqueo era de la
-    # sandbox de pruebas (que solo tiene permiso de red a un puñado de
-    # dominios), no de los sitios en sí. Al probarlas con una herramienta con
-    # acceso real a internet, las tres cargan sin problema.
-    {"name": "Yo Amo Tijuana", "url": "https://amotijuana.com/"},
-    {"name": "Canal 66", "url": "https://canal66.tv/"},
-    {"name": "TJ Comunica", "url": "https://tjcomunica.com/"},
-]
+# Rutas que se prueban al buscar el RSS de una fuente nueva.
+FEED_CANDIDATES = ["feed/", "rss/", "?feed=rss2", "feed/rss/", "rss.xml", "feed.xml"]
+
+FEED_CACHE = "data/feeds.json"
 
 MAX_PER_SOURCE = 15
 
 # Baja California sí cambia de horario de verano.
 LOCAL_TZ = ZoneInfo("America/Tijuana")
 
+# Notas metidas a mano (ej. medios que solo existen en Facebook).
+MANUALES = "notas_manuales.json"
+
 # Enlaces del home que no son notas. Al scrapear un menú se cuelan secciones,
-# avisos legales y llamados a suscribirse; antes daba igual porque estas
-# fuentes nunca llegaban al modelo, ahora sí llegan.
+# avisos legales y llamados a suscribirse.
 BASURA = re.compile(
     r"aviso de privacidad|t[eé]rminos y condiciones|pol[ií]tica de (privacidad|cookies)|"
     r"suscr[ií]b|reg[ií]strate|inicia sesi[oó]n|contacto|qui[eé]nes somos|directorio|"
     r"publicidad|newsletter|todos los derechos|men[uú] principal|ver m[aá]s|"
-    r"lee tambi[eé]n|leer m[aá]s",
+    r"lee tambi[eé]n|leer m[aá]s|clasificados|hor[oó]scopo",
     re.IGNORECASE)
 
 
@@ -82,23 +136,74 @@ def parece_nota(texto: str) -> bool:
     return True
 
 
-def fetch_rss(source):
+# --------------------------------------------------------------------------
+# RSS: lectura y autodescubrimiento
+# --------------------------------------------------------------------------
+
+def leer_feed(url, nombre):
+    """Lee un feed y devuelve sus entradas. Lista vacía si no sirve."""
     items = []
     try:
-        feed = feedparser.parse(source["url"])
+        feed = feedparser.parse(url)
+        # feedparser no truena con HTML: simplemente no trae entries. Eso es
+        # exactamente lo que pasaba con elvigia.net/rss/ (una página, no un feed).
         for entry in feed.entries[:MAX_PER_SOURCE]:
             titulo = entry.get("title", "").strip()
             if not titulo:
                 continue
             items.append({
-                "source": source["name"],
                 "title": titulo,
                 "url": entry.get("link", ""),
-                "published": entry.get("published", ""),
+                "published": entry.get("published", "") or entry.get("updated", ""),
             })
     except Exception as e:
-        print(f"[aviso] RSS falló para {source['name']}: {e}")
+        print(f"[aviso] RSS falló para {nombre} ({url}): {e}")
     return items
+
+
+def descubrir_feed(source, cache):
+    """Encuentra la URL del RSS de una fuente, usando caché si ya se sabe.
+
+    Devuelve la URL del feed, o None si la fuente no parece tener RSS.
+    El resultado (incluido el "no tiene") se guarda en caché para no volver
+    a probar seis rutas por fuente en cada corrida.
+    """
+    nombre = source["name"]
+    if nombre in cache:
+        return cache[nombre]  # puede ser None: ya sabemos que no tiene
+
+    base = source["url"]
+    if not base.endswith("/"):
+        base = base.rsplit("/", 1)[0] + "/"
+
+    for ruta in FEED_CANDIDATES:
+        candidato = base + ruta
+        entradas = leer_feed(candidato, nombre)
+        if len(entradas) >= 3:  # 1 o 2 entradas suele ser un falso positivo
+            print(f"  [descubierto] {nombre}: {candidato}")
+            cache[nombre] = candidato
+            return candidato
+
+    print(f"  [sin RSS] {nombre}: se usará scraping")
+    cache[nombre] = None
+    return None
+
+
+def cargar_cache_feeds():
+    try:
+        with open(FEED_CACHE, encoding="utf-8") as f:
+            return json.load(f)
+    except (OSError, ValueError):
+        return {}
+
+
+def guardar_cache_feeds(cache):
+    try:
+        os.makedirs(os.path.dirname(FEED_CACHE), exist_ok=True)
+        with open(FEED_CACHE, "w", encoding="utf-8") as f:
+            json.dump(cache, f, ensure_ascii=False, indent=1)
+    except OSError as e:
+        print(f"[aviso] no pude guardar la caché de feeds: {e}")
 
 
 def fetch_html(source):
@@ -124,16 +229,43 @@ def fetch_html(source):
                     continue
             seen.add(href)
             vistos_titulos.add(text.lower())
-            items.append({
-                "source": source["name"],
-                "title": text,
-                "url": href,
-                "published": "",
-            })
+            items.append({"title": text, "url": href, "published": ""})
             if len(items) >= MAX_PER_SOURCE:
                 break
     except Exception as e:
         print(f"[aviso] scraping falló para {source['name']}: {e}")
+    return items
+
+
+def recolectar(source, cache):
+    """Trae los titulares de una fuente por el mejor camino disponible."""
+    crudos = []
+
+    if source.get("feeds"):
+        for f in source["feeds"]:
+            crudos.extend(leer_feed(f, source["name"]))
+    elif not source.get("scrape_only"):
+        feed = descubrir_feed(source, cache)
+        if feed:
+            crudos = leer_feed(feed, source["name"])
+
+    if not crudos:
+        crudos = fetch_html(source)
+
+    # Dedup por URL dentro de la misma fuente (El Vigía trae 3 feeds que
+    # pueden repetir una nota entre secciones).
+    vistos = set()
+    items = []
+    for it in crudos:
+        clave = (it.get("url") or "").rstrip("/")
+        if clave and clave in vistos:
+            continue
+        vistos.add(clave)
+        it["source"] = source["name"]
+        it["zona"] = source.get("zona", "")
+        items.append(it)
+        if len(items) >= MAX_PER_SOURCE:
+            break
     return items
 
 
@@ -153,9 +285,9 @@ HISTORIAL = "data/urls_vistas.json"
 DIAS_QUE_RECUERDA = 4
 
 FECHA_EN_URL = [
-    re.compile(r"/(20\d{2})/(\d{1,2})/(\d{1,2})/"),        # /2026/08/20/
-    re.compile(r"/(20\d{2})-(\d{1,2})-(\d{1,2})"),          # /2026-08-20
-    re.compile(r"[-_](\d{1,2})[-_](\d{1,2})[-_](20\d{2})"),  # -20-08-2026
+    re.compile(r"/(20\d{2})/(\d{1,2})/(\d{1,2})/"),          # /2026/08/20/
+    re.compile(r"/(20\d{2})-(\d{1,2})-(\d{1,2})"),            # /2026-08-20
+    re.compile(r"[-_](\d{1,2})[-_](\d{1,2})[-_](20\d{2})"),   # -20-08-2026
 ]
 
 
@@ -231,6 +363,32 @@ def filtrar_de_hoy(items, historial, hoy):
     return de_hoy
 
 
+def cargar_manuales(hoy):
+    """Notas metidas a mano. Formato: lista de
+    {fuente, titulo, url, fecha (YYYY-MM-DD), zona}. Solo entran las de hoy.
+    """
+    try:
+        with open(MANUALES, encoding="utf-8") as f:
+            crudas = json.load(f)
+    except (OSError, ValueError):
+        return []
+
+    items = []
+    for n in crudas:
+        if n.get("fecha") != hoy.isoformat():
+            continue
+        items.append({
+            "source": n.get("fuente", "manual"),
+            "title": n.get("titulo", ""),
+            "url": n.get("url", ""),
+            "published": "",
+            "zona": n.get("zona", ""),
+        })
+    if items:
+        print(f"  {len(items)} nota(s) manual(es) de hoy")
+    return items
+
+
 def intercalar(por_fuente):
     """Une las listas por turnos: una nota de cada fuente, luego la siguiente.
 
@@ -247,11 +405,13 @@ def intercalar(por_fuente):
 
 
 def main():
+    cache = cargar_cache_feeds()
+
     por_fuente = {}
-    for s in RSS_SOURCES:
-        por_fuente[s["name"]] = fetch_rss(s)
-    for s in HTML_SOURCES:
-        por_fuente[s["name"]] = fetch_html(s)
+    for s in SOURCES:
+        por_fuente[s["name"]] = recolectar(s, cache)
+
+    guardar_cache_feeds(cache)
 
     all_items = intercalar(por_fuente)
 
@@ -262,6 +422,10 @@ def main():
         historial.setdefault(it["url"], hoy.isoformat())
     guardar_historial(historial, hoy)
 
+    # Las manuales se agregan al final y no pasan por el filtro de fecha
+    # (ya traen la suya) ni por el historial.
+    all_items.extend(cargar_manuales(hoy))
+
     out = {
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "items": all_items,
@@ -269,15 +433,17 @@ def main():
     with open("raw_items.json", "w", encoding="utf-8") as f:
         json.dump(out, f, ensure_ascii=False, indent=2)
 
+    print()
     for nombre, notas in por_fuente.items():
         marca = "✓" if notas else "✗"
         print(f"  {marca} {nombre}: {len(notas)} notas")
 
     vivas = sum(1 for v in por_fuente.values() if v)
-    print(f"Recolectadas {len(all_items)} notas de {vivas} fuentes vivas "
+    print(f"\nRecolectadas {len(all_items)} notas de {vivas} fuentes vivas "
           f"(de {len(por_fuente)}).")
-    print(f"Las primeras 40 —las que verá el modelo— cubren "
-          f"{len({n['source'] for n in all_items[:40]})} fuentes distintas.")
+    muertas = [n for n, v in por_fuente.items() if not v]
+    if muertas:
+        print(f"Fuentes sin notas hoy: {', '.join(muertas)}")
 
 
 if __name__ == "__main__":
