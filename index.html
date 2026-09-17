@@ -9,6 +9,7 @@
     --bg:#f6f5f1; --card:#ffffff; --border:#e3e1d8;
     --text:#1c1c1a; --muted:#6b6a63; --hint:#96958c;
     --seguridad:#a32d2d; --politica:#185fa5; --economia:#3b6d11; --sociedad:#534ab7;
+    --eventos:#a8631a;
   }
   @media (prefers-color-scheme: dark){
     :root{
@@ -41,6 +42,7 @@
   .politica{border-left-color:var(--politica);}
   .economia{border-left-color:var(--economia);}
   .sociedad{border-left-color:var(--sociedad);}
+  .eventos{border-left-color:var(--eventos);}
   footer{font-size:11.5px; color:var(--hint); border-top:1px solid var(--border); padding-top:1rem; margin-top:1rem;}
 </style>
 </head>
@@ -50,19 +52,68 @@
   <header>
     <div>
       <h1>Baja California — panel de noticias</h1>
-      <p class="sub">Actualizado automáticamente: 17 de September de 2026, 00:50 (hora de Baja California)</p>
+      <p class="sub">Actualizado automáticamente: 17 de September de 2026, 12:35 (hora de Baja California)</p>
     </div>
   </header>
 
   <div class="stats">
-    <div class="stat"><p>Seguridad</p><p>4 notas</p></div>
-<div class="stat"><p>Política y gobierno</p><p>1 notas</p></div>
-<div class="stat"><p>Economía</p><p>0 notas</p></div>
-<div class="stat"><p>Sociedad, cultura y deportes</p><p>1 notas</p></div>
+    <div class="stat"><p>Seguridad</p><p>12 notas</p></div>
+<div class="stat"><p>Política y gobierno</p><p>4 notas</p></div>
+<div class="stat"><p>Economía</p><p>4 notas</p></div>
+<div class="stat"><p>Eventos y cultura</p><p>5 notas</p></div>
+<div class="stat"><p>Sociedad y deportes</p><p>7 notas</p></div>
   </div>
 
   <section>
 <div class="section-title"><span class="dot" style="background:var(--seguridad)"></span><h2>Seguridad</h2></div>
+
+<div class="card seguridad">
+  <h3><a href="https://zetatijuana.com/2026/09/estado-manipula-cifras-28-menos-homicidios-345-mas-desaparecidos/?utm_source=rss&utm_medium=rss&utm_campaign=estado-manipula-cifras-28-menos-homicidios-345-mas-desaparecidos" style="color:inherit;text-decoration:none">Estado manipula cifras de homicidios y desapariciones</a></h3>
+  <p>Reportan discrepancias en estadísticas oficiales: 28% menos homicidios pero 345% más desaparecidos según análisis de datos gubernamentales.</p>
+  <p class="src">ZETA Tijuana · Baja California</p>
+</div>
+
+<div class="card seguridad">
+  <h3><a href="https://www.enlineabc.com.mx/seguridad/2026/09/17/vinculan-a-proceso-a-hombre-detenido-con-casi-81-kilos-de-cocaina-en-otay/" style="color:inherit;text-decoration:none">Vinculan a proceso hombre con 81 kilos de cocaína en Otay</a></h3>
+  <p>Autoridades procesaron a sujeto detenido con casi 81 kilos de cocaína en operativo fronterizo de Otay.</p>
+  <p class="src">En Línea BC · Tijuana</p>
+</div>
+
+<div class="card seguridad">
+  <h3><a href="https://www.enlineabc.com.mx/seguridad/2026/09/17/gobierno-federal-confirma-captura-de-integrante-de-los-rusos-en-mexicali/" style="color:inherit;text-decoration:none">Capturan integrante de banda delictiva Los Rusos en Mexicali</a></h3>
+  <p>Gobierno federal confirma detención de miembro de organización criminal Los Rusos en operativo de Mexicali.</p>
+  <p class="src">En Línea BC · Mexicali</p>
+</div>
+
+<div class="card seguridad">
+  <h3><a href="https://tjcomunica.com/lanzan-bombas-molotov-contra-domicilio-en-cerro-de-las-abejas-vecinos-sofocan-incendio/" style="color:inherit;text-decoration:none">Lanzan bombas molotov contra casa en Cerro de las Abejas</a></h3>
+  <p>Ataque con artefactos incendiarios en domicilio de Tijuana; vecinos sofocaron el incendio.</p>
+  <p class="src">TJ Comunica · Tijuana</p>
+</div>
+
+<div class="card seguridad">
+  <h3><a href="https://www.afntijuana.info/seguridad/181788_ejecutan_a_un_guardia_de_seguridad_a_balazos_en_billar_de_cerro_colorado" style="color:inherit;text-decoration:none">Guardia de seguridad asesinado a balazos en billar tijuanense</a></h3>
+  <p>Ejecutan a vigilante en la entrada de local nocturno en Cerro Colorado, Tijuana.</p>
+  <p class="src">AFN Tijuana · Tijuana</p>
+</div>
+
+<div class="card seguridad">
+  <h3><a href="https://www.milenio.com/videos/estados/empresario-jesus-molina-aparece-vida-privado-libertad-baja-california" style="color:inherit;text-decoration:none">Empresario Jesús Molina aparece con vida tras privación</a></h3>
+  <p>Localizan con vida a empresario que había sido privado de la libertad en Baja California.</p>
+  <p class="src">Milenio · Baja California</p>
+</div>
+
+<div class="card seguridad">
+  <h3><a href="https://www.milenio.com/videos/policia/asesinan-angel-pantoja-fiscal-delitos-vida-ensenada" style="color:inherit;text-decoration:none">Asesinado Ángel Pantoja, fiscal de delitos contra la vida</a></h3>
+  <p>Ejecutan al funcionario fiscal especializado en delitos contra la vida en Ensenada.</p>
+  <p class="src">Milenio · Ensenada</p>
+</div>
+
+<div class="card seguridad">
+  <h3><a href="https://www.enlineabc.com.mx/tijuana/inicio/2026/09/17/abandonan-a-31-migrantes-en-camioneta-modificada-bajo-calor-del-desierto-de-california/" style="color:inherit;text-decoration:none">Detienen a 31 migrantes en camioneta modificada en desierto</a></h3>
+  <p>Rescatan a migrantes abandonados en vehículo adaptado bajo calor extremo en frontera de California.</p>
+  <p class="src">En Línea BC · Tijuana</p>
+</div>
 
 <div class="card seguridad">
   <h3><a href="https://www.afntijuana.info/seguridad/181772_hombres_armados_privaron_de_su_libertad_a_un_hombre_en_ensenada" style="color:inherit;text-decoration:none">Hombres armados secuestran a persona en Ensenada</a></h3>
@@ -92,6 +143,24 @@
 <div class="section-title"><span class="dot" style="background:var(--politica)"></span><h2>Política y gobierno</h2></div>
 
 <div class="card politica">
+  <h3><a href="https://agpnoticias.com/news/julieta-ramirez-llama-a-cerrar-filas-en-morena-tras-proceso-interno-en-baja-california/" style="color:inherit;text-decoration:none">Julieta Ramírez llama a cerrar filas en Morena tras proceso</a></h3>
+  <p>Dirigente estatal de Morena hace llamado a unidad tras conflictos internos en Baja California.</p>
+  <p class="src">AGP Noticias · Baja California</p>
+</div>
+
+<div class="card politica">
+  <h3><a href="https://ensenadahoy.com/noticias/ver/6950" style="color:inherit;text-decoration:none">Aprueba Asamblea de Proturismo elección de nueva Dirección General</a></h3>
+  <p>Organismo paramunicipal de Ensenada expide convocatoria para renovación de dirigencia.</p>
+  <p class="src">EnsenadaHoy · Ensenada</p>
+</div>
+
+<div class="card politica">
+  <h3><a href="https://www.enlineabc.com.mx/estatal/2026/09/17/diputado-echavarria-insta-a-fortalecer-atencion-educativa-a-menores-con-neurodivergencia/" style="color:inherit;text-decoration:none">Diputado Echavarría insta fortalecer atención a neurodivergentes</a></h3>
+  <p>Legislador propone mejorar servicios educativos para menores con neurodivergencia en Baja California.</p>
+  <p class="src">En Línea BC · Baja California</p>
+</div>
+
+<div class="card politica">
   <h3><a href="https://tjcomunica.com/tijuana-celebro-el-grito-de-independencia-con-miles-de-personas-y-saldo-blanco/" style="color:inherit;text-decoration:none">Tijuana conmemora Independencia con saldo blanco</a></h3>
   <p>Miles de personas celebraron el Grito de Independencia en Tijuana sin incidentes reportados.</p>
   <p class="src">TJ Comunica</p>
@@ -99,10 +168,102 @@
 </section>
 <section>
 <div class="section-title"><span class="dot" style="background:var(--economia)"></span><h2>Economía</h2></div>
-<p style="font-size:13px;color:var(--muted)">Sin notas relevantes por ahora.</p>
+
+<div class="card economia">
+  <h3><a href="https://zetatijuana.com/2026/09/conectividad-y-logistica-banobras-modernizara-la-red-carretera-desde-punta-colonet-hasta-mexicali/?utm_source=rss&utm_medium=rss&utm_campaign=conectividad-y-logistica-banobras-modernizara-la-red-carretera-desde-punta-colonet-hasta-mexicali" style="color:inherit;text-decoration:none">Banobras modernizará red carretera desde Punta Colonet a Mexicali</a></h3>
+  <p>Institución financiera invertirá en infraestructura vial para mejorar conectividad y logística regional.</p>
+  <p class="src">ZETA Tijuana · Baja California</p>
+</div>
+
+<div class="card economia">
+  <h3><a href="https://argumentonoticias.com/2026/09/17/msc-cruceros-realizara-jornada-de-reclutamiento-en-ensenada/" style="color:inherit;text-decoration:none">MSC Cruceros realiza jornada de reclutamiento en Ensenada</a></h3>
+  <p>Empresa naviera abre convocatoria de empleo para personal en puerto ensenadense.</p>
+  <p class="src">Argumento Noticias · Ensenada</p>
+</div>
+
+<div class="card economia">
+  <h3><a href="https://argumentonoticias.com/2026/09/17/destinan-recursos-a-proyectos-turisticos-en-baja-california/" style="color:inherit;text-decoration:none">Destinan recursos a proyectos turísticos en Baja California</a></h3>
+  <p>Gobierno asigna inversión para fortalecer infraestructura y atractivos turísticos estatales.</p>
+  <p class="src">Argumento Noticias · Baja California</p>
+</div>
+
+<div class="card economia">
+  <h3><a href="https://www.afntijuana.info/informacion_general/181791_se_mantiene_el_dolar_por_debajo_de_17_pesos_a_la_compra_en_septiembre" style="color:inherit;text-decoration:none">Dólar se mantiene por debajo de 17 pesos en septiembre</a></h3>
+  <p>Tipo de cambio continúa estable en niveles bajos durante mes en curso.</p>
+  <p class="src">AFN Tijuana · Baja California</p>
+</div>
 </section>
 <section>
-<div class="section-title"><span class="dot" style="background:var(--sociedad)"></span><h2>Sociedad, cultura y deportes</h2></div>
+<div class="section-title"><span class="dot" style="background:var(--eventos)"></span><h2>Eventos y cultura</h2></div>
+
+<div class="card eventos">
+  <h3><a href="https://ensenadahoy.com/noticias/ver/6954" style="color:inherit;text-decoration:none">Sinergia 2026 de CETYS trae Bienal Europea del Libro a Ensenada</a></h3>
+  <p>Por primera vez en América Latina, evento literario europeo se realizará en puerto ensenadense.</p>
+  <p class="src">EnsenadaHoy · Ensenada</p>
+</div>
+
+<div class="card eventos">
+  <h3><a href="https://zetatijuana.com/2026/09/edicion-de-ensenada-se-viste-de-vino-2026-sera-a-beneficio-de-la-cruz-roja/?utm_source=rss&utm_medium=rss&utm_campaign=edicion-de-ensenada-se-viste-de-vino-2026-sera-a-beneficio-de-la-cruz-roja" style="color:inherit;text-decoration:none">Edición Ensenada Se Viste de Vino 2026 a beneficio de Cruz Roja</a></h3>
+  <p>Festival vinícola de Ensenada se realizará como evento benéfico para institución de asistencia.</p>
+  <p class="src">ZETA Tijuana · Ensenada</p>
+</div>
+
+<div class="card eventos">
+  <h3><a href="https://ensenadahoy.com/noticias/ver/6953" style="color:inherit;text-decoration:none">Miles de ensenadenses disfrutan desfile cívico militar de Independencia</a></h3>
+  <p>Ensenada conmemora 216 aniversario de Independencia de México con desfile multitudinario.</p>
+  <p class="src">EnsenadaHoy · Ensenada</p>
+</div>
+
+<div class="card eventos">
+  <h3><a href="https://www.milenio.com/estados/marina-pilar-inaugura-central-autobuses-valle-guadalupe" style="color:inherit;text-decoration:none">Marina del Pilar inaugura central de autobuses en Valle de Guadalupe</a></h3>
+  <p>Gobernadora inaugura terminal de transporte en zona vinícola de Baja California.</p>
+  <p class="src">Milenio · Ensenada</p>
+</div>
+
+<div class="card eventos">
+  <h3><a href="https://www.enlineabc.com.mx/deportes/2026/09/17/xolos-conquista-la-baja-cup-tras-vencer-2-1-al-san-diego-fc/" style="color:inherit;text-decoration:none">Xolos conquista Baja Cup venciendo 2-1 a San Diego FC</a></h3>
+  <p>Equipo local gana torneo fronterizo en competencia de clubes de Tijuana y San Diego.</p>
+  <p class="src">En Línea BC · Tijuana</p>
+</div>
+</section>
+<section>
+<div class="section-title"><span class="dot" style="background:var(--sociedad)"></span><h2>Sociedad y deportes</h2></div>
+
+<div class="card sociedad">
+  <h3><a href="https://agpnoticias.com/news/abren-registro-para-la-beca-benito-juarez-estos-son-los-requisitos/" style="color:inherit;text-decoration:none">Abren registro para Beca Benito Juárez en Ensenada</a></h3>
+  <p>Convocatoria abierta para estudiantes interesados en programa de becas de educación superior.</p>
+  <p class="src">AGP Noticias · Ensenada</p>
+</div>
+
+<div class="card sociedad">
+  <h3><a href="https://argumentonoticias.com/2026/09/17/refuerzan-prevencion-de-violencia-sexual-contra-ninas-ninos-y-adolescentes/" style="color:inherit;text-decoration:none">Refuerzan prevención de violencia sexual contra menores</a></h3>
+  <p>Autoridades lanzan iniciativas para proteger a niños y adolescentes de abuso sexual.</p>
+  <p class="src">Argumento Noticias · Baja California</p>
+</div>
+
+<div class="card sociedad">
+  <h3><a href="https://argumentonoticias.com/2026/09/17/realizan-mas-de-417-mil-acciones-preventivas-de-salud-bucal-en-baja-california/" style="color:inherit;text-decoration:none">Realizan más de 417 mil acciones preventivas de salud bucal</a></h3>
+  <p>Campaña estatal de odontología preventiva beneficia a cientos de miles en Baja California.</p>
+  <p class="src">Argumento Noticias · Baja California</p>
+</div>
+
+<div class="card sociedad">
+  <h3><a href="https://www.enlineabc.com.mx/tijuana/inicio/2026/09/17/realiza-gobierno-municipal-foro-para-integrar-el-programa-municipal-de-proteccion-de-menores/" style="color:inherit;text-decoration:none">Cabildo realiza foro para integrar Programa de Protección de Menores</a></h3>
+  <p>Tijuana convoca participación ciudadana para diseñar política pública de protección infantil.</p>
+  <p class="src">En Línea BC · Tijuana</p>
+</div>
+
+<div class="card sociedad">
+  <h3><a href="https://www.enlineabc.com.mx/deportes/2026/09/17/softbolistas-de-bc-se-mantiene-en-ruta-a-los-angeles-2028/" style="color:inherit;text-decoration:none">Softbolistas de BC en ruta hacia Ángeles 2028</a></h3>
+  <p>Selección estatal mantiene preparación y clasificación rumbo a Juegos Olímpicos de Los Ángeles.</p>
+  <p class="src">En Línea BC · Baja California</p>
+</div>
+
+<div class="card sociedad">
+  <h3><a href="https://www.milenio.com/policia/exigen-justicia-por-feminicidio-de-carolina-flores-en-ensenada" style="color:inherit;text-decoration:none">Exigen justicia por feminicidio de Carolina Flores en Ensenada</a></h3>
+  <p>Manifestantes claman por detención de suegra vinculada a muerte de mujer en puerto.</p>
+  <p class="src">Milenio · Ensenada</p>
+</div>
 
 <div class="card sociedad">
   <h3><a href="https://www.afntijuana.info/informacion_general/181773_invitan_a_alumnos_de_bachillerato_a_solicitar_la_beca_benito_juarez" style="color:inherit;text-decoration:none">Becas Benito Juárez abiertas para estudiantes de preparatoria</a></h3>

@@ -1,8 +1,72 @@
 {
   "date": "2026-09-17",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Estado manipula cifras de homicidios y desapariciones",
+        "summary": "Reportan discrepancias en estadísticas oficiales: 28% menos homicidios pero 345% más desaparecidos según análisis de datos gubernamentales.",
+        "zona": "Baja California",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/estado-manipula-cifras-28-menos-homicidios-345-mas-desaparecidos/?utm_source=rss&utm_medium=rss&utm_campaign=estado-manipula-cifras-28-menos-homicidios-345-mas-desaparecidos",
+        "_added_at": "2026-09-17T12:35:23.724586-07:00"
+      },
+      {
+        "title": "Vinculan a proceso hombre con 81 kilos de cocaína en Otay",
+        "summary": "Autoridades procesaron a sujeto detenido con casi 81 kilos de cocaína en operativo fronterizo de Otay.",
+        "zona": "Tijuana",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/seguridad/2026/09/17/vinculan-a-proceso-a-hombre-detenido-con-casi-81-kilos-de-cocaina-en-otay/",
+        "_added_at": "2026-09-17T12:35:23.724586-07:00"
+      },
+      {
+        "title": "Capturan integrante de banda delictiva Los Rusos en Mexicali",
+        "summary": "Gobierno federal confirma detención de miembro de organización criminal Los Rusos en operativo de Mexicali.",
+        "zona": "Mexicali",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/seguridad/2026/09/17/gobierno-federal-confirma-captura-de-integrante-de-los-rusos-en-mexicali/",
+        "_added_at": "2026-09-17T12:35:23.724586-07:00"
+      },
+      {
+        "title": "Lanzan bombas molotov contra casa en Cerro de las Abejas",
+        "summary": "Ataque con artefactos incendiarios en domicilio de Tijuana; vecinos sofocaron el incendio.",
+        "zona": "Tijuana",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/lanzan-bombas-molotov-contra-domicilio-en-cerro-de-las-abejas-vecinos-sofocan-incendio/",
+        "_added_at": "2026-09-17T12:35:23.724586-07:00"
+      },
+      {
+        "title": "Guardia de seguridad asesinado a balazos en billar tijuanense",
+        "summary": "Ejecutan a vigilante en la entrada de local nocturno en Cerro Colorado, Tijuana.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/181788_ejecutan_a_un_guardia_de_seguridad_a_balazos_en_billar_de_cerro_colorado",
+        "_added_at": "2026-09-17T12:35:23.724586-07:00"
+      },
+      {
+        "title": "Empresario Jesús Molina aparece con vida tras privación",
+        "summary": "Localizan con vida a empresario que había sido privado de la libertad en Baja California.",
+        "zona": "Baja California",
+        "source": "Milenio",
+        "url": "https://www.milenio.com/videos/estados/empresario-jesus-molina-aparece-vida-privado-libertad-baja-california",
+        "_added_at": "2026-09-17T12:35:23.724586-07:00"
+      },
+      {
+        "title": "Asesinado Ángel Pantoja, fiscal de delitos contra la vida",
+        "summary": "Ejecutan al funcionario fiscal especializado en delitos contra la vida en Ensenada.",
+        "zona": "Ensenada",
+        "source": "Milenio",
+        "url": "https://www.milenio.com/videos/policia/asesinan-angel-pantoja-fiscal-delitos-vida-ensenada",
+        "_added_at": "2026-09-17T12:35:23.724586-07:00"
+      },
+      {
+        "title": "Detienen a 31 migrantes en camioneta modificada en desierto",
+        "summary": "Rescatan a migrantes abandonados en vehículo adaptado bajo calor extremo en frontera de California.",
+        "zona": "Tijuana",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/17/abandonan-a-31-migrantes-en-camioneta-modificada-bajo-calor-del-desierto-de-california/",
+        "_added_at": "2026-09-17T12:35:23.724586-07:00"
+      },
       {
         "title": "Hombres armados secuestran a persona en Ensenada",
         "summary": "Sujetos armados privaron de la libertad a un hombre en Ensenada, Baja California.",
@@ -34,6 +98,30 @@
     ],
     "politica": [
       {
+        "title": "Julieta Ramírez llama a cerrar filas en Morena tras proceso",
+        "summary": "Dirigente estatal de Morena hace llamado a unidad tras conflictos internos en Baja California.",
+        "zona": "Baja California",
+        "source": "AGP Noticias",
+        "url": "https://agpnoticias.com/news/julieta-ramirez-llama-a-cerrar-filas-en-morena-tras-proceso-interno-en-baja-california/",
+        "_added_at": "2026-09-17T12:35:23.724586-07:00"
+      },
+      {
+        "title": "Aprueba Asamblea de Proturismo elección de nueva Dirección General",
+        "summary": "Organismo paramunicipal de Ensenada expide convocatoria para renovación de dirigencia.",
+        "zona": "Ensenada",
+        "source": "EnsenadaHoy",
+        "url": "https://ensenadahoy.com/noticias/ver/6950",
+        "_added_at": "2026-09-17T12:35:23.724586-07:00"
+      },
+      {
+        "title": "Diputado Echavarría insta fortalecer atención a neurodivergentes",
+        "summary": "Legislador propone mejorar servicios educativos para menores con neurodivergencia en Baja California.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/estatal/2026/09/17/diputado-echavarria-insta-a-fortalecer-atencion-educativa-a-menores-con-neurodivergencia/",
+        "_added_at": "2026-09-17T12:35:23.724586-07:00"
+      },
+      {
         "title": "Tijuana conmemora Independencia con saldo blanco",
         "summary": "Miles de personas celebraron el Grito de Independencia en Tijuana sin incidentes reportados.",
         "source": "TJ Comunica",
@@ -41,8 +129,89 @@
         "_added_at": "2026-09-17T00:50:13.183848-07:00"
       }
     ],
-    "economia": [],
+    "economia": [
+      {
+        "title": "Banobras modernizará red carretera desde Punta Colonet a Mexicali",
+        "summary": "Institución financiera invertirá en infraestructura vial para mejorar conectividad y logística regional.",
+        "zona": "Baja California",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/conectividad-y-logistica-banobras-modernizara-la-red-carretera-desde-punta-colonet-hasta-mexicali/?utm_source=rss&utm_medium=rss&utm_campaign=conectividad-y-logistica-banobras-modernizara-la-red-carretera-desde-punta-colonet-hasta-mexicali",
+        "_added_at": "2026-09-17T12:35:23.724586-07:00"
+      },
+      {
+        "title": "MSC Cruceros realiza jornada de reclutamiento en Ensenada",
+        "summary": "Empresa naviera abre convocatoria de empleo para personal en puerto ensenadense.",
+        "zona": "Ensenada",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/09/17/msc-cruceros-realizara-jornada-de-reclutamiento-en-ensenada/",
+        "_added_at": "2026-09-17T12:35:23.724586-07:00"
+      },
+      {
+        "title": "Destinan recursos a proyectos turísticos en Baja California",
+        "summary": "Gobierno asigna inversión para fortalecer infraestructura y atractivos turísticos estatales.",
+        "zona": "Baja California",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/09/17/destinan-recursos-a-proyectos-turisticos-en-baja-california/",
+        "_added_at": "2026-09-17T12:35:23.724586-07:00"
+      },
+      {
+        "title": "Dólar se mantiene por debajo de 17 pesos en septiembre",
+        "summary": "Tipo de cambio continúa estable en niveles bajos durante mes en curso.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181791_se_mantiene_el_dolar_por_debajo_de_17_pesos_a_la_compra_en_septiembre",
+        "_added_at": "2026-09-17T12:35:23.724586-07:00"
+      }
+    ],
     "sociedad": [
+      {
+        "title": "Abren registro para Beca Benito Juárez en Ensenada",
+        "summary": "Convocatoria abierta para estudiantes interesados en programa de becas de educación superior.",
+        "zona": "Ensenada",
+        "source": "AGP Noticias",
+        "url": "https://agpnoticias.com/news/abren-registro-para-la-beca-benito-juarez-estos-son-los-requisitos/",
+        "_added_at": "2026-09-17T12:35:23.724586-07:00"
+      },
+      {
+        "title": "Refuerzan prevención de violencia sexual contra menores",
+        "summary": "Autoridades lanzan iniciativas para proteger a niños y adolescentes de abuso sexual.",
+        "zona": "Baja California",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/09/17/refuerzan-prevencion-de-violencia-sexual-contra-ninas-ninos-y-adolescentes/",
+        "_added_at": "2026-09-17T12:35:23.724586-07:00"
+      },
+      {
+        "title": "Realizan más de 417 mil acciones preventivas de salud bucal",
+        "summary": "Campaña estatal de odontología preventiva beneficia a cientos de miles en Baja California.",
+        "zona": "Baja California",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/09/17/realizan-mas-de-417-mil-acciones-preventivas-de-salud-bucal-en-baja-california/",
+        "_added_at": "2026-09-17T12:35:23.724586-07:00"
+      },
+      {
+        "title": "Cabildo realiza foro para integrar Programa de Protección de Menores",
+        "summary": "Tijuana convoca participación ciudadana para diseñar política pública de protección infantil.",
+        "zona": "Tijuana",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/17/realiza-gobierno-municipal-foro-para-integrar-el-programa-municipal-de-proteccion-de-menores/",
+        "_added_at": "2026-09-17T12:35:23.724586-07:00"
+      },
+      {
+        "title": "Softbolistas de BC en ruta hacia Ángeles 2028",
+        "summary": "Selección estatal mantiene preparación y clasificación rumbo a Juegos Olímpicos de Los Ángeles.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/deportes/2026/09/17/softbolistas-de-bc-se-mantiene-en-ruta-a-los-angeles-2028/",
+        "_added_at": "2026-09-17T12:35:23.724586-07:00"
+      },
+      {
+        "title": "Exigen justicia por feminicidio de Carolina Flores en Ensenada",
+        "summary": "Manifestantes claman por detención de suegra vinculada a muerte de mujer en puerto.",
+        "zona": "Ensenada",
+        "source": "Milenio",
+        "url": "https://www.milenio.com/policia/exigen-justicia-por-feminicidio-de-carolina-flores-en-ensenada",
+        "_added_at": "2026-09-17T12:35:23.724586-07:00"
+      },
       {
         "title": "Becas Benito Juárez abiertas para estudiantes de preparatoria",
         "summary": "Convocatoria para que alumnos de bachillerato soliciten la beca Benito Juárez en Tijuana.",
@@ -50,7 +219,49 @@
         "url": "https://www.afntijuana.info/informacion_general/181773_invitan_a_alumnos_de_bachillerato_a_solicitar_la_beca_benito_juarez",
         "_added_at": "2026-09-17T00:50:13.183848-07:00"
       }
+    ],
+    "eventos": [
+      {
+        "title": "Sinergia 2026 de CETYS trae Bienal Europea del Libro a Ensenada",
+        "summary": "Por primera vez en América Latina, evento literario europeo se realizará en puerto ensenadense.",
+        "zona": "Ensenada",
+        "source": "EnsenadaHoy",
+        "url": "https://ensenadahoy.com/noticias/ver/6954",
+        "_added_at": "2026-09-17T12:35:23.724586-07:00"
+      },
+      {
+        "title": "Edición Ensenada Se Viste de Vino 2026 a beneficio de Cruz Roja",
+        "summary": "Festival vinícola de Ensenada se realizará como evento benéfico para institución de asistencia.",
+        "zona": "Ensenada",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/edicion-de-ensenada-se-viste-de-vino-2026-sera-a-beneficio-de-la-cruz-roja/?utm_source=rss&utm_medium=rss&utm_campaign=edicion-de-ensenada-se-viste-de-vino-2026-sera-a-beneficio-de-la-cruz-roja",
+        "_added_at": "2026-09-17T12:35:23.724586-07:00"
+      },
+      {
+        "title": "Miles de ensenadenses disfrutan desfile cívico militar de Independencia",
+        "summary": "Ensenada conmemora 216 aniversario de Independencia de México con desfile multitudinario.",
+        "zona": "Ensenada",
+        "source": "EnsenadaHoy",
+        "url": "https://ensenadahoy.com/noticias/ver/6953",
+        "_added_at": "2026-09-17T12:35:23.724586-07:00"
+      },
+      {
+        "title": "Marina del Pilar inaugura central de autobuses en Valle de Guadalupe",
+        "summary": "Gobernadora inaugura terminal de transporte en zona vinícola de Baja California.",
+        "zona": "Ensenada",
+        "source": "Milenio",
+        "url": "https://www.milenio.com/estados/marina-pilar-inaugura-central-autobuses-valle-guadalupe",
+        "_added_at": "2026-09-17T12:35:23.724586-07:00"
+      },
+      {
+        "title": "Xolos conquista Baja Cup venciendo 2-1 a San Diego FC",
+        "summary": "Equipo local gana torneo fronterizo en competencia de clubes de Tijuana y San Diego.",
+        "zona": "Tijuana",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/deportes/2026/09/17/xolos-conquista-la-baja-cup-tras-vencer-2-1-al-san-diego-fc/",
+        "_added_at": "2026-09-17T12:35:23.724586-07:00"
+      }
     ]
   },
-  "last_updated": "2026-09-17T00:50:13.183848-07:00"
+  "last_updated": "2026-09-17T12:35:23.724586-07:00"
 }

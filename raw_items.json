@@ -1,53 +1,887 @@
 {
-  "generated_at": "2026-09-17T07:50:12.563385+00:00",
+  "generated_at": "2026-09-17T19:35:23.141016+00:00",
   "items": [
     {
+      "title": "Acribillan a guardia de seguridad del Sport Billar & Karaoke “El Ocho Negro”",
+      "url": "https://zetatijuana.com/2026/09/acribillan-a-guardia-de-seguridad-del-sport-billar-karaoke-el-ocho-negro/?utm_source=rss&utm_medium=rss&utm_campaign=acribillan-a-guardia-de-seguridad-del-sport-billar-karaoke-el-ocho-negro",
+      "published": "Thu, 17 Sep 2026 18:25:37 +0000",
+      "source": "ZETA Tijuana",
+      "zona": "Tijuana"
+    },
+    {
+      "title": "Trasladaban a 31 migrantes ocultos en caja de camioneta; detienen al conductor",
+      "url": "https://www.afntijuana.info/informacion_general/181800_trasladaban_a_31_migrantes_ocultos_en_caja_de_camioneta_detienen_al_conductor",
+      "published": "",
       "source": "AFN Tijuana",
-      "title": "Invitan a alumnos de bachillerato a solicitar la beca Benito Juárez",
-      "url": "https://www.afntijuana.info/informacion_general/181773_invitan_a_alumnos_de_bachillerato_a_solicitar_la_beca_benito_juarez",
-      "published": ""
+      "zona": "Tijuana"
     },
     {
+      "title": "Sinergia 2026 de CETYS traerá a BC Bienal Europea de Arte del Libro, por primera vez en América Latina",
+      "url": "https://ensenadahoy.com/noticias/ver/6954",
+      "published": "",
+      "source": "EnsenadaHoy",
+      "zona": "Ensenada"
+    },
+    {
+      "title": "Abren registro para la Beca Benito Juárez; estos son los requisitos",
+      "url": "https://agpnoticias.com/news/abren-registro-para-la-beca-benito-juarez-estos-son-los-requisitos/",
+      "published": "Thu, 17 Sep 2026 19:16:44 +0000",
+      "source": "AGP Noticias",
+      "zona": "Ensenada"
+    },
+    {
+      "title": "Vinculan a proceso a hombre por delitos contra la salud en Ensenada",
+      "url": "https://argumentonoticias.com/2026/09/17/vinculan-a-proceso-a-hombre-por-delitos-contra-la-salud-en-ensenada/",
+      "published": "Thu, 17 Sep 2026 19:29:07 +0000",
+      "source": "Argumento Noticias",
+      "zona": "Ensenada"
+    },
+    {
+      "title": "Pescadores hallan torpedo a la deriva frente al puerto de Ensenada; fue asegurado por personal...",
+      "url": "https://www.milenio.com/estados/pescadores-ensenada-encuentran-torpedo-de-practicas-altamar",
+      "published": "",
+      "source": "Milenio (Ensenada)",
+      "zona": "Ensenada"
+    },
+    {
+      "title": "Party Mix 98.9 FM Tijuana",
+      "url": "https://partymixfm.com/tijuana",
+      "published": "",
+      "source": "Esquina 32",
+      "zona": "Tijuana"
+    },
+    {
+      "title": "Vinculan a proceso a hombre detenido con casi 81 kilos de cocaína en Otay",
+      "url": "https://www.enlineabc.com.mx/seguridad/2026/09/17/vinculan-a-proceso-a-hombre-detenido-con-casi-81-kilos-de-cocaina-en-otay/",
+      "published": "Thu, 17 Sep 2026 18:52:55 +0000",
+      "source": "En Línea BC",
+      "zona": "Baja California"
+    },
+    {
+      "title": "¿Son las mujeres un objetivo cada vez más frecuente de los ciberdelincuentes?Nacional |17 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Nacional/99533/%C2%BFSon-las-mujeres-un-objetivo-cada-vez-m%C3%A1s-frecuente-de-los-ciberdelincuentes%3F",
+      "published": "",
       "source": "El Mexicano",
-      "title": "Vuelca camioneta en la Vía Rápida OrientePoliciaca |16 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Policiaca/99508/Vuelca-camioneta-en-la-V%C3%ADa-R%C3%A1pida-Oriente",
-      "published": ""
+      "zona": "Baja California"
     },
     {
+      "title": "Testamento: ¿qué pasa con una casa si no hay?",
+      "url": "https://www.elimparcial.com/tij/tijuana/2026/09/17/que-pasa-con-una-casa-o-terreno-cuando-muere-el-dueno-el-testamento-puede-evitar-conflictos-entre-familiares/",
+      "published": "",
+      "source": "El Imparcial (Tijuana)",
+      "zona": "Tijuana"
+    },
+    {
+      "title": "Muere influencer y mujer tras partirse su auto de lujo en dos",
+      "url": "https://www.tvaztecabajacalifornia.com/noticias/muere-influencer-y-mujer-tras-partirse-su-auto-de-lujo-en-dos/",
+      "published": "",
+      "source": "TV Azteca BC",
+      "zona": "Baja California"
+    },
+    {
+      "title": "Lanzan bombas molotov contra una casa en Cerro de las Abejas",
+      "url": "https://www.tvaztecabajacalifornia.com/policiaca/lanzan-bombas-molotov-contra-una-casa-en-cerro-de-las-abejas/",
+      "published": "",
+      "source": "TV Azteca BC (policiaca)",
+      "zona": "Baja California"
+    },
+    {
+      "title": "Municipales atoran a hombre armado que minutos antes había robado un celular",
+      "url": "https://tjcomunica.com/municipales-atoran-a-hombre-armado-que-minutos-antes-habia-robado-un-celular/",
+      "published": "Thu, 17 Sep 2026 18:58:27 +0000",
       "source": "TJ Comunica",
-      "title": "Tijuana celebró el Grito de Independencia con miles de personas y saldo blanco",
-      "url": "https://tjcomunica.com/tijuana-celebro-el-grito-de-independencia-con-miles-de-personas-y-saldo-blanco/",
-      "published": ""
+      "zona": "Tijuana"
     },
     {
+      "title": "Edición de Ensenada Se Viste de Vino 2026 será a beneficio de la Cruz Roja",
+      "url": "https://zetatijuana.com/2026/09/edicion-de-ensenada-se-viste-de-vino-2026-sera-a-beneficio-de-la-cruz-roja/?utm_source=rss&utm_medium=rss&utm_campaign=edicion-de-ensenada-se-viste-de-vino-2026-sera-a-beneficio-de-la-cruz-roja",
+      "published": "Thu, 17 Sep 2026 18:06:57 +0000",
+      "source": "ZETA Tijuana",
+      "zona": "Tijuana"
+    },
+    {
+      "title": "El 53% de las entidades no cumple con publicar salarios del Ejecutivo",
+      "url": "https://www.afntijuana.info/nacionales/181799_el_53_de_las_entidades_no_cumple_con_publicar_salarios_del_ejecutivo",
+      "published": "",
       "source": "AFN Tijuana",
-      "title": "Hombres armados privaron de su libertad a un hombre en Ensenada",
-      "url": "https://www.afntijuana.info/seguridad/181772_hombres_armados_privaron_de_su_libertad_a_un_hombre_en_ensenada",
-      "published": ""
+      "zona": "Tijuana"
     },
     {
+      "title": "Miles de ensenadenses disfrutan desfile cívico militar por el 216 aniversario de la Independencia de México",
+      "url": "https://ensenadahoy.com/noticias/ver/6953",
+      "published": "",
+      "source": "EnsenadaHoy",
+      "zona": "Ensenada"
+    },
+    {
+      "title": "Julieta Ramírez llama a cerrar filas en Morena tras proceso interno en Baja California",
+      "url": "https://agpnoticias.com/news/julieta-ramirez-llama-a-cerrar-filas-en-morena-tras-proceso-interno-en-baja-california/",
+      "published": "Thu, 17 Sep 2026 15:14:49 +0000",
+      "source": "AGP Noticias",
+      "zona": "Ensenada"
+    },
+    {
+      "title": "MSC Cruceros realizará jornada de reclutamiento en Ensenada",
+      "url": "https://argumentonoticias.com/2026/09/17/msc-cruceros-realizara-jornada-de-reclutamiento-en-ensenada/",
+      "published": "Thu, 17 Sep 2026 19:20:27 +0000",
+      "source": "Argumento Noticias",
+      "zona": "Ensenada"
+    },
+    {
+      "title": "Empresario Jesús Molina aparece con vida tras ser privado de la libertad en Baja California",
+      "url": "https://www.milenio.com/videos/estados/empresario-jesus-molina-aparece-vida-privado-libertad-baja-california",
+      "published": "",
+      "source": "Milenio (Ensenada)",
+      "zona": "Ensenada"
+    },
+    {
+      "title": "Estéreo Baja 1550 AM Tijuana",
+      "url": "https://estereobaja.mx/tijuana",
+      "published": "",
+      "source": "Esquina 32",
+      "zona": "Tijuana"
+    },
+    {
+      "title": "Softbolistas de BC se mantiene en ruta a los Ángeles 2028",
+      "url": "https://www.enlineabc.com.mx/deportes/2026/09/17/softbolistas-de-bc-se-mantiene-en-ruta-a-los-angeles-2028/",
+      "published": "Thu, 17 Sep 2026 18:47:10 +0000",
+      "source": "En Línea BC",
+      "zona": "Baja California"
+    },
+    {
+      "title": "Maylin Monserrat celebra sus XV Años con una gran galaSociales |17 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Sociales/99532/Maylin-Monserrat-celebra-sus-XV-A%C3%B1os-con-una-gran-gala",
+      "published": "",
       "source": "El Mexicano",
-      "title": "Vuelca camioneta en la Vía Rápida OrientePoliciaca| miércoles 16 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Policiaca/99508/Vuelca-camioneta-en-la-V%C3%ADa-R%C3%A1pida-Oriente",
-      "published": ""
+      "zona": "Baja California"
     },
     {
+      "title": "Hallan muerta a alumna de medicina desaparecida en Jalisco",
+      "url": "https://www.elimparcial.com/mexico/2026/09/17/hallan-sin-vida-a-karla-margarita-perez-estudiante-de-medicina-desaparecida-en-jalisco-su-familia-confirma-la-identidad/",
+      "published": "",
+      "source": "El Imparcial (Tijuana)",
+      "zona": "Tijuana"
+    },
+    {
+      "title": "Segundo Simulacro Nacional 2026: ¿a qué hora sonará la alarma sísmica en Tijuana y cuál será el escenario?",
+      "url": "https://www.tvaztecabajacalifornia.com/noticias/segundo-simulacro-nacional-2026-a-que-hora-sonara-la-alarma-sismica-en-tijuana-y-cual-sera-el-escenario/",
+      "published": "",
+      "source": "TV Azteca BC",
+      "zona": "Baja California"
+    },
+    {
+      "title": "Duda Alves, “la niña que odiaba todo” muere a los 22 años, días después de mostrar su recuperación tras cirugía",
+      "url": "https://www.tvaztecabajacalifornia.com/tendencia/duda-alves-la-nina-que-odiaba-todo-muere-a-los-22-anos-dias-despues-de-mostrar-su-recuperacion-tras-cirugia/",
+      "published": "",
+      "source": "TV Azteca BC (policiaca)",
+      "zona": "Baja California"
+    },
+    {
+      "title": "Lanzan bombas molotov contra domicilio en Cerro de las Abejas; vecinos sofocan incendio",
+      "url": "https://tjcomunica.com/lanzan-bombas-molotov-contra-domicilio-en-cerro-de-las-abejas-vecinos-sofocan-incendio/",
+      "published": "Thu, 17 Sep 2026 17:29:57 +0000",
+      "source": "TJ Comunica",
+      "zona": "Tijuana"
+    },
+    {
+      "title": "Pescadores localizan un torpedo en el mar de Ensenada",
+      "url": "https://zetatijuana.com/2026/09/pescadores-localizan-un-torpedo-en-el-mar-de-ensenada/?utm_source=rss&utm_medium=rss&utm_campaign=pescadores-localizan-un-torpedo-en-el-mar-de-ensenada",
+      "published": "Thu, 17 Sep 2026 17:28:34 +0000",
+      "source": "ZETA Tijuana",
+      "zona": "Tijuana"
+    },
+    {
+      "title": "Proponen prohibir las \"novatadas\" o prácticas de iniciación por riesgosas",
+      "url": "https://www.afntijuana.info/deportes/181798_proponen_prohibir_las_novatadas_o_practicas_de_iniciacion_por_riesgosas",
+      "published": "",
       "source": "AFN Tijuana",
-      "title": "Pelean conductores y atropellan a uno en el bulevar Agua Caliente",
-      "url": "https://www.afntijuana.info/informacion_general/181771_pelean_conductores_y_atropellan_a_uno_en_el_bulevar_agua_caliente",
-      "published": ""
+      "zona": "Tijuana"
     },
     {
-      "source": "AFN Tijuana",
-      "title": "Exige Trump a México actuar contra \"narcopolíticos\" protectores de cárteles",
-      "url": "https://www.afntijuana.info/nacionales/181770_exige_trump_a_mexico_actuar_contra_narcopoliticos_protectores_de_carteles",
-      "published": ""
+      "title": "Da Claudia Agatón Grito de Independencia ante 8 mil ensenadenses",
+      "url": "https://ensenadahoy.com/noticias/ver/6952",
+      "published": "",
+      "source": "EnsenadaHoy",
+      "zona": "Ensenada"
     },
     {
+      "title": "Refuerzan prevención de violencia sexual contra niñas, niños y adolescentes",
+      "url": "https://argumentonoticias.com/2026/09/17/refuerzan-prevencion-de-violencia-sexual-contra-ninas-ninos-y-adolescentes/",
+      "published": "Thu, 17 Sep 2026 19:09:54 +0000",
+      "source": "Argumento Noticias",
+      "zona": "Ensenada"
+    },
+    {
+      "title": "¿500 pesos por un mango? Así comenzó el operativo contra comerciantes en Ensenada",
+      "url": "https://www.milenio.com/videos/virales/500-pesos-mango-comenzo-operativo-comerciantes-ensenada",
+      "published": "",
+      "source": "Milenio (Ensenada)",
+      "zona": "Ensenada"
+    },
+    {
+      "title": "Party Mix 106.7 FM Mexicali",
+      "url": "https://partymixfm.com/mexicali",
+      "published": "",
+      "source": "Esquina 32",
+      "zona": "Tijuana"
+    },
+    {
+      "title": "Realiza Gobierno Municipal foro para integrar el Programa Municipal de Protección de menores",
+      "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/17/realiza-gobierno-municipal-foro-para-integrar-el-programa-municipal-de-proteccion-de-menores/",
+      "published": "Thu, 17 Sep 2026 18:23:00 +0000",
+      "source": "En Línea BC",
+      "zona": "Baja California"
+    },
+    {
+      "title": "Sheinbaum responde a críticas por vestido del Grito: “Yo reciclo mi ropa”Nacional |17 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Nacional/99531/Sheinbaum-responde-a-cr%C3%ADticas-por-vestido-del-Grito%3A-%E2%80%9CYo-reciclo-mi-ropa%E2%80%9D",
+      "published": "",
       "source": "El Mexicano",
-      "title": "Incendio consume vivienda de madera en la colonia Francisco VillaEn total, tres unidades de Bomberos trabajaron en el lugar para controlar las llamas.Policiaca| miércoles 16 de septiembre",
-      "url": "https://el-mexicano.com.mx/Noticia/Policiaca/99507/Incendio-consume-vivienda-de-madera-en-la-colonia-Francisco-Villa",
-      "published": ""
+      "zona": "Baja California"
+    },
+    {
+      "title": "SMN alerta por lluvias intensas viernes, sábado y domingo",
+      "url": "https://www.elimparcial.com/mexico/2026/09/17/masa-de-aire-frio-junto-al-monzon-mexicano-y-la-onda-tropical-40-golpearan-mexico-este-viernes-sabado-y-domingo-con-lluvias-de-hasta-150-mm-vientos-de-70-kmh-y-calor-de-45-c/",
+      "published": "",
+      "source": "El Imparcial (Tijuana)",
+      "zona": "Tijuana"
+    },
+    {
+      "title": "Festejaban un bautizo y su hijo murió dentro de un auto a 41 °C; culpan al hermano",
+      "url": "https://www.tvaztecabajacalifornia.com/noticias/festejaban-un-bautizo-y-su-hijo-murio-dentro-de-un-auto-a-41-c-culpan-al-hermano/",
+      "published": "",
+      "source": "TV Azteca BC",
+      "zona": "Baja California"
+    },
+    {
+      "title": "Le quitan la vida a maestra en Escuinapa, Sinaloa; esto se sabe",
+      "url": "https://www.tvaztecabajacalifornia.com/policiaca/le-quitan-la-vida-a-maestra-en-escuinapa-sinaloa-esto-se-sabe/",
+      "published": "",
+      "source": "TV Azteca BC (policiaca)",
+      "zona": "Baja California"
+    },
+    {
+      "title": "Guardia de seguridad es asesinado a balazos en la entrada de un billar en Cerro Colorado",
+      "url": "https://tjcomunica.com/guardia-de-seguridad-es-asesinado-a-balazos-en-la-entrada-de-un-billar-en-cerro-colorado/",
+      "published": "Thu, 17 Sep 2026 17:26:28 +0000",
+      "source": "TJ Comunica",
+      "zona": "Tijuana"
+    },
+    {
+      "title": "Estado manipula cifras: 28% menos homicidios, 345% más desaparecidos",
+      "url": "https://zetatijuana.com/2026/09/estado-manipula-cifras-28-menos-homicidios-345-mas-desaparecidos/?utm_source=rss&utm_medium=rss&utm_campaign=estado-manipula-cifras-28-menos-homicidios-345-mas-desaparecidos",
+      "published": "Thu, 17 Sep 2026 17:05:23 +0000",
+      "source": "ZETA Tijuana",
+      "zona": "Tijuana"
+    },
+    {
+      "title": "Falta de cultura legal complica la elaboración de testamentos",
+      "url": "https://www.afntijuana.info/informacion_general/181797_falta_de_cultura_legal_complica_la_elaboracion_de_testamentos",
+      "published": "",
+      "source": "AFN Tijuana",
+      "zona": "Tijuana"
+    },
+    {
+      "title": "Tras la hazaña de obtener el boleto a los Juegos Olímpicos, la también entrenadora asimila lo ocurrido con madurez.",
+      "url": "https://ensenadahoy.com/noticias/ver/6951",
+      "published": "",
+      "source": "EnsenadaHoy",
+      "zona": "Ensenada"
+    },
+    {
+      "title": "Destinan recursos a proyectos turísticos en Baja California",
+      "url": "https://argumentonoticias.com/2026/09/17/destinan-recursos-a-proyectos-turisticos-en-baja-california/",
+      "published": "Thu, 17 Sep 2026 18:58:48 +0000",
+      "source": "Argumento Noticias",
+      "zona": "Ensenada"
+    },
+    {
+      "title": "¿Qué pasó? Turista expone a comerciante de Playa Hermosa, Ensenada, por venderle un plato con ...",
+      "url": "https://www.milenio.com/virales/comerciante-vende-mango-500-pesos-playa-ensenada-que-paso",
+      "published": "",
+      "source": "Milenio (Ensenada)",
+      "zona": "Ensenada"
+    },
+    {
+      "title": "Estéreo Baja 1190 AM Mexicali",
+      "url": "https://estereobaja.mx/mexicali",
+      "published": "",
+      "source": "Esquina 32",
+      "zona": "Tijuana"
+    },
+    {
+      "title": "Abandonan a 31 migrantes en camioneta modificada bajo calor del desierto de California",
+      "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/17/abandonan-a-31-migrantes-en-camioneta-modificada-bajo-calor-del-desierto-de-california/",
+      "published": "Thu, 17 Sep 2026 17:46:32 +0000",
+      "source": "En Línea BC",
+      "zona": "Baja California"
+    },
+    {
+      "title": "Muere ciclista tras ser atropellado en la Vía Rápida PonientePoliciaca| jueves 17 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Policiaca/99518/Muere-ciclista-tras-ser-atropellado-en-la-V%C3%ADa-R%C3%A1pida-Poniente",
+      "published": "",
+      "source": "El Mexicano",
+      "zona": "Baja California"
+    },
+    {
+      "title": "Descubren minerales que podrían almacenar agua en la Tierra",
+      "url": "https://www.elimparcial.com/locurioso/2026/09/17/cientificos-descubren-dos-minerales-capaces-de-retener-y-almacenar-agua-a-2900-kilometros-de-profundidad-donde-las-temperaturas-y-presiones-extremas-podrian-permitir-que-estos-compuestos-de-hierro-funcionen-como-reservorios-de-hidrogeno-dentro-de-la-tierra/",
+      "published": "",
+      "source": "El Imparcial (Tijuana)",
+      "zona": "Tijuana"
+    },
+    {
+      "title": "Hombre agarra a golpes a su esposa porque no lo dejó ver un partido del América",
+      "url": "https://www.tvaztecabajacalifornia.com/noticias/hombre-agarra-a-golpes-a-su-esposa-porque-no-lo-dejo-ver-un-partido-del-america/",
+      "published": "",
+      "source": "TV Azteca BC",
+      "zona": "Baja California"
+    },
+    {
+      "title": "¡De terror! Hijos encuentran sin vida a su madre; investigan a su expareja",
+      "url": "https://www.tvaztecabajacalifornia.com/policiaca/de-terror-hijos-encuentran-sin-vida-a-su-madre-investigan-a-su-expareja/",
+      "published": "",
+      "source": "TV Azteca BC (policiaca)",
+      "zona": "Baja California"
+    },
+    {
+      "title": "Muere ciclista tras ser atropellado en la Vía Rápida Poniente",
+      "url": "https://tjcomunica.com/muere-ciclista-tras-ser-atropellado-en-la-via-rapida-poniente/",
+      "published": "Thu, 17 Sep 2026 17:19:38 +0000",
+      "source": "TJ Comunica",
+      "zona": "Tijuana"
+    },
+    {
+      "title": "Conectividad y logística: Banobras modernizará la red carretera desde Punta Colonet hasta Mexicali",
+      "url": "https://zetatijuana.com/2026/09/conectividad-y-logistica-banobras-modernizara-la-red-carretera-desde-punta-colonet-hasta-mexicali/?utm_source=rss&utm_medium=rss&utm_campaign=conectividad-y-logistica-banobras-modernizara-la-red-carretera-desde-punta-colonet-hasta-mexicali",
+      "published": "Thu, 17 Sep 2026 17:01:39 +0000",
+      "source": "ZETA Tijuana",
+      "zona": "Tijuana"
+    },
+    {
+      "title": "Invita el IEEBC a programa de capacitación sobre violencia de género",
+      "url": "https://www.afntijuana.info/informacion_general/181796_invita_el_ieebc_a_programa_de_capacitacion_sobre_violencia_de_genero",
+      "published": "",
+      "source": "AFN Tijuana",
+      "zona": "Tijuana"
+    },
+    {
+      "title": "Aprueba Asamblea de Proturismo expedir convocatoria para elección de la Dirección General de la Paramunicipal",
+      "url": "https://ensenadahoy.com/noticias/ver/6950",
+      "published": "",
+      "source": "EnsenadaHoy",
+      "zona": "Ensenada"
+    },
+    {
+      "title": "Realizan más de 417 mil acciones preventivas de salud bucal en Baja California",
+      "url": "https://argumentonoticias.com/2026/09/17/realizan-mas-de-417-mil-acciones-preventivas-de-salud-bucal-en-baja-california/",
+      "published": "Thu, 17 Sep 2026 18:47:12 +0000",
+      "source": "Argumento Noticias",
+      "zona": "Ensenada"
+    },
+    {
+      "title": "Vecinos de Ensenada respaldan al exgobernador Ernesto Ruffo: \"El día que regrese vamos a hacer...",
+      "url": "https://www.milenio.com/estados/vecinos-ensenada-respaldan-exgobernador-ernesto-ruffo",
+      "published": "",
+      "source": "Milenio (Ensenada)",
+      "zona": "Ensenada"
+    },
+    {
+      "title": "La Calurosa 100.3 FM Ensenada",
+      "url": "https://lacalurosa.mx",
+      "published": "",
+      "source": "Esquina 32",
+      "zona": "Tijuana"
+    },
+    {
+      "title": "Inteligencia artificial divide al mundo entre innovación, regulación y temor a sus riesgos",
+      "url": "https://www.enlineabc.com.mx/editorial/2026/09/17/inteligencia-artificial-divide-al-mundo-entre-innovacion-regulacion-y-temor-a-sus-riesgos/",
+      "published": "Thu, 17 Sep 2026 15:20:36 +0000",
+      "source": "En Línea BC",
+      "zona": "Baja California"
+    },
+    {
+      "title": "Sheinbaum destaca avances de mujeres en política, pero señala pendientesNacional |17 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Nacional/99530/Sheinbaum-destaca-avances-de-mujeres-en-pol%C3%ADtica,-pero-se%C3%B1ala-pendientes",
+      "published": "",
+      "source": "El Mexicano",
+      "zona": "Baja California"
+    },
+    {
+      "title": "Harfuch confirma captura de “El Señor de la T” del CJNG",
+      "url": "https://www.elimparcial.com/mexico/2026/09/17/detienen-en-michoacan-a-el-senor-de-la-t-presunto-coordinador-regional-del-cjng-senalado-por-extorsion-y-violencia-en-cinco-municipios/",
+      "published": "",
+      "source": "El Imparcial (Tijuana)",
+      "zona": "Tijuana"
+    },
+    {
+      "title": "¡Vivió 11 años con el cadáver de su madre! Hija fue condenada por cobrar su pensión",
+      "url": "https://www.tvaztecabajacalifornia.com/noticias/vivio-11-anos-con-el-cadaver-de-su-madre-hija-fue-condenada-por-cobrar-su-pension/",
+      "published": "",
+      "source": "TV Azteca BC",
+      "zona": "Baja California"
+    },
+    {
+      "title": "¡Tío y sobrino se enfrentan con machete y bate en Mexicali! Riña familiar se sale de control este 11 de septiembre",
+      "url": "https://www.tvaztecabajacalifornia.com/policiaca/tio-y-sobrino-se-enfrentan-con-machete-y-bate-en-mexicali-rina-familiar-se-sale-de-control-este-11-de-septiembre/",
+      "published": "",
+      "source": "TV Azteca BC (policiaca)",
+      "zona": "Baja California"
+    },
+    {
+      "title": "En respuesta a las críticas de Trump, Sheinbaum responde: ¿Qué hace EU contra el consumo de drogas?",
+      "url": "https://zetatijuana.com/2026/09/en-respuesta-a-las-criticas-de-trump-sheinbaum-responde-que-hace-eu-contra-el-consumo-de-drogas/?utm_source=rss&utm_medium=rss&utm_campaign=en-respuesta-a-las-criticas-de-trump-sheinbaum-responde-que-hace-eu-contra-el-consumo-de-drogas",
+      "published": "Thu, 17 Sep 2026 15:45:35 +0000",
+      "source": "ZETA Tijuana",
+      "zona": "Tijuana"
+    },
+    {
+      "title": "Hallan un cadáver en bolsas de plástico en la colonia Manuel Paredes",
+      "url": "https://www.afntijuana.info/seguridad/181795_hallan_un_cadaver_en_bolsas_de_plastico_en_la_colonia_manuel_paredes",
+      "published": "",
+      "source": "AFN Tijuana",
+      "zona": "Tijuana"
+    },
+    {
+      "title": "Control de luz y privacidad ARGO PERSIANAS",
+      "url": "https://ensenadahoy.com/clasificados/ver/271197",
+      "published": "",
+      "source": "EnsenadaHoy",
+      "zona": "Ensenada"
+    },
+    {
+      "title": "Vinculan a proceso a hombre por probable violencia familiar en Ensenada",
+      "url": "https://argumentonoticias.com/2026/09/17/vinculan-a-proceso-a-hombre-por-probable-violencia-familiar-en-ensenada/",
+      "published": "Thu, 17 Sep 2026 18:25:28 +0000",
+      "source": "Argumento Noticias",
+      "zona": "Ensenada"
+    },
+    {
+      "title": "Recuperan vehículos de lujo robados en aduana marítima de Ensenada",
+      "url": "https://www.milenio.com/policia/marina-recupera-vehiculos-robados-aduana-maritima-ensenada",
+      "published": "",
+      "source": "Milenio (Ensenada)",
+      "zona": "Ensenada"
+    },
+    {
+      "title": "Condado de San Diego advierte al Centro de Detención de Otay Mesa por fallas al reportar tuberculosis",
+      "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/17/condado-de-san-diego-advierte-al-centro-de-detencion-de-otay-mesa-por-fallas-al-reportar-tuberculosis/",
+      "published": "Thu, 17 Sep 2026 15:18:15 +0000",
+      "source": "En Línea BC",
+      "zona": "Baja California"
+    },
+    {
+      "title": "Privados asumen riesgo en nuevos proyectos carreteros: SheinbaumNacional |17 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Nacional/99529/Privados-asumen-riesgo-en-nuevos-proyectos-carreteros%3A-Sheinbaum",
+      "published": "",
+      "source": "El Mexicano",
+      "zona": "Baja California"
+    },
+    {
+      "title": "Ari Telch llega a Tijuana con “D’MENTE”",
+      "url": "https://www.elimparcial.com/tij/tijuana/2026/09/17/ari-telch-destapa-la-mente-asi-aborda-la-salud-mental-con-humor-en-dmente/",
+      "published": "",
+      "source": "El Imparcial (Tijuana)",
+      "zona": "Tijuana"
+    },
+    {
+      "title": "Abuela cayó a una fosa séptica al intentar salvar a su nieto; ambos perdieron la vida",
+      "url": "https://www.tvaztecabajacalifornia.com/noticias/abuela-cayo-a-una-fosa-septica-al-intentar-salvar-a-su-nieto-ambos-perdieron-la-vida/",
+      "published": "",
+      "source": "TV Azteca BC",
+      "zona": "Baja California"
+    },
+    {
+      "title": "Amenazó con quemar una casa y causarles daño; mujer es detenida por extorsión en Mexicali",
+      "url": "https://www.tvaztecabajacalifornia.com/policiaca/amenazo-con-quemar-una-casa-y-causarles-dano-mujer-es-detenida-por-extorsion-en-mexicali/",
+      "published": "",
+      "source": "TV Azteca BC (policiaca)",
+      "zona": "Baja California"
+    },
+    {
+      "title": "Identifican a homicida de estudiante española; citarán a comparecer al fiscal de Morelos",
+      "url": "https://www.afntijuana.info/nacionales/181794_identifican_a_homicida_de_estudiante_espanola_citaran_a_comparecer_al_fiscal_de_morelos",
+      "published": "",
+      "source": "AFN Tijuana",
+      "zona": "Tijuana"
+    },
+    {
+      "title": "rento casa en valle dorado estacionamiento compartido en 10.000",
+      "url": "https://ensenadahoy.com/bienes_raices/ver/26FA6B",
+      "published": "",
+      "source": "EnsenadaHoy",
+      "zona": "Ensenada"
+    },
+    {
+      "title": "Marina recupera torpedo de prácticas a 42.7 kilómetros de Ensenada",
+      "url": "https://argumentonoticias.com/2026/09/17/marina-recupera-torpedo-de-practicas-a-42-7-kilometros-de-ensenada/",
+      "published": "Thu, 17 Sep 2026 18:15:22 +0000",
+      "source": "Argumento Noticias",
+      "zona": "Ensenada"
+    },
+    {
+      "title": "En Ensenada, detienen a estudiante de medicina que presuntamente descuartizo gatos",
+      "url": "https://www.milenio.com/estados/ensenada-detienen-astudiante-medicina-descuartizaba-gatos",
+      "published": "",
+      "source": "Milenio (Ensenada)",
+      "zona": "Ensenada"
+    },
+    {
+      "title": "Diputado Echavarría insta a fortalecer atención educativa a menores con neurodivergencia",
+      "url": "https://www.enlineabc.com.mx/estatal/2026/09/17/diputado-echavarria-insta-a-fortalecer-atencion-educativa-a-menores-con-neurodivergencia/",
+      "published": "Thu, 17 Sep 2026 15:17:08 +0000",
+      "source": "En Línea BC",
+      "zona": "Baja California"
+    },
+    {
+      "title": "Presidenta explica por qué Allende no fue incluido en el Grito de IndependenciaNacional |17 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Nacional/99528/Presidenta-explica-por-qu%C3%A9-Allende-no-fue-incluido-en-el-Grito-de-Independencia",
+      "published": "",
+      "source": "El Mexicano",
+      "zona": "Baja California"
+    },
+    {
+      "title": "Sheinbaum pide a EEUU actuar contra consumo de drogas",
+      "url": "https://www.elimparcial.com/mexico/2026/09/17/sheinbaum-responde-a-trump-por-peticion-de-combatir-la-narcocorrupcion-en-mexico-y-pide-a-eeuu-actuar-contra-consumo-de-drogas-y-trafico-de-armas/",
+      "published": "",
+      "source": "El Imparcial (Tijuana)",
+      "zona": "Tijuana"
+    },
+    {
+      "title": "VIDEO: Enamorados mueren tras ser embestidos por una embarcación en canales de Venecia; tenían 3 meses de casados",
+      "url": "https://www.tvaztecabajacalifornia.com/noticias/video-enamorados-mueren-tras-ser-embestidos-por-una-embarcacion-en-canales-de-venecia-tenian-3-meses-de-casados/",
+      "published": "",
+      "source": "TV Azteca BC",
+      "zona": "Baja California"
+    },
+    {
+      "title": "Persecución policial termina en tragedia en San Diego; camioneta se estrella contra un poste",
+      "url": "https://www.tvaztecabajacalifornia.com/policiaca/persecucion-policial-termina-en-tragedia-en-san-diego-camioneta-se-estrella-contra-un-poste/",
+      "published": "",
+      "source": "TV Azteca BC (policiaca)",
+      "zona": "Baja California"
+    },
+    {
+      "title": "¡TRUMP CONTRA POLÍTICOS CORRUPTOS EN MÉXICO! SHEINBAUM RESPONDE Y DEFIENDE LA SOBERANÍA",
+      "url": "https://www.afntijuana.info/editoriales/181793_trump_contra_politicos_corruptos_en_mexico_sheinbaum_responde_y_defiende_la_soberania",
+      "published": "",
+      "source": "AFN Tijuana",
+      "zona": "Tijuana"
+    },
+    {
+      "title": "Casa 3 Rec. Col. Echeverria",
+      "url": "https://ensenadahoy.com/clasificados/ver/2705AD",
+      "published": "",
+      "source": "EnsenadaHoy",
+      "zona": "Ensenada"
+    },
+    {
+      "title": "Los cronistas: memoria, identidad y compromiso con nuestro tiempo",
+      "url": "https://argumentonoticias.com/2026/09/17/los-cronistas-memoria-identidad-y-compromiso-con-nuestro-tiempo/",
+      "published": "Thu, 17 Sep 2026 07:00:00 +0000",
+      "source": "Argumento Noticias",
+      "zona": "Ensenada"
+    },
+    {
+      "title": "Marina del Pilar inaugura central de autobuses en Valle de Guadalupe",
+      "url": "https://www.milenio.com/estados/marina-pilar-inaugura-central-autobuses-valle-guadalupe",
+      "published": "",
+      "source": "Milenio (Ensenada)",
+      "zona": "Ensenada"
+    },
+    {
+      "title": "Gobierno federal confirma captura de integrante de “Los Rusos” en Mexicali",
+      "url": "https://www.enlineabc.com.mx/seguridad/2026/09/17/gobierno-federal-confirma-captura-de-integrante-de-los-rusos-en-mexicali/",
+      "published": "Thu, 17 Sep 2026 15:08:30 +0000",
+      "source": "En Línea BC",
+      "zona": "Baja California"
+    },
+    {
+      "title": "Lanzan bombas molotov contra casa en Cerro de las Abejas",
+      "url": "https://www.elimparcial.com/tij/policiaca/2026/09/17/lanzan-bombas-molotov-contra-domicilio-en-cerro-de-las-abejas-vecinos-sofocan-incendio/",
+      "published": "",
+      "source": "El Imparcial (Tijuana)",
+      "zona": "Tijuana"
+    },
+    {
+      "title": "¡La IA podría salirse de control! Exinvestigador lanza aterradora advertencia y la ONU pide actuar",
+      "url": "https://www.tvaztecabajacalifornia.com/noticias/la-ia-podria-salirse-de-control-exinvestigador-lanza-aterradora-advertencia-y-la-onu-pide-actuar/",
+      "published": "",
+      "source": "TV Azteca BC",
+      "zona": "Baja California"
+    },
+    {
+      "title": "Hallan cuerpo dentro de una bolsa negra cerca de una primaria en Tijuana",
+      "url": "https://www.tvaztecabajacalifornia.com/policiaca/hallan-cuerpo-dentro-de-una-bolsa-cerca-de-una-primaria-en-tijuana/",
+      "published": "",
+      "source": "TV Azteca BC (policiaca)",
+      "zona": "Baja California"
+    },
+    {
+      "title": "Organizan jornada de limpia costera en Playas de Rosarito",
+      "url": "https://www.afntijuana.info/informacion_general/181792_organizan_jornada_de_limpia_costera_en_playas_de_rosarito",
+      "published": "",
+      "source": "AFN Tijuana",
+      "zona": "Tijuana"
+    },
+    {
+      "title": "Solicito vendedor de vinos e insumos",
+      "url": "https://ensenadahoy.com/empleos/ver/60335",
+      "published": "",
+      "source": "EnsenadaHoy",
+      "zona": "Ensenada"
+    },
+    {
+      "title": "Ciencia para pensar | ¿Exobiología o astrobiología? ¿Es lo mismo?",
+      "url": "https://argumentonoticias.com/2026/09/17/ciencia-para-pensar-exobiologia-o-astrobiologia-es-lo-mismo/",
+      "published": "Thu, 17 Sep 2026 07:00:00 +0000",
+      "source": "Argumento Noticias",
+      "zona": "Ensenada"
+    },
+    {
+      "title": "Exigen justicia por feminicidio de Carolina Flores en Ensenada; piden detención de su suegra",
+      "url": "https://www.milenio.com/policia/exigen-justicia-por-feminicidio-de-carolina-flores-en-ensenada",
+      "published": "",
+      "source": "Milenio (Ensenada)",
+      "zona": "Ensenada"
+    },
+    {
+      "title": "Xolos conquista la Baja Cup tras vencer 2-1 al San Diego FC",
+      "url": "https://www.enlineabc.com.mx/deportes/2026/09/17/xolos-conquista-la-baja-cup-tras-vencer-2-1-al-san-diego-fc/",
+      "published": "Thu, 17 Sep 2026 15:07:20 +0000",
+      "source": "En Línea BC",
+      "zona": "Baja California"
+    },
+    {
+      "title": "Realizan acto cívico por el 216 aniversario de la Independencia de MéxicoTijuana| miércoles 16 de septiembre",
+      "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99494/Realizan-acto-c%C3%ADvico-por-el-216-aniversario-de-la-Independencia-de-M%C3%A9xico",
+      "published": "",
+      "source": "El Mexicano",
+      "zona": "Baja California"
+    },
+    {
+      "title": "Muere ciclista tras ser atropellado en Vía Rápida Poniente",
+      "url": "https://www.elimparcial.com/tij/policiaca/2026/09/17/muere-ciclista-tras-ser-atropellado-en-la-via-rapida-poniente-de-tijuana/",
+      "published": "",
+      "source": "El Imparcial (Tijuana)",
+      "zona": "Tijuana"
+    },
+    {
+      "title": "¡Ya falta poco! Este día se activará la alerta sísmica en Baja California",
+      "url": "https://www.tvaztecabajacalifornia.com/noticias/ya-falta-poco-este-dia-se-activara-la-alerta-sismica-en-baja-california/",
+      "published": "",
+      "source": "TV Azteca BC",
+      "zona": "Baja California"
+    },
+    {
+      "title": "¡OTRA MUERTE! Hombre es trasladado inconsciente de clínica vinculada a la Patrulla Espiritual en Tijuana; ya van dos fallecidos en menos de un mes ⚠️",
+      "url": "https://www.tvaztecabajacalifornia.com/policiaca/otra-muerte-hombre-es-trasladado-inconsciente-de-clinica-vinculada-a-la-patrulla-espiritual-en-tijuana-ya-van-dos-fallecidos-en-menos-de-un-mes/",
+      "published": "",
+      "source": "TV Azteca BC (policiaca)",
+      "zona": "Baja California"
+    },
+    {
+      "title": "Se mantiene el dólar por debajo de 17 pesos a la compra en septiembre",
+      "url": "https://www.afntijuana.info/informacion_general/181791_se_mantiene_el_dolar_por_debajo_de_17_pesos_a_la_compra_en_septiembre",
+      "published": "",
+      "source": "AFN Tijuana",
+      "zona": "Tijuana"
+    },
+    {
+      "title": "Se renta departamento 2 recamaras cerca de Iglesia de San Jose O",
+      "url": "https://ensenadahoy.com/clasificados/ver/2711DB",
+      "published": "",
+      "source": "EnsenadaHoy",
+      "zona": "Ensenada"
+    },
+    {
+      "title": "Asesinan a Ángel Pantoja fiscal de delitos contra la vida en Ensenada",
+      "url": "https://www.milenio.com/videos/policia/asesinan-angel-pantoja-fiscal-delitos-vida-ensenada",
+      "published": "",
+      "source": "Milenio (Ensenada)",
+      "zona": "Ensenada"
+    },
+    {
+      "title": "Padres despiertan con poder: Salas hace historia y San Diego aplasta a Colorado",
+      "url": "https://www.enlineabc.com.mx/deportes/2026/09/17/padres-despiertan-con-poder-salas-hace-historia-y-san-diego-aplasta-a-colorado/",
+      "published": "Thu, 17 Sep 2026 15:05:41 +0000",
+      "source": "En Línea BC",
+      "zona": "Baja California"
+    },
+    {
+      "title": "Subirá 140% cobro a trenes de carga",
+      "url": "https://www.elimparcial.com/dinero/2026/09/17/paquete-economico-2027-propone-subir-140-el-cobro-a-trenes-de-carga-especialistas-advierten-posible-impacto-en-tarifas-y-precios-de-mercancias/",
+      "published": "",
+      "source": "El Imparcial (Tijuana)",
+      "zona": "Tijuana"
+    },
+    {
+      "title": "¡30 Heridas! Hombre le quita la vida a estudiante por resistirse a una agresión",
+      "url": "https://www.tvaztecabajacalifornia.com/noticias/30-heridas-hombre-le-quita-la-vida-a-estudiante-por-resistirse-a-una-agresion/",
+      "published": "",
+      "source": "TV Azteca BC",
+      "zona": "Baja California"
+    },
+    {
+      "title": "Le quitan la vida a hombre en Tijuana y su mascota se queda sobre el cuerpo",
+      "url": "https://www.tvaztecabajacalifornia.com/policiaca/le-quitan-la-vida-a-hombre-en-tijuana-y-su-mascota-se-queda-sobre-el-cuerpo/",
+      "published": "",
+      "source": "TV Azteca BC (policiaca)",
+      "zona": "Baja California"
+    },
+    {
+      "title": "Muere un ciclista atropellado en la vía rápida Poniente",
+      "url": "https://www.afntijuana.info/seguridad/181790_muere_un_ciclista_atropellado_en_la_via_rapida_poniente",
+      "published": "",
+      "source": "AFN Tijuana",
+      "zona": "Tijuana"
+    },
+    {
+      "title": "Se Renta Departamento semi amueblado",
+      "url": "https://ensenadahoy.com/clasificados/ver/2711B4",
+      "published": "",
+      "source": "EnsenadaHoy",
+      "zona": "Ensenada"
+    },
+    {
+      "title": "Sheinbaum rechaza cualquier injerencia extranjera en México",
+      "url": "https://www.elimparcial.com/mexico/2026/09/17/sheinbaum-afirma-que-cualquier-pretexto-para-una-injerencia-extranjera-en-mexico-debe-ser-rechazado-y-defiende-la-soberania-nacional/",
+      "published": "",
+      "source": "El Imparcial (Tijuana)",
+      "zona": "Tijuana"
+    },
+    {
+      "title": "¿Grito o karaoke? Marina del Pilar sorprende en su último Grito",
+      "url": "https://www.tvaztecabajacalifornia.com/noticias/grito-o-karaoke-marina-del-pilar-sorprende-en-su-ultimo-grito/",
+      "published": "",
+      "source": "TV Azteca BC",
+      "zona": "Baja California"
+    },
+    {
+      "title": "¡Ataque a balazos contra una familia en Tijuana! Dos muertos y tres menores ilesos en la colonia Francisco Villa hoy 14 de septiembre",
+      "url": "https://www.tvaztecabajacalifornia.com/policiaca/ataque-a-balazos-contra-una-familia-en-tijuana-dos-muertos-y-tres-menores-ilesos-en-la-colonia-francisco-villa-hoy-14-de-septiembre/",
+      "published": "",
+      "source": "TV Azteca BC (policiaca)",
+      "zona": "Baja California"
+    },
+    {
+      "title": "Más deuda puede detonar una situación compleja: M. Escobedo",
+      "url": "https://www.afntijuana.info/editoriales/181789_mas_deuda_puede_detonar_una_situacion_compleja_m_escobedo",
+      "published": "",
+      "source": "AFN Tijuana",
+      "zona": "Tijuana"
+    },
+    {
+      "title": "Restauración de faros para autos Brillo Polish",
+      "url": "https://ensenadahoy.com/clasificados/ver/2711BD",
+      "published": "",
+      "source": "EnsenadaHoy",
+      "zona": "Ensenada"
+    },
+    {
+      "title": "UE propone prohibir redes sociales a menores de 13 años",
+      "url": "https://www.elimparcial.com/mundo/2026/09/17/comision-europea-propone-prohibir-las-redes-sociales-a-menores-de-13-anos-y-exigir-control-parental-hasta-los-15-con-nuevas-reglas-para-tiktok-instagram-youtube-y-chatgpt/",
+      "published": "",
+      "source": "El Imparcial (Tijuana)",
+      "zona": "Tijuana"
+    },
+    {
+      "title": "‘Indecente’ hablar de capitalismo: Salinas Pliego lanza postura sobre el rumbo de la economía",
+      "url": "https://www.tvaztecabajacalifornia.com/noticias/indecente-hablar-de-capitalismo-salinas-pliego-lanza-postura-sobre-el-rumbo-de-la-economia/",
+      "published": "",
+      "source": "TV Azteca BC",
+      "zona": "Baja California"
+    },
+    {
+      "title": "¡Terror en el Valle de Mexicali! Mujer habría amenazado con quemar una vivienda y termina en prisión preventiva",
+      "url": "https://www.tvaztecabajacalifornia.com/policiaca/terror-en-el-valle-de-mexicali-mujer-habria-amenazado-con-quemar-una-vivienda-y-termina-en-prision-preventiva/",
+      "published": "",
+      "source": "TV Azteca BC (policiaca)",
+      "zona": "Baja California"
+    },
+    {
+      "title": "Ejecutan a un guardia de seguridad a balazos en billar de Cerro Colorado",
+      "url": "https://www.afntijuana.info/seguridad/181788_ejecutan_a_un_guardia_de_seguridad_a_balazos_en_billar_de_cerro_colorado",
+      "published": "",
+      "source": "AFN Tijuana",
+      "zona": "Tijuana"
+    },
+    {
+      "title": "Encargado De Turno Para Guardias",
+      "url": "https://ensenadahoy.com/empleos/ver/602DD",
+      "published": "",
+      "source": "EnsenadaHoy",
+      "zona": "Ensenada"
+    },
+    {
+      "title": "Ciclista muere tras ser atropellado en Tijuana; Vía Rápida Poniente permanece cerrada y con tráfico lento ⚠️",
+      "url": "https://www.tvaztecabajacalifornia.com/noticias/ciclista-muere-tras-ser-atropellado-en-tijuana-via-rapida-poniente-permanece-cerrada-y-con-trafico-lento/",
+      "published": "",
+      "source": "TV Azteca BC",
+      "zona": "Baja California"
+    },
+    {
+      "title": "Ciberseguridad en Tijuana: estas son las formas en que ciudadanos se protegen",
+      "url": "https://www.tvaztecabajacalifornia.com/tendencia/ciberseguridad-en-tijuana-estas-son-las-formas-en-que-ciudadanos-se-protegen/",
+      "published": "",
+      "source": "TV Azteca BC (policiaca)",
+      "zona": "Baja California"
+    },
+    {
+      "title": "¿Está enamorado otra vez? Peso Pluma habla de su corazón tras terminar con Kenia Os",
+      "url": "https://www.afntijuana.info/espectaculos/181787_iesta_enamorado_otra_vez_peso_pluma_habla_de_su_corazon_tras_terminar_con_kenia_os",
+      "published": "",
+      "source": "AFN Tijuana",
+      "zona": "Tijuana"
+    },
+    {
+      "title": "Se Renta casa en Valle Dorado seccion Rios",
+      "url": "https://ensenadahoy.com/clasificados/ver/2711A4",
+      "published": "",
+      "source": "EnsenadaHoy",
+      "zona": "Ensenada"
+    },
+    {
+      "title": "Predio abandonado en Lomas del Porvenir representa un riesgo e infección para vecinos",
+      "url": "https://www.tvaztecabajacalifornia.com/noticias/predio-abandonado-en-lomas-del-porvenir-representa-un-riesgo-e-infeccion-para-vecinos/",
+      "published": "",
+      "source": "TV Azteca BC",
+      "zona": "Baja California"
+    },
+    {
+      "title": "Alerta en Tijuana por robo de cuentas de WhatsApp: así operan los ciberdelincuentes",
+      "url": "https://www.tvaztecabajacalifornia.com/noticias/alerta-en-tijuana-por-robo-de-cuentas-de-whatsapp-asi-operan-los-ciberdelincuentes/",
+      "published": "",
+      "source": "TV Azteca BC (policiaca)",
+      "zona": "Baja California"
+    },
+    {
+      "title": "Salma Hayek dirige su primera película para cine",
+      "url": "https://www.afntijuana.info/espectaculos/181786_salma_hayek_dirige_su_primera_pelicula_para_cine",
+      "published": "",
+      "source": "AFN Tijuana",
+      "zona": "Tijuana"
+    },
+    {
+      "title": "Terreno con Construccion en Maneadero A-CM 241/26",
+      "url": "https://ensenadahoy.com/clasificados/ver/2711C6",
+      "published": "",
+      "source": "EnsenadaHoy",
+      "zona": "Ensenada"
+    },
+    {
+      "title": "Avenida Revolución amanece entre basura y malos olores tras festejos patrios en Tijuana",
+      "url": "https://www.tvaztecabajacalifornia.com/noticias/avenida-revolucion-amanece-entre-basura-y-malos-olores-tras-festejos-patrios-en-tijuana/",
+      "published": "",
+      "source": "TV Azteca BC",
+      "zona": "Baja California"
+    },
+    {
+      "title": "Revelan último video de Farath Coronel antes de ser encontrado sin vida con un disparo en la cabeza",
+      "url": "https://www.tvaztecabajacalifornia.com/tendencia/revelan-ultimo-video-de-farath-coronel-antes-de-ser-encontrado-sin-vida-con-un-disparo-en-la-cabeza/",
+      "published": "",
+      "source": "TV Azteca BC (policiaca)",
+      "zona": "Baja California"
     }
   ]
 }
