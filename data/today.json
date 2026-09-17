@@ -1,8 +1,40 @@
 {
   "date": "2026-09-17",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Guardia de seguridad asesinado a balazos en billar de Tijuana",
+        "summary": "Ejecutan a guardia en entrada de local nocturno en Cerro Colorado. Investigación en curso por autoridades locales.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/acribillan-a-guardia-de-seguridad-del-sport-billar-karaoke-el-ocho-negro/",
+        "_added_at": "2026-09-17T12:39:16.948103-07:00"
+      },
+      {
+        "title": "Estado manipula cifras de homicidios y desaparecidos",
+        "summary": "Reportan 28% menos homicidios pero 345% más desaparecidos. Crítica sobre estadísticas oficiales de seguridad.",
+        "zona": "Baja California",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/estado-manipula-cifras-28-menos-homicidios-345-mas-desaparecidos/",
+        "_added_at": "2026-09-17T12:39:16.948103-07:00"
+      },
+      {
+        "title": "Trafican a 31 migrantes en caja modificada de camioneta",
+        "summary": "Detienen conductor por transportar migrantes en condiciones peligrosas bajo calor extremo.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181800_trasladaban_a_31_migrantes_ocultos_en_caja_de_camioneta_detienen_al_conductor",
+        "_added_at": "2026-09-17T12:39:16.948103-07:00"
+      },
+      {
+        "title": "Hallan cadáver en bolsas en colonia Manuel Paredes",
+        "summary": "Descubrimiento de restos humanos en Tijuana. Investigación abierta por autoridades.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/181795_hallan_un_cadaver_en_bolsas_de_plastico_en_la_colonia_manuel_paredes",
+        "_added_at": "2026-09-17T12:39:16.948103-07:00"
+      },
       {
         "title": "Estado manipula cifras de homicidios y desapariciones",
         "summary": "Reportan discrepancias en estadísticas oficiales: 28% menos homicidios pero 345% más desaparecidos según análisis de datos gubernamentales.",
@@ -87,16 +119,17 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/181771_pelean_conductores_y_atropellan_a_uno_en_el_bulevar_agua_caliente",
         "_added_at": "2026-09-17T00:50:13.183848-07:00"
-      },
-      {
-        "title": "Incendio destruye vivienda de madera en Francisco Villa",
-        "summary": "Casa de madera consumida por fuego; tres unidades de bomberos controlaron las llamas.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/99507/Incendio-consume-vivienda-de-madera-en-la-colonia-Francisco-Villa",
-        "_added_at": "2026-09-17T00:50:13.183848-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "El 53% de entidades no publica salarios del Ejecutivo",
+        "summary": "Reporte nacional muestra falta de transparencia en información salarial de funcionarios.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/nacionales/181799_el_53_de_las_entidades_no_cumple_con_publicar_salarios_del_ejecutivo",
+        "_added_at": "2026-09-17T12:39:16.948103-07:00"
+      },
       {
         "title": "Julieta Ramírez llama a cerrar filas en Morena tras proceso",
         "summary": "Dirigente estatal de Morena hace llamado a unidad tras conflictos internos en Baja California.",
@@ -131,6 +164,14 @@
     ],
     "economia": [
       {
+        "title": "Banobras modernizará red carretera de Punta Colonet a Mexicali",
+        "summary": "Banco de desarrollo anuncia inversión en infraestructura vial para conectividad y logística regional.",
+        "zona": "Baja California",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/conectividad-y-logistica-banobras-modernizara-la-red-carretera-desde-punta-colonet-hasta-mexicali/",
+        "_added_at": "2026-09-17T12:39:16.948103-07:00"
+      },
+      {
         "title": "Banobras modernizará red carretera desde Punta Colonet a Mexicali",
         "summary": "Institución financiera invertirá en infraestructura vial para mejorar conectividad y logística regional.",
         "zona": "Baja California",
@@ -164,6 +205,22 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Diputado insta a fortalecer educación para neurodiversos",
+        "summary": "Legislador estatal impulsa mejoras en atención de menores con condiciones de neurodivergencia.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/estatal/2026/09/17/diputado-echavarria-insta-a-fortalecer-atencion-educativa-a-menores-con-neurodivergencia/",
+        "_added_at": "2026-09-17T12:39:16.948103-07:00"
+      },
+      {
+        "title": "Xolos gana Baja Cup al vencer 2-1 a San Diego FC",
+        "summary": "Equipo local se alza con título tras victoria en competencia de fútbol transfronteriza.",
+        "zona": "Tijuana",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/deportes/2026/09/17/xolos-conquista-la-baja-cup-tras-vencer-2-1-al-san-diego-fc/",
+        "_added_at": "2026-09-17T12:39:16.948103-07:00"
+      },
       {
         "title": "Abren registro para Beca Benito Juárez en Ensenada",
         "summary": "Convocatoria abierta para estudiantes interesados en programa de becas de educación superior.",
@@ -222,6 +279,22 @@
     ],
     "eventos": [
       {
+        "title": "Edición 2026 de \"Se Viste de Vino\" beneficia a Cruz Roja",
+        "summary": "Evento vitivinícola en Ensenada recauda fondos para institución de asistencia social.",
+        "zona": "Ensenada",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/edicion-de-ensenada-se-viste-de-vino-2026-sera-a-beneficio-de-la-cruz-roja/",
+        "_added_at": "2026-09-17T12:39:16.948103-07:00"
+      },
+      {
+        "title": "Organizan jornada de limpia costera en Playas de Rosarito",
+        "summary": "Convocatoria para voluntarios en actividad de conservación ambiental de playa.",
+        "zona": "Rosarito",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181792_organizan_jornada_de_limpia_costera_en_playas_de_rosarito",
+        "_added_at": "2026-09-17T12:39:16.948103-07:00"
+      },
+      {
         "title": "Sinergia 2026 de CETYS trae Bienal Europea del Libro a Ensenada",
         "summary": "Por primera vez en América Latina, evento literario europeo se realizará en puerto ensenadense.",
         "zona": "Ensenada",
@@ -263,5 +336,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-17T12:35:23.724586-07:00"
+  "last_updated": "2026-09-17T12:39:16.948103-07:00"
 }
