@@ -1,8 +1,32 @@
 {
   "date": "2026-09-17",
-  "run_count": 3,
+  "run_count": 4,
   "notes": {
     "seguridad": [
+      {
+        "title": "Asesinan a guardia en billar; acribillado en Cerro Colorado",
+        "summary": "Guardia de seguridad asesinado a balazos en entrada de billar en Tijuana. Crimen en zona conflictiva.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/acribillan-a-guardia-de-seguridad-del-sport-billar-karaoke-el-ocho-negro/?utm_source=rss&utm_medium=rss&utm_campaign=acribillan-a-guardia-de-seguridad-del-sport-billar-karaoke-el-ocho-negro",
+        "_added_at": "2026-09-17T13:37:20.526075-07:00"
+      },
+      {
+        "title": "Centro de detención en Otay Mesa advertido por tuberculosis",
+        "summary": "Condado de San Diego emite alerta a Centro de Detención de Otay Mesa por fallas al reportar casos de TB.",
+        "zona": "Tijuana",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/17/condado-de-san-diego-advierte-al-centro-de-detencion-de-otay-mesa-por-fallas-al-reportar-tuberculosis/",
+        "_added_at": "2026-09-17T13:37:20.526075-07:00"
+      },
+      {
+        "title": "Exigen justicia por feminicidio de Carolina Flores en Ensenada",
+        "summary": "Protesta por muerte de Carolina Flores en Ensenada; piden detención de su suegra. Caso de violencia de género.",
+        "zona": "Ensenada",
+        "source": "Milenio",
+        "url": "https://www.milenio.com/policia/exigen-justicia-por-feminicidio-de-carolina-flores-en-ensenada",
+        "_added_at": "2026-09-17T13:37:20.526075-07:00"
+      },
       {
         "title": "Guardia de seguridad asesinado a balazos en billar de Tijuana",
         "summary": "Ejecutan a guardia en entrada de local nocturno en Cerro Colorado. Investigación en curso por autoridades locales.",
@@ -98,30 +122,25 @@
         "source": "En Línea BC",
         "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/17/abandonan-a-31-migrantes-en-camioneta-modificada-bajo-calor-del-desierto-de-california/",
         "_added_at": "2026-09-17T12:35:23.724586-07:00"
-      },
-      {
-        "title": "Hombres armados secuestran a persona en Ensenada",
-        "summary": "Sujetos armados privaron de la libertad a un hombre en Ensenada, Baja California.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/181772_hombres_armados_privaron_de_su_libertad_a_un_hombre_en_ensenada",
-        "_added_at": "2026-09-17T00:50:13.183848-07:00"
-      },
-      {
-        "title": "Camioneta vuelca en Vía Rápida Oriente",
-        "summary": "Accidente vial con volcadura de camioneta reportado en la Vía Rápida Oriente de Tijuana.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/99508/Vuelca-camioneta-en-la-V%C3%ADa-R%C3%A1pida-Oriente",
-        "_added_at": "2026-09-17T00:50:13.183848-07:00"
-      },
-      {
-        "title": "Riña vial termina en atropellamiento en Agua Caliente",
-        "summary": "Confrontación entre conductores deja a una persona atropellada en bulevar Agua Caliente.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181771_pelean_conductores_y_atropellan_a_uno_en_el_bulevar_agua_caliente",
-        "_added_at": "2026-09-17T00:50:13.183848-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Banobras modernizará red carretera desde Punta Colonet a Mexicali",
+        "summary": "Programa de inversión para mejorar conectividad y logística vial en la región norte de BC.",
+        "zona": "Baja California",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/conectividad-y-logistica-banobras-modernizara-la-red-carretera-desde-punta-colonet-hasta-mexicali/?utm_source=rss&utm_medium=rss&utm_campaign=conectividad-y-logistica-banobras-modernizara-la-red-carretera-desde-punta-colonet-hasta-mexicali",
+        "_added_at": "2026-09-17T13:37:20.526075-07:00"
+      },
+      {
+        "title": "Sheinbaum responde a Trump sobre drogas y corrupción",
+        "summary": "Presidenta contesta críticas de Trump; apunta falta de acción estadounidense contra consumo de drogas.",
+        "zona": "Baja California",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/mexico/2026/09/17/sheinbaum-responde-a-trump-por-peticion-de-combatir-la-narcocorrupcion-en-mexico-y-pide-a-eeuu-actuar-contra-consumo-de-drogas-y-trafico-de-armas/",
+        "_added_at": "2026-09-17T13:37:20.526075-07:00"
+      },
       {
         "title": "El 53% de entidades no publica salarios del Ejecutivo",
         "summary": "Reporte nacional muestra falta de transparencia en información salarial de funcionarios.",
@@ -164,6 +183,22 @@
     ],
     "economia": [
       {
+        "title": "Empresarios buscan simplificar trámites municipales en Tijuana",
+        "summary": "Sector privado solicita reducción de carga administrativa para mejorar competitividad empresarial.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/17/empresarios-buscan-reducir-la-carga-de-tramites-municipales-para-empresas-en-tijuana/",
+        "_added_at": "2026-09-17T13:37:20.526075-07:00"
+      },
+      {
+        "title": "Paquete económico 2027 endurece deducciones fiscales",
+        "summary": "Gobierno federal propone cambios a deducciones y RESICO para 2027; no crea nuevos impuestos.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/17/paquete-economico-2027-endurece-deducciones-aunque-no-crea-nuevos-impuestos/",
+        "_added_at": "2026-09-17T13:37:20.526075-07:00"
+      },
+      {
         "title": "Banobras modernizará red carretera de Punta Colonet a Mexicali",
         "summary": "Banco de desarrollo anuncia inversión en infraestructura vial para conectividad y logística regional.",
         "zona": "Baja California",
@@ -205,6 +240,14 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Refuerzan coordinación sanitaria con EU para moluscos",
+        "summary": "Autoridades de México y Estados Unidos coordinan vigilancia de moluscos bivalvos.",
+        "zona": "Ensenada",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/09/17/refuerzan-coordinacion-sanitaria-con-autoridades-de-estados-unidos-para-vigilar-moluscos-bivalvos/",
+        "_added_at": "2026-09-17T13:37:20.526075-07:00"
+      },
       {
         "title": "Diputado insta a fortalecer educación para neurodiversos",
         "summary": "Legislador estatal impulsa mejoras en atención de menores con condiciones de neurodivergencia.",
@@ -279,6 +322,14 @@
     ],
     "eventos": [
       {
+        "title": "MSC Cruceros realizará jornada de reclutamiento en Ensenada",
+        "summary": "Empresa de cruceros abre convocatoria de empleo en puerto de Ensenada.",
+        "zona": "Ensenada",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/09/17/msc-cruceros-realizara-jornada-de-reclutamiento-en-ensenada/",
+        "_added_at": "2026-09-17T13:37:20.526075-07:00"
+      },
+      {
         "title": "Edición 2026 de \"Se Viste de Vino\" beneficia a Cruz Roja",
         "summary": "Evento vitivinícola en Ensenada recauda fondos para institución de asistencia social.",
         "zona": "Ensenada",
@@ -336,5 +387,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-17T12:39:16.948103-07:00"
+  "last_updated": "2026-09-17T13:37:20.526075-07:00"
 }
