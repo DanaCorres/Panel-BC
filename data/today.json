@@ -1,8 +1,32 @@
 {
   "date": "2026-09-17",
-  "run_count": 4,
+  "run_count": 5,
   "notes": {
     "seguridad": [
+      {
+        "title": "Fuga de agua afecta a 55 colonias en Tijuana",
+        "summary": "Rotura en acueducto Presa Rodríguez-Morelos suspende actividades y afecta suministro de agua en decenas de colonias.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/sube-a-55-el-numero-de-colonias-afectadas-en-tijuana-por-fuga-en-acueducto-presa-rodriguez-morelos/?utm_source=rss&utm_medium=rss&utm_campaign=sube-a-55-el-numero-de-colonias-afectadas-en-tijuana-por-fuga-en-acueducto-presa-rodriguez-morelos",
+        "_added_at": "2026-09-17T13:56:18.423563-07:00"
+      },
+      {
+        "title": "Toman oficinas de CESPT por deslizamientos en Sánchez Taboada",
+        "summary": "Ciudadanos ocupan oficinas de empresa de agua para exigir atención a problemas de deslizamientos en colonia afectada.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/17/toman-oficinas-de-cespt-para-exigir-atencion-a-deslizamientos-en-sanchez-taboada/",
+        "_added_at": "2026-09-17T13:56:18.423563-07:00"
+      },
+      {
+        "title": "Tecate reconoce alza de homicidios y déficit de policías",
+        "summary": "Autoridades municipales admiten incremento en delitos violentos y falta de personal en corporación de seguridad local.",
+        "zona": "Baja California",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tecate/99537/Reconoce-Tecate-alza-de-homicidios-y-d%C3%A9ficit-de-polic%C3%ADas",
+        "_added_at": "2026-09-17T13:56:18.423563-07:00"
+      },
       {
         "title": "Asesinan a guardia en billar; acribillado en Cerro Colorado",
         "summary": "Guardia de seguridad asesinado a balazos en entrada de billar en Tijuana. Crimen en zona conflictiva.",
@@ -98,33 +122,17 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/seguridad/181788_ejecutan_a_un_guardia_de_seguridad_a_balazos_en_billar_de_cerro_colorado",
         "_added_at": "2026-09-17T12:35:23.724586-07:00"
-      },
-      {
-        "title": "Empresario Jesús Molina aparece con vida tras privación",
-        "summary": "Localizan con vida a empresario que había sido privado de la libertad en Baja California.",
-        "zona": "Baja California",
-        "source": "Milenio",
-        "url": "https://www.milenio.com/videos/estados/empresario-jesus-molina-aparece-vida-privado-libertad-baja-california",
-        "_added_at": "2026-09-17T12:35:23.724586-07:00"
-      },
-      {
-        "title": "Asesinado Ángel Pantoja, fiscal de delitos contra la vida",
-        "summary": "Ejecutan al funcionario fiscal especializado en delitos contra la vida en Ensenada.",
-        "zona": "Ensenada",
-        "source": "Milenio",
-        "url": "https://www.milenio.com/videos/policia/asesinan-angel-pantoja-fiscal-delitos-vida-ensenada",
-        "_added_at": "2026-09-17T12:35:23.724586-07:00"
-      },
-      {
-        "title": "Detienen a 31 migrantes en camioneta modificada en desierto",
-        "summary": "Rescatan a migrantes abandonados en vehículo adaptado bajo calor extremo en frontera de California.",
-        "zona": "Tijuana",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/17/abandonan-a-31-migrantes-en-camioneta-modificada-bajo-calor-del-desierto-de-california/",
-        "_added_at": "2026-09-17T12:35:23.724586-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Marina inaugura central de autobuses en Valle de Guadalupe",
+        "summary": "Marina del Pilar abre nuevo terminal de transporte en zona vinícola de BC durante su administración.",
+        "zona": "Ensenada",
+        "source": "Milenio",
+        "url": "https://www.milenio.com/estados/marina-pilar-inaugura-central-autobuses-valle-guadalupe",
+        "_added_at": "2026-09-17T13:56:18.423563-07:00"
+      },
       {
         "title": "Banobras modernizará red carretera desde Punta Colonet a Mexicali",
         "summary": "Programa de inversión para mejorar conectividad y logística vial en la región norte de BC.",
@@ -322,6 +330,22 @@
     ],
     "eventos": [
       {
+        "title": "41 Feria del Libro de Tijuana en Parque Morelos",
+        "summary": "Evento anual de literatura y cultura se realizará en espacio público de la ciudad.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/comunidad/181803_realizaran_la_41_feria_del_libro_de_tijuana_en_el_parque_morelos",
+        "_added_at": "2026-09-17T13:56:18.423563-07:00"
+      },
+      {
+        "title": "Noche de Ciencias 2026 en Ensenada",
+        "summary": "Convocatoria abierta para evento científico y educativo en la ciudad.",
+        "zona": "Ensenada",
+        "source": "El Vigía",
+        "url": "https://www.youtube.com/shorts/gN6q41nzVSc",
+        "_added_at": "2026-09-17T13:56:18.423563-07:00"
+      },
+      {
         "title": "MSC Cruceros realizará jornada de reclutamiento en Ensenada",
         "summary": "Empresa de cruceros abre convocatoria de empleo en puerto de Ensenada.",
         "zona": "Ensenada",
@@ -387,5 +411,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-17T13:37:20.526075-07:00"
+  "last_updated": "2026-09-17T13:56:18.423563-07:00"
 }
