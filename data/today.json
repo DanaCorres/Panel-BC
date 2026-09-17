@@ -1,253 +1,56 @@
 {
-  "date": "2026-09-16",
-  "run_count": 3,
+  "date": "2026-09-17",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Decomisan 3.5 kilos de cristal en Tijuana",
-        "summary": "Autoridades aseguran droga encontrada dentro de vehículo tras reporte de vecino.",
+        "title": "Hombres armados secuestran a persona en Ensenada",
+        "summary": "Sujetos armados privaron de la libertad a un hombre en Ensenada, Baja California.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/181766_decomisan_3_5_kilos_de_cristal_vecino_reporto_que_estaban_dentro_de_su_auto",
-        "_added_at": "2026-09-16T17:14:57.944917-07:00"
+        "url": "https://www.afntijuana.info/seguridad/181772_hombres_armados_privaron_de_su_libertad_a_un_hombre_en_ensenada",
+        "_added_at": "2026-09-17T00:50:13.183848-07:00"
       },
       {
-        "title": "Detienen a delincuente tras asalto armado a Uber",
-        "summary": "Capturan sujeto por robo violento en Tijuana; le incautan arma y municiones.",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/detienen-a-hombre-tras-robo-violento-de-uber-en-tijuana-le-aseguran-arma-y-12-cartuchos/",
-        "_added_at": "2026-09-16T17:14:57.944917-07:00"
+        "title": "Camioneta vuelca en Vía Rápida Oriente",
+        "summary": "Accidente vial con volcadura de camioneta reportado en la Vía Rápida Oriente de Tijuana.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/99508/Vuelca-camioneta-en-la-V%C3%ADa-R%C3%A1pida-Oriente",
+        "_added_at": "2026-09-17T00:50:13.183848-07:00"
       },
       {
-        "title": "Vehículo incendiado en gasolinera del Gato Bronco",
-        "summary": "Auto abandonado arde frente a instalación comercial en zona de Tijuana.",
+        "title": "Riña vial termina en atropellamiento en Agua Caliente",
+        "summary": "Confrontación entre conductores deja a una persona atropellada en bulevar Agua Caliente.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181769_arde_vehiculo_abandonado_frente_a_una_gasera_en_el_gato_bronco",
-        "_added_at": "2026-09-16T17:14:57.944917-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/181771_pelean_conductores_y_atropellan_a_uno_en_el_bulevar_agua_caliente",
+        "_added_at": "2026-09-17T00:50:13.183848-07:00"
       },
       {
-        "title": "Trump exige a México detener funcionarios corruptos",
-        "summary": "Gobierno estadounidense pide investigación contra servidores públicos vinculados a cárteles.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/exige-trump-a-mexico-investigar-y-detener-a-funcionarios-vinculados-con-carteles/",
-        "_added_at": "2026-09-16T17:14:57.944917-07:00"
-      },
-      {
-        "title": "Trump exige detener funcionarios vinculados con cárteles",
-        "summary": "Presidente estadounidense demanda investigación y captura de servidores públicos mexicanos que protejan a organizaciones delictivas.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/exige-trump-a-mexico-investigar-y-detener-a-funcionarios-vinculados-con-carteles/?utm_source=rss&utm_medium=rss&utm_campaign=exige-trump-a-mexico-investigar-y-detener-a-funcionarios-vinculados-con-carteles",
-        "_added_at": "2026-09-16T12:28:19.190143-07:00"
-      },
-      {
-        "title": "Capturan al Ciego, objetivo de Los Rusos en Tijuana",
-        "summary": "Autoridades recapturan a integrante de organización criminal perseguido por rival gang en la ciudad.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/harfuchs-fesc-y-semar-recapturan-al-ciego-objetivo-de-los-rusos/?utm_source=rss&utm_medium=rss&utm_campaign=harfuchs-fesc-y-semar-recapturan-al-ciego-objetivo-de-los-rusos",
-        "_added_at": "2026-09-16T12:28:19.190143-07:00"
-      },
-      {
-        "title": "Operan montachoques en vías de Tijuana",
-        "summary": "Delincuentes actúan en la vía rápida y bulevar Insurgentes provocando choques vehiculares deliberados.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181754_operan_montachoques_en_tijuana_usan_la_via_rapida_y_el_bulevar_insurgentes",
-        "_added_at": "2026-09-16T12:28:19.190143-07:00"
-      },
-      {
-        "title": "Incendio en Sierra de Juárez afecta 80 hectáreas",
-        "summary": "Bosque de pino se consume en zona de Ensenada por siniestro que moviliza autoridades forestales.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/ensenada/2026/09/16/incendio-afecta-80-hectareas-de-bosque-de-pino-en-la-sierra-de-juarez/",
-        "_added_at": "2026-09-16T12:28:19.190143-07:00"
+        "title": "Incendio destruye vivienda de madera en Francisco Villa",
+        "summary": "Casa de madera consumida por fuego; tres unidades de bomberos controlaron las llamas.",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/99507/Incendio-consume-vivienda-de-madera-en-la-colonia-Francisco-Villa",
+        "_added_at": "2026-09-17T00:50:13.183848-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Gobernadora apoya designación de Julieta Ramírez",
-        "summary": "Marina del Pilar respalda nombramiento como coordinadora de Morena en Baja California.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/respalda-marina-del-pilar-designacion-de-julieta-ramirez-como-coordinadora-de-morena-en-bc/",
-        "_added_at": "2026-09-16T17:14:57.944917-07:00"
-      },
-      {
-        "title": "Sheinbaum visitará Tijuana el próximo sábado",
-        "summary": "Presidenta realizará acto en avenida Revolución para abordar temas de salud en BC.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/16/abordara-gobernadora-temas-de-salud-en-bc-durante-visita-de-sheinbaum-a-tijuana/",
-        "_added_at": "2026-09-16T17:14:57.944917-07:00"
-      },
-      {
-        "title": "Osuna acusa a Morena de extorsión y corrupción",
-        "summary": "Político critica duramente al régimen calificándolo como organización criminal.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/morena-es-una-organizacion-criminal-osuna-acusa-regimen-de-extorsion/",
-        "_added_at": "2026-09-16T17:14:57.944917-07:00"
-      },
-      {
-        "title": "Abdiel Gutiérrez espera regreso de Burgueño",
-        "summary": "Funcionario anticipa notificación formal sobre reincorporación a alcaldía.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/abdiel-gutierrez-espera-notificacion-formal-sobre-regreso-de-burgueno-a-la-alcaldia/",
-        "_added_at": "2026-09-16T17:14:57.944917-07:00"
-      },
-      {
-        "title": "Rubio destaca cooperación bilateral en mensaje por Independencia",
-        "summary": "Funcionario estadounidense señala nueva etapa de relación con México durante conmemoración patria.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/nacionales/181757_destaca_rubio_nueva_etapa_de_cooperacion_con_mexico_en_mensaje_por_independencia",
-        "_added_at": "2026-09-16T12:28:19.190143-07:00"
-      },
-      {
-        "title": "Burgueño se reintegrará a alcaldía en cualquier momento",
-        "summary": "Abdiel Gutiérrez anuncia pronto retorno de alcalde a sus funciones sin confirmar fecha.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181753_burgueno_se_reintegrara_a_la_alcaldia_en_cualquier_momento_dice_abdiel",
-        "_added_at": "2026-09-16T12:28:19.190143-07:00"
-      },
-      {
-        "title": "Osuna acusa a Morena de extorsión y crimen organizado",
-        "summary": "Opositor critica al partido en el poder señalándolo por prácticas de corrupción y represión.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/morena-es-una-organizacion-criminal-osuna-acusa-regimen-de-extorsion/?utm_source=rss&utm_medium=rss&utm_campaign=morena-es-una-organizacion-criminal-osuna-acusa-regimen-de-extorsion",
-        "_added_at": "2026-09-16T12:28:19.190143-07:00"
-      },
-      {
-        "title": "Julieta Ramírez enfrenta críticas por designación como coordinadora",
-        "summary": "PAN y PRI cuestionan nombramiento de Ramírez; PRI mantiene denuncias en pie contra ella.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/nacionales/181734_denuncias_contra_julieta_ramirez_siguen_en_pie_pri_bc",
-        "_added_at": "2026-09-16T00:46:58.095915-07:00"
-      },
-      {
-        "title": "Burgueño retoma funciones como alcalde de Tijuana",
-        "summary": "Alcalde se reincorpora después de su período de separación del cargo.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181733_manana_se_reincorpora_burgueno_como_alcalde_de_tijuana",
-        "_added_at": "2026-09-16T00:46:58.095915-07:00"
-      },
-      {
-        "title": "Ramírez busca unificar tras divisiones internas del proceso",
-        "summary": "Coordinadora hace llamado a superar diferencias generadas durante designación.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181735_llama_julieta_ramirez_a_superar_diferencias_que_dejo_el_proceso_interno",
-        "_added_at": "2026-09-16T00:46:58.095915-07:00"
+        "title": "Tijuana conmemora Independencia con saldo blanco",
+        "summary": "Miles de personas celebraron el Grito de Independencia en Tijuana sin incidentes reportados.",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/tijuana-celebro-el-grito-de-independencia-con-miles-de-personas-y-saldo-blanco/",
+        "_added_at": "2026-09-17T00:50:13.183848-07:00"
       }
     ],
-    "economia": [
-      {
-        "title": "Fallas en aduanas colapsan cruces fronterizos",
-        "summary": "Problemas en sistemas causan retrasos de hasta cinco horas en pasos internacionales.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/mexico/2026/09/16/las-recurrentes-fallas-intermitentes-en-los-servidores-de-aduanas-y-del-sat-colapsaron-los-cruces-fronterizos-con-bloqueos-y-retrasos-de-hasta-cinco-horas-afectando-el-comercio-exterior-y-la-recaudacion-fiscal-en-plena-temporada-alta/",
-        "_added_at": "2026-09-16T17:14:57.944917-07:00"
-      },
-      {
-        "title": "Arranca temporada de langosta roja en BC",
-        "summary": "Ensenada inicia período de captura de crustáceo de importancia comercial.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/ensenada/2026/09/16/arranca-temporada-de-langosta-roja-en-baja-california/",
-        "_added_at": "2026-09-16T17:14:57.944917-07:00"
-      },
-      {
-        "title": "Sindicato exige reinstalar trabajadores despedidos",
-        "summary": "Organización laboral reclama reincorporación de empleados cesados de Telnor.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181763_exige_sindicato_reinstalar_a_trabajadores_despedidos_de_telnor",
-        "_added_at": "2026-09-16T17:14:57.944917-07:00"
-      },
-      {
-        "title": "Cotización del dólar para miércoles 16 de septiembre",
-        "summary": "Actualización de cambio de divisa estadounidense en mercado de Tijuana.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99492/Cotizaci%C3%B3n-del-d%C3%B3lar-para-este-mi%C3%A9rcoles-16-de-septiembre",
-        "_added_at": "2026-09-16T12:28:19.190143-07:00"
-      },
-      {
-        "title": "Autos chinos fabricarán en plantas mexicanas existentes",
-        "summary": "Armadoras asiáticas producirán localmente aprovechando infraestructura para competir en precio.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/mexico/2026/09/16/ante-la-saturacion-de-importaciones-y-la-presion-arancelaria-diversas-armadoras-de-autos-chinos-se-estan-preparando-para-iniciar-su-produccion-local-en-mexico-mediante-alianzas-estrategicas-y-el-aprovechamiento-de-infraestructura-ya-establecida-ofreciendo-precios-mas-competitivos-en-el-mercado-nacional/",
-        "_added_at": "2026-09-16T12:28:19.190143-07:00"
-      },
-      {
-        "title": "Gilvaja cuestiona gasto en espectáculos frente a necesidades",
-        "summary": "Funcionario critica asignación presupuestaria en eventos sobre prioridades sociales.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181730_cuestiona_gilvaja_gasto_del_presupuesto_en_espectaculos_y_no_en_necesidades_prioritarias",
-        "_added_at": "2026-09-16T00:46:58.095915-07:00"
-      }
-    ],
+    "economia": [],
     "sociedad": [
       {
-        "title": "Apagón eléctrico arruina festividades en Playas",
-        "summary": "Falta de suministro cancela celebración del Grito de Independencia.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/nuevo-apagon-electrico-deja-sin-festividad-del-grito-en-playas-de-tijuana/",
-        "_added_at": "2026-09-16T17:14:57.944917-07:00"
-      },
-      {
-        "title": "Miles celebran 216 aniversario del Grito",
-        "summary": "Tijuana y Ensenada registran saldo blanco en festividades patrias.",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/miles-de-familias-celebran-el-216-aniversario-del-grito-de-independencia-en-tijuana/",
-        "_added_at": "2026-09-16T17:14:57.944917-07:00"
-      },
-      {
-        "title": "Mujer denunció cirugía plástica antes de morir",
-        "summary": "Tijuanense expuso en redes consecuencias de procedimiento estético fallido.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/16/me-arruino-la-vida-mujer-de-tijuana-denuncio-en-redes-las-consecuencias-de-una-cirugia-plastica-antes-de-morir/",
-        "_added_at": "2026-09-16T17:14:57.944917-07:00"
-      },
-      {
-        "title": "Cambio de horario afecta asistentes en Mexicali",
-        "summary": "Ciudadanos esperan bajo el sol durante desfile cívico por modificación de cronograma.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/cambio-de-horario-deja-a-ciudadanos-esperando-bajo-el-sol-durante-desfile-en-mexicali/",
-        "_added_at": "2026-09-16T17:14:57.944917-07:00"
-      },
-      {
-        "title": "500 bicicletas de Burning Man llegan a Tijuana",
-        "summary": "Donativo beneficiará a familias de desaparecidos durante foro mundial de ciclismo.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/16/las-bicicletas-que-quedaron-abandonadas-tras-burning-man-cruzaran-a-tijuana-para-apoyar-a-familias-de-personas-desaparecidas/",
-        "_added_at": "2026-09-16T12:28:19.190143-07:00"
-      },
-      {
-        "title": "Fiestas patrias generan saldo blanco en Tijuana",
-        "summary": "Celebraciones del 16 de septiembre transcurren sin incidentes graves según reporte sanitario.",
-        "source": "El Imparcial (Tijuana)",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/16/saldo-blanco-en-festejos-del-15-de-septiembre-en-tijuana-atienden-a-tres-personas/",
-        "_added_at": "2026-09-16T12:28:19.190143-07:00"
-      },
-      {
-        "title": "Migrantes reconectan emocionalmente con El Grito en Tijuana",
-        "summary": "Población migrante participa en conmemoración de Independencia recuperando raíces mexicanas.",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/les-reconecta-vivir-el-grito-a-los-migrantes-en-tijuana/?utm_source=rss&utm_medium=rss&utm_campaign=les-reconecta-vivir-el-grito-a-los-migrantes-en-tijuana",
-        "_added_at": "2026-09-16T12:28:19.190143-07:00"
-      },
-      {
-        "title": "Miles celebran Independencia en Tijuana y Ensenada",
-        "summary": "Participación masiva en ceremonias del Grito en dos municipios de Baja California.",
+        "title": "Becas Benito Juárez abiertas para estudiantes de preparatoria",
+        "summary": "Convocatoria para que alumnos de bachillerato soliciten la beca Benito Juárez en Tijuana.",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181738_miles_de_tijuanenses_participaron_en_la_ceremonia_del_grito_de_independencia",
-        "_added_at": "2026-09-16T00:46:58.095915-07:00"
-      },
-      {
-        "title": "UABC recibe reconocimiento internacional",
-        "summary": "Universidad autónoma obtiene distinción académica a nivel global.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/comunidad/181731_recibio_la_uabc_reconocimiento_internacional",
-        "_added_at": "2026-09-16T00:46:58.095915-07:00"
-      },
-      {
-        "title": "Atienden infraestructura en telesecundaria de Ensenada",
-        "summary": "Autoridades educativas resuelven necesidades pedagógicas en plantel local.",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Ensenada/99469/Atienden-necesidades-pedag%C3%B3gicas-y-de-infraestructura-en-telesecundaria-4-de-la-Misi%C3%B3n-de-Ensenada",
-        "_added_at": "2026-09-16T00:46:58.095915-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/181773_invitan_a_alumnos_de_bachillerato_a_solicitar_la_beca_benito_juarez",
+        "_added_at": "2026-09-17T00:50:13.183848-07:00"
       }
     ]
   },
-  "last_updated": "2026-09-16T17:14:57.944917-07:00"
+  "last_updated": "2026-09-17T00:50:13.183848-07:00"
 }
