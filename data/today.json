@@ -1,8 +1,56 @@
 {
   "date": "2026-09-17",
-  "run_count": 5,
+  "run_count": 6,
   "notes": {
     "seguridad": [
+      {
+        "title": "Detienen a tres por asesinato de joyero en Mexicali",
+        "summary": "Tres detenidos por ataque a joyería en Mexicali; uno vinculado presuntamente con grupo criminal Los Rusos.",
+        "zona": "Mexicali",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/detienen-a-tres-implicados-en-asesinato-de-joyero-en-mexicali-uno-estaria-ligado-a-los-rusos/?utm_source=rss&utm_medium=rss&utm_campaign=detienen-a-tres-implicados-en-asesinato-de-joyero-en-mexicali-uno-estaria-ligado-a-los-rusos",
+        "_added_at": "2026-09-17T17:01:24.087061-07:00"
+      },
+      {
+        "title": "Abandonan 31 migrantes en remolque con doble fondo",
+        "summary": "Transportista detenido tras abandonar 31 migrantes ocultos en compartimento de camioneta en desierto de California.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/abandonan-a-31-migrantes-ocultos-en-doble-fondo-de-remolque/?utm_source=rss&utm_medium=rss&utm_campaign=abandonan-a-31-migrantes-ocultos-en-doble-fondo-de-remolque",
+        "_added_at": "2026-09-17T17:01:24.087061-07:00"
+      },
+      {
+        "title": "Asesinado guardia en billar de Cerro Colorado",
+        "summary": "Guardia de seguridad muere a balazos en entrada de establecimiento nocturno en zona de Tijuana.",
+        "zona": "Tijuana",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/guardia-de-seguridad-es-asesinado-a-balazos-en-la-entrada-de-un-billar-en-cerro-colorado/",
+        "_added_at": "2026-09-17T17:01:24.087061-07:00"
+      },
+      {
+        "title": "Recuperan vehículos de lujo robados en aduana de Ensenada",
+        "summary": "Marina asegura automóviles de alto valor sustraídos en operativo en aduana marítima.",
+        "zona": "Ensenada",
+        "source": "Milenio",
+        "url": "https://www.milenio.com/policia/marina-recupera-vehiculos-robados-aduana-maritima-ensenada",
+        "_added_at": "2026-09-17T17:01:24.087061-07:00"
+      },
+      {
+        "title": "Extorsionadores de carniceríasdetenidos en Ensenada",
+        "summary": "Detienen a \"El Fiera\" y \"El Coreano\" por extorsionar a 77 negocios de carnes en zona.",
+        "zona": "Ensenada",
+        "source": "Milenio",
+        "url": "https://www.milenio.com/policia/caen-el-fiera-y-coreano-por-extorsionar-a-77-negocios-carnicos",
+        "_added_at": "2026-09-17T17:01:24.087061-07:00"
+      },
+      {
+        "title": "Empresario desaparecido aparece con vida en BC",
+        "summary": "Hombre privado de la libertad es localizado con vida tras operativo de búsqueda.",
+        "zona": "Baja California",
+        "source": "Milenio",
+        "url": "https://www.milenio.com/videos/estados/empresario-jesus-molina-aparece-vida-privado-libertad-baja-california",
+        "_added_at": "2026-09-17T17:01:24.087061-07:00"
+      },
       {
         "title": "Fuga de agua afecta a 55 colonias en Tijuana",
         "summary": "Rotura en acueducto Presa Rodríguez-Morelos suspende actividades y afecta suministro de agua en decenas de colonias.",
@@ -74,57 +122,41 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/181800_trasladaban_a_31_migrantes_ocultos_en_caja_de_camioneta_detienen_al_conductor",
         "_added_at": "2026-09-17T12:39:16.948103-07:00"
-      },
-      {
-        "title": "Hallan cadáver en bolsas en colonia Manuel Paredes",
-        "summary": "Descubrimiento de restos humanos en Tijuana. Investigación abierta por autoridades.",
-        "zona": "Tijuana",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/181795_hallan_un_cadaver_en_bolsas_de_plastico_en_la_colonia_manuel_paredes",
-        "_added_at": "2026-09-17T12:39:16.948103-07:00"
-      },
-      {
-        "title": "Estado manipula cifras de homicidios y desapariciones",
-        "summary": "Reportan discrepancias en estadísticas oficiales: 28% menos homicidios pero 345% más desaparecidos según análisis de datos gubernamentales.",
-        "zona": "Baja California",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/estado-manipula-cifras-28-menos-homicidios-345-mas-desaparecidos/?utm_source=rss&utm_medium=rss&utm_campaign=estado-manipula-cifras-28-menos-homicidios-345-mas-desaparecidos",
-        "_added_at": "2026-09-17T12:35:23.724586-07:00"
-      },
-      {
-        "title": "Vinculan a proceso hombre con 81 kilos de cocaína en Otay",
-        "summary": "Autoridades procesaron a sujeto detenido con casi 81 kilos de cocaína en operativo fronterizo de Otay.",
-        "zona": "Tijuana",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/seguridad/2026/09/17/vinculan-a-proceso-a-hombre-detenido-con-casi-81-kilos-de-cocaina-en-otay/",
-        "_added_at": "2026-09-17T12:35:23.724586-07:00"
-      },
-      {
-        "title": "Capturan integrante de banda delictiva Los Rusos en Mexicali",
-        "summary": "Gobierno federal confirma detención de miembro de organización criminal Los Rusos en operativo de Mexicali.",
-        "zona": "Mexicali",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/seguridad/2026/09/17/gobierno-federal-confirma-captura-de-integrante-de-los-rusos-en-mexicali/",
-        "_added_at": "2026-09-17T12:35:23.724586-07:00"
-      },
-      {
-        "title": "Lanzan bombas molotov contra casa en Cerro de las Abejas",
-        "summary": "Ataque con artefactos incendiarios en domicilio de Tijuana; vecinos sofocaron el incendio.",
-        "zona": "Tijuana",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/lanzan-bombas-molotov-contra-domicilio-en-cerro-de-las-abejas-vecinos-sofocan-incendio/",
-        "_added_at": "2026-09-17T12:35:23.724586-07:00"
-      },
-      {
-        "title": "Guardia de seguridad asesinado a balazos en billar tijuanense",
-        "summary": "Ejecutan a vigilante en la entrada de local nocturno en Cerro Colorado, Tijuana.",
-        "zona": "Tijuana",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/181788_ejecutan_a_un_guardia_de_seguridad_a_balazos_en_billar_de_cerro_colorado",
-        "_added_at": "2026-09-17T12:35:23.724586-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Verónica Ruffo considera candidatura del PAN a gobernadora",
+        "summary": "Hija de expresidente estatal analiza propuesta de partido para contender por gubernatura de BC.",
+        "zona": "Baja California",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/lo-estoy-considerando-veronica-ruffo-sobre-propuesta-de-candidatura-del-pan/?utm_source=rss&utm_medium=rss&utm_campaign=lo-estoy-considerando-veronica-ruffo-sobre-propuesta-de-candidatura-del-pan",
+        "_added_at": "2026-09-17T17:01:24.087061-07:00"
+      },
+      {
+        "title": "Burgueño regresa a la presidencia municipal de Tijuana",
+        "summary": "Cabildo confirma retorno de alcalde a sus funciones tras período de ausencia.",
+        "zona": "Tijuana",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99553/Confirma-Cabildo-regreso-de-Ismael-Burguе%C3%B1o-a-la-alcald%C3%ADa-de-Tijuana",
+        "_added_at": "2026-09-17T17:01:24.087061-07:00"
+      },
+      {
+        "title": "MC denuncia actos anticipados de campaña de López Gorosave",
+        "summary": "Movimiento Ciudadano presenta denuncia ante autoridades electorales por irregularidades de candidato.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181808_mc_denuncia_a_lopez_gorosave_por_actos_anticipados_de_campana",
+        "_added_at": "2026-09-17T17:01:24.087061-07:00"
+      },
+      {
+        "title": "Capella cuestiona designación de Julieta para gubernatura",
+        "summary": "Exfuncionario expresa desacuerdo público con selección de candidata del partido oficialista.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181804_cuestiona_capella_designacion_de_julieta_por_la_gubernatura",
+        "_added_at": "2026-09-17T17:01:24.087061-07:00"
+      },
       {
         "title": "Marina inaugura central de autobuses en Valle de Guadalupe",
         "summary": "Marina del Pilar abre nuevo terminal de transporte en zona vinícola de BC durante su administración.",
@@ -191,6 +223,22 @@
     ],
     "economia": [
       {
+        "title": "Ferias laborales amplían oportunidades para jóvenes en BC",
+        "summary": "Se ofertan más de 2,500 vacantes de empleo para población joven en diversas ciudades del estado.",
+        "zona": "Baja California",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/09/17/amplian-oportunidades-de-empleo-para-jovenes-mediante-ferias-laborales-en-baja-california/",
+        "_added_at": "2026-09-17T17:01:24.087061-07:00"
+      },
+      {
+        "title": "Tijuana reúne sector binacional de turismo de salud",
+        "summary": "Convención de proveedores y expertos en turismo médico conecta mercados de ambos lados de frontera.",
+        "zona": "Tijuana",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99557/Reunir%C3%A1-Tijuana-al-sector-binacional-de-turismo-de-salud",
+        "_added_at": "2026-09-17T17:01:24.087061-07:00"
+      },
+      {
         "title": "Empresarios buscan simplificar trámites municipales en Tijuana",
         "summary": "Sector privado solicita reducción de carga administrativa para mejorar competitividad empresarial.",
         "zona": "Tijuana",
@@ -248,6 +296,54 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Ensenada sin agua: vecinos afectados hace más de 20 días",
+        "summary": "Residentes denuncian cortes prolongados de suministro y cobros injustificados por servicio interrumpido.",
+        "zona": "Ensenada",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/ensenada/2026/09/17/vecinos-de-ensenada-llevan-mas-de-20-dias-sin-agua-y-reclaman-cobros-de-hasta-3-mil-pesos/",
+        "_added_at": "2026-09-17T17:01:24.087061-07:00"
+      },
+      {
+        "title": "CESPE atiende a afectados por problemas de agua en Ensenada",
+        "summary": "Organismo responde a denuncias de ciudadanos con interrupciones en suministro.",
+        "zona": "Ensenada",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/09/17/atiende-cespe-a-ciudadanos-afectados-por-problemas-en-el-suministro-de-agua/",
+        "_added_at": "2026-09-17T17:01:24.087061-07:00"
+      },
+      {
+        "title": "Gran fuga de agua afecta tráfico en Bulevar Agua Caliente",
+        "summary": "Ruptura en red de distribución causa congestión vial en zona de Tijuana.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/17/megafuga-de-agua-genera-trafico-en-bulevar-agua-caliente/",
+        "_added_at": "2026-09-17T17:01:24.087061-07:00"
+      },
+      {
+        "title": "55 colonias sin agua por fuga en acueducto de Tijuana",
+        "summary": "Rotura en línea principal de Presa Rodríguez-Morelos deja sin servicio a decenas de localidades.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/sube-a-55-el-numero-de-colonias-afectadas-en-tijuana-por-fuga-en-acueducto-presa-rodriguez-morelos/?utm_source=rss&utm_medium=rss&utm_campaign=sube-a-55-el-numero-de-colonias-afectadas-en-tijuana-por-fuga-en-acueducto-presa-rodriguez-morelos",
+        "_added_at": "2026-09-17T17:01:24.087061-07:00"
+      },
+      {
+        "title": "Residentes de Sánchez Taboada bloquean CESPT por deslizamientos",
+        "summary": "Vecinos exigen atención a problemas de estabilidad de suelo en comunidad de Tijuana.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/residentes-de-sanchez-taboada-mantendran-bloqueo-en-cespt-ante-deslizamientos/?utm_source=rss&utm_medium=rss&utm_campaign=residentes-de-sanchez-taboada-mantendran-bloqueo-en-cespt-ante-deslizamientos",
+        "_added_at": "2026-09-17T17:01:24.087061-07:00"
+      },
+      {
+        "title": "Preparatoria Lázaro Cárdenas suspende clases por obras de agua",
+        "summary": "Institución educativa cierra temporalmente por trabajos de CESPT en Tijuana.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181809_suspendio_clases_la_preparatoria_lazaro_cardenas_por_obras_de_la_cespt",
+        "_added_at": "2026-09-17T17:01:24.087061-07:00"
+      },
       {
         "title": "Refuerzan coordinación sanitaria con EU para moluscos",
         "summary": "Autoridades de México y Estados Unidos coordinan vigilancia de moluscos bivalvos.",
@@ -319,16 +415,25 @@
         "source": "Milenio",
         "url": "https://www.milenio.com/policia/exigen-justicia-por-feminicidio-de-carolina-flores-en-ensenada",
         "_added_at": "2026-09-17T12:35:23.724586-07:00"
-      },
-      {
-        "title": "Becas Benito Juárez abiertas para estudiantes de preparatoria",
-        "summary": "Convocatoria para que alumnos de bachillerato soliciten la beca Benito Juárez en Tijuana.",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181773_invitan_a_alumnos_de_bachillerato_a_solicitar_la_beca_benito_juarez",
-        "_added_at": "2026-09-17T00:50:13.183848-07:00"
       }
     ],
     "eventos": [
+      {
+        "title": "Julieta Venegas inaugura Feria del Libro de Tijuana 2026",
+        "summary": "Escritora y artista abrirá edición 41 de evento en Parque Morelos; presentará su libro.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/17/julieta-venegas-abrira-la-feria-del-libro-tijuana-presentara-su-libro-y-firmara-autografos/",
+        "_added_at": "2026-09-17T17:01:24.087061-07:00"
+      },
+      {
+        "title": "Ensenada conmemora 484 años de fundación",
+        "summary": "Ciudad celebra aniversario de llegada de explorador Juan Rodríguez Cabrillo con eventos cívicos.",
+        "zona": "Ensenada",
+        "source": "E1 Noticias",
+        "url": "https://www.ensenadaunonoticias.info/ensenada-recuerda-su-historia-a-484-anos-de-la-llegada-de-juan-rodriguez-cabrillo/",
+        "_added_at": "2026-09-17T17:01:24.087061-07:00"
+      },
       {
         "title": "41 Feria del Libro de Tijuana en Parque Morelos",
         "summary": "Evento anual de literatura y cultura se realizará en espacio público de la ciudad.",
@@ -411,5 +516,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-17T13:56:18.423563-07:00"
+  "last_updated": "2026-09-17T17:01:24.087061-07:00"
 }
