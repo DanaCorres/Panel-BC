@@ -1,520 +1,96 @@
 {
-  "date": "2026-09-17",
-  "run_count": 6,
+  "date": "2026-09-18",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Detienen a tres por asesinato de joyero en Mexicali",
-        "summary": "Tres detenidos por ataque a joyería en Mexicali; uno vinculado presuntamente con grupo criminal Los Rusos.",
-        "zona": "Mexicali",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/detienen-a-tres-implicados-en-asesinato-de-joyero-en-mexicali-uno-estaria-ligado-a-los-rusos/?utm_source=rss&utm_medium=rss&utm_campaign=detienen-a-tres-implicados-en-asesinato-de-joyero-en-mexicali-uno-estaria-ligado-a-los-rusos",
-        "_added_at": "2026-09-17T17:01:24.087061-07:00"
-      },
-      {
-        "title": "Abandonan 31 migrantes en remolque con doble fondo",
-        "summary": "Transportista detenido tras abandonar 31 migrantes ocultos en compartimento de camioneta en desierto de California.",
+        "title": "Más de 6 mil denuncias por despojo durante administración Marina",
+        "summary": "Se registraron 6,665 denuncias por despojo de bienes durante la gestión anterior en Tijuana, según datos revelados en podcast.",
         "zona": "Tijuana",
         "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/abandonan-a-31-migrantes-ocultos-en-doble-fondo-de-remolque/?utm_source=rss&utm_medium=rss&utm_campaign=abandonan-a-31-migrantes-ocultos-en-doble-fondo-de-remolque",
-        "_added_at": "2026-09-17T17:01:24.087061-07:00"
+        "url": "https://zetatijuana.com/2026/09/6-mil-665-denuncias-por-despojo-en-gobierno-de-marina-podcast/?utm_source=rss&utm_medium=rss&utm_campaign=6-mil-665-denuncias-por-despojo-en-gobierno-de-marina-podcast",
+        "_added_at": "2026-09-18T00:29:35.349004-07:00"
       },
       {
-        "title": "Asesinado guardia en billar de Cerro Colorado",
-        "summary": "Guardia de seguridad muere a balazos en entrada de establecimiento nocturno en zona de Tijuana.",
+        "title": "Desmantelan células de montachoques en Tijuana",
+        "summary": "Autoridades desmantelaron dos células de delincuentes especializados en fraude vehicular que operaban desde el centro y sur del país.",
         "zona": "Tijuana",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/guardia-de-seguridad-es-asesinado-a-balazos-en-la-entrada-de-un-billar-en-cerro-colorado/",
-        "_added_at": "2026-09-17T17:01:24.087061-07:00"
+        "source": "TV Azteca BC",
+        "url": "https://www.tvaztecabajacalifornia.com/noticias/desmantelan-en-tijuana-dos-celulas-de-montachoques-procedentes-del-centro-y-sur-del-pais/",
+        "_added_at": "2026-09-18T00:29:35.349004-07:00"
       },
       {
-        "title": "Recuperan vehículos de lujo robados en aduana de Ensenada",
-        "summary": "Marina asegura automóviles de alto valor sustraídos en operativo en aduana marítima.",
-        "zona": "Ensenada",
-        "source": "Milenio",
-        "url": "https://www.milenio.com/policia/marina-recupera-vehiculos-robados-aduana-maritima-ensenada",
-        "_added_at": "2026-09-17T17:01:24.087061-07:00"
-      },
-      {
-        "title": "Extorsionadores de carniceríasdetenidos en Ensenada",
-        "summary": "Detienen a \"El Fiera\" y \"El Coreano\" por extorsionar a 77 negocios de carnes en zona.",
-        "zona": "Ensenada",
-        "source": "Milenio",
-        "url": "https://www.milenio.com/policia/caen-el-fiera-y-coreano-por-extorsionar-a-77-negocios-carnicos",
-        "_added_at": "2026-09-17T17:01:24.087061-07:00"
-      },
-      {
-        "title": "Empresario desaparecido aparece con vida en BC",
-        "summary": "Hombre privado de la libertad es localizado con vida tras operativo de búsqueda.",
-        "zona": "Baja California",
-        "source": "Milenio",
-        "url": "https://www.milenio.com/videos/estados/empresario-jesus-molina-aparece-vida-privado-libertad-baja-california",
-        "_added_at": "2026-09-17T17:01:24.087061-07:00"
-      },
-      {
-        "title": "Fuga de agua afecta a 55 colonias en Tijuana",
-        "summary": "Rotura en acueducto Presa Rodríguez-Morelos suspende actividades y afecta suministro de agua en decenas de colonias.",
-        "zona": "Tijuana",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/sube-a-55-el-numero-de-colonias-afectadas-en-tijuana-por-fuga-en-acueducto-presa-rodriguez-morelos/?utm_source=rss&utm_medium=rss&utm_campaign=sube-a-55-el-numero-de-colonias-afectadas-en-tijuana-por-fuga-en-acueducto-presa-rodriguez-morelos",
-        "_added_at": "2026-09-17T13:56:18.423563-07:00"
-      },
-      {
-        "title": "Toman oficinas de CESPT por deslizamientos en Sánchez Taboada",
-        "summary": "Ciudadanos ocupan oficinas de empresa de agua para exigir atención a problemas de deslizamientos en colonia afectada.",
-        "zona": "Tijuana",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/17/toman-oficinas-de-cespt-para-exigir-atencion-a-deslizamientos-en-sanchez-taboada/",
-        "_added_at": "2026-09-17T13:56:18.423563-07:00"
-      },
-      {
-        "title": "Tecate reconoce alza de homicidios y déficit de policías",
-        "summary": "Autoridades municipales admiten incremento en delitos violentos y falta de personal en corporación de seguridad local.",
-        "zona": "Baja California",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tecate/99537/Reconoce-Tecate-alza-de-homicidios-y-d%C3%A9ficit-de-polic%C3%ADas",
-        "_added_at": "2026-09-17T13:56:18.423563-07:00"
-      },
-      {
-        "title": "Asesinan a guardia en billar; acribillado en Cerro Colorado",
-        "summary": "Guardia de seguridad asesinado a balazos en entrada de billar en Tijuana. Crimen en zona conflictiva.",
-        "zona": "Tijuana",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/acribillan-a-guardia-de-seguridad-del-sport-billar-karaoke-el-ocho-negro/?utm_source=rss&utm_medium=rss&utm_campaign=acribillan-a-guardia-de-seguridad-del-sport-billar-karaoke-el-ocho-negro",
-        "_added_at": "2026-09-17T13:37:20.526075-07:00"
-      },
-      {
-        "title": "Centro de detención en Otay Mesa advertido por tuberculosis",
-        "summary": "Condado de San Diego emite alerta a Centro de Detención de Otay Mesa por fallas al reportar casos de TB.",
-        "zona": "Tijuana",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/17/condado-de-san-diego-advierte-al-centro-de-detencion-de-otay-mesa-por-fallas-al-reportar-tuberculosis/",
-        "_added_at": "2026-09-17T13:37:20.526075-07:00"
-      },
-      {
-        "title": "Exigen justicia por feminicidio de Carolina Flores en Ensenada",
-        "summary": "Protesta por muerte de Carolina Flores en Ensenada; piden detención de su suegra. Caso de violencia de género.",
-        "zona": "Ensenada",
-        "source": "Milenio",
-        "url": "https://www.milenio.com/policia/exigen-justicia-por-feminicidio-de-carolina-flores-en-ensenada",
-        "_added_at": "2026-09-17T13:37:20.526075-07:00"
-      },
-      {
-        "title": "Guardia de seguridad asesinado a balazos en billar de Tijuana",
-        "summary": "Ejecutan a guardia en entrada de local nocturno en Cerro Colorado. Investigación en curso por autoridades locales.",
-        "zona": "Tijuana",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/acribillan-a-guardia-de-seguridad-del-sport-billar-karaoke-el-ocho-negro/",
-        "_added_at": "2026-09-17T12:39:16.948103-07:00"
-      },
-      {
-        "title": "Estado manipula cifras de homicidios y desaparecidos",
-        "summary": "Reportan 28% menos homicidios pero 345% más desaparecidos. Crítica sobre estadísticas oficiales de seguridad.",
-        "zona": "Baja California",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/estado-manipula-cifras-28-menos-homicidios-345-mas-desaparecidos/",
-        "_added_at": "2026-09-17T12:39:16.948103-07:00"
-      },
-      {
-        "title": "Trafican a 31 migrantes en caja modificada de camioneta",
-        "summary": "Detienen conductor por transportar migrantes en condiciones peligrosas bajo calor extremo.",
+        "title": "Inseguridad es problema nacional, no solo local: Román Cota",
+        "summary": "Funcionario señala que la problemática de seguridad trasciende lo municipal y responde a causas estructurales nacionales.",
         "zona": "Tijuana",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181800_trasladaban_a_31_migrantes_ocultos_en_caja_de_camioneta_detienen_al_conductor",
-        "_added_at": "2026-09-17T12:39:16.948103-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/181813_problema_de_inseguridad_no_solo_es_local_sino_nacional_roman_cota",
+        "_added_at": "2026-09-18T00:29:35.349004-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Verónica Ruffo considera candidatura del PAN a gobernadora",
-        "summary": "Hija de expresidente estatal analiza propuesta de partido para contender por gubernatura de BC.",
-        "zona": "Baja California",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/lo-estoy-considerando-veronica-ruffo-sobre-propuesta-de-candidatura-del-pan/?utm_source=rss&utm_medium=rss&utm_campaign=lo-estoy-considerando-veronica-ruffo-sobre-propuesta-de-candidatura-del-pan",
-        "_added_at": "2026-09-17T17:01:24.087061-07:00"
+        "title": "Discrepancia en candidatura: debe ser hombre, dice Osuna",
+        "summary": "Funcionario cuestiona disposición de candidata, sugiriendo que el puesto requiere un candidato varón.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/afn_politico/181812_estamos_listos_dice_margarita_debe_ser_hombre_osuna",
+        "_added_at": "2026-09-18T00:29:35.349004-07:00"
       },
       {
-        "title": "Burgueño regresa a la presidencia municipal de Tijuana",
-        "summary": "Cabildo confirma retorno de alcalde a sus funciones tras período de ausencia.",
+        "title": "Impulsan dirección especializada para parques y jardines",
+        "summary": "Cabildo de Tijuana busca crear área dedicada a mantenimiento y gestión de espacios verdes municipales.",
         "zona": "Tijuana",
         "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99553/Confirma-Cabildo-regreso-de-Ismael-Burguе%C3%B1o-a-la-alcald%C3%ADa-de-Tijuana",
-        "_added_at": "2026-09-17T17:01:24.087061-07:00"
-      },
-      {
-        "title": "MC denuncia actos anticipados de campaña de López Gorosave",
-        "summary": "Movimiento Ciudadano presenta denuncia ante autoridades electorales por irregularidades de candidato.",
-        "zona": "Tijuana",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181808_mc_denuncia_a_lopez_gorosave_por_actos_anticipados_de_campana",
-        "_added_at": "2026-09-17T17:01:24.087061-07:00"
-      },
-      {
-        "title": "Capella cuestiona designación de Julieta para gubernatura",
-        "summary": "Exfuncionario expresa desacuerdo público con selección de candidata del partido oficialista.",
-        "zona": "Baja California",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181804_cuestiona_capella_designacion_de_julieta_por_la_gubernatura",
-        "_added_at": "2026-09-17T17:01:24.087061-07:00"
-      },
-      {
-        "title": "Marina inaugura central de autobuses en Valle de Guadalupe",
-        "summary": "Marina del Pilar abre nuevo terminal de transporte en zona vinícola de BC durante su administración.",
-        "zona": "Ensenada",
-        "source": "Milenio",
-        "url": "https://www.milenio.com/estados/marina-pilar-inaugura-central-autobuses-valle-guadalupe",
-        "_added_at": "2026-09-17T13:56:18.423563-07:00"
-      },
-      {
-        "title": "Banobras modernizará red carretera desde Punta Colonet a Mexicali",
-        "summary": "Programa de inversión para mejorar conectividad y logística vial en la región norte de BC.",
-        "zona": "Baja California",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/conectividad-y-logistica-banobras-modernizara-la-red-carretera-desde-punta-colonet-hasta-mexicali/?utm_source=rss&utm_medium=rss&utm_campaign=conectividad-y-logistica-banobras-modernizara-la-red-carretera-desde-punta-colonet-hasta-mexicali",
-        "_added_at": "2026-09-17T13:37:20.526075-07:00"
-      },
-      {
-        "title": "Sheinbaum responde a Trump sobre drogas y corrupción",
-        "summary": "Presidenta contesta críticas de Trump; apunta falta de acción estadounidense contra consumo de drogas.",
-        "zona": "Baja California",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/mexico/2026/09/17/sheinbaum-responde-a-trump-por-peticion-de-combatir-la-narcocorrupcion-en-mexico-y-pide-a-eeuu-actuar-contra-consumo-de-drogas-y-trafico-de-armas/",
-        "_added_at": "2026-09-17T13:37:20.526075-07:00"
-      },
-      {
-        "title": "El 53% de entidades no publica salarios del Ejecutivo",
-        "summary": "Reporte nacional muestra falta de transparencia en información salarial de funcionarios.",
-        "zona": "Baja California",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/nacionales/181799_el_53_de_las_entidades_no_cumple_con_publicar_salarios_del_ejecutivo",
-        "_added_at": "2026-09-17T12:39:16.948103-07:00"
-      },
-      {
-        "title": "Julieta Ramírez llama a cerrar filas en Morena tras proceso",
-        "summary": "Dirigente estatal de Morena hace llamado a unidad tras conflictos internos en Baja California.",
-        "zona": "Baja California",
-        "source": "AGP Noticias",
-        "url": "https://agpnoticias.com/news/julieta-ramirez-llama-a-cerrar-filas-en-morena-tras-proceso-interno-en-baja-california/",
-        "_added_at": "2026-09-17T12:35:23.724586-07:00"
-      },
-      {
-        "title": "Aprueba Asamblea de Proturismo elección de nueva Dirección General",
-        "summary": "Organismo paramunicipal de Ensenada expide convocatoria para renovación de dirigencia.",
-        "zona": "Ensenada",
-        "source": "EnsenadaHoy",
-        "url": "https://ensenadahoy.com/noticias/ver/6950",
-        "_added_at": "2026-09-17T12:35:23.724586-07:00"
-      },
-      {
-        "title": "Diputado Echavarría insta fortalecer atención a neurodivergentes",
-        "summary": "Legislador propone mejorar servicios educativos para menores con neurodivergencia en Baja California.",
-        "zona": "Baja California",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/estatal/2026/09/17/diputado-echavarria-insta-a-fortalecer-atencion-educativa-a-menores-con-neurodivergencia/",
-        "_added_at": "2026-09-17T12:35:23.724586-07:00"
-      },
-      {
-        "title": "Tijuana conmemora Independencia con saldo blanco",
-        "summary": "Miles de personas celebraron el Grito de Independencia en Tijuana sin incidentes reportados.",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/tijuana-celebro-el-grito-de-independencia-con-miles-de-personas-y-saldo-blanco/",
-        "_added_at": "2026-09-17T00:50:13.183848-07:00"
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99558/Impulsan-creaci%C3%B3n-de-direcci%C3%B3n-especializada-para-parques-y-jardines-en-Tijuana",
+        "_added_at": "2026-09-18T00:29:35.349004-07:00"
       }
     ],
-    "economia": [
+    "economia": [],
+    "eventos": [
       {
-        "title": "Ferias laborales amplían oportunidades para jóvenes en BC",
-        "summary": "Se ofertan más de 2,500 vacantes de empleo para población joven en diversas ciudades del estado.",
-        "zona": "Baja California",
-        "source": "Argumento Noticias",
-        "url": "https://argumentonoticias.com/2026/09/17/amplian-oportunidades-de-empleo-para-jovenes-mediante-ferias-laborales-en-baja-california/",
-        "_added_at": "2026-09-17T17:01:24.087061-07:00"
-      },
-      {
-        "title": "Tijuana reúne sector binacional de turismo de salud",
-        "summary": "Convención de proveedores y expertos en turismo médico conecta mercados de ambos lados de frontera.",
-        "zona": "Tijuana",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99557/Reunir%C3%A1-Tijuana-al-sector-binacional-de-turismo-de-salud",
-        "_added_at": "2026-09-17T17:01:24.087061-07:00"
-      },
-      {
-        "title": "Empresarios buscan simplificar trámites municipales en Tijuana",
-        "summary": "Sector privado solicita reducción de carga administrativa para mejorar competitividad empresarial.",
-        "zona": "Tijuana",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/17/empresarios-buscan-reducir-la-carga-de-tramites-municipales-para-empresas-en-tijuana/",
-        "_added_at": "2026-09-17T13:37:20.526075-07:00"
-      },
-      {
-        "title": "Paquete económico 2027 endurece deducciones fiscales",
-        "summary": "Gobierno federal propone cambios a deducciones y RESICO para 2027; no crea nuevos impuestos.",
-        "zona": "Tijuana",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/17/paquete-economico-2027-endurece-deducciones-aunque-no-crea-nuevos-impuestos/",
-        "_added_at": "2026-09-17T13:37:20.526075-07:00"
-      },
-      {
-        "title": "Banobras modernizará red carretera de Punta Colonet a Mexicali",
-        "summary": "Banco de desarrollo anuncia inversión en infraestructura vial para conectividad y logística regional.",
-        "zona": "Baja California",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/conectividad-y-logistica-banobras-modernizara-la-red-carretera-desde-punta-colonet-hasta-mexicali/",
-        "_added_at": "2026-09-17T12:39:16.948103-07:00"
-      },
-      {
-        "title": "Banobras modernizará red carretera desde Punta Colonet a Mexicali",
-        "summary": "Institución financiera invertirá en infraestructura vial para mejorar conectividad y logística regional.",
-        "zona": "Baja California",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/conectividad-y-logistica-banobras-modernizara-la-red-carretera-desde-punta-colonet-hasta-mexicali/?utm_source=rss&utm_medium=rss&utm_campaign=conectividad-y-logistica-banobras-modernizara-la-red-carretera-desde-punta-colonet-hasta-mexicali",
-        "_added_at": "2026-09-17T12:35:23.724586-07:00"
-      },
-      {
-        "title": "MSC Cruceros realiza jornada de reclutamiento en Ensenada",
-        "summary": "Empresa naviera abre convocatoria de empleo para personal en puerto ensenadense.",
+        "title": "Ensenada celebra 484 aniversario con evento en Riviera",
+        "summary": "Se realizó celebración conmemorativa del aniversario de fundación de Ensenada en el hotel Riviera de la ciudad.",
         "zona": "Ensenada",
-        "source": "Argumento Noticias",
-        "url": "https://argumentonoticias.com/2026/09/17/msc-cruceros-realizara-jornada-de-reclutamiento-en-ensenada/",
-        "_added_at": "2026-09-17T12:35:23.724586-07:00"
-      },
-      {
-        "title": "Destinan recursos a proyectos turísticos en Baja California",
-        "summary": "Gobierno asigna inversión para fortalecer infraestructura y atractivos turísticos estatales.",
-        "zona": "Baja California",
-        "source": "Argumento Noticias",
-        "url": "https://argumentonoticias.com/2026/09/17/destinan-recursos-a-proyectos-turisticos-en-baja-california/",
-        "_added_at": "2026-09-17T12:35:23.724586-07:00"
-      },
-      {
-        "title": "Dólar se mantiene por debajo de 17 pesos en septiembre",
-        "summary": "Tipo de cambio continúa estable en niveles bajos durante mes en curso.",
-        "zona": "Baja California",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181791_se_mantiene_el_dolar_por_debajo_de_17_pesos_a_la_compra_en_septiembre",
-        "_added_at": "2026-09-17T12:35:23.724586-07:00"
+        "url": "https://www.afntijuana.info/comunidad/181814_celebran_en_el_riviera_el_484_aniversario_de_ensenada",
+        "_added_at": "2026-09-18T00:29:35.349004-07:00"
+      },
+      {
+        "title": "Ensenada se viste de vino: festival gastronómico regional",
+        "summary": "Evento que celebra la gastronomía, vino e identidad cultural de la región ensenadense.",
+        "zona": "Ensenada",
+        "source": "EnsenadaHoy",
+        "url": "https://ensenadahoy.com/noticias/ver/6956",
+        "_added_at": "2026-09-18T00:29:35.349004-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Ensenada sin agua: vecinos afectados hace más de 20 días",
-        "summary": "Residentes denuncian cortes prolongados de suministro y cobros injustificados por servicio interrumpido.",
-        "zona": "Ensenada",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/tij/ensenada/2026/09/17/vecinos-de-ensenada-llevan-mas-de-20-dias-sin-agua-y-reclaman-cobros-de-hasta-3-mil-pesos/",
-        "_added_at": "2026-09-17T17:01:24.087061-07:00"
-      },
-      {
-        "title": "CESPE atiende a afectados por problemas de agua en Ensenada",
-        "summary": "Organismo responde a denuncias de ciudadanos con interrupciones en suministro.",
-        "zona": "Ensenada",
-        "source": "Argumento Noticias",
-        "url": "https://argumentonoticias.com/2026/09/17/atiende-cespe-a-ciudadanos-afectados-por-problemas-en-el-suministro-de-agua/",
-        "_added_at": "2026-09-17T17:01:24.087061-07:00"
-      },
-      {
-        "title": "Gran fuga de agua afecta tráfico en Bulevar Agua Caliente",
-        "summary": "Ruptura en red de distribución causa congestión vial en zona de Tijuana.",
+        "title": "Postes de luz deteriorados amenazan a residentes de Lomas",
+        "summary": "Infraestructura eléctrica en colapso representa riesgo para vecinos de la colonia Lomas del Porvenir.",
         "zona": "Tijuana",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/17/megafuga-de-agua-genera-trafico-en-bulevar-agua-caliente/",
-        "_added_at": "2026-09-17T17:01:24.087061-07:00"
+        "source": "TV Azteca BC",
+        "url": "https://www.tvaztecabajacalifornia.com/noticias/postes-de-luz-a-punto-de-colapsar-amenazan-a-vecinos-en-lomas-del-porvenir-tijuana/",
+        "_added_at": "2026-09-18T00:29:35.349004-07:00"
       },
       {
-        "title": "55 colonias sin agua por fuga en acueducto de Tijuana",
-        "summary": "Rotura en línea principal de Presa Rodríguez-Morelos deja sin servicio a decenas de localidades.",
+        "title": "Calle Reforma en Azcona: cinco años con baches y deterioro",
+        "summary": "Vialidad en estado crítico de abandono lleva años sin reparación integral en colonia Azcona.",
         "zona": "Tijuana",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/sube-a-55-el-numero-de-colonias-afectadas-en-tijuana-por-fuga-en-acueducto-presa-rodriguez-morelos/?utm_source=rss&utm_medium=rss&utm_campaign=sube-a-55-el-numero-de-colonias-afectadas-en-tijuana-por-fuga-en-acueducto-presa-rodriguez-morelos",
-        "_added_at": "2026-09-17T17:01:24.087061-07:00"
+        "source": "TV Azteca BC",
+        "url": "https://www.tvaztecabajacalifornia.com/noticias/calle-reforma-en-la-colonia-azcona-cinco-anos-entre-baches-y-asfalto-destruido/",
+        "_added_at": "2026-09-18T00:29:35.349004-07:00"
       },
       {
-        "title": "Residentes de Sánchez Taboada bloquean CESPT por deslizamientos",
-        "summary": "Vecinos exigen atención a problemas de estabilidad de suelo en comunidad de Tijuana.",
-        "zona": "Tijuana",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/residentes-de-sanchez-taboada-mantendran-bloqueo-en-cespt-ante-deslizamientos/?utm_source=rss&utm_medium=rss&utm_campaign=residentes-de-sanchez-taboada-mantendran-bloqueo-en-cespt-ante-deslizamientos",
-        "_added_at": "2026-09-17T17:01:24.087061-07:00"
-      },
-      {
-        "title": "Preparatoria Lázaro Cárdenas suspende clases por obras de agua",
-        "summary": "Institución educativa cierra temporalmente por trabajos de CESPT en Tijuana.",
-        "zona": "Tijuana",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181809_suspendio_clases_la_preparatoria_lazaro_cardenas_por_obras_de_la_cespt",
-        "_added_at": "2026-09-17T17:01:24.087061-07:00"
-      },
-      {
-        "title": "Refuerzan coordinación sanitaria con EU para moluscos",
-        "summary": "Autoridades de México y Estados Unidos coordinan vigilancia de moluscos bivalvos.",
-        "zona": "Ensenada",
-        "source": "Argumento Noticias",
-        "url": "https://argumentonoticias.com/2026/09/17/refuerzan-coordinacion-sanitaria-con-autoridades-de-estados-unidos-para-vigilar-moluscos-bivalvos/",
-        "_added_at": "2026-09-17T13:37:20.526075-07:00"
-      },
-      {
-        "title": "Diputado insta a fortalecer educación para neurodiversos",
-        "summary": "Legislador estatal impulsa mejoras en atención de menores con condiciones de neurodivergencia.",
-        "zona": "Baja California",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/estatal/2026/09/17/diputado-echavarria-insta-a-fortalecer-atencion-educativa-a-menores-con-neurodivergencia/",
-        "_added_at": "2026-09-17T12:39:16.948103-07:00"
-      },
-      {
-        "title": "Xolos gana Baja Cup al vencer 2-1 a San Diego FC",
-        "summary": "Equipo local se alza con título tras victoria en competencia de fútbol transfronteriza.",
-        "zona": "Tijuana",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/deportes/2026/09/17/xolos-conquista-la-baja-cup-tras-vencer-2-1-al-san-diego-fc/",
-        "_added_at": "2026-09-17T12:39:16.948103-07:00"
-      },
-      {
-        "title": "Abren registro para Beca Benito Juárez en Ensenada",
-        "summary": "Convocatoria abierta para estudiantes interesados en programa de becas de educación superior.",
-        "zona": "Ensenada",
-        "source": "AGP Noticias",
-        "url": "https://agpnoticias.com/news/abren-registro-para-la-beca-benito-juarez-estos-son-los-requisitos/",
-        "_added_at": "2026-09-17T12:35:23.724586-07:00"
-      },
-      {
-        "title": "Refuerzan prevención de violencia sexual contra menores",
-        "summary": "Autoridades lanzan iniciativas para proteger a niños y adolescentes de abuso sexual.",
-        "zona": "Baja California",
-        "source": "Argumento Noticias",
-        "url": "https://argumentonoticias.com/2026/09/17/refuerzan-prevencion-de-violencia-sexual-contra-ninas-ninos-y-adolescentes/",
-        "_added_at": "2026-09-17T12:35:23.724586-07:00"
-      },
-      {
-        "title": "Realizan más de 417 mil acciones preventivas de salud bucal",
-        "summary": "Campaña estatal de odontología preventiva beneficia a cientos de miles en Baja California.",
-        "zona": "Baja California",
-        "source": "Argumento Noticias",
-        "url": "https://argumentonoticias.com/2026/09/17/realizan-mas-de-417-mil-acciones-preventivas-de-salud-bucal-en-baja-california/",
-        "_added_at": "2026-09-17T12:35:23.724586-07:00"
-      },
-      {
-        "title": "Cabildo realiza foro para integrar Programa de Protección de Menores",
-        "summary": "Tijuana convoca participación ciudadana para diseñar política pública de protección infantil.",
-        "zona": "Tijuana",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/17/realiza-gobierno-municipal-foro-para-integrar-el-programa-municipal-de-proteccion-de-menores/",
-        "_added_at": "2026-09-17T12:35:23.724586-07:00"
-      },
-      {
-        "title": "Softbolistas de BC en ruta hacia Ángeles 2028",
-        "summary": "Selección estatal mantiene preparación y clasificación rumbo a Juegos Olímpicos de Los Ángeles.",
-        "zona": "Baja California",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/deportes/2026/09/17/softbolistas-de-bc-se-mantiene-en-ruta-a-los-angeles-2028/",
-        "_added_at": "2026-09-17T12:35:23.724586-07:00"
-      },
-      {
-        "title": "Exigen justicia por feminicidio de Carolina Flores en Ensenada",
-        "summary": "Manifestantes claman por detención de suegra vinculada a muerte de mujer en puerto.",
-        "zona": "Ensenada",
-        "source": "Milenio",
-        "url": "https://www.milenio.com/policia/exigen-justicia-por-feminicidio-de-carolina-flores-en-ensenada",
-        "_added_at": "2026-09-17T12:35:23.724586-07:00"
-      }
-    ],
-    "eventos": [
-      {
-        "title": "Julieta Venegas inaugura Feria del Libro de Tijuana 2026",
-        "summary": "Escritora y artista abrirá edición 41 de evento en Parque Morelos; presentará su libro.",
-        "zona": "Tijuana",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/17/julieta-venegas-abrira-la-feria-del-libro-tijuana-presentara-su-libro-y-firmara-autografos/",
-        "_added_at": "2026-09-17T17:01:24.087061-07:00"
-      },
-      {
-        "title": "Ensenada conmemora 484 años de fundación",
-        "summary": "Ciudad celebra aniversario de llegada de explorador Juan Rodríguez Cabrillo con eventos cívicos.",
-        "zona": "Ensenada",
-        "source": "E1 Noticias",
-        "url": "https://www.ensenadaunonoticias.info/ensenada-recuerda-su-historia-a-484-anos-de-la-llegada-de-juan-rodriguez-cabrillo/",
-        "_added_at": "2026-09-17T17:01:24.087061-07:00"
-      },
-      {
-        "title": "41 Feria del Libro de Tijuana en Parque Morelos",
-        "summary": "Evento anual de literatura y cultura se realizará en espacio público de la ciudad.",
-        "zona": "Tijuana",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/comunidad/181803_realizaran_la_41_feria_del_libro_de_tijuana_en_el_parque_morelos",
-        "_added_at": "2026-09-17T13:56:18.423563-07:00"
-      },
-      {
-        "title": "Noche de Ciencias 2026 en Ensenada",
-        "summary": "Convocatoria abierta para evento científico y educativo en la ciudad.",
-        "zona": "Ensenada",
-        "source": "El Vigía",
-        "url": "https://www.youtube.com/shorts/gN6q41nzVSc",
-        "_added_at": "2026-09-17T13:56:18.423563-07:00"
-      },
-      {
-        "title": "MSC Cruceros realizará jornada de reclutamiento en Ensenada",
-        "summary": "Empresa de cruceros abre convocatoria de empleo en puerto de Ensenada.",
-        "zona": "Ensenada",
-        "source": "Argumento Noticias",
-        "url": "https://argumentonoticias.com/2026/09/17/msc-cruceros-realizara-jornada-de-reclutamiento-en-ensenada/",
-        "_added_at": "2026-09-17T13:37:20.526075-07:00"
-      },
-      {
-        "title": "Edición 2026 de \"Se Viste de Vino\" beneficia a Cruz Roja",
-        "summary": "Evento vitivinícola en Ensenada recauda fondos para institución de asistencia social.",
-        "zona": "Ensenada",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/edicion-de-ensenada-se-viste-de-vino-2026-sera-a-beneficio-de-la-cruz-roja/",
-        "_added_at": "2026-09-17T12:39:16.948103-07:00"
-      },
-      {
-        "title": "Organizan jornada de limpia costera en Playas de Rosarito",
-        "summary": "Convocatoria para voluntarios en actividad de conservación ambiental de playa.",
-        "zona": "Rosarito",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181792_organizan_jornada_de_limpia_costera_en_playas_de_rosarito",
-        "_added_at": "2026-09-17T12:39:16.948103-07:00"
-      },
-      {
-        "title": "Sinergia 2026 de CETYS trae Bienal Europea del Libro a Ensenada",
-        "summary": "Por primera vez en América Latina, evento literario europeo se realizará en puerto ensenadense.",
-        "zona": "Ensenada",
-        "source": "EnsenadaHoy",
-        "url": "https://ensenadahoy.com/noticias/ver/6954",
-        "_added_at": "2026-09-17T12:35:23.724586-07:00"
-      },
-      {
-        "title": "Edición Ensenada Se Viste de Vino 2026 a beneficio de Cruz Roja",
-        "summary": "Festival vinícola de Ensenada se realizará como evento benéfico para institución de asistencia.",
-        "zona": "Ensenada",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/edicion-de-ensenada-se-viste-de-vino-2026-sera-a-beneficio-de-la-cruz-roja/?utm_source=rss&utm_medium=rss&utm_campaign=edicion-de-ensenada-se-viste-de-vino-2026-sera-a-beneficio-de-la-cruz-roja",
-        "_added_at": "2026-09-17T12:35:23.724586-07:00"
-      },
-      {
-        "title": "Miles de ensenadenses disfrutan desfile cívico militar de Independencia",
-        "summary": "Ensenada conmemora 216 aniversario de Independencia de México con desfile multitudinario.",
-        "zona": "Ensenada",
-        "source": "EnsenadaHoy",
-        "url": "https://ensenadahoy.com/noticias/ver/6953",
-        "_added_at": "2026-09-17T12:35:23.724586-07:00"
-      },
-      {
-        "title": "Marina del Pilar inaugura central de autobuses en Valle de Guadalupe",
-        "summary": "Gobernadora inaugura terminal de transporte en zona vinícola de Baja California.",
-        "zona": "Ensenada",
-        "source": "Milenio",
-        "url": "https://www.milenio.com/estados/marina-pilar-inaugura-central-autobuses-valle-guadalupe",
-        "_added_at": "2026-09-17T12:35:23.724586-07:00"
-      },
-      {
-        "title": "Xolos conquista Baja Cup venciendo 2-1 a San Diego FC",
-        "summary": "Equipo local gana torneo fronterizo en competencia de clubes de Tijuana y San Diego.",
-        "zona": "Tijuana",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/deportes/2026/09/17/xolos-conquista-la-baja-cup-tras-vencer-2-1-al-san-diego-fc/",
-        "_added_at": "2026-09-17T12:35:23.724586-07:00"
+        "title": "Semáforo descompuesto genera riesgo en Mexicali",
+        "summary": "Falla en señalización vial del bulevar López Mateos pone en peligro a peatones y conductores.",
+        "zona": "Mexicali",
+        "source": "TV Azteca BC",
+        "url": "https://www.tvaztecabajacalifornia.com/noticias/semaforo-descompuesto-en-el-bulevar-lopez-mateos-pone-en-riesgo-a-peatones-en-mexicali/",
+        "_added_at": "2026-09-18T00:29:35.349004-07:00"
       }
     ]
   },
-  "last_updated": "2026-09-17T17:01:24.087061-07:00"
+  "last_updated": "2026-09-18T00:29:35.349004-07:00"
 }
