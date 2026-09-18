@@ -1,8 +1,56 @@
 {
   "date": "2026-09-18",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Gobierno federal anuncia próximas detenciones en caso de combustible ilícito",
+        "summary": "Autoridades federales aseguran 59 millones en huachicol e informan de inminentes aprehensiones en el caso.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/ofrece-gobierno-federal-proximas-detenciones-en-caso-de-decomiso-de-59-millones-de-combustible-ilicito/?utm_source=rss&utm_medium=rss&utm_campaign=ofrece-gobierno-federal-proximas-detenciones-en-caso-de-decomiso-de-59-millones-de-combustible-ilicito",
+        "_added_at": "2026-09-18T11:57:34.817632-07:00"
+      },
+      {
+        "title": "Recuperan nueve vehículos robados en cateos en Tijuana",
+        "summary": "Fiscalía estatal asegura autos con reporte de robo durante operativos en la ciudad.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181834_encuentran_nueve_vehiculos_con_reporte_de_robo_durante_cateos_en_tijuana",
+        "_added_at": "2026-09-18T11:57:34.817632-07:00"
+      },
+      {
+        "title": "Buscan a mujer desaparecida en Ensenada desde hace días",
+        "summary": "Autoridades locales piden colaboración para ubicar a Marlén Vázquez Saavedra, reportada desaparecida el 17 de septiembre.",
+        "zona": "Ensenada",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/piden-apoyo-para-localizar-a-marlen-vazquez-saavedra-en-ensenada/?utm_source=rss&utm_medium=rss&utm_campaign=piden-apoyo-para-localizar-a-marlen-vazquez-saavedra-en-ensenada",
+        "_added_at": "2026-09-18T11:57:34.817632-07:00"
+      },
+      {
+        "title": "Detienen a hombre armado con dron ilegal en Tijuana",
+        "summary": "Operativo Águila Alta asegura arma de fuego e dispositivo ilegal a sujeto en la ciudad.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/181822_detienen_a_un_hombre_armado_y_con_dron_ilegal_en_operativo_aguila_alta_en_tijuana",
+        "_added_at": "2026-09-18T11:57:34.817632-07:00"
+      },
+      {
+        "title": "Sentencian a tres por arsenal asegurado en Mexicali",
+        "summary": "Tribunal condena con 10 años de cárcel a individuos por posesión de armas detectadas en operativo.",
+        "zona": "Mexicali",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/18/sentencian-con-10-anos-de-carcel-a-tres-por-arsenal-asegurado-en-mexicali/",
+        "_added_at": "2026-09-18T11:57:34.817632-07:00"
+      },
+      {
+        "title": "Inseguridad frena inversión de empresas en Baja California",
+        "summary": "COPARMEX advierte que la violencia incrementa costos y desalienta proyectos de negocios en la región.",
+        "zona": "Baja California",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/18/inseguridad-frena-inversion-y-eleva-gastos-de-empresas-advierte-coparmex-tijuana/",
+        "_added_at": "2026-09-18T11:57:34.817632-07:00"
+      },
       {
         "title": "Más de 6 mil denuncias por despojo durante administración Marina",
         "summary": "Se registraron 6,665 denuncias por despojo de bienes durante la gestión anterior en Tijuana, según datos revelados en podcast.",
@@ -30,6 +78,38 @@
     ],
     "politica": [
       {
+        "title": "Hija de Ernesto Ruffo buscaría la gubernatura de Baja California",
+        "summary": "Miembro de la familia Ruffo expresa intención de contender en próximas elecciones estatales.",
+        "zona": "Baja California",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/hija-de-ernesto-ruffo-tiene-intencion-de-buscar-la-gubernatura-de-bc/",
+        "_added_at": "2026-09-18T11:57:34.817632-07:00"
+      },
+      {
+        "title": "Sheinbaum niega relación del caso Ruffo con decomiso de huachicol",
+        "summary": "Presidenta aclara que operativo en Guanajuato no está vinculado con exfuncionario marino acusado.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/nacionales/181835_decomiso_de_huachicol_en_guanajuato_no_tiene_relacion_al_caso_ruffo_sheinbaum",
+        "_added_at": "2026-09-18T11:57:34.817632-07:00"
+      },
+      {
+        "title": "Sheinbaum canaliza con Segob reuniones solicitadas por Maru Campos",
+        "summary": "Gobernadora de Coahuila busca comunicación directa con presidente; Sheinbaum coordina gestiones.",
+        "zona": "Baja California",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Nacional/99576/Sheinbaum-canaliza-con-Segob-reuniones-solicitadas-por-Maru-Campos",
+        "_added_at": "2026-09-18T11:57:34.817632-07:00"
+      },
+      {
+        "title": "Ojeda Durán continúa activo en Marina y cobra 150 mil mensuales",
+        "summary": "Exsecretario mantiene posición administrativa en la institución y percibe salario pese a controversias.",
+        "zona": "Baja California",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/mexico/2026/09/18/aunque-ya-no-es-secretario-jose-rafael-ojeda-sigue-activo-en-la-marina-y-continua-cobrando-cerca-de-150-mil-pesos-al-mes-mientras-el-abogado-del-excontralmirante-fernando-farias-laguna-afirma-que-la-fgr-no-ha-podido-localizarlo/",
+        "_added_at": "2026-09-18T11:57:34.817632-07:00"
+      },
+      {
         "title": "Discrepancia en candidatura: debe ser hombre, dice Osuna",
         "summary": "Funcionario cuestiona disposición de candidata, sugiriendo que el puesto requiere un candidato varón.",
         "zona": "Tijuana",
@@ -46,8 +126,65 @@
         "_added_at": "2026-09-18T00:29:35.349004-07:00"
       }
     ],
-    "economia": [],
+    "economia": [
+      {
+        "title": "CANACO pide ampliar decreto comercial fronterizo hasta 2030",
+        "summary": "Cámara de Comercio solicita extensión de beneficios fiscales para mantener competitividad en frontera.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/18/canaco-tijuana-pide-ampliar-decreto-comercial-fronterizo-hasta-2030/",
+        "_added_at": "2026-09-18T11:57:34.817632-07:00"
+      },
+      {
+        "title": "Camioneros preparan huelga para el 1 de octubre por diésel caro",
+        "summary": "Transportistas anuncian paro para protestar contra elevado costo del combustible.",
+        "zona": "Baja California",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/camioneros-preparan-huelga-para-el-1-de-octubre-por-altos-precios-del-diesel/",
+        "_added_at": "2026-09-18T11:57:34.817632-07:00"
+      },
+      {
+        "title": "INDEX BC destaca aportación del ITT a formación de talento industrial",
+        "summary": "Instituto Tecnológico de Tijuana contribuye con profesionales capacitados para sector manufacturero.",
+        "zona": "Tijuana",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/18/destaca-index-bc-aportacion-del-itt-a-la-formacion-de-talento-para-la-industria/",
+        "_added_at": "2026-09-18T11:57:34.817632-07:00"
+      }
+    ],
     "eventos": [
+      {
+        "title": "Ensenada se Viste de Vino celebra gastronomía y tradición regional",
+        "summary": "Festival gastronómico y enológico en Plaza Santo Tomás reúne oferta de vinos y cocina local.",
+        "zona": "Ensenada",
+        "source": "Rada Noticias",
+        "url": "https://radanoticias.info/preparan-ensenada-se-viste-de-vino-en-la-plaza-santo-tomas/",
+        "_added_at": "2026-09-18T11:57:34.817632-07:00"
+      },
+      {
+        "title": "FiCens abre convocatoria para PitchLab de proyectos creativos",
+        "summary": "Festival de cine de Ensenada invita a emprendedores a presentar iniciativas innovadoras.",
+        "zona": "Ensenada",
+        "source": "Rada Noticias",
+        "url": "https://radanoticias.info/ficens-abre-convocatoria-para-pitchlab/",
+        "_added_at": "2026-09-18T11:57:34.817632-07:00"
+      },
+      {
+        "title": "INAH ofrecerá conferencia sobre arquitectura de tierra en Ensenada",
+        "summary": "Instituto Nacional de Antropología e Historia organiza charla sobre técnicas constructivas tradicionales.",
+        "zona": "Ensenada",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/09/18/inah-ofrecera-conferencia-sobre-arquitectura-de-tierra-en-ensenada/",
+        "_added_at": "2026-09-18T11:57:34.817632-07:00"
+      },
+      {
+        "title": "Bienal Europea de Arte del Libro llega por primera vez a América Latina",
+        "summary": "Evento internacional de arte y bibliografía se realizará en Ensenada con alcance latinoamericano.",
+        "zona": "Ensenada",
+        "source": "AGP Noticias",
+        "url": "https://agpnoticias.com/news/bienal-europea-de-arte-del-libro-llegara-por-primera-vez-a-america-latina/",
+        "_added_at": "2026-09-18T11:57:34.817632-07:00"
+      },
       {
         "title": "Ensenada celebra 484 aniversario con evento en Riviera",
         "summary": "Se realizó celebración conmemorativa del aniversario de fundación de Ensenada en el hotel Riviera de la ciudad.",
@@ -66,6 +203,38 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Incendio forestal en Ensenada afecta 600 hectáreas; controlan 60%",
+        "summary": "Combaten fuego en Rancho Corte de Madera; autoridades avanzan en control del siniestro.",
+        "zona": "Ensenada",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/09/18/avanza-el-control-del-incendio-forestal-rancho-corte-de-madera-en-ensenada/",
+        "_added_at": "2026-09-18T11:57:34.817632-07:00"
+      },
+      {
+        "title": "Secundaria municipal sin clases por tres semanas en Tijuana",
+        "summary": "Padres exigen reinicio de actividades tras cierre prolongado de institución educativa.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/18/padres-exigen-clases-para-alumnos-de-secundaria-municipal-tras-tres-semanas-sin-actividades/",
+        "_added_at": "2026-09-18T11:57:34.817632-07:00"
+      },
+      {
+        "title": "SMADS promueve tenencia responsable de mascotas en escuelas y empresas",
+        "summary": "Pláticas informativas buscan concienciar sobre cuidado y responsabilidad con animales domésticos.",
+        "zona": "Ensenada",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/09/18/promueve-smads-la-tenencia-responsable-mediante-platicas-en-escuelas-y-empresas/",
+        "_added_at": "2026-09-18T11:57:34.817632-07:00"
+      },
+      {
+        "title": "Proponen auditoría ciudadana a CESPE en Ensenada por fallas hídricas",
+        "summary": "Organizaciones sociales buscan supervisión civil ante problemas crónicos en servicio de agua.",
+        "zona": "Ensenada",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/ensenada/2026/09/18/proponen-que-ciudadanos-auditen-a-cespe-ante-fallas-en-el-servicio-de-agua/",
+        "_added_at": "2026-09-18T11:57:34.817632-07:00"
+      },
       {
         "title": "Postes de luz deteriorados amenazan a residentes de Lomas",
         "summary": "Infraestructura eléctrica en colapso representa riesgo para vecinos de la colonia Lomas del Porvenir.",
@@ -92,5 +261,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-18T00:29:35.349004-07:00"
+  "last_updated": "2026-09-18T11:57:34.817632-07:00"
 }
