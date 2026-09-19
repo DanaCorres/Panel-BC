@@ -1,8 +1,72 @@
 {
   "date": "2026-09-18",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Baja California entre estados con más desaparecidos",
+        "summary": "El estado ocupa posición destacada en cifras de personas desaparecidas a nivel nacional, reflejando crisis persistente.",
+        "zona": "Baja California",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/policiaca/2026/09/18/baja-california-entre-los-estados-del-norte-con-mas-personas-desaparecidas/",
+        "_added_at": "2026-09-18T17:04:52.817238-07:00"
+      },
+      {
+        "title": "Vinculan a imputado por desaparición de tres empleados en Ensenada",
+        "summary": "Fiscalía relaciona a guardia de seguridad de Viva Orgánica con desaparición de trabajadores en Maneadero.",
+        "zona": "Ensenada",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/vinculan-a-guardia-de-seguridad-de-viva-organica-por-desaparicion-en-maneadero/?utm_source=rss&utm_medium=rss&utm_campaign=vinculan-a-guardia-de-seguridad-de-viva-organica-por-desaparicion-en-maneadero",
+        "_added_at": "2026-09-18T17:04:52.817238-07:00"
+      },
+      {
+        "title": "Buscan asesora inmobiliaria desaparecida en Ensenada",
+        "summary": "Se reporta desaparición de profesional en sector inmobiliario en puerto bajacaliforniano.",
+        "zona": "Ensenada",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/181852_buscan_a_asesora_inmobiliaria_desaparecida_en_ensenada",
+        "_added_at": "2026-09-18T17:04:52.817238-07:00"
+      },
+      {
+        "title": "Fiscalía arresta tres por homicidio calificado en Tijuana",
+        "summary": "Detenciones por homicidio en zona de La Miramar; investigación en curso.",
+        "zona": "Tijuana",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/18/fiscalia-arresta-a-tres-por-homicidio-calificado-en-la-miramar/",
+        "_added_at": "2026-09-18T17:04:52.817238-07:00"
+      },
+      {
+        "title": "Detienen a cuatro falsos escoltas con pistola en Tijuana",
+        "summary": "Capturan a individuos que se hacían pasar por guardaespaldas; uno portaba credencial falsa de Defensa.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181851_detienen_a_cuatro_falsos_escoltas_con_una_pistola_uno_traia_charola_de_la_defensa",
+        "_added_at": "2026-09-18T17:04:52.817238-07:00"
+      },
+      {
+        "title": "Denuncian a policía por sustracción de bebé en Ensenada",
+        "summary": "Madre acusa a elemento de policía municipal de llevarse a su hijo de 10 meses sin autorización.",
+        "zona": "Ensenada",
+        "source": "AGP Noticias",
+        "url": "https://agpnoticias.com/news/madre-denuncia-sustraccion-de-su-bebe-senala-a-policia-municipal-de-ensenada/",
+        "_added_at": "2026-09-18T17:04:52.817238-07:00"
+      },
+      {
+        "title": "Hallan hombre sin vida en bulevar 2000 de Tijuana",
+        "summary": "Descubren cadáver con manos atadas en construcción de carriles confinados.",
+        "zona": "Tijuana",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/localizan-a-hombre-sin-vida-en-construccion-de-los-carriles-confinados-en-el-bulevar-2000/",
+        "_added_at": "2026-09-18T17:04:52.817238-07:00"
+      },
+      {
+        "title": "Detienen a \"El Kiler\" con escopeta en Tijuana",
+        "summary": "Municipales capturan a presunto delincuente armado en operativo.",
+        "zona": "Tijuana",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/municipales-detienen-a-el-kiler-con-una-escopeta-abastecida-en-tijuana/",
+        "_added_at": "2026-09-18T17:04:52.817238-07:00"
+      },
       {
         "title": "Gobierno federal anuncia próximas detenciones en caso de combustible ilícito",
         "summary": "Autoridades federales aseguran 59 millones en huachicol e informan de inminentes aprehensiones en el caso.",
@@ -58,25 +122,49 @@
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/09/6-mil-665-denuncias-por-despojo-en-gobierno-de-marina-podcast/?utm_source=rss&utm_medium=rss&utm_campaign=6-mil-665-denuncias-por-despojo-en-gobierno-de-marina-podcast",
         "_added_at": "2026-09-18T00:29:35.349004-07:00"
-      },
-      {
-        "title": "Desmantelan células de montachoques en Tijuana",
-        "summary": "Autoridades desmantelaron dos células de delincuentes especializados en fraude vehicular que operaban desde el centro y sur del país.",
-        "zona": "Tijuana",
-        "source": "TV Azteca BC",
-        "url": "https://www.tvaztecabajacalifornia.com/noticias/desmantelan-en-tijuana-dos-celulas-de-montachoques-procedentes-del-centro-y-sur-del-pais/",
-        "_added_at": "2026-09-18T00:29:35.349004-07:00"
-      },
-      {
-        "title": "Inseguridad es problema nacional, no solo local: Román Cota",
-        "summary": "Funcionario señala que la problemática de seguridad trasciende lo municipal y responde a causas estructurales nacionales.",
-        "zona": "Tijuana",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181813_problema_de_inseguridad_no_solo_es_local_sino_nacional_roman_cota",
-        "_added_at": "2026-09-18T00:29:35.349004-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Margarita Flores se declara preparada para gobernar BC",
+        "summary": "Precandidato panista se posiciona ante entrada de Verónica Ruffo a competencia interna.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/politica/2026/09/18/margarita-flores-se-dice-preparada-para-gobernar-bc-y-da-la-bienvenida-a-veronica-ruffo-a-la-interna-del-pan/",
+        "_added_at": "2026-09-18T17:04:52.817238-07:00"
+      },
+      {
+        "title": "SEMAR desclasifica patrimonio de 78 mandos militares",
+        "summary": "Secretaría de Marina publica declaraciones tras escándalo de enriquecimiento, incluyendo Rafael Ojeda.",
+        "zona": "Baja California",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/semar-desclasifica-el-patrimonio-de-78-mandos-tras-escandalo-de-reserva-incluido-el-de-rafael-ojeda/?utm_source=rss&utm_medium=rss&utm_campaign=semar-desclasifica-el-patrimonio-de-78-mandos-tras-escandalo-de-reserva-incluido-el-de-rafael-ojeda",
+        "_added_at": "2026-09-18T17:04:52.817238-07:00"
+      },
+      {
+        "title": "Ismael Burgueño retoma actividades en alcaldía de Tijuana",
+        "summary": "Presidente municipal regresa a funciones después de licencia.",
+        "zona": "Tijuana",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99595/Retoma-Ismael-Burgue%C3%B1o-actividades-al-frente-de-la-alcald%C3%ADa-de-Tijuana",
+        "_added_at": "2026-09-18T17:04:52.817238-07:00"
+      },
+      {
+        "title": "Congreso BC aprueba mesa de trabajo para apoyo a campesinos",
+        "summary": "Legisladores establecen instancia para atender demandas del sector agrícola estatal.",
+        "zona": "Baja California",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/99593/Aprueba-Congreso-de-BC-instalar-mesa-de-trabajo-para-apoyos-a-campesinos",
+        "_added_at": "2026-09-18T17:04:52.817238-07:00"
+      },
+      {
+        "title": "Gobierno estatal anuncia día inhábil el 21 de septiembre",
+        "summary": "Administración suspenderá labores en conmemoración de eventos históricos.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/estatal/2026/09/18/21-de-septiembre-sera-inhabil-en-el-gobierno-del-estado/",
+        "_added_at": "2026-09-18T17:04:52.817238-07:00"
+      },
       {
         "title": "Hija de Ernesto Ruffo buscaría la gubernatura de Baja California",
         "summary": "Miembro de la familia Ruffo expresa intención de contender en próximas elecciones estatales.",
@@ -128,6 +216,38 @@
     ],
     "economia": [
       {
+        "title": "Empresas japonesas apuestan por manufactura en Tijuana",
+        "summary": "Inversores nipones diversifican operaciones hacia manufactura avanzada y tecnología en la frontera.",
+        "zona": "Tijuana",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99596/Empresas-japonesas-voltean-a-Tijuana-para-invertir-en-manufactura-avanzada-y-tecnolog%C3%ADa",
+        "_added_at": "2026-09-18T17:04:52.817238-07:00"
+      },
+      {
+        "title": "Tijuana prevé mayor absorción industrial hacia 2027",
+        "summary": "Analistas proyectan crecimiento dinámico en sector industrial fronterizo en próximo año.",
+        "zona": "Tijuana",
+        "source": "El Imparcial (Tijuana)",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/18/preven-mayor-dinamismo-en-absorcion-industrial-de-tijuana-hacia-2027/",
+        "_added_at": "2026-09-18T17:04:52.817238-07:00"
+      },
+      {
+        "title": "Cae ánimo de inversión empresarial en Baja California",
+        "summary": "Inseguridad e incertidumbre frenan confianza de capitales en el estado según reportes.",
+        "zona": "Baja California",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/99594/Baja-del-%C3%A1nimo-de-inversi%C3%B3n-empresarial-en-Baja-California;-incertidumbre-e-inseguridad,-entre-los-principales-retos",
+        "_added_at": "2026-09-18T17:04:52.817238-07:00"
+      },
+      {
+        "title": "Apagones dejan pérdidas por 400 millones en BC",
+        "summary": "Cortes de energía generan impacto económico significativo en empresas y comercios estatales.",
+        "zona": "Baja California",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/99583/Apagones-reportan-p%C3%A9rdidas-por-400-mdp-en-BC",
+        "_added_at": "2026-09-18T17:04:52.817238-07:00"
+      },
+      {
         "title": "CANACO pide ampliar decreto comercial fronterizo hasta 2030",
         "summary": "Cámara de Comercio solicita extensión de beneficios fiscales para mantener competitividad en frontera.",
         "zona": "Tijuana",
@@ -153,6 +273,22 @@
       }
     ],
     "eventos": [
+      {
+        "title": "Festival de Octubre ofrece 119 actividades culturales",
+        "summary": "Evento estatal despliegue programación artística y cultural en los siete municipios de BC.",
+        "zona": "Baja California",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/festival-de-octubre-ofrecera-119-actividades-culturales-en-los-siete-municipios-de-bc/?utm_source=rss&utm_medium=rss&utm_campaign=festival-de-octubre-ofrecera-119-actividades-culturales-en-los-siete-municipios-de-bc",
+        "_added_at": "2026-09-18T17:04:52.817238-07:00"
+      },
+      {
+        "title": "UABC realiza feria de movilidad urbana en Ensenada",
+        "summary": "Universidad organiza evento enfocado en transporte sostenible y desarrollo urbano.",
+        "zona": "Ensenada",
+        "source": "AGP Noticias",
+        "url": "https://agpnoticias.com/news/uabc-realizara-feria-de-movilidad-urbana-en-ensenada/",
+        "_added_at": "2026-09-18T17:04:52.817238-07:00"
+      },
       {
         "title": "Ensenada se Viste de Vino celebra gastronomía y tradición regional",
         "summary": "Festival gastronómico y enológico en Plaza Santo Tomás reúne oferta de vinos y cocina local.",
@@ -203,6 +339,62 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Gobierno BC facilita examen para concluir primaria y secundaria",
+        "summary": "Administración ofrece opción gratuita para terminar educación básica en un solo examen.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/estatal/2026/09/18/facilita-gobbc-opcion-gratuita-para-concluir-primaria-y-secundaria-en-un-solo-examen",
+        "_added_at": "2026-09-18T17:04:52.817238-07:00"
+      },
+      {
+        "title": "Baja California conquista Nacional U13 femenil de voleibol",
+        "summary": "Selección estatal campeona invicta; tres ensenadenses integran el equipo ganador.",
+        "zona": "Baja California",
+        "source": "AGP Noticias",
+        "url": "https://agpnoticias.com/news/baja-california-conquista-invicta-el-nacional-u13-femenil-tres-ensenadenses-forman-parte-del-campeonato/",
+        "_added_at": "2026-09-18T17:04:52.817238-07:00"
+      },
+      {
+        "title": "Gobierno Ensenada se atrasa con nómina de empleados",
+        "summary": "Administración municipal enfrenta retrasos en pago a personal administrativo.",
+        "zona": "Ensenada",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/gobierno-municipal-de-ensenada-se-atrasa-con-el-pago-de-la-nomina-de-los-empleados/?utm_source=rss&utm_medium=rss&utm_campaign=gobierno-municipal-de-ensenada-se-atrasa-con-el-pago-de-la-nomina-de-los-empleados",
+        "_added_at": "2026-09-18T17:04:52.817238-07:00"
+      },
+      {
+        "title": "Se graduaron 104 soldados del Servicio Militar en Tijuana",
+        "summary": "Jóvenes concluyen entrenamiento obligatorio en ceremonia oficial.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181845_se_graduaron_104_soldados_del_servicio_militar_nacional_en_tijuana",
+        "_added_at": "2026-09-18T17:04:52.817238-07:00"
+      },
+      {
+        "title": "Vecinos bloquean CESPT por deslizamientos en Sánchez Taboada",
+        "summary": "Residentes demandan solución inmediata a problemas de inestabilidad del terreno.",
+        "zona": "Tijuana",
+        "source": "TV Azteca BC",
+        "url": "https://www.tvaztecabajacalifornia.com/noticias/vecinos-de-la-sanchez-taboada-bloquean-oficinas-de-la-cespt-exigen-atencion-inmediata-ante-los-deslizamientos/",
+        "_added_at": "2026-09-18T17:04:52.817238-07:00"
+      },
+      {
+        "title": "Llevan tres semanas sin clases en secundaria municipal de Tijuana",
+        "summary": "Estudiantes sin actividades académicas por situación laboral; exigen intervención.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181839_llevan_tres_semanas_sin_clases_en_secundaria_municipal_exigen_que_burgueno_intervenga",
+        "_added_at": "2026-09-18T17:04:52.817238-07:00"
+      },
+      {
+        "title": "Alcaldesa Agatón destaca rehabilitación de avenida Reforma",
+        "summary": "Gobierno Ensenada completa mejoras en camellones con apoyo de Femsa y Oxxo.",
+        "zona": "Ensenada",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/ensenada/2026/09/18/destaca-alcaldesa-claudia-agaton-apoyo-de-femsa-y-oxxo-para-rehabilitar-camellones-en-avenida-reforma/",
+        "_added_at": "2026-09-18T17:04:52.817238-07:00"
+      },
       {
         "title": "Incendio forestal en Ensenada afecta 600 hectáreas; controlan 60%",
         "summary": "Combaten fuego en Rancho Corte de Madera; autoridades avanzan en control del siniestro.",
@@ -261,5 +453,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-18T11:57:34.817632-07:00"
+  "last_updated": "2026-09-18T17:04:52.817238-07:00"
 }
