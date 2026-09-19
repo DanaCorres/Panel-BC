@@ -1,8 +1,48 @@
 {
   "date": "2026-09-19",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Aseguran 1.3 toneladas de metanfetamina en Aduana Tijuana",
+        "summary": "Autoridades aduanales aseguran más de 1.3 toneladas de metanfetamina y 10 kilos de fentanilo en operativo en la aduana tijuanense.",
+        "zona": "Tijuana",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/19/aseguran-mas-de-1-3-toneladas-de-metanfetamina-y-10-kilos-de-fentanilo-en-aduana-de-tijuana/",
+        "_added_at": "2026-09-19T11:31:35.025177-07:00"
+      },
+      {
+        "title": "Vinculan a proceso a acusado de pederastia en Ensenada",
+        "summary": "Un hombre es vinculado a proceso por cargos de abuso sexual de menores en Ensenada tras investigación de autoridades.",
+        "zona": "Ensenada",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/09/19/vinculan-a-proceso-a-hombre-acusado-de-pederastia-en-ensenada/",
+        "_added_at": "2026-09-19T11:31:35.025177-07:00"
+      },
+      {
+        "title": "Hallan cadáver en basurero clandestino de Tijuana",
+        "summary": "Localizan cuerpo sin vida de un hombre en basurero ilegal de la colonia 10 de Mayo en Tijuana.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/matan-a-hombre-en-basurero-de-la-colonia-10-de-mayo/?utm_source=rss&utm_medium=rss&utm_campaign=matan-a-hombre-en-basurero-de-la-colonia-10-de-mayo",
+        "_added_at": "2026-09-19T11:31:35.025177-07:00"
+      },
+      {
+        "title": "Localizan vehículo de mujer desaparecida en Ensenada",
+        "summary": "Autoridades hallan automóvil relacionado con caso de mujer reportada como desaparecida en Ensenada.",
+        "zona": "Ensenada",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/localizan-vehiculo-relacionado-con-mujer-desaparecida-en-ensenada/",
+        "_added_at": "2026-09-19T11:31:35.025177-07:00"
+      },
+      {
+        "title": "Denuncian proliferación de basureros clandestinos en Tijuana",
+        "summary": "Ciudadanía denuncia aumento de sitios de disposición ilegal de residuos en diversos puntos de Tijuana.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181872_denuncian_proliferacion_de_basureros_clandestinos_en_tijuana",
+        "_added_at": "2026-09-19T11:31:35.025177-07:00"
+      },
       {
         "title": "Encuentran sin vida a activista desaparecida en Ensenada",
         "summary": "Localizan el cuerpo de Marlen Vázquez en un barranco tras ser reportada como desaparecida en Ensenada.",
@@ -29,6 +69,38 @@
       }
     ],
     "politica": [
+      {
+        "title": "Incumple Ensenada pagos a personal de contrato",
+        "summary": "Municipio de Ensenada adeuda salarios a trabajadores de confianza y personal bajo contrato temporal.",
+        "zona": "Ensenada",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/19/incumple-ensenada-pago-a-personal-de-contrato-y-de-confianza/",
+        "_added_at": "2026-09-19T11:31:35.025177-07:00"
+      },
+      {
+        "title": "Llegan 860 millones para obra social en municipios BC",
+        "summary": "Gobierno federal transfiere 860 millones de pesos para proyectos de obra social en municipios bajacalifornianos.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/empresarial/181863_llegan_860_mdp_para_obra_social_para_municipios_de_bc",
+        "_added_at": "2026-09-19T11:31:35.025177-07:00"
+      },
+      {
+        "title": "Fitch califica deuda de BC con alta calidad crediticia",
+        "summary": "Agencia calificadora Fitch otorga rating positivo a deuda estatal de 17,806 millones de pesos.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/empresarial/181862_fitch_otorga_alta_calidad_crediticia_a_deuda_por_17_806_mdp_contratada_por_bc",
+        "_added_at": "2026-09-19T11:31:35.025177-07:00"
+      },
+      {
+        "title": "Burgueño promete bachear la ciudad tras regreso",
+        "summary": "Exfuncionario anuncia plan para reparación de carpeta asfáltica en vialidades de Tijuana.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181870_tras_su_regreso_burgueno_ofrece_bachear_la_ciudad",
+        "_added_at": "2026-09-19T11:31:35.025177-07:00"
+      },
       {
         "title": "Castro Trenti anuncia término de su servicio público",
         "summary": "Funcionario tijuanense comunica el fin de su gestión en el gobierno.",
@@ -64,6 +136,22 @@
     ],
     "economia": [
       {
+        "title": "Avanza ampliación del Bulevar Real de Rosarito",
+        "summary": "Obra de mejoramiento vial en Rosarito continúa con avances en ampliación y pavimentación.",
+        "zona": "Rosarito",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/19/avanza-ampliacion-y-pavimentacion-del-bulevar-real-de-rosarito/",
+        "_added_at": "2026-09-19T11:31:35.025177-07:00"
+      },
+      {
+        "title": "Alcaldesa destaca apoyo privado en rehabilitación de camellones",
+        "summary": "Autoridad municipal resalta contribución de empresas como Femsa y Oxxo en mejora de avenida Reforma.",
+        "zona": "Ensenada",
+        "source": "EnsenadaHoy",
+        "url": "https://ensenadahoy.com/noticias/ver/6957",
+        "_added_at": "2026-09-19T11:31:35.025177-07:00"
+      },
+      {
         "title": "Cierre de empresas afecta operación del Hospital Infantil",
         "summary": "Restricciones empresariales impactan funcionamiento del Hospital Infantil de las Californias en Tijuana.",
         "zona": "Tijuana",
@@ -72,8 +160,41 @@
         "_added_at": "2026-09-19T00:26:05.169790-07:00"
       }
     ],
-    "eventos": [],
+    "eventos": [
+      {
+        "title": "Toros de Tijuana celebran tercer campeonato con cena",
+        "summary": "Equipo profesional festeja su tercer título divisional con evento de gala para jugadores y aficionados.",
+        "zona": "Tijuana",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/deportes/2026/09/19/toros-de-tijuana-celebran-su-tercer-campeonato-con-cena-de-campeones/",
+        "_added_at": "2026-09-19T11:31:35.025177-07:00"
+      },
+      {
+        "title": "Setenta atletas de BC competirán en Festival Taekwondo",
+        "summary": "Delegación bajacaliforniana participará en sexto festival de taekwondo a realizarse en Zacatecas.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/deportes/2026/09/19/viajaran-70-atletas-de-bc-al-sexto-festival-de-taekwondo-en-zacatecas/",
+        "_added_at": "2026-09-19T11:31:35.025177-07:00"
+      }
+    ],
     "sociedad": [
+      {
+        "title": "Yate encalla en La Salina de Ensenada con tripulantes",
+        "summary": "Embarcación queda varada en aguas de Ensenada con tres personas a bordo; rescate complicado por oleaje.",
+        "zona": "Ensenada",
+        "source": "TV Azteca BC",
+        "url": "https://www.tvaztecabajacalifornia.com/noticias/yate-encalla-en-la-salina-de-ensenada-con-tres-tripulantes-a-bordo-condiciones-del-mar-complican-el-rescate/",
+        "_added_at": "2026-09-19T11:31:35.025177-07:00"
+      },
+      {
+        "title": "Cierre de empresas afecta Hospital Infantil de Californias",
+        "summary": "Operaciones del hospital pediátrico en Tijuana se ven impactadas por clausura de proveedores.",
+        "zona": "Tijuana",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99601/Afecta-cierre-de-empresas-operaci%C3%B3n-del-Hospital-Infantil-de-las-Californias",
+        "_added_at": "2026-09-19T11:31:35.025177-07:00"
+      },
       {
         "title": "INEA y gobierno de BC permiten concluir primaria con un examen",
         "summary": "Ofrecen opción de terminar educación básica mediante única evaluación.",
@@ -100,5 +221,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-19T00:26:05.169790-07:00"
+  "last_updated": "2026-09-19T11:31:35.025177-07:00"
 }
