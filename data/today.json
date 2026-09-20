@@ -1,8 +1,32 @@
 {
   "date": "2026-09-19",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Sheinbaum y Maru Campos se reúnen; promete acción si hay delito",
+        "summary": "La presidenta se reunió con la gobernadora de Chihuahua en Tijuana. Reiteró disposición a proceder legalmente ante irregularidades detectadas.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181883_se_reunio_sheinbaum_con_maru_campos_si_hay_delito_que_se_proceda_dice",
+        "_added_at": "2026-09-19T16:59:42.368482-07:00"
+      },
+      {
+        "title": "Retiran 17 cámaras ilegales instaladas en postes telefónicos de Mexicali",
+        "summary": "La FESC decomisó cámaras de vigilancia colocadas sin autorización en infraestructura de telefonía en Mexicali.",
+        "zona": "Mexicali",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/09/19/retira-fesc-17-camaras-instaladas-sin-autorizacion-en-postes-de-telefonia-en-mexicali/",
+        "_added_at": "2026-09-19T16:59:42.368482-07:00"
+      },
+      {
+        "title": "Denuncian retención de dos personas en motel de Mexicali",
+        "summary": "Se reporta secuestro con fines extorsivos en establecimiento de Mexicali. Autoridades investigan.",
+        "zona": "Mexicali",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/denuncian-presunta-retencion-de-dos-personas-en-motel-de-mexicali-pedirian-dinero-por-su-liberacion/",
+        "_added_at": "2026-09-19T16:59:42.368482-07:00"
+      },
       {
         "title": "Aseguran 1.3 toneladas de metanfetamina en Aduana Tijuana",
         "summary": "Autoridades aduanales aseguran más de 1.3 toneladas de metanfetamina y 10 kilos de fentanilo en operativo en la aduana tijuanense.",
@@ -70,6 +94,30 @@
     ],
     "politica": [
       {
+        "title": "PAN critica a Sheinbaum por crisis en seguridad, salud y energía",
+        "summary": "Oposición cuestiona gestión presidencial en BC en temas de seguridad, servicios de salud e infraestructura energética.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181881_llega_sheinbaum_a_bc_en_medio_de_crisis_en_seguridad_salud_y_energia_pan",
+        "_added_at": "2026-09-19T16:59:42.368482-07:00"
+      },
+      {
+        "title": "Magistrados y jueces deberán pedir permiso para hablar del cargo",
+        "summary": "Nueva norma restringe declaraciones públicas de magistrados y jueces sobre su función.",
+        "zona": "Baja California",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/magistrados-y-jueces-tendran-que-pedir-permiso-para-hablar-sobre-su-cargo/?utm_source=rss&utm_medium=rss&utm_campaign=magistrados-y-jueces-tendran-que-pedir-permiso-para-hablar-sobre-su-cargo",
+        "_added_at": "2026-09-19T16:59:42.368482-07:00"
+      },
+      {
+        "title": "Gobierno de Ensenada suspende actividades administrativas el 21",
+        "summary": "Declarado día inhábil en administración municipal de Ensenada por conmemoración histórica.",
+        "zona": "Ensenada",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/09/19/gobierno-de-ensenada-suspendera-actividades-administrativas-el-lunes-21-de-septiembre/",
+        "_added_at": "2026-09-19T16:59:42.368482-07:00"
+      },
+      {
         "title": "Incumple Ensenada pagos a personal de contrato",
         "summary": "Municipio de Ensenada adeuda salarios a trabajadores de confianza y personal bajo contrato temporal.",
         "zona": "Ensenada",
@@ -136,6 +184,30 @@
     ],
     "economia": [
       {
+        "title": "Contadores advierten presión fiscal sobre empresas e empleo",
+        "summary": "Gremio de contadores alerta que mayor carga tributaria podría afectar competitividad empresarial y generación de empleo.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181878_mayor_carga_fiscal_podria_presionar_a_empresas_y_empleo_advierten_contadores",
+        "_added_at": "2026-09-19T16:59:42.368482-07:00"
+      },
+      {
+        "title": "Gasolina Magna y Premium reducen cuota de IEPS",
+        "summary": "Combustibles bajan impuestos especiales. Diesel mantiene alícuota cero en período 19-25 de septiembre.",
+        "zona": "Baja California",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/dinero/2026/09/19/gasolina-magna-y-premium-bajan-su-cuota-de-ieps-diesel-tendra-cero-impuesto-del-19-al-25-de-septiembre/",
+        "_added_at": "2026-09-19T16:59:42.368482-07:00"
+      },
+      {
+        "title": "Expo Ganadera San Quintín reúne productores con apoyo a compra",
+        "summary": "Feria ganadera en San Quintín convoca a productores. Incluye programas de apoyo para adquisición de ganado.",
+        "zona": "San Quintín",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/09/19/expo-ganadera-san-quintin-reune-a-productores-y-contempla-apoyos-para-compra-de-ganado/",
+        "_added_at": "2026-09-19T16:59:42.368482-07:00"
+      },
+      {
         "title": "Avanza ampliación del Bulevar Real de Rosarito",
         "summary": "Obra de mejoramiento vial en Rosarito continúa con avances en ampliación y pavimentación.",
         "zona": "Rosarito",
@@ -162,6 +234,38 @@
     ],
     "eventos": [
       {
+        "title": "Ari Telch presenta obra sobre salud mental en CECUT",
+        "summary": "Obra \"D'Mente\" aborda conciencia sobre salud mental. Se presenta en Centro Cultural Tijuana.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/ari-telch-concientiza-sobre-salud-mental-con-dmente-en-el-cecut/?utm_source=rss&utm_medium=rss&utm_campaign=ari-telch-concientiza-sobre-salud-mental-con-dmente-en-el-cecut",
+        "_added_at": "2026-09-19T16:59:42.368482-07:00"
+      },
+      {
+        "title": "Convoca IMDET a más de 5 mil corredores en Serial Atlético",
+        "summary": "Sexta etapa de carrera atlética delegacional moviliza a participantes en Tijuana.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/imdet-convoca-a-mas-de-5-mil-corredores-en-la-sexta-etapa-del-serial-atletico-delegacional/?utm_source=rss&utm_medium=rss&utm_campaign=imdet-convoca-a-mas-de-5-mil-corredores-en-la-sexta-etapa-del-serial-atletico-delegacional",
+        "_added_at": "2026-09-19T16:59:42.368482-07:00"
+      },
+      {
+        "title": "Ensenada se posiciona como punto de encuentro marítimo internacional",
+        "summary": "Ciudad histórica fortalece vínculos diplomáticos y culturales en relaciones marítimas México-Portugal.",
+        "zona": "Ensenada",
+        "source": "EnsenadaHoy",
+        "url": "https://ensenadahoy.com/noticias/ver/6959",
+        "_added_at": "2026-09-19T16:59:42.368482-07:00"
+      },
+      {
+        "title": "Gradúan 103 personas en Centros de Desarrollo Comunitario DIF Ensenada",
+        "summary": "Ceremonia de egreso de capacitación comunitaria en Ensenada. Reconocimiento de logros educativos.",
+        "zona": "Ensenada",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/09/19/graduan-103-personas-de-los-centros-de-desarrollo-comunitario-de-dif-ensenada/",
+        "_added_at": "2026-09-19T16:59:42.368482-07:00"
+      },
+      {
         "title": "Toros de Tijuana celebran tercer campeonato con cena",
         "summary": "Equipo profesional festeja su tercer título divisional con evento de gala para jugadores y aficionados.",
         "zona": "Tijuana",
@@ -179,6 +283,46 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Más de 260 mil participan en Segundo Simulacro Nacional 2026",
+        "summary": "Baja California registra alta participación en ejercicio de preparación ante sismos. Destacan tiempos de respuesta institucional.",
+        "zona": "Baja California",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/09/19/participan-mas-de-260-mil-personas-en-el-segundo-simulacro-nacional-2026-en-baja-california/",
+        "_added_at": "2026-09-19T16:59:42.368482-07:00"
+      },
+      {
+        "title": "Protección Civil reconoce necesidad de mejorar tiempos en simulacro",
+        "summary": "Autoridades de Tijuana admiten oportunidades de optimización en protocolos de evacuación y respuesta rápida.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/por-mejorar-tiempo-de-respuesta-en-simulacro-de-sismo-admite-proteccion-civil-de-tijuana/?utm_source=rss&utm_medium=rss&utm_campaign=por-mejorar-tiempo-de-respuesta-en-simulacro-de-sismo-admite-proteccion-civil-de-tijuana",
+        "_added_at": "2026-09-19T16:59:42.368482-07:00"
+      },
+      {
+        "title": "Recolectan más de 20 mil colillas de cigarro en playas tijuanenses",
+        "summary": "Jornada ambiental en Playas de Tijuana: cientos de voluntarios participan en limpieza costera.",
+        "zona": "Tijuana",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/09/19/recolectan-mas-de-20-mil-colillas-de-cigarro-en-playas-de-tijuana/",
+        "_added_at": "2026-09-19T16:59:42.368482-07:00"
+      },
+      {
+        "title": "Comunidad LGBT+ pide protecciones contra usurpación de cargos",
+        "summary": "Organizaciones de diversidad sexual en BC demandan mecanismos legales para evitar suplantación en representación.",
+        "zona": "Baja California",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/mxl/mexicali/2026/09/19/comunidad-lgbt-en-bc-pide-mayores-mecanismos-para-evitar-la-usurpacion-de-cargos-en-representacion-de-la-diversidad-sexual/",
+        "_added_at": "2026-09-19T16:59:42.368482-07:00"
+      },
+      {
+        "title": "Educación transita hacia inteligencia artificial, advierte especialista",
+        "summary": "Experto señala transformación en modelos educativos por adopción de tecnología IA. Requiere preparación docente.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181880_la_educacion_atraviesa_una_transicion_hacia_la_inteligencia_artificial_advierte_especialista",
+        "_added_at": "2026-09-19T16:59:42.368482-07:00"
+      },
       {
         "title": "Yate encalla en La Salina de Ensenada con tripulantes",
         "summary": "Embarcación queda varada en aguas de Ensenada con tres personas a bordo; rescate complicado por oleaje.",
@@ -221,5 +365,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-19T11:31:35.025177-07:00"
+  "last_updated": "2026-09-19T16:59:42.368482-07:00"
 }
