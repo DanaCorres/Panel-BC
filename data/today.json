@@ -1,8 +1,24 @@
 {
   "date": "2026-09-20",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Capturan a 'El Karlitos' y dos cómplices armados en Tijuana",
+        "summary": "Operativo resulta en detención de presunto delincuente y su red criminal.",
+        "zona": "Tijuana",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/20/cae-el-karlitos-y-dos-de-sus-complices-armados/",
+        "_added_at": "2026-09-20T11:37:17.846300-07:00"
+      },
+      {
+        "title": "Hallan cadáver en tambo con mensaje de amenazas",
+        "summary": "Descubrimiento en colonia Gran Tenochtitlán deja indicios de ejecución.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/181891_hallan_tambo_con_un_cadaver_y_mensaje_con_amenazas",
+        "_added_at": "2026-09-20T11:37:17.846300-07:00"
+      },
       {
         "title": "Decomisan 1.3 toneladas de metanfetamina en Aduana Tijuana",
         "summary": "Autoridades aseguran gran cantidad de droga en operativo en la frontera de Tijuana.",
@@ -30,6 +46,30 @@
     ],
     "politica": [
       {
+        "title": "Sheinbaum presenta segundo informe en Tijuana con obras y programas",
+        "summary": "Presidenta destaca infraestructura, agua, movilidad y programas sociales para BC.",
+        "zona": "Tijuana",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/99620/Sheinbaum-llega-a-Tijuana-con-informe-de-mega-obras,-agua,-movilidad-y-programas-sociales-para-Baja-California",
+        "_added_at": "2026-09-20T11:37:17.846300-07:00"
+      },
+      {
+        "title": "Crítica a Sheinbaum: no abordó problemas de Baja California",
+        "summary": "Damián Retes reclama que informe presidencial ignoró temas prioritarios regionales.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181896_sheinbaum_no_hablo_de_los_problemas_que_aquejan_a_bc_damian_retes",
+        "_added_at": "2026-09-20T11:37:17.846300-07:00"
+      },
+      {
+        "title": "Diputado Razo promueve regulación contra fraudes inmobiliarios",
+        "summary": "Legislador impulsa iniciativa para proteger compradores de propiedades.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/estatal/2026/09/20/diputado-razo-promueve-regulacion-contra-fraudes-inmobiliarios/",
+        "_added_at": "2026-09-20T11:37:17.846300-07:00"
+      },
+      {
         "title": "Sheinbaum anuncia primera piedra de desaladora en Rosarito",
         "summary": "Presidenta presenta proyecto de planta desaladora durante visita a región y segundo informe en Tijuana.",
         "zona": "Rosarito",
@@ -46,9 +86,43 @@
         "_added_at": "2026-09-20T00:48:53.347837-07:00"
       }
     ],
-    "economia": [],
-    "eventos": [],
+    "economia": [
+      {
+        "title": "Gas LP sube por tercera semana en Baja California",
+        "summary": "Precio del combustible alcanza 20 pesos por kilo en Mexicali.",
+        "zona": "Baja California",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/mxl/mexicali/2026/09/20/gas-lp-sube-por-tercera-semana-consecutiva-en-baja-california-llega-a-20-pesos-el-kilo-en-mexicali/",
+        "_added_at": "2026-09-20T11:37:17.846300-07:00"
+      },
+      {
+        "title": "Dólar sube mientras peso mexicano pierde valor",
+        "summary": "Tipo de cambio registra alza en cotización dominical en la región.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/dinero/2026/09/20/precio-del-dolar-sube-mientras-el-peso-mexicano-cede-y-asi-cotiza-el-tipo-de-cambio-este-domingo-20-de-septiembre/",
+        "_added_at": "2026-09-20T11:37:17.846300-07:00"
+      }
+    ],
+    "eventos": [
+      {
+        "title": "Barbie Run 2026 llena de rosa bulevar costero de Ensenada",
+        "summary": "Primera edición del evento deportivo recorre importante avenida de la ciudad.",
+        "zona": "Ensenada",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/deportes/2026/09/20/llena-de-rosa-la-barbie-run-2026-el-bulevar-costero-de-ensenada/",
+        "_added_at": "2026-09-20T11:37:17.846300-07:00"
+      }
+    ],
     "sociedad": [
+      {
+        "title": "Baja California refuerza acciones contra la rickettsia",
+        "summary": "Estado continúa medidas de control sanitario contra enfermedad transmitida por garrapatas.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/20/continua-bc-reforzando-acciones-contra-la-rickettsia/",
+        "_added_at": "2026-09-20T11:37:17.846300-07:00"
+      },
       {
         "title": "Trabajador recibe descarga eléctrica grave en Tijuana",
         "summary": "Labrador sufre accidente en bodega de Lomas del Matamoros por contacto eléctrico.",
@@ -59,5 +133,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-20T00:48:53.347837-07:00"
+  "last_updated": "2026-09-20T11:37:17.846300-07:00"
 }
