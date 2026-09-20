@@ -1,369 +1,63 @@
 {
-  "date": "2026-09-19",
-  "run_count": 3,
+  "date": "2026-09-20",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Sheinbaum y Maru Campos se reúnen; promete acción si hay delito",
-        "summary": "La presidenta se reunió con la gobernadora de Chihuahua en Tijuana. Reiteró disposición a proceder legalmente ante irregularidades detectadas.",
+        "title": "Decomisan 1.3 toneladas de metanfetamina en Aduana Tijuana",
+        "summary": "Autoridades aseguran gran cantidad de droga en operativo en la frontera de Tijuana.",
         "zona": "Tijuana",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181883_se_reunio_sheinbaum_con_maru_campos_si_hay_delito_que_se_proceda_dice",
-        "_added_at": "2026-09-19T16:59:42.368482-07:00"
+        "url": "https://www.afntijuana.info/seguridad/181884_decomisan_1_3_toneladas_de_metanfetamina_en_la_aduana_de_tijuana",
+        "_added_at": "2026-09-20T00:48:53.347837-07:00"
       },
       {
-        "title": "Retiran 17 cámaras ilegales instaladas en postes telefónicos de Mexicali",
-        "summary": "La FESC decomisó cámaras de vigilancia colocadas sin autorización en infraestructura de telefonía en Mexicali.",
-        "zona": "Mexicali",
-        "source": "Argumento Noticias",
-        "url": "https://argumentonoticias.com/2026/09/19/retira-fesc-17-camaras-instaladas-sin-autorizacion-en-postes-de-telefonia-en-mexicali/",
-        "_added_at": "2026-09-19T16:59:42.368482-07:00"
+        "title": "Hallan cadáver en tambo con mensaje de amenazas",
+        "summary": "Descubren cuerpo sin vida en contenedor con nota intimidatoria en colonia Gran Tenochtitlán.",
+        "zona": "Baja California",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/99626/Hallan-tambo-con-una-persona-sin-vida-en-colonia-Gran-Tenochtitl%C3%A1n;-ten%C3%ADa-un-mensaje-con-amenazas",
+        "_added_at": "2026-09-20T00:48:53.347837-07:00"
       },
       {
-        "title": "Denuncian retención de dos personas en motel de Mexicali",
-        "summary": "Se reporta secuestro con fines extorsivos en establecimiento de Mexicali. Autoridades investigan.",
-        "zona": "Mexicali",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/denuncian-presunta-retencion-de-dos-personas-en-motel-de-mexicali-pedirian-dinero-por-su-liberacion/",
-        "_added_at": "2026-09-19T16:59:42.368482-07:00"
-      },
-      {
-        "title": "Aseguran 1.3 toneladas de metanfetamina en Aduana Tijuana",
-        "summary": "Autoridades aduanales aseguran más de 1.3 toneladas de metanfetamina y 10 kilos de fentanilo en operativo en la aduana tijuanense.",
-        "zona": "Tijuana",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/19/aseguran-mas-de-1-3-toneladas-de-metanfetamina-y-10-kilos-de-fentanilo-en-aduana-de-tijuana/",
-        "_added_at": "2026-09-19T11:31:35.025177-07:00"
-      },
-      {
-        "title": "Vinculan a proceso a acusado de pederastia en Ensenada",
-        "summary": "Un hombre es vinculado a proceso por cargos de abuso sexual de menores en Ensenada tras investigación de autoridades.",
-        "zona": "Ensenada",
-        "source": "Argumento Noticias",
-        "url": "https://argumentonoticias.com/2026/09/19/vinculan-a-proceso-a-hombre-acusado-de-pederastia-en-ensenada/",
-        "_added_at": "2026-09-19T11:31:35.025177-07:00"
-      },
-      {
-        "title": "Hallan cadáver en basurero clandestino de Tijuana",
-        "summary": "Localizan cuerpo sin vida de un hombre en basurero ilegal de la colonia 10 de Mayo en Tijuana.",
-        "zona": "Tijuana",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/matan-a-hombre-en-basurero-de-la-colonia-10-de-mayo/?utm_source=rss&utm_medium=rss&utm_campaign=matan-a-hombre-en-basurero-de-la-colonia-10-de-mayo",
-        "_added_at": "2026-09-19T11:31:35.025177-07:00"
-      },
-      {
-        "title": "Localizan vehículo de mujer desaparecida en Ensenada",
-        "summary": "Autoridades hallan automóvil relacionado con caso de mujer reportada como desaparecida en Ensenada.",
-        "zona": "Ensenada",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/localizan-vehiculo-relacionado-con-mujer-desaparecida-en-ensenada/",
-        "_added_at": "2026-09-19T11:31:35.025177-07:00"
-      },
-      {
-        "title": "Denuncian proliferación de basureros clandestinos en Tijuana",
-        "summary": "Ciudadanía denuncia aumento de sitios de disposición ilegal de residuos en diversos puntos de Tijuana.",
-        "zona": "Tijuana",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181872_denuncian_proliferacion_de_basureros_clandestinos_en_tijuana",
-        "_added_at": "2026-09-19T11:31:35.025177-07:00"
-      },
-      {
-        "title": "Encuentran sin vida a activista desaparecida en Ensenada",
-        "summary": "Localizan el cuerpo de Marlen Vázquez en un barranco tras ser reportada como desaparecida en Ensenada.",
+        "title": "Localizan cadáver en Libramiento de Ensenada",
+        "summary": "Encuentran cuerpo sin vida en vía importante de Ensenada.",
         "zona": "Ensenada",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181857_hallan_en_el_fondo_de_un_barranco_el_cuerpo_de_marlen_vazquez_desaparecida_en_ensenada",
-        "_added_at": "2026-09-19T00:26:05.169790-07:00"
-      },
-      {
-        "title": "Ataque armado lesiona a hombre en comercio de Tijuana",
-        "summary": "Presunto repartidor de comida dispara contra cliente en Jardín Dorado; agresor huye en motocicleta.",
-        "zona": "Tijuana",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/181860_presunto_repartidor_de_comida_lesiono_a_balazos_a_un_hombre_en_jardin_dorado",
-        "_added_at": "2026-09-19T00:26:05.169790-07:00"
-      },
-      {
-        "title": "Hallan cadáver en basurero clandestino de Tijuana",
-        "summary": "Encuentran a hombre sin vida en basurero ilegal de la colonia 10 de Mayo en Tijuana.",
-        "zona": "Tijuana",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/181861_matan_a_balazos_a_un_hombre_en_un_basurero_clandestino",
-        "_added_at": "2026-09-19T00:26:05.169790-07:00"
+        "url": "https://www.afntijuana.info/seguridad/181885_localizan_el_cadaver_de_un_hombre_en_el_libramiento_de_ensenada",
+        "_added_at": "2026-09-20T00:48:53.347837-07:00"
       }
     ],
     "politica": [
       {
-        "title": "PAN critica a Sheinbaum por crisis en seguridad, salud y energía",
-        "summary": "Oposición cuestiona gestión presidencial en BC en temas de seguridad, servicios de salud e infraestructura energética.",
-        "zona": "Baja California",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181881_llega_sheinbaum_a_bc_en_medio_de_crisis_en_seguridad_salud_y_energia_pan",
-        "_added_at": "2026-09-19T16:59:42.368482-07:00"
-      },
-      {
-        "title": "Magistrados y jueces deberán pedir permiso para hablar del cargo",
-        "summary": "Nueva norma restringe declaraciones públicas de magistrados y jueces sobre su función.",
-        "zona": "Baja California",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/magistrados-y-jueces-tendran-que-pedir-permiso-para-hablar-sobre-su-cargo/?utm_source=rss&utm_medium=rss&utm_campaign=magistrados-y-jueces-tendran-que-pedir-permiso-para-hablar-sobre-su-cargo",
-        "_added_at": "2026-09-19T16:59:42.368482-07:00"
-      },
-      {
-        "title": "Gobierno de Ensenada suspende actividades administrativas el 21",
-        "summary": "Declarado día inhábil en administración municipal de Ensenada por conmemoración histórica.",
-        "zona": "Ensenada",
-        "source": "Argumento Noticias",
-        "url": "https://argumentonoticias.com/2026/09/19/gobierno-de-ensenada-suspendera-actividades-administrativas-el-lunes-21-de-septiembre/",
-        "_added_at": "2026-09-19T16:59:42.368482-07:00"
-      },
-      {
-        "title": "Incumple Ensenada pagos a personal de contrato",
-        "summary": "Municipio de Ensenada adeuda salarios a trabajadores de confianza y personal bajo contrato temporal.",
-        "zona": "Ensenada",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/19/incumple-ensenada-pago-a-personal-de-contrato-y-de-confianza/",
-        "_added_at": "2026-09-19T11:31:35.025177-07:00"
-      },
-      {
-        "title": "Llegan 860 millones para obra social en municipios BC",
-        "summary": "Gobierno federal transfiere 860 millones de pesos para proyectos de obra social en municipios bajacalifornianos.",
-        "zona": "Baja California",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/empresarial/181863_llegan_860_mdp_para_obra_social_para_municipios_de_bc",
-        "_added_at": "2026-09-19T11:31:35.025177-07:00"
-      },
-      {
-        "title": "Fitch califica deuda de BC con alta calidad crediticia",
-        "summary": "Agencia calificadora Fitch otorga rating positivo a deuda estatal de 17,806 millones de pesos.",
-        "zona": "Baja California",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/empresarial/181862_fitch_otorga_alta_calidad_crediticia_a_deuda_por_17_806_mdp_contratada_por_bc",
-        "_added_at": "2026-09-19T11:31:35.025177-07:00"
-      },
-      {
-        "title": "Burgueño promete bachear la ciudad tras regreso",
-        "summary": "Exfuncionario anuncia plan para reparación de carpeta asfáltica en vialidades de Tijuana.",
-        "zona": "Tijuana",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181870_tras_su_regreso_burgueno_ofrece_bachear_la_ciudad",
-        "_added_at": "2026-09-19T11:31:35.025177-07:00"
-      },
-      {
-        "title": "Castro Trenti anuncia término de su servicio público",
-        "summary": "Funcionario tijuanense comunica el fin de su gestión en el gobierno.",
-        "zona": "Tijuana",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181858_castro_trenti_anuncia_el_final_de_su_servicio_publico",
-        "_added_at": "2026-09-19T00:26:05.169790-07:00"
-      },
-      {
-        "title": "Obras de remozamiento en avenida Revolución previas a informe de Sheinbaum",
-        "summary": "Realizan trabajos de mejora en avenida Revolución antes del informe presidencial.",
-        "zona": "Tijuana",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181854_hacen_trabajos_de_remozamiento_en_la_avenida_revolucion_previo_al_informe_de_claudia_sheinbaum",
-        "_added_at": "2026-09-19T00:26:05.169790-07:00"
-      },
-      {
-        "title": "Felicitación por altura de miras de Burgueño genera interrogantes",
-        "summary": "Analiza contexto político detrás de reconocimiento a funcionario local.",
-        "zona": "Tijuana",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/afn_politico/181855_la_felicitacion_por_la_altura_de_miras_de_burgueno_ipor_que_fue",
-        "_added_at": "2026-09-19T00:26:05.169790-07:00"
-      },
-      {
-        "title": "Ensenada convoca a participar en Segundo Simulacro Nacional 2026",
-        "summary": "Gobierno municipal de Ensenada invita a ciudadanos a ejercicio de protección civil.",
-        "zona": "Ensenada",
-        "source": "EnsenadaHoy",
-        "url": "https://ensenadahoy.com/noticias/ver/6958",
-        "_added_at": "2026-09-19T00:26:05.169790-07:00"
-      }
-    ],
-    "economia": [
-      {
-        "title": "Contadores advierten presión fiscal sobre empresas e empleo",
-        "summary": "Gremio de contadores alerta que mayor carga tributaria podría afectar competitividad empresarial y generación de empleo.",
-        "zona": "Tijuana",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181878_mayor_carga_fiscal_podria_presionar_a_empresas_y_empleo_advierten_contadores",
-        "_added_at": "2026-09-19T16:59:42.368482-07:00"
-      },
-      {
-        "title": "Gasolina Magna y Premium reducen cuota de IEPS",
-        "summary": "Combustibles bajan impuestos especiales. Diesel mantiene alícuota cero en período 19-25 de septiembre.",
-        "zona": "Baja California",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/dinero/2026/09/19/gasolina-magna-y-premium-bajan-su-cuota-de-ieps-diesel-tendra-cero-impuesto-del-19-al-25-de-septiembre/",
-        "_added_at": "2026-09-19T16:59:42.368482-07:00"
-      },
-      {
-        "title": "Expo Ganadera San Quintín reúne productores con apoyo a compra",
-        "summary": "Feria ganadera en San Quintín convoca a productores. Incluye programas de apoyo para adquisición de ganado.",
-        "zona": "San Quintín",
-        "source": "Argumento Noticias",
-        "url": "https://argumentonoticias.com/2026/09/19/expo-ganadera-san-quintin-reune-a-productores-y-contempla-apoyos-para-compra-de-ganado/",
-        "_added_at": "2026-09-19T16:59:42.368482-07:00"
-      },
-      {
-        "title": "Avanza ampliación del Bulevar Real de Rosarito",
-        "summary": "Obra de mejoramiento vial en Rosarito continúa con avances en ampliación y pavimentación.",
+        "title": "Sheinbaum anuncia primera piedra de desaladora en Rosarito",
+        "summary": "Presidenta presenta proyecto de planta desaladora durante visita a región y segundo informe en Tijuana.",
         "zona": "Rosarito",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/19/avanza-ampliacion-y-pavimentacion-del-bulevar-real-de-rosarito/",
-        "_added_at": "2026-09-19T11:31:35.025177-07:00"
-      },
-      {
-        "title": "Alcaldesa destaca apoyo privado en rehabilitación de camellones",
-        "summary": "Autoridad municipal resalta contribución de empresas como Femsa y Oxxo en mejora de avenida Reforma.",
-        "zona": "Ensenada",
-        "source": "EnsenadaHoy",
-        "url": "https://ensenadahoy.com/noticias/ver/6957",
-        "_added_at": "2026-09-19T11:31:35.025177-07:00"
-      },
-      {
-        "title": "Cierre de empresas afecta operación del Hospital Infantil",
-        "summary": "Restricciones empresariales impactan funcionamiento del Hospital Infantil de las Californias en Tijuana.",
-        "zona": "Tijuana",
         "source": "El Mexicano",
-        "url": "https://www.elmexicano.com.mx/Noticia/Tijuana/99601/Afecta-cierre-de-empresas-operaci%C3%B3n-del-Hospital-Infantil-de-las-Californias",
-        "_added_at": "2026-09-19T00:26:05.169790-07:00"
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/99625/Sheinbaum-anuncia-primera-piedra-de-desaladora-en-Rosarito-durante-su-visita-a-Tijuana",
+        "_added_at": "2026-09-20T00:48:53.347837-07:00"
+      },
+      {
+        "title": "Castro Trenti se retira y Jorge Hank se reactiva políticamente",
+        "summary": "Cambios significativos en escena política local con salida y regreso de personajes clave.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/afn_politico/181889_castro_trenti_se_retira_de_la_vida_politica_y_jorge_hank_se_reactiva",
+        "_added_at": "2026-09-20T00:48:53.347837-07:00"
       }
     ],
-    "eventos": [
-      {
-        "title": "Ari Telch presenta obra sobre salud mental en CECUT",
-        "summary": "Obra \"D'Mente\" aborda conciencia sobre salud mental. Se presenta en Centro Cultural Tijuana.",
-        "zona": "Tijuana",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/ari-telch-concientiza-sobre-salud-mental-con-dmente-en-el-cecut/?utm_source=rss&utm_medium=rss&utm_campaign=ari-telch-concientiza-sobre-salud-mental-con-dmente-en-el-cecut",
-        "_added_at": "2026-09-19T16:59:42.368482-07:00"
-      },
-      {
-        "title": "Convoca IMDET a más de 5 mil corredores en Serial Atlético",
-        "summary": "Sexta etapa de carrera atlética delegacional moviliza a participantes en Tijuana.",
-        "zona": "Tijuana",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/imdet-convoca-a-mas-de-5-mil-corredores-en-la-sexta-etapa-del-serial-atletico-delegacional/?utm_source=rss&utm_medium=rss&utm_campaign=imdet-convoca-a-mas-de-5-mil-corredores-en-la-sexta-etapa-del-serial-atletico-delegacional",
-        "_added_at": "2026-09-19T16:59:42.368482-07:00"
-      },
-      {
-        "title": "Ensenada se posiciona como punto de encuentro marítimo internacional",
-        "summary": "Ciudad histórica fortalece vínculos diplomáticos y culturales en relaciones marítimas México-Portugal.",
-        "zona": "Ensenada",
-        "source": "EnsenadaHoy",
-        "url": "https://ensenadahoy.com/noticias/ver/6959",
-        "_added_at": "2026-09-19T16:59:42.368482-07:00"
-      },
-      {
-        "title": "Gradúan 103 personas en Centros de Desarrollo Comunitario DIF Ensenada",
-        "summary": "Ceremonia de egreso de capacitación comunitaria en Ensenada. Reconocimiento de logros educativos.",
-        "zona": "Ensenada",
-        "source": "Argumento Noticias",
-        "url": "https://argumentonoticias.com/2026/09/19/graduan-103-personas-de-los-centros-de-desarrollo-comunitario-de-dif-ensenada/",
-        "_added_at": "2026-09-19T16:59:42.368482-07:00"
-      },
-      {
-        "title": "Toros de Tijuana celebran tercer campeonato con cena",
-        "summary": "Equipo profesional festeja su tercer título divisional con evento de gala para jugadores y aficionados.",
-        "zona": "Tijuana",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/deportes/2026/09/19/toros-de-tijuana-celebran-su-tercer-campeonato-con-cena-de-campeones/",
-        "_added_at": "2026-09-19T11:31:35.025177-07:00"
-      },
-      {
-        "title": "Setenta atletas de BC competirán en Festival Taekwondo",
-        "summary": "Delegación bajacaliforniana participará en sexto festival de taekwondo a realizarse en Zacatecas.",
-        "zona": "Baja California",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/deportes/2026/09/19/viajaran-70-atletas-de-bc-al-sexto-festival-de-taekwondo-en-zacatecas/",
-        "_added_at": "2026-09-19T11:31:35.025177-07:00"
-      }
-    ],
+    "economia": [],
+    "eventos": [],
     "sociedad": [
       {
-        "title": "Más de 260 mil participan en Segundo Simulacro Nacional 2026",
-        "summary": "Baja California registra alta participación en ejercicio de preparación ante sismos. Destacan tiempos de respuesta institucional.",
-        "zona": "Baja California",
-        "source": "Argumento Noticias",
-        "url": "https://argumentonoticias.com/2026/09/19/participan-mas-de-260-mil-personas-en-el-segundo-simulacro-nacional-2026-en-baja-california/",
-        "_added_at": "2026-09-19T16:59:42.368482-07:00"
-      },
-      {
-        "title": "Protección Civil reconoce necesidad de mejorar tiempos en simulacro",
-        "summary": "Autoridades de Tijuana admiten oportunidades de optimización en protocolos de evacuación y respuesta rápida.",
-        "zona": "Tijuana",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/por-mejorar-tiempo-de-respuesta-en-simulacro-de-sismo-admite-proteccion-civil-de-tijuana/?utm_source=rss&utm_medium=rss&utm_campaign=por-mejorar-tiempo-de-respuesta-en-simulacro-de-sismo-admite-proteccion-civil-de-tijuana",
-        "_added_at": "2026-09-19T16:59:42.368482-07:00"
-      },
-      {
-        "title": "Recolectan más de 20 mil colillas de cigarro en playas tijuanenses",
-        "summary": "Jornada ambiental en Playas de Tijuana: cientos de voluntarios participan en limpieza costera.",
-        "zona": "Tijuana",
-        "source": "Argumento Noticias",
-        "url": "https://argumentonoticias.com/2026/09/19/recolectan-mas-de-20-mil-colillas-de-cigarro-en-playas-de-tijuana/",
-        "_added_at": "2026-09-19T16:59:42.368482-07:00"
-      },
-      {
-        "title": "Comunidad LGBT+ pide protecciones contra usurpación de cargos",
-        "summary": "Organizaciones de diversidad sexual en BC demandan mecanismos legales para evitar suplantación en representación.",
-        "zona": "Baja California",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/mxl/mexicali/2026/09/19/comunidad-lgbt-en-bc-pide-mayores-mecanismos-para-evitar-la-usurpacion-de-cargos-en-representacion-de-la-diversidad-sexual/",
-        "_added_at": "2026-09-19T16:59:42.368482-07:00"
-      },
-      {
-        "title": "Educación transita hacia inteligencia artificial, advierte especialista",
-        "summary": "Experto señala transformación en modelos educativos por adopción de tecnología IA. Requiere preparación docente.",
-        "zona": "Tijuana",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181880_la_educacion_atraviesa_una_transicion_hacia_la_inteligencia_artificial_advierte_especialista",
-        "_added_at": "2026-09-19T16:59:42.368482-07:00"
-      },
-      {
-        "title": "Yate encalla en La Salina de Ensenada con tripulantes",
-        "summary": "Embarcación queda varada en aguas de Ensenada con tres personas a bordo; rescate complicado por oleaje.",
-        "zona": "Ensenada",
-        "source": "TV Azteca BC",
-        "url": "https://www.tvaztecabajacalifornia.com/noticias/yate-encalla-en-la-salina-de-ensenada-con-tres-tripulantes-a-bordo-condiciones-del-mar-complican-el-rescate/",
-        "_added_at": "2026-09-19T11:31:35.025177-07:00"
-      },
-      {
-        "title": "Cierre de empresas afecta Hospital Infantil de Californias",
-        "summary": "Operaciones del hospital pediátrico en Tijuana se ven impactadas por clausura de proveedores.",
-        "zona": "Tijuana",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99601/Afecta-cierre-de-empresas-operaci%C3%B3n-del-Hospital-Infantil-de-las-Californias",
-        "_added_at": "2026-09-19T11:31:35.025177-07:00"
-      },
-      {
-        "title": "INEA y gobierno de BC permiten concluir primaria con un examen",
-        "summary": "Ofrecen opción de terminar educación básica mediante única evaluación.",
-        "zona": "Baja California",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181856_ofrecen_inea_y_gobierno_de_bc_concluir_primaria_o_secundaria_con_un_solo_examen",
-        "_added_at": "2026-09-19T00:26:05.169790-07:00"
-      },
-      {
-        "title": "Paciente logra comunicarse mediante implante neural N1",
-        "summary": "Demuestran éxito de tecnología de implante N1 para comunicación de personas con limitaciones.",
-        "zona": "Baja California",
-        "source": "TV Azteca BC",
-        "url": "https://www.tvaztecabajacalifornia.com/noticias/video-paciente-logra-comunicarse-mediante-implante-n1/",
-        "_added_at": "2026-09-19T00:26:05.169790-07:00"
-      },
-      {
-        "title": "Falta de agua en colonias de Tijuana el 18 de septiembre",
-        "summary": "Múltiples zonas de Tijuana reportan suspensión del servicio de agua potable.",
+        "title": "Trabajador recibe descarga eléctrica grave en Tijuana",
+        "summary": "Labrador sufre accidente en bodega de Lomas del Matamoros por contacto eléctrico.",
         "zona": "Tijuana",
         "source": "TV Azteca BC",
-        "url": "https://www.tvaztecabajacalifornia.com/noticias/tiene-agua-en-su-casa-estas-colonias-de-tijuana-reportan-falta-de-servicio-hoy-viernes-18-de-septiembre/",
-        "_added_at": "2026-09-19T00:26:05.169790-07:00"
+        "url": "https://www.tvaztecabajacalifornia.com/noticias/descarga-electrica-deja-a-un-trabajador-gravemente-herido-en-lomas-de-matamoros-tijuana/",
+        "_added_at": "2026-09-20T00:48:53.347837-07:00"
       }
     ]
   },
-  "last_updated": "2026-09-19T16:59:42.368482-07:00"
+  "last_updated": "2026-09-20T00:48:53.347837-07:00"
 }
