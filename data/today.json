@@ -1,8 +1,56 @@
 {
   "date": "2026-09-20",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Aprehenden célula de Los Rusos por atentado a agentes FESC",
+        "summary": "Autoridades capturan a integrantes de la organización delictiva vinculados a ataque contra elementos de la Fuerza Estatal de Seguridad Ciudadana en Tijuana.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/aprehenden-a-celula-de-los-rusos-vinculada-a-atentado-contra-agentes-de-la-fesc/?utm_source=rss&utm_medium=rss&utm_campaign=aprehenden-a-celula-de-los-rusos-vinculada-a-atentado-contra-agentes-de-la-fesc",
+        "_added_at": "2026-09-20T17:01:30.113818-07:00"
+      },
+      {
+        "title": "Fiscalía especial investigará 18 homicidios de abogados",
+        "summary": "Se crea unidad especializada en Tijuana para esclarecer muertes de profesionales del derecho, evidenciando patrón de violencia contra abogados.",
+        "zona": "Tijuana",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99644/Crean-Fiscal%C3%ADa-especial-para-investigar-18-homicidios-de-abogados",
+        "_added_at": "2026-09-20T17:01:30.113818-07:00"
+      },
+      {
+        "title": "Cae presunto integrante del Cártel de Sinaloa en Mexicali",
+        "summary": "Detienen a individuo señalado como miembro de la organización criminal en operativo realizado en la capital estatal.",
+        "zona": "Mexicali",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/181897_detienen_en_mexicali_a_presuntos_integrantes_del_cartel_de_sinaloa",
+        "_added_at": "2026-09-20T17:01:30.113818-07:00"
+      },
+      {
+        "title": "Buscan niña desaparecida tras llamada extorsiva en Mexicali",
+        "summary": "Autoridades realizan búsqueda de menor de 10 años en Ciudad Morelos vinculada a presunto caso de extorsión.",
+        "zona": "Mexicali",
+        "source": "TV Azteca BC",
+        "url": "https://www.tvaztecabajacalifornia.com/noticias/buscan-a-nina-de-10-anos-en-ciudad-morelos-tras-presunta-llamada-de-extorsion-esto-se-sabe-en-el-valle-de-mexicali/",
+        "_added_at": "2026-09-20T17:01:30.113818-07:00"
+      },
+      {
+        "title": "Hallan cadáver en tambo con mensaje de Los Cabos",
+        "summary": "Descubren cuerpo sin vida en Playas de Tijuana dentro de contenedor con comunicado que deja evidencia de rivalidad delictiva.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/hallan-cadaver-en-un-tambo-en-playas-de-tijuana-con-mensaje-de-los-cabos/?utm_source=rss&utm_medium=rss&utm_campaign=hallan-cadaver-en-un-tambo-en-playas-de-tijuana-con-mensaje-de-los-cabos",
+        "_added_at": "2026-09-20T17:01:30.113818-07:00"
+      },
+      {
+        "title": "Alertan sobre fraudes suplantando autoridades fiscales",
+        "summary": "Advierten sobre estafas en Tijuana donde delincuentes imitan a órganos hacendarios para engañar a ciudadanos.",
+        "zona": "Tijuana",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99642/Alertan-sobre-fraudes-que-suplantan-a-autoridades-fiscales",
+        "_added_at": "2026-09-20T17:01:30.113818-07:00"
+      },
       {
         "title": "Capturan a 'El Karlitos' y dos cómplices armados en Tijuana",
         "summary": "Operativo resulta en detención de presunto delincuente y su red criminal.",
@@ -46,6 +94,46 @@
     ],
     "politica": [
       {
+        "title": "Sheinbaum visita BCS con protestas y anuncia inversiones",
+        "summary": "Presidenta llega a Baja California Sur recibida con manifestaciones; promete obras, inversión y 500 plazas docentes.",
+        "zona": "Baja California",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/reciben-a-sheinbaum-con-protestas-en-bcs-anuncia-mas-obras-inversiones-y-500-plazas-nuevas-para-profesores/?utm_source=rss&utm_medium=rss&utm_campaign=reciben-a-sheinbaum-con-protestas-en-bcs-anuncia-mas-obras-inversiones-y-500-plazas-nuevas-para-profesores",
+        "_added_at": "2026-09-20T17:01:30.113818-07:00"
+      },
+      {
+        "title": "Coparmex cuestiona cambios del INE sobre observadores",
+        "summary": "Organismo empresarial critica modificaciones en regulaciones para candidatos observadores electorales ante próximas elecciones.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181907_cuestiona_la_coparmex_al_ine_por_cambios_sobre_observadores_electorales",
+        "_added_at": "2026-09-20T17:01:30.113818-07:00"
+      },
+      {
+        "title": "Restringen actos públicos a jueces y magistrados de BC",
+        "summary": "Autoridad judicial impone restricciones a integrantes del poder judicial para asistencia a eventos públicos.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/20/restringen-a-jueces-y-magistrados-de-bc-asistir-a-actos-publicos/",
+        "_added_at": "2026-09-20T17:01:30.113818-07:00"
+      },
+      {
+        "title": "Detectan almacén con miles de folletos de candidata",
+        "summary": "Autoridades identifica depósito clandestino con material de campaña de Julieta Ramírez; hallan folletos tirados en calles.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/tiran-en-la-calle-miles-de-folletos-de-julieta-ramirez-y-detectan-almacen-de-resguardo/?utm_source=rss&utm_medium=rss&utm_campaign=tiran-en-la-calle-miles-de-folletos-de-julieta-ramirez-y-detectan-almacen-de-resguardo",
+        "_added_at": "2026-09-20T17:01:30.113818-07:00"
+      },
+      {
+        "title": "Movimiento político a favor de Adolfo Solís toma forma",
+        "summary": "Se gesta articulación política que respalda aspiraciones de personaje público en contexto electoral actual.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181898_se_gesta_un_movimiento_politico_a_favor_de_adolfo_solis",
+        "_added_at": "2026-09-20T17:01:30.113818-07:00"
+      },
+      {
         "title": "Sheinbaum presenta segundo informe en Tijuana con obras y programas",
         "summary": "Presidenta destaca infraestructura, agua, movilidad y programas sociales para BC.",
         "zona": "Tijuana",
@@ -88,6 +176,54 @@
     ],
     "economia": [
       {
+        "title": "Desaladora de Rosarito abastecerá zona costa bajacaliforniana",
+        "summary": "Planta de desalinización en Rosarito iniciará operaciones para proveer agua a región costera y aliviar escasez.",
+        "zona": "Rosarito",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/20/desaladora-de-rosarito-dara-nuevo-abasto-de-agua-a-la-zona-costa-de-baja-california/",
+        "_added_at": "2026-09-20T17:01:30.113818-07:00"
+      },
+      {
+        "title": "COMICE pide ampliar infraestructura eléctrica en Tijuana",
+        "summary": "Organismo empresarial urge expansión de red de distribución eléctrica para satisfacer demanda industrial y comercial.",
+        "zona": "Tijuana",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99643/Urge-COMICE-ampliar-infraestructura-el%C3%A9ctrica-en-la-ciudad-de-Tijuana",
+        "_added_at": "2026-09-20T17:01:30.113818-07:00"
+      },
+      {
+        "title": "Bypass Tijuana-Ensenada debe generar oportunidades locales",
+        "summary": "COMICE solicita que nuevo proyecto vial beneficie a empresas de la región mediante contratación y servicios.",
+        "zona": "Ensenada",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/09/20/comice-pide-que-el-bypass-tijuana-ensenada-genere-oportunidades-para-empresas-locales/",
+        "_added_at": "2026-09-20T17:01:30.113818-07:00"
+      },
+      {
+        "title": "Ocho de cada diez egresados UABC consigue empleo afín",
+        "summary": "Universidad reporta que 80% de graduados logra colocación laboral acorde a su carrera en los primeros seis meses.",
+        "zona": "Mexicali",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/mxl/mexicali/2026/09/20/8-de-cada-10-egresados-de-uabc-consigue-empleo-afin-a-su-carrera-en-seis-meses-palafox-maestre/",
+        "_added_at": "2026-09-20T17:01:30.113818-07:00"
+      },
+      {
+        "title": "Turismo en Ensenada crece por confianza y recomendación",
+        "summary": "Sector turístico ensenadense observa dinamismo impulsado por satisfacción de visitantes y referencias personales.",
+        "zona": "Ensenada",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/09/20/confianza-y-recomendacion-tambien-generan-valor-en-el-turismo-de-ensenada/",
+        "_added_at": "2026-09-20T17:01:30.113818-07:00"
+      },
+      {
+        "title": "Advierte sobre venta irregular de terrenos en Tijuana",
+        "summary": "Autoridades alertan a ciudadanía sobre fraudes inmobiliarios y operaciones clandestinas de propiedades.",
+        "zona": "Tijuana",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99645/Advierten-sobre-venta-irregular-de-terrenos-en-Tijuana",
+        "_added_at": "2026-09-20T17:01:30.113818-07:00"
+      },
+      {
         "title": "Gas LP sube por tercera semana en Baja California",
         "summary": "Precio del combustible alcanza 20 pesos por kilo en Mexicali.",
         "zona": "Baja California",
@@ -106,6 +242,38 @@
     ],
     "eventos": [
       {
+        "title": "Barbie Run 2026 congrega corredores en bulevar costero",
+        "summary": "Carrera de mujeres llena de rosa el bulevar Costero de Ensenada por segunda vez en la ciudad.",
+        "zona": "Ensenada",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/09/20/barbie-run-2026-reune-a-corredores-en-el-bulevar-costero-de-ensenada/",
+        "_added_at": "2026-09-20T17:01:30.113818-07:00"
+      },
+      {
+        "title": "Invitan a tercera etapa de carrera 5K por salud mental",
+        "summary": "Convocatoria abierta para participar en evento deportivo beneficio del Día Mundial de la Salud Mental.",
+        "zona": "Tijuana",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/20/invitan-a-la-tercera-etapa-de-la-carrera-5k-por-el-dia-mundial-de-la-salud-mental/",
+        "_added_at": "2026-09-20T17:01:30.113818-07:00"
+      },
+      {
+        "title": "Rehabilitan crucero de avenida Ruiz y Ámbar en Ensenada",
+        "summary": "Inician trabajos de mejora en intersección importante para optimizar flujo vial y seguridad en zona céntrica.",
+        "zona": "Ensenada",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/09/20/inicia-rehabilitacion-del-crucero-de-avenida-ruiz-y-ambar-en-ensenada/",
+        "_added_at": "2026-09-20T17:01:30.113818-07:00"
+      },
+      {
+        "title": "Alberto Mayagoitia presenta \"Mi Cristo roto\" en CECUT",
+        "summary": "Artista exhibe obra en Centro Cultural Universitario de Tijuana como parte de programación cultural.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/alberto-mayagoitia-presenta-mi-cristo-roto-en-el-cecut/?utm_source=rss&utm_medium=rss&utm_campaign=alberto-mayagoitia-presenta-mi-cristo-roto-en-el-cecut",
+        "_added_at": "2026-09-20T17:01:30.113818-07:00"
+      },
+      {
         "title": "Barbie Run 2026 llena de rosa bulevar costero de Ensenada",
         "summary": "Primera edición del evento deportivo recorre importante avenida de la ciudad.",
         "zona": "Ensenada",
@@ -115,6 +283,46 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "56 muertes por calor cierran verano en Baja California",
+        "summary": "Balance de temporada estival registra decenas de fallecidos por altas temperaturas en la entidad.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181906_cerro_el_verano_con_56_muertes_relacionadas_con_altas_temperaturas_en_bc",
+        "_added_at": "2026-09-20T17:01:30.113818-07:00"
+      },
+      {
+        "title": "Supervisan canalización del Río Tijuana ante lluvia próxima",
+        "summary": "Autoridades inspeccionan infraestructura de drenaje para evitar riesgos por precipitaciones relacionadas con El Niño.",
+        "zona": "Tijuana",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/20/supervisan-canalizacion-del-rio-tijuana-para-prevenir-riesgos-ante-proximas-lluvias-por-el-nino/",
+        "_added_at": "2026-09-20T17:01:30.113818-07:00"
+      },
+      {
+        "title": "CESPT retira 4 mil metros cúbicos de residuos en drenajes",
+        "summary": "Empresa de servicios realiza limpieza masiva del sistema de drenaje tijuanense para mejorar funcionamiento.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/20/cespt-retira-mas-de-4-mil-metros-cubicos-de-residuos-del-drenaje-en-tijuana/",
+        "_added_at": "2026-09-20T17:01:30.113818-07:00"
+      },
+      {
+        "title": "Jornada gratuita de vacunación antirrábica en Baja California",
+        "summary": "Autoridades de salud ofrecen aplicación de vacunas sin costo para mascotas en acciones preventivas.",
+        "zona": "Baja California",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/mxl/mexicali/2026/09/20/tu-perro-o-gato-ya-tiene-vacuna-antirrabica-habra-jornada-gratuita-en-baja-california/",
+        "_added_at": "2026-09-20T17:01:30.113818-07:00"
+      },
+      {
+        "title": "Rescatan a persona de yate encallado en Puerto La Salina",
+        "summary": "Operativo de salvamento logra auxiliar a náufrago en inmediaciones de puerto ensenadense.",
+        "zona": "Ensenada",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/09/20/rescatan-a-persona-de-un-yate-encallado-en-inmediaciones-de-puerto-la-salina/",
+        "_added_at": "2026-09-20T17:01:30.113818-07:00"
+      },
       {
         "title": "Baja California refuerza acciones contra la rickettsia",
         "summary": "Estado continúa medidas de control sanitario contra enfermedad transmitida por garrapatas.",
@@ -133,5 +341,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-20T11:37:17.846300-07:00"
+  "last_updated": "2026-09-20T17:01:30.113818-07:00"
 }
