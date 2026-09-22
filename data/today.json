@@ -1,8 +1,64 @@
 {
   "date": "2026-09-22",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Detienen a presunto operador de facción de Los Chapitos",
+        "summary": "Autoridades capturan a \"El Peli\", quien presuntamente operaba para la organización delictiva de Los Chapitos en la región.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/181959_detienen_a_el_peli_presunto_operador_de_la_faccion_de_los_chapitos",
+        "_added_at": "2026-09-22T12:39:59.901040-07:00"
+      },
+      {
+        "title": "Asesinado fiscal especializado en delitos contra la vida",
+        "summary": "Ángel Pantoja, fiscal de delitos contra la vida en Ensenada, es privado de la vida en operativo delictivo.",
+        "zona": "Ensenada",
+        "source": "Milenio",
+        "url": "https://www.milenio.com/videos/policia/asesinan-angel-pantoja-fiscal-delitos-vida-ensenada",
+        "_added_at": "2026-09-22T12:39:59.901040-07:00"
+      },
+      {
+        "title": "Falta de personal frena carpetas en Fiscalía de Tijuana",
+        "summary": "Deficiencia de peritos en Rancho Izaguirre impide integración y judicialización ágil de investigaciones criminales.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/22/falta-de-personal-en-fiscalia-frena-integracion-y-judicializacion-de-carpetas-en-tijuana/",
+        "_added_at": "2026-09-22T12:39:59.901040-07:00"
+      },
+      {
+        "title": "Empresario secuestrado aparece con vida tras privación",
+        "summary": "Jesús Molina es recuperado después de ser privado de libertad en operativo de autoridades en Baja California.",
+        "zona": "Baja California",
+        "source": "Milenio",
+        "url": "https://www.milenio.com/videos/estados/empresario-jesus-molina-aparece-vida-privado-libertad-baja-california",
+        "_added_at": "2026-09-22T12:39:59.901040-07:00"
+      },
+      {
+        "title": "Investigan contaminación de Vector en San Quintín",
+        "summary": "Autoridades promueven investigación contra empresa por descargas residuales que afectan el ambiente local.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181973_piden_investigar_a_la_empresa_vector_por_descargas_residuales_en_san_quintin",
+        "_added_at": "2026-09-22T12:39:59.901040-07:00"
+      },
+      {
+        "title": "Recuperan vehículos de lujo robados en aduana marítima",
+        "summary": "Marina asegura unidades de alto valor sustraídas, recuperadas en operativo en aduana de Ensenada.",
+        "zona": "Ensenada",
+        "source": "Milenio",
+        "url": "https://www.milenio.com/policia/marina-recupera-vehiculos-robados-aduana-maritima-ensenada",
+        "_added_at": "2026-09-22T12:39:59.901040-07:00"
+      },
+      {
+        "title": "Detienen estudiante de medicina por crueldad animal",
+        "summary": "Autoridades capturan a estudiante acusado de descuartizar animales en Ensenada.",
+        "zona": "Ensenada",
+        "source": "Milenio",
+        "url": "https://www.milenio.com/estados/ensenada-detienen-astudiante-medicina-descuartizaba-gatos",
+        "_added_at": "2026-09-22T12:39:59.901040-07:00"
+      },
       {
         "title": "Feminicidio en Ensenada: detienen a pareja de víctima",
         "summary": "Autoridades detienen a presunto responsable del asesinato de mujer hallada sin vida en Ensenada, vinculado a violencia doméstica.",
@@ -38,6 +94,46 @@
     ],
     "politica": [
       {
+        "title": "Avanzan reformas sobre playas, vivienda, justicia y datos",
+        "summary": "Congreso estatal aprueba dictámenes para modernizar marco legal en temas ambientales, vivienda, acceso a justicia y protección de información.",
+        "zona": "Baja California",
+        "source": "AGP Noticias",
+        "url": "https://agpnoticias.com/news/avanzan-reformas-sobre-playas-vivienda-justicia-y-proteccion-de-datos-en-baja-california/",
+        "_added_at": "2026-09-22T12:39:59.901040-07:00"
+      },
+      {
+        "title": "Piden transparentar recursos a organizaciones civiles",
+        "summary": "Legisladores demandan mayor claridad en ejercicio de fondos públicos destinados a sociedad civil en Baja California.",
+        "zona": "Baja California",
+        "source": "AGP Noticias",
+        "url": "https://agpnoticias.com/news/piden-transparentar-recursos-entregados-a-organizaciones-civiles-en-baja-california/",
+        "_added_at": "2026-09-22T12:39:59.901040-07:00"
+      },
+      {
+        "title": "Armoniza Congreso reformas en materia judicial",
+        "summary": "Legislatura estatal implementa cambios coordinados para fortalecer sistema de justicia en la entidad.",
+        "zona": "Baja California",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/99719/Armoniza-Congreso-reformas-en-materia-judicial",
+        "_added_at": "2026-09-22T12:39:59.901040-07:00"
+      },
+      {
+        "title": "Trump exige a México control fronterizo en ONU",
+        "summary": "Presidente estadounidense señala a México como epicentro del narcotráfico y demanda mayor seguridad en frontera.",
+        "zona": "Baja California",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/trump-senala-a-mexico-como-epicentro-del-narco-y-exige-control-fronterizo-en-la-81a-asamblea-de-la-onu/?utm_source=rss&utm_medium=rss&utm_campaign=trump-senala-a-mexico-como-epicentro-del-narco-y-exige-control-fronterizo-en-la-81a-asamblea-de-la-onu",
+        "_added_at": "2026-09-22T12:39:59.901040-07:00"
+      },
+      {
+        "title": "Inauguran central de autobuses en Valle de Guadalupe",
+        "summary": "Gobernadora Marina del Pilar pone en operación nuevo equipamiento de transporte en zona vitivinícola de Ensenada.",
+        "zona": "Ensenada",
+        "source": "Milenio",
+        "url": "https://www.milenio.com/estados/marina-pilar-inaugura-central-autobuses-valle-guadalupe",
+        "_added_at": "2026-09-22T12:39:59.901040-07:00"
+      },
+      {
         "title": "Cierre de proceso interno; inicia campaña electoral",
         "summary": "Concluye fase interna de selección de candidatos y comienza la campaña política en Baja California.",
         "zona": "Baja California",
@@ -46,9 +142,83 @@
         "_added_at": "2026-09-22T00:48:44.699733-07:00"
       }
     ],
-    "economia": [],
-    "eventos": [],
+    "economia": [
+      {
+        "title": "Endurecen revisión de transporte de carga en frontera",
+        "summary": "Autoridades estadounidenses implementan protocolos más estrictos para verificación de mercancía en cruces fronterizos.",
+        "zona": "Tijuana",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/22/endurecen-revision-por-carga-publica-en-eeuu/",
+        "_added_at": "2026-09-22T12:39:59.901040-07:00"
+      }
+    ],
+    "eventos": [
+      {
+        "title": "Palomazo Norteño llega al Palenque de Tijuana",
+        "summary": "Festival ganadero y de entretenimiento se presenta con rodeo, música regional y actividades tradicionales.",
+        "zona": "Tijuana",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/palomazo-norteno-llegara-al-palenque-de-tijuana/",
+        "_added_at": "2026-09-22T12:39:59.901040-07:00"
+      },
+      {
+        "title": "Exposición \"Puzzle: La Evolución\" en Rosarito",
+        "summary": "Gobierno municipal impulsa arte contemporáneo con muestra de creaciones locales e innovadoras.",
+        "zona": "Rosarito",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/gobierno-de-playas-de-rosarito-impulsa-el-arte-contemporaneo-con-la-exposicion-puzzle-la-evolucion/",
+        "_added_at": "2026-09-22T12:39:59.901040-07:00"
+      },
+      {
+        "title": "\"El Sótano\" se presenta en el CECUT",
+        "summary": "Espacio de artes escénicas y contemporáneas abre programación en Centro de Expresión Contemporánea de Tijuana.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/el-sotano-llega-al-cecut/?utm_source=rss&utm_medium=rss&utm_campaign=el-sotano-llega-al-cecut",
+        "_added_at": "2026-09-22T12:39:59.901040-07:00"
+      },
+      {
+        "title": "Expo colectiva \"Work is Hell\" sobre crítica del trabajo",
+        "summary": "Muestra femenina y crítica en Tijuana reflexiona sobre dinámicas laborales desde perspectiva de género.",
+        "zona": "Tijuana",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/22/realizaran-expo-colectiva-work-is-hell-una-mirada-femenina-y-critica-sobre-el-trabajo/",
+        "_added_at": "2026-09-22T12:39:59.901040-07:00"
+      }
+    ],
     "sociedad": [
+      {
+        "title": "Reparan falla que dejó sin agua a colonias en Ensenada",
+        "summary": "Autoridades municipales restituyen servicio de agua potable en zonas del noreste afectadas por daño en red.",
+        "zona": "Ensenada",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/ensenada/2026/09/22/llega-equipo-para-reparar-falla-que-mantiene-sin-agua-al-noreste-de-ensenada/",
+        "_added_at": "2026-09-22T12:39:59.901040-07:00"
+      },
+      {
+        "title": "Recomiendan lavar tinacos cada seis meses",
+        "summary": "Autoridades de salud advierten sobre riesgo de contaminación en depósitos de agua y promueven higiene preventiva.",
+        "zona": "Baja California",
+        "source": "AGP Noticias",
+        "url": "https://agpnoticias.com/news/tinacos-sucios-pueden-contaminar-el-agua-recomiendan-lavarlos-cada-seis-meses/",
+        "_added_at": "2026-09-22T12:39:59.901040-07:00"
+      },
+      {
+        "title": "Escuelas deterioradas generan preocupación en padres",
+        "summary": "Progenitores denuncian condiciones precarias en planteles educativos de Baja California que afectan aprendizaje.",
+        "zona": "Baja California",
+        "source": "TV Azteca BC",
+        "url": "https://www.tvaztecabajacalifornia.com/noticias/escuelas-o-zonas-de-riesgo-padres-denuncian-planteles-deteriorados-en-baja-california/",
+        "_added_at": "2026-09-22T12:39:59.901040-07:00"
+      },
+      {
+        "title": "Zorros Ensenada debutan con triunfo ante Coyotes",
+        "summary": "Equipo local de béisbol gana en su primer encuentro de temporada frente a visitantes de Tijuana.",
+        "zona": "Ensenada",
+        "source": "AGP Noticias",
+        "url": "https://agpnoticias.com/news/zorros-ensenada-debutan-con-triunfo-ante-coyotes-tijuana-galeria/",
+        "_added_at": "2026-09-22T12:39:59.901040-07:00"
+      },
       {
         "title": "Agua: desafío prioritario para Baja California",
         "summary": "Análisis sobre la crisis de abastecimiento de agua como problema estructural urgente en la entidad.",
@@ -67,5 +237,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-22T00:48:44.699733-07:00"
+  "last_updated": "2026-09-22T12:39:59.901040-07:00"
 }
