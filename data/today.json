@@ -1,8 +1,72 @@
 {
   "date": "2026-09-21",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Recuperan casi mil vehículos robados en BC",
+        "summary": "La Fuerza Estatal de Seguridad Pública reporta la recuperación de cerca de mil vehículos en operativos recientes.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/21/registra-sscbc-cerca-de-mil-vehiculos-recuperados/",
+        "_added_at": "2026-09-21T17:40:33.482137-07:00"
+      },
+      {
+        "title": "FGE investiga muerte de Marlen Vázquez como homicidio",
+        "summary": "La Fiscalía abre investigación por feminicidio tras hallazgo de Marlen Vázquez sin vida en barranco de Ensenada.",
+        "zona": "Ensenada",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/ensenada/2026/09/21/investiga-fge-como-homicidio-la-muerte-de-marlen-vazquez-en-ensenada-murio-por-estrangulacion/",
+        "_added_at": "2026-09-21T17:40:33.482137-07:00"
+      },
+      {
+        "title": "Dicta formal prisión a miembro de Los Rusos",
+        "summary": "Un integrante de la organización delictiva Los Rusos, conocido como El Ciego, enfrenta sentencia formal en BC.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/21/formal-prision-al-ciego-integrante-de-la-organizacion-de-los-rusos/",
+        "_added_at": "2026-09-21T17:40:33.482137-07:00"
+      },
+      {
+        "title": "Acusado de feminicidio en Tijuana se declara culpable",
+        "summary": "Un hombre acusado de feminicidio en Tijuana admite su responsabilidad ante autoridades judicales.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/21/acusado-de-feminicidio-en-tijuana-se-declara-culpable/",
+        "_added_at": "2026-09-21T17:40:33.482137-07:00"
+      },
+      {
+        "title": "Segunda sentencia para sicario Arellano Félix",
+        "summary": "El Cris, histórico sicario de los Arellano Félix, recibe nueva condena de 41 años de prisión.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/segunda-sentencia-para-el-cris-sicario-de-los-arellano-felix-ahora-por-41-anos/",
+        "_added_at": "2026-09-21T17:40:33.482137-07:00"
+      },
+      {
+        "title": "Policia detiene a 181 personas en operativos de paz",
+        "summary": "Autoridades municipales realizan detenciones como parte de acciones para recuperar seguridad en Tijuana.",
+        "zona": "Tijuana",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/21/detiene-policia-municipal-a-181-personas-durante-acciones-para-recuperar-la-paz/",
+        "_added_at": "2026-09-21T17:40:33.482137-07:00"
+      },
+      {
+        "title": "Más de 450 multihomicidios registrados en estado",
+        "summary": "Baja California acumula más de 450 casos de multihomicidios, reflejando persistencia de violencia organizada.",
+        "zona": "Baja California",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/mas-de-450-multihomicidios/",
+        "_added_at": "2026-09-21T17:40:33.482137-07:00"
+      },
+      {
+        "title": "Fiscalía recibe denuncias por fraude inmobiliario",
+        "summary": "Autoridades abren investigación por presunto fraude inmobiliario en Santa Fe, Tijuana, tras nuevas denuncias.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/21/amplian-investigacion-por-presunto-fraude-inmobiliario-en-santa-fe-fiscalia-recibe-nuevas-denuncias/",
+        "_added_at": "2026-09-21T17:40:33.482137-07:00"
+      },
       {
         "title": "Más de 450 multihomicidios registrados en Baja California",
         "summary": "Cifra alarmante de casos de múltiples muertes en operativos y enfrentamientos en el estado durante período reciente.",
@@ -58,33 +122,57 @@
         "source": "El Imparcial",
         "url": "https://www.elimparcial.com/tij/tijuana/2026/09/21/buscan-reformar-ley-para-sancionar-delitos-graves-cometidos-por-adolescentes/",
         "_added_at": "2026-09-21T13:20:56.998351-07:00"
-      },
-      {
-        "title": "Dos muertos en tiroteo en Campestre Murúa",
-        "summary": "Agresión a balazos deja dos personas fallecidas y una herida en colonia de Tijuana.",
-        "zona": "Tijuana",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/181910_dos_muertos_y_un_herido_saldo_de_una_agresion_a_balazos_en_el_campestre_murua",
-        "_added_at": "2026-09-21T01:03:07.660435-07:00"
-      },
-      {
-        "title": "Reanudan búsqueda de cuerpos en relleno sanitario",
-        "summary": "Autoridades continúan operativos de búsqueda en sitio entre Tijuana y Rosarito este miércoles.",
-        "zona": "Tijuana",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99651/Este-mi%C3%A9rcoles,-reanudar%C3%A1n-b%C3%BAsqueda-de-cuerpos-en-relleno-sanitario-entre-Tijuana-y-Rosarito",
-        "_added_at": "2026-09-21T01:03:07.660435-07:00"
-      },
-      {
-        "title": "Autoridades supervisan canal del Río Tijuana",
-        "summary": "Revisión identifica puntos vulnerables en infraestructura del río para reforzar seguridad.",
-        "zona": "Tijuana",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181908_supervisan_autoridades_el_canal_del_rio_tijuana_identifican_puntos_vulnerables",
-        "_added_at": "2026-09-21T01:03:07.660435-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Burgueño anuncia cambios en gabinete municipal",
+        "summary": "Alcalde de Tijuana nombra a Paola Leyva como secretaria particular y Alonso López coordinador de gabinete.",
+        "zona": "Tijuana",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99697/Burgue%C3%B1o-anuncia-cambios-en-su-gabinete;-Paola-Leyva-asume-Secretar%C3%ADa-Particular-y-Alonso-L%C3%B3pez-Sep%C3%BAlveda-fue-nombrado-coordinador-de-Gabinete",
+        "_added_at": "2026-09-21T17:40:33.482137-07:00"
+      },
+      {
+        "title": "Congreso avala reformas a Constitución estatal",
+        "summary": "Diputados aprueban nueve dictámenes con reformas constitucionales para Baja California.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/estatal/2026/09/21/avalan-nueve-dictamenes-y-reformas-a-la-constitucion-estatal/",
+        "_added_at": "2026-09-21T17:40:33.482137-07:00"
+      },
+      {
+        "title": "Julieta pondera proceso de elección de coordinador",
+        "summary": "Julieta Ramírez califica como instrumento serio el proceso de selección de coordinador en Baja California.",
+        "zona": "Baja California",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/fue-un-instrumento-serio-julieta-pondera-proceso-de-eleccion-de-coordinador-en-bc/",
+        "_added_at": "2026-09-21T17:40:33.482137-07:00"
+      },
+      {
+        "title": "Higinio Martínez urge mantener alianza Morena",
+        "summary": "Dirigente del PT llama a no romper alianza con Morena rumbo a elecciones 2027.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181944_llama_higinio_martinez_al_pt_y_verde_a_no_romper_alianza_con_morena_en_2027",
+        "_added_at": "2026-09-21T17:40:33.482137-07:00"
+      },
+      {
+        "title": "Cárteles inmobiliarios: 6,665 denuncias por despojo",
+        "summary": "Gobierno anterior registró miles de denuncias por despojo de propiedad relacionado con crimen organizado.",
+        "zona": "Baja California",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/carteles-inmobiliarios-6-mil-665-denuncias-por-despojo-en-gobierno-de-marina/",
+        "_added_at": "2026-09-21T17:40:33.482137-07:00"
+      },
+      {
+        "title": "Marina presenta proyecto desaladora en CDMX",
+        "summary": "Gobernadora Marina del Pilar expone en México avances del proyecto de planta desaladora para BC.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181947_presento_marina_del_pilar_en_mexico_el_proyecto_de_la_planta_desaladora",
+        "_added_at": "2026-09-21T17:40:33.482137-07:00"
+      },
       {
         "title": "Julieta valora proceso serio en elección de coordinador estatal",
         "summary": "Liderazgo político evalúa de manera positiva los procedimientos seguidos en la designación de nuevo coordinador.",
@@ -127,6 +215,38 @@
       }
     ],
     "economia": [
+      {
+        "title": "BC consolida competitividad con infraestructura hídrica",
+        "summary": "Baja California avanza en proyectos de infraestructura de agua como motor de desarrollo económico.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/estatal/2026/09/21/bc-consolida-su-competitividad-y-avanza-con-infraestructura-hidrica-como-motor-de-desarrollo/",
+        "_added_at": "2026-09-21T17:40:33.482137-07:00"
+      },
+      {
+        "title": "Canaco celebra 108 aniversario con nuevos afiliados",
+        "summary": "Cámara de Comercio de Mexicali inicia celebraciones por aniversario con incremento de membresía.",
+        "zona": "Mexicali",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/99691/Arranca-Canaco-actividades-por-108-aniversario",
+        "_added_at": "2026-09-21T17:40:33.482137-07:00"
+      },
+      {
+        "title": "Conflicto Altisa vs IMOS por ruta Santa Fe-Otay",
+        "summary": "Disputa entre operadoras de transporte continúa por control de ruta de autobuses en Tijuana.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/continua-conflicto-altisa-vs-imos-por-ruta-santa-fe-otay/",
+        "_added_at": "2026-09-21T17:40:33.482137-07:00"
+      },
+      {
+        "title": "Paquete Económico 2027 enfatiza recaudos y deuda",
+        "summary": "Proyecto de presupuesto federal 2027 contempla recortes a CFE y aumento de endeudamiento nacional.",
+        "zona": "Baja California",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/paquete-economico-2027-recaudatorio-mas-deuda-y-recorte-a-cfe/",
+        "_added_at": "2026-09-21T17:40:33.482137-07:00"
+      },
       {
         "title": "Planta desaladora clave para desarrollo de Baja California",
         "summary": "Infraestructura hídrica será fundamental para impulsar crecimiento económico en el estado.",
@@ -178,6 +298,38 @@
     ],
     "eventos": [
       {
+        "title": "Expo Ganadera San Quintín cierra con éxito",
+        "summary": "Primera Expo Ganadera de San Quintín concluye con participación exitosa de productores locales.",
+        "zona": "San Quintín",
+        "source": "Rada Noticias",
+        "url": "https://radanoticias.info/concluye-con-exito-primera-expo-ganadera-san-quintin/",
+        "_added_at": "2026-09-21T17:40:33.482137-07:00"
+      },
+      {
+        "title": "CETYS celebra 65 años conectando comunidad",
+        "summary": "Universidad CETYS conmemora 65 años de trayectoria en Ensenada con actividades de integración.",
+        "zona": "Ensenada",
+        "source": "EnsenadaHoy",
+        "url": "https://ensenadahoy.com/noticias/ver/6962",
+        "_added_at": "2026-09-21T17:40:33.482137-07:00"
+      },
+      {
+        "title": "Parque Mundo Infantil inicia rehabilitación 50 años",
+        "summary": "Emblemático parque de Ensenada comienza rehabilitación en primera etapa tras cinco décadas.",
+        "zona": "Ensenada",
+        "source": "E1 Noticias",
+        "url": "https://www.ensenadaunonoticias.info/a-50-anos-de-su-creacion-inicia-rehabilitacion-del-parque-mundo-infantil-con-una-primera-etapa-de-tres/",
+        "_added_at": "2026-09-21T17:40:33.482137-07:00"
+      },
+      {
+        "title": "Expo Mujer Emprendedora convoca el 25 de septiembre",
+        "summary": "Evento de emprendimiento para mujeres programado en Tijuana con participación de empresarias.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181943_invitan_a_la_expo_mujer_emprendedora_el_25_de_septiembre",
+        "_added_at": "2026-09-21T17:40:33.482137-07:00"
+      },
+      {
         "title": "Sinergia 2026 del Cetys trae Bienal Europea a Baja California",
         "summary": "Evento académico e internacional del 5 al 10 de octubre llevará exposiciones artísticas europeas al estado.",
         "zona": "Ensenada",
@@ -219,6 +371,54 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "CFE: demandas por fallas eléctricas en Bahía Ángeles",
+        "summary": "Ciudadanos de Bahía de los Ángeles exigen a CFE resolver interrupciones frecuentes de energía eléctrica.",
+        "zona": "Ensenada",
+        "source": "Rada Noticias",
+        "url": "https://radanoticias.info/exhortan-a-cfe-que-atienda-fallas-e-interrupciones-de-energia-electrica-en-bahia-de-los-angeles/",
+        "_added_at": "2026-09-21T17:40:33.482137-07:00"
+      },
+      {
+        "title": "Vecinos Valle Mexicali en huelga por recibos CFE",
+        "summary": "Habitantes de Valle Mexicali inician huelga de hambre en protesta por cobros excesivos de electricidad.",
+        "zona": "Mexicali",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/vecinas-del-valle-de-mexicali-inician-huelga-de-hambre-por-altos-recibos-de-cfe/",
+        "_added_at": "2026-09-21T17:40:33.482137-07:00"
+      },
+      {
+        "title": "Ensenada con envejecimiento poblacional más alto BC",
+        "summary": "Análisis demográfico revela que Ensenada presenta la población más envejecida del estado.",
+        "zona": "Ensenada",
+        "source": "El Vigía",
+        "url": "https://www.youtube.com/shorts/1Ams3pxJfqc",
+        "_added_at": "2026-09-21T17:40:33.482137-07:00"
+      },
+      {
+        "title": "SEP restringirá celulares en educación básica",
+        "summary": "Secretaría de Educación implementa prohibición de dispositivos móviles en aulas de escuelas públicas.",
+        "zona": "Baja California",
+        "source": "AGP Noticias",
+        "url": "https://agpnoticias.com/news/sep-restringira-celulares-y-tabletas-falta-definir-reglas-para-colegios-privados/",
+        "_added_at": "2026-09-21T17:40:33.482137-07:00"
+      },
+      {
+        "title": "Protesta en primaria tras fallecimiento de alumno",
+        "summary": "Padres de familia convocan protesta en escuela Amado Nervo por muerte de estudiante Christopher.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/21/convocan-a-protesta-en-primaria-amado-nervo-tras-fallecimiento-de-christopher/",
+        "_added_at": "2026-09-21T17:40:33.482137-07:00"
+      },
+      {
+        "title": "Fundación estadounidense esteriliza mascotas en Tijuana",
+        "summary": "Organización norteamericana realiza campaña gratuita de castración para perros y gatos en Tijuana.",
+        "zona": "Tijuana",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/fundacion-estadounidense-realiza-campana-gratuita-de-esterilizacion-para-perros-y-gatos-en-tijuana/",
+        "_added_at": "2026-09-21T17:40:33.482137-07:00"
+      },
       {
         "title": "Gobierno de Ensenada promueve actividad física en adultos mayores",
         "summary": "Programa municipal impulsa bienestar y salud preventiva en población de tercera edad.",
@@ -269,5 +469,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-21T13:20:56.998351-07:00"
+  "last_updated": "2026-09-21T17:40:33.482137-07:00"
 }
