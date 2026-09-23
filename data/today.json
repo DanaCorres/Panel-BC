@@ -1,433 +1,128 @@
 {
-  "date": "2026-09-22",
-  "run_count": 3,
+  "date": "2026-09-23",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Asesinan a subcomandante de Policía Municipal en Mexicali",
-        "summary": "Ramón Barajas, subcomandante de la DSPM, fue acribillado en su domicilio en el Valle de Mexicali en ataque armado.",
+        "title": "Operativo contra drones no autorizados en Tijuana concluye",
+        "summary": "Autoridades concluyeron operativo \"Águila Alta\" inhabilitando 5 drones irregulares en la ciudad.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181997_concluye_operativo_aguila_alta_inhabilitaron_5_drones",
+        "_added_at": "2026-09-23T00:51:22.076995-07:00"
+      },
+      {
+        "title": "Asesinato en Ensenada: hombre muere por disparo",
+        "summary": "Hombre fue asesinado a balazos en Juan Diego Residencial de Ensenada.",
+        "zona": "Ensenada",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/99751/Asesinan-a-balazos-a-hombre-en-Juan-Diego-Residencial-en-Ensenada",
+        "_added_at": "2026-09-23T00:51:22.076995-07:00"
+      },
+      {
+        "title": "Subcomandante policial asesinado en Valle de Mexicali",
+        "summary": "Ataque armado en Valle de Mexicali causa muerte de subcomandante policial.",
         "zona": "Mexicali",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/acribillan-al-subcomandante-de-la-policia-municipal-de-mexicali-ramon-barajas/?utm_source=rss&utm_medium=rss&utm_campaign=acribillan-al-subcomandante-de-la-policia-municipal-de-mexicali-ramon-barajas",
-        "_added_at": "2026-09-22T17:12:41.373238-07:00"
-      },
-      {
-        "title": "Detienen a dos por asesinato del abogado Narciso Alemán",
-        "summary": "Capturan a dos implicados en el crimen del abogado; un tercero permanece prófugo.",
-        "zona": "Tijuana",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181985_dos_detenidos_por_el_crimen_del_abogado_narciso_aleman_otro_esta_profugo",
-        "_added_at": "2026-09-22T17:12:41.373238-07:00"
-      },
-      {
-        "title": "INEGI: mitad de sudcalifornianos se sienten inseguros",
-        "summary": "Encuesta revela que 50.9% de la población de Baja California Sur reporta sentimientos de inseguridad.",
-        "zona": "Baja California",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/inegi-50-9-de-sudcaliforniano-se-sienten-inseguros/?utm_source=rss&utm_medium=rss&utm_campaign=inegi-50-9-de-sudcaliforniano-se-sienten-inseguros",
-        "_added_at": "2026-09-22T17:12:41.373238-07:00"
-      },
-      {
-        "title": "Detienen a presunto sicario en Ensenada",
-        "summary": "Autoridades capturan a sujeto señalado como presunto sicario operando en Ensenada.",
-        "zona": "Ensenada",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/22/detienen-a-presunto-sicario-en-ensenada/",
-        "_added_at": "2026-09-22T17:12:41.373238-07:00"
-      },
-      {
-        "title": "Buscan restos tras mensaje anónimo en Rosarito",
-        "summary": "Autoridades realizan búsqueda de posibles restos humanos reportados en Rosarito tras denuncia anónima.",
-        "zona": "Rosarito",
         "source": "TV Azteca BC",
-        "url": "https://www.tvaztecabajacalifornia.com/noticias/hay-hasta-40-cuerpos-buscan-restos-tras-un-mensaje-anonimo-en-rosarito/",
-        "_added_at": "2026-09-22T17:12:41.373238-07:00"
+        "url": "https://www.tvaztecabajacalifornia.com/noticias/ataque-armado-en-el-valle-de-mexicali-asesinan-a-balazos-a-subcomandante-policial/",
+        "_added_at": "2026-09-23T00:51:22.076995-07:00"
       },
       {
-        "title": "Lanzan bombas molotov contra vivienda en Cerro de las Abejas",
-        "summary": "Ataque incendiario contra domicilio en Cerro de las Abejas, Tijuana.",
-        "zona": "Tijuana",
-        "source": "TV Azteca BC",
-        "url": "https://www.tvaztecabajacalifornia.com/policiaca/lanzan-bombas-molotov-contra-una-casa-en-cerro-de-las-abejas/",
-        "_added_at": "2026-09-22T17:12:41.373238-07:00"
-      },
-      {
-        "title": "Abandonan vehículo usado en asesinato de menor en Tecate",
-        "summary": "Localizan automóvil utilizado para cometer homicidio de un menor en Tecate.",
-        "zona": "Tecate",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/abandonan-automovil-utilizado-para-asesinar-a-menor-en-tecate/?utm_source=rss&utm_medium=rss&utm_campaign=abandonan-automovil-utilizado-para-asesinar-a-menor-en-tecate",
-        "_added_at": "2026-09-22T17:12:41.373238-07:00"
-      },
-      {
-        "title": "Detienen a presunto operador de facción de Los Chapitos",
-        "summary": "Autoridades capturan a \"El Peli\", quien presuntamente operaba para la organización delictiva de Los Chapitos en la región.",
-        "zona": "Tijuana",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/181959_detienen_a_el_peli_presunto_operador_de_la_faccion_de_los_chapitos",
-        "_added_at": "2026-09-22T12:39:59.901040-07:00"
-      },
-      {
-        "title": "Asesinado fiscal especializado en delitos contra la vida",
-        "summary": "Ángel Pantoja, fiscal de delitos contra la vida en Ensenada, es privado de la vida en operativo delictivo.",
-        "zona": "Ensenada",
-        "source": "Milenio",
-        "url": "https://www.milenio.com/videos/policia/asesinan-angel-pantoja-fiscal-delitos-vida-ensenada",
-        "_added_at": "2026-09-22T12:39:59.901040-07:00"
-      },
-      {
-        "title": "Falta de personal frena carpetas en Fiscalía de Tijuana",
-        "summary": "Deficiencia de peritos en Rancho Izaguirre impide integración y judicialización ágil de investigaciones criminales.",
-        "zona": "Tijuana",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/22/falta-de-personal-en-fiscalia-frena-integracion-y-judicializacion-de-carpetas-en-tijuana/",
-        "_added_at": "2026-09-22T12:39:59.901040-07:00"
-      },
-      {
-        "title": "Empresario secuestrado aparece con vida tras privación",
-        "summary": "Jesús Molina es recuperado después de ser privado de libertad en operativo de autoridades en Baja California.",
-        "zona": "Baja California",
-        "source": "Milenio",
-        "url": "https://www.milenio.com/videos/estados/empresario-jesus-molina-aparece-vida-privado-libertad-baja-california",
-        "_added_at": "2026-09-22T12:39:59.901040-07:00"
-      },
-      {
-        "title": "Investigan contaminación de Vector en San Quintín",
-        "summary": "Autoridades promueven investigación contra empresa por descargas residuales que afectan el ambiente local.",
+        "title": "Abogados piden a FGE aumentar personal para denuncias",
+        "summary": "Abogados solicitan que Fiscalía estatal contrate más personal para atender carga de denuncias.",
         "zona": "Baja California",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181973_piden_investigar_a_la_empresa_vector_por_descargas_residuales_en_san_quintin",
-        "_added_at": "2026-09-22T12:39:59.901040-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/181990_pediran_abogados_a_la_fge_contratar_mas_personal_para_atender_denuncias",
+        "_added_at": "2026-09-23T00:51:22.076995-07:00"
       },
       {
-        "title": "Recuperan vehículos de lujo robados en aduana marítima",
-        "summary": "Marina asegura unidades de alto valor sustraídas, recuperadas en operativo en aduana de Ensenada.",
-        "zona": "Ensenada",
-        "source": "Milenio",
-        "url": "https://www.milenio.com/policia/marina-recupera-vehiculos-robados-aduana-maritima-ensenada",
-        "_added_at": "2026-09-22T12:39:59.901040-07:00"
-      },
-      {
-        "title": "Detienen estudiante de medicina por crueldad animal",
-        "summary": "Autoridades capturan a estudiante acusado de descuartizar animales en Ensenada.",
-        "zona": "Ensenada",
-        "source": "Milenio",
-        "url": "https://www.milenio.com/estados/ensenada-detienen-astudiante-medicina-descuartizaba-gatos",
-        "_added_at": "2026-09-22T12:39:59.901040-07:00"
-      },
-      {
-        "title": "Feminicidio en Ensenada: detienen a pareja de víctima",
-        "summary": "Autoridades detienen a presunto responsable del asesinato de mujer hallada sin vida en Ensenada, vinculado a violencia doméstica.",
-        "zona": "Ensenada",
-        "source": "TV Azteca BC",
-        "url": "https://www.tvaztecabajacalifornia.com/noticias/detienen-a-presunto-responsable-del-feminicidio-de-mujer-hallada-sin-vida-en-ensenada/",
-        "_added_at": "2026-09-22T00:48:44.699733-07:00"
+        "title": "Menor rescatado en Playas de Tijuana, uno desaparecido",
+        "summary": "Operativo en playas rescata a un menor del mar pero continúa búsqueda de segundo menor.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/181994_rescatan_del_mar_a_un_menor_extraviado_en_playas_de_tijuana_otro_sigue_desaparecido",
+        "_added_at": "2026-09-23T00:51:22.076995-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Morena y Lux se enfrentan por obra hídrica en Mexicali",
-        "summary": "Conflicto político entre Morena y oposición por proyecto de infraestructura hídrica en Mexicali.",
-        "zona": "Mexicali",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/lux-y-obra-hidrica-confronta-a-morena-en-mexicali/?utm_source=rss&utm_medium=rss&utm_campaign=lux-y-obra-hidrica-confronta-a-morena-en-mexicali",
-        "_added_at": "2026-09-22T17:12:41.373238-07:00"
-      },
-      {
-        "title": "Conceden suspensión en favor de Ruffo; pendientes alcances",
-        "summary": "Juzgado otorga amparo al exgobernador Ernesto Ruffo; se espera definición de sus efectos.",
+        "title": "Ruffo Appel podría obtener prisión domiciliaria esta semana",
+        "summary": "Ex funcionario Ruffo Appel posiblemente salga de El Altiplano para cumplir condena en domicilio.",
         "zona": "Baja California",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181987_conceden_una_suspension_en_favor_de_ruffo_pendientes_de_sus_alcances",
-        "_added_at": "2026-09-22T17:12:41.373238-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/181996_ruffo_appel_podria_tener_prision_domiciliaria_esperan_confirmacion",
+        "_added_at": "2026-09-23T00:51:22.076995-07:00"
       },
       {
-        "title": "Comisión entrevistará a aspirantes para encabezar ASEBC",
-        "summary": "Congreso local abre proceso de selección para nuevo titular de la Auditoría Superior.",
+        "title": "Eva Moreno impugna designación de Julieta como coordinadora",
+        "summary": "Conflicto interno en Morena: Eva Moreno cuestiona nombramiento de Julieta como coordinadora.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/181993_impugna_eva_moreno_la_designacion_de_julieta_como_coordinadora",
+        "_added_at": "2026-09-23T00:51:22.076995-07:00"
+      },
+      {
+        "title": "Encuesta de Morena revela resultados para Baja California",
+        "summary": "Partido Morena publica resultados de sondeo para candidaturas en la entidad.",
         "zona": "Baja California",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181978_comision_del_congreso_entrevistara_a_aspirantes_a_encabezar_la_asebc",
-        "_added_at": "2026-09-22T17:12:41.373238-07:00"
-      },
-      {
-        "title": "Avanzan reformas sobre playas, vivienda, justicia y datos",
-        "summary": "Congreso estatal aprueba dictámenes para modernizar marco legal en temas ambientales, vivienda, acceso a justicia y protección de información.",
-        "zona": "Baja California",
-        "source": "AGP Noticias",
-        "url": "https://agpnoticias.com/news/avanzan-reformas-sobre-playas-vivienda-justicia-y-proteccion-de-datos-en-baja-california/",
-        "_added_at": "2026-09-22T12:39:59.901040-07:00"
-      },
-      {
-        "title": "Piden transparentar recursos a organizaciones civiles",
-        "summary": "Legisladores demandan mayor claridad en ejercicio de fondos públicos destinados a sociedad civil en Baja California.",
-        "zona": "Baja California",
-        "source": "AGP Noticias",
-        "url": "https://agpnoticias.com/news/piden-transparentar-recursos-entregados-a-organizaciones-civiles-en-baja-california/",
-        "_added_at": "2026-09-22T12:39:59.901040-07:00"
-      },
-      {
-        "title": "Armoniza Congreso reformas en materia judicial",
-        "summary": "Legislatura estatal implementa cambios coordinados para fortalecer sistema de justicia en la entidad.",
-        "zona": "Baja California",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Estatal/99719/Armoniza-Congreso-reformas-en-materia-judicial",
-        "_added_at": "2026-09-22T12:39:59.901040-07:00"
-      },
-      {
-        "title": "Trump exige a México control fronterizo en ONU",
-        "summary": "Presidente estadounidense señala a México como epicentro del narcotráfico y demanda mayor seguridad en frontera.",
-        "zona": "Baja California",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/trump-senala-a-mexico-como-epicentro-del-narco-y-exige-control-fronterizo-en-la-81a-asamblea-de-la-onu/?utm_source=rss&utm_medium=rss&utm_campaign=trump-senala-a-mexico-como-epicentro-del-narco-y-exige-control-fronterizo-en-la-81a-asamblea-de-la-onu",
-        "_added_at": "2026-09-22T12:39:59.901040-07:00"
-      },
-      {
-        "title": "Inauguran central de autobuses en Valle de Guadalupe",
-        "summary": "Gobernadora Marina del Pilar pone en operación nuevo equipamiento de transporte en zona vitivinícola de Ensenada.",
-        "zona": "Ensenada",
-        "source": "Milenio",
-        "url": "https://www.milenio.com/estados/marina-pilar-inaugura-central-autobuses-valle-guadalupe",
-        "_added_at": "2026-09-22T12:39:59.901040-07:00"
-      },
-      {
-        "title": "Cierre de proceso interno; inicia campaña electoral",
-        "summary": "Concluye fase interna de selección de candidatos y comienza la campaña política en Baja California.",
-        "zona": "Baja California",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/afn_politico/181950_el_proceso_interno_ya_termino_dice_julieta_pero_empieza_la_campana",
-        "_added_at": "2026-09-22T00:48:44.699733-07:00"
+        "url": "https://www.afntijuana.info/afn_politico/181989_los_resultados_de_la_encuesta_de_morena_para_baja_california",
+        "_added_at": "2026-09-23T00:51:22.076995-07:00"
       }
     ],
-    "economia": [
-      {
-        "title": "Viviendas en BC crecen el doble que la población",
-        "summary": "Construcción de viviendas en Baja California supera significativamente el crecimiento demográfico.",
-        "zona": "Baja California",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99741/Viviendas-en-Baja-California-crecen-el-doble-que-la-poblaci%C3%B3n",
-        "_added_at": "2026-09-22T17:12:41.373238-07:00"
-      },
-      {
-        "title": "Autos son principal fuente de contaminación en Mexicali y Tijuana",
-        "summary": "Estudio del CIGA identifica al sector automotriz como mayor contaminante en ambas ciudades.",
-        "zona": "Baja California",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181976_los_autos_son_la_principal_fuente_de_contaminacion_en_mexicali_y_tijuana_ciga",
-        "_added_at": "2026-09-22T17:12:41.373238-07:00"
-      },
-      {
-        "title": "Disminuye retiro de visas a transportistas de carga",
-        "summary": "EU reduce frecuencia de cancelación de visas a transportistas, aunque medida sigue vigente.",
-        "zona": "Tijuana",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181977_disminuyo_el_retiro_de_visas_a_transportistas_pero_aun_sigue_vigente_la_medida",
-        "_added_at": "2026-09-22T17:12:41.373238-07:00"
-      },
-      {
-        "title": "Denuncian aumento en tarifa de transporte a 22 pesos",
-        "summary": "Ciudadanos reclaman incremento en pasaje de transporte público en Tijuana.",
-        "zona": "Tijuana",
-        "source": "TV Azteca BC",
-        "url": "https://www.tvaztecabajacalifornia.com/noticias/22-pesos-por-pasaje-denuncian-aumento-en-tarifa-del-transporte-en-tijuana/",
-        "_added_at": "2026-09-22T17:12:41.373238-07:00"
-      },
-      {
-        "title": "Endurecen revisión de transporte de carga en frontera",
-        "summary": "Autoridades estadounidenses implementan protocolos más estrictos para verificación de mercancía en cruces fronterizos.",
-        "zona": "Tijuana",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/22/endurecen-revision-por-carga-publica-en-eeuu/",
-        "_added_at": "2026-09-22T12:39:59.901040-07:00"
-      }
-    ],
+    "economia": [],
     "eventos": [
       {
-        "title": "Publican convocatoria Premio Estatal del Deporte 2026",
-        "summary": "Gobierno abre convocatoria para reconocer trayectorias deportivas destacadas en el estado.",
-        "zona": "Baja California",
+        "title": "Pescadores de Ensenada culminan cursos de seguridad marítima",
+        "summary": "Gremio pesquero completa capacitación en protocolos de seguridad en el mar.",
+        "zona": "Ensenada",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181988_publican_convocatoria_para_el_premio_estatal_del_deporte_2026",
-        "_added_at": "2026-09-22T17:12:41.373238-07:00"
-      },
-      {
-        "title": "Festival 'Miradas Fronterizas' celebra diversidad cultural de Tijuana",
-        "summary": "Invitan a participar en festival intercultural con exposiciones y actividades de inclusión.",
-        "zona": "Tijuana",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/22/invitan-al-festival-intercultural-miradas-fronterizas-para-celebrar-la-diversidad-cultural-de-tijuana/",
-        "_added_at": "2026-09-22T17:12:41.373238-07:00"
-      },
-      {
-        "title": "Día del Patrimonio BC tendrá actividades gratuitas",
-        "summary": "Segunda edición del evento incluye actividades culturales sin costo en siete municipios.",
-        "zona": "Baja California",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/22/dia-del-patrimonio-de-baja-california-prepara-su-segunda-edicion-con-actividades-gratuitas-en-los-siete-municipios/",
-        "_added_at": "2026-09-22T17:12:41.373238-07:00"
-      },
-      {
-        "title": "Artistas rechazan cesión de terreno del CEART Ensenada",
-        "summary": "Comunidad artística se opone a transferencia de predio para construcción de juzgados.",
-        "zona": "Ensenada",
-        "source": "Rada Noticias",
-        "url": "https://radanoticias.info/artistas-rechazan-cesion-de-terreno-del-ceart-ensenada/",
-        "_added_at": "2026-09-22T17:12:41.373238-07:00"
-      },
-      {
-        "title": "Zorros Ensenada debutan con triunfo ante Coyotes Tijuana",
-        "summary": "Equipo de béisbol local consigue victoria en su primer encuentro de la temporada.",
-        "zona": "Ensenada",
-        "source": "AGP Noticias",
-        "url": "https://agpnoticias.com/news/zorros-ensenada-debutan-con-triunfo-ante-coyotes-tijuana-galeria/",
-        "_added_at": "2026-09-22T17:12:41.373238-07:00"
-      },
-      {
-        "title": "Palomazo Norteño llega al Palenque de Tijuana",
-        "summary": "Festival ganadero y de entretenimiento se presenta con rodeo, música regional y actividades tradicionales.",
-        "zona": "Tijuana",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/palomazo-norteno-llegara-al-palenque-de-tijuana/",
-        "_added_at": "2026-09-22T12:39:59.901040-07:00"
-      },
-      {
-        "title": "Exposición \"Puzzle: La Evolución\" en Rosarito",
-        "summary": "Gobierno municipal impulsa arte contemporáneo con muestra de creaciones locales e innovadoras.",
-        "zona": "Rosarito",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/gobierno-de-playas-de-rosarito-impulsa-el-arte-contemporaneo-con-la-exposicion-puzzle-la-evolucion/",
-        "_added_at": "2026-09-22T12:39:59.901040-07:00"
-      },
-      {
-        "title": "\"El Sótano\" se presenta en el CECUT",
-        "summary": "Espacio de artes escénicas y contemporáneas abre programación en Centro de Expresión Contemporánea de Tijuana.",
-        "zona": "Tijuana",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/el-sotano-llega-al-cecut/?utm_source=rss&utm_medium=rss&utm_campaign=el-sotano-llega-al-cecut",
-        "_added_at": "2026-09-22T12:39:59.901040-07:00"
-      },
-      {
-        "title": "Expo colectiva \"Work is Hell\" sobre crítica del trabajo",
-        "summary": "Muestra femenina y crítica en Tijuana reflexiona sobre dinámicas laborales desde perspectiva de género.",
-        "zona": "Tijuana",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/22/realizaran-expo-colectiva-work-is-hell-una-mirada-femenina-y-critica-sobre-el-trabajo/",
-        "_added_at": "2026-09-22T12:39:59.901040-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/181992_culminan_pescadores_de_ensenada_cursos_de_seguridad_maritima_claudia_agaton",
+        "_added_at": "2026-09-23T00:51:22.076995-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Entregan constancias a pescadores tras cursos de seguridad en el mar",
-        "summary": "Autoridades certifican a pescadores que completaron capacitación en medidas de seguridad marítima.",
-        "zona": "Ensenada",
-        "source": "EnsenadaHoy",
-        "url": "https://ensenadahoy.com/noticias/ver/6964",
-        "_added_at": "2026-09-22T17:12:41.373238-07:00"
-      },
-      {
-        "title": "Secundaria limita vestimenta de madres en Ensenada",
-        "summary": "Plantel educativo implementa código de vestimenta restrictivo para madres de familia.",
-        "zona": "Ensenada",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/tij/ensenada/2026/09/22/secundaria-de-ensenada-establece-normas-de-vestimenta-para-madres-de-familia-y-limita-el-acceso-al-plantel/",
-        "_added_at": "2026-09-22T17:12:41.373238-07:00"
-      },
-      {
-        "title": "CETYS Universidad Ensenada conmemora 65 años de servicio",
-        "summary": "Institución educativa celebra seis décadas transformando personas y construyendo el futuro.",
-        "zona": "Ensenada",
-        "source": "EnsenadaHoy",
-        "url": "https://ensenadahoy.com/noticias/ver/6963",
-        "_added_at": "2026-09-22T17:12:41.373238-07:00"
-      },
-      {
-        "title": "Protestan para exigir justicia por muerte de Christopher",
-        "summary": "Padres de familia y comunidad reclaman investigación en caso de menor fallecido.",
+        "title": "Acumulación de basura preocupa en intersección de Tijuana",
+        "summary": "Residuos acumulados en 5 y 10 generan molestia y preocupación ciudadana en Tijuana.",
         "zona": "Tijuana",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99745/Protestan-para-exigir-justicia-por-la-muerte-de-Christopher",
-        "_added_at": "2026-09-22T17:12:41.373238-07:00"
+        "source": "TV Azteca BC",
+        "url": "https://www.tvaztecabajacalifornia.com/noticias/basura-acumulada-en-la-5-y-10-de-tijuana-genera-molestia-y-preocupacion-entre-la-ciudadania/",
+        "_added_at": "2026-09-23T00:51:22.076995-07:00"
       },
       {
-        "title": "Maestros esperan respuesta de Secretaría de Educación Municipal",
-        "summary": "Docentes de Tijuana presionan por atención a demandas pendientes ante autoridad educativa.",
+        "title": "Escuela de Ensenada restringe atuendo de madres de familia",
+        "summary": "Institución educativa de Ensenada prohíbe leggins, tops y minifaldas a padres en instalaciones.",
+        "zona": "Ensenada",
+        "source": "TV Azteca BC",
+        "url": "https://www.tvaztecabajacalifornia.com/noticias/prohiben-leggins-tops-y-minifaldas-a-madres-de-familia-en-escuela-de-ensenada/",
+        "_added_at": "2026-09-23T00:51:22.076995-07:00"
+      },
+      {
+        "title": "Primaria en Capistrano toma acciones para mejorar seguridad",
+        "summary": "Institución educativa en Tijuana coloca candados y asegura instalaciones.",
         "zona": "Tijuana",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181982_maestros_siguen_esperando_respuesta_de_la_secretaria_de_educacion_municipal",
-        "_added_at": "2026-09-22T17:12:41.373238-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/181998_toman_instalaciones_y_colocan_candados_en_primaria_de_la_colonia_capistrano",
+        "_added_at": "2026-09-23T00:51:22.076995-07:00"
       },
       {
-        "title": "Retiran 80 toneladas de basura de playas y costas en Ensenada",
-        "summary": "Operativo de limpieza remueve desechos de zonas costeras y playas de la ciudad.",
-        "zona": "Ensenada",
-        "source": "Argumento Noticias",
-        "url": "https://argumentonoticias.com/2026/09/22/retiran-mas-de-80-toneladas-de-basura-de-playas-y-zonas-costeras-de-ensenada/",
-        "_added_at": "2026-09-22T17:12:41.373238-07:00"
-      },
-      {
-        "title": "Marina inaugura central de autobuses en Valle de Guadalupe",
-        "summary": "Secretaria de Marina pone en operación nueva terminal de transporte en zona vinícola.",
-        "zona": "Ensenada",
-        "source": "Milenio",
-        "url": "https://www.milenio.com/estados/marina-pilar-inaugura-central-autobuses-valle-guadalupe",
-        "_added_at": "2026-09-22T17:12:41.373238-07:00"
-      },
-      {
-        "title": "Exigen justicia por feminicidio de Carolina Flores en Ensenada",
-        "summary": "Manifestantes demandan esclarecimiento de homicidio de mujer; señalan a suegra como implicada.",
-        "zona": "Ensenada",
-        "source": "Milenio",
-        "url": "https://www.milenio.com/policia/exigen-justicia-por-feminicidio-de-carolina-flores-en-ensenada",
-        "_added_at": "2026-09-22T17:12:41.373238-07:00"
-      },
-      {
-        "title": "Reparan falla que dejó sin agua a colonias en Ensenada",
-        "summary": "Autoridades municipales restituyen servicio de agua potable en zonas del noreste afectadas por daño en red.",
-        "zona": "Ensenada",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/tij/ensenada/2026/09/22/llega-equipo-para-reparar-falla-que-mantiene-sin-agua-al-noreste-de-ensenada/",
-        "_added_at": "2026-09-22T12:39:59.901040-07:00"
-      },
-      {
-        "title": "Recomiendan lavar tinacos cada seis meses",
-        "summary": "Autoridades de salud advierten sobre riesgo de contaminación en depósitos de agua y promueven higiene preventiva.",
-        "zona": "Baja California",
-        "source": "AGP Noticias",
-        "url": "https://agpnoticias.com/news/tinacos-sucios-pueden-contaminar-el-agua-recomiendan-lavarlos-cada-seis-meses/",
-        "_added_at": "2026-09-22T12:39:59.901040-07:00"
-      },
-      {
-        "title": "Escuelas deterioradas generan preocupación en padres",
-        "summary": "Progenitores denuncian condiciones precarias en planteles educativos de Baja California que afectan aprendizaje.",
-        "zona": "Baja California",
-        "source": "TV Azteca BC",
-        "url": "https://www.tvaztecabajacalifornia.com/noticias/escuelas-o-zonas-de-riesgo-padres-denuncian-planteles-deteriorados-en-baja-california/",
-        "_added_at": "2026-09-22T12:39:59.901040-07:00"
-      },
-      {
-        "title": "Zorros Ensenada debutan con triunfo ante Coyotes",
-        "summary": "Equipo local de béisbol gana en su primer encuentro de temporada frente a visitantes de Tijuana.",
-        "zona": "Ensenada",
-        "source": "AGP Noticias",
-        "url": "https://agpnoticias.com/news/zorros-ensenada-debutan-con-triunfo-ante-coyotes-tijuana-galeria/",
-        "_added_at": "2026-09-22T12:39:59.901040-07:00"
-      },
-      {
-        "title": "Agua: desafío prioritario para Baja California",
-        "summary": "Análisis sobre la crisis de abastecimiento de agua como problema estructural urgente en la entidad.",
-        "zona": "Baja California",
-        "source": "Argumento Noticias",
-        "url": "https://argumentonoticias.com/2026/09/22/agua-el-desafio-impostergable-para-baja-california/",
-        "_added_at": "2026-09-22T00:48:44.699733-07:00"
-      },
-      {
-        "title": "Prevención de cáncer dirigida a mujeres haitianas",
-        "summary": "Iniciativa de salud pública para acercar servicios de detección y prevención a población migrante en Tijuana.",
+        "title": "ORAR busca personas que han perdido orientación en Tijuana",
+        "summary": "Organización asiste a personas extraviadas que desconocen cómo regresar a sus hogares.",
         "zona": "Tijuana",
         "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99706/Buscan-acercar-prevenci%C3%B3n-del-c%C3%A1ncer-a-mujeres-haitianas",
-        "_added_at": "2026-09-22T00:48:44.699733-07:00"
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99748/ORAR-busca-en-Tijuana-a-quienes-perdieron-el-camino-de-regreso-a-casa",
+        "_added_at": "2026-09-23T00:51:22.076995-07:00"
+      },
+      {
+        "title": "Especialistas advierten sobre aumento de virus respiratorios",
+        "summary": "Con llegada del otoño, expertos alertan incremento de resfriados y padecimientos respiratorios.",
+        "zona": "Baja California",
+        "source": "TV Azteca BC",
+        "url": "https://www.tvaztecabajacalifornia.com/noticias/llega-el-otono-y-suben-los-resfriados-especialistas-alertan-sobre-virus-respiratorios/",
+        "_added_at": "2026-09-23T00:51:22.076995-07:00"
       }
     ]
   },
-  "last_updated": "2026-09-22T17:12:41.373238-07:00"
+  "last_updated": "2026-09-23T00:51:22.076995-07:00"
 }
