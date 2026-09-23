@@ -1,8 +1,56 @@
 {
   "date": "2026-09-23",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "FGE reporta caída de 25% en homicidios en BC",
+        "summary": "La Fiscalía General del Estado reporta disminución significativa en homicidios y refuerza estrategia contra feminicidios en Baja California.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/23/167512/",
+        "_added_at": "2026-09-23T12:35:37.801388-07:00"
+      },
+      {
+        "title": "Asesinato de subcomandante fue ataque directo: Fiscal",
+        "summary": "Fiscal confirma que muerte del subcomandante José Ramón Barajas en Tijuana fue ataque directo; no había amenazas previas registradas.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/182021_fue_un_ataque_directo_el_asesinato_del_subcomandante_jose_ramon_barajas_fiscal",
+        "_added_at": "2026-09-23T12:35:37.801388-07:00"
+      },
+      {
+        "title": "Detienen tres presuntos sicarios con arsenal en Valle de Trinidad",
+        "summary": "Autoridades capturan a tres hombres con arsenal y chalecos tácticos en Valle de la Trinidad; operativo contra crimen organizado.",
+        "zona": "Tijuana",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/23/detienen-a-tres-presuntos-sicarios-con-arsenal-en-el-valle-de-la-trinidad/",
+        "_added_at": "2026-09-23T12:35:37.801388-07:00"
+      },
+      {
+        "title": "Buscan a familia desaparecida en Tijuana",
+        "summary": "Autoridades buscan a tres integrantes de una familia desaparecida en Tijuana, vistos por última vez en la zona de El Rubí.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/policiaca/2026/09/23/familia-desaparece-en-tijuana-buscan-a-tres-integrantes-vistos-por-ultima-vez-en-el-rubi/",
+        "_added_at": "2026-09-23T12:35:37.801388-07:00"
+      },
+      {
+        "title": "Menor de 15 años muere arrastrado por el mar en Tijuana",
+        "summary": "Localizan sin vida a menor que fue arrastrado por el mar en Playas de Tijuana; otro menor fue rescatado en el mismo incidente.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/23/localizan-cuerpo-de-menor-de-15-anos-que-murio-tras-ser-arrastrado-por-el-mar-en-playas-de-tijuana/",
+        "_added_at": "2026-09-23T12:35:37.801388-07:00"
+      },
+      {
+        "title": "Campaña de canje de armas por dinero en Mexicali",
+        "summary": "Arranca programa de canje de armas por dinero en Mexicali como medida de política de seguridad pública.",
+        "zona": "Mexicali",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/99773/Arranca-en-Mexicali-campa%C3%B1a-de-canje-de-armas-por-dinero",
+        "_added_at": "2026-09-23T12:35:37.801388-07:00"
+      },
       {
         "title": "Operativo contra drones no autorizados en Tijuana concluye",
         "summary": "Autoridades concluyeron operativo \"Águila Alta\" inhabilitando 5 drones irregulares en la ciudad.",
@@ -46,6 +94,38 @@
     ],
     "politica": [
       {
+        "title": "Montserrat Caballero se queda fuera de la coalición",
+        "summary": "Exgobernadora Montserrat Caballero queda excluida de coalición electoral en Baja California; afecta dinámicas políticas locales.",
+        "zona": "Baja California",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/montserrat-caballero-se-queda-fuera-de-la-coalicion/",
+        "_added_at": "2026-09-23T12:35:37.801388-07:00"
+      },
+      {
+        "title": "Proponen incluir turismo en Constitución de BC",
+        "summary": "Legisladores proponen reforma constitucional para incluir turismo como sector estratégico en Baja California.",
+        "zona": "Baja California",
+        "source": "AGP Noticias",
+        "url": "https://agpnoticias.com/news/proponen-incluir-el-turismo-en-la-constitucion-de-baja-california/",
+        "_added_at": "2026-09-23T12:35:37.801388-07:00"
+      },
+      {
+        "title": "Diputado Razo promueve regulación contra fraudes inmobiliarios",
+        "summary": "Legislador presenta iniciativa para fortalecer marco legal contra fraudes en el sector inmobiliario de Baja California.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/estatal/2026/09/23/diputado-razo-promueve-nueva-regulacion-contra-fraudes-inmobiliarios/",
+        "_added_at": "2026-09-23T12:35:37.801388-07:00"
+      },
+      {
+        "title": "Revisión de prisión preventiva de Ernesto Ruffo este viernes",
+        "summary": "Próxima audiencia del viernes determinará si Ernesto Ruffo obtiene prisión domiciliaria o preventiva.",
+        "zona": "Baja California",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/proximo-viernes-se-revisara-la-prision-preventiva-de-ernesto-ruffo/?utm_source=rss&utm_medium=rss&utm_campaign=proximo-viernes-se-revisara-la-prision-preventiva-de-ernesto-ruffo",
+        "_added_at": "2026-09-23T12:35:37.801388-07:00"
+      },
+      {
         "title": "Ruffo Appel podría obtener prisión domiciliaria esta semana",
         "summary": "Ex funcionario Ruffo Appel posiblemente salga de El Altiplano para cumplir condena en domicilio.",
         "zona": "Baja California",
@@ -70,8 +150,49 @@
         "_added_at": "2026-09-23T00:51:22.076995-07:00"
       }
     ],
-    "economia": [],
+    "economia": [
+      {
+        "title": "Empresas manufactureras registran aumento de ingresos",
+        "summary": "Sector manufacturero en Tijuana reporta incremento en ingresos según declaraciones de líderes empresariales.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182023_registraron_un_aumento_en_sus_ingresos_las_empresas_manufactureras_kurt_honold",
+        "_added_at": "2026-09-23T12:35:37.801388-07:00"
+      },
+      {
+        "title": "Crecen ingresos de industria IMMEX en BC",
+        "summary": "Sector exportador IMMEX en Baja California muestra crecimiento en ingresos y operaciones del interior.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/23/crecen-ingresos-del-interior-de-la-industria-immex-en-bc/",
+        "_added_at": "2026-09-23T12:35:37.801388-07:00"
+      },
+      {
+        "title": "Desalinizadora de Rosarito no subirá tarifas de agua",
+        "summary": "Autoridades confirman que construcción de planta desaladora en Rosarito no impactará en tarifa del agua para consumidores.",
+        "zona": "Rosarito",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/rosarito/2026/09/23/desalinizadora-de-rosarito-no-aumentara-tarifas-de-agua-en-tijuana-rosarito-y-ensenada/",
+        "_added_at": "2026-09-23T12:35:37.801388-07:00"
+      }
+    ],
     "eventos": [
+      {
+        "title": "CETYS reúne líderes globales en 65 aniversario",
+        "summary": "Universidad CETYS convoca a líderes internacionales para diálogo sobre futuro de educación superior en Ensenada.",
+        "zona": "Ensenada",
+        "source": "EnsenadaHoy",
+        "url": "https://ensenadahoy.com/noticias/ver/6965",
+        "_added_at": "2026-09-23T12:35:37.801388-07:00"
+      },
+      {
+        "title": "Décimo Parlamento de las Juventudes en Tijuana",
+        "summary": "Comisión de Bienestar integra comité organizador para edición décima de Parlamento de Juventudes en Tijuana.",
+        "zona": "Tijuana",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/comision-de-bienestar-integra-comite-organizador-del-decimo-parlamento-de-las-juventudes/",
+        "_added_at": "2026-09-23T12:35:37.801388-07:00"
+      },
       {
         "title": "Pescadores de Ensenada culminan cursos de seguridad marítima",
         "summary": "Gremio pesquero completa capacitación en protocolos de seguridad en el mar.",
@@ -82,6 +203,30 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Proponen inspecciones trimestrales de casas hogar para adultos mayores",
+        "summary": "Legisladores proponen aumentar frecuencia de inspecciones a casas hogar de adultos mayores en BC a cada tres meses.",
+        "zona": "Baja California",
+        "source": "AGP Noticias",
+        "url": "https://agpnoticias.com/news/proponen-revisar-cada-tres-meses-las-casas-hogar-para-adultos-mayores-en-baja-california/",
+        "_added_at": "2026-09-23T12:35:37.801388-07:00"
+      },
+      {
+        "title": "Restricción de celulares en escuelas requiere apoyo parental",
+        "summary": "Presidente de escuelas particulares advierte que política de restricción de celulares necesita participación activa de padres.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/23/restriccion-de-celulares-en-escuelas-requiere-el-apoyo-de-padres-advierte-presidente-de-escuelas-particulares/",
+        "_added_at": "2026-09-23T12:35:37.801388-07:00"
+      },
+      {
+        "title": "Tijuana roza 2 millones de habitantes según Inegi",
+        "summary": "Instituto Nacional de Estadística confirma que Tijuana es el municipio más poblado de México con casi 2 millones habitantes.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/23/es-tijuan-el-municipio-mas-poblado-en-mexico-tiene-casi-2-millones-de-habitantes/",
+        "_added_at": "2026-09-23T12:35:37.801388-07:00"
+      },
       {
         "title": "Acumulación de basura preocupa en intersección de Tijuana",
         "summary": "Residuos acumulados en 5 y 10 generan molestia y preocupación ciudadana en Tijuana.",
@@ -124,5 +269,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-23T00:51:22.076995-07:00"
+  "last_updated": "2026-09-23T12:35:37.801388-07:00"
 }
