@@ -1,8 +1,64 @@
 {
   "date": "2026-09-24",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Fiscalía reporta 580 desaparecidos en Baja California",
+        "summary": "La FGE presentó cifras ante diputados sobre personas desaparecidas en la entidad durante la glosa de su tercer informe.",
+        "zona": "Baja California",
+        "source": "AGP Noticias",
+        "url": "https://agpnoticias.com/news/hay-580-personas-desaparecidas-en-baja-california-fiscalia-presenta-cifras-ante-diputados/",
+        "_added_at": "2026-09-24T12:54:41.804779-07:00"
+      },
+      {
+        "title": "Despliegan operativo con 500 agentes en Tijuana",
+        "summary": "Autoridades realizan operativo Playa de la Patria con más de 500 elementos de seguridad en la ciudad.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182077_despliegan_operativo_playa_de_la_patria_con_mas_de_500_agentes_en_tijuana",
+        "_added_at": "2026-09-24T12:54:41.804779-07:00"
+      },
+      {
+        "title": "Migrantes enfrentan acecho de cárteles en Tecate",
+        "summary": "Reportan que migrantes que cruzan por Tecate son perseguidos y extorsionados por organizaciones delictivas.",
+        "zona": "Tecate",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/tecate-migrantes-acechados-por-carteles/",
+        "_added_at": "2026-09-24T12:54:41.804779-07:00"
+      },
+      {
+        "title": "Asesinado empleado de pescadería en Ensenada",
+        "summary": "Un hombre fue asesinado a balazos frente a una pescadería del centro de Ensenada cuando abría el establecimiento.",
+        "zona": "Ensenada",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/ensenada/2026/09/24/asesinan-a-hombre-frente-a-pescaderia-en-zona-centro-de-ensenada-recibio-10-disparos/",
+        "_added_at": "2026-09-24T12:54:41.804779-07:00"
+      },
+      {
+        "title": "FGE creará unidad contra fraude inmobiliario",
+        "summary": "La Fiscalía General del Estado establecerá área especializada para investigar fraudes inmobiliarios vinculados a grupos delictivos.",
+        "zona": "Baja California",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/24/fge-creara-unidad-especial-contra-fraude-inmobiliario-ligado-a-grupos-delictivos/",
+        "_added_at": "2026-09-24T12:54:41.804779-07:00"
+      },
+      {
+        "title": "Ciudadana en huelga de hambre demanda atención fiscal",
+        "summary": "Persona inicia protesta frente a la FGE exigiendo que se atienda sus denuncias pendientes.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182078_inicia_huelga_de_hambre_frente_a_la_fge_exige_atencion_a_sus_denuncias",
+        "_added_at": "2026-09-24T12:54:41.804779-07:00"
+      },
+      {
+        "title": "Guardia Costera intercepta embarcación con migrantes",
+        "summary": "Autoridades marítimas detienen lancha con ocho personas que intentaban cruzar ilegalmente cerca de Point Loma.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/detienen-lancha-con-ocho-migrantes-en-point-loma-tras-cruce-ilegal/",
+        "_added_at": "2026-09-24T12:54:41.804779-07:00"
+      },
       {
         "title": "Hallan dos cuerpos con violencia en Río Tijuana",
         "summary": "Localizan dos cadáveres con signos de violencia en la canalización del Río Tijuana. Es el segundo hallazgo en la zona en dos días.",
@@ -46,6 +102,46 @@
     ],
     "politica": [
       {
+        "title": "Proponen desvinculación de seguridad turística del gobierno",
+        "summary": "Legisladores sugieren que seguridad en zonas turísticas no dependa de administración en turno para garantizar continuidad.",
+        "zona": "Ensenada",
+        "source": "AGP Noticias",
+        "url": "https://agpnoticias.com/news/proponen-que-la-seguridad-turistica-no-dependa-del-gobierno-en-turno/",
+        "_added_at": "2026-09-24T12:54:41.804779-07:00"
+      },
+      {
+        "title": "Amparos de Ruffo Appel centralizados en un juzgado",
+        "summary": "Determinan que recursos legales del exgobernador sean revisados por una sola instancia judicial.",
+        "zona": "Baja California",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/remiten-amparos-de-ernesto-ruffo-appel-a-un-solo-juzgado/",
+        "_added_at": "2026-09-24T12:54:41.804779-07:00"
+      },
+      {
+        "title": "Congreso analiza resultados de Fiscalía General",
+        "summary": "Diputados realizan glosa del tercer informe de la FGE revisando sus resultados y desempeño institucional.",
+        "zona": "Baja California",
+        "source": "Rada Noticias",
+        "url": "https://radanoticias.info/analiza-congreso-resultados-de-la-fge-durante-glosa-de-tercer-informe/",
+        "_added_at": "2026-09-24T12:54:41.804779-07:00"
+      },
+      {
+        "title": "Cabildo refuerza revisión de cuentas públicas municipales",
+        "summary": "Comisión de Fiscalización intensifica proceso de auditoría y análisis de gasto público municipal.",
+        "zona": "Tijuana",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/refuerza-comision-de-fiscalizacion-proceso-de-revision-de-cuentas-publicas/",
+        "_added_at": "2026-09-24T12:54:41.804779-07:00"
+      },
+      {
+        "title": "Roman Cota llama a unidad interna tras impugnación",
+        "summary": "Líder político hace llamado a la cohesión tras acciones de impugnación de candidata Eva.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182070_llama_roman_cota_a_la_unidad_interna_tras_impugnacion_de_eva",
+        "_added_at": "2026-09-24T12:54:41.804779-07:00"
+      },
+      {
         "title": "Activista critica actitud de diputados en comparecencia fiscal",
         "summary": "Activista cuestiona el comportamiento de diputados durante la presentación de la fiscal de Baja California.",
         "zona": "Baja California",
@@ -72,6 +168,30 @@
     ],
     "economia": [
       {
+        "title": "Industria cervecera busca certeza en Tijuana",
+        "summary": "Sectores productivos solicitan al gobierno claridad regulatoria y políticas de apoyo para esta importante industria.",
+        "zona": "Tijuana",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/24/buscan-dar-certeza-a-industria-cervecera-de-tijuana/",
+        "_added_at": "2026-09-24T12:54:41.804779-07:00"
+      },
+      {
+        "title": "Expo Construcción 2026 marca agenda en IA e infraestructura",
+        "summary": "Se inaugura exposición dedicada a innovación e inteligencia artificial en sector construcción de Tijuana.",
+        "zona": "Tijuana",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/24/inauguran-expo-construccion-tijuana-2026-ia-e-infraestructura-marcan-la-agenda/",
+        "_added_at": "2026-09-24T12:54:41.804779-07:00"
+      },
+      {
+        "title": "Línea Sentri saturada; buscan alternativas para cruces",
+        "summary": "Autoridades fronterizas trabajan en soluciones para agilizar congestionamiento en este importante carril de tránsito.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182075_saturada_la_linea_sentri_buscan_alternativas_para_agilizar_los_cruces",
+        "_added_at": "2026-09-24T12:54:41.804779-07:00"
+      },
+      {
         "title": "¿Adiós al dólar? Comercios rechazan pagos en dólares",
         "summary": "Establecimientos en Tijuana comienzan a rechazar dólares como medio de pago. Cambio en prácticas comerciales.",
         "zona": "Tijuana",
@@ -96,8 +216,49 @@
         "_added_at": "2026-09-24T00:41:19.211848-07:00"
       }
     ],
-    "eventos": [],
+    "eventos": [
+      {
+        "title": "Crucero Ovation of the Seas regresa tras modernización",
+        "summary": "Barco de pasajeros retorna a Ensenada después de completar trabajos de renovación y actualización.",
+        "zona": "Ensenada",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/09/24/ovation-of-the-seas-regresa-a-ensenada-tras-modernizacion/",
+        "_added_at": "2026-09-24T12:54:41.804779-07:00"
+      }
+    ],
     "sociedad": [
+      {
+        "title": "Autoridades advierten riesgos en playas de Baja California",
+        "summary": "Marina emite alerta sobre peligros en litoral estatal recomendando precaución a visitantes y bañistas.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182072_playas_de_bc_son_peligrosas_advierte_la_marina",
+        "_added_at": "2026-09-24T12:54:41.804779-07:00"
+      },
+      {
+        "title": "Persisten violencia y estereotipos contra mujeres",
+        "summary": "Funcionaria Marina del Pilar señala que continúan formas de discriminación y agresión contra población femenina.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182073_persisten_estereotipos_y_formas_de_violencia_contra_mujeres_marina_del_pilar",
+        "_added_at": "2026-09-24T12:54:41.804779-07:00"
+      },
+      {
+        "title": "Restaurantes piden regulación de vendedores ambulantes",
+        "summary": "Comerciantes formales solicitan normas para ordenar presencia de vendedores informales en banquetas de Tijuana.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/24/restauranteros-piden-reglas-para-ambulantes-y-negocios-que-ocupan-banquetas-en-tijuana/",
+        "_added_at": "2026-09-24T12:54:41.804779-07:00"
+      },
+      {
+        "title": "Municipio frena nuevos permisos para ambulantes",
+        "summary": "Gobierno de Tijuana detiene otorgamiento de nuevas autorizaciones a vendedores ambulantes tras quejas ciudadanas.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/24/quejas-ciudadanas-frenan-nuevos-permisos-para-ambulantes-en-tijuana-hay-17-mil-registrados/",
+        "_added_at": "2026-09-24T12:54:41.804779-07:00"
+      },
       {
         "title": "Incendio en guardería revela presunto club de pelea",
         "summary": "Autoridades investigan a maestra de guardería por organizar aparente club de pelea entre menores.",
@@ -132,5 +293,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-24T00:41:19.211848-07:00"
+  "last_updated": "2026-09-24T12:54:41.804779-07:00"
 }
