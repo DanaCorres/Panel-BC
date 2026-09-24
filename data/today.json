@@ -1,441 +1,136 @@
 {
-  "date": "2026-09-23",
-  "run_count": 3,
+  "date": "2026-09-24",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Fiscal compareció ante Congreso con protestas de colectivos de búsqueda",
-        "summary": "La fiscal se presentó ante legisladores en medio de manifestaciones de organizaciones que buscan personas desaparecidas en Baja California.",
+        "title": "Hallan dos cuerpos con violencia en Río Tijuana",
+        "summary": "Localizan dos cadáveres con signos de violencia en la canalización del Río Tijuana. Es el segundo hallazgo en la zona en dos días.",
         "zona": "Tijuana",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/182037_en_medio_de_protestas_de_colectivos_de_busqueda_la_fiscal_comparecio_ante_el_congreso",
-        "_added_at": "2026-09-23T17:20:26.655529-07:00"
-      },
-      {
-        "title": "Investigan negligencia en muerte de menor en escuela Amado Nervo",
-        "summary": "Secretaría de Educación abre investigación tras muerte de estudiante Christopher; padres habían alertado sobre falta de mantenimiento desde 2024.",
-        "zona": "Tijuana",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/por-muerte-de-christopher-secretaria-de-educacion-investigara-negligencia/?utm_source=rss&utm_medium=rss&utm_campaign=por-muerte-de-christopher-secretaria-de-educacion-investigara-negligencia",
-        "_added_at": "2026-09-23T17:20:26.655529-07:00"
-      },
-      {
-        "title": "Acribillan a subcomandante de Policía Municipal en Valle de Mexicali",
-        "summary": "Autoridades investigan entorno laboral del oficial asesinado; hay coordinación con Sonora para esclarecer el caso.",
-        "zona": "Mexicali",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/acribillan-a-subcomandante-de-la-policia-municipal-en-el-valle-de-mexicali/",
-        "_added_at": "2026-09-23T17:20:26.655529-07:00"
-      },
-      {
-        "title": "Detienen a sicario de los Chapitos en Valle de la Trinidad",
-        "summary": "Fuerzas de seguridad capturan presunto integrante de organización criminal en sector de riesgo.",
-        "zona": "Tijuana",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/detiene-la-fesc-a-sicario-de-los-chapitos-en-valle-de-la-trinidad/?utm_source=rss&utm_medium=rss&utm_campaign=detiene-la-fesc-a-sicario-de-los-chapitos-en-valle-de-la-trinidad",
-        "_added_at": "2026-09-23T17:20:26.655529-07:00"
-      },
-      {
-        "title": "Casi 8 mil desaparecidos acumulados en Baja California en 70 años",
-        "summary": "Estado y Federación revisan registros de personas desaparecidas para actualizar bases de datos y mejorar búsquedas.",
-        "zona": "Baja California",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/182027_hay_casi_8_mil_desaparecidos_y_no_encontrados_en_bc_en_70_anos",
-        "_added_at": "2026-09-23T17:20:26.655529-07:00"
-      },
-      {
-        "title": "Seis detenidos por fraude inmobiliario en Baja California",
-        "summary": "Operativo de autoridades detiene a presuntos defraudadores en transacciones de propiedad inmueble.",
-        "zona": "Baja California",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/23/seis-detenidos-en-bc-por-fraude-inmobiliario/",
-        "_added_at": "2026-09-23T17:20:26.655529-07:00"
-      },
-      {
-        "title": "FGE reporta caída de 25% en homicidios en BC",
-        "summary": "La Fiscalía General del Estado reporta disminución significativa en homicidios y refuerza estrategia contra feminicidios en Baja California.",
-        "zona": "Baja California",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/23/167512/",
-        "_added_at": "2026-09-23T12:35:37.801388-07:00"
-      },
-      {
-        "title": "Asesinato de subcomandante fue ataque directo: Fiscal",
-        "summary": "Fiscal confirma que muerte del subcomandante José Ramón Barajas en Tijuana fue ataque directo; no había amenazas previas registradas.",
-        "zona": "Tijuana",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/182021_fue_un_ataque_directo_el_asesinato_del_subcomandante_jose_ramon_barajas_fiscal",
-        "_added_at": "2026-09-23T12:35:37.801388-07:00"
-      },
-      {
-        "title": "Detienen tres presuntos sicarios con arsenal en Valle de Trinidad",
-        "summary": "Autoridades capturan a tres hombres con arsenal y chalecos tácticos en Valle de la Trinidad; operativo contra crimen organizado.",
-        "zona": "Tijuana",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/23/detienen-a-tres-presuntos-sicarios-con-arsenal-en-el-valle-de-la-trinidad/",
-        "_added_at": "2026-09-23T12:35:37.801388-07:00"
-      },
-      {
-        "title": "Buscan a familia desaparecida en Tijuana",
-        "summary": "Autoridades buscan a tres integrantes de una familia desaparecida en Tijuana, vistos por última vez en la zona de El Rubí.",
-        "zona": "Tijuana",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/tij/policiaca/2026/09/23/familia-desaparece-en-tijuana-buscan-a-tres-integrantes-vistos-por-ultima-vez-en-el-rubi/",
-        "_added_at": "2026-09-23T12:35:37.801388-07:00"
-      },
-      {
-        "title": "Menor de 15 años muere arrastrado por el mar en Tijuana",
-        "summary": "Localizan sin vida a menor que fue arrastrado por el mar en Playas de Tijuana; otro menor fue rescatado en el mismo incidente.",
-        "zona": "Tijuana",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/23/localizan-cuerpo-de-menor-de-15-anos-que-murio-tras-ser-arrastrado-por-el-mar-en-playas-de-tijuana/",
-        "_added_at": "2026-09-23T12:35:37.801388-07:00"
-      },
-      {
-        "title": "Campaña de canje de armas por dinero en Mexicali",
-        "summary": "Arranca programa de canje de armas por dinero en Mexicali como medida de política de seguridad pública.",
-        "zona": "Mexicali",
         "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/99773/Arranca-en-Mexicali-campa%C3%B1a-de-canje-de-armas-por-dinero",
-        "_added_at": "2026-09-23T12:35:37.801388-07:00"
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/99801/Localizan-dos-cuerpos-con-huellas-de-violencia-en-la-canalizaci%C3%B3n-del-R%C3%ADo-Tijuana",
+        "_added_at": "2026-09-24T00:41:19.211848-07:00"
       },
       {
-        "title": "Operativo contra drones no autorizados en Tijuana concluye",
-        "summary": "Autoridades concluyeron operativo \"Águila Alta\" inhabilitando 5 drones irregulares en la ciudad.",
+        "title": "Familia desaparece en Tijuana tras dejar colonia El Rubí",
+        "summary": "Familia reportada desaparecida después de salir de la colonia El Rubí. Autoridades investigan las circunstancias del caso.",
         "zona": "Tijuana",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181997_concluye_operativo_aguila_alta_inhabilitaron_5_drones",
-        "_added_at": "2026-09-23T00:51:22.076995-07:00"
-      },
-      {
-        "title": "Asesinato en Ensenada: hombre muere por disparo",
-        "summary": "Hombre fue asesinado a balazos en Juan Diego Residencial de Ensenada.",
-        "zona": "Ensenada",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/99751/Asesinan-a-balazos-a-hombre-en-Juan-Diego-Residencial-en-Ensenada",
-        "_added_at": "2026-09-23T00:51:22.076995-07:00"
-      },
-      {
-        "title": "Subcomandante policial asesinado en Valle de Mexicali",
-        "summary": "Ataque armado en Valle de Mexicali causa muerte de subcomandante policial.",
-        "zona": "Mexicali",
         "source": "TV Azteca BC",
-        "url": "https://www.tvaztecabajacalifornia.com/noticias/ataque-armado-en-el-valle-de-mexicali-asesinan-a-balazos-a-subcomandante-policial/",
-        "_added_at": "2026-09-23T00:51:22.076995-07:00"
+        "url": "https://www.tvaztecabajacalifornia.com/noticias/familia-desaparece-en-tijuana-tras-salir-de-la-colonia-el-rubi-esto-es-lo-que-se-sabe/",
+        "_added_at": "2026-09-24T00:41:19.211848-07:00"
+      },
+      {
+        "title": "Investigan muerte de estudiante por estructura de basquetbol",
+        "summary": "Autoridades abren investigación sobre la muerte de un alumno tras caída de estructura en primaria de Tijuana.",
+        "zona": "Tijuana",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99787/Investigan-responsabilidades-tras-la-muerte-del-estudiante-que-le-cay%C3%B3-una-estructura-de-b%C3%A1squetbol-en-primaria-de-Tijuana",
+        "_added_at": "2026-09-24T00:41:19.211848-07:00"
+      },
+      {
+        "title": "Sigue abierta investigación contra exdirector policía Mexicali",
+        "summary": "Fiscal confirma que continúa la investigación contra el anterior director de la Policía Municipal de Mexicali.",
+        "zona": "Mexicali",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182040_sigue_abierta_la_investigacion_contra_el_exdirector_de_la_policia_municipal_de_mexicali_fiscal",
+        "_added_at": "2026-09-24T00:41:19.211848-07:00"
+      },
+      {
+        "title": "Hallan con vida a desaparecido en Mexicali",
+        "summary": "Persona reportada desaparecida es localizada con vida en un centro de rehabilitación en Mexicali.",
+        "zona": "Mexicali",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182039_hallan_con_vida_a_desaparecido_en_mexicali_estaba_en_un_centro_de_rehabilitacion",
+        "_added_at": "2026-09-24T00:41:19.211848-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Gobernadora avala resultado de encuesta de Morena para candidaturas",
-        "summary": "Marina del Pilar respalda legitimidad del proceso de selección interno de la morenista para definir postulantes.",
-        "zona": "Baja California",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/mxl/mexicali/2026/09/23/gobernadora-de-bc-considera-legitimo-resultado-de-encuesta-de-morena/",
-        "_added_at": "2026-09-23T17:20:26.655529-07:00"
-      },
-      {
-        "title": "Regidor denuncia falta de transparencia en presupuesto de Mexicali",
-        "summary": "Legislador municipal critica que gobierno no informa sobre uso y ejercicio de recursos públicos.",
-        "zona": "Mexicali",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/municipios/182036_denuncia_regidor_que_el_gobierno_de_mexicali_no_informa_sobre_el_uso_del_presupuesto",
-        "_added_at": "2026-09-23T17:20:26.655529-07:00"
-      },
-      {
-        "title": "Desaladora de Rosarito será financiada con recursos públicos: Marina",
-        "summary": "Gobernadora confirma que proyecto de infraestructura hídrica correrá a cargo del estado.",
-        "zona": "Rosarito",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/desaladora-de-rosarito-sera-financiada-con-recursos-publicos-marina-del-pilar/",
-        "_added_at": "2026-09-23T17:20:26.655529-07:00"
-      },
-      {
-        "title": "PT denuncia incumplimiento de Morena en designación de coordinadores",
-        "summary": "Partido del Trabajo reclama a morenistas por falta de acuerdos en asignación de cargos.",
+        "title": "Activista critica actitud de diputados en comparecencia fiscal",
+        "summary": "Activista cuestiona el comportamiento de diputados durante la presentación de la fiscal de Baja California.",
         "zona": "Baja California",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/182026_se_queja_el_pt_morena_ha_incumplido_con_designacion_de_coordinadores",
-        "_added_at": "2026-09-23T17:20:26.655529-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/182046_critica_activista_la_actitud_de_diputados_durante_comparecencia_de_la_fiscal",
+        "_added_at": "2026-09-24T00:41:19.211848-07:00"
       },
       {
-        "title": "Montserrat Caballero se queda fuera de la coalición",
-        "summary": "Exgobernadora Montserrat Caballero queda excluida de coalición electoral en Baja California; afecta dinámicas políticas locales.",
-        "zona": "Baja California",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/montserrat-caballero-se-queda-fuera-de-la-coalicion/",
-        "_added_at": "2026-09-23T12:35:37.801388-07:00"
-      },
-      {
-        "title": "Proponen incluir turismo en Constitución de BC",
-        "summary": "Legisladores proponen reforma constitucional para incluir turismo como sector estratégico en Baja California.",
-        "zona": "Baja California",
-        "source": "AGP Noticias",
-        "url": "https://agpnoticias.com/news/proponen-incluir-el-turismo-en-la-constitucion-de-baja-california/",
-        "_added_at": "2026-09-23T12:35:37.801388-07:00"
-      },
-      {
-        "title": "Diputado Razo promueve regulación contra fraudes inmobiliarios",
-        "summary": "Legislador presenta iniciativa para fortalecer marco legal contra fraudes en el sector inmobiliario de Baja California.",
-        "zona": "Baja California",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/estatal/2026/09/23/diputado-razo-promueve-nueva-regulacion-contra-fraudes-inmobiliarios/",
-        "_added_at": "2026-09-23T12:35:37.801388-07:00"
-      },
-      {
-        "title": "Revisión de prisión preventiva de Ernesto Ruffo este viernes",
-        "summary": "Próxima audiencia del viernes determinará si Ernesto Ruffo obtiene prisión domiciliaria o preventiva.",
-        "zona": "Baja California",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/proximo-viernes-se-revisara-la-prision-preventiva-de-ernesto-ruffo/?utm_source=rss&utm_medium=rss&utm_campaign=proximo-viernes-se-revisara-la-prision-preventiva-de-ernesto-ruffo",
-        "_added_at": "2026-09-23T12:35:37.801388-07:00"
-      },
-      {
-        "title": "Ruffo Appel podría obtener prisión domiciliaria esta semana",
-        "summary": "Ex funcionario Ruffo Appel posiblemente salga de El Altiplano para cumplir condena en domicilio.",
+        "title": "Senador Max García propone reformas al Código Penal",
+        "summary": "Senador Max García presenta propuesta de modificaciones al Código Nacional de Procedimientos Penales.",
         "zona": "Baja California",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181996_ruffo_appel_podria_tener_prision_domiciliaria_esperan_confirmacion",
-        "_added_at": "2026-09-23T00:51:22.076995-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/182043_senador_max_garcia_propone_cambios_al_codigo_nacional_de_procedimientos_penales",
+        "_added_at": "2026-09-24T00:41:19.211848-07:00"
       },
       {
-        "title": "Eva Moreno impugna designación de Julieta como coordinadora",
-        "summary": "Conflicto interno en Morena: Eva Moreno cuestiona nombramiento de Julieta como coordinadora.",
-        "zona": "Tijuana",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181993_impugna_eva_moreno_la_designacion_de_julieta_como_coordinadora",
-        "_added_at": "2026-09-23T00:51:22.076995-07:00"
-      },
-      {
-        "title": "Encuesta de Morena revela resultados para Baja California",
-        "summary": "Partido Morena publica resultados de sondeo para candidaturas en la entidad.",
+        "title": "Inconformidad de Eva y reclamos del PT",
+        "summary": "Conflicto político entre actores locales. Partido del Trabajo formula demandas sobre gestión actual.",
         "zona": "Baja California",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/afn_politico/181989_los_resultados_de_la_encuesta_de_morena_para_baja_california",
-        "_added_at": "2026-09-23T00:51:22.076995-07:00"
+        "url": "https://www.afntijuana.info/afn_politico/182041_la_inconformidad_de_eva_y_los_reclamos_del_pt",
+        "_added_at": "2026-09-24T00:41:19.211848-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Ensenada acumula mil 800 mdp de cartera vencida en predial",
-        "summary": "Ayuntamiento arrastra rezago importante en cobro de contribuciones inmobiliarias.",
-        "zona": "Ensenada",
-        "source": "Rada Noticias",
-        "url": "https://radanoticias.info/arrastra-ayuntamiento-de-ensenada-rezago-de-mil-800-mdp-en-predial/",
-        "_added_at": "2026-09-23T17:20:26.655529-07:00"
-      },
-      {
-        "title": "Industria IMMEX de Baja California incrementa ingresos del exterior",
-        "summary": "Sectores manufactureros registran crecimiento en exportaciones y movimiento comercial.",
-        "zona": "Baja California",
-        "source": "Argumento Noticias",
-        "url": "https://argumentonoticias.com/2026/09/23/crecen-los-ingresos-del-exterior-de-la-industria-immex-en-baja-california/",
-        "_added_at": "2026-09-23T17:20:26.655529-07:00"
-      },
-      {
-        "title": "Concluyó regularización de vehículos pero no repunta venta de extranjeros",
-        "summary": "Programa de legalización de autos chocolates finaliza sin impacto esperado en mercado automotriz.",
+        "title": "¿Adiós al dólar? Comercios rechazan pagos en dólares",
+        "summary": "Establecimientos en Tijuana comienzan a rechazar dólares como medio de pago. Cambio en prácticas comerciales.",
         "zona": "Tijuana",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/182031_concluyo_regularizacion_de_chocolates_pero_no_repunta_ventas_de_autos_extranjeros",
-        "_added_at": "2026-09-23T17:20:26.655529-07:00"
+        "source": "TV Azteca BC",
+        "url": "https://www.tvaztecabajacalifornia.com/noticias/adios-al-dolar-en-tijuana-comienzan-a-rechazar-pagos-en-dolares/",
+        "_added_at": "2026-09-24T00:41:19.211848-07:00"
       },
       {
-        "title": "Empresas manufactureras registran aumento de ingresos",
-        "summary": "Sector manufacturero en Tijuana reporta incremento en ingresos según declaraciones de líderes empresariales.",
+        "title": "Denuncian cobros excesivos en transporte público Tijuana",
+        "summary": "Usuarios reportan tarifas de hasta 20 pesos en el transporte colectivo de Tijuana, por encima de lo establecido.",
         "zona": "Tijuana",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/182023_registraron_un_aumento_en_sus_ingresos_las_empresas_manufactureras_kurt_honold",
-        "_added_at": "2026-09-23T12:35:37.801388-07:00"
+        "source": "TV Azteca BC",
+        "url": "https://www.tvaztecabajacalifornia.com/noticias/usuarios-denuncian-cobros-de-hasta-20-pesos-en-transporte-publico-en-tijuana/",
+        "_added_at": "2026-09-24T00:41:19.211848-07:00"
       },
       {
-        "title": "Crecen ingresos de industria IMMEX en BC",
-        "summary": "Sector exportador IMMEX en Baja California muestra crecimiento en ingresos y operaciones del interior.",
-        "zona": "Baja California",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/23/crecen-ingresos-del-interior-de-la-industria-immex-en-bc/",
-        "_added_at": "2026-09-23T12:35:37.801388-07:00"
-      },
-      {
-        "title": "Desalinizadora de Rosarito no subirá tarifas de agua",
-        "summary": "Autoridades confirman que construcción de planta desaladora en Rosarito no impactará en tarifa del agua para consumidores.",
-        "zona": "Rosarito",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/tij/rosarito/2026/09/23/desalinizadora-de-rosarito-no-aumentara-tarifas-de-agua-en-tijuana-rosarito-y-ensenada/",
-        "_added_at": "2026-09-23T12:35:37.801388-07:00"
-      }
-    ],
-    "eventos": [
-      {
-        "title": "Festival Internacional de Jazz de UABC en Riviera de Ensenada",
-        "summary": "Evento cultural reúne a artistas locales e internacionales en venue costero destacado.",
-        "zona": "Ensenada",
-        "source": "Argumento Noticias",
-        "url": "https://argumentonoticias.com/2026/09/23/festival-internacional-de-jazz-de-la-uabc-llegara-al-riviera-de-ensenada/",
-        "_added_at": "2026-09-23T17:20:26.655529-07:00"
-      },
-      {
-        "title": "Anuncian Copa Zonkeys 2026 de futbol",
-        "summary": "Torneo deportivo confirma fechas y participantes para competencia de futsal regional.",
-        "zona": "Baja California",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/anuncian-copa-zonkeys-2026/?utm_source=rss&utm_medium=rss&utm_campaign=anuncian-copa-zonkeys-2026",
-        "_added_at": "2026-09-23T17:20:26.655529-07:00"
-      },
-      {
-        "title": "Olimpiada Nacional 2027 confirmará fechas y sede en Baja California",
-        "summary": "Anuncian detalles del evento nacional de competencia atlética a realizarse en la región.",
-        "zona": "Tijuana",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/anuncian-fechas-para-la-olimpiada-nacional-de-2027/?utm_source=rss&utm_medium=rss&utm_campaign=anuncian-fechas-para-la-olimpiada-nacional-de-2027",
-        "_added_at": "2026-09-23T17:20:26.655529-07:00"
-      },
-      {
-        "title": "Paseo ciclista Rosarito-Ensenada apoya a niños con cáncer",
-        "summary": "Fundación Castro Limón organiza evento deportivo de recaudación para causa social.",
-        "zona": "Rosarito",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/23/fundacion-castro-limon-realizara-paseo-ciclista-rosarito-ensenada-para-apoyar-a-ninos-con-cancer/",
-        "_added_at": "2026-09-23T17:20:26.655529-07:00"
-      },
-      {
-        "title": "Anuncian Foro Eleva Mexicali 2026 de negocios e innovación",
-        "summary": "Evento convoca a empresarios y profesionales para dialogar sobre desarrollo económico local.",
+        "title": "Gobierno de Mexicali sin recuperar dinero decomisado en EUA",
+        "summary": "Ang Hernández reporta que fondos confiscados en Estados Unidos aún no son devueltos a Mexicali.",
         "zona": "Mexicali",
         "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/99795/Anuncian-Foro-Eleva-Mexicali-2026",
-        "_added_at": "2026-09-23T17:20:26.655529-07:00"
-      },
-      {
-        "title": "CETYS reúne líderes globales en 65 aniversario",
-        "summary": "Universidad CETYS convoca a líderes internacionales para diálogo sobre futuro de educación superior en Ensenada.",
-        "zona": "Ensenada",
-        "source": "EnsenadaHoy",
-        "url": "https://ensenadahoy.com/noticias/ver/6965",
-        "_added_at": "2026-09-23T12:35:37.801388-07:00"
-      },
-      {
-        "title": "Décimo Parlamento de las Juventudes en Tijuana",
-        "summary": "Comisión de Bienestar integra comité organizador para edición décima de Parlamento de Juventudes en Tijuana.",
-        "zona": "Tijuana",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/comision-de-bienestar-integra-comite-organizador-del-decimo-parlamento-de-las-juventudes/",
-        "_added_at": "2026-09-23T12:35:37.801388-07:00"
-      },
-      {
-        "title": "Pescadores de Ensenada culminan cursos de seguridad marítima",
-        "summary": "Gremio pesquero completa capacitación en protocolos de seguridad en el mar.",
-        "zona": "Ensenada",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181992_culminan_pescadores_de_ensenada_cursos_de_seguridad_maritima_claudia_agaton",
-        "_added_at": "2026-09-23T00:51:22.076995-07:00"
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/99788/Sin-recuperar-el-dinero-decomisado-en-EUA%3A-Ang-Hern%C3%A1ndez",
+        "_added_at": "2026-09-24T00:41:19.211848-07:00"
       }
     ],
+    "eventos": [],
     "sociedad": [
       {
-        "title": "DIF Ensenada entrega lentes a adultos mayores con Club de Leones",
-        "summary": "Programa de salud visual beneficia a 41 adultos mayores de la localidad.",
-        "zona": "Ensenada",
-        "source": "EnsenadaHoy",
-        "url": "https://ensenadahoy.com/noticias/ver/6967",
-        "_added_at": "2026-09-23T17:20:26.655529-07:00"
-      },
-      {
-        "title": "CETYS reúne líderes globales para diálogo sobre educación superior",
-        "summary": "Universidad celebra 65 aniversario con conferencia internacional sobre futuro de la enseñanza.",
-        "zona": "Ensenada",
-        "source": "EnsenadaHoy",
-        "url": "https://ensenadahoy.com/noticias/ver/6965",
-        "_added_at": "2026-09-23T17:20:26.655529-07:00"
-      },
-      {
-        "title": "Caracol Museo incorpora energía solar con apoyo de Fundación Sempra",
-        "summary": "Centro científico implementa sistema sustentable de generación eléctrica.",
+        "title": "Incendio en guardería revela presunto club de pelea",
+        "summary": "Autoridades investigan a maestra de guardería por organizar aparente club de pelea entre menores.",
         "zona": "Baja California",
-        "source": "Argumento Noticias",
-        "url": "https://argumentonoticias.com/2026/09/23/caracol-museo-de-ciencias-incorpora-energia-solar-con-apoyo-de-fundacion-sempra/",
-        "_added_at": "2026-09-23T17:20:26.655529-07:00"
-      },
-      {
-        "title": "Convocan acopio masivo de residuos en San Quintín",
-        "summary": "Iniciativa ambiental promueve recolección organizada de desechos en la localidad.",
-        "zona": "San Quintín",
-        "source": "Argumento Noticias",
-        "url": "https://argumentonoticias.com/2026/09/23/convocan-a-acopio-masivo-de-residuos-en-san-quintin/",
-        "_added_at": "2026-09-23T17:20:26.655529-07:00"
-      },
-      {
-        "title": "Presentan ruta wellness en Valle de Guadalupe para bienestar",
-        "summary": "Iniciativa turística integra experiencias de salud, naturaleza y productos locales.",
-        "zona": "Ensenada",
-        "source": "Argumento Noticias",
-        "url": "https://argumentonoticias.com/2026/09/23/presentan-ruta-wellness-para-recorrer-el-valle-de-guadalupe-entre-bienestar-y-experiencias-locales/",
-        "_added_at": "2026-09-23T17:20:26.655529-07:00"
-      },
-      {
-        "title": "Proponen inspecciones trimestrales de casas hogar para adultos mayores",
-        "summary": "Legisladores proponen aumentar frecuencia de inspecciones a casas hogar de adultos mayores en BC a cada tres meses.",
-        "zona": "Baja California",
-        "source": "AGP Noticias",
-        "url": "https://agpnoticias.com/news/proponen-revisar-cada-tres-meses-las-casas-hogar-para-adultos-mayores-en-baja-california/",
-        "_added_at": "2026-09-23T12:35:37.801388-07:00"
-      },
-      {
-        "title": "Restricción de celulares en escuelas requiere apoyo parental",
-        "summary": "Presidente de escuelas particulares advierte que política de restricción de celulares necesita participación activa de padres.",
-        "zona": "Baja California",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/23/restriccion-de-celulares-en-escuelas-requiere-el-apoyo-de-padres-advierte-presidente-de-escuelas-particulares/",
-        "_added_at": "2026-09-23T12:35:37.801388-07:00"
-      },
-      {
-        "title": "Tijuana roza 2 millones de habitantes según Inegi",
-        "summary": "Instituto Nacional de Estadística confirma que Tijuana es el municipio más poblado de México con casi 2 millones habitantes.",
-        "zona": "Tijuana",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/23/es-tijuan-el-municipio-mas-poblado-en-mexico-tiene-casi-2-millones-de-habitantes/",
-        "_added_at": "2026-09-23T12:35:37.801388-07:00"
-      },
-      {
-        "title": "Acumulación de basura preocupa en intersección de Tijuana",
-        "summary": "Residuos acumulados en 5 y 10 generan molestia y preocupación ciudadana en Tijuana.",
-        "zona": "Tijuana",
         "source": "TV Azteca BC",
-        "url": "https://www.tvaztecabajacalifornia.com/noticias/basura-acumulada-en-la-5-y-10-de-tijuana-genera-molestia-y-preocupacion-entre-la-ciudadania/",
-        "_added_at": "2026-09-23T00:51:22.076995-07:00"
+        "url": "https://www.tvaztecabajacalifornia.com/noticias/video-revelan-presunto-club-de-pelea-organizado-por-maestra-en-guarderia/",
+        "_added_at": "2026-09-24T00:41:19.211848-07:00"
       },
       {
-        "title": "Escuela de Ensenada restringe atuendo de madres de familia",
-        "summary": "Institución educativa de Ensenada prohíbe leggins, tops y minifaldas a padres en instalaciones.",
-        "zona": "Ensenada",
+        "title": "Fallece adulto mayor atrapado en incendio Mexicali",
+        "summary": "Persona de edad avanzada pierde la vida al quedar atrapada en incendio de vivienda en Mexicali.",
+        "zona": "Mexicali",
         "source": "TV Azteca BC",
-        "url": "https://www.tvaztecabajacalifornia.com/noticias/prohiben-leggins-tops-y-minifaldas-a-madres-de-familia-en-escuela-de-ensenada/",
-        "_added_at": "2026-09-23T00:51:22.076995-07:00"
+        "url": "https://www.tvaztecabajacalifornia.com/noticias/tragedia-en-mexicali-fallece-adulto-mayor-tras-quedar-atrapado-en-incendio/",
+        "_added_at": "2026-09-24T00:41:19.211848-07:00"
       },
       {
-        "title": "Primaria en Capistrano toma acciones para mejorar seguridad",
-        "summary": "Institución educativa en Tijuana coloca candados y asegura instalaciones.",
+        "title": "Hombre arrastrado por corriente en canal de Mexicali",
+        "summary": "Encuentran sin vida a hombre arrastrado por la corriente en un canal de Mexicali.",
+        "zona": "Mexicali",
+        "source": "TV Azteca BC",
+        "url": "https://www.tvaztecabajacalifornia.com/policiaca/encuentran-sin-vida-a-hombre-arrastrado-por-la-corriente-en-un-canal-en-mexicali/",
+        "_added_at": "2026-09-24T00:41:19.211848-07:00"
+      },
+      {
+        "title": "Rehabilita gobierno cancha deportiva en San Antonio Minas",
+        "summary": "Administración de Claudia Agatón restaura instalación deportiva en San Antonio de las Minas, Tijuana.",
         "zona": "Tijuana",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/181998_toman_instalaciones_y_colocan_candados_en_primaria_de_la_colonia_capistrano",
-        "_added_at": "2026-09-23T00:51:22.076995-07:00"
-      },
-      {
-        "title": "ORAR busca personas que han perdido orientación en Tijuana",
-        "summary": "Organización asiste a personas extraviadas que desconocen cómo regresar a sus hogares.",
-        "zona": "Tijuana",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99748/ORAR-busca-en-Tijuana-a-quienes-perdieron-el-camino-de-regreso-a-casa",
-        "_added_at": "2026-09-23T00:51:22.076995-07:00"
-      },
-      {
-        "title": "Especialistas advierten sobre aumento de virus respiratorios",
-        "summary": "Con llegada del otoño, expertos alertan incremento de resfriados y padecimientos respiratorios.",
-        "zona": "Baja California",
-        "source": "TV Azteca BC",
-        "url": "https://www.tvaztecabajacalifornia.com/noticias/llega-el-otono-y-suben-los-resfriados-especialistas-alertan-sobre-virus-respiratorios/",
-        "_added_at": "2026-09-23T00:51:22.076995-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/182044_rehabilita_cancha_deportiva_en_san_antonio_de_las_minas_el_gobierno_de_claudia_agaton",
+        "_added_at": "2026-09-24T00:41:19.211848-07:00"
       }
     ]
   },
-  "last_updated": "2026-09-23T17:20:26.655529-07:00"
+  "last_updated": "2026-09-24T00:41:19.211848-07:00"
 }
