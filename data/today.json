@@ -1,8 +1,64 @@
 {
   "date": "2026-09-24",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Policías de Tecate captados recibiendo soborno en video",
+        "summary": "Elementos municipales recientemente egresados son video grabados aceptando dinero ilícito.",
+        "zona": "Tecate",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/en-tecate-policias-municipales-recien-egresados-son-captados-en-video-recibiendo-moche/?utm_source=rss&utm_medium=rss&utm_campaign=en-tecate-policias-municipales-recien-egresados-son-captados-en-video-recibiendo-moche",
+        "_added_at": "2026-09-24T17:24:38.216564-07:00"
+      },
+      {
+        "title": "Inhabilitan campamento criminal en serranía de Zapopan",
+        "summary": "Autoridades desmantelan centro de operaciones criminal en zona serrana.",
+        "zona": "Baja California",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/inhabilitan-campamento-criminal-en-serrania-de-zapopan/?utm_source=rss&utm_medium=rss&utm_campaign=inhabilitan-campamento-criminal-en-serrania-de-zapopan",
+        "_added_at": "2026-09-24T17:24:38.216564-07:00"
+      },
+      {
+        "title": "Detienen a \"Peso Pluma\" en Ensenada con armas de fuego",
+        "summary": "Capturan presunto delincuente señalado por extorsión, cobro de piso y operación de patrullas clonadas.",
+        "zona": "Ensenada",
+        "source": "TV Azteca BC",
+        "url": "https://www.tvaztecabajacalifornia.com/policiaca/cae-peso-pluma-en-ensenada-con-armas-lo-senalan-por-cobro-de-piso-con-patrullas-clonadas/",
+        "_added_at": "2026-09-24T17:24:38.216564-07:00"
+      },
+      {
+        "title": "Catean negocio Smoke Shop en Ensenada",
+        "summary": "Operativo contra establecimiento sospechoso de comercio ilícito en la ciudad.",
+        "zona": "Ensenada",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/catean-negocio-smoke-shop-en-ensenada/?utm_source=rss&utm_medium=rss&utm_campaign=catean-negocio-smoke-shop-en-ensenada",
+        "_added_at": "2026-09-24T17:24:38.216564-07:00"
+      },
+      {
+        "title": "Detienen jefe de plaza de Los Mayos en Mexicali",
+        "summary": "Capturan presunto líder operativo del cártel en ciudad fronteriza.",
+        "zona": "Mexicali",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/182085_detienen_en_mexicali_a_jefe_de_plaza_de_los_mayos_en_puerto_penasco",
+        "_added_at": "2026-09-24T17:24:38.216564-07:00"
+      },
+      {
+        "title": "Interceptan embarcación con ocho migrantes en Point Loma",
+        "summary": "Autoridades detienen lancha con presuntos migrantes tras cruce ilegal desde aguas fronterizas.",
+        "zona": "Tijuana",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/09/24/interceptan-embarcacion-con-ocho-presuntos-migrantes-cerca-de-point-loma/",
+        "_added_at": "2026-09-24T17:24:38.216564-07:00"
+      },
+      {
+        "title": "FGE refuerza centros C5 para atención ciudadana y respuesta",
+        "summary": "Fiscalía fortalece capacidad operativa de centros de control y coordinación.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/24/robustece-fge-atencion-ciudadana-y-capacidad-de-respuesta-a-traves-de-los-centros-c5/",
+        "_added_at": "2026-09-24T17:24:38.216564-07:00"
+      },
       {
         "title": "Fiscalía reporta 580 desaparecidos en Baja California",
         "summary": "La FGE presentó cifras ante diputados sobre personas desaparecidas en la entidad durante la glosa de su tercer informe.",
@@ -66,41 +122,33 @@
         "source": "El Mexicano",
         "url": "https://el-mexicano.com.mx/Noticia/Policiaca/99801/Localizan-dos-cuerpos-con-huellas-de-violencia-en-la-canalizaci%C3%B3n-del-R%C3%ADo-Tijuana",
         "_added_at": "2026-09-24T00:41:19.211848-07:00"
-      },
-      {
-        "title": "Familia desaparece en Tijuana tras dejar colonia El Rubí",
-        "summary": "Familia reportada desaparecida después de salir de la colonia El Rubí. Autoridades investigan las circunstancias del caso.",
-        "zona": "Tijuana",
-        "source": "TV Azteca BC",
-        "url": "https://www.tvaztecabajacalifornia.com/noticias/familia-desaparece-en-tijuana-tras-salir-de-la-colonia-el-rubi-esto-es-lo-que-se-sabe/",
-        "_added_at": "2026-09-24T00:41:19.211848-07:00"
-      },
-      {
-        "title": "Investigan muerte de estudiante por estructura de basquetbol",
-        "summary": "Autoridades abren investigación sobre la muerte de un alumno tras caída de estructura en primaria de Tijuana.",
-        "zona": "Tijuana",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99787/Investigan-responsabilidades-tras-la-muerte-del-estudiante-que-le-cay%C3%B3-una-estructura-de-b%C3%A1squetbol-en-primaria-de-Tijuana",
-        "_added_at": "2026-09-24T00:41:19.211848-07:00"
-      },
-      {
-        "title": "Sigue abierta investigación contra exdirector policía Mexicali",
-        "summary": "Fiscal confirma que continúa la investigación contra el anterior director de la Policía Municipal de Mexicali.",
-        "zona": "Mexicali",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/182040_sigue_abierta_la_investigacion_contra_el_exdirector_de_la_policia_municipal_de_mexicali_fiscal",
-        "_added_at": "2026-09-24T00:41:19.211848-07:00"
-      },
-      {
-        "title": "Hallan con vida a desaparecido en Mexicali",
-        "summary": "Persona reportada desaparecida es localizada con vida en un centro de rehabilitación en Mexicali.",
-        "zona": "Mexicali",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/182039_hallan_con_vida_a_desaparecido_en_mexicali_estaba_en_un_centro_de_rehabilitacion",
-        "_added_at": "2026-09-24T00:41:19.211848-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Seis aspirantes avanzan por Auditoría Superior de BC",
+        "summary": "Proceso de selección del titular de la institución avanza con candidatos preseleccionados.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/estatal/2026/09/24/seis-aspirantes-avanzan-por-la-titularidad-de-la-auditoria-superior-de-bc/",
+        "_added_at": "2026-09-24T17:24:38.216564-07:00"
+      },
+      {
+        "title": "Regidores proponen revertir terreno del CEARTE al Poder Judicial",
+        "summary": "Cabildo busca anular asignación de predio artístico a autoridades judiciales.",
+        "zona": "Ensenada",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/09/24/regidores-proponen-revertir-asignacion-de-terreno-del-ceart-al-poder-judicial/",
+        "_added_at": "2026-09-24T17:24:38.216564-07:00"
+      },
+      {
+        "title": "PT endurece postura; en BC parece haber tregua",
+        "summary": "Partido del Trabajo radicaliza posición nacional mientras mantiene relativa calma estatal.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/afn_politico/182096_pt_endurece_su_postura_en_baja_california_parece_haber_tregua",
+        "_added_at": "2026-09-24T17:24:38.216564-07:00"
+      },
       {
         "title": "Proponen desvinculación de seguridad turística del gobierno",
         "summary": "Legisladores sugieren que seguridad en zonas turísticas no dependa de administración en turno para garantizar continuidad.",
@@ -168,6 +216,38 @@
     ],
     "economia": [
       {
+        "title": "BC impulsa transporte sustentable para industria maquiladora",
+        "summary": "Gobierno promueve soluciones ecológicas de movilidad laboral para manufactureras.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/estatal/2026/09/24/baja-california-impulsa-un-transporte-sustentable-para-la-industria-maquiladora/",
+        "_added_at": "2026-09-24T17:24:38.216564-07:00"
+      },
+      {
+        "title": "Advierten escalamiento de huelga en Telnor el 5 octubre",
+        "summary": "Sindicato exige reinstalación de 200 trabajadores despedidos en empresa telecomunicaciones.",
+        "zona": "Baja California",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/99844/Advierten-escalamiento-de-huelga-en-Telnor-el-5-de-octubre;-exigen-reinstalar-a-200-trabajadores",
+        "_added_at": "2026-09-24T17:24:38.216564-07:00"
+      },
+      {
+        "title": "Acuden 500 solicitantes a feria de empleo de CANACO Mexicali",
+        "summary": "Evento de colocación laboral atrae importante cantidad de candidatos.",
+        "zona": "Mexicali",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/99840/Acuden-500-solicitantes-a-la-feria-del-empleo-CANACO",
+        "_added_at": "2026-09-24T17:24:38.216564-07:00"
+      },
+      {
+        "title": "Exigen tarifa eléctrica 1G para Mexicali ante altos cobros",
+        "summary": "Ciudadanos reclaman reducción de tarifas debido a incrementos en recibos.",
+        "zona": "Mexicali",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/99834/Exigen-tarifa-el%C3%A9ctrica-1G-para-Mexicali-ante-altos-cobros",
+        "_added_at": "2026-09-24T17:24:38.216564-07:00"
+      },
+      {
         "title": "Industria cervecera busca certeza en Tijuana",
         "summary": "Sectores productivos solicitan al gobierno claridad regulatoria y políticas de apoyo para esta importante industria.",
         "zona": "Tijuana",
@@ -218,6 +298,38 @@
     ],
     "eventos": [
       {
+        "title": "Festival Raztlán: 20 años de reggae en la frontera",
+        "summary": "Evento musical celebra dos décadas como referente de este género en región.",
+        "zona": "Tijuana",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/farandula/2026/09/24/festival-raztlan-20-anos-siendo-referente-del-reggae-en-la-frontera/",
+        "_added_at": "2026-09-24T17:24:38.216564-07:00"
+      },
+      {
+        "title": "Destinan 3 millones a 16 festivales culturales en BC",
+        "summary": "Gobierno estatal invierte en eventos artísticos y culturales de la región.",
+        "zona": "Baja California",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/24/destinan-3-millones-de-pesos-a-16-festivales-culturales-en-baja-california/",
+        "_added_at": "2026-09-24T17:24:38.216564-07:00"
+      },
+      {
+        "title": "Anuncian Foro de Agroecología San Quintín 2026",
+        "summary": "Evento especializado en prácticas agrícolas sostenibles se realizará en municipio.",
+        "zona": "San Quintín",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/09/24/anuncian-foro-de-agroecologia-san-quintin-2026/",
+        "_added_at": "2026-09-24T17:24:38.216564-07:00"
+      },
+      {
+        "title": "Realizarán Clase Nacional de Básquetbol en Mexicali y Tijuana",
+        "summary": "Evento deportivo de carácter nacional se llevará a cabo en ambas ciudades.",
+        "zona": "Baja California",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/09/24/realizaran-clase-nacional-de-basquetbol-en-mexicali-y-tijuana/",
+        "_added_at": "2026-09-24T17:24:38.216564-07:00"
+      },
+      {
         "title": "Crucero Ovation of the Seas regresa tras modernización",
         "summary": "Barco de pasajeros retorna a Ensenada después de completar trabajos de renovación y actualización.",
         "zona": "Ensenada",
@@ -227,6 +339,46 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Clínica 13 IMSS San Quintín: señalan fallas en transición",
+        "summary": "Reportan problemas administrativos en proceso de cambio de dirección del centro médico.",
+        "zona": "San Quintín",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/ensenada/2026/09/24/senalan-fallas-en-transicion-de-clinica-13-del-imss-en-san-quintin/",
+        "_added_at": "2026-09-24T17:24:38.216564-07:00"
+      },
+      {
+        "title": "Brindan atención a adultos mayores para detectar alteraciones memoria",
+        "summary": "Jornada de salud enfocada en identificar problemas cognitivos en población adulta.",
+        "zona": "Ensenada",
+        "source": "Rada Noticias",
+        "url": "https://radanoticias.info/brindan-atencion-a-adultos-mayores-para-identificar-alteraciones-de-memoria/",
+        "_added_at": "2026-09-24T17:24:38.216564-07:00"
+      },
+      {
+        "title": "Gobierno Ensenada y fuerzas seguridad fortalecen coordinación",
+        "summary": "Autoridades locales y cuerpos de seguridad unen esfuerzos para atender emergencias.",
+        "zona": "Ensenada",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/24/gobierno-de-ensenada-y-fuerzas-de-seguridad-fortalecen-coordinacion-para-la-atencion-de-emergencias/",
+        "_added_at": "2026-09-24T17:24:38.216564-07:00"
+      },
+      {
+        "title": "CESPE participa en Expo Ambiente Ensenada 2026",
+        "summary": "Institución educativa se incorpora a evento ambiental local.",
+        "zona": "Ensenada",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/09/24/cespe-participa-en-expo-ambiente-ensenada-2026/",
+        "_added_at": "2026-09-24T17:24:38.216564-07:00"
+      },
+      {
+        "title": "Deben existir reglas claras para uso celular en clases",
+        "summary": "Autoridad educativa insta a establecer límites sobre dispositivos en aulas.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182090_deben_existir_reglas_claras_para_uso_de_celulares_durante_las_clases_dice_murillo",
+        "_added_at": "2026-09-24T17:24:38.216564-07:00"
+      },
       {
         "title": "Autoridades advierten riesgos en playas de Baja California",
         "summary": "Marina emite alerta sobre peligros en litoral estatal recomendando precaución a visitantes y bañistas.",
@@ -293,5 +445,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-24T12:54:41.804779-07:00"
+  "last_updated": "2026-09-24T17:24:38.216564-07:00"
 }
