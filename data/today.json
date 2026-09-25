@@ -1,8 +1,72 @@
 {
   "date": "2026-09-25",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Detienen a presunto feminicida en Natura",
+        "summary": "Capturan a hombre con posesión de droga, sospechoso de feminicidio de mujer embarazada.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/detienen-a-hombre-con-droga-en-natura-se-presume-es-responsable-del-feminicidio-de-una-mujer-embarazada/?utm_source=rss&utm_medium=rss&utm_campaign=detienen-a-hombre-con-droga-en-natura-se-presume-es-responsable-del-feminicidio-de-una-mujer-embarazada",
+        "_added_at": "2026-09-25T12:56:48.848626-07:00"
+      },
+      {
+        "title": "Operativo rescata 30 jóvenes en sótano deplorables",
+        "summary": "Policía libera a treinta menores encerrados en condiciones insalubres con heridas y suciedad.",
+        "zona": "Baja California",
+        "source": "TV Azteca BC",
+        "url": "https://www.tvaztecabajacalifornia.com/noticias/policia-encuentra-a-30-jovenes-encerrados-en-condiciones-deplorables-dentro-de-un-sotano-presentaban-heridas-y-estaban-cubiertos-de-comida/",
+        "_added_at": "2026-09-25T12:56:48.848626-07:00"
+      },
+      {
+        "title": "Capturan a \"El Niño\" traficante de fentanilo",
+        "summary": "Cae en Mexicali operador ligado a Los Rusos y distribución de fentanilo.",
+        "zona": "Mexicali",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/25/cae-en-mexicali-el-nino-operador-ligado-a-los-rusos-y-al-trafico-de-fentanilo/",
+        "_added_at": "2026-09-25T12:56:48.848626-07:00"
+      },
+      {
+        "title": "FGE intensifica investigación contra policías corruptos",
+        "summary": "Fiscalía estatal impulsa pesquisas contra servidores policiales y combate corrupción institucional.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/25/fge-intensifica-investigacion-contra-servidores-policiales-y-combate-a-la-corrupcion/",
+        "_added_at": "2026-09-25T12:56:48.848626-07:00"
+      },
+      {
+        "title": "Detienen a dos con 11 kilos de metanfetamina",
+        "summary": "FGR procesa a detenidos con droga sintética en operativo en Tijuana.",
+        "zona": "Tijuana",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/seguridad/2026/09/25/fgr-lleva-a-proceso-a-dos-detenidos-con-mas-de-11-kilos-de-metanfetamina-en-tijuana/",
+        "_added_at": "2026-09-25T12:56:48.848626-07:00"
+      },
+      {
+        "title": "Detienen a sospechoso de ataque armado en Jardín Dorado",
+        "summary": "Capturan a presunto responsable de lesionar con arma de fuego en zona de Tijuana.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/182113_lesionan_a_balazos_a_un_hombre_en_jardin_dorado_detienen_a_sospechoso",
+        "_added_at": "2026-09-25T12:56:48.848626-07:00"
+      },
+      {
+        "title": "Hallan a familia desaparecida: dos sobreviven, uno muere",
+        "summary": "Localizan a familia Mendoza en Tijuana; dos mujeres vivas y hombre sin vida en cajuela.",
+        "zona": "Tijuana",
+        "source": "TV Azteca BC",
+        "url": "https://www.tvaztecabajacalifornia.com/policiaca/hallan-a-la-familia-mendoza-desaparecida-en-tijuana-dos-mujeres-sobreviven-y-un-hombre-es-localizado-muerto/",
+        "_added_at": "2026-09-25T12:56:48.848626-07:00"
+      },
+      {
+        "title": "Crisis judicial: Circular fragmenta poder en estado",
+        "summary": "Análisis sobre Circular 01/2026 que cuestiona fragmentación del Poder Judicial de Baja California.",
+        "zona": "Baja California",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/la-crisis-de-la-justicia-cercana-al-pueblo-la-circular-01-2026-y-la-fragmentacion-del-poder-judicial-de-baja-california/?utm_source=rss&utm_medium=rss&utm_campaign=la-crisis-de-la-justicia-cercana-al-pueblo-la-circular-01-2026-y-la-fragmentacion-del-poder-judicial-de-baja-california",
+        "_added_at": "2026-09-25T12:56:48.848626-07:00"
+      },
       {
         "title": "Montachoques operan con complicidad de policías",
         "summary": "Investigación revela que grupos de montachoques coordinan accidentes vehiculares en complicidad con elementos policiales para extorsionar a conductores.",
@@ -37,6 +101,62 @@
       }
     ],
     "politica": [
+      {
+        "title": "Escobar comenta sobre posible reelección de Burgueño",
+        "summary": "Arturo Escobar habla de candidatura de Burgueño para próxima alcaldía de Tijuana.",
+        "zona": "Tijuana",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/el-candidato-seria-burgueno-arturo-escobar-habla-de-la-posible-reeleccion-en-tijuana/",
+        "_added_at": "2026-09-25T12:56:48.848626-07:00"
+      },
+      {
+        "title": "Rodrigo Otáñez postulante verde para alcaldía de Tijuana",
+        "summary": "Candidato del Partido Verde levanta mano para contienda alcaldía en Tijuana.",
+        "zona": "Tijuana",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/politica/2026/09/25/rodrigo-otanez-levanta-la-mano-por-el-verde-para-la-alcaldia-de-tijuana/",
+        "_added_at": "2026-09-25T12:56:48.848626-07:00"
+      },
+      {
+        "title": "Avanza designación de titular de Auditoría Superior",
+        "summary": "Proceso en curso para nombramiento de responsable de órgano fiscalizador estatal.",
+        "zona": "Baja California",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/avanza-proceso-para-designar-a-titular-de-la-auditoria-superior-del-estado-de-baja-california/",
+        "_added_at": "2026-09-25T12:56:48.848626-07:00"
+      },
+      {
+        "title": "Vera Juárez asume presidencia de asociación electoral",
+        "summary": "Consejera del IEEBC toma cargo en presidencia de Asociación Mexicana de Consejos Electorales.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/25/asume-consejera-electoral-ieebc-vera-juarez-figueroa-presidencia-de-la-amcee/",
+        "_added_at": "2026-09-25T12:56:48.848626-07:00"
+      },
+      {
+        "title": "Julieta Ramírez lidera unidad interna en Morena",
+        "summary": "Política encabeza organización de corriente dentro del partido en Ensenada.",
+        "zona": "Ensenada",
+        "source": "Rada Noticias",
+        "url": "https://radanoticias.info/julieta-ramirez-lidera-unidad-interna-en-morena/",
+        "_added_at": "2026-09-25T12:56:48.848626-07:00"
+      },
+      {
+        "title": "Inicia Norma Bustamante segundo informe de gobierno",
+        "summary": "Gobernadora presenta avances y resultados de administración estatal en acto oficial.",
+        "zona": "Mexicali",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/mexicali/2026/09/25/inicia-norma-bustamante-2do-informe-de-gobierno/",
+        "_added_at": "2026-09-25T12:56:48.848626-07:00"
+      },
+      {
+        "title": "Nuevos juzgados familiares en CEART no afectarán cultura",
+        "summary": "Autoridades garantizan que instalación de tribunales en predio preservará actividad artística.",
+        "zona": "Tijuana",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/25/nuevos-juzgados-familiares-en-el-ceart-no-afectaran-su-actividad-cultural/",
+        "_added_at": "2026-09-25T12:56:48.848626-07:00"
+      },
       {
         "title": "Ampliación presupuestal aprobada para CEDHBC",
         "summary": "Congreso estatal autoriza recursos adicionales para que comisión de derechos humanos adquiera equipo especializado de búsqueda.",
@@ -80,6 +200,30 @@
     ],
     "economia": [
       {
+        "title": "Dólar sube a 17 pesos en casas de cambio",
+        "summary": "Tipo de cambio se incrementa en transacciones de divisas en Baja California.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182123_sube_a_17_pesos_el_precio_del_dolar_a_la_venta_en_casas_de_cambio",
+        "_added_at": "2026-09-25T12:56:48.848626-07:00"
+      },
+      {
+        "title": "370 mil trabajadores de maquila trasladan diarios en BC",
+        "summary": "Cifra reporta movilización masiva de personal industrial fronterizo cada jornada.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182120_trasladan_a_mas_de_370_mil_trabajadores_de_maquila_diariamente_en_bc",
+        "_added_at": "2026-09-25T12:56:48.848626-07:00"
+      },
+      {
+        "title": "Padres clasifican a playoffs con victoria sobre Dodgers",
+        "summary": "Equipo de beisbol asegura tercer pase consecutivo a postemporada.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/deportes/2026/09/25/padres-vencen-a-dodgers-y-sellan-historico-tercer-pase-consecutivo-a-playoffs/",
+        "_added_at": "2026-09-25T12:56:48.848626-07:00"
+      },
+      {
         "title": "Desaladora de Rosarito colocará primera piedra",
         "summary": "Proyecto de infraestructura acuífera avanza con ceremonia de inicio de construcción en municipio de Rosarito.",
         "zona": "Rosarito",
@@ -98,6 +242,14 @@
     ],
     "eventos": [
       {
+        "title": "Última etapa del Serial UABC 2026 en competencia",
+        "summary": "Se disputa fase final de torneo deportivo universitario en Baja California.",
+        "zona": "Baja California",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/ultima-etapa-del-serial-uabc-2026/?utm_source=rss&utm_medium=rss&utm_campaign=ultima-etapa-del-serial-uabc-2026",
+        "_added_at": "2026-09-25T12:56:48.848626-07:00"
+      },
+      {
         "title": "Rosarito reunirá leyendas del skateboarding artístico",
         "summary": "Festival de arte urbano con reconocidos exponentes del skate se realizará en Rosarito este fin de semana.",
         "zona": "Rosarito",
@@ -115,6 +267,54 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Retiran 70 toneladas de envases de plaguicidas en BC",
+        "summary": "Operativo de recolección de contenedores químicos peligrosos en San Quintín.",
+        "zona": "San Quintín",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/ensenada/2026/09/25/parecen-envases-vacios-pero-pueden-conservar-quimicos-retiraron-70-toneladas-de-recipientes-de-plaguicidas-en-san-quintin/",
+        "_added_at": "2026-09-25T12:56:48.848626-07:00"
+      },
+      {
+        "title": "Piden acompañar restricción de celulares con educación digital",
+        "summary": "Educadores sugieren medidas complementarias al prohibir dispositivos en escuelas.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/25/piden-acompanar-restriccion-de-celulares-en-escuelas-con-educacion-digital/",
+        "_added_at": "2026-09-25T12:56:48.848626-07:00"
+      },
+      {
+        "title": "Jueza reconoce familia multiespecie en caso de Ámbar",
+        "summary": "Tribunal federal otorga protección legal a víctima animal en sentencia histórica.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/25/jueza-federal-reconoce-familia-multiespecie-en-caso-de-ambar-en-baja-california/",
+        "_added_at": "2026-09-25T12:56:48.848626-07:00"
+      },
+      {
+        "title": "Rescatan a familia de cuatro arrastrada por corriente",
+        "summary": "Operativo exitoso salva a grupo atrapado en playas de Tijuana.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/25/rescatan-a-familia-de-cuatro-personas-arrastrada-por-corriente-en-playas-de-tijuana/",
+        "_added_at": "2026-09-25T12:56:48.848626-07:00"
+      },
+      {
+        "title": "Rescatan a adulto y tres menores en banco de arena",
+        "summary": "Operación de salvamento libera a personas atrapadas en zona litoral.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182124_rescatan_a_un_adulto_y_tres_menores_atrapados_en_banco_de_arena",
+        "_added_at": "2026-09-25T12:56:48.848626-07:00"
+      },
+      {
+        "title": "Cinco estudiantes sufren golpe de calor en secundaria",
+        "summary": "Menores de edad presentan síntomas durante actividad física escolar.",
+        "zona": "Baja California",
+        "source": "TV Azteca BC",
+        "url": "https://www.tvaztecabajacalifornia.com/noticias/alerta-en-secundaria-cinco-estudiantes-sufren-golpe-de-calor-durante-actividad-fisica/",
+        "_added_at": "2026-09-25T12:56:48.848626-07:00"
+      },
       {
         "title": "Incendio afecta primaria Amado Nervo en Tijuana",
         "summary": "Fuego consume sala de cooperativa en escuela; autoridades investigan las causas del siniestro que no dejó lesionados.",
@@ -149,5 +349,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-25T00:59:26.138370-07:00"
+  "last_updated": "2026-09-25T12:56:48.848626-07:00"
 }
