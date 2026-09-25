@@ -1,449 +1,153 @@
 {
-  "date": "2026-09-24",
-  "run_count": 3,
+  "date": "2026-09-25",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Policías de Tecate captados recibiendo soborno en video",
-        "summary": "Elementos municipales recientemente egresados son video grabados aceptando dinero ilícito.",
-        "zona": "Tecate",
+        "title": "Montachoques operan con complicidad de policías",
+        "summary": "Investigación revela que grupos de montachoques coordinan accidentes vehiculares en complicidad con elementos policiales para extorsionar a conductores.",
+        "zona": "Tijuana",
         "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/en-tecate-policias-municipales-recien-egresados-son-captados-en-video-recibiendo-moche/?utm_source=rss&utm_medium=rss&utm_campaign=en-tecate-policias-municipales-recien-egresados-son-captados-en-video-recibiendo-moche",
-        "_added_at": "2026-09-24T17:24:38.216564-07:00"
+        "url": "https://zetatijuana.com/2026/09/montachoques-operan-con-policias-podcast/?utm_source=rss&utm_medium=rss&utm_campaign=montachoques-operan-con-policias-podcast",
+        "_added_at": "2026-09-25T00:59:26.138370-07:00"
       },
       {
-        "title": "Inhabilitan campamento criminal en serranía de Zapopan",
-        "summary": "Autoridades desmantelan centro de operaciones criminal en zona serrana.",
-        "zona": "Baja California",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/inhabilitan-campamento-criminal-en-serrania-de-zapopan/?utm_source=rss&utm_medium=rss&utm_campaign=inhabilitan-campamento-criminal-en-serrania-de-zapopan",
-        "_added_at": "2026-09-24T17:24:38.216564-07:00"
+        "title": "Hombre desaparecido hallado sin vida en Tijuana",
+        "summary": "Localizan cadáver de hombre que desapareció junto a su madre y esposa; investigación continúa sobre las circunstancias del hallazgo.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/182107_hallan_sin_vida_a_un_hombre_reportado_como_desaparecido_junto_a_su_madre_y_esposa",
+        "_added_at": "2026-09-25T00:59:26.138370-07:00"
       },
       {
-        "title": "Detienen a \"Peso Pluma\" en Ensenada con armas de fuego",
-        "summary": "Capturan presunto delincuente señalado por extorsión, cobro de piso y operación de patrullas clonadas.",
-        "zona": "Ensenada",
-        "source": "TV Azteca BC",
-        "url": "https://www.tvaztecabajacalifornia.com/policiaca/cae-peso-pluma-en-ensenada-con-armas-lo-senalan-por-cobro-de-piso-con-patrullas-clonadas/",
-        "_added_at": "2026-09-24T17:24:38.216564-07:00"
-      },
-      {
-        "title": "Catean negocio Smoke Shop en Ensenada",
-        "summary": "Operativo contra establecimiento sospechoso de comercio ilícito en la ciudad.",
-        "zona": "Ensenada",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/catean-negocio-smoke-shop-en-ensenada/?utm_source=rss&utm_medium=rss&utm_campaign=catean-negocio-smoke-shop-en-ensenada",
-        "_added_at": "2026-09-24T17:24:38.216564-07:00"
-      },
-      {
-        "title": "Detienen jefe de plaza de Los Mayos en Mexicali",
-        "summary": "Capturan presunto líder operativo del cártel en ciudad fronteriza.",
+        "title": "Extorsiones en Mexicali caen 30 por ciento",
+        "summary": "Canaco reporta reducción significativa en extorsiones en Valle de Mexicali gracias a programas preventivos coordinados entre FGE y seguridad municipal.",
         "zona": "Mexicali",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/182085_detienen_en_mexicali_a_jefe_de_plaza_de_los_mayos_en_puerto_penasco",
-        "_added_at": "2026-09-24T17:24:38.216564-07:00"
-      },
-      {
-        "title": "Interceptan embarcación con ocho migrantes en Point Loma",
-        "summary": "Autoridades detienen lancha con presuntos migrantes tras cruce ilegal desde aguas fronterizas.",
-        "zona": "Tijuana",
-        "source": "Argumento Noticias",
-        "url": "https://argumentonoticias.com/2026/09/24/interceptan-embarcacion-con-ocho-presuntos-migrantes-cerca-de-point-loma/",
-        "_added_at": "2026-09-24T17:24:38.216564-07:00"
-      },
-      {
-        "title": "FGE refuerza centros C5 para atención ciudadana y respuesta",
-        "summary": "Fiscalía fortalece capacidad operativa de centros de control y coordinación.",
-        "zona": "Baja California",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/24/robustece-fge-atencion-ciudadana-y-capacidad-de-respuesta-a-traves-de-los-centros-c5/",
-        "_added_at": "2026-09-24T17:24:38.216564-07:00"
-      },
-      {
-        "title": "Fiscalía reporta 580 desaparecidos en Baja California",
-        "summary": "La FGE presentó cifras ante diputados sobre personas desaparecidas en la entidad durante la glosa de su tercer informe.",
-        "zona": "Baja California",
-        "source": "AGP Noticias",
-        "url": "https://agpnoticias.com/news/hay-580-personas-desaparecidas-en-baja-california-fiscalia-presenta-cifras-ante-diputados/",
-        "_added_at": "2026-09-24T12:54:41.804779-07:00"
-      },
-      {
-        "title": "Despliegan operativo con 500 agentes en Tijuana",
-        "summary": "Autoridades realizan operativo Playa de la Patria con más de 500 elementos de seguridad en la ciudad.",
-        "zona": "Tijuana",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/182077_despliegan_operativo_playa_de_la_patria_con_mas_de_500_agentes_en_tijuana",
-        "_added_at": "2026-09-24T12:54:41.804779-07:00"
-      },
-      {
-        "title": "Migrantes enfrentan acecho de cárteles en Tecate",
-        "summary": "Reportan que migrantes que cruzan por Tecate son perseguidos y extorsionados por organizaciones delictivas.",
-        "zona": "Tecate",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/tecate-migrantes-acechados-por-carteles/",
-        "_added_at": "2026-09-24T12:54:41.804779-07:00"
-      },
-      {
-        "title": "Asesinado empleado de pescadería en Ensenada",
-        "summary": "Un hombre fue asesinado a balazos frente a una pescadería del centro de Ensenada cuando abría el establecimiento.",
-        "zona": "Ensenada",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/tij/ensenada/2026/09/24/asesinan-a-hombre-frente-a-pescaderia-en-zona-centro-de-ensenada-recibio-10-disparos/",
-        "_added_at": "2026-09-24T12:54:41.804779-07:00"
-      },
-      {
-        "title": "FGE creará unidad contra fraude inmobiliario",
-        "summary": "La Fiscalía General del Estado establecerá área especializada para investigar fraudes inmobiliarios vinculados a grupos delictivos.",
-        "zona": "Baja California",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/24/fge-creara-unidad-especial-contra-fraude-inmobiliario-ligado-a-grupos-delictivos/",
-        "_added_at": "2026-09-24T12:54:41.804779-07:00"
-      },
-      {
-        "title": "Ciudadana en huelga de hambre demanda atención fiscal",
-        "summary": "Persona inicia protesta frente a la FGE exigiendo que se atienda sus denuncias pendientes.",
-        "zona": "Tijuana",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/182078_inicia_huelga_de_hambre_frente_a_la_fge_exige_atencion_a_sus_denuncias",
-        "_added_at": "2026-09-24T12:54:41.804779-07:00"
-      },
-      {
-        "title": "Guardia Costera intercepta embarcación con migrantes",
-        "summary": "Autoridades marítimas detienen lancha con ocho personas que intentaban cruzar ilegalmente cerca de Point Loma.",
-        "zona": "Tijuana",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/detienen-lancha-con-ocho-migrantes-en-point-loma-tras-cruce-ilegal/",
-        "_added_at": "2026-09-24T12:54:41.804779-07:00"
-      },
-      {
-        "title": "Hallan dos cuerpos con violencia en Río Tijuana",
-        "summary": "Localizan dos cadáveres con signos de violencia en la canalización del Río Tijuana. Es el segundo hallazgo en la zona en dos días.",
-        "zona": "Tijuana",
         "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/99801/Localizan-dos-cuerpos-con-huellas-de-violencia-en-la-canalizaci%C3%B3n-del-R%C3%ADo-Tijuana",
-        "_added_at": "2026-09-24T00:41:19.211848-07:00"
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/99838/Ve-Canaco-reducci%C3%B3n-en-extorsiones-en-El-Valle-de-Mexicali-en-30%25",
+        "_added_at": "2026-09-25T00:59:26.138370-07:00"
+      },
+      {
+        "title": "Vecinos de El Rubí denuncian inseguridad creciente",
+        "summary": "Residentes de la zona reportan clima de inseguridad e incremento de delitos, demandando intervención de autoridades.",
+        "zona": "Tijuana",
+        "source": "TV Azteca BC",
+        "url": "https://www.tvaztecabajacalifornia.com/noticias/vecinos-de-el-rubi-tijuana-denuncian-temor-por-inseguridad-en-la-zona/",
+        "_added_at": "2026-09-25T00:59:26.138370-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Seis aspirantes avanzan por Auditoría Superior de BC",
-        "summary": "Proceso de selección del titular de la institución avanza con candidatos preseleccionados.",
-        "zona": "Baja California",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/estatal/2026/09/24/seis-aspirantes-avanzan-por-la-titularidad-de-la-auditoria-superior-de-bc/",
-        "_added_at": "2026-09-24T17:24:38.216564-07:00"
-      },
-      {
-        "title": "Regidores proponen revertir terreno del CEARTE al Poder Judicial",
-        "summary": "Cabildo busca anular asignación de predio artístico a autoridades judiciales.",
-        "zona": "Ensenada",
-        "source": "Argumento Noticias",
-        "url": "https://argumentonoticias.com/2026/09/24/regidores-proponen-revertir-asignacion-de-terreno-del-ceart-al-poder-judicial/",
-        "_added_at": "2026-09-24T17:24:38.216564-07:00"
-      },
-      {
-        "title": "PT endurece postura; en BC parece haber tregua",
-        "summary": "Partido del Trabajo radicaliza posición nacional mientras mantiene relativa calma estatal.",
+        "title": "Ampliación presupuestal aprobada para CEDHBC",
+        "summary": "Congreso estatal autoriza recursos adicionales para que comisión de derechos humanos adquiera equipo especializado de búsqueda.",
         "zona": "Baja California",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/afn_politico/182096_pt_endurece_su_postura_en_baja_california_parece_haber_tregua",
-        "_added_at": "2026-09-24T17:24:38.216564-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/182102_aprueban_ampliacion_presupuestal_para_la_cedhbc_para_comprar_equipo_de_busqueda",
+        "_added_at": "2026-09-25T00:59:26.138370-07:00"
       },
       {
-        "title": "Proponen desvinculación de seguridad turística del gobierno",
-        "summary": "Legisladores sugieren que seguridad en zonas turísticas no dependa de administración en turno para garantizar continuidad.",
-        "zona": "Ensenada",
-        "source": "AGP Noticias",
-        "url": "https://agpnoticias.com/news/proponen-que-la-seguridad-turistica-no-dependa-del-gobierno-en-turno/",
-        "_added_at": "2026-09-24T12:54:41.804779-07:00"
-      },
-      {
-        "title": "Amparos de Ruffo Appel centralizados en un juzgado",
-        "summary": "Determinan que recursos legales del exgobernador sean revisados por una sola instancia judicial.",
-        "zona": "Baja California",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/remiten-amparos-de-ernesto-ruffo-appel-a-un-solo-juzgado/",
-        "_added_at": "2026-09-24T12:54:41.804779-07:00"
-      },
-      {
-        "title": "Congreso analiza resultados de Fiscalía General",
-        "summary": "Diputados realizan glosa del tercer informe de la FGE revisando sus resultados y desempeño institucional.",
-        "zona": "Baja California",
-        "source": "Rada Noticias",
-        "url": "https://radanoticias.info/analiza-congreso-resultados-de-la-fge-durante-glosa-de-tercer-informe/",
-        "_added_at": "2026-09-24T12:54:41.804779-07:00"
-      },
-      {
-        "title": "Cabildo refuerza revisión de cuentas públicas municipales",
-        "summary": "Comisión de Fiscalización intensifica proceso de auditoría y análisis de gasto público municipal.",
-        "zona": "Tijuana",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/refuerza-comision-de-fiscalizacion-proceso-de-revision-de-cuentas-publicas/",
-        "_added_at": "2026-09-24T12:54:41.804779-07:00"
-      },
-      {
-        "title": "Roman Cota llama a unidad interna tras impugnación",
-        "summary": "Líder político hace llamado a la cohesión tras acciones de impugnación de candidata Eva.",
+        "title": "TEJA anula justificación para indemnizar transportistas",
+        "summary": "Tribunal Electoral invalida argumentos del gobierno para pago de indemnización a transportistas del SITT; caso sigue en litigio.",
         "zona": "Tijuana",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/182070_llama_roman_cota_a_la_unidad_interna_tras_impugnacion_de_eva",
-        "_added_at": "2026-09-24T12:54:41.804779-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/182101_tumba_el_teja_justificacion_para_el_acuerdo_de_indemnizacion_a_transportistas_del_sitt",
+        "_added_at": "2026-09-25T00:59:26.138370-07:00"
       },
       {
-        "title": "Activista critica actitud de diputados en comparecencia fiscal",
-        "summary": "Activista cuestiona el comportamiento de diputados durante la presentación de la fiscal de Baja California.",
+        "title": "Julieta Ramírez lidera unidad interna de Morena",
+        "summary": "Funcionaria toma liderazgo en coordinación interna del partido a nivel estatal en proceso de reorganización.",
         "zona": "Baja California",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/182046_critica_activista_la_actitud_de_diputados_durante_comparecencia_de_la_fiscal",
-        "_added_at": "2026-09-24T00:41:19.211848-07:00"
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/99854/Julieta-Ram%C3%ADrez-lidera-la-unidad-interna-en-Morena",
+        "_added_at": "2026-09-25T00:59:26.138370-07:00"
       },
       {
-        "title": "Senador Max García propone reformas al Código Penal",
-        "summary": "Senador Max García presenta propuesta de modificaciones al Código Nacional de Procedimientos Penales.",
+        "title": "Congreso debe atender necesidades fiscales fronterizas",
+        "summary": "Diputados reciben demanda de organizaciones empresariales para modificar política tributaria que afecta a la frontera.",
         "zona": "Baja California",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/182043_senador_max_garcia_propone_cambios_al_codigo_nacional_de_procedimientos_penales",
-        "_added_at": "2026-09-24T00:41:19.211848-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/182104_piden_atender_en_el_congreso_necesidades_fiscales_de_la_frontera",
+        "_added_at": "2026-09-25T00:59:26.138370-07:00"
       },
       {
-        "title": "Inconformidad de Eva y reclamos del PT",
-        "summary": "Conflicto político entre actores locales. Partido del Trabajo formula demandas sobre gestión actual.",
-        "zona": "Baja California",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/afn_politico/182041_la_inconformidad_de_eva_y_los_reclamos_del_pt",
-        "_added_at": "2026-09-24T00:41:19.211848-07:00"
+        "title": "Cearte compartirá predio para nuevos juzgados familiares",
+        "summary": "Gobierno asignará fracción del terreno del centro cultural para construir juzgados sin afectar actividades artísticas.",
+        "zona": "Ensenada",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Ensenada/99855/Asignaci%C3%B3n-de-una-fracci%C3%B3n-del-predio-del-Ceart-permitir%C3%A1-nuevos-juzgados-familiares-sin-desatender-su-actividad-cultural",
+        "_added_at": "2026-09-25T00:59:26.138370-07:00"
       }
     ],
     "economia": [
       {
-        "title": "BC impulsa transporte sustentable para industria maquiladora",
-        "summary": "Gobierno promueve soluciones ecológicas de movilidad laboral para manufactureras.",
-        "zona": "Baja California",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/estatal/2026/09/24/baja-california-impulsa-un-transporte-sustentable-para-la-industria-maquiladora/",
-        "_added_at": "2026-09-24T17:24:38.216564-07:00"
-      },
-      {
-        "title": "Advierten escalamiento de huelga en Telnor el 5 octubre",
-        "summary": "Sindicato exige reinstalación de 200 trabajadores despedidos en empresa telecomunicaciones.",
-        "zona": "Baja California",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Estatal/99844/Advierten-escalamiento-de-huelga-en-Telnor-el-5-de-octubre;-exigen-reinstalar-a-200-trabajadores",
-        "_added_at": "2026-09-24T17:24:38.216564-07:00"
-      },
-      {
-        "title": "Acuden 500 solicitantes a feria de empleo de CANACO Mexicali",
-        "summary": "Evento de colocación laboral atrae importante cantidad de candidatos.",
-        "zona": "Mexicali",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/99840/Acuden-500-solicitantes-a-la-feria-del-empleo-CANACO",
-        "_added_at": "2026-09-24T17:24:38.216564-07:00"
-      },
-      {
-        "title": "Exigen tarifa eléctrica 1G para Mexicali ante altos cobros",
-        "summary": "Ciudadanos reclaman reducción de tarifas debido a incrementos en recibos.",
-        "zona": "Mexicali",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/99834/Exigen-tarifa-el%C3%A9ctrica-1G-para-Mexicali-ante-altos-cobros",
-        "_added_at": "2026-09-24T17:24:38.216564-07:00"
-      },
-      {
-        "title": "Industria cervecera busca certeza en Tijuana",
-        "summary": "Sectores productivos solicitan al gobierno claridad regulatoria y políticas de apoyo para esta importante industria.",
-        "zona": "Tijuana",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/24/buscan-dar-certeza-a-industria-cervecera-de-tijuana/",
-        "_added_at": "2026-09-24T12:54:41.804779-07:00"
-      },
-      {
-        "title": "Expo Construcción 2026 marca agenda en IA e infraestructura",
-        "summary": "Se inaugura exposición dedicada a innovación e inteligencia artificial en sector construcción de Tijuana.",
-        "zona": "Tijuana",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/24/inauguran-expo-construccion-tijuana-2026-ia-e-infraestructura-marcan-la-agenda/",
-        "_added_at": "2026-09-24T12:54:41.804779-07:00"
-      },
-      {
-        "title": "Línea Sentri saturada; buscan alternativas para cruces",
-        "summary": "Autoridades fronterizas trabajan en soluciones para agilizar congestionamiento en este importante carril de tránsito.",
-        "zona": "Tijuana",
+        "title": "Desaladora de Rosarito colocará primera piedra",
+        "summary": "Proyecto de infraestructura acuífera avanza con ceremonia de inicio de construcción en municipio de Rosarito.",
+        "zona": "Rosarito",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/182075_saturada_la_linea_sentri_buscan_alternativas_para_agilizar_los_cruces",
-        "_added_at": "2026-09-24T12:54:41.804779-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/182103_pondran_la_primera_piedra_de_la_desaladora_de_rosarito",
+        "_added_at": "2026-09-25T00:59:26.138370-07:00"
       },
       {
-        "title": "¿Adiós al dólar? Comercios rechazan pagos en dólares",
-        "summary": "Establecimientos en Tijuana comienzan a rechazar dólares como medio de pago. Cambio en prácticas comerciales.",
-        "zona": "Tijuana",
-        "source": "TV Azteca BC",
-        "url": "https://www.tvaztecabajacalifornia.com/noticias/adios-al-dolar-en-tijuana-comienzan-a-rechazar-pagos-en-dolares/",
-        "_added_at": "2026-09-24T00:41:19.211848-07:00"
-      },
-      {
-        "title": "Denuncian cobros excesivos en transporte público Tijuana",
-        "summary": "Usuarios reportan tarifas de hasta 20 pesos en el transporte colectivo de Tijuana, por encima de lo establecido.",
-        "zona": "Tijuana",
-        "source": "TV Azteca BC",
-        "url": "https://www.tvaztecabajacalifornia.com/noticias/usuarios-denuncian-cobros-de-hasta-20-pesos-en-transporte-publico-en-tijuana/",
-        "_added_at": "2026-09-24T00:41:19.211848-07:00"
-      },
-      {
-        "title": "Gobierno de Mexicali sin recuperar dinero decomisado en EUA",
-        "summary": "Ang Hernández reporta que fondos confiscados en Estados Unidos aún no son devueltos a Mexicali.",
-        "zona": "Mexicali",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/99788/Sin-recuperar-el-dinero-decomisado-en-EUA%3A-Ang-Hern%C3%A1ndez",
-        "_added_at": "2026-09-24T00:41:19.211848-07:00"
+        "title": "Necesario ordenar ingreso de camiones de carga a Ensenada",
+        "summary": "Autoridades portuarias plantean regulación del flujo vehicular de transporte para mejorar circulación en la ciudad.",
+        "zona": "Ensenada",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182105_necesario_poner_orden_en_el_ingreso_de_camiones_de_carga_a_ensenada_arregui",
+        "_added_at": "2026-09-25T00:59:26.138370-07:00"
       }
     ],
     "eventos": [
       {
-        "title": "Festival Raztlán: 20 años de reggae en la frontera",
-        "summary": "Evento musical celebra dos décadas como referente de este género en región.",
+        "title": "Rosarito reunirá leyendas del skateboarding artístico",
+        "summary": "Festival de arte urbano con reconocidos exponentes del skate se realizará en Rosarito este fin de semana.",
+        "zona": "Rosarito",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Rosarito/99852/Rosarito-reunir%C3%A1-a-leyendas-del-skateboarding-en-festival-de-arte-urbano",
+        "_added_at": "2026-09-25T00:59:26.138370-07:00"
+      },
+      {
+        "title": "Conmemoran a 43 normalistas de Ayotzinapa en Tijuana",
+        "summary": "Estudiantes y colectivos realizan puesta en escena para recordar a estudiantes desaparecidos de Ayotzinapa.",
         "zona": "Tijuana",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/farandula/2026/09/24/festival-raztlan-20-anos-siendo-referente-del-reggae-en-la-frontera/",
-        "_added_at": "2026-09-24T17:24:38.216564-07:00"
-      },
-      {
-        "title": "Destinan 3 millones a 16 festivales culturales en BC",
-        "summary": "Gobierno estatal invierte en eventos artísticos y culturales de la región.",
-        "zona": "Baja California",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/24/destinan-3-millones-de-pesos-a-16-festivales-culturales-en-baja-california/",
-        "_added_at": "2026-09-24T17:24:38.216564-07:00"
-      },
-      {
-        "title": "Anuncian Foro de Agroecología San Quintín 2026",
-        "summary": "Evento especializado en prácticas agrícolas sostenibles se realizará en municipio.",
-        "zona": "San Quintín",
-        "source": "Argumento Noticias",
-        "url": "https://argumentonoticias.com/2026/09/24/anuncian-foro-de-agroecologia-san-quintin-2026/",
-        "_added_at": "2026-09-24T17:24:38.216564-07:00"
-      },
-      {
-        "title": "Realizarán Clase Nacional de Básquetbol en Mexicali y Tijuana",
-        "summary": "Evento deportivo de carácter nacional se llevará a cabo en ambas ciudades.",
-        "zona": "Baja California",
-        "source": "Argumento Noticias",
-        "url": "https://argumentonoticias.com/2026/09/24/realizaran-clase-nacional-de-basquetbol-en-mexicali-y-tijuana/",
-        "_added_at": "2026-09-24T17:24:38.216564-07:00"
-      },
-      {
-        "title": "Crucero Ovation of the Seas regresa tras modernización",
-        "summary": "Barco de pasajeros retorna a Ensenada después de completar trabajos de renovación y actualización.",
-        "zona": "Ensenada",
-        "source": "Argumento Noticias",
-        "url": "https://argumentonoticias.com/2026/09/24/ovation-of-the-seas-regresa-a-ensenada-tras-modernizacion/",
-        "_added_at": "2026-09-24T12:54:41.804779-07:00"
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99851/Conmemoran-en-Tijuana-a-los-43-normalistas-de-Ayotzinapa-con-puesta-en-escena",
+        "_added_at": "2026-09-25T00:59:26.138370-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Clínica 13 IMSS San Quintín: señalan fallas en transición",
-        "summary": "Reportan problemas administrativos en proceso de cambio de dirección del centro médico.",
-        "zona": "San Quintín",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/tij/ensenada/2026/09/24/senalan-fallas-en-transicion-de-clinica-13-del-imss-en-san-quintin/",
-        "_added_at": "2026-09-24T17:24:38.216564-07:00"
-      },
-      {
-        "title": "Brindan atención a adultos mayores para detectar alteraciones memoria",
-        "summary": "Jornada de salud enfocada en identificar problemas cognitivos en población adulta.",
-        "zona": "Ensenada",
-        "source": "Rada Noticias",
-        "url": "https://radanoticias.info/brindan-atencion-a-adultos-mayores-para-identificar-alteraciones-de-memoria/",
-        "_added_at": "2026-09-24T17:24:38.216564-07:00"
-      },
-      {
-        "title": "Gobierno Ensenada y fuerzas seguridad fortalecen coordinación",
-        "summary": "Autoridades locales y cuerpos de seguridad unen esfuerzos para atender emergencias.",
-        "zona": "Ensenada",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/24/gobierno-de-ensenada-y-fuerzas-de-seguridad-fortalecen-coordinacion-para-la-atencion-de-emergencias/",
-        "_added_at": "2026-09-24T17:24:38.216564-07:00"
-      },
-      {
-        "title": "CESPE participa en Expo Ambiente Ensenada 2026",
-        "summary": "Institución educativa se incorpora a evento ambiental local.",
-        "zona": "Ensenada",
-        "source": "Argumento Noticias",
-        "url": "https://argumentonoticias.com/2026/09/24/cespe-participa-en-expo-ambiente-ensenada-2026/",
-        "_added_at": "2026-09-24T17:24:38.216564-07:00"
-      },
-      {
-        "title": "Deben existir reglas claras para uso celular en clases",
-        "summary": "Autoridad educativa insta a establecer límites sobre dispositivos en aulas.",
-        "zona": "Baja California",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/182090_deben_existir_reglas_claras_para_uso_de_celulares_durante_las_clases_dice_murillo",
-        "_added_at": "2026-09-24T17:24:38.216564-07:00"
-      },
-      {
-        "title": "Autoridades advierten riesgos en playas de Baja California",
-        "summary": "Marina emite alerta sobre peligros en litoral estatal recomendando precaución a visitantes y bañistas.",
-        "zona": "Baja California",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/182072_playas_de_bc_son_peligrosas_advierte_la_marina",
-        "_added_at": "2026-09-24T12:54:41.804779-07:00"
-      },
-      {
-        "title": "Persisten violencia y estereotipos contra mujeres",
-        "summary": "Funcionaria Marina del Pilar señala que continúan formas de discriminación y agresión contra población femenina.",
-        "zona": "Baja California",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/182073_persisten_estereotipos_y_formas_de_violencia_contra_mujeres_marina_del_pilar",
-        "_added_at": "2026-09-24T12:54:41.804779-07:00"
-      },
-      {
-        "title": "Restaurantes piden regulación de vendedores ambulantes",
-        "summary": "Comerciantes formales solicitan normas para ordenar presencia de vendedores informales en banquetas de Tijuana.",
+        "title": "Incendio afecta primaria Amado Nervo en Tijuana",
+        "summary": "Fuego consume sala de cooperativa en escuela; autoridades investigan las causas del siniestro que no dejó lesionados.",
         "zona": "Tijuana",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/24/restauranteros-piden-reglas-para-ambulantes-y-negocios-que-ocupan-banquetas-en-tijuana/",
-        "_added_at": "2026-09-24T12:54:41.804779-07:00"
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99836/Incendio-afecta-instalaciones-de-la-primaria-Amado-Nervo",
+        "_added_at": "2026-09-25T00:59:26.138370-07:00"
       },
       {
-        "title": "Municipio frena nuevos permisos para ambulantes",
-        "summary": "Gobierno de Tijuana detiene otorgamiento de nuevas autorizaciones a vendedores ambulantes tras quejas ciudadanas.",
-        "zona": "Tijuana",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/24/quejas-ciudadanas-frenan-nuevos-permisos-para-ambulantes-en-tijuana-hay-17-mil-registrados/",
-        "_added_at": "2026-09-24T12:54:41.804779-07:00"
-      },
-      {
-        "title": "Incendio en guardería revela presunto club de pelea",
-        "summary": "Autoridades investigan a maestra de guardería por organizar aparente club de pelea entre menores.",
-        "zona": "Baja California",
-        "source": "TV Azteca BC",
-        "url": "https://www.tvaztecabajacalifornia.com/noticias/video-revelan-presunto-club-de-pelea-organizado-por-maestra-en-guarderia/",
-        "_added_at": "2026-09-24T00:41:19.211848-07:00"
-      },
-      {
-        "title": "Fallece adulto mayor atrapado en incendio Mexicali",
-        "summary": "Persona de edad avanzada pierde la vida al quedar atrapada en incendio de vivienda en Mexicali.",
+        "title": "Asignan docente en preescolar tras protestas en Mexicali",
+        "summary": "Autoridades educativas responden a demanda de padres de familia colocando maestro en institución que carecía de personal.",
         "zona": "Mexicali",
-        "source": "TV Azteca BC",
-        "url": "https://www.tvaztecabajacalifornia.com/noticias/tragedia-en-mexicali-fallece-adulto-mayor-tras-quedar-atrapado-en-incendio/",
-        "_added_at": "2026-09-24T00:41:19.211848-07:00"
-      },
-      {
-        "title": "Hombre arrastrado por corriente en canal de Mexicali",
-        "summary": "Encuentran sin vida a hombre arrastrado por la corriente en un canal de Mexicali.",
-        "zona": "Mexicali",
-        "source": "TV Azteca BC",
-        "url": "https://www.tvaztecabajacalifornia.com/policiaca/encuentran-sin-vida-a-hombre-arrastrado-por-la-corriente-en-un-canal-en-mexicali/",
-        "_added_at": "2026-09-24T00:41:19.211848-07:00"
-      },
-      {
-        "title": "Rehabilita gobierno cancha deportiva en San Antonio Minas",
-        "summary": "Administración de Claudia Agatón restaura instalación deportiva en San Antonio de las Minas, Tijuana.",
-        "zona": "Tijuana",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/182044_rehabilita_cancha_deportiva_en_san_antonio_de_las_minas_el_gobierno_de_claudia_agaton",
-        "_added_at": "2026-09-24T00:41:19.211848-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/182100_asignan_docente_en_preescolar_de_mexicali_tras_protestas_de_padres_de_familia",
+        "_added_at": "2026-09-25T00:59:26.138370-07:00"
+      },
+      {
+        "title": "Rescatan familia arrastrada por corriente en Tijuana",
+        "summary": "Cuatro personas son auxiliadas tras quedar atrapadas en la corriente marina en Playas de Tijuana sin lesiones graves.",
+        "zona": "Tijuana",
+        "source": "TV Azteca BC",
+        "url": "https://www.tvaztecabajacalifornia.com/noticias/rescatan-a-familia-de-cuatro-integrantes-tras-ser-arrastrada-por-la-corriente-en-playas-de-tijuana-este-jueves/",
+        "_added_at": "2026-09-25T00:59:26.138370-07:00"
+      },
+      {
+        "title": "Fuga de agua perjudica a vecinos de Villas del Prado",
+        "summary": "Residents reportan escape de líquido con coloración anormal y olor desagradable en zona residencial de Tijuana.",
+        "zona": "Tijuana",
+        "source": "TV Azteca BC",
+        "url": "https://www.tvaztecabajacalifornia.com/noticias/fuga-de-agua-con-mal-olor-y-color-verdoso-afecta-a-vecinos-de-villas-del-prado-tijuana/",
+        "_added_at": "2026-09-25T00:59:26.138370-07:00"
       }
     ]
   },
-  "last_updated": "2026-09-24T17:24:38.216564-07:00"
+  "last_updated": "2026-09-25T00:59:26.138370-07:00"
 }
