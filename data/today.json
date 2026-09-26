@@ -1,8 +1,56 @@
 {
   "date": "2026-09-25",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Juez ordena prisión domiciliaria para Ernesto Ruffo",
+        "summary": "Exfuncionario de Baja California cambia del Altiplano a arresto domiciliario tras decisión judicial federal.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/25/juez-ordena-prision-domiciliaria-para-ernesto-ruffo-dejara-el-altiplano/",
+        "_added_at": "2026-09-25T17:28:02.433834-07:00"
+      },
+      {
+        "title": "FGE reporta 36 policías detenidos por vínculos criminales",
+        "summary": "Autoridades en Baja California detienen a tres docenas de elementos relacionados con grupos delictivos.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182130_han_detenido_a_36_policias_relacionados_a_grupos_criminales_en_bc_fge",
+        "_added_at": "2026-09-25T17:28:02.433834-07:00"
+      },
+      {
+        "title": "Sacerdote muere en ataque con cuchillo en monasterio",
+        "summary": "Asalto violento en institución religiosa deja una persona fallecida y cuatro heridos en Baja California.",
+        "zona": "Baja California",
+        "source": "TV Azteca BC",
+        "url": "https://www.tvaztecabajacalifornia.com/policiaca/sacerdote-muere-y-cuatro-quedan-heridos-luego-de-ataque-con-cuchillo-en-monasterio/",
+        "_added_at": "2026-09-25T17:28:02.433834-07:00"
+      },
+      {
+        "title": "Tecate: cuatro ejecuciones en veinticuatro horas",
+        "summary": "Municipio fronterizo registra escalada de violencia con múltiples homicidios y heridos en breve lapso.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/tecate-4-ejecuciones-y-dos-heridos-en-24-horas/?utm_source=rss&utm_medium=rss&utm_campaign=tecate-4-ejecuciones-y-dos-heridos-en-24-horas",
+        "_added_at": "2026-09-25T17:28:02.433834-07:00"
+      },
+      {
+        "title": "Piden retomar armamento para policías fronterizos",
+        "summary": "Autoridades locales advierten que elementos están en desventaja operacional contra delincuencia organizada.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182137_piden_retomar_tema_de_armas_para_policias_siguen_en_desventaja_contra_delincuencia",
+        "_added_at": "2026-09-25T17:28:02.433834-07:00"
+      },
+      {
+        "title": "FGE reporta órdenes contra policías y servidores públicos",
+        "summary": "Fiscalía anuncia aprehensiones de elementos de seguridad e investigaciones contra funcionarios en Baja California.",
+        "zona": "Baja California",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/09/25/fge-reporta-ordenes-de-aprehension-contra-policias-y-acciones-contra-servidores-publicos/",
+        "_added_at": "2026-09-25T17:28:02.433834-07:00"
+      },
       {
         "title": "Detienen a presunto feminicida en Natura",
         "summary": "Capturan a hombre con posesión de droga, sospechoso de feminicidio de mujer embarazada.",
@@ -74,33 +122,41 @@
         "source": "ZETA Tijuana",
         "url": "https://zetatijuana.com/2026/09/montachoques-operan-con-policias-podcast/?utm_source=rss&utm_medium=rss&utm_campaign=montachoques-operan-con-policias-podcast",
         "_added_at": "2026-09-25T00:59:26.138370-07:00"
-      },
-      {
-        "title": "Hombre desaparecido hallado sin vida en Tijuana",
-        "summary": "Localizan cadáver de hombre que desapareció junto a su madre y esposa; investigación continúa sobre las circunstancias del hallazgo.",
-        "zona": "Tijuana",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/182107_hallan_sin_vida_a_un_hombre_reportado_como_desaparecido_junto_a_su_madre_y_esposa",
-        "_added_at": "2026-09-25T00:59:26.138370-07:00"
-      },
-      {
-        "title": "Extorsiones en Mexicali caen 30 por ciento",
-        "summary": "Canaco reporta reducción significativa en extorsiones en Valle de Mexicali gracias a programas preventivos coordinados entre FGE y seguridad municipal.",
-        "zona": "Mexicali",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/99838/Ve-Canaco-reducci%C3%B3n-en-extorsiones-en-El-Valle-de-Mexicali-en-30%25",
-        "_added_at": "2026-09-25T00:59:26.138370-07:00"
-      },
-      {
-        "title": "Vecinos de El Rubí denuncian inseguridad creciente",
-        "summary": "Residentes de la zona reportan clima de inseguridad e incremento de delitos, demandando intervención de autoridades.",
-        "zona": "Tijuana",
-        "source": "TV Azteca BC",
-        "url": "https://www.tvaztecabajacalifornia.com/noticias/vecinos-de-el-rubi-tijuana-denuncian-temor-por-inseguridad-en-la-zona/",
-        "_added_at": "2026-09-25T00:59:26.138370-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Claudia Agatón anuncia segundo informe de gobierno",
+        "summary": "Presidenta municipal de Ensenada convoca a presentación de avances administrativos ante ciudadanía.",
+        "zona": "Ensenada",
+        "source": "EnsenadaHoy",
+        "url": "https://ensenadahoy.com/noticias/ver/696D",
+        "_added_at": "2026-09-25T17:28:02.433834-07:00"
+      },
+      {
+        "title": "Aprueban reforma de igualdad sustantiva en POEBC",
+        "summary": "Congreso estatal aprueba cambios a ley de paridad y equidad de género en poder ejecutivo.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/estatal/2026/09/25/aprueban-reforma-de-igualdad-sustantiva-en-la-ley-del-poebc/",
+        "_added_at": "2026-09-25T17:28:02.433834-07:00"
+      },
+      {
+        "title": "Juzgados se instalarán en predio del CEARTE Ensenada",
+        "summary": "Poder Judicial asignará fracción de terreno para construcción de nuevos juzgados familiares sin afectar actividades culturales.",
+        "zona": "Ensenada",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182136_haran_juzgados_del_poder_judicial_en_predio_del_ceart_ensenada",
+        "_added_at": "2026-09-25T17:28:02.433834-07:00"
+      },
+      {
+        "title": "Proponen IVA permanente al 8% en frontera norte",
+        "summary": "Diputado federal sugiere tasa fiscal reducida para estados fronterizos como estrategia económica.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/nacionales/182132_propone_max_garcia_tasa_permanente_del_8_al_iva_en_la_frontera_norte",
+        "_added_at": "2026-09-25T17:28:02.433834-07:00"
+      },
       {
         "title": "Escobar comenta sobre posible reelección de Burgueño",
         "summary": "Arturo Escobar habla de candidatura de Burgueño para próxima alcaldía de Tijuana.",
@@ -188,17 +244,33 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/182104_piden_atender_en_el_congreso_necesidades_fiscales_de_la_frontera",
         "_added_at": "2026-09-25T00:59:26.138370-07:00"
-      },
-      {
-        "title": "Cearte compartirá predio para nuevos juzgados familiares",
-        "summary": "Gobierno asignará fracción del terreno del centro cultural para construir juzgados sin afectar actividades artísticas.",
-        "zona": "Ensenada",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Ensenada/99855/Asignaci%C3%B3n-de-una-fracci%C3%B3n-del-predio-del-Ceart-permitir%C3%A1-nuevos-juzgados-familiares-sin-desatender-su-actividad-cultural",
-        "_added_at": "2026-09-25T00:59:26.138370-07:00"
       }
     ],
     "economia": [
+      {
+        "title": "Inicia construcción de planta desaladora en Rosarito",
+        "summary": "Gobierno de BC coloca primera piedra de megaproyecto de agua para garantizar acceso a recurso hídrico.",
+        "zona": "Rosarito",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/estatal/2026/09/25/inicia-bc-construccion-de-planta-desaladora-de-rosarito-para-que-el-agua-sea-un-derecho-y-no-un-privilegio/",
+        "_added_at": "2026-09-25T17:28:02.433834-07:00"
+      },
+      {
+        "title": "Sempra Infraestructura destaca en Enerbaja 2026",
+        "summary": "Empresa participa en conferencia de energía renovable mostrando proyectos en la región.",
+        "zona": "Ensenada",
+        "source": "Rada Noticias",
+        "url": "https://radanoticias.info/sempra-infraestructura-destaca-en-enerbaja-2026/",
+        "_added_at": "2026-09-25T17:28:02.433834-07:00"
+      },
+      {
+        "title": "Hacienda anuncia estímulos a gasolinas en frontera",
+        "summary": "Gobierno federal define medidas fiscales para reducir costos de combustible en zona norte del país.",
+        "zona": "Baja California",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/dinero/2026/09/25/hacienda-define-estimulos-fiscales-para-gasolinas-en-la-frontera-norte/",
+        "_added_at": "2026-09-25T17:28:02.433834-07:00"
+      },
       {
         "title": "Dólar sube a 17 pesos en casas de cambio",
         "summary": "Tipo de cambio se incrementa en transacciones de divisas en Baja California.",
@@ -242,6 +314,38 @@
     ],
     "eventos": [
       {
+        "title": "Presentan Copa Britania de Tenis en Tijuana",
+        "summary": "Torneo de tenis se convoca con participación de jugadores en competencia deportiva local.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/presentan-copa-britania-de-tenis/?utm_source=rss&utm_medium=rss&utm_campaign=presentan-copa-britania-de-tenis",
+        "_added_at": "2026-09-25T17:28:02.433834-07:00"
+      },
+      {
+        "title": "Sorteo de Egresados UABC reúne a cincuenta mil",
+        "summary": "Universidad celebra acto académico con amplia participación de estudiantes y familia.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/25/mas-de-50-mil-participan-en-el-sorteo-de-egresados-uabc/",
+        "_added_at": "2026-09-25T17:28:02.433834-07:00"
+      },
+      {
+        "title": "CETYS Universidad conmemora 65 años de trayectoria",
+        "summary": "Institución educativa reconoce seis décadas transformando vidas a través de formación académica.",
+        "zona": "Ensenada",
+        "source": "Rada Noticias",
+        "url": "https://radanoticias.info/65-anos-transformando-vidas-de-cetys-universidad/",
+        "_added_at": "2026-09-25T17:28:02.433834-07:00"
+      },
+      {
+        "title": "Rancho Casián recibe Galardón al Mérito Turístico",
+        "summary": "Empresa de Tijuana obtiene reconocimiento estatal por su aporte a industria de turismo.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/sociales/182138_recibe_rancho_casian_el_galardon_al_merito_turistico_2026_categoria_empresa",
+        "_added_at": "2026-09-25T17:28:02.433834-07:00"
+      },
+      {
         "title": "Última etapa del Serial UABC 2026 en competencia",
         "summary": "Se disputa fase final de torneo deportivo universitario en Baja California.",
         "zona": "Baja California",
@@ -267,6 +371,54 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Convoca Ensenada a participar en programa deporte adaptado",
+        "summary": "Gobierno municipal abre inscripciones para actividades deportivas inclusivas dirigidas a personas con discapacidad.",
+        "zona": "Ensenada",
+        "source": "EnsenadaHoy",
+        "url": "https://ensenadahoy.com/noticias/ver/696E",
+        "_added_at": "2026-09-25T17:28:02.433834-07:00"
+      },
+      {
+        "title": "Estudiantes desarrollan soluciones con inteligencia artificial",
+        "summary": "Universitarios crean proyectos tecnológicos para atender problemas y retos sociales de la comunidad.",
+        "zona": "Ensenada",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/09/25/estudiantes-desarrollan-soluciones-con-inteligencia-artificial-para-atender-retos-sociales/",
+        "_added_at": "2026-09-25T17:28:02.433834-07:00"
+      },
+      {
+        "title": "FGE asegura doce caninos maltratados en BC",
+        "summary": "Autoridades rescatan animales que sufrían abuso y los ponen a disposición de protectoras.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/25/fge-asegura-12-caninos-que-sufrian-maltrato-animal/",
+        "_added_at": "2026-09-25T17:28:02.433834-07:00"
+      },
+      {
+        "title": "Reconocen a familias donantes de órganos en BC",
+        "summary": "Iniciativa estatal rinde homenaje a personas que contribuyen con donación de órganos para trasplantes.",
+        "zona": "Baja California",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/09/25/reconocen-a-familias-donantes-de-organos-en-baja-california/",
+        "_added_at": "2026-09-25T17:28:02.433834-07:00"
+      },
+      {
+        "title": "Doscientos veintitrés perros esperan adopción en santuario",
+        "summary": "Refugio animal en Ensenada alberga rescatados que requieren hogares responsables.",
+        "zona": "Ensenada",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/09/25/223-perros-rescatados-esperan-adopcion-en-el-santuario-animal-mily/",
+        "_added_at": "2026-09-25T17:28:02.433834-07:00"
+      },
+      {
+        "title": "Sindicato de salud protesta por falta de uniformes",
+        "summary": "Trabajadores del sector médico en Mexicali exigen cumplimiento de prestaciones laborales básicas.",
+        "zona": "Mexicali",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/99884/Sindicato-de-salud-se-manifiesta-por-falta-de-uniformes",
+        "_added_at": "2026-09-25T17:28:02.433834-07:00"
+      },
       {
         "title": "Retiran 70 toneladas de envases de plaguicidas en BC",
         "summary": "Operativo de recolección de contenedores químicos peligrosos en San Quintín.",
@@ -338,16 +490,8 @@
         "source": "TV Azteca BC",
         "url": "https://www.tvaztecabajacalifornia.com/noticias/rescatan-a-familia-de-cuatro-integrantes-tras-ser-arrastrada-por-la-corriente-en-playas-de-tijuana-este-jueves/",
         "_added_at": "2026-09-25T00:59:26.138370-07:00"
-      },
-      {
-        "title": "Fuga de agua perjudica a vecinos de Villas del Prado",
-        "summary": "Residents reportan escape de líquido con coloración anormal y olor desagradable en zona residencial de Tijuana.",
-        "zona": "Tijuana",
-        "source": "TV Azteca BC",
-        "url": "https://www.tvaztecabajacalifornia.com/noticias/fuga-de-agua-con-mal-olor-y-color-verdoso-afecta-a-vecinos-de-villas-del-prado-tijuana/",
-        "_added_at": "2026-09-25T00:59:26.138370-07:00"
       }
     ]
   },
-  "last_updated": "2026-09-25T12:56:48.848626-07:00"
+  "last_updated": "2026-09-25T17:28:02.433834-07:00"
 }
