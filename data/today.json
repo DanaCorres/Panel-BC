@@ -1,8 +1,56 @@
 {
   "date": "2026-09-26",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "FGE incrementa 37% cateos y refuerza combate al robo",
+        "summary": "Fiscalía reporta aumento significativo en operativos de cateo y cumplimentación de órdenes de aprehensión en el estado.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/26/fge-incrementa-37-los-cateos-y-refuerza-el-combate-al-robo-en-bc/",
+        "_added_at": "2026-09-26T12:08:24.517879-07:00"
+      },
+      {
+        "title": "Aseguran 249 kg cocaína y fentanilo en Garita de Otay",
+        "summary": "Autoridades decomisan droga en camión con doble fondo en punto fronterizo de Tijuana.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/aseguran-en-garita-de-otay-249-kilos-de-cocaina-y-fentanilo-en-camion-de-doble-fondo/?utm_source=rss&utm_medium=rss&utm_campaign=aseguran-en-garita-de-otay-249-kilos-de-cocaina-y-fentanilo-en-camion-de-doble-fondo",
+        "_added_at": "2026-09-26T12:08:24.517879-07:00"
+      },
+      {
+        "title": "Vinculan a proceso a esposo por feminicidio de Marlén",
+        "summary": "Jonathan Paul queda ligado a proceso judicial acusado del homicidio de su pareja en Baja California.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/26/vinculan-a-proceso-a-esposo-de-marlen-por-feminicidio/",
+        "_added_at": "2026-09-26T12:08:24.517879-07:00"
+      },
+      {
+        "title": "Ejército detiene a tres hombres armados en Ensenada",
+        "summary": "Militar asegura a individuos con equipo táctico en operativo realizado en la ciudad.",
+        "zona": "Ensenada",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/182160_detuvo_el_ejercito_a_tres_hombres_armados_y_con_equipo_tactico_en_ensenada",
+        "_added_at": "2026-09-26T12:08:24.517879-07:00"
+      },
+      {
+        "title": "Capacitan a 600 policías de Ensenada en derechos humanos",
+        "summary": "Corporación municipal recibe formación especializada en protección de derechos fundamentales.",
+        "zona": "Ensenada",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/09/26/capacitan-en-derechos-humanos-a-mas-de-600-policias-de-ensenada/",
+        "_added_at": "2026-09-26T12:08:24.517879-07:00"
+      },
+      {
+        "title": "Ensenada implementa 120 Comités de Paz comunitarios",
+        "summary": "Municipio lanza iniciativa desde colonias para resolver conflictos mediante mediación local.",
+        "zona": "Ensenada",
+        "source": "E1 Noticias",
+        "url": "https://www.ensenadaunonoticias.info/ensenada-pone-en-marcha-120-comites-de-paz-para-atender-conflictos-desde-las-colonias/",
+        "_added_at": "2026-09-26T12:08:24.517879-07:00"
+      },
       {
         "title": "Vinculan a sospechoso por feminicidio en Baja California",
         "summary": "Jonathan Paul queda ligado a proceso por el feminicidio de Marlén. Caso con seguimiento judicial en la entidad.",
@@ -30,6 +78,38 @@
     ],
     "politica": [
       {
+        "title": "Burgueño confirma candidatura para reelección como presidente",
+        "summary": "Alcalde de Tijuana anuncia su intención de repostularse para próximo período.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182163_burgueno_confirma_que_buscara_la_reeleccion",
+        "_added_at": "2026-09-26T12:08:24.517879-07:00"
+      },
+      {
+        "title": "TSJBC defiende asignación de predio para juzgados familiares",
+        "summary": "Tribunal Superior respalda decisión sobre infraestructura judicial en CEART.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182159_tsjbc_defiende_asignacion_de_predio_en_ceart_para_juzgados_familiares",
+        "_added_at": "2026-09-26T12:08:24.517879-07:00"
+      },
+      {
+        "title": "San Quintín requiere unidad y madurez política: Julieta Ramírez",
+        "summary": "Funcionaria destaca necesidad de consenso en municipio para avanzar en desarrollo.",
+        "zona": "Baja California",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/99895/San-Quint%C3%ADn-requiere-unidad-y-madurez-pol%C3%ADtica%3A-Julieta-Ram%C3%ADrez",
+        "_added_at": "2026-09-26T12:08:24.517879-07:00"
+      },
+      {
+        "title": "Tecate sufre recorte de 1.31% en aportaciones federales",
+        "summary": "Municipio enfrenta reducción en participaciones del gobierno central.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/empresarial/182151_recortan_1_31_las_aportaciones_y_participaciones_en_tecate",
+        "_added_at": "2026-09-26T12:08:24.517879-07:00"
+      },
+      {
         "title": "Gasto en servicios personales del PJE aumentó 44% en tres años",
         "summary": "Observatorio ciudadano denuncia incremento significativo en presupuesto destinado a servicios personales en el Poder Judicial Estatal.",
         "zona": "Baja California",
@@ -54,8 +134,73 @@
         "_added_at": "2026-09-26T00:52:33.378010-07:00"
       }
     ],
-    "economia": [],
+    "economia": [
+      {
+        "title": "CFE enfrenta recorte presupuestario, anticipan más apagones",
+        "summary": "Reducción de fondos afectará servicio eléctrico con mayor número de interrupciones.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/menos-presupuesto-para-cfe-mas-apagones-y-mas-perdidas-para-usuarios/?utm_source=rss&utm_medium=rss&utm_campaign=menos-presupuesto-para-cfe-mas-apagones-y-mas-perdidas-para-usuarios",
+        "_added_at": "2026-09-26T12:08:24.517879-07:00"
+      },
+      {
+        "title": "Otay II iniciará operaciones hacia finales de 2028",
+        "summary": "Segunda garita fronteriza de Tijuana prevé comenzar funcionamiento en próximos dos años.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182164_preven_operacion_de_otay_ii_hacia_finales_de_2028",
+        "_added_at": "2026-09-26T12:08:24.517879-07:00"
+      },
+      {
+        "title": "Ensenada reporta cifras récord de turismo",
+        "summary": "Autoridades municipales destacan crecimiento significativo en llegada de visitantes.",
+        "zona": "Ensenada",
+        "source": "EnsenadaHoy",
+        "url": "https://ensenadahoy.com/noticias/ver/696F",
+        "_added_at": "2026-09-26T12:08:24.517879-07:00"
+      },
+      {
+        "title": "Turismo en Tijuana se mantiene sin despegar",
+        "summary": "Llegada de visitantes internacionales persiste con tendencia estancada.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/empresarial/182152_sin_levantar_llegada_de_turistas_internacionales_a_tijuana",
+        "_added_at": "2026-09-26T12:08:24.517879-07:00"
+      }
+    ],
     "eventos": [
+      {
+        "title": "CECUT celebra 44 años con actividades especiales",
+        "summary": "Centro Cultural Tijuana prepara programación para conmemorar aniversario de su fundación.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/26/cecut-celebra-44-anos/",
+        "_added_at": "2026-09-26T12:08:24.517879-07:00"
+      },
+      {
+        "title": "Trail & Wine 2026 reúne 300 corredores en Valle de Guadalupe",
+        "summary": "Evento combina deporte y turismo vinícola con participación masiva.",
+        "zona": "Ensenada",
+        "source": "EnsenadaHoy",
+        "url": "https://ensenadahoy.com/noticias/ver/6970",
+        "_added_at": "2026-09-26T12:08:24.517879-07:00"
+      },
+      {
+        "title": "Festival Internacional de Jazz de UABC abre convocatoria",
+        "summary": "Universidad invita al público a disfrutar de festival musical.",
+        "zona": "Ensenada",
+        "source": "Rada Noticias",
+        "url": "https://radanoticias.info/invitan-a-festival-internacional-de-jazz-de-la-uabc/",
+        "_added_at": "2026-09-26T12:08:24.517879-07:00"
+      },
+      {
+        "title": "Semana de Teatro para Niños celebra su edición 18",
+        "summary": "Evento en Ensenada dedicado al teatro infantil con participación de cientos de menores.",
+        "zona": "Ensenada",
+        "source": "El Vigía",
+        "url": "https://www.youtube.com/watch?v=DxbugJxnyWQ",
+        "_added_at": "2026-09-26T12:08:24.517879-07:00"
+      },
       {
         "title": "Fiestas del Sol 2026 arrancan en Mexicali",
         "summary": "Inician celebraciones de las Fiestas del Sol en Mexicali el 25 de septiembre.",
@@ -66,6 +211,38 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Baja California suma 21 medallas en Paralimpiada Nacional",
+        "summary": "Estado obtiene desempeño destacado en su debut en competencia deportiva paralímpica.",
+        "zona": "Baja California",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/09/26/baja-california-suma-21-medallas-en-su-debut-en-la-paralimpiada-nacional-conade-2026/",
+        "_added_at": "2026-09-26T12:08:24.517879-07:00"
+      },
+      {
+        "title": "SICT concluye obras de rehabilitación en puente La Gringa",
+        "summary": "Secretaría de Infraestructura finaliza mejoras en paso fronterizo de Bahía de los Ángeles.",
+        "zona": "Ensenada",
+        "source": "Rada Noticias",
+        "url": "https://radanoticias.info/sict-conlcluye-obras-en-el-puente-la-gringa-en-bahia-de-los-angeles/",
+        "_added_at": "2026-09-26T12:08:24.517879-07:00"
+      },
+      {
+        "title": "San Quintín recolecta 60 toneladas de envases de plaguicidas",
+        "summary": "Municipio realiza operativo de acopio ambiental en zona agrícola.",
+        "zona": "Baja California",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/09/26/recolectan-60-toneladas-de-envases-de-plaguicidas-en-san-quintin/",
+        "_added_at": "2026-09-26T12:08:24.517879-07:00"
+      },
+      {
+        "title": "Detectan fuga de hidrocarburos en Presa Abelardo L. Rodríguez",
+        "summary": "Alerta ambiental por derrame de combustible en cuerpo de agua de Tijuana.",
+        "zona": "Tijuana",
+        "source": "TV Azteca BC",
+        "url": "https://www.tvaztecabajacalifornia.com/noticias/alerta-en-tijuana-detectan-fuga-hidrocarburos-sobre-el-agua-de-la-presa-abelardo-l-rodriguez/",
+        "_added_at": "2026-09-26T12:08:24.517879-07:00"
+      },
       {
         "title": "Error hospitalario cambia recién nacidos en Mexicali",
         "summary": "Se registra intercambio accidental de bebés en hospital de Mexicali, caso detectado y reportado.",
@@ -92,5 +269,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-26T00:52:33.378010-07:00"
+  "last_updated": "2026-09-26T12:08:24.517879-07:00"
 }
