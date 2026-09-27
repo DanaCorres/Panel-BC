@@ -1,8 +1,48 @@
 {
   "date": "2026-09-26",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Exgobernador Ruffo trasladado a prisión domiciliaria en Ensenada",
+        "summary": "Ernesto Ruffo dejó el penal del Altiplano y fue trasladado a Ensenada para cumplir condena en domicilio.",
+        "zona": "Ensenada",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/exgobernador-ernesto-ruffo-deja-el-altiplano-y-viaja-a-ensenada-para-prision-domiciliaria/",
+        "_added_at": "2026-09-26T17:23:26.890654-07:00"
+      },
+      {
+        "title": "Aseguran 249 kilos de cocaína y fentanilo en Otay",
+        "summary": "Autoridades decomisaron droga en camión con doble fondo en la garita de Otay, Tijuana.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/aseguran-en-garita-de-otay-249-kilos-de-cocaina-y-fentanilo-en-camion-de-doble-fondo/",
+        "_added_at": "2026-09-26T17:23:26.890654-07:00"
+      },
+      {
+        "title": "Interceptan embarcaciones con 45 migrantes en Ensenada",
+        "summary": "Autoridades decomisaron dos embarcaciones con 45 migrantes indocumentados en aguas de Ensenada.",
+        "zona": "Ensenada",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/interceptan-dos-embarcaciones-con-45-migrantes-en-aguas-de-ensenada/",
+        "_added_at": "2026-09-26T17:23:26.890654-07:00"
+      },
+      {
+        "title": "Vinculan a proceso a hombre por delitos sexuales contra menor",
+        "summary": "Autoridades procesaron a un acusado de cometer abuso sexual contra una menor en Ensenada.",
+        "zona": "Ensenada",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/09/26/vinculan-a-proceso-a-hombre-acusado-de-delitos-sexuales-contra-una-menor-en-ensenada/",
+        "_added_at": "2026-09-26T17:23:26.890654-07:00"
+      },
+      {
+        "title": "Encuentran 5 mil litros de combustible ilegal en Tijuana",
+        "summary": "Descubren gasolina clandestina en contenedores dentro de tractocamión en operativo de inspección.",
+        "zona": "Tijuana",
+        "source": "TV Azteca BC",
+        "url": "https://www.tvaztecabajacalifornia.com/noticias/encuentran-5-mil-litros-de-combustible-en-dos-contenedores-dentro-de-un-tractocamion-en-tijuana/",
+        "_added_at": "2026-09-26T17:23:26.890654-07:00"
+      },
       {
         "title": "FGE incrementa 37% cateos y refuerza combate al robo",
         "summary": "Fiscalía reporta aumento significativo en operativos de cateo y cumplimentación de órdenes de aprehensión en el estado.",
@@ -78,6 +118,30 @@
     ],
     "politica": [
       {
+        "title": "Burgueño confirma candidatura para reelección en Tijuana",
+        "summary": "El presidente municipal de Tijuana anuncia que buscará continuar gobernando los próximos tres años.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/derrotado-en-la-estatal-burgueno-buscara-reeleccion-en-tijuana-sindica-se-descarta/",
+        "_added_at": "2026-09-26T17:23:26.890654-07:00"
+      },
+      {
+        "title": "Toman protesta 120 comités de paz y justicia cívica",
+        "summary": "Claudia Agatón juramentó a 120 comités nuevos en Ensenada para fortalecer seguridad comunitaria.",
+        "zona": "Ensenada",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/09/26/toman-protesta-120-comites-de-paz-y-justicia-civica-en-ensenada/",
+        "_added_at": "2026-09-26T17:23:26.890654-07:00"
+      },
+      {
+        "title": "Prevén operación de Otay II hacia finales de 2028",
+        "summary": "Se estima que el segundo puerto fronterizo en Otay comenzará operaciones a fines del próximo año.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182164_preven_operacion_de_otay_ii_hacia_finales_de_2028",
+        "_added_at": "2026-09-26T17:23:26.890654-07:00"
+      },
+      {
         "title": "Burgueño confirma candidatura para reelección como presidente",
         "summary": "Alcalde de Tijuana anuncia su intención de repostularse para próximo período.",
         "zona": "Tijuana",
@@ -136,6 +200,30 @@
     ],
     "economia": [
       {
+        "title": "Ensenada recibe 1.5 millones de visitantes en cruceros",
+        "summary": "El puerto de Ensenada reporta cifra récord de pasajeros en cruceros durante 2026.",
+        "zona": "Ensenada",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/09/26/ensenada-reporta-389-arribos-de-cruceros-y-mas-de-1-4-millones-de-pasajeros-en-2026/",
+        "_added_at": "2026-09-26T17:23:26.890654-07:00"
+      },
+      {
+        "title": "Mexicali destina 80.5 millones a obras ciudadanas",
+        "summary": "El municipio asigna presupuesto participativo elegido por ciudadanos para proyectos de infraestructura.",
+        "zona": "Mexicali",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/mexicali-destina-80-5-mdp-a-obras-elegidas-por-ciudadanos/",
+        "_added_at": "2026-09-26T17:23:26.890654-07:00"
+      },
+      {
+        "title": "Usuarios exigen mejorar transporte público y tarifas",
+        "summary": "Ciudadanía de Tijuana demanda que IMOS incremente calidad de servicio y revise precios.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/26/usuarios-exigen-a-imos-mejorar-transporte-publico-y-tarifas/",
+        "_added_at": "2026-09-26T17:23:26.890654-07:00"
+      },
+      {
         "title": "CFE enfrenta recorte presupuestario, anticipan más apagones",
         "summary": "Reducción de fondos afectará servicio eléctrico con mayor número de interrupciones.",
         "zona": "Tijuana",
@@ -169,6 +257,30 @@
       }
     ],
     "eventos": [
+      {
+        "title": "Trail & Wine 2026 reúne 300 corredores en Valle",
+        "summary": "Más de 300 participantes completaron carrera deportiva combinada con vino en Valle de Guadalupe.",
+        "zona": "Ensenada",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/09/26/trail-wine-reune-a-mas-de-300-corredores-en-el-valle-de-guadalupe/",
+        "_added_at": "2026-09-26T17:23:26.890654-07:00"
+      },
+      {
+        "title": "Convocan a integrar jurado de Salón de la Fama",
+        "summary": "Invitan a ciudadanía a participar como integrante del jurado para honores deportivos en Ensenada.",
+        "zona": "Ensenada",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/convocan-a-integrar-el-jurado-del-salon-de-la-fama-del-deporte-de-ensenada/",
+        "_added_at": "2026-09-26T17:23:26.890654-07:00"
+      },
+      {
+        "title": "Comisario Pantera celebra 15 años de rock",
+        "summary": "La agrupación musical conmemora una década y media de trayectoria en escenas locales.",
+        "zona": "Baja California",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/comisario-pantera-15-anos-de-rock/",
+        "_added_at": "2026-09-26T17:23:26.890654-07:00"
+      },
       {
         "title": "CECUT celebra 44 años con actividades especiales",
         "summary": "Centro Cultural Tijuana prepara programación para conmemorar aniversario de su fundación.",
@@ -211,6 +323,38 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "IMSS confirma error al entregar bebés a familias equivocadas",
+        "summary": "Hospital en Mexicali admite confusión administrativa que resultó en entrega incorrecta de neonatos.",
+        "zona": "Mexicali",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/confirma-imss-error-al-entregar-a-dos-bebes-a-familias-que-no-correspondian-en-mexicali/",
+        "_added_at": "2026-09-26T17:23:26.890654-07:00"
+      },
+      {
+        "title": "Más de 200 jóvenes asumen cargos de comisarios sociales",
+        "summary": "Jóvenes toman protesta como comisarios sociales para fortalecer seguridad comunitaria en Tijuana.",
+        "zona": "Tijuana",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/mas-de-200-jovenes-asumen-cargos-como-comisarios-sociales-en-tijuana/",
+        "_added_at": "2026-09-26T17:23:26.890654-07:00"
+      },
+      {
+        "title": "Baja California cuenta con 59 módulos contra embarazos",
+        "summary": "El estado opera centros especializados para prevenir embarazos en adolescentes y orientar a jóvenes.",
+        "zona": "Baja California",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/09/26/baja-california-cuenta-con-59-modulos-para-prevenir-embarazos-en-adolescentes/",
+        "_added_at": "2026-09-26T17:23:26.890654-07:00"
+      },
+      {
+        "title": "Reloj Rotario del Riviera vuelve a funcionar",
+        "summary": "Monumento emblemático de Ensenada regresa a operación tras cinco años sin actividad.",
+        "zona": "Ensenada",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/09/26/vuelve-a-funcionar-el-reloj-rotario-del-riviera-tras-cinco-anos-detenido/",
+        "_added_at": "2026-09-26T17:23:26.890654-07:00"
+      },
       {
         "title": "Baja California suma 21 medallas en Paralimpiada Nacional",
         "summary": "Estado obtiene desempeño destacado en su debut en competencia deportiva paralímpica.",
@@ -269,5 +413,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-26T12:08:24.517879-07:00"
+  "last_updated": "2026-09-26T17:23:26.890654-07:00"
 }
