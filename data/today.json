@@ -1,329 +1,88 @@
 {
-  "date": "2026-09-27",
-  "run_count": 3,
+  "date": "2026-09-28",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Hombre detenido tras disparar contra cafetería en Tijuana",
-        "summary": "Sujeto fue capturado por municipales tras atacar a balazos un Starbucks en la Macro. Portaba una pistola Glock.",
-        "zona": "Tijuana",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/tij/policiaca/2026/09/27/detienen-a-hombre-tras-ataque-armado-contra-cafeteria-en-tijuana/",
-        "_added_at": "2026-09-27T17:27:37.352881-07:00"
-      },
-      {
-        "title": "Pareja muere rafagueada en motel de Valle de la Trinidad",
-        "summary": "Hallaron a dos personas sin vida en un cuarto de motel tras ataque armado. Autoridades investigan los hechos.",
-        "zona": "Tijuana",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/rafaguean-cuarto-de-motel-en-valle-de-la-trinidad-hay-una-pareja-sin-vida/?utm_source=rss&utm_medium=rss&utm_campaign=rafaguean-cuarto-de-motel-en-valle-de-la-trinidad-hay-una-pareja-sin-vida",
-        "_added_at": "2026-09-27T17:27:37.352881-07:00"
-      },
-      {
-        "title": "Marineros rescatan personas trasladadas ilegalmente a EU desde Ensenada",
-        "summary": "Marina aseguró a migrantes que eran trasportados ilegalmente hacia Estados Unidos desde el puerto ensenadense.",
-        "zona": "Ensenada",
-        "source": "Rada Noticias",
-        "url": "https://radanoticias.info/rescata-marina-a-personas-que-eran-trasladadas-ilegalmente-a-eu/",
-        "_added_at": "2026-09-27T17:27:37.352881-07:00"
-      },
-      {
-        "title": "Violencia feminicida suma 89 asesinatos de mujeres en BC este año",
-        "summary": "Registran 89 homicidios de mujeres en Baja California durante 2026, reflejando crisis de seguridad de género.",
-        "zona": "Baja California",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/27/violencia-feminicida-en-bc-89-asesinatos-de-mujeres/",
-        "_added_at": "2026-09-27T17:27:37.352881-07:00"
-      },
-      {
-        "title": "Pareja vinculada a proceso por secuestro de dos migrantes",
-        "summary": "Fueron detenidos tras mantener encerrados a dos migrantes. Autoridades avanzaron con acusaciones formales.",
-        "zona": "Baja California",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/182189_mantuvieron_secuestrados_a_dos_migrantes_vinculan_a_proceso_a_una_pareja",
-        "_added_at": "2026-09-27T17:27:37.352881-07:00"
-      },
-      {
-        "title": "Aseguran 5 mil litros de combustible robado en operativo",
-        "summary": "Autoridades decomisaron gasolina producto del huachicol durante acciones de vigilancia en la región.",
-        "zona": "Baja California",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/27/cae-con-cinco-mil-litros-de-huachicol/",
-        "_added_at": "2026-09-27T17:27:37.352881-07:00"
-      },
-      {
-        "title": "Exgobernador Ernesto Ruffo sale del Altiplano rumbo a Ensenada",
-        "summary": "Ruffo abandona penal federal bajo custodia de Guardia Nacional para cumplir proceso en domicilio en Ensenada. Familiares desconocen detalles del traslado.",
-        "zona": "Ensenada",
-        "source": "TV Azteca BC",
-        "url": "https://www.tvaztecabajacalifornia.com/noticias/ernesto-n-sale-del-altiplano-continuara-su-proceso-desde-su-domicilio-en-ensenada/",
-        "_added_at": "2026-09-27T12:40:31.709795-07:00"
-      },
-      {
-        "title": "Investigan asesinatos de abogados en Tijuana",
-        "summary": "Autoridades requieren esclarecer casos de abogados asesinados y llevarlos ante tribunales competentes en la ciudad.",
-        "zona": "Tijuana",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/27/piden-investigar-y-llevar-ante-tribunales-casos-de-abogados-asesinados-en-tijuana/",
-        "_added_at": "2026-09-27T12:40:31.709795-07:00"
-      },
-      {
-        "title": "Pareja muerta tras ataque armado en motel de Tijuana",
-        "summary": "Localizan pareja sin vida en Valle de la Trinidad tras ráfagas de arma de fuego en cuarto de hospedaje.",
-        "zona": "Tijuana",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/rafaguean-cuarto-de-motel-en-valle-de-la-trinidad-hay-una-pareja-sin-vida/?utm_source=rss&utm_medium=rss&utm_campaign=rafaguean-cuarto-de-motel-en-valle-de-la-trinidad-hay-una-pareja-sin-life",
-        "_added_at": "2026-09-27T12:40:31.709795-07:00"
-      },
-      {
-        "title": "Marina rescata 45 mexicanos trasladados ilegalmente a EU",
-        "summary": "Interceptan dos yates con migrantes mexicanos siendo llevados sin autorización hacia Estados Unidos en operativo naval.",
-        "zona": "Baja California",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/27/marina-intercepta-dos-yates-con-45-mexicanos-que-eran-llevados-ilegalmente-a-estados-unidos/",
-        "_added_at": "2026-09-27T12:40:31.709795-07:00"
-      },
-      {
-        "title": "Hombre hallado muerto con signos de violencia en Mexicali",
-        "summary": "Encuentran cadáver con evidencia de daño físico en Valle de Mexicali durante patrullaje.",
-        "zona": "Mexicali",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/encuentran-a-hombre-sin-vida-con-huellas-de-violencia-en-el-valle-de-mexicali/?utm_source=rss&utm_medium=rss&utm_campaign=encuentran-a-hombre-sin-vida-con-huellas-de-violencia-en-el-valle-de-mexicali",
-        "_added_at": "2026-09-27T12:40:31.709795-07:00"
-      },
-      {
-        "title": "Vinculan a proceso a esposo por feminicidio en Ensenada",
-        "summary": "Autoridades ejercen acción penal contra pareja de víctima identificada como Marlen tras investigación.",
-        "zona": "Ensenada",
-        "source": "Rada Noticias",
-        "url": "https://radanoticias.info/vinculan-a-proceso-a-esposo-de-marlen-por-feminicidio/",
-        "_added_at": "2026-09-27T12:40:31.709795-07:00"
-      },
-      {
-        "title": "Rezago en carpetas de investigación: alerta penalistas",
-        "summary": "Especialistas en derecho penal advierten sobre retrasos persistentes en integración de expedientes criminales.",
+        "title": "Presuntos asesinos detenidos en operativo de rutina",
+        "summary": "Detienen a dos individuos que aparentaban ser deportistas pero son investigados por homicidios en Tijuana.",
         "zona": "Tijuana",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/182180_advierten_penalistas_que_persiste_rezago_en_integracion_de_carpetas_de_investigacion",
-        "_added_at": "2026-09-27T12:40:31.709795-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/182203_trotaban_como_deportistas_pero_al_parecer_eran_asesinos",
+        "_added_at": "2026-09-28T01:48:44.685359-07:00"
       },
       {
-        "title": "Detienen a trailero con 5 mil litros de huachicol",
-        "summary": "Policías municipales de Tijuana aseguran a conductor de tráiler con supuesto combustible robado.",
+        "title": "Hallan cadáver con signos de violencia en Obrera",
+        "summary": "Localizan cuerpo de hombre con heridas en colonia Obrera; investigación en curso por autoridades.",
         "zona": "Tijuana",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/182172_detienen_municipales_a_un_trailero_con_5_mil_litros_de_supuesto_huachicol",
-        "_added_at": "2026-09-27T01:23:11.210371-07:00"
-      },
-      {
-        "title": "Capacitan a policías municipales en salud mental",
-        "summary": "Autoridades ofrecen cursos de capacitación a elementos de seguridad en atención de crisis de salud mental.",
-        "zona": "Tijuana",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/182173_ofrecen_capacitacion_a_policias_municipales_en_materia_de_salud_mental",
-        "_added_at": "2026-09-27T01:23:11.210371-07:00"
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/99932/Localizan-a-hombre-sin-vida-y-con-huellas-de-violencia-en-la-colonia-Obrera",
+        "_added_at": "2026-09-28T01:48:44.685359-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Diputadas revisan iniciativa sobre Ley de Participación Ciudadana",
-        "summary": "Legisladoras analizan reforma para fortalecer mecanismos de participación ciudadana en Baja California.",
-        "zona": "Baja California",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/182194_revisan_diputadas_iniciativa_sobre_ley_de_participacion_ciudadana_de_bc",
-        "_added_at": "2026-09-27T17:27:37.352881-07:00"
-      },
-      {
-        "title": "Congreso aprueba reforma constitucional para trámites digitales",
-        "summary": "Diputados aprobaron cambios legales para facilitar servicios públicos y trámites a través de plataformas digitales.",
-        "zona": "Baja California",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/27/aprueba-congreso-reforma-constitucional-para-facilitar-tramites-y-servicios-digitales/",
-        "_added_at": "2026-09-27T17:27:37.352881-07:00"
-      },
-      {
-        "title": "Rocío Adame reconoce labor de trabajadores burócratas en aniversario",
-        "summary": "Presidenta del Congreso homenajeó a sindicalizados en celebración de 89 años de organización laboral.",
-        "zona": "Baja California",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/presidenta-rocio-adame-reconoce-la-labor-de-las-y-los-trabajadores-burocratas-en-el-89-aniversario-del-sindicato-unico-de-trabajadores-al-servicio-de-los-poderes-del-estado-municipios-e-instituciones/",
-        "_added_at": "2026-09-27T17:27:37.352881-07:00"
-      },
-      {
-        "title": "Presidente municipal Burgueño busca reelección en Tijuana",
-        "summary": "Autoridad municipal aspira a continuar tres años más al frente de la administración local.",
+        "title": "Reunión de gobernadores por unidad política",
+        "summary": "Julieta y Evangelina se reúnen; ambas enfatizan trabajo conjunto en la entidad.",
         "zona": "Tijuana",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/burgueno-va-por-otros-tres-anos-al-frente-de-tijuana/",
-        "_added_at": "2026-09-27T12:40:31.709795-07:00"
-      },
-      {
-        "title": "Congreso aprueba reforma de protección a menores en custodia",
-        "summary": "Legislatura estatal fortalece marco legal para salvaguardar derechos de niños en procesos de guarda.",
-        "zona": "Baja California",
-        "source": "Rada Noticias",
-        "url": "https://radanoticias.info/aprueba-congreso-reforma-para-fortalecer-proteccion-de-menores-en-proceso-de-custodia/",
-        "_added_at": "2026-09-27T12:40:31.709795-07:00"
-      },
-      {
-        "title": "FGR insiste en acusaciones contra Ruffo tras su salida",
-        "summary": "Fiscalía reitera argumentación legal sobre el caso del exgobernador en libertad condicional.",
-        "zona": "Ensenada",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/nacionales/182178_fgr_explica_la_salida_de_ruffo_e_insiste_en_acusaciones",
-        "_added_at": "2026-09-27T12:40:31.709795-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/182205_se_reunen_julieta_y_evangelina_aduciendo_unidad",
+        "_added_at": "2026-09-28T01:48:44.685359-07:00"
       },
       {
-        "title": "Ernesto Ruffo sale del penal federal hacia Ensenada",
-        "summary": "Exgobernador Ernesto Ruffo sale del Altiplano; completará proceso judicial desde su domicilio en Ensenada.",
-        "zona": "Ensenada",
+        "title": "Ruffo anuncia continuidad de gestión sin pausa",
+        "summary": "Funcionario confirma que sigue en trayecto y no se detiene en su labor actual.",
+        "zona": "Tijuana",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/182171_sale_ruffo_del_penal_federal_preparan_su_arribo_a_ensenada",
-        "_added_at": "2026-09-27T01:23:11.210371-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/182204_voy_en_trayecto_no_paro_ruffo",
+        "_added_at": "2026-09-28T01:48:44.685359-07:00"
       },
       {
-        "title": "Abogados se enfrentan con presidente del Tribunal de Justicia",
-        "summary": "Conflicto continúa entre colegio de abogados y titular del poder judicial de Baja California.",
-        "zona": "Baja California",
+        "title": "Se intensifica competencia por alcaldía de Tijuana",
+        "summary": "Múltiples candidatos se preparan para disputar la presidencia municipal en próximas elecciones.",
+        "zona": "Tijuana",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/humorismo_politico/182170_otra_vez_los_abogados_contra_el_presidente_del_tribunal_de_justicia",
-        "_added_at": "2026-09-27T01:23:11.210371-07:00"
+        "url": "https://www.afntijuana.info/afn_politico/182199_y_empezara_la_rebatinga_por_la_alcaldia_de_tijuana",
+        "_added_at": "2026-09-28T01:48:44.685359-07:00"
+      },
+      {
+        "title": "Agatón impulsa obras de infraestructura en municipio",
+        "summary": "Presidente municipal ejecuta proyectos sociales, viales y deportivos en su gestión.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182198_impulsa_agaton_obras_de_infraestructura_social_vial_y_deportiva",
+        "_added_at": "2026-09-28T01:48:44.685359-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Ensenada destina 250 millones en infraestructura y vialidades",
-        "summary": "Municipio invierte para rehabilitación de caminos y obras públicas. Agatón destaca cifras récord en turismo.",
-        "zona": "Ensenada",
-        "source": "AGP Noticias",
-        "url": "https://agpnoticias.com/news/ensenada-destina-mas-de-250-millones-de-pesos-a-obras-y-rehabilitacion-de-vialidades/",
-        "_added_at": "2026-09-27T17:27:37.352881-07:00"
+        "title": "Mexicali asiste alimentariamente a 39 mil personas",
+        "summary": "Gobierno municipal reporta distribución de asistencia alimentaria a casi cuarenta mil ciudadanos.",
+        "zona": "Mexicali",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/99916/Gobierno-de-Mexicali-apoy%C3%B3-a-39-mil-personas-con-asistencia-alimentaria",
+        "_added_at": "2026-09-28T01:48:44.685359-07:00"
       },
       {
-        "title": "CESPT construye tanque para conducir agua tratada fuera de Río Tijuana",
-        "summary": "Proyecto de infraestructura hídrica busca mejorar distribución de agua tratada en la zona metropolitana.",
-        "zona": "Tijuana",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/27/construye-cespt-tanque-para-conducir-agua-tratada-fuera-del-rio-tijuana/",
-        "_added_at": "2026-09-27T17:27:37.352881-07:00"
-      },
-      {
-        "title": "Ayuntamiento de Tijuana fortalece diálogo con restauranteros",
-        "summary": "Municipio brinda orientación a negocios gastronómicos sobre requisitos para operación legal.",
-        "zona": "Tijuana",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/27/fortalece-ayuntamiento-de-tijuana-vinculacion-y-dialogo-con-canirac/",
-        "_added_at": "2026-09-27T17:27:37.352881-07:00"
-      },
-      {
-        "title": "Ensenada recibirá 41 cruceros en octubre de 2026",
-        "summary": "Puerto proyecta flujo importante de turismo de cruceros durante el mes próximo con múltiples líneas.",
-        "zona": "Ensenada",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/tij/ensenada/2026/09/27/ensenada-recibira-41-cruceros-durante-octubre-de-2026-estas-lineas-llegaran-al-puerto/",
-        "_added_at": "2026-09-27T12:40:31.709795-07:00"
-      },
-      {
-        "title": "CESPT atiende deudores de agua con planes de regularización",
-        "summary": "Comisión estatal de servicios públicos ofrece apoyos para usuarios con adeudos pendientes.",
-        "zona": "Tijuana",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/27/cespt-llama-a-deudores-de-agua-a-regularizar-pagos-en-tijuana/",
-        "_added_at": "2026-09-27T12:40:31.709795-07:00"
+        "title": "Baja California supera cuatro millones de habitantes",
+        "summary": "Entidad alcanza hito demográfico de más de cuatro millones de residentes según datos oficiales.",
+        "zona": "Baja California",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99931/Supera-BC-los-4-millones-de-habitantes",
+        "_added_at": "2026-09-28T01:48:44.685359-07:00"
       }
     ],
     "eventos": [
       {
-        "title": "CETYS presenta programa de liderazgo social y formación ciudadana",
-        "summary": "Universidad lanzó iniciativa para capacitar jóvenes en liderazgo y compromiso cívico.",
-        "zona": "Tijuana",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/182196_presenta_cetys_programa_de_liderazgo_social_y_formacion_ciudadana",
-        "_added_at": "2026-09-27T17:27:37.352881-07:00"
-      },
-      {
-        "title": "Realizan cuarta Carrera Atlética del Poder Judicial en Mexicali",
-        "summary": "Evento deportivo reunió a funcionarios judiciales para actividad de bienestar.",
-        "zona": "Mexicali",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/182191_realizan_la_cuarta_carrera_atletica_del_poder_judicial_en_mexicali",
-        "_added_at": "2026-09-27T17:27:37.352881-07:00"
-      },
-      {
-        "title": "Marina del Pilar inaugura central de autobuses en Valle de Guadalupe",
-        "summary": "Gobernadora abre nueva terminal de transporte en municipio de Ensenada.",
-        "zona": "Ensenada",
-        "source": "Milenio",
-        "url": "https://www.milenio.com/estados/marina-pilar-inaugura-central-autobuses-valle-guadalupe",
-        "_added_at": "2026-09-27T12:40:31.709795-07:00"
-      },
-      {
-        "title": "Artista callejero crea espacio en Centro de Tijuana",
-        "summary": "José Antonio transforma banqueta en el Centro de Tijuana en galería de expresión artística.",
+        "title": "Conmemoración del Día Mundial del Migrante",
+        "summary": "Tijuana realiza ceremonia religiosa y jornada comunitaria en honor a migrantes y refugiados.",
         "zona": "Tijuana",
         "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99904/Jos%C3%A9-Antonio-convierte-una-banqueta-del-Centro-de-Tijuana-en-su-nuevo-espacio-de-arte",
-        "_added_at": "2026-09-27T01:23:11.210371-07:00"
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99915/Con-ceremonia-religiosa-y-jornada-comunitaria-conmemoran-el-D%C3%ADa-Mundial-del-Migrante-y-Refugiado",
+        "_added_at": "2026-09-28T01:48:44.685359-07:00"
       }
     ],
-    "sociedad": [
-      {
-        "title": "Detectan 129 casos y 60 muertes por rickettsiosis en BC este 2026",
-        "summary": "Enfermedad transmitida por garrapatas ha cobrado vidas. Autoridades de salud alertan sobre riesgos.",
-        "zona": "Baja California",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/182193_suman_129_casos_y_60_muertes_por_rickettsiosis_en_bc_en_2026",
-        "_added_at": "2026-09-27T17:27:37.352881-07:00"
-      },
-      {
-        "title": "IMSS comete error grave al intercambiar niñas recién nacidas",
-        "summary": "Falla administrativa en hospital dejó a dos familias con bebés equivocadas. Institución investiga.",
-        "zona": "Baja California",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/salud/2026/09/27/garrafal-error-del-imss-en-bc-al-intercambiar-ninas-recien-nacidas/",
-        "_added_at": "2026-09-27T17:27:37.352881-07:00"
-      },
-      {
-        "title": "Gobierno de Ensenada brinda orientación psicológica gratuita",
-        "summary": "Municipio ofrece servicios de salud mental a población como parte de programas de bienestar.",
-        "zona": "Ensenada",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/ensenada/2026/09/27/brinda-gobierno-de-claudia-agaton-orientacion-psicologica-gratuita-a-la-poblacion/",
-        "_added_at": "2026-09-27T17:27:37.352881-07:00"
-      },
-      {
-        "title": "Policías de Tijuana reciben capacitación en derechos humanos",
-        "summary": "Autoridades instruyen a oficiales municipales sobre perspectiva de género y protección de derechos.",
-        "zona": "Tijuana",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/182185_capacitan_a_policias_sobre_derechos_humanos_y_perspectiva_de_genero",
-        "_added_at": "2026-09-27T12:40:31.709795-07:00"
-      },
-      {
-        "title": "Policías municipales reciben capacitación en salud mental",
-        "summary": "Municipio de Tijuana forma a elementos en manejo y atención de crisis relacionadas con salud psicosocial.",
-        "zona": "Tijuana",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/182173_ofrecen_capacitacion_a_policias_municipales_en_materia_de_salud_mental",
-        "_added_at": "2026-09-27T12:40:31.709795-07:00"
-      },
-      {
-        "title": "Retiran 1.3 toneladas de residuos del fondo marino en Ensenada",
-        "summary": "Operativo de limpieza extrae basura del puerto para preservar ecosistema marino.",
-        "zona": "Ensenada",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/tij/ensenada/2026/09/27/retiran-mas-de-13-toneladas-de-residuos-del-fondo-del-mar-en-ensenada/",
-        "_added_at": "2026-09-27T12:40:31.709795-07:00"
-      },
-      {
-        "title": "Detienen estudiante de medicina acusado de crueldad animal",
-        "summary": "Autoridades de Ensenada capturan alumno por presunto descuartizamiento de gatos.",
-        "zona": "Ensenada",
-        "source": "Milenio",
-        "url": "https://www.milenio.com/estados/ensenada-detienen-astudiante-medicina-descuartizaba-gatos",
-        "_added_at": "2026-09-27T12:40:31.709795-07:00"
-      }
-    ]
+    "sociedad": []
   },
-  "last_updated": "2026-09-27T17:27:37.352881-07:00"
+  "last_updated": "2026-09-28T01:48:44.685359-07:00"
 }
