@@ -1,8 +1,56 @@
 {
   "date": "2026-09-28",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Ocho menores asesinados en Tecate; convocan marcha silenciosa",
+        "summary": "Tecate registra ocho homicidios de menores de edad. Autoridades municipales consideran medidas como toque de queda ante la escalada de violencia.",
+        "zona": "Tecate",
+        "source": "ZETA Tijuana / AFN Tijuana",
+        "url": "https://zetatijuana.com/2026/09/van-8-menores-asesinados-en-tecate/",
+        "_added_at": "2026-09-28T14:45:58.426123-07:00"
+      },
+      {
+        "title": "FGE reporta más de 8,700 detenidos por narcomenudeo en BC",
+        "summary": "Fiscalía General del Estado divulga cifras de detenciones, decomisos y cateos relacionados con tráfico de drogas en la entidad.",
+        "zona": "Baja California",
+        "source": "En Línea BC / Argumento Noticias",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/28/fge-reporta-mas-de-8-mil-700-detenidos-por-narcomenudeo-en-baja-california/",
+        "_added_at": "2026-09-28T14:45:58.426123-07:00"
+      },
+      {
+        "title": "Operativo captura grupo armado con participación de menor en Tijuana",
+        "summary": "Unidad Táctica de Tijuana asegura a un grupo armado; uno de los detenidos es menor de edad.",
+        "zona": "Tijuana",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/unidad-tactica-de-tijuana-atora-a-un-grupo-armado-uno-de-ellos-es-menor-de-edad/",
+        "_added_at": "2026-09-28T14:45:58.426123-07:00"
+      },
+      {
+        "title": "Escuadrón Violeta rescata madre e hijos en caso de violencia familiar",
+        "summary": "Unidad especializada interviene exitosamente en caso de violencia doméstica en Tijuana, rescatando a víctimas.",
+        "zona": "Tijuana",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/28/escuadron-violeta-rescata-a-madre-y-dos-hijos-tras-caso-de-violencia-familiar-en-tijuana/",
+        "_added_at": "2026-09-28T14:45:58.426123-07:00"
+      },
+      {
+        "title": "Policía Municipal detiene cinco personas y asegura tres armas",
+        "summary": "Operativo de seguridad en Tijuana resulta en detenciones y aseguramiento de armamento.",
+        "zona": "Tijuana",
+        "source": "En Línea BC / AFN Tijuana",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/28/detiene-policia-municipal-a-cinco-personas-y-asegura-tres-armas-de-fuego/",
+        "_added_at": "2026-09-28T14:45:58.426123-07:00"
+      },
+      {
+        "title": "Aprueban recursos para Derechos Humanos en búsquedas de desaparecidos",
+        "summary": "Legislatura aprueba financiamiento para que comisión acompañe operativos de búsqueda de personas desaparecidas en BC.",
+        "zona": "Baja California",
+        "source": "AGP Noticias",
+        "url": "https://agpnoticias.com/news/aprueban-recursos-para-que-derechos-humanos-acompane-busquedas-de-personas-desaparecidas-en-baja-california/",
+        "_added_at": "2026-09-28T14:45:58.426123-07:00"
+      },
       {
         "title": "Presuntos asesinos detenidos en operativo de rutina",
         "summary": "Detienen a dos individuos que aparentaban ser deportistas pero son investigados por homicidios en Tijuana.",
@@ -21,6 +69,54 @@
       }
     ],
     "politica": [
+      {
+        "title": "PT mantiene alianza pero cuestiona coordinaciones de Morena en BC",
+        "summary": "Partido del Trabajo reafirma compromiso con coalición pero critica estructura estatal de Morena y sus decisiones.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/pt-apuesta-por-mantener-alianza-pero-descalifica-coordinaciones-estatales-de-morena/",
+        "_added_at": "2026-09-28T14:45:58.426123-07:00"
+      },
+      {
+        "title": "PAN cuestiona tiempos del IEE en procesos electorales",
+        "summary": "Delegada del PRI interpela al Instituto Electoral sobre cronogramas; presidente de IEE responde que no fija reglas.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/delegada-del-pri-cuestiona-tiempos-de-iee-nosotros-no-hacemos-las-reglas-presidente/",
+        "_added_at": "2026-09-28T14:45:58.426123-07:00"
+      },
+      {
+        "title": "Margarita Flores critica desempeño de Morena en ocho años",
+        "summary": "Dirigente panista comenta que gobierno morenista reconoce incapacidad para resolver problemas del estado.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/a-morena-le-bastaron-ocho-anos-para-decir-que-no-pudieron-margarita-flores/",
+        "_added_at": "2026-09-28T14:45:58.426123-07:00"
+      },
+      {
+        "title": "PAN propone predio de El Sauzal para nuevos juzgados en Ensenada",
+        "summary": "Partido azul sugiere ubicación alternativa para construcción de infraestructura judicial en el puerto.",
+        "zona": "Ensenada",
+        "source": "Rada Noticias / Argumento Noticias",
+        "url": "https://radanoticias.info/proponen-pan-predio-de-el-sauzal-para-nuevos-juzgados/",
+        "_added_at": "2026-09-28T14:45:58.426123-07:00"
+      },
+      {
+        "title": "Aprueban reforma para simplificar y digitalizar trámites en BC",
+        "summary": "Legislatura estatal aprueba iniciativa para modernizar procesos administrativos y reducir tiempos de gestión.",
+        "zona": "Baja California",
+        "source": "AGP Noticias",
+        "url": "https://agpnoticias.com/news/aprueban-reforma-para-simplificar-y-digitalizar-tramites-en-baja-california/",
+        "_added_at": "2026-09-28T14:45:58.426123-07:00"
+      },
+      {
+        "title": "Diputada García pide revisar situación actual del sector salud",
+        "summary": "Legisladora solicita análisis sobre entrega-recepción de competencias y estado actual de servicios sanitarios.",
+        "zona": "Tijuana",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/dip-daylin-garcia-pide-revisar-entrega-recepcion-de-salud-y-conocer-situacion-actual-del-sector/",
+        "_added_at": "2026-09-28T14:45:58.426123-07:00"
+      },
       {
         "title": "Reunión de gobernadores por unidad política",
         "summary": "Julieta y Evangelina se reúnen; ambas enfatizan trabajo conjunto en la entidad.",
@@ -56,6 +152,38 @@
     ],
     "economia": [
       {
+        "title": "Desaladora de Rosarito consolida legado hídrico de BC",
+        "summary": "Nueva planta desaladora contribuye a estrategia estatal de abastecimiento de agua, aunque no es solución única.",
+        "zona": "Rosarito",
+        "source": "Rada Noticias",
+        "url": "https://radanoticias.info/consolida-bc-legado-hidrico-con-desaladora-de-rosarito/",
+        "_added_at": "2026-09-28T14:45:58.426123-07:00"
+      },
+      {
+        "title": "Falta de capacidad eléctrica podría frenar desarrollos en Ensenada",
+        "summary": "Infraestructura energética limitada representa obstáculo para crecimiento económico e inversiones en el puerto.",
+        "zona": "Ensenada",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/ensenada/2026/09/28/falta-de-capacidad-electrica-podria-frenar-nuevos-desarrollos-en-ensenada/",
+        "_added_at": "2026-09-28T14:45:58.426123-07:00"
+      },
+      {
+        "title": "Alcaldesa Agatón impulsa creación y regularización de empresas",
+        "summary": "Administración municipal de Tijuana promueve generación de empleos y formalización empresarial con resultados positivos.",
+        "zona": "Tijuana",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/28/con-resultados-a-paso-firme-la-alcaldesa-claudia-agaton-impulsa-la-creacion-y-regularizacion-de-nuevas-empresas/",
+        "_added_at": "2026-09-28T14:45:58.426123-07:00"
+      },
+      {
+        "title": "AMIC propone agenda de infraestructura para 2027",
+        "summary": "Asociación Mexicana de Industria Cinematográfica presenta propuestas de inversión en infraestructura para próximo año.",
+        "zona": "Ensenada",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Ensenada/99963/Proponen-en-AMIC-agenda-de-infraestructura-para-2027",
+        "_added_at": "2026-09-28T14:45:58.426123-07:00"
+      },
+      {
         "title": "Mexicali asiste alimentariamente a 39 mil personas",
         "summary": "Gobierno municipal reporta distribución de asistencia alimentaria a casi cuarenta mil ciudadanos.",
         "zona": "Mexicali",
@@ -74,6 +202,38 @@
     ],
     "eventos": [
       {
+        "title": "Abren al público biblioteca municipal de Rosarito",
+        "summary": "Nueva infraestructura cultural comienza operaciones para comunidad ensenadense.",
+        "zona": "Rosarito",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/comunidad/182233_abren_al_publico_la_biblioteca_municipal_de_rosarito",
+        "_added_at": "2026-09-28T14:45:58.426123-07:00"
+      },
+      {
+        "title": "Últimos días para participar en concurso de pintura sobre La Bufadora",
+        "summary": "Convocatoria artística sobre icono natural de Ensenada cierra inscripciones próximamente.",
+        "zona": "Ensenada",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/09/28/ultimos-dias-para-participar-en-el-concurso-de-pintura-sobre-la-bufadora/",
+        "_added_at": "2026-09-28T14:45:58.426123-07:00"
+      },
+      {
+        "title": "Abren convocatoria para jurado del Salón de la Fama del Deporte",
+        "summary": "Ensenada invita a participación para seleccionar miembros de jurado de reconocimiento a deportistas destacados.",
+        "zona": "Ensenada",
+        "source": "AGP Noticias",
+        "url": "https://agpnoticias.com/news/abren-convocatoria-para-elegir-al-jurado-del-salon-de-la-fama-del-deporte-de-ensenada/",
+        "_added_at": "2026-09-28T14:45:58.426123-07:00"
+      },
+      {
+        "title": "Caliente Ayuda anuncia quinta edición de carrera contra cáncer",
+        "summary": "Evento deportivo benéfico para concientización sobre cáncer de mama regresa en nueva edición.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/deportes/2026/09/28/caliente-ayuda-anuncia-quinta-edicion-de-carrera-contra-el-cancer-de-mama/",
+        "_added_at": "2026-09-28T14:45:58.426123-07:00"
+      },
+      {
         "title": "Conmemoración del Día Mundial del Migrante",
         "summary": "Tijuana realiza ceremonia religiosa y jornada comunitaria en honor a migrantes y refugiados.",
         "zona": "Tijuana",
@@ -82,7 +242,40 @@
         "_added_at": "2026-09-28T01:48:44.685359-07:00"
       }
     ],
-    "sociedad": []
+    "sociedad": [
+      {
+        "title": "CESPE revisa infraestructura de agua ante fenómeno de El Niño",
+        "summary": "Comisión estatal prepara operativos especiales y revisa sistemas ante alertas por lluvias torrenciales esperadas.",
+        "zona": "Ensenada",
+        "source": "AGP Noticias / CESPE",
+        "url": "https://agpnoticias.com/news/cespe-revisa-infraestructura-de-agua-y-drenaje-ante-el-fenomeno-de-el-nino/",
+        "_added_at": "2026-09-28T14:45:58.426123-07:00"
+      },
+      {
+        "title": "CESPT arranca campaña para valorar el agua",
+        "summary": "Comisión estatal lanza iniciativa educativa sobre importancia del recurso hídrico para población.",
+        "zona": "Tijuana",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/28/nueva-campana-de-cespt-invita-a-valorar-todo-lo-que-hay-detras-del-agua/",
+        "_added_at": "2026-09-28T14:45:58.426123-07:00"
+      },
+      {
+        "title": "Impulsa Baja California aprendizajes inclusivos",
+        "summary": "Gobierno estatal promueve programa de educación que garantiza acceso y participación de todos en procesos formativos.",
+        "zona": "Baja California",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/99967/Impulsa-Baja-California-aprendizajes-inclusivos",
+        "_added_at": "2026-09-28T14:45:58.426123-07:00"
+      },
+      {
+        "title": "Dialogan sobre derechos y calidad de vida de adultos mayores",
+        "summary": "Ensenada realiza conversatorio enfocado en protección y bienestar de población adulta mayor.",
+        "zona": "Ensenada",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/09/28/dialogan-sobre-derechos-y-calidad-de-vida-de-adultos-mayores-en-ensenada/",
+        "_added_at": "2026-09-28T14:45:58.426123-07:00"
+      }
+    ]
   },
-  "last_updated": "2026-09-28T01:48:44.685359-07:00"
+  "last_updated": "2026-09-28T14:45:58.426123-07:00"
 }
