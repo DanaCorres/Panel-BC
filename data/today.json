@@ -1,8 +1,56 @@
 {
   "date": "2026-09-28",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Vinculan a mujer por secuestro agravado en San Quintín",
+        "summary": "Mujer fue vinculada a proceso penal por el delito de secuestro agravado cometido en la zona de San Quintín.",
+        "zona": "Ensenada",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/09/28/vinculan-a-proceso-a-mujer-por-secuestro-agravado-en-san-quintin/",
+        "_added_at": "2026-09-28T18:41:36.360876-07:00"
+      },
+      {
+        "title": "Suspenden evento clandestino con presencia de 30 menores en Tijuana",
+        "summary": "Autoridades municipales clausuraron un evento clandestino donde se encontraban más de 30 menores de edad.",
+        "zona": "Tijuana",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/suspende-xxv-ayuntamiento-de-tijuana-evento-clandestino-con-presencia-de-mas-de-30-menores-de-edad/",
+        "_added_at": "2026-09-28T18:41:36.360876-07:00"
+      },
+      {
+        "title": "Volcadura en Tijuana-Tecate deja dos muertos y tres lesionados",
+        "summary": "Camión de volteo se volcó en la carretera Tijuana-Tecate causando dos muertes y tres heridos.",
+        "zona": "Tijuana",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/dos-personas-mueren-y-tres-heridos-deja-la-volcadura-de-dompe-en-la-carretera-tijuana-tecate/",
+        "_added_at": "2026-09-28T18:41:36.360876-07:00"
+      },
+      {
+        "title": "Explosión por acumulación de gas en Plaza Río de Tijuana",
+        "summary": "Explosión por acumulación de gas dejó cinco lesionados y cierre temporal del Café de la Flor en Plaza Río.",
+        "zona": "Tijuana",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/28/cierre-temporal-del-cafe-de-la-flor-en-plaza-rio-tras-explosion-por-acumulacion-de-gas-hay-5-lesionados/",
+        "_added_at": "2026-09-28T18:41:36.360876-07:00"
+      },
+      {
+        "title": "Montachoques operan con colaboración de policías en Tijuana",
+        "summary": "Reportaje revela que bandas de montachoques cuentan con colaboración de elementos policiales.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/montachoques-operan-con-policias/",
+        "_added_at": "2026-09-28T18:41:36.360876-07:00"
+      },
+      {
+        "title": "FGE reporta decomisos y detenciones por narcomenudeo",
+        "summary": "Fiscalía General del Estado reportó cifras de detenidos por narcomenudeo, decomisos y cateos realizados.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/182229_reporto_la_fge_cifras_de_detenidos_por_narcomenudeo_decomisos_y_cateos",
+        "_added_at": "2026-09-28T18:41:36.360876-07:00"
+      },
       {
         "title": "Ocho menores asesinados en Tecate; convocan marcha silenciosa",
         "summary": "Tecate registra ocho homicidios de menores de edad. Autoridades municipales consideran medidas como toque de queda ante la escalada de violencia.",
@@ -69,6 +117,46 @@
       }
     ],
     "politica": [
+      {
+        "title": "Montserrat acepta resultado electoral, reconoce a Julieta Ramírez",
+        "summary": "Montserrat Caballero aceptó el resultado de la consulta y reconoció a Julieta Ramírez como ganadora.",
+        "zona": "Baja California",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/99984/Montserrat-Caballero-acepta-resultado-y-reconoce-a-Julieta-Ram%C3%ADrez",
+        "_added_at": "2026-09-28T18:41:36.360876-07:00"
+      },
+      {
+        "title": "Bonilla afirma que Montserrat sigue siendo abanderada de Morena",
+        "summary": "Jaime Bonilla declara que Montserrat Caballero continúa siendo la candidata de Morena para gobernadora.",
+        "zona": "Baja California",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/montserrat-sigue-siendo-nuestra-abanderada-al-gobierno-de-bc-jaime-bonilla/",
+        "_added_at": "2026-09-28T18:41:36.360876-07:00"
+      },
+      {
+        "title": "Ruffo obtiene amparo; García señala violación de derechos",
+        "summary": "Ernesto Ruffo obtuvo amparo en su caso; Heriberto García considera que fue señal de violaciones a sus derechos.",
+        "zona": "Ensenada",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182240_amparo_a_ruffo_es_senal_de_que_se_violaron_sus_derechos_heriberto_garcia",
+        "_added_at": "2026-09-28T18:41:36.360876-07:00"
+      },
+      {
+        "title": "Ruffo regresa a Ensenada bajo arresto domiciliario tras dos meses",
+        "summary": "Ernesto Ruffo regresó a Ensenada tras 72 días en El Altiplano; continuará su proceso en prisión domiciliaria.",
+        "zona": "Ensenada",
+        "source": "E1 Noticias",
+        "url": "https://www.ensenadaunonoticias.info/tras-72-dias-en-el-altiplano-ernesto-ruffo-regresa-a-ensenada-para-continuar-su-proceso-en-prision-domiciliaria/",
+        "_added_at": "2026-09-28T18:41:36.360876-07:00"
+      },
+      {
+        "title": "Abogados cuestionan 'Ley Mordaza' del Poder Judicial",
+        "summary": "Abogados critican norma en el Poder Judicial por considerarla arbitraria y restrictiva de libertades.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182230_critican_abogados_ley_mordaza_en_el_poder_judicial_es_arbitrario_exponen",
+        "_added_at": "2026-09-28T18:41:36.360876-07:00"
+      },
       {
         "title": "PT mantiene alianza pero cuestiona coordinaciones de Morena en BC",
         "summary": "Partido del Trabajo reafirma compromiso con coalición pero critica estructura estatal de Morena y sus decisiones.",
@@ -152,6 +240,54 @@
     ],
     "economia": [
       {
+        "title": "Ensenada genera 55 millones en nuevas empresas durante segundo año",
+        "summary": "Alcaldía reporta reducción de trámites y generación de más de 55 millones en inversión de nuevas empresas.",
+        "zona": "Ensenada",
+        "source": "E1 Noticias",
+        "url": "https://www.ensenadaunonoticias.info/ensenada-reduce-tramites-y-reporta-mas-de-55-millones-de-pesos-en-nuevas-empresas-durante-el-segundo-ano-de-gobierno/",
+        "_added_at": "2026-09-28T18:41:36.360876-07:00"
+      },
+      {
+        "title": "Ensenada rompe récords turísticos: 1.4 millones de cruceristas",
+        "summary": "Ensenada registró más de 1.4 millones de pasajeros de crucero y 412 mil asistentes al Carnaval.",
+        "zona": "Ensenada",
+        "source": "E1 Noticias",
+        "url": "https://www.ensenadaunonoticias.info/ensenada-rompe-records-en-turismo-mas-de-1-4-millones-de-pasajeros-de-crucero-y-412-mil-asistentes-al-carnaval/",
+        "_added_at": "2026-09-28T18:41:36.360876-07:00"
+      },
+      {
+        "title": "CANIRAC reconoce apertura municipal para atender al sector restaurantero",
+        "summary": "Cámara de industria restaurantera reconoce disposición del gobierno municipal para atender inquietudes.",
+        "zona": "Tijuana",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/28/reconoce-canirac-tijuana-la-apertura-del-gobierno-municipal-para-atender-dudas-e-inquietudes-del-sector/",
+        "_added_at": "2026-09-28T18:41:36.360876-07:00"
+      },
+      {
+        "title": "AMIC propone agenda de infraestructura para 2027",
+        "summary": "Asociación Mexicana de Inmobiliarias plantea una agenda de infraestructura para el próximo año.",
+        "zona": "Ensenada",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/ensenada/2026/09/28/propone-amic-agenda-de-infraestructura-para-2027/",
+        "_added_at": "2026-09-28T18:41:36.360876-07:00"
+      },
+      {
+        "title": "CMIC fortalece innovación en sector construcción en Tijuana",
+        "summary": "Cámara de Construcción de Ensenada-San Quintín participa en Expo Construcción Tijuana.",
+        "zona": "Ensenada",
+        "source": "Rada Noticias",
+        "url": "https://radanoticias.info/cmic-ensenada-san-quintin-fortalece-vinculacion-e-innovacion-en-expo-construccion-tijuana/",
+        "_added_at": "2026-09-28T18:41:36.360876-07:00"
+      },
+      {
+        "title": "FETRAEX pide coordinar obras para evitar afectaciones a Ensenada",
+        "summary": "Federación de transportistas solicita coordinación en obras carreteras para no afectar accesos a la ciudad.",
+        "zona": "Ensenada",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/09/28/fetraex-pide-coordinar-obras-carreteras-para-evitar-afectaciones-a-los-accesos-de-ensenada/",
+        "_added_at": "2026-09-28T18:41:36.360876-07:00"
+      },
+      {
         "title": "Desaladora de Rosarito consolida legado hídrico de BC",
         "summary": "Nueva planta desaladora contribuye a estrategia estatal de abastecimiento de agua, aunque no es solución única.",
         "zona": "Rosarito",
@@ -202,6 +338,22 @@
     ],
     "eventos": [
       {
+        "title": "CETYS presenta nuevas carreras en IA y finanzas digitales para 2027",
+        "summary": "Universidad CETYS anuncia nuevos programas académicos en inteligencia artificial, comunicación y finanzas digitales.",
+        "zona": "Ensenada",
+        "source": "AGP Noticias",
+        "url": "https://agpnoticias.com/news/cetys-presenta-nuevas-carreras-para-2027-habra-opciones-en-ia-comunicacion-y-finanzas-digitales/",
+        "_added_at": "2026-09-28T18:41:36.360876-07:00"
+      },
+      {
+        "title": "Alcaldesa invita a participar en Ruta Rosa 3K en Ensenada",
+        "summary": "Claudia Agatón convoca a la población a participar en la Ruta Rosa 3K de Ensenada.",
+        "zona": "Ensenada",
+        "source": "EnsenadaHoy",
+        "url": "https://ensenadahoy.com/noticias/ver/6973",
+        "_added_at": "2026-09-28T18:41:36.360876-07:00"
+      },
+      {
         "title": "Abren al público biblioteca municipal de Rosarito",
         "summary": "Nueva infraestructura cultural comienza operaciones para comunidad ensenadense.",
         "zona": "Rosarito",
@@ -244,6 +396,70 @@
     ],
     "sociedad": [
       {
+        "title": "Baja California amplía módulos de aborto seguro con servicio gratuito",
+        "summary": "Estado amplía cobertura de atención para aborto seguro con 12 módulos operativos y servicio gratuito en Ensenada.",
+        "zona": "Ensenada",
+        "source": "E1 Noticias",
+        "url": "https://www.ensenadaunonoticias.info/baja-california-amplia-atencion-para-aborto-seguro-hay-12-modulos-y-servicio-gratuito-en-ensenada/",
+        "_added_at": "2026-09-28T18:41:36.360876-07:00"
+      },
+      {
+        "title": "Detectan depresión y ansiedad en estudiantes UABC Tijuana",
+        "summary": "Universidad detecta mediante encuestas periódicas problemas de salud mental como depresión y ansiedad en alumnos.",
+        "zona": "Tijuana",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99977/Detectan-depresi%C3%B3n-y-ansiedad-en-alumnos-de-la-UABC-campus-Tijuana",
+        "_added_at": "2026-09-28T18:41:36.360876-07:00"
+      },
+      {
+        "title": "Protestan padres por agresiones a estudiantes, piden vigilancia",
+        "summary": "Padres de familia se movilizan exigiendo mayor vigilancia en escuelas tras reportes de agresiones a menores.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182239_protestan_padres_de_familia_por_agresiones_a_estudiantes_piden_vigilancia",
+        "_added_at": "2026-09-28T18:41:36.360876-07:00"
+      },
+      {
+        "title": "CESPE prepara operativo especial por lluvias de El Niño en Ensenada",
+        "summary": "Comisión de servicios prepara operativo extraordinario ante pronóstico de lluvias por fenómeno de El Niño.",
+        "zona": "Ensenada",
+        "source": "E1 Noticias",
+        "url": "https://www.ensenadaunonoticias.info/cespe-prepara-operativo-especial-ante-lluvias-pronosticadas-por-el-nino-en-ensenada/",
+        "_added_at": "2026-09-28T18:41:36.360876-07:00"
+      },
+      {
+        "title": "Aprueban recursos para acompañamiento en búsquedas de desaparecidos",
+        "summary": "Se aprueban recursos para que Derechos Humanos acompañe búsquedas de personas desaparecidas en Baja California.",
+        "zona": "Baja California",
+        "source": "AGP Noticias",
+        "url": "https://agpnoticias.com/news/aprueban-recursos-para-que-derechos-humanos-acompane-busquedas-de-personas-desaparecidas-en-baja-california/",
+        "_added_at": "2026-09-28T18:41:36.360876-07:00"
+      },
+      {
+        "title": "Impulsan certificación de competencias con 110 becas",
+        "summary": "Se ofrecen 110 becas para certificación de competencias en Ensenada y San Quintín.",
+        "zona": "Ensenada",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182234_impulsan_la_certificacion_de_competencias_con_110_becas_para_ensenada_y_san_quintin",
+        "_added_at": "2026-09-28T18:41:36.360876-07:00"
+      },
+      {
+        "title": "Detectan más de 600 baches heredados en infraestructura de Tijuana",
+        "summary": "Sindicatura exhibe más de 600 baches en vialidades de Tijuana heredados de administración anterior.",
+        "zona": "Tijuana",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/99972/Exhibe-Sindicatura-m%C3%A1s-de-600-baches-heredados-por-la-CESPT-en-Tijuana",
+        "_added_at": "2026-09-28T18:41:36.360876-07:00"
+      },
+      {
+        "title": "Desaladora de Rosarito no garantiza por sí sola abasto de Ensenada",
+        "summary": "Cámara de comercio señala que desaladora de Rosarito no es solución única para abasto de agua en Ensenada.",
+        "zona": "Ensenada",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/09/28/desaladora-de-playas-de-rosarito-no-garantiza-por-si-sola-el-abasto-de-ensenada-ccee/",
+        "_added_at": "2026-09-28T18:41:36.360876-07:00"
+      },
+      {
         "title": "CESPE revisa infraestructura de agua ante fenómeno de El Niño",
         "summary": "Comisión estatal prepara operativos especiales y revisa sistemas ante alertas por lluvias torrenciales esperadas.",
         "zona": "Ensenada",
@@ -277,5 +493,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-28T14:45:58.426123-07:00"
+  "last_updated": "2026-09-28T18:41:36.360876-07:00"
 }
