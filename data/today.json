@@ -1,8 +1,40 @@
 {
   "date": "2026-09-30",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Capturan cuatro presuntos integrantes de Los Rusos en Mexicali",
+        "summary": "Autoridades detienen a cuatro sujetos vinculados a célula delictiva por secuestro y doble homicidio en Mexicali.",
+        "zona": "Mexicali",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/30/caen-cuatro-presuntos-integrantes-de-los-rusos-por-secuestro-y-doble-homicidio-en-mexicali/",
+        "_added_at": "2026-09-30T13:41:15.231709-07:00"
+      },
+      {
+        "title": "Detienen a 12 presuntos montachoques en Tijuana",
+        "summary": "Policía captura a una docena de personas relacionadas con fraudes de seguros mediante accidentes simulados.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/policiaca/2026/09/30/detienen-a-12-personas-presuntamente-relacionadas-con-montachoques-en-tijuana/",
+        "_added_at": "2026-09-30T13:41:15.231709-07:00"
+      },
+      {
+        "title": "Ataque armado en Tecate deja dos muertos",
+        "summary": "Tiroteo en Tecate causa dos víctimas mortales; autoridades investigan el incidente.",
+        "zona": "Tecate",
+        "source": "El Vigía",
+        "url": "https://www.youtube.com/shorts/w16iYxH3_KA",
+        "_added_at": "2026-09-30T13:41:15.231709-07:00"
+      },
+      {
+        "title": "FGE concluye más de 113 mil carpetas, reduce rezago 80%",
+        "summary": "Fiscalía estatal reporta avance significativo en resolución de investigaciones, disminuyendo atraso en trámites.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/30/fge-concluye-mas-de-113-mil-carpetas-de-investigacion-y-reduce-hasta-80-el-rezago/",
+        "_added_at": "2026-09-30T13:41:15.231709-07:00"
+      },
       {
         "title": "Dos mujeres asesinadas frente a primaria en Tijuana",
         "summary": "Dos mujeres fueron atacadas a balazos en horario escolar afuera de una escuela primaria en Tijuana. Detuvieron a dos presuntos responsables del ataque.",
@@ -38,6 +70,54 @@
     ],
     "politica": [
       {
+        "title": "Morena ratifica triunfo de Julieta Ramírez en encuesta de BC",
+        "summary": "Partido confirma victoria de candidata en sondeo para gobernación; ella convoca a unidad dentro de Morena.",
+        "zona": "Baja California",
+        "source": "AGP Noticias",
+        "url": "https://agpnoticias.com/news/morena-ratifica-triunfo-de-julieta-ramirez-en-encuesta-de-baja-california/",
+        "_added_at": "2026-09-30T13:41:15.231709-07:00"
+      },
+      {
+        "title": "Ismael Burgueño confirma reelección en evento público",
+        "summary": "Alcalde de Tijuana anuncia candidatura y aclara que no está bajo investigación de la FGR.",
+        "zona": "Tijuana",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/100049/Ismael-Burgue%C3%B1o-confirma-reelecci%C3%B3n-en-primer-evento-p%C3%BAblico;-espera-convocatoria-de-Morena",
+        "_added_at": "2026-09-30T13:41:15.231709-07:00"
+      },
+      {
+        "title": "PAN denunciará ante FGR a exfuncionarios estatales y municipales",
+        "summary": "Partido blanco presentará acusaciones formales contra autoridades anteriores por irregularidades.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182326_denunciara_el_pan_de_bc_ante_la_fgr_a_exfuncionarios_estatales_y_municipales",
+        "_added_at": "2026-09-30T13:41:15.231709-07:00"
+      },
+      {
+        "title": "Avanzan entrevistas para titularidad de Auditoría Superior",
+        "summary": "Proceso de selección avanza para designación de nuevo auditor superior del estado.",
+        "zona": "Baja California",
+        "source": "Rada Noticias",
+        "url": "https://radanoticias.info/avanzan-entrevsitas-para-titularidad-de-la-auditoria-superior-del-estado/",
+        "_added_at": "2026-09-30T13:41:15.231709-07:00"
+      },
+      {
+        "title": "Cabildo Mexicali aprueba estímulos fiscales y delegados",
+        "summary": "Ayuntamiento de Mexicali autoriza incentivos fiscales y nombra tres delegados municipales.",
+        "zona": "Mexicali",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/mexicali/2026/09/30/aprueba-cabildo-de-mexicali-estimulos-fiscales-y-nombra-a-tres-delegados-municipales/",
+        "_added_at": "2026-09-30T13:41:15.231709-07:00"
+      },
+      {
+        "title": "Jueza sobresee amparo de Ernesto Ruffo",
+        "summary": "Tribunal desestima demanda de amparo sobre cambio a prisión domiciliaria del exgobernador.",
+        "zona": "Baja California",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/jueza-sobresee-amparo-de-ernesto-ruffo-por-cambio-a-prision-domiciliaria/",
+        "_added_at": "2026-09-30T13:41:15.231709-07:00"
+      },
+      {
         "title": "Congreso local aprueba reforma de ciudadanía única para candidatos",
         "summary": "Por mayoría, el Congreso de Baja California avaló reforma que exige ciudadanía única en candidatos a puestos de elección.",
         "zona": "Tijuana",
@@ -72,6 +152,38 @@
     ],
     "economia": [
       {
+        "title": "Exportaciones de BC crecen 5.8% en primer semestre 2026",
+        "summary": "Estado registra aumento en envíos internacionales, consolidando recuperación económica.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/30/crecen-5-8-exportaciones-de-bc-en-el-primer-semestre-2026/",
+        "_added_at": "2026-09-30T13:41:15.231709-07:00"
+      },
+      {
+        "title": "TAD Mexicali celebra 30 años abasteciendo combustibles",
+        "summary": "Empresa conmemora tres décadas de contribución al mercado de energéticos en la región.",
+        "zona": "Mexicali",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/100047/TAD-Mexicali-cumple-30-a%C3%B1os-de-contribuir-al-abasto-de-combustibles-en-BC",
+        "_added_at": "2026-09-30T13:41:15.231709-07:00"
+      },
+      {
+        "title": "Desalación de agua de mar propuesta como opción viable",
+        "summary": "Especialistas destacan desaladora como solución rápida y económica a crisis hídrica de región.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182325_desalar_agua_de_mar_es_la_opcion_mas_rapida_y_barata_aseguran",
+        "_added_at": "2026-09-30T13:41:15.231709-07:00"
+      },
+      {
+        "title": "Falta de agua y energía pone en riesgo inversiones industriales",
+        "summary": "Empresarios advierten que infraestructura insuficiente amenaza proyectos de manufactura en Tijuana.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/30/falta-de-planeacion-de-agua-y-energia-pone-en-riesgo-inversiones-industriales/",
+        "_added_at": "2026-09-30T13:41:15.231709-07:00"
+      },
+      {
         "title": "DEITAC y CANACINTRA impulsan proyectos de agua e infraestructura",
         "summary": "Organismos empresariales suman esfuerzos para promover proyectos en agua, energía, infraestructura y agenda binacional en Tijuana.",
         "zona": "Tijuana",
@@ -90,6 +202,30 @@
     ],
     "eventos": [
       {
+        "title": "Diputada García impulsa parlamento abierto sobre autismo",
+        "summary": "Legisladora promueve foro público para crear nueva ley de neurodivergencias y autismo.",
+        "zona": "Baja California",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/diputada-daylin-garcia-impulsa-parlamento-abierto-para-una-nueva-ley-de-autismo-y-neurodivergencias/",
+        "_added_at": "2026-09-30T13:41:15.231709-07:00"
+      },
+      {
+        "title": "Conferencia \"Constituyentes de Baja California\" en Ensenada",
+        "summary": "Gobierno municipal invita a charla sobre historia constitucional con María Eugenia Bonifaz.",
+        "zona": "Ensenada",
+        "source": "EnsenadaHoy",
+        "url": "https://ensenadahoy.com/noticias/ver/6979",
+        "_added_at": "2026-09-30T13:41:15.231709-07:00"
+      },
+      {
+        "title": "The Crash festejará XV aniversario con lucha de apuestas",
+        "summary": "Promotora de lucha libre conmemora 15 años con evento especial de luchadores profesionales.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/the-crash-festejara-xv-aniversario-con-lucha-de-apuestas/",
+        "_added_at": "2026-09-30T13:41:15.231709-07:00"
+      },
+      {
         "title": "FEyRI celebra 65 años de historia y reconoce egresados",
         "summary": "Institución educativa en Tijuana conmemoró su 65 aniversario rindiendo homenaje a sus egresados y trayectoria.",
         "zona": "Tijuana",
@@ -99,6 +235,38 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Cabildo aprueba actas de nacimiento en braille para ciegos",
+        "summary": "Tijuana autoriza iniciativa para facilitar documentos de identidad accesibles a personas invidentes.",
+        "zona": "Tijuana",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/2026/09/30/aprueba-cabildo-iniciativa-de-sandra-magana-para-facilitar-actas-de-nacimiento-en-braille-en-tijuana/",
+        "_added_at": "2026-09-30T13:41:15.231709-07:00"
+      },
+      {
+        "title": "Entregan apoyos para uniformes a 800 estudiantes",
+        "summary": "Autoridades de Tijuana distribuyen subsidios para equipamiento escolar entre población vulnerable.",
+        "zona": "Tijuana",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/100048/Entregan-apoyos-para-uniformes-a-m%C3%A1s-de-800-estudiantes-de-Tijuana",
+        "_added_at": "2026-09-30T13:41:15.231709-07:00"
+      },
+      {
+        "title": "CETYS Universidad amplía vinculación internacional",
+        "summary": "Institución educativa expande colaboraciones académicas en región fronteriza e Iberoamérica.",
+        "zona": "Ensenada",
+        "source": "EnsenadaHoy",
+        "url": "https://ensenadahoy.com/noticias/ver/697A",
+        "_added_at": "2026-09-30T13:41:15.231709-07:00"
+      },
+      {
+        "title": "Resguardan a niño por posibles casos de maltrato",
+        "summary": "Escuela en Ensenada detecta lesiones sospechosas en menor y activa protocolos de protección.",
+        "zona": "Ensenada",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Ensenada/100025/Resguardan-a-ni%C3%B1o-por-posibles-casos-de-maltrato-en-Ensenada",
+        "_added_at": "2026-09-30T13:41:15.231709-07:00"
+      },
       {
         "title": "Alertan por aumento de problemas cardíacos en jóvenes",
         "summary": "Autoridades de salud advierten sobre incremento de afecciones cardíacas en menores de edad en Baja California.",
@@ -133,5 +301,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-30T01:46:17.972747-07:00"
+  "last_updated": "2026-09-30T13:41:15.231709-07:00"
 }
