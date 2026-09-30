@@ -1,8 +1,56 @@
 {
   "date": "2026-09-29",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Dos mujeres asesinadas frente a escuela en Tijuana",
+        "summary": "Ataque armado en Vista Encantada deja dos muertas y dos detenidos. Ocurrió frente a primaria.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/matan-a-dos-mujeres-frente-a-escuela-en-vista-encantada-hay-dos-detenidos/",
+        "_added_at": "2026-09-29T18:10:53.052379-07:00"
+      },
+      {
+        "title": "Enfrentamiento armado en Tecate deja dos muertos",
+        "summary": "Choque entre grupos armados genera dos fallecidos y cuatro detenidos.",
+        "zona": "Tecate",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/182289_enfrentamiento_armado_en_tecate_dejo_dos_muertos_y_cuatro_detenidos",
+        "_added_at": "2026-09-29T18:10:53.052379-07:00"
+      },
+      {
+        "title": "Ensenada reduce delitos y refuerza equipamiento de seguridad",
+        "summary": "Alcaldesa Claudia Agatón reporta disminución de robos y fortalecimiento en estrategia de seguridad municipal.",
+        "zona": "Ensenada",
+        "source": "E1 Noticias",
+        "url": "https://www.ensenadaunonoticias.info/menos-robos-y-mas-equipo-ensenada-fortalece-su-estrategia-de-seguridad/",
+        "_added_at": "2026-09-29T18:10:53.052379-07:00"
+      },
+      {
+        "title": "Desaparecidos en mina: Vizsla no presenta denuncia",
+        "summary": "Ocho meses después de desaparición de mineros en La Concordia, empresa no ha formalizado denuncia.",
+        "zona": "Baja California",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/a-8-meses-de-la-desaparicion-de-mineros-en-la-concordia-vizsla-no-ha-presentado-denuncia/",
+        "_added_at": "2026-09-29T18:10:53.052379-07:00"
+      },
+      {
+        "title": "Colectivo localiza cuerpo y osamentas en Rosarito",
+        "summary": "Grupo Buscando a Tolano descubre un cadáver y tres esqueletos en basurero.",
+        "zona": "Rosarito",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/colectivo-buscando-a-tolano-localiza-un-cuerpo-y-tres-osamentas-en-basurero-de-rosarito/",
+        "_added_at": "2026-09-29T18:10:53.052379-07:00"
+      },
+      {
+        "title": "Integran 18 elementos nuevos a Policía Municipal Ensenada",
+        "summary": "Refuerzo de personal policial en municipio como parte de estrategia de seguridad.",
+        "zona": "Ensenada",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/09/29/integran-a-18-nuevos-elementos-a-la-policia-municipal-de-ensenada-2/",
+        "_added_at": "2026-09-29T18:10:53.052379-07:00"
+      },
       {
         "title": "EU sanciona a Carlos Torres por vínculos con Cártel Sinaloa",
         "summary": "Estados Unidos impone sanciones a Carlos Torres, exesposo de gobernadora, y su hermano Luis por presuntos nexos con red del Mayito Flaco.",
@@ -74,25 +122,57 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/182249_proponen_crear_unidad_de_atencion_integral_para_policias_en_tijuana",
         "_added_at": "2026-09-29T01:45:09.893008-07:00"
-      },
-      {
-        "title": "Homicidio en Tijuana en zona céntrica",
-        "summary": "Hombre es asesinado a balazos en la intersección de calle 5 y avenida 10 de la ciudad.",
-        "zona": "Tijuana",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/182250_asesinan_a_balazos_a_un_hombre_en_la_5_y_10",
-        "_added_at": "2026-09-29T01:45:09.893008-07:00"
-      },
-      {
-        "title": "Basura y corrupción vinculadas en Ensenada",
-        "summary": "Análisis sobre la relación entre acumulación de residuos y proliferación de impunidad en la ciudad.",
-        "zona": "Ensenada",
-        "source": "Argumento Noticias",
-        "url": "https://argumentonoticias.com/2026/09/29/donde-se-acumula-la-basura-tambien-crece-la-impunidad/",
-        "_added_at": "2026-09-29T01:45:09.893008-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "PAN exige a Marina del Pilar separarse del cargo",
+        "summary": "Partido demanda que gobernadora se aparte temporalmente tras sanciones de OFAC a exesposo.",
+        "zona": "Baja California",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/pan-pide-a-marina-del-pilar-separarse-del-cargo-y-exige-investigacion-de-la-fgr/",
+        "_added_at": "2026-09-29T18:10:53.052379-07:00"
+      },
+      {
+        "title": "EU sanciona a Carlos Torres por vínculos con crimen organizado",
+        "summary": "Departamento del Tesoro congela cuentas de exesposo de Marina del Pilar por presuntos nexos con Los Mayos.",
+        "zona": "Baja California",
+        "source": "TV Azteca BC",
+        "url": "https://www.tvaztecabajacalifornia.com/noticias/eu-sanciona-a-carlos-torres-exesposo-de-marina-del-pilar-por-presuntos-vinculos-con-el-crimen-organizado-en-bc/",
+        "_added_at": "2026-09-29T18:10:53.052379-07:00"
+      },
+      {
+        "title": "Gobierno BC responde a sanciones de OFAC",
+        "summary": "Autoridades estatal aclaran que Marina del Pilar no fue sancionada y ordena revisar contratos con empresas señaladas.",
+        "zona": "Baja California",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/09/29/gobierno-de-bc-responde-a-senalamientos-de-ofac-y-afirma-que-marina-del-pilar-no-fue-sancionada/",
+        "_added_at": "2026-09-29T18:10:53.052379-07:00"
+      },
+      {
+        "title": "Empresas sancionadas por OFAC con negocios en gobiernos BC",
+        "summary": "Se identifica presencia de compañías bajo sanciones internacionales en contratos públicos estatales.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/afn_politico/182286_empresas_sancionadas_por_la_ofac_con_negocios_en_gobiernos_de_bc",
+        "_added_at": "2026-09-29T18:10:53.052379-07:00"
+      },
+      {
+        "title": "UIF bloquea recursos financieros de Torres y Vera",
+        "summary": "Unidad de Inteligencia Financiera congela activos de hermanos Torres y familia Vera.",
+        "zona": "Baja California",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/uif-bloquea-recursos-financieros-a-los-hermanos-torres-y-a-los-vera/",
+        "_added_at": "2026-09-29T18:10:53.052379-07:00"
+      },
+      {
+        "title": "Mexicali bajo control de Los Rusos con nexos políticos",
+        "summary": "Reportaje revela presencia de cartel y supuestos vínculos con funcionarios y empresarios locales.",
+        "zona": "Mexicali",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/29/mexicali-narcoterritorio-de-los-rusos-y-sus-vinculos-con-politicos-y-empresarios-de-bc/",
+        "_added_at": "2026-09-29T18:10:53.052379-07:00"
+      },
       {
         "title": "Ruffo inicia prisión domiciliaria por sentencia legal",
         "summary": "Exgobernador comienza cumplimiento de pena en su domicilio tras decisión judicial.",
@@ -168,6 +248,38 @@
     ],
     "economia": [
       {
+        "title": "Comité Promotor reporta 89% resolución en casos inversión",
+        "summary": "Organismo informa avance significativo en tramitación de inversiones en la entidad.",
+        "zona": "Baja California",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/100022/Reporta-Comit%C3%A9-Promotor-89%25-de-resoluci%C3%B3n-en-casos-de-inversi%C3%B3n",
+        "_added_at": "2026-09-29T18:10:53.052379-07:00"
+      },
+      {
+        "title": "Concesionarios presionan por ajuste tarifario en transporte",
+        "summary": "Empresas piden incremento de tarifas mientras Partido del Trabajo propone subsidio estatal.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/concesionarios-presionan-por-ajuste-tarifario-pt-propone-subsidio/",
+        "_added_at": "2026-09-29T18:10:53.052379-07:00"
+      },
+      {
+        "title": "COPARMEX busca que IVA 8% quede establecido en ley",
+        "summary": "Cámara empresarial de Tijuana impulsa permanencia de tasa impositiva reducida.",
+        "zona": "Tijuana",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/100016/COPARMEX-Tijuana-busca-que-IVA-de-8%25-quede-establecido-en-ley",
+        "_added_at": "2026-09-29T18:10:53.052379-07:00"
+      },
+      {
+        "title": "Construcción sufre caída por inseguridad en región",
+        "summary": "COMICE reporta disminución de inversiones en sector por preocupaciones de seguridad.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182279_caen_inversiones_en_la_industria_de_la_construccion_por_la_inseguridad_comice_ttr",
+        "_added_at": "2026-09-29T18:10:53.052379-07:00"
+      },
+      {
         "title": "Construcción en Tijuana cae hasta 15 por ciento",
         "summary": "Sector inmobiliario registra reducción significativa aunque mantiene algunos proyectos en desarrollo.",
         "zona": "Tijuana",
@@ -201,6 +313,30 @@
       }
     ],
     "eventos": [
+      {
+        "title": "Arranca Nado por mi Corazón 2026 en Tijuana",
+        "summary": "Evento deportivo acuático iniciado en Centro de Alto Rendimiento de la ciudad.",
+        "zona": "Tijuana",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/09/29/arranca-nado-por-mi-corazon-2026-en-el-car-tijuana/",
+        "_added_at": "2026-09-29T18:10:53.052379-07:00"
+      },
+      {
+        "title": "Cuarto Desfile de Catrinas se prepara en Tijuana",
+        "summary": "Celebración de Día de Muertos con caballos, mojigangas y miles de participantes.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/29/con-caballos-mojigangas-y-miles-de-asistentes-tijuana-prepara-su-4to-desfile-de-catrinas-para-celebrar-el-dia-de-muertos/",
+        "_added_at": "2026-09-29T18:10:53.052379-07:00"
+      },
+      {
+        "title": "Convocatoria abierta para proyectos de industrias creativas",
+        "summary": "Gobierno de Baja California invita a participar en programa de apoyo a emprendedores creativos.",
+        "zona": "Baja California",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/09/29/abren-convocatoria-de-apoyos-para-proyectos-de-industrias-creativas-en-baja-california-2/",
+        "_added_at": "2026-09-29T18:10:53.052379-07:00"
+      },
       {
         "title": "Ibero Tijuana presenta expo sobre migración con Alejandro Cossío",
         "summary": "Universidad organiza muestra fotográfica abordando fenómeno migratorio en frontera.",
@@ -251,6 +387,62 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "CETYS amplía oferta educativa con 13 nuevos programas",
+        "summary": "Universidad presenta expansión de licenciaturas y posgrados con modalidad flexible en línea.",
+        "zona": "Ensenada",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182284_presento_cetys_universidad_la_nueva_oferta_educativa_para_profesional_y_posgrado",
+        "_added_at": "2026-09-29T18:10:53.052379-07:00"
+      },
+      {
+        "title": "Círculo de Protección atiende 11 mil menores en BC",
+        "summary": "Programa integral brinda acompañamiento y protección a niños y adolescentes en riesgo.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182287_atienden_a_mas_de_11_mil_ninos_y_adolescentes_con_el_circulo_de_proteccion_en_bc",
+        "_added_at": "2026-09-29T18:10:53.052379-07:00"
+      },
+      {
+        "title": "Tijuana ofrece jornadas gratuitas de atención veterinaria",
+        "summary": "Municipio lleva vacunas, antipulgas y esterilización a nueve delegaciones.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/29/tijuana-lleva-jornadas-gratuitas-para-mascotas-a-las-9-delegaciones-con-vacunas-antipulgas-y-esterilizacion/",
+        "_added_at": "2026-09-29T18:10:53.052379-07:00"
+      },
+      {
+        "title": "DIF BC mantiene procesos de adopción con 36 familias certificadas",
+        "summary": "Sistema para Desarrollo Integral de la Familia avanza en trámites de legalización de adopciones.",
+        "zona": "Baja California",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/29/dif-bc-mantiene-procesos-de-adopcion-36-familias-tienen-certificado-de-idoneidad/",
+        "_added_at": "2026-09-29T18:10:53.052379-07:00"
+      },
+      {
+        "title": "Refuerzan acciones de prevención en planteles educativos",
+        "summary": "Autoridades de BC intensifican proximidad policial y trabajo preventivo en escuelas.",
+        "zona": "Baja California",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/09/29/refuerzan-acciones-de-prevencion-y-proximidad-en-planteles-educativos-de-baja-california/",
+        "_added_at": "2026-09-29T18:10:53.052379-07:00"
+      },
+      {
+        "title": "Amplían atención para convivencias familiares supervisadas",
+        "summary": "Servicio estatal expande programas de acompañamiento a familias en conflicto.",
+        "zona": "Baja California",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/09/29/amplian-atencion-para-convivencias-familiares-supervisadas-en-baja-california/",
+        "_added_at": "2026-09-29T18:10:53.052379-07:00"
+      },
+      {
+        "title": "Gobierno construye comunidad desde delegaciones municipales",
+        "summary": "Administración Agatón implementa estrategia de fortalecimiento territorial en Ensenada.",
+        "zona": "Ensenada",
+        "source": "EnsenadaHoy",
+        "url": "https://ensenadahoy.com/noticias/ver/6976",
+        "_added_at": "2026-09-29T18:10:53.052379-07:00"
+      },
       {
         "title": "Proponen recolección semanal gratuita de residuos voluminosos",
         "summary": "Municipios estudian programa para acopiar muebles, electrodomésticos y escombros regularmente.",
@@ -309,5 +501,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-29T13:36:48.822966-07:00"
+  "last_updated": "2026-09-29T18:10:53.052379-07:00"
 }
