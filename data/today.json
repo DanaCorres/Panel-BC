@@ -1,505 +1,137 @@
 {
-  "date": "2026-09-29",
-  "run_count": 3,
+  "date": "2026-09-30",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Dos mujeres asesinadas frente a escuela en Tijuana",
-        "summary": "Ataque armado en Vista Encantada deja dos muertas y dos detenidos. Ocurrió frente a primaria.",
+        "title": "Dos mujeres asesinadas frente a primaria en Tijuana",
+        "summary": "Dos mujeres fueron atacadas a balazos en horario escolar afuera de una escuela primaria en Tijuana. Detuvieron a dos presuntos responsables del ataque.",
         "zona": "Tijuana",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/matan-a-dos-mujeres-frente-a-escuela-en-vista-encantada-hay-dos-detenidos/",
-        "_added_at": "2026-09-29T18:10:53.052379-07:00"
-      },
-      {
-        "title": "Enfrentamiento armado en Tecate deja dos muertos",
-        "summary": "Choque entre grupos armados genera dos fallecidos y cuatro detenidos.",
-        "zona": "Tecate",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/182289_enfrentamiento_armado_en_tecate_dejo_dos_muertos_y_cuatro_detenidos",
-        "_added_at": "2026-09-29T18:10:53.052379-07:00"
-      },
-      {
-        "title": "Ensenada reduce delitos y refuerza equipamiento de seguridad",
-        "summary": "Alcaldesa Claudia Agatón reporta disminución de robos y fortalecimiento en estrategia de seguridad municipal.",
-        "zona": "Ensenada",
-        "source": "E1 Noticias",
-        "url": "https://www.ensenadaunonoticias.info/menos-robos-y-mas-equipo-ensenada-fortalece-su-estrategia-de-seguridad/",
-        "_added_at": "2026-09-29T18:10:53.052379-07:00"
-      },
-      {
-        "title": "Desaparecidos en mina: Vizsla no presenta denuncia",
-        "summary": "Ocho meses después de desaparición de mineros en La Concordia, empresa no ha formalizado denuncia.",
-        "zona": "Baja California",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/a-8-meses-de-la-desaparicion-de-mineros-en-la-concordia-vizsla-no-ha-presentado-denuncia/",
-        "_added_at": "2026-09-29T18:10:53.052379-07:00"
-      },
-      {
-        "title": "Colectivo localiza cuerpo y osamentas en Rosarito",
-        "summary": "Grupo Buscando a Tolano descubre un cadáver y tres esqueletos en basurero.",
-        "zona": "Rosarito",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/colectivo-buscando-a-tolano-localiza-un-cuerpo-y-tres-osamentas-en-basurero-de-rosarito/",
-        "_added_at": "2026-09-29T18:10:53.052379-07:00"
-      },
-      {
-        "title": "Integran 18 elementos nuevos a Policía Municipal Ensenada",
-        "summary": "Refuerzo de personal policial en municipio como parte de estrategia de seguridad.",
-        "zona": "Ensenada",
-        "source": "Argumento Noticias",
-        "url": "https://argumentonoticias.com/2026/09/29/integran-a-18-nuevos-elementos-a-la-policia-municipal-de-ensenada-2/",
-        "_added_at": "2026-09-29T18:10:53.052379-07:00"
-      },
-      {
-        "title": "EU sanciona a Carlos Torres por vínculos con Cártel Sinaloa",
-        "summary": "Estados Unidos impone sanciones a Carlos Torres, exesposo de gobernadora, y su hermano Luis por presuntos nexos con red del Mayito Flaco.",
-        "zona": "Baja California",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/29/eu-sanciona-a-carlos-y-luis-torres-exesposo-y-excunado-de-gobernadora-por-presuntos-vinculos-con-red-del-mayito-flaco/",
-        "_added_at": "2026-09-29T13:36:48.822966-07:00"
-      },
-      {
-        "title": "Detienen en Mexicali a presunto halcón vigilante de patrullas",
-        "summary": "Autoridades capturan a joven señalado de trabajar como vigilante para grupos criminales monitoreando operativos policiales.",
-        "zona": "Mexicali",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/detienen-en-mexicali-a-joven-senalado-como-presunto-halcon-que-vigilaba-patrullas/?utm_source=rss&utm_medium=rss&utm_campaign=detienen-en-mexicali-a-joven-senalado-como-presunto-halcon-que-vigilaba-patrullas",
-        "_added_at": "2026-09-29T13:36:48.822966-07:00"
-      },
-      {
-        "title": "Madres buscadoras protestan ante Sheinbaum por falta de respuestas",
-        "summary": "Colectivos de búsqueda realizan manifestación exigiendo atención a casos de desapariciones en Tijuana.",
-        "zona": "Tijuana",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/nadie-nos-escucha-nadie-resuelve-madres-buscadoras-protestan-ante-sheinbaum/?utm_source=rss&utm_medium=rss&utm_campaign=nadie-nos-escucha-nadie-resuelve-madres-buscadoras-protestan-ante-sheinbaum",
-        "_added_at": "2026-09-29T13:36:48.822966-07:00"
-      },
-      {
-        "title": "Enfrentamiento entre grupos armados en Nueva Colonia Hindú, Tecate",
-        "summary": "Se reporta combate entre organizaciones criminales en zona de Tecate dejando zona en tensión.",
-        "zona": "Tecate",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/enfrentamiento-entre-grupos-armados-en-la-nueva-colonia-hindu-en-tecate/?utm_source=rss&utm_medium=rss&utm_campaign=enfrentamiento-entre-grupos-armados-en-la-nueva-colonia-hindu-en-tecate",
-        "_added_at": "2026-09-29T13:36:48.822966-07:00"
-      },
-      {
-        "title": "FGE reporta 87 mil diligencias y 7 mil órdenes de aprehensión",
-        "summary": "Fiscalía General del Estado presenta avances en investigaciones y captura de presuntos criminales en BC.",
-        "zona": "Baja California",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/29/fge-reporta-mas-de-87-mil-diligencias-y-7-mil-ordenes-de-aprehension-en-baja-california/",
-        "_added_at": "2026-09-29T13:36:48.822966-07:00"
-      },
-      {
-        "title": "Aseguran casi 100 kilos de drogas en San Luis Río Colorado",
-        "summary": "Operativo de autoridades incauta narcoticos ocultos en camioneta en punto fronterizo.",
-        "zona": "Baja California",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/29/aseguran-casi-100-kilos-de-drogas-ocultos-en-camioneta-en-san-luis-rio-colorado/",
-        "_added_at": "2026-09-29T13:36:48.822966-07:00"
-      },
-      {
-        "title": "Cae \"Peso Pluma\" en Ensenada con armas y patrullas clonadas",
-        "summary": "Autoridades detienen sujeto relacionado con cobro de piso utilizando vehículos oficiales fraudulentos.",
-        "zona": "Ensenada",
         "source": "TV Azteca BC",
-        "url": "https://www.tvaztecabajacalifornia.com/policiaca/cae-peso-pluma-en-ensenada-con-armas-lo-senalan-por-cobro-de-piso-con-patrullas-clonadas/",
-        "_added_at": "2026-09-29T13:36:48.822966-07:00"
+        "url": "https://www.tvaztecabajacalifornia.com/noticias/violencia-en-tijuana-asesinan-a-dos-mujeres-frente-a-primaria-en-horario-escolar/",
+        "_added_at": "2026-09-30T01:46:17.972747-07:00"
       },
       {
-        "title": "Expresidente Ruffo regresa a Ensenada tras 72 días en prisión",
-        "summary": "Ernesto Ruffo retorna a Ensenada después de permanecer encarcelado durante más de dos meses. Se espera su llegada este lunes.",
-        "zona": "Ensenada",
-        "source": "TV Azteca BC",
-        "url": "https://www.tvaztecabajacalifornia.com/noticias/ernesto-ruffo-regresa-a-ensenada-este-lunes-tras-72-dias-en-prision/",
-        "_added_at": "2026-09-29T01:45:09.893008-07:00"
-      },
-      {
-        "title": "Proponen unidad integral de atención para policías de Tijuana",
-        "summary": "Se presenta propuesta para crear un centro de atención integral dirigido a fortalecer el bienestar y apoyo de elementos policiales.",
+        "title": "Ataque armado en zona céntrica deja muerto y herido",
+        "summary": "Tiroteo en la calle 5 y 10 de Tijuana causó una muerte y una persona herida.",
         "zona": "Tijuana",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/182249_proponen_crear_unidad_de_atencion_integral_para_policias_en_tijuana",
-        "_added_at": "2026-09-29T01:45:09.893008-07:00"
+        "url": "https://www.afntijuana.info/seguridad/182302_ataque_a_balazos_en_la_5_y_10_deja_un_muerto_y_un_herido",
+        "_added_at": "2026-09-30T01:46:17.972747-07:00"
+      },
+      {
+        "title": "Estados Unidos sanciona a Carlos Torres como operador del crimen",
+        "summary": "La OFAC incluyó a Carlos Torres en lista de sancionados, señalándolo como presunto operador político del crimen organizado con influencia en gobierno de BC.",
+        "zona": "Baja California",
+        "source": "TV Azteca BC",
+        "url": "https://www.tvaztecabajacalifornia.com/noticias/eu-incluye-a-carlos-torres-en-lista-de-sancionados-y-lo-senala-como-presunto-operador-politico-del-crimen-organizado/",
+        "_added_at": "2026-09-30T01:46:17.972747-07:00"
+      },
+      {
+        "title": "Departamento de Estado afirma influencia del narco en gobierno BC",
+        "summary": "Vocero del Departamento de Estado de EE.UU. aseguró que el crimen organizado tiene influencia en la administración estatal.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182294_el_narco_tiene_influencia_en_el_gobierno_de_bc_afirma_el_vocero_del_departamento_de_estado_de_eu",
+        "_added_at": "2026-09-30T01:46:17.972747-07:00"
       }
     ],
     "politica": [
       {
-        "title": "PAN exige a Marina del Pilar separarse del cargo",
-        "summary": "Partido demanda que gobernadora se aparte temporalmente tras sanciones de OFAC a exesposo.",
-        "zona": "Baja California",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/pan-pide-a-marina-del-pilar-separarse-del-cargo-y-exige-investigacion-de-la-fgr/",
-        "_added_at": "2026-09-29T18:10:53.052379-07:00"
+        "title": "Congreso local aprueba reforma de ciudadanía única para candidatos",
+        "summary": "Por mayoría, el Congreso de Baja California avaló reforma que exige ciudadanía única en candidatos a puestos de elección.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182304_por_mayoria_el_congreso_local_avalo_la_reforma_de_ciudadania_unica_en_candidatos",
+        "_added_at": "2026-09-30T01:46:17.972747-07:00"
       },
       {
-        "title": "EU sanciona a Carlos Torres por vínculos con crimen organizado",
-        "summary": "Departamento del Tesoro congela cuentas de exesposo de Marina del Pilar por presuntos nexos con Los Mayos.",
-        "zona": "Baja California",
-        "source": "TV Azteca BC",
-        "url": "https://www.tvaztecabajacalifornia.com/noticias/eu-sanciona-a-carlos-torres-exesposo-de-marina-del-pilar-por-presuntos-vinculos-con-el-crimen-organizado-en-bc/",
-        "_added_at": "2026-09-29T18:10:53.052379-07:00"
-      },
-      {
-        "title": "Gobierno BC responde a sanciones de OFAC",
-        "summary": "Autoridades estatal aclaran que Marina del Pilar no fue sancionada y ordena revisar contratos con empresas señaladas.",
-        "zona": "Baja California",
-        "source": "Argumento Noticias",
-        "url": "https://argumentonoticias.com/2026/09/29/gobierno-de-bc-responde-a-senalamientos-de-ofac-y-afirma-que-marina-del-pilar-no-fue-sancionada/",
-        "_added_at": "2026-09-29T18:10:53.052379-07:00"
-      },
-      {
-        "title": "Empresas sancionadas por OFAC con negocios en gobiernos BC",
-        "summary": "Se identifica presencia de compañías bajo sanciones internacionales en contratos públicos estatales.",
+        "title": "Senado aprueba reforma de nacionalidad única para candidatos",
+        "summary": "El Senado de la República aprobó por mayoría reforma que establece nacionalidad única como requisito para ser candidato.",
         "zona": "Baja California",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/afn_politico/182286_empresas_sancionadas_por_la_ofac_con_negocios_en_gobiernos_de_bc",
-        "_added_at": "2026-09-29T18:10:53.052379-07:00"
+        "url": "https://www.afntijuana.info/nacionales/182299_por_mayoria_el_senado_aprobo_la_reforma_de_nacionalidad_unica_para_candidatos",
+        "_added_at": "2026-09-30T01:46:17.972747-07:00"
       },
       {
-        "title": "UIF bloquea recursos financieros de Torres y Vera",
-        "summary": "Unidad de Inteligencia Financiera congela activos de hermanos Torres y familia Vera.",
-        "zona": "Baja California",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/uif-bloquea-recursos-financieros-a-los-hermanos-torres-y-a-los-vera/",
-        "_added_at": "2026-09-29T18:10:53.052379-07:00"
-      },
-      {
-        "title": "Mexicali bajo control de Los Rusos con nexos políticos",
-        "summary": "Reportaje revela presencia de cartel y supuestos vínculos con funcionarios y empresarios locales.",
-        "zona": "Mexicali",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/29/mexicali-narcoterritorio-de-los-rusos-y-sus-vinculos-con-politicos-y-empresarios-de-bc/",
-        "_added_at": "2026-09-29T18:10:53.052379-07:00"
-      },
-      {
-        "title": "Ruffo inicia prisión domiciliaria por sentencia legal",
-        "summary": "Exgobernador comienza cumplimiento de pena en su domicilio tras decisión judicial.",
-        "zona": "Ensenada",
-        "source": "El Vigía",
-        "url": "https://www.youtube.com/shorts/Vch8EnR92i0",
-        "_added_at": "2026-09-29T13:36:48.822966-07:00"
-      },
-      {
-        "title": "Marina del Pilar descarta influencia política de Ruffo Appel",
-        "summary": "Gobernadora niega que exfuncionario ejerza presión política en su administración.",
+        "title": "PRI: acusación contra Torres no sorprende por contubernio narco-gobierno",
+        "summary": "Oposición denuncia contubernio entre crimen organizado y gobierno de BC, confirmado por acusaciones estadounidenses contra funcionario.",
         "zona": "Baja California",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/182275_no_existe_la_reeleccion_marina_del_pilar_descarta_influencia_politica_de_ruffo_appel",
-        "_added_at": "2026-09-29T13:36:48.822966-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/182296_acusacion_de_la_ofac_confirma_contubernio_del_narco_con_el_gobierno_de_bc_osuna_jaime",
+        "_added_at": "2026-09-30T01:46:17.972747-07:00"
       },
       {
-        "title": "Federación mantiene recorte presupuestal para Baja California Sur",
-        "summary": "Gobierno federal sostiene reducción de fondos presupuestarios para entidad.",
-        "zona": "Baja California",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/federacion-mantendra-recorte-presupuestal-para-bcs/?utm_source=rss&utm_medium=rss&utm_campaign=federacion-mantendra-recorte-presupuestal-para-bcs",
-        "_added_at": "2026-09-29T13:36:48.822966-07:00"
-      },
-      {
-        "title": "Magisterio refuerza exigencia por elección sindical democrática",
-        "summary": "Maestros intensifican demanda para realizar proceso electoral transparente en organización.",
-        "zona": "Baja California",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/magisterio-refuerza-exigencia-por-eleccion-sindical/?utm_source=rss&utm_medium=rss&utm_campaign=magisterio-refuerza-exigencia-por-eleccion-sindical",
-        "_added_at": "2026-09-29T13:36:48.822966-07:00"
-      },
-      {
-        "title": "Exfuncionarios de Mulegé vinculados a proceso por compra ilegal",
-        "summary": "Autoridades judiciales vinculan a proceso a exempleados municipales por adquisición fraudulenta de predios.",
-        "zona": "Baja California",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/apelan-pero-vinculan-a-proceso-a-exfuncionarios-de-mulege-por-compra-ilegal-de-predios/?utm_source=rss&utm_medium=rss&utm_campaign=apelan-pero-vinculan-a-proceso-a-exfuncionarios-de-mulege-por-compra-ilegal-de-predios",
-        "_added_at": "2026-09-29T13:36:48.822966-07:00"
-      },
-      {
-        "title": "Reyna Ramírez exhorta magistrados a enfocarse en justicia",
-        "summary": "Funcionaria judicial hace llamado a que magistrados y jueces prioricen administración de justicia.",
-        "zona": "Baja California",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/29/magistrados-y-jueces-deben-centrarse-en-la-justicia-reyna-ramirez/",
-        "_added_at": "2026-09-29T13:36:48.822966-07:00"
-      },
-      {
-        "title": "Manuel Cota Cárdenas es nombrado coordinador de Morena en BCS",
-        "summary": "El partido Morena designa a Manuel Cota Cárdenas como coordinador estatal para Baja California Sur.",
-        "zona": "Baja California",
+        "title": "Sección 2 del SNTE acusa incumplimiento de acuerdos",
+        "summary": "Sindicato de maestros denuncia que gobierno no cumple acuerdos pactados con el magisterio.",
+        "zona": "Tijuana",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/nacionales/182253_manuel_cota_cardenas_sera_el_coordinador_de_morena_en_bcs",
-        "_added_at": "2026-09-29T01:45:09.893008-07:00"
-      },
-      {
-        "title": "Morena afina su estrategia territorial en el estado",
-        "summary": "El partido realiza ajustes en su estructura y organización para fortalecer su presencia a nivel local.",
-        "zona": "Baja California",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/182244_afina_morena_estrategia_territorial",
-        "_added_at": "2026-09-29T01:45:09.893008-07:00"
-      },
-      {
-        "title": "Julieta Ramírez: análisis de reuniones y ausencias políticas",
-        "summary": "Reportaje sobre los encuentros y no encuentros de la funcionaria en el panorama político reciente.",
-        "zona": "Baja California",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/afn_politico/182243_las_reuniones_y_las_no_reuniones_de_julieta_ramirez",
-        "_added_at": "2026-09-29T01:45:09.893008-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/182303_seccion_2_del_snte_acusa_incumplimiento_de_acuerdos",
+        "_added_at": "2026-09-30T01:46:17.972747-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Comité Promotor reporta 89% resolución en casos inversión",
-        "summary": "Organismo informa avance significativo en tramitación de inversiones en la entidad.",
-        "zona": "Baja California",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Estatal/100022/Reporta-Comit%C3%A9-Promotor-89%25-de-resoluci%C3%B3n-en-casos-de-inversi%C3%B3n",
-        "_added_at": "2026-09-29T18:10:53.052379-07:00"
-      },
-      {
-        "title": "Concesionarios presionan por ajuste tarifario en transporte",
-        "summary": "Empresas piden incremento de tarifas mientras Partido del Trabajo propone subsidio estatal.",
-        "zona": "Tijuana",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/concesionarios-presionan-por-ajuste-tarifario-pt-propone-subsidio/",
-        "_added_at": "2026-09-29T18:10:53.052379-07:00"
-      },
-      {
-        "title": "COPARMEX busca que IVA 8% quede establecido en ley",
-        "summary": "Cámara empresarial de Tijuana impulsa permanencia de tasa impositiva reducida.",
+        "title": "DEITAC y CANACINTRA impulsan proyectos de agua e infraestructura",
+        "summary": "Organismos empresariales suman esfuerzos para promover proyectos en agua, energía, infraestructura y agenda binacional en Tijuana.",
         "zona": "Tijuana",
         "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/100016/COPARMEX-Tijuana-busca-que-IVA-de-8%25-quede-establecido-en-ley",
-        "_added_at": "2026-09-29T18:10:53.052379-07:00"
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/100031/DEITAC-y-CANACINTRA-suman-esfuerzos-para-impulsar-proyectos-en-materia-de-agua,-energ%C3%ADa,-infraestructura-y-agenda-binacional",
+        "_added_at": "2026-09-30T01:46:17.972747-07:00"
       },
       {
-        "title": "Construcción sufre caída por inseguridad en región",
-        "summary": "COMICE reporta disminución de inversiones en sector por preocupaciones de seguridad.",
+        "title": "Vendedores esperan mejorar ventas con temporada de Halloween",
+        "summary": "Comerciantes de dulces en Tijuana confían en aumentar sus ingresos con la proximidad de Halloween.",
         "zona": "Tijuana",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/182279_caen_inversiones_en_la_industria_de_la_construccion_por_la_inseguridad_comice_ttr",
-        "_added_at": "2026-09-29T18:10:53.052379-07:00"
-      },
-      {
-        "title": "Construcción en Tijuana cae hasta 15 por ciento",
-        "summary": "Sector inmobiliario registra reducción significativa aunque mantiene algunos proyectos en desarrollo.",
-        "zona": "Tijuana",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/29/construccion-industrial-cae-hasta-15-pero-mantienen-proyectos-en-tijuana/",
-        "_added_at": "2026-09-29T13:36:48.822966-07:00"
-      },
-      {
-        "title": "Dólar alcanza hasta 17 pesos en mercado cambiario",
-        "summary": "Moneda estadounidense se fortalece frente al peso mexicano en operaciones de venta.",
-        "zona": "Baja California",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/182268_con_diferencia_de_centavos_el_dolar_alcanza_hasta_17_pesos_a_la_venta",
-        "_added_at": "2026-09-29T13:36:48.822966-07:00"
-      },
-      {
-        "title": "México tiene tercer diésel más caro del mundo",
-        "summary": "País ocupa lugar entre naciones con mayores precios de combustible pese a subsidios fiscales.",
-        "zona": "Baja California",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/dinero/2026/09/29/mexico-ocupa-el-tercer-lugar-con-el-diesel-mas-caro-del-mundo-pese-a-destinar-547-millones-de-pesos-diarios-en-apoyos-fiscales-para-frenar-aumentos/",
-        "_added_at": "2026-09-29T13:36:48.822966-07:00"
-      },
-      {
-        "title": "SAT realiza jornada móvil en Mexicali",
-        "summary": "El Servicio de Administración Tributaria atiende contribuyentes en González Ortega con servicios de tramitología.",
-        "zona": "Mexicali",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/182246_atendera_el_sat_jornada_movil_en_gonzalez_ortega_en_mexicali",
-        "_added_at": "2026-09-29T01:45:09.893008-07:00"
+        "source": "TV Azteca BC",
+        "url": "https://www.tvaztecabajacalifornia.com/noticias/halloween-se-acerca-y-vendedores-de-dulces-esperan-mejorar-sus-ventas-en-tijuana/",
+        "_added_at": "2026-09-30T01:46:17.972747-07:00"
       }
     ],
     "eventos": [
       {
-        "title": "Arranca Nado por mi Corazón 2026 en Tijuana",
-        "summary": "Evento deportivo acuático iniciado en Centro de Alto Rendimiento de la ciudad.",
+        "title": "FEyRI celebra 65 años de historia y reconoce egresados",
+        "summary": "Institución educativa en Tijuana conmemoró su 65 aniversario rindiendo homenaje a sus egresados y trayectoria.",
         "zona": "Tijuana",
-        "source": "Argumento Noticias",
-        "url": "https://argumentonoticias.com/2026/09/29/arranca-nado-por-mi-corazon-2026-en-el-car-tijuana/",
-        "_added_at": "2026-09-29T18:10:53.052379-07:00"
-      },
-      {
-        "title": "Cuarto Desfile de Catrinas se prepara en Tijuana",
-        "summary": "Celebración de Día de Muertos con caballos, mojigangas y miles de participantes.",
-        "zona": "Tijuana",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/29/con-caballos-mojigangas-y-miles-de-asistentes-tijuana-prepara-su-4to-desfile-de-catrinas-para-celebrar-el-dia-de-muertos/",
-        "_added_at": "2026-09-29T18:10:53.052379-07:00"
-      },
-      {
-        "title": "Convocatoria abierta para proyectos de industrias creativas",
-        "summary": "Gobierno de Baja California invita a participar en programa de apoyo a emprendedores creativos.",
-        "zona": "Baja California",
-        "source": "Argumento Noticias",
-        "url": "https://argumentonoticias.com/2026/09/29/abren-convocatoria-de-apoyos-para-proyectos-de-industrias-creativas-en-baja-california-2/",
-        "_added_at": "2026-09-29T18:10:53.052379-07:00"
-      },
-      {
-        "title": "Ibero Tijuana presenta expo sobre migración con Alejandro Cossío",
-        "summary": "Universidad organiza muestra fotográfica abordando fenómeno migratorio en frontera.",
-        "zona": "Tijuana",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/29/invita-ibero-tijuana-a-la-expo-una-mirada-a-la-migracion-en-tijuana-de-alejandro-cossio/",
-        "_added_at": "2026-09-29T13:36:48.822966-07:00"
-      },
-      {
-        "title": "CETYS amplía oferta con 13 nuevos programas académicos",
-        "summary": "Universidad en Ensenada expande opciones educativas incluyendo formato flexible online.",
-        "zona": "Ensenada",
-        "source": "EnsenadaHoy",
-        "url": "https://ensenadahoy.com/noticias/ver/6977",
-        "_added_at": "2026-09-29T13:36:48.822966-07:00"
-      },
-      {
-        "title": "Caracol Museo presenta exposición \"Our Body\" sobre anatomía",
-        "summary": "Exhibición interactiva permite a estudiantes explorar estructura del cuerpo humano.",
-        "zona": "Ensenada",
-        "source": "AGP Noticias",
-        "url": "https://agpnoticias.com/news/3000333-2/",
-        "_added_at": "2026-09-29T13:36:48.822966-07:00"
-      },
-      {
-        "title": "Bajacalifornianos ganan en Concurso Nacional de Dibujo y Pintura",
-        "summary": "Estudiantes del estado obtienen primeros lugares en competencia nacional de artes plásticas.",
-        "zona": "Baja California",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/182248_logran_bajacalifornianos_primeros_lugares_en_concurso_nacional_de_dibujo_y_pintura",
-        "_added_at": "2026-09-29T01:45:09.893008-07:00"
-      },
-      {
-        "title": "Carrera 5K contra el cáncer en Tijuana",
-        "summary": "Evento deportivo recaudará fondos para la adquisición de camas-silla destinadas a pacientes con cáncer.",
-        "zona": "Tijuana",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/sociales/182251_compraran_camas_silla_con_lo_que_recauden_en_la_carrera_5k_contra_el_cancer",
-        "_added_at": "2026-09-29T01:45:09.893008-07:00"
-      },
-      {
-        "title": "\"Damas de Hierro contra el cáncer\" se anuncia como nuevo evento",
-        "summary": "Organización presenta iniciativa dedicada a la lucha contra el cáncer con participación femenina.",
-        "zona": "Baja California",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/sociales/182245_anuncian_el_evento_damas_de_hierro_contra_el_cancer",
-        "_added_at": "2026-09-29T01:45:09.893008-07:00"
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/100026/FEyRI-celebra-65-a%C3%B1os-de-historia-y-reconoce-trayectoria-de-sus-egresados",
+        "_added_at": "2026-09-30T01:46:17.972747-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "CETYS amplía oferta educativa con 13 nuevos programas",
-        "summary": "Universidad presenta expansión de licenciaturas y posgrados con modalidad flexible en línea.",
-        "zona": "Ensenada",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/182284_presento_cetys_universidad_la_nueva_oferta_educativa_para_profesional_y_posgrado",
-        "_added_at": "2026-09-29T18:10:53.052379-07:00"
-      },
-      {
-        "title": "Círculo de Protección atiende 11 mil menores en BC",
-        "summary": "Programa integral brinda acompañamiento y protección a niños y adolescentes en riesgo.",
+        "title": "Alertan por aumento de problemas cardíacos en jóvenes",
+        "summary": "Autoridades de salud advierten sobre incremento de afecciones cardíacas en menores de edad en Baja California.",
         "zona": "Baja California",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/182287_atienden_a_mas_de_11_mil_ninos_y_adolescentes_con_el_circulo_de_proteccion_en_bc",
-        "_added_at": "2026-09-29T18:10:53.052379-07:00"
+        "source": "TV Azteca BC",
+        "url": "https://www.tvaztecabajacalifornia.com/noticias/alertan-por-aumento-de-problemas-cardiacos-en-jovenes-recomiendan-revisar-a-menores/",
+        "_added_at": "2026-09-30T01:46:17.972747-07:00"
       },
       {
-        "title": "Tijuana ofrece jornadas gratuitas de atención veterinaria",
-        "summary": "Municipio lleva vacunas, antipulgas y esterilización a nueve delegaciones.",
-        "zona": "Tijuana",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/29/tijuana-lleva-jornadas-gratuitas-para-mascotas-a-las-9-delegaciones-con-vacunas-antipulgas-y-esterilizacion/",
-        "_added_at": "2026-09-29T18:10:53.052379-07:00"
-      },
-      {
-        "title": "DIF BC mantiene procesos de adopción con 36 familias certificadas",
-        "summary": "Sistema para Desarrollo Integral de la Familia avanza en trámites de legalización de adopciones.",
-        "zona": "Baja California",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/29/dif-bc-mantiene-procesos-de-adopcion-36-familias-tienen-certificado-de-idoneidad/",
-        "_added_at": "2026-09-29T18:10:53.052379-07:00"
-      },
-      {
-        "title": "Refuerzan acciones de prevención en planteles educativos",
-        "summary": "Autoridades de BC intensifican proximidad policial y trabajo preventivo en escuelas.",
-        "zona": "Baja California",
-        "source": "Argumento Noticias",
-        "url": "https://argumentonoticias.com/2026/09/29/refuerzan-acciones-de-prevencion-y-proximidad-en-planteles-educativos-de-baja-california/",
-        "_added_at": "2026-09-29T18:10:53.052379-07:00"
-      },
-      {
-        "title": "Amplían atención para convivencias familiares supervisadas",
-        "summary": "Servicio estatal expande programas de acompañamiento a familias en conflicto.",
-        "zona": "Baja California",
-        "source": "Argumento Noticias",
-        "url": "https://argumentonoticias.com/2026/09/29/amplian-atencion-para-convivencias-familiares-supervisadas-en-baja-california/",
-        "_added_at": "2026-09-29T18:10:53.052379-07:00"
-      },
-      {
-        "title": "Gobierno construye comunidad desde delegaciones municipales",
-        "summary": "Administración Agatón implementa estrategia de fortalecimiento territorial en Ensenada.",
-        "zona": "Ensenada",
-        "source": "EnsenadaHoy",
-        "url": "https://ensenadahoy.com/noticias/ver/6976",
-        "_added_at": "2026-09-29T18:10:53.052379-07:00"
-      },
-      {
-        "title": "Proponen recolección semanal gratuita de residuos voluminosos",
-        "summary": "Municipios estudian programa para acopiar muebles, electrodomésticos y escombros regularmente.",
-        "zona": "Baja California",
-        "source": "Rada Noticias",
-        "url": "https://radanoticias.info/proponen-programas-municipales-para-la-recoleccion-de-residuos-voluminosos/",
-        "_added_at": "2026-09-29T13:36:48.822966-07:00"
-      },
-      {
-        "title": "Alianza educativa impulsa 64 graduados de Alfabetizatec",
-        "summary": "Programa colaborativo en Tijuana logra certificación de adultos en alfabetización digital.",
-        "zona": "Tijuana",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/29/alianza-educativa-en-tijuana-impulsa-a-64-graduados-de-alfabetizatec/",
-        "_added_at": "2026-09-29T13:36:48.822966-07:00"
-      },
-      {
-        "title": "Convocan a jornada de limpieza para retirar llantas del Río Tijuana",
-        "summary": "Organizaciones ambientales coordinan labor comunitaria para remover desechos del afluente.",
-        "zona": "Tijuana",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/comunidad/182274_convocan_a_jornada_de_limpieza_para_retirar_llantas_del_rio_tijuana",
-        "_added_at": "2026-09-29T13:36:48.822966-07:00"
-      },
-      {
-        "title": "Proponen crear Unidad de Salud Biopsicosocial para policías",
-        "summary": "Iniciativa busca atender bienestar mental y físico de elementos de seguridad pública.",
-        "zona": "Baja California",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/29/proponen-crear-unidad-de-salud-biopsicosocial-para-policias/",
-        "_added_at": "2026-09-29T13:36:48.822966-07:00"
-      },
-      {
-        "title": "Salas de lectura promueven reinserción social en Mexicali",
-        "summary": "Programa en centros penitenciarios fomenta rehabilitación mediante acceso a libros y educación.",
+        "title": "Gobierno de Mexicali fortalece atención a personas vulnerables",
+        "summary": "Administración municipal intensifica servicios dirigidos a migrantes, discapacitados y otros grupos en situación vulnerable.",
         "zona": "Mexicali",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/09/salas-de-lectura-promueven-reinsercion-social-en-mexicali-y-slrc/?utm_source=rss&utm_medium=rss&utm_campaign=salas-de-lectura-promueven-reinsercion-social-en-mexicali-y-slrc",
-        "_added_at": "2026-09-29T13:36:48.822966-07:00"
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/100015/Gobierno-de-Mexicali-fortalece-atenci%C3%B3n-a-personas-vulnerables",
+        "_added_at": "2026-09-30T01:46:17.972747-07:00"
       },
       {
-        "title": "Estudiantes de Rosario Castellanos alcanzan cifra de dos mil",
-        "summary": "Universidad nacional en Tijuana registra crecimiento importante en población estudiantil.",
+        "title": "Deterioro de vialidad preocupa a vecinos de colonia Juárez",
+        "summary": "Residents de la colonia Juárez en Tijuana reportan grave deterioro de infraestructura vial con baches y daños.",
         "zona": "Tijuana",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/182266_estudian_cerca_de_2_mil_tijuanenses_en_la_universidad_nacional_rosario_castellanos",
-        "_added_at": "2026-09-29T13:36:48.822966-07:00"
+        "source": "TV Azteca BC",
+        "url": "https://www.tvaztecabajacalifornia.com/noticias/deterioro-de-vialidad-preocupa-a-vecinos-de-la-colonia-juarez-en-tijuana/",
+        "_added_at": "2026-09-30T01:46:17.972747-07:00"
       },
       {
-        "title": "UABC reconoce a atletas nacionales e internacionales",
-        "summary": "La universidad realiza ceremonia de reconocimiento a deportistas destacados de alcance nacional e internacional.",
-        "zona": "Baja California",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/comunidad/182252_reconocio_la_uabc_a_atletas_nacionales_e_internacionales",
-        "_added_at": "2026-09-29T01:45:09.893008-07:00"
+        "title": "Corte de agua programado para colonias de Tijuana el 30 de septiembre",
+        "summary": "Múltiples colonias de Tijuana experimentarán interrupciones en servicio de agua potable por trabajos de mantenimiento.",
+        "zona": "Tijuana",
+        "source": "TV Azteca BC",
+        "url": "https://www.tvaztecabajacalifornia.com/noticias/preparate-estas-colonias-de-tijuana-tendran-corte-de-agua-este-miercoles-30-de-septiembre/",
+        "_added_at": "2026-09-30T01:46:17.972747-07:00"
       }
     ]
   },
-  "last_updated": "2026-09-29T18:10:53.052379-07:00"
+  "last_updated": "2026-09-30T01:46:17.972747-07:00"
 }
