@@ -1,8 +1,56 @@
 {
   "date": "2026-10-01",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Armas y equipo táctico hallados en vehículo robado",
+        "summary": "Autoridades localizan armas largas y equipo táctico dentro de un vehículo robado en Valle de las Palmas, Tijuana.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/localizan-armas-largas-y-equipo-tactico-en-vehiculo-robado-en-valle-de-las-palmas/?utm_source=rss&utm_medium=rss&utm_campaign=localizan-armas-largas-y-equipo-tactico-en-vehiculo-robado-en-valle-de-las-palmas",
+        "_added_at": "2026-10-01T13:55:20.644495-07:00"
+      },
+      {
+        "title": "FGE reduce 25% homicidios dolosos en Baja California",
+        "summary": "La Fiscalía General del Estado intensifica investigaciones y reporta reducción significativa de homicidios dolosos en la entidad.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/01/fge-intensifica-investigacion-y-reduce-25-los-homicidios-dolosos/",
+        "_added_at": "2026-10-01T13:55:20.644495-07:00"
+      },
+      {
+        "title": "Operativo desarticuló red de extorsión en Tijuana",
+        "summary": "FGE dismantela célula que extorsionaba a trabajadoras de centros nocturnos en Tijuana y detiene a presuntos integrantes.",
+        "zona": "Tijuana",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/01/fge-desarticula-celula-dedicada-a-extorsionar-a-trabajadoras-de-centros-nocturnos-en-tijuana/",
+        "_added_at": "2026-10-01T13:55:20.644495-07:00"
+      },
+      {
+        "title": "EU advierte acciones contra red del Cártel de Sinaloa",
+        "summary": "Estados Unidos anuncia que perseguirá a toda la estructura del Cártel de Sinaloa tras sanciones de OFAC contra empresas vinculadas.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/01/eu-advierte-que-ira-contra-toda-la-red-del-cartel-de-sinaloa-tras-sanciones-de-ofac/",
+        "_added_at": "2026-10-01T13:55:20.644495-07:00"
+      },
+      {
+        "title": "Jueza niega amparo a operador aduanal implicado con Ruffo",
+        "summary": "Tribunal rechaza amparo solicitado por operador aduanal acusado en caso relacionado con Ernesto Ruffo.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/jueza-niega-amparo-a-operador-aduanal-coimputado-de-ernesto-ruffo/?utm_source=rss&utm_medium=rss&utm_campaign=jueza-niega-amparo-a-operador-aduanal-coimputado-de-ernesto-ruffo",
+        "_added_at": "2026-10-01T13:55:20.644495-07:00"
+      },
+      {
+        "title": "Muere policía de tránsito en accidente en Playas",
+        "summary": "Oficial de la Secretaría de Seguridad Pública fallece tras quedar atrapado en aparatoso choque vehicular en Playas de Tijuana.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/fallece-policia-de-transito-en-accidente-automovilistico-en-playas-de-tijuana/?utm_source=rss&utm_medium=rss&utm_campaign=fallece-policia-de-transito-en-accidente-automovilistico-en-playas-de-tijuana",
+        "_added_at": "2026-10-01T13:55:20.644495-07:00"
+      },
       {
         "title": "EU señala operador político ligado al crimen en BC",
         "summary": "Estados Unidos identifica a Carlos Torres como operador político vinculado al crimen organizado en Baja California.",
@@ -30,6 +78,46 @@
     ],
     "politica": [
       {
+        "title": "Román Cota busca diputación federal sin licencia",
+        "summary": "Funcionario anuncia candidatura a diputado federal sin solicitar permiso de su cargo actual.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182387_va_roman_cota_por_una_diputacion_federal_no_pedira_licencia",
+        "_added_at": "2026-10-01T13:55:20.644495-07:00"
+      },
+      {
+        "title": "Agatón preserva terreno del CEARTE para cultura",
+        "summary": "Alcaldesa de Ensenada respaldo mantener el predio del Centro de Artes y propone ubicación alternativa para los juzgados.",
+        "zona": "Ensenada",
+        "source": "AGP Noticias",
+        "url": "https://agpnoticias.com/news/agaton-respalda-conservar-terreno-del-cearte-y-propone-otra-ubicacion-para-juzgados/",
+        "_added_at": "2026-10-01T13:55:20.644495-07:00"
+      },
+      {
+        "title": "BC cancela licitaciones con empresas sancionadas",
+        "summary": "Gobierno estatal excluye de procesos de contratación a compañías bajo sanciones estadounidenses.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/estatal/2026/10/01/cancela-bc-presencia-en-licitaciones-de-empresas-sancionadas-por-eu/",
+        "_added_at": "2026-10-01T13:55:20.644495-07:00"
+      },
+      {
+        "title": "Diputada exige esclarecer reutilización de material médico",
+        "summary": "Legisladora demanda investigación sobre presunta reutilización de equipo médico en hospital de Mexicali.",
+        "zona": "Mexicali",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/estatal/2026/10/01/diputada-gilvaja-exige-esclarecer-denuncia-por-posible-reutilizacion-de-material-medico-en-mexicali/",
+        "_added_at": "2026-10-01T13:55:20.644495-07:00"
+      },
+      {
+        "title": "IMCO coloca BC entre peores en gobierno y justicia",
+        "summary": "Instituto Mexicano para la Competitividad ubica Baja California entre entidades con menor desempeño institucional.",
+        "zona": "Baja California",
+        "source": "TV Azteca BC",
+        "url": "https://www.tvaztecabajacalifornia.com/noticias/mientras-presumen-avances-imco-coloca-a-baja-california-entre-los-peores-estados-en-gobierno-y-justicia/",
+        "_added_at": "2026-10-01T13:55:20.644495-07:00"
+      },
+      {
         "title": "Román Cota deja en suspenso candidatura a diputación",
         "summary": "Funcionario de Tijuana deja abierta la posibilidad de solicitar licencia para buscar una diputación federal.",
         "zona": "Tijuana",
@@ -56,6 +144,38 @@
     ],
     "economia": [
       {
+        "title": "Maquilas ajustarán turnos por nueva jornada laboral",
+        "summary": "Empresas manufactureras de Tijuana modificarán esquemas de trabajo ante reducción de jornada laboral a 46 horas.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/10/01/maquiladoras-de-tijuana-modificaran-turnos-por-reduccion-de-jornada-laboral/",
+        "_added_at": "2026-10-01T13:55:20.644495-07:00"
+      },
+      {
+        "title": "Gobierno Burgueño otorga mil 776 créditos para emprendimiento",
+        "summary": "Administración municipal de Tijuana entrega financiamiento a pequeños negocios locales para fortalecer economía.",
+        "zona": "Tijuana",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/01/otorga-gobierno-de-ismael-burgueno-mil-776-creditos-para-fortalecer-el-emprendimiento-local/",
+        "_added_at": "2026-10-01T13:55:20.644495-07:00"
+      },
+      {
+        "title": "Empresas usan IA para mejorar desarrollo laboral",
+        "summary": "Compañías en Tijuana implementan inteligencia artificial para impulsar capacitación y crecimiento de empleados.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/10/01/empresas-usan-ia-para-impulsar-el-desarrollo-de-trabajadores/",
+        "_added_at": "2026-10-01T13:55:20.644495-07:00"
+      },
+      {
+        "title": "Alcaldesa reconoce bajas ventas en Fiestas del Sol",
+        "summary": "Titular de Ayuntamiento de Mexicali admite desempeño comercial débil durante festividad local.",
+        "zona": "Mexicali",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/100097/Reconoce-alcaldesa-bajas-ventas-en-Fiestas-del-Sol",
+        "_added_at": "2026-10-01T13:55:20.644495-07:00"
+      },
+      {
         "title": "BC presenta identidad gastronómica en festival San Diego",
         "summary": "Baja California participa en el San Diego Food & Wine Festival para promover su gastronomía regional.",
         "zona": "Baja California",
@@ -72,8 +192,81 @@
         "_added_at": "2026-10-01T02:08:06.688975-07:00"
       }
     ],
-    "eventos": [],
+    "eventos": [
+      {
+        "title": "Estimado 70 mil visitantes para Feria del Libro",
+        "summary": "Organizadores esperan amplia concurrencia en edición de la Feria del Libro de Tijuana.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182380_estiman_que_habra_70_mil_visitantes_en_la_feria_del_libro_de_tijuana",
+        "_added_at": "2026-10-01T13:55:20.644495-07:00"
+      },
+      {
+        "title": "Buque Escuela Cuauhtémoc llega a San Diego",
+        "summary": "Embarcación mexicana arriba a puerto estadounidense para visitas y actividades de promoción cultural.",
+        "zona": "Tijuana",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/llega-a-san-diego-el-buque-escuela-cuauhtemoc/",
+        "_added_at": "2026-10-01T13:55:20.644495-07:00"
+      },
+      {
+        "title": "Mundialito para población en movilidad en Tijuana",
+        "summary": "Más de 100 personas participan en torneo deportivo inclusivo en la frontera.",
+        "zona": "Tijuana",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/10/01/mas-de-100-personas-participan-en-mundialito-para-poblacion-en-movilidad-en-tijuana/",
+        "_added_at": "2026-10-01T13:55:20.644495-07:00"
+      }
+    ],
     "sociedad": [
+      {
+        "title": "Padres toman escuela por falta de maestros",
+        "summary": "Progenitores cierran primaria de Tijuana para exigir contratación de docentes faltantes desde hace meses.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/10/01/padres-toman-primaria-de-tijuana-para-exigir-maestros-tres-grupos-siguen-sin-docente/",
+        "_added_at": "2026-10-01T13:55:20.644495-07:00"
+      },
+      {
+        "title": "Secundaria en Maneadero tomada por falta de docentes",
+        "summary": "Padres de familia ocupan Secundaria 105 en Ensenada exigiendo solución a la carencia de maestros.",
+        "zona": "Ensenada",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/ensenada/2026/10/01/padres-toman-secundaria-105-en-maneadero-por-falta-de-maestro-desde-marzo/",
+        "_added_at": "2026-10-01T13:55:20.644495-07:00"
+      },
+      {
+        "title": "Maestros CNTE protestan por falta de pago a interinos",
+        "summary": "Docentes sindicalizados demandan liquidación de salarios pendientes para maestros de contrato temporal.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182379_protestan_maestros_del_cnte_por_falta_de_pago_a_interinos",
+        "_added_at": "2026-10-01T13:55:20.644495-07:00"
+      },
+      {
+        "title": "Sube escolaridad promedio en Baja California",
+        "summary": "Entidad registra incremento en años de educación formal promedio de su población.",
+        "zona": "Baja California",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/100096/Sube-escolaridad-promedio-en-Baja-California",
+        "_added_at": "2026-10-01T13:55:20.644495-07:00"
+      },
+      {
+        "title": "Protección Civil capacita dependencias para contingencias",
+        "summary": "Autoridades entrenan a 19 instituciones ante posibles emergencias derivadas de fenómenos meteorológicos.",
+        "zona": "Ensenada",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/10/01/proteccion-civil-capacita-a-19-dependencias-ante-posibles-contingencias-por-el-nino/",
+        "_added_at": "2026-10-01T13:55:20.644495-07:00"
+      },
+      {
+        "title": "Nadadores locales buscan pase a Selección Nacional",
+        "summary": "Atletas bajacalifornianos compiten para obtener convocatoria a equipo nacional de aguas abiertas.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/deportes/2026/10/01/buscan-nadadores-bajacalifornianos-su-pase-a-la-seleccion-nacional-de-aguas-abiertas/",
+        "_added_at": "2026-10-01T13:55:20.644495-07:00"
+      },
       {
         "title": "Gobierno municipal atiende socavón en Tijuana-Rosarito",
         "summary": "Autoridades de Tijuana atienden y reparan un socavón detectado en la carretera libre Tijuana-Rosarito.",
@@ -100,5 +293,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-01T02:08:06.688975-07:00"
+  "last_updated": "2026-10-01T13:55:20.644495-07:00"
 }
