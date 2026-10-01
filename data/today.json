@@ -1,8 +1,64 @@
 {
   "date": "2026-09-30",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Hallan cuatro cuerpos en basurero entre Tijuana y Rosarito",
+        "summary": "Madres buscadoras localizaron cuatro cuerpos en fosa clandestina y exigen resguardo del sitio.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/30/las-madres-buscadoras-volvieron-al-basurero-entre-tijuana-y-rosarito-y-encontraron-cuatro-cuerpos-ahora-piden-que-nadie-vuelva-a-entrar-al-sitio/",
+        "_added_at": "2026-09-30T18:10:22.494340-07:00"
+      },
+      {
+        "title": "FESC asegura más de 10 kg de heroína en operativo",
+        "summary": "Fuerzas estatales aseguran droga en cantidad significativa durante operativo de patrullaje.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/seguridad/2026/09/30/asegura-fesc-mas-de-10-kg-de-heroina/",
+        "_added_at": "2026-09-30T18:10:22.494340-07:00"
+      },
+      {
+        "title": "Detienen a presuntos responsables de ataque armado contra mujeres",
+        "summary": "Autoridades capturan a dos sospechosos por tiroteo afuera de escuela primaria en Tijuana.",
+        "zona": "Tijuana",
+        "source": "TV Azteca BC",
+        "url": "https://www.tvaztecabajacalifornia.com/policiaca/detienen-a-dos-presuntos-responsables-de-ataque-armado-contra-dos-mujeres-afuera-de-una-primaria-en-tijuana/",
+        "_added_at": "2026-09-30T18:10:22.494340-07:00"
+      },
+      {
+        "title": "Cierran garita de Otay por dispositivo sospechoso",
+        "summary": "Autoridades cierran puerto fronterizo por casi cuatro horas tras detectar objeto potencialmente peligroso.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/30/cierran-garita-de-otay-por-dispositivo-sospechoso-reabren-tras-casi-4-horas/",
+        "_added_at": "2026-09-30T18:10:22.494340-07:00"
+      },
+      {
+        "title": "FGE reporta 113 mil carpetas de investigación concluidas",
+        "summary": "Fiscalía estatal informa avance significativo en procesamiento de casos ante autoridades.",
+        "zona": "Baja California",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/09/30/fge-reporta-mas-de-113-mil-carpetas-de-investigacion-concluidas/",
+        "_added_at": "2026-09-30T18:10:22.494340-07:00"
+      },
+      {
+        "title": "Cámaras corporales inhiben corrupción en IMOS Ensenada",
+        "summary": "Implementación de dispositivos de grabación reduce conductas indebidas en policía municipal.",
+        "zona": "Ensenada",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/ensenada/2026/09/30/camaras-corporales-inhiben-posibles-actos-de-corrupcion-en-imos/",
+        "_added_at": "2026-09-30T18:10:22.494340-07:00"
+      },
+      {
+        "title": "Tijuana revisa contratos con empresas señaladas por Estados Unidos",
+        "summary": "Ayuntamiento audita relaciones comerciales con proveedores bajo investigación federal norteamericana.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/30/ayuntamiento-de-tijuana-revisara-si-empresas-senaladas-por-estados-unidos-son-proveedoras/",
+        "_added_at": "2026-09-30T18:10:22.494340-07:00"
+      },
       {
         "title": "Capturan cuatro presuntos integrantes de Los Rusos en Mexicali",
         "summary": "Autoridades detienen a cuatro sujetos vinculados a célula delictiva por secuestro y doble homicidio en Mexicali.",
@@ -69,6 +125,54 @@
       }
     ],
     "politica": [
+      {
+        "title": "INE instala Consejo Local para elecciones 2027 en BC",
+        "summary": "Organismo comienza formalmente organización de proceso electoral para próximos comicios.",
+        "zona": "Baja California",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/instala-ine-consejo-local-para-elecciones-de-2027-en-baja-california/",
+        "_added_at": "2026-09-30T18:10:22.494340-07:00"
+      },
+      {
+        "title": "Arranca sucesión rectoral en UABC con convocatoria abierta",
+        "summary": "Universidad abre proceso de selección para nuevo rector del período 2027-2031.",
+        "zona": "Baja California",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/arranca-carrera-por-la-sucesion-rectoral-en-uabc-presentan-convocatoria/?utm_source=rss&utm_medium=rss&utm_campaign=arranca-carrera-por-la-sucesion-rectoral-en-uabc-presentan-convocatoria",
+        "_added_at": "2026-09-30T18:10:22.494340-07:00"
+      },
+      {
+        "title": "Norma Bustamante niega vínculos de Mendívil con Los Rusos",
+        "summary": "Gobernadora rechaza especulaciones sobre relación de funcionario con grupo criminal.",
+        "zona": "Baja California",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/niega-norma-bustamante-sospechas-sobre-presunta-relacion-de-mendivil-con-los-rusos/?utm_source=rss&utm_medium=rss&utm_campaign=niega-norma-bustamante-sospechas-sobre-presunta-relacion-de-mendivil-con-los-rusos",
+        "_added_at": "2026-09-30T18:10:22.494340-07:00"
+      },
+      {
+        "title": "Alcaldes de BC fijan postura ante señalamientos contra exesposo",
+        "summary": "Presidentes municipales emiten posicionamiento sobre investigaciones federales norteamericanas.",
+        "zona": "Baja California",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/alcaldes-de-bc-fijan-postura-ante-senalamientos-contra-exesposo-de-marina-del-pilar/?utm_source=rss&utm_medium=rss&utm_campaign=alcaldes-de-bc-fijan-postura-ante-senalamientos-contra-exesposo-de-marina-del-pilar",
+        "_added_at": "2026-09-30T18:10:22.494340-07:00"
+      },
+      {
+        "title": "Morena registrará aspirantes a coordinadores distritales",
+        "summary": "Partido abre convocatoria para candidatos a coordinaciones distritales a partir de octubre.",
+        "zona": "Baja California",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/09/morena-registrara-aspirantes-a-coordinadores-distritales-a-partir-del-1-de-octubre/?utm_source=rss&utm_medium=rss&utm_campaign=morena-registrara-aspirantes-a-coordinadores-distritales-a-partir-del-1-de-octubre",
+        "_added_at": "2026-09-30T18:10:22.494340-07:00"
+      },
+      {
+        "title": "ONU y Baja California refuerzan coordinación en migración",
+        "summary": "Gobierno estatal y organización internacional establecen acuerdos de cooperación migratoria.",
+        "zona": "Baja California",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/09/30/onu-y-baja-california-refuerzan-coordinacion-en-materia-migratoria/",
+        "_added_at": "2026-09-30T18:10:22.494340-07:00"
+      },
       {
         "title": "Morena ratifica triunfo de Julieta Ramírez en encuesta de BC",
         "summary": "Partido confirma victoria de candidata en sondeo para gobernación; ella convoca a unidad dentro de Morena.",
@@ -140,17 +244,33 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/182296_acusacion_de_la_ofac_confirma_contubernio_del_narco_con_el_gobierno_de_bc_osuna_jaime",
         "_added_at": "2026-09-30T01:46:17.972747-07:00"
-      },
-      {
-        "title": "Sección 2 del SNTE acusa incumplimiento de acuerdos",
-        "summary": "Sindicato de maestros denuncia que gobierno no cumple acuerdos pactados con el magisterio.",
-        "zona": "Tijuana",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/182303_seccion_2_del_snte_acusa_incumplimiento_de_acuerdos",
-        "_added_at": "2026-09-30T01:46:17.972747-07:00"
       }
     ],
     "economia": [
+      {
+        "title": "Bodas mantienen turismo activo en Valle de Guadalupe",
+        "summary": "Celebraciones matrimoniales generan actividad económica en región vinícola durante temporada otoñal.",
+        "zona": "Ensenada",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/ensenada/2026/09/30/bodas-mantienen-activo-al-valle-de-guadalupe-durante-el-otono/",
+        "_added_at": "2026-09-30T18:10:22.494340-07:00"
+      },
+      {
+        "title": "Empresas locales buscan ampliar proveeduría industrial",
+        "summary": "Compañías regionales exploran oportunidades para expandir servicios al sector manufacturero.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182342_empresas_locales_buscan_ampliar_la_proveeduria_del_sector_industrial",
+        "_added_at": "2026-09-30T18:10:22.494340-07:00"
+      },
+      {
+        "title": "Volatilidad geopolítica afecta crecimiento empresarial",
+        "summary": "Incertidumbre internacional limita expansión de negocios locales según análisis de sector.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182344_afecta_crecimiento_de_empresas_la_volatilidad_geopolitica_mundial_afirman",
+        "_added_at": "2026-09-30T18:10:22.494340-07:00"
+      },
       {
         "title": "Exportaciones de BC crecen 5.8% en primer semestre 2026",
         "summary": "Estado registra aumento en envíos internacionales, consolidando recuperación económica.",
@@ -202,6 +322,14 @@
     ],
     "eventos": [
       {
+        "title": "El Trompo inaugura sala inmersiva sobre biodiversidad",
+        "summary": "Museo abre nueva experiencia interactiva enfocada en ecosistemas y fauna de Baja California.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/09/30/el-trompo-inaugura-experiencia-inmersiva-sobre-biodiversidad-de-baja-california/",
+        "_added_at": "2026-09-30T18:10:22.494340-07:00"
+      },
+      {
         "title": "Diputada García impulsa parlamento abierto sobre autismo",
         "summary": "Legisladora promueve foro público para crear nueva ley de neurodivergencias y autismo.",
         "zona": "Baja California",
@@ -235,6 +363,46 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "IMSS Mexicali: error humano causó intercambio de bebés",
+        "summary": "Hospital reconoce responsabilidad por incidente que mezcló recién nacidos en maternidad.",
+        "zona": "Mexicali",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/100064/Intercambio-de-dos-beb%C3%A9s-en-hospital-del-IMSS-de-Mexicali-fue-por-%E2%80%9Cerror-humano%E2%80%9D",
+        "_added_at": "2026-09-30T18:10:22.494340-07:00"
+      },
+      {
+        "title": "Alcalde Burgueño entrega 875 vales Uniforma-T 2026",
+        "summary": "Tijuana distribuye ayuda para uniformes escolares a estudiantes de nivel medio y superior.",
+        "zona": "Tijuana",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/09/30/entrega-alcalde-ismael-burgueno-875-vales-uniforma-t-2026-a-estudiantes/",
+        "_added_at": "2026-09-30T18:10:22.494340-07:00"
+      },
+      {
+        "title": "Judocas de BC se preparan para Nacional de octubre",
+        "summary": "Atletas estatales entrenan intensamente para competencia nacional próxima.",
+        "zona": "Baja California",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/09/30/judocas-de-baja-california-se-preparan-para-nacional-de-octubre/",
+        "_added_at": "2026-09-30T18:10:22.494340-07:00"
+      },
+      {
+        "title": "Claudia Agatón destaca disminución de delitos en Ensenada",
+        "summary": "Alcaldesa reporta reducción de criminalidad y mejora en equipamiento municipal.",
+        "zona": "Ensenada",
+        "source": "EnsenadaHoy",
+        "url": "https://ensenadahoy.com/noticias/ver/6978",
+        "_added_at": "2026-09-30T18:10:22.494340-07:00"
+      },
+      {
+        "title": "Arregui y Apanac buscan recuperar espacios deportivos",
+        "summary": "Candidatos proponen reabrir áreas comunitarias para deporte y actividades de menores.",
+        "zona": "Ensenada",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182353_arregui_y_apanac_buscan_recuperar_espacios_deportivos_en_ensenada",
+        "_added_at": "2026-09-30T18:10:22.494340-07:00"
+      },
       {
         "title": "Cabildo aprueba actas de nacimiento en braille para ciegos",
         "summary": "Tijuana autoriza iniciativa para facilitar documentos de identidad accesibles a personas invidentes.",
@@ -301,5 +469,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-30T13:41:15.231709-07:00"
+  "last_updated": "2026-09-30T18:10:22.494340-07:00"
 }
