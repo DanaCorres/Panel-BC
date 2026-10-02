@@ -1,449 +1,96 @@
 {
-  "date": "2026-10-01",
-  "run_count": 3,
+  "date": "2026-10-02",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Embajador destaca golpe financiero al Cártel de Sinaloa",
-        "summary": "EU subraya operativo que impactó la red criminal y política del cartel, con sanciones de OFAC y advertencia de mayor presión.",
+        "title": "Retienen a Alejandra León en garita de Calexico",
+        "summary": "Trasciende que autoridades retuvieron a la funcionaria en el punto fronterizo de Calexico.",
         "zona": "Tijuana",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/10/destaca-embajador-ronald-johnson-duro-golpe-financiero-a-la-red-criminal-y-politica-del-cartel-de-sinaloa/?utm_source=rss&utm_medium=rss&utm_campaign=destaca-embajador-ronald-johnson-duro-golpe-financiero-a-la-red-criminal-y-politica-del-cartel-de-sinaloa",
-        "_added_at": "2026-10-01T18:29:28.224145-07:00"
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182404_trasciende_que_retienen_en_la_garita_de_calexico_a_alejandra_leon",
+        "_added_at": "2026-10-02T01:41:47.449863-07:00"
       },
       {
-        "title": "Alerta DSPM por extorsión vial tipo montachoques en Ensenada",
-        "summary": "Policía advierte sobre modalidad delictiva de accidentes provocados para extorsionar a conductores.",
-        "zona": "Ensenada",
-        "source": "EnsenadaHoy",
-        "url": "https://ensenadahoy.com/noticias/ver/6981",
-        "_added_at": "2026-10-01T18:29:28.224145-07:00"
-      },
-      {
-        "title": "Muere policía municipal en aparatoso accidente",
-        "summary": "Agente queda prensado en choque en Playas de Tijuana; pasajera resulta con lesiones graves.",
+        "title": "Polleros digitales transforman métodos de cruce fronterizo",
+        "summary": "Nuevas tácticas digitales cambian la forma de operación del tráfico humano en Tijuana.",
         "zona": "Tijuana",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/muere-policia-municipal-tras-quedar-prensado-en-aparatoso-accidente-en-playas-de-tijuana-mujer-resulta-grave/",
-        "_added_at": "2026-10-01T18:29:28.224145-07:00"
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/100112/%E2%80%9CPolleros-digitales%E2%80%9D-cambian-la-forma-de-cruzar-la-frontera",
+        "_added_at": "2026-10-02T01:41:47.449863-07:00"
       },
       {
-        "title": "Armas y equipo táctico hallados en vehículo robado",
-        "summary": "Autoridades localizan armas largas y equipo táctico dentro de un vehículo robado en Valle de las Palmas, Tijuana.",
-        "zona": "Tijuana",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/10/localizan-armas-largas-y-equipo-tactico-en-vehiculo-robado-en-valle-de-las-palmas/?utm_source=rss&utm_medium=rss&utm_campaign=localizan-armas-largas-y-equipo-tactico-en-vehiculo-robado-en-valle-de-las-palmas",
-        "_added_at": "2026-10-01T13:55:20.644495-07:00"
-      },
-      {
-        "title": "FGE reduce 25% homicidios dolosos en Baja California",
-        "summary": "La Fiscalía General del Estado intensifica investigaciones y reporta reducción significativa de homicidios dolosos en la entidad.",
-        "zona": "Baja California",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/01/fge-intensifica-investigacion-y-reduce-25-los-homicidios-dolosos/",
-        "_added_at": "2026-10-01T13:55:20.644495-07:00"
-      },
-      {
-        "title": "Operativo desarticuló red de extorsión en Tijuana",
-        "summary": "FGE dismantela célula que extorsionaba a trabajadoras de centros nocturnos en Tijuana y detiene a presuntos integrantes.",
-        "zona": "Tijuana",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/01/fge-desarticula-celula-dedicada-a-extorsionar-a-trabajadoras-de-centros-nocturnos-en-tijuana/",
-        "_added_at": "2026-10-01T13:55:20.644495-07:00"
-      },
-      {
-        "title": "EU advierte acciones contra red del Cártel de Sinaloa",
-        "summary": "Estados Unidos anuncia que perseguirá a toda la estructura del Cártel de Sinaloa tras sanciones de OFAC contra empresas vinculadas.",
-        "zona": "Baja California",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/01/eu-advierte-que-ira-contra-toda-la-red-del-cartel-de-sinaloa-tras-sanciones-de-ofac/",
-        "_added_at": "2026-10-01T13:55:20.644495-07:00"
-      },
-      {
-        "title": "Jueza niega amparo a operador aduanal implicado con Ruffo",
-        "summary": "Tribunal rechaza amparo solicitado por operador aduanal acusado en caso relacionado con Ernesto Ruffo.",
-        "zona": "Tijuana",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/10/jueza-niega-amparo-a-operador-aduanal-coimputado-de-ernesto-ruffo/?utm_source=rss&utm_medium=rss&utm_campaign=jueza-niega-amparo-a-operador-aduanal-coimputado-de-ernesto-ruffo",
-        "_added_at": "2026-10-01T13:55:20.644495-07:00"
-      },
-      {
-        "title": "Muere policía de tránsito en accidente en Playas",
-        "summary": "Oficial de la Secretaría de Seguridad Pública fallece tras quedar atrapado en aparatoso choque vehicular en Playas de Tijuana.",
-        "zona": "Tijuana",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/10/fallece-policia-de-transito-en-accidente-automovilistico-en-playas-de-tijuana/?utm_source=rss&utm_medium=rss&utm_campaign=fallece-policia-de-transito-en-accidente-automovilistico-en-playas-de-tijuana",
-        "_added_at": "2026-10-01T13:55:20.644495-07:00"
-      },
-      {
-        "title": "EU señala operador político ligado al crimen en BC",
-        "summary": "Estados Unidos identifica a Carlos Torres como operador político vinculado al crimen organizado en Baja California.",
-        "zona": "Baja California",
-        "source": "TV Azteca BC",
-        "url": "https://www.tvaztecabajacalifornia.com/noticias/estados-unidos-senala-a-carlos-torres-como-operador-politico-ligado-al-crimen-organizado-en-baja-california/",
-        "_added_at": "2026-10-01T02:08:06.688975-07:00"
-      },
-      {
-        "title": "Madres buscadoras localizan seis cuerpos en Rosarito",
-        "summary": "Tras semanas de búsqueda, madres buscadoras encuentran seis cuerpos en la zona de Rosarito.",
-        "zona": "Rosarito",
-        "source": "TV Azteca BC",
-        "url": "https://www.tvaztecabajacalifornia.com/noticias/madres-buscadoras-localizan-seis-cuerpos-tras-semanas-de-busqueda-en-rosarito/",
-        "_added_at": "2026-10-01T02:08:06.688975-07:00"
-      },
-      {
-        "title": "Ataque con arma blanca en hotel del Centro de Tijuana",
-        "summary": "Persona es atacada con arma blanca dentro de un hotel en la Zona Centro de Tijuana.",
+        "title": "Paquete sospechoso causa cierre y caos en garita Otay",
+        "summary": "Encontraron paquete sospechoso que obligó cierre temporal y generó largas esperas en Otay.",
         "zona": "Tijuana",
         "source": "TV Azteca BC",
-        "url": "https://www.tvaztecabajacalifornia.com/noticias/atacan-con-arma-blanca-a-una-persona-dentro-de-un-hotel-en-zona-centro-de-tijuana/",
-        "_added_at": "2026-10-01T02:08:06.688975-07:00"
+        "url": "https://www.tvaztecabajacalifornia.com/noticias/caos-en-otay-paquete-sospechoso-provoca-cierre-y-largas-esperas-en-la-garita/",
+        "_added_at": "2026-10-02T01:41:47.449863-07:00"
+      },
+      {
+        "title": "Violencia cercana a escuela alarma por seguridad de mujeres",
+        "summary": "Incidentes de violencia cerca de establecimiento educativo generan preocupación en Tijuana.",
+        "zona": "Tijuana",
+        "source": "TV Azteca BC",
+        "url": "https://www.tvaztecabajacalifornia.com/noticias/violencia-cerca-de-una-escuela-genera-preocupacion-por-la-seguridad-de-mujeres-en-tijuana/",
+        "_added_at": "2026-10-02T01:41:47.449863-07:00"
       }
     ],
     "politica": [
       {
-        "title": "PRI cuestiona resolución del IEE contra Agatón",
-        "summary": "Comisión de Quejas emite resolución contra presidenta; partido opuesto la impugna.",
-        "zona": "Ensenada",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/182396_la_comision_de_quejas_del_iee_emitio_resolucion_contra_claudia_agaton_pri",
-        "_added_at": "2026-10-01T18:29:28.224145-07:00"
-      },
-      {
-        "title": "Medina Amarillas aspira a candidatura federal por BC",
-        "summary": "Político anuncia intención de contender por diputación federal en próximas elecciones.",
-        "zona": "Baja California",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/10/aspira-adrian-medina-amarillas-a-una-candidatura-a-diputacion-federal-por-baja-california/?utm_source=rss&utm_medium=rss&utm_campaign=aspira-adrian-medina-amarillas-a-una-candidatura-a-diputacion-federal-por-baja-california",
-        "_added_at": "2026-10-01T18:29:28.224145-07:00"
-      },
-      {
-        "title": "PRI celebra liberación de Ruffo en prisión",
-        "summary": "Partido opuesto reporta excarcelación de expresidente en Mexicali.",
+        "title": "Alcaldesa de Mexicali rinde informe; PAN critica incumplimientos",
+        "summary": "Autoridad presentó su informe anual mientras oposición señala falta de cumplimiento de compromisos.",
         "zona": "Mexicali",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/municipios/182403_alcaldesa_de_mexicali_rindio_su_informe_el_pan_acusa_incumplimiento_de_compromisos",
+        "_added_at": "2026-10-02T01:41:47.449863-07:00"
+      },
+      {
+        "title": "Crean juzgados especializados para atención diferenciada",
+        "summary": "Se implementan nuevos juzgados especializados para brindar justicia acorde a necesidades específicas.",
+        "zona": "Baja California",
         "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/100102/Celebra-PRI-liberaci%C3%B3n-de-Ruffo-en-la-prisi%C3%B3n",
-        "_added_at": "2026-10-01T18:29:28.224145-07:00"
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/100111/Juzgados-especializados-para-brindar-a-cada-persona-una-atenci%C3%B3n-acorde-con-sus-necesidades-de-justicia",
+        "_added_at": "2026-10-02T01:41:47.449863-07:00"
       },
       {
-        "title": "Agatón prioriza atención territorial en segundo año",
-        "summary": "Presidenta de Ensenada enfatiza presencia en zonas durante gestión actual.",
-        "zona": "Ensenada",
-        "source": "EnsenadaHoy",
-        "url": "https://ensenadahoy.com/noticias/ver/6980",
-        "_added_at": "2026-10-01T18:29:28.224145-07:00"
-      },
-      {
-        "title": "Román Cota busca diputación federal sin licencia",
-        "summary": "Funcionario anuncia candidatura a diputado federal sin solicitar permiso de su cargo actual.",
-        "zona": "Tijuana",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/182387_va_roman_cota_por_una_diputacion_federal_no_pedira_licencia",
-        "_added_at": "2026-10-01T13:55:20.644495-07:00"
-      },
-      {
-        "title": "Agatón preserva terreno del CEARTE para cultura",
-        "summary": "Alcaldesa de Ensenada respaldo mantener el predio del Centro de Artes y propone ubicación alternativa para los juzgados.",
-        "zona": "Ensenada",
-        "source": "AGP Noticias",
-        "url": "https://agpnoticias.com/news/agaton-respalda-conservar-terreno-del-cearte-y-propone-otra-ubicacion-para-juzgados/",
-        "_added_at": "2026-10-01T13:55:20.644495-07:00"
-      },
-      {
-        "title": "BC cancela licitaciones con empresas sancionadas",
-        "summary": "Gobierno estatal excluye de procesos de contratación a compañías bajo sanciones estadounidenses.",
-        "zona": "Baja California",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/estatal/2026/10/01/cancela-bc-presencia-en-licitaciones-de-empresas-sancionadas-por-eu/",
-        "_added_at": "2026-10-01T13:55:20.644495-07:00"
-      },
-      {
-        "title": "Diputada exige esclarecer reutilización de material médico",
-        "summary": "Legisladora demanda investigación sobre presunta reutilización de equipo médico en hospital de Mexicali.",
-        "zona": "Mexicali",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/estatal/2026/10/01/diputada-gilvaja-exige-esclarecer-denuncia-por-posible-reutilizacion-de-material-medico-en-mexicali/",
-        "_added_at": "2026-10-01T13:55:20.644495-07:00"
-      },
-      {
-        "title": "IMCO coloca BC entre peores en gobierno y justicia",
-        "summary": "Instituto Mexicano para la Competitividad ubica Baja California entre entidades con menor desempeño institucional.",
+        "title": "Hermano de funcionaria presume viajes con recursos públicos",
+        "summary": "Se cuestiona uso de casi dos millones de pesos en erario para viajes de familiar de servidor público.",
         "zona": "Baja California",
         "source": "TV Azteca BC",
-        "url": "https://www.tvaztecabajacalifornia.com/noticias/mientras-presumen-avances-imco-coloca-a-baja-california-entre-los-peores-estados-en-gobierno-y-justicia/",
-        "_added_at": "2026-10-01T13:55:20.644495-07:00"
-      },
-      {
-        "title": "Román Cota deja en suspenso candidatura a diputación",
-        "summary": "Funcionario de Tijuana deja abierta la posibilidad de solicitar licencia para buscar una diputación federal.",
-        "zona": "Tijuana",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/182356_roman_cota_deja_en_suspenso_posibilidad_de_pedir_licencia_y_buscar_una_diputacion",
-        "_added_at": "2026-10-01T02:08:06.688975-07:00"
-      },
-      {
-        "title": "Morena abre convocatoria para coordinaciones distritales",
-        "summary": "Partido Morena lanza convocatoria para ocupar coordinaciones en distritos federales de Baja California.",
-        "zona": "Baja California",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Estatal/100066/Morena-abre-convocatoria-para-coordinaciones-distritales-federales",
-        "_added_at": "2026-10-01T02:08:06.688975-07:00"
-      },
-      {
-        "title": "Inspección halla mala gestión en renovación de edificio Fed",
-        "summary": "Auditoría detecta gestión deficiente pero no delito en proyecto de renovación del edificio de la Federación.",
-        "zona": "Baja California",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/The%20Border/100068/Inspecci%C3%B3n-no-halla-delito-en-renovaci%C3%B3n-de-edificio-de-la-Fed,-aunque-s%C3%AD-mala-gesti%C3%B3n",
-        "_added_at": "2026-10-01T02:08:06.688975-07:00"
+        "url": "https://www.tvaztecabajacalifornia.com/noticias/casi-2-mdp-del-erario-hermano-de-julieta-ramirez-presume-viajes-a-eu/",
+        "_added_at": "2026-10-02T01:41:47.449863-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Conagua amplía limpieza del Río Tijuana con 600 mil metros cúbicos",
-        "summary": "Gobierno federal retira azolve del cauce ante temporada de lluvias y posibles inundaciones.",
+        "title": "Urgen actualizar infraestructura hídrica por crecimiento inmobiliario",
+        "summary": "Expertos advierten que auge de construcción requiere modernización de sistemas agua y sanitarios.",
         "zona": "Tijuana",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/01/concreta-gobierno-de-marina-del-pilar-intervencion-de-conagua-para-limpieza-del-rio-tijuana/",
-        "_added_at": "2026-10-01T18:29:28.224145-07:00"
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/100110/Urgen-actualizar-infraestructura-hidr%C3%A1ulica-y-sanitaria-ante-auge-inmobiliario-en-Tijuana",
+        "_added_at": "2026-10-02T01:41:47.449863-07:00"
       },
       {
-        "title": "Contempl ación Resort logra selección en Guía Michelin 2026",
-        "summary": "Establecimiento hotelero de Ensenada es reconocido por prestigiosa guía internacional.",
-        "zona": "Ensenada",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/ensenada/2026/10/01/se-integra-contemplacion-resort-spa-a-la-seleccion-de-la-guia-michelin-2026/",
-        "_added_at": "2026-10-01T18:29:28.224145-07:00"
-      },
-      {
-        "title": "Ensenada recibirá 41 cruceros durante octubre",
-        "summary": "Miles de turistas visitarán puerto con importante llegada de embarcaciones turísticas.",
-        "zona": "Ensenada",
-        "source": "EnsenadaHoy",
-        "url": "https://ensenadahoy.com/noticias/ver/697C",
-        "_added_at": "2026-10-01T18:29:28.224145-07:00"
-      },
-      {
-        "title": "Protestan ante CFE por atrasos en electrificación",
-        "summary": "Ciudadanos demandan aceleración de obras de suministro eléctrico en Tijuana.",
-        "zona": "Tijuana",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/10/01/protestan-ante-la-cfe-por-falta-de-avances-en-obras-de-electrificacion/",
-        "_added_at": "2026-10-01T18:29:28.224145-07:00"
-      },
-      {
-        "title": "Maquilas ajustarán turnos por nueva jornada laboral",
-        "summary": "Empresas manufactureras de Tijuana modificarán esquemas de trabajo ante reducción de jornada laboral a 46 horas.",
-        "zona": "Tijuana",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/10/01/maquiladoras-de-tijuana-modificaran-turnos-por-reduccion-de-jornada-laboral/",
-        "_added_at": "2026-10-01T13:55:20.644495-07:00"
-      },
-      {
-        "title": "Gobierno Burgueño otorga mil 776 créditos para emprendimiento",
-        "summary": "Administración municipal de Tijuana entrega financiamiento a pequeños negocios locales para fortalecer economía.",
-        "zona": "Tijuana",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/01/otorga-gobierno-de-ismael-burgueno-mil-776-creditos-para-fortalecer-el-emprendimiento-local/",
-        "_added_at": "2026-10-01T13:55:20.644495-07:00"
-      },
-      {
-        "title": "Empresas usan IA para mejorar desarrollo laboral",
-        "summary": "Compañías en Tijuana implementan inteligencia artificial para impulsar capacitación y crecimiento de empleados.",
-        "zona": "Tijuana",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/10/01/empresas-usan-ia-para-impulsar-el-desarrollo-de-trabajadores/",
-        "_added_at": "2026-10-01T13:55:20.644495-07:00"
-      },
-      {
-        "title": "Alcaldesa reconoce bajas ventas en Fiestas del Sol",
-        "summary": "Titular de Ayuntamiento de Mexicali admite desempeño comercial débil durante festividad local.",
+        "title": "Anuncian Expo Construcción y Vivienda de CMIC en Mexicali",
+        "summary": "Se prepara exposición sectorial enfocada en construcción e industria inmobiliaria.",
         "zona": "Mexicali",
         "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/100097/Reconoce-alcaldesa-bajas-ventas-en-Fiestas-del-Sol",
-        "_added_at": "2026-10-01T13:55:20.644495-07:00"
-      },
-      {
-        "title": "BC presenta identidad gastronómica en festival San Diego",
-        "summary": "Baja California participa en el San Diego Food & Wine Festival para promover su gastronomía regional.",
-        "zona": "Baja California",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Estatal/100069/Baja-California-llevar%C3%A1-su-identidad-gastron%C3%B3mica-al-San-Diego-Food-%26-Wine-Festival",
-        "_added_at": "2026-10-01T02:08:06.688975-07:00"
-      },
-      {
-        "title": "Impulsan proveeduría con Baja Supply Match Day",
-        "summary": "INDEX y cámaras empresariales promueven desarrollo de proveeduría en Mexicali mediante evento de conexiones.",
-        "zona": "Mexicali",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/100054/Impulsan-desarrollo-de-proveduria-con-Baja-Supply-Match-Day",
-        "_added_at": "2026-10-01T02:08:06.688975-07:00"
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/100108/Anuncian-Expo-Construcci%C3%B3n-y-vivienda-CMIC-en-Mexicali",
+        "_added_at": "2026-10-02T01:41:47.449863-07:00"
       }
     ],
-    "eventos": [
-      {
-        "title": "Festival de Octubre celebra 25 años con 119 actividades",
-        "summary": "Mexicali conmemora aniversario con programación cultural internacional y presencia artística.",
-        "zona": "Mexicali",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/mxl/mexicali/2026/10/01/cultura-bc-celebra-los-25-anos-del-festival-de-octubre-que-contempla-119-actividades-y-presencia-internacional-2/",
-        "_added_at": "2026-10-01T18:29:28.224145-07:00"
-      },
-      {
-        "title": "Semana de Teatro para Niños llega a cuatro municipios",
-        "summary": "Iniciativa cultural infantil se presenta en múltiples ciudades de Baja California.",
-        "zona": "Baja California",
-        "source": "Argumento Noticias",
-        "url": "https://argumentonoticias.com/2026/10/01/semana-de-teatro-para-ninas-y-ninos-llegara-a-cuatro-municipios-de-bc/",
-        "_added_at": "2026-10-01T18:29:28.224145-07:00"
-      },
-      {
-        "title": "Reportan 222 actividades culturales con 65 mil asistentes",
-        "summary": "Ensenada registra cifra importante en participación ciudadana en eventos artísticos.",
-        "zona": "Ensenada",
-        "source": "Argumento Noticias",
-        "url": "https://argumentonoticias.com/2026/10/01/reportan-222-actividades-culturales-con-mas-de-65-mil-asistentes-en-ensenada/",
-        "_added_at": "2026-10-01T18:29:28.224145-07:00"
-      },
-      {
-        "title": "Estimado 70 mil visitantes para Feria del Libro",
-        "summary": "Organizadores esperan amplia concurrencia en edición de la Feria del Libro de Tijuana.",
-        "zona": "Tijuana",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/182380_estiman_que_habra_70_mil_visitantes_en_la_feria_del_libro_de_tijuana",
-        "_added_at": "2026-10-01T13:55:20.644495-07:00"
-      },
-      {
-        "title": "Buque Escuela Cuauhtémoc llega a San Diego",
-        "summary": "Embarcación mexicana arriba a puerto estadounidense para visitas y actividades de promoción cultural.",
-        "zona": "Tijuana",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/llega-a-san-diego-el-buque-escuela-cuauhtemoc/",
-        "_added_at": "2026-10-01T13:55:20.644495-07:00"
-      },
-      {
-        "title": "Mundialito para población en movilidad en Tijuana",
-        "summary": "Más de 100 personas participan en torneo deportivo inclusivo en la frontera.",
-        "zona": "Tijuana",
-        "source": "Argumento Noticias",
-        "url": "https://argumentonoticias.com/2026/10/01/mas-de-100-personas-participan-en-mundialito-para-poblacion-en-movilidad-en-tijuana/",
-        "_added_at": "2026-10-01T13:55:20.644495-07:00"
-      }
-    ],
+    "eventos": [],
     "sociedad": [
       {
-        "title": "Ayuntamiento Ensenada reporta 36 mil apoyos alimentarios",
-        "summary": "Municipio distribuye asistencia alimentaria a población vulnerable durante 2026.",
-        "zona": "Ensenada",
-        "source": "Argumento Noticias",
-        "url": "https://argumentonoticias.com/2026/10/01/ayuntamiento-reporta-mas-de-36-mil-apoyos-alimentarios-durante-2026",
-        "_added_at": "2026-10-01T18:29:28.224145-07:00"
-      },
-      {
-        "title": "Madres de prematuros exigen medicamentos en Hospital General",
-        "summary": "Familiares demandan abasto completo de insumos para atención neonatal en Tijuana.",
-        "zona": "Tijuana",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/10/01/madres-de-prematuros-exigen-abasto-de-medicamentos-e-insumos-en-hgt/",
-        "_added_at": "2026-10-01T18:29:28.224145-07:00"
-      },
-      {
-        "title": "Asociación Bebés Milagro lleva apoyo a Hospital de Tijuana",
-        "summary": "Organización realiza donación y asistencia a pacientes pediátricos.",
-        "zona": "Tijuana",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/182402_asociacion_bebes_milagro_de_mexico_lleva_apoyo_al_hospital_general_de_tijuana",
-        "_added_at": "2026-10-01T18:29:28.224145-07:00"
-      },
-      {
-        "title": "Gobierno Ensenada reforesta zonas de hospital y UABC",
-        "summary": "Iniciativa ambiental planta árboles en áreas estratégicas de la ciudad.",
-        "zona": "Ensenada",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/182401_gobierno_de_ensenada_reforesta_zona_del_hospital_general_y_la_uabc",
-        "_added_at": "2026-10-01T18:29:28.224145-07:00"
-      },
-      {
-        "title": "CRIT BC invita a participar en Teletón 2026",
-        "summary": "Institución de rehabilitación hace llamado a sumarse a campaña de recaudación.",
-        "zona": "Tijuana",
+        "title": "Entregan 25 motocicletas a Dirección de Seguridad Pública Municipal",
+        "summary": "Suman ya 35 unidades en el año para patrullaje de la policía municipal de Mexicali.",
+        "zona": "Mexicali",
         "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/100100/Llama-CRIT-BC-a-sumarse-al-Telet%C3%B3n-para-apoyar-a-m%C3%A1s-de-mil-500-menores",
-        "_added_at": "2026-10-01T18:29:28.224145-07:00"
-      },
-      {
-        "title": "Padres toman escuela por falta de maestros",
-        "summary": "Progenitores cierran primaria de Tijuana para exigir contratación de docentes faltantes desde hace meses.",
-        "zona": "Tijuana",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/10/01/padres-toman-primaria-de-tijuana-para-exigir-maestros-tres-grupos-siguen-sin-docente/",
-        "_added_at": "2026-10-01T13:55:20.644495-07:00"
-      },
-      {
-        "title": "Secundaria en Maneadero tomada por falta de docentes",
-        "summary": "Padres de familia ocupan Secundaria 105 en Ensenada exigiendo solución a la carencia de maestros.",
-        "zona": "Ensenada",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/tij/ensenada/2026/10/01/padres-toman-secundaria-105-en-maneadero-por-falta-de-maestro-desde-marzo/",
-        "_added_at": "2026-10-01T13:55:20.644495-07:00"
-      },
-      {
-        "title": "Maestros CNTE protestan por falta de pago a interinos",
-        "summary": "Docentes sindicalizados demandan liquidación de salarios pendientes para maestros de contrato temporal.",
-        "zona": "Tijuana",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/182379_protestan_maestros_del_cnte_por_falta_de_pago_a_interinos",
-        "_added_at": "2026-10-01T13:55:20.644495-07:00"
-      },
-      {
-        "title": "Sube escolaridad promedio en Baja California",
-        "summary": "Entidad registra incremento en años de educación formal promedio de su población.",
-        "zona": "Baja California",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Estatal/100096/Sube-escolaridad-promedio-en-Baja-California",
-        "_added_at": "2026-10-01T13:55:20.644495-07:00"
-      },
-      {
-        "title": "Protección Civil capacita dependencias para contingencias",
-        "summary": "Autoridades entrenan a 19 instituciones ante posibles emergencias derivadas de fenómenos meteorológicos.",
-        "zona": "Ensenada",
-        "source": "Argumento Noticias",
-        "url": "https://argumentonoticias.com/2026/10/01/proteccion-civil-capacita-a-19-dependencias-ante-posibles-contingencias-por-el-nino/",
-        "_added_at": "2026-10-01T13:55:20.644495-07:00"
-      },
-      {
-        "title": "Nadadores locales buscan pase a Selección Nacional",
-        "summary": "Atletas bajacalifornianos compiten para obtener convocatoria a equipo nacional de aguas abiertas.",
-        "zona": "Baja California",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/deportes/2026/10/01/buscan-nadadores-bajacalifornianos-su-pase-a-la-seleccion-nacional-de-aguas-abiertas/",
-        "_added_at": "2026-10-01T13:55:20.644495-07:00"
-      },
-      {
-        "title": "Gobierno municipal atiende socavón en Tijuana-Rosarito",
-        "summary": "Autoridades de Tijuana atienden y reparan un socavón detectado en la carretera libre Tijuana-Rosarito.",
-        "zona": "Tijuana",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/100072/Atiende-Gobierno-Municipal-socav%C3%B3n-en-la-carretera-libre-Tijuana-Rosarito",
-        "_added_at": "2026-10-01T02:08:06.688975-07:00"
-      },
-      {
-        "title": "Avanza limpieza del Río Tijuana para prepararse",
-        "summary": "Continúa la limpieza del Río Tijuana en prevención de posibles lluvias e inundaciones.",
-        "zona": "Tijuana",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/182357_avanza_la_limpieza_del_rio_tijuana_ante_posibles_lluvias_por_el_fenomeno_de_el_nino",
-        "_added_at": "2026-10-01T02:08:06.688975-07:00"
-      },
-      {
-        "title": "Lluvias de octubre podrían agravar deslizamientos",
-        "summary": "Autoridades advierten que precipitaciones de octubre arriesgan a familias en zonas con deslizamientos en Tijuana.",
-        "zona": "Tijuana",
-        "source": "TV Azteca BC",
-        "url": "https://www.tvaztecabajacalifornia.com/noticias/lluvias-de-octubre-podrian-agravar-deslizamientos-y-poner-en-riesgo-a-familias-en-tijuana/",
-        "_added_at": "2026-10-01T02:08:06.688975-07:00"
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/100092/Entregan-25-motocicletas-a-la-DSPM",
+        "_added_at": "2026-10-02T01:41:47.449863-07:00"
       }
     ]
   },
-  "last_updated": "2026-10-01T18:29:28.224145-07:00"
+  "last_updated": "2026-10-02T01:41:47.449863-07:00"
 }
