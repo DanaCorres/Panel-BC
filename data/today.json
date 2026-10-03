@@ -1,8 +1,40 @@
 {
   "date": "2026-10-03",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "FGE incrementa operativos de búsqueda en 35%",
+        "summary": "Fiscalía amplía acciones con más operativos e identifica a 422 personas mediante pruebas genéticas en el estado.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/03/fge-consolida-acciones-de-busqueda-con-incremento-del-35-en-operativos/",
+        "_added_at": "2026-10-03T12:07:23.942667-07:00"
+      },
+      {
+        "title": "Capturan a El 500, operador del Cártel de Sinaloa",
+        "summary": "Detienen en Rosarito a presunto jefe de sicarios vinculado a crimen organizado y homicidios.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/182460_detuvieron_en_rosarito_a_el_500_presunto_jefe_de_sicarios_del_cartel_de_sinaloa",
+        "_added_at": "2026-10-03T12:07:23.942667-07:00"
+      },
+      {
+        "title": "Denuncian desaparición de menor en Tijuana",
+        "summary": "CESODI investiga desaparición de Víctor Emiliano y cuestiona presunta complicidad de director de primaria.",
+        "zona": "Tijuana",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/100136/Denuncian-desaparici%C3%B3n-de-menor-y-exigen-su-b%C3%BAsqueda",
+        "_added_at": "2026-10-03T12:07:23.942667-07:00"
+      },
+      {
+        "title": "Banda de montachoques provoca accidentes en Tijuana",
+        "summary": "Delincuentes generan siniestros viales para extorsionar dinero a conductores afectados.",
+        "zona": "Tijuana",
+        "source": "TV Azteca BC",
+        "url": "https://www.tvaztecabajacalifornia.com/noticias/montachoques-provocan-accidentes-y-exigen-fuertes-sumas-de-dinero-en-tijuana/",
+        "_added_at": "2026-10-03T12:07:23.942667-07:00"
+      },
       {
         "title": "FGR asegura tener pruebas contra Ernesto Ruffo",
         "summary": "La Fiscalía General de la República sostiene contar con evidencia contundente en caso contra exgobernador Ernesto Ruffo.",
@@ -38,6 +70,46 @@
     ],
     "politica": [
       {
+        "title": "Segundo informe de Burgueño presenta balance de gobierno",
+        "summary": "Alcalde de Tijuana presenta informe anual; Cabildo de Ensenada aprueba calendario de glosa.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/10/03/ismael-burgueno-segundo-informe-de-gobierno/",
+        "_added_at": "2026-10-03T12:07:23.942667-07:00"
+      },
+      {
+        "title": "Cuestionan resultados en segundo informe de Agatón",
+        "summary": "Regidores de Ensenada señalan pendientes y falta de avances en administración municipal.",
+        "zona": "Ensenada",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/ensenada/2026/10/03/cuestionan-regidores-pendientes-y-falta-de-resultados-en-segundo-informe-de-agaton/",
+        "_added_at": "2026-10-03T12:07:23.942667-07:00"
+      },
+      {
+        "title": "Gobierno de Agatón rechaza juzgados en CEARTE",
+        "summary": "Administración de Ensenada descarta viabilidad de trasladar juzgados al centro de convenciones.",
+        "zona": "Ensenada",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182458_gobierno_de_agaton_no_considera_viable_los_juzgados_en_cearte",
+        "_added_at": "2026-10-03T12:07:23.942667-07:00"
+      },
+      {
+        "title": "Declaran Día Internacional de Mujeres Buscadoras",
+        "summary": "BC reconoce labor de mujeres que buscan a desaparecidos con conmemoración el 19 de diciembre.",
+        "zona": "Baja California",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/100154/19-de-diciembre-marcar%C3%A1-el-primer-D%C3%ADa-Internacional-de-las-Mujeres-Buscadoras",
+        "_added_at": "2026-10-03T12:07:23.942667-07:00"
+      },
+      {
+        "title": "Gobierno impulsa acciones de protección animal",
+        "summary": "Administración de Burgueño anuncia iniciativas para bienestar y protección de animales domésticos.",
+        "zona": "Tijuana",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/03/impulsa-gobierno-de-burgueno-acciones-para-el-bienestar-y-proteccion-de-los-animales/",
+        "_added_at": "2026-10-03T12:07:23.942667-07:00"
+      },
+      {
         "title": "Burgueño presenta segundo informe; oposición reclama fallas",
         "summary": "Presidente municipal de Tijuana rinde cuentas ante Cabildo con críticas de grupos políticos opositores.",
         "zona": "Tijuana",
@@ -54,9 +126,67 @@
         "_added_at": "2026-10-03T01:20:27.836510-07:00"
       }
     ],
-    "economia": [],
-    "eventos": [],
+    "economia": [
+      {
+        "title": "Demanda eléctrica crece con expansión de Tijuana",
+        "summary": "Gobierno analiza necesidades energéticas ante crecimiento urbano; advierten riesgo a inversiones.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182463_gobierno_de_bc_analiza_demanda_electrica_ante_crecimiento_de_tijuana",
+        "_added_at": "2026-10-03T12:07:23.942667-07:00"
+      },
+      {
+        "title": "Maquiladoras de Ensenada alcanzan récord de exportaciones",
+        "summary": "Sector manufacturero registra cifras históricas de envíos internacionales desde la región.",
+        "zona": "Ensenada",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/empresarial/182450_record_por_exportaciones_en_maquiladoras_de_ensenada",
+        "_added_at": "2026-10-03T12:07:23.942667-07:00"
+      },
+      {
+        "title": "Ocupación hotelera baja en Rosarito por desaceleración",
+        "summary": "Hoteles de Rosarito reportan reducción de huéspedes por desaceleración de economía regional.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/empresarial/182449_desaceleracion_economica_provoca_bajos_niveles_de_ocupacion_hotelera_en_rosarito",
+        "_added_at": "2026-10-03T12:07:23.942667-07:00"
+      },
+      {
+        "title": "Hacienda incrementa IEPS a gasolinas",
+        "summary": "Impuesto sube del 3 al 9 de octubre; mantiene estimulo al diesel en porcentaje actual.",
+        "zona": "Baja California",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/dinero/2026/10/03/hacienda-mantiene-el-100-de-estimulo-fiscal-al-diesel-del-3-al-9-de-octubre-mientras-reduce-los-apoyos-e-incrementa-la-cuota-del-ieps-para-las-gasolinas-magna-y-premium/",
+        "_added_at": "2026-10-03T12:07:23.942667-07:00"
+      }
+    ],
+    "eventos": [
+      {
+        "title": "Abren convocatoria Premio Estatal a la Juventud",
+        "summary": "Baja California llama a participantes para reconocer logros de jóvenes del estado.",
+        "zona": "Baja California",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/abren-convocatoria-al-premio-estatal-a-la-juventud-2026-en-baja-california/",
+        "_added_at": "2026-10-03T12:07:23.942667-07:00"
+      },
+      {
+        "title": "IMACTE anuncia festejos del Pan de la Catrina",
+        "summary": "Instituto cultural programa celebraciones de Día de Muertos con enfoque gastronómico.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/arte_y_cultura/182461_imacte_anuncia_festejos_del_pan_de_la_catrina",
+        "_added_at": "2026-10-03T12:07:23.942667-07:00"
+      }
+    ],
     "sociedad": [
+      {
+        "title": "Albergue Embajadores recibe premio de arquitectura",
+        "summary": "Institución obtiene máximo galardón por diseño y aportación a la comunidad.",
+        "zona": "Tijuana",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/03/albergue-embajadores-de-jesus-recibe-maximo-galardon-de-arquitectura-por-la-sdaf/",
+        "_added_at": "2026-10-03T12:07:23.942667-07:00"
+      },
       {
         "title": "Padres toman escuela por carencia de maestros en Tijuana",
         "summary": "Comunidad educativa protesta contra falta prolongada de docentes en institución de educación básica.",
@@ -83,5 +213,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-03T01:20:27.836510-07:00"
+  "last_updated": "2026-10-03T12:07:23.942667-07:00"
 }
