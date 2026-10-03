@@ -1,8 +1,48 @@
 {
   "date": "2026-10-02",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "FGE condena a sujeto por robo violento y narcomenudeo",
+        "summary": "Fiscalía General del Estado obtiene sentencia de más de 5 años de prisión contra acusado por robo con violencia y venta de drogas.",
+        "zona": "Baja California",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/10/02/obtiene-fge-condena-de-mas-de-5-anos-de-prision-por-robo-con-violencia-y-narcomenudeo/",
+        "_added_at": "2026-10-02T18:01:01.590167-07:00"
+      },
+      {
+        "title": "Desaparición de joven: madre demanda activar protocolos búsqueda",
+        "summary": "Madre denuncia desaparición de su hijo y exige que autoridades activen protocolos especiales de localización.",
+        "zona": "Tijuana",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/02/madre-denuncia-desaparicion-de-su-hijo-y-exige-activar-protocolos-de-busqueda/",
+        "_added_at": "2026-10-02T18:01:01.590167-07:00"
+      },
+      {
+        "title": "FGE reporta 98% de efectividad en investigaciones por extorsión",
+        "summary": "Fiscalía estatal comunica altos porcentajes de casos esclarecidos en delito de extorsión durante período evaluado.",
+        "zona": "Baja California",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/10/02/fge-reporta-98-de-efectividad-en-investigaciones-por-extorsion/",
+        "_added_at": "2026-10-02T18:01:01.590167-07:00"
+      },
+      {
+        "title": "Investigan a policías de Mexicali por negligencia en robo",
+        "summary": "Autoridades abren averiguación contra elementos tras fallas en atención de denuncia de sustracción.",
+        "zona": "Mexicali",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182433_investigan_a_policias_de_mexicali_por_fallas_en_atencion_a_reporte_de_robo",
+        "_added_at": "2026-10-02T18:01:01.590167-07:00"
+      },
+      {
+        "title": "OFAC vincula red narco a Torres Vera y Mayos en BC",
+        "summary": "Oficina de Control de Activos Extranjeros bloquea y ata activos de organización delictiva vinculada a narcotraficantes.",
+        "zona": "Baja California",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/ofac-amarra-narco-red-mayos-torres-vera-podcast/?utm_source=rss&utm_medium=rss&utm_campaign=ofac-amarra-narco-red-mayos-torres-vera-podcast",
+        "_added_at": "2026-10-02T18:01:01.590167-07:00"
+      },
       {
         "title": "Hallan cabeza humana y amenazas en tortería de Tijuana",
         "summary": "Descubren restos humanos y cartulina amenazante en negocio comercial. Autoridades investigan el caso.",
@@ -82,25 +122,73 @@
         "source": "El Mexicano",
         "url": "https://el-mexicano.com.mx/Noticia/Tijuana/100112/%E2%80%9CPolleros-digitales%E2%80%9D-cambian-la-forma-de-cruzar-la-frontera",
         "_added_at": "2026-10-02T01:41:47.449863-07:00"
-      },
-      {
-        "title": "Paquete sospechoso causa cierre y caos en garita Otay",
-        "summary": "Encontraron paquete sospechoso que obligó cierre temporal y generó largas esperas en Otay.",
-        "zona": "Tijuana",
-        "source": "TV Azteca BC",
-        "url": "https://www.tvaztecabajacalifornia.com/noticias/caos-en-otay-paquete-sospechoso-provoca-cierre-y-largas-esperas-en-la-garita/",
-        "_added_at": "2026-10-02T01:41:47.449863-07:00"
-      },
-      {
-        "title": "Violencia cercana a escuela alarma por seguridad de mujeres",
-        "summary": "Incidentes de violencia cerca de establecimiento educativo generan preocupación en Tijuana.",
-        "zona": "Tijuana",
-        "source": "TV Azteca BC",
-        "url": "https://www.tvaztecabajacalifornia.com/noticias/violencia-cerca-de-una-escuela-genera-preocupacion-por-la-seguridad-de-mujeres-en-tijuana/",
-        "_added_at": "2026-10-02T01:41:47.449863-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Bustamante rinde segundo informe de gobierno en Mexicali",
+        "summary": "Gobernadora presenta balance de acciones y resultados ante legislatura y sociedad civil mexicalense.",
+        "zona": "Mexicali",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/mexicali/2026/10/02/norma-bustamante-rinde-su-segundo-informe-de-gobierno/",
+        "_added_at": "2026-10-02T18:01:01.590167-07:00"
+      },
+      {
+        "title": "Bustamante presume reducción delictiva y academia de policía",
+        "summary": "Gobernadora anuncia cifras de disminución en criminalidad y proyectos de capacitación policial en Mexicali.",
+        "zona": "Baja California",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/norma-bustamante-presume-reduccion-delictiva-y-anuncia-academia-de-policia-en-mexicali/?utm_source=rss&utm_medium=rss&utm_campaign=norma-bustamante-presume-reduccion-delictiva-y-anuncia-academia-de-policia-en-mexicali",
+        "_added_at": "2026-10-02T18:01:01.590167-07:00"
+      },
+      {
+        "title": "Marina del Pilar confirma separación de director de CecyteBC",
+        "summary": "Gobernadora anuncia partida voluntaria de Luis Miguel Buenrostro del colegio de educación media superior.",
+        "zona": "Mexicali",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/mxl/mexicali/2026/10/02/marina-del-pilar-confirma-separacion-voluntaria-de-luis-miguel-buenrostro-de-cecytebc/",
+        "_added_at": "2026-10-02T18:01:01.590167-07:00"
+      },
+      {
+        "title": "Gobierno abre convocatoria Premio Estatal a la Juventud 2026",
+        "summary": "Ejecutivo estatal invita a jóvenes a participar en programa de reconocimiento a líderes emergentes.",
+        "zona": "Baja California",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/10/02/abre-gobierno-de-baja-california-convocatoria-al-premio-estatal-a-la-juventud-2026/",
+        "_added_at": "2026-10-02T18:01:01.590167-07:00"
+      },
+      {
+        "title": "Congreso BC aprueba acceso público a playas concesionadas",
+        "summary": "Legislatura estatal aprueba iniciativa que garantiza entrada gratuita cada tres kilómetros en litoral bajacaliforniano.",
+        "zona": "Baja California",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/aprueba-congreso-de-bc-iniciativa-para-garantizar-acceso-publico-a-playas-concesionadas/",
+        "_added_at": "2026-10-02T18:01:01.590167-07:00"
+      },
+      {
+        "title": "Marina del Pilar: veto a empresas vinculadas con crimen",
+        "summary": "Gobernadora anuncia política de exclusión de negocios ligados a organizaciones delictivas en contrataciones.",
+        "zona": "Baja California",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/100127/Empresas-vinculadas-con-el-crimen-organizado-ser%C3%A1n-vetadas%3A-Marina-del-Pilar",
+        "_added_at": "2026-10-02T18:01:01.590167-07:00"
+      },
+      {
+        "title": "MC critica falta de investigación a señalados por Estados Unidos",
+        "summary": "Partido político cuestiona que autoridades mexicanas no actúen sobre personas identificadas por EU.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182432_critica_mc_que_en_mexico_no_se_investigue_a_los_senalados_por_eu",
+        "_added_at": "2026-10-02T18:01:01.590167-07:00"
+      },
+      {
+        "title": "Burgueño reactiva 220 Comités de Seguridad Ciudadana en Tijuana",
+        "summary": "Presidente municipal relanza participación ciudadana en tareas de prevención y vigilancia comunitaria.",
+        "zona": "Tijuana",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/02/reactiva-gobierno-de-ismael-burgueno-ruiz-220-comites-de-seguridad-ciudadana/",
+        "_added_at": "2026-10-02T18:01:01.590167-07:00"
+      },
       {
         "title": "Detienen a exsenadora Alejandra León en garita Calexico",
         "summary": "Arrestan a exfuncionaria en frontera. Caso despierta atención sobre responsabilidades públicas anteriores.",
@@ -160,6 +248,22 @@
     ],
     "economia": [
       {
+        "title": "Secretaría de Economía ofrece capacitación empresarial en octubre",
+        "summary": "Dependencia estatal presenta calendario de talleres y cursos para desarrollo de pequeños y medianos negocios.",
+        "zona": "Baja California",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/10/02/presenta-secretaria-de-economia-calendario-de-capacitacion-empresarial-para-octubre/",
+        "_added_at": "2026-10-02T18:01:01.590167-07:00"
+      },
+      {
+        "title": "Cambios directivos en organismos de agua afectan continuidad",
+        "summary": "Rotación de líderes en instituciones hídricas genera retrasos en ejecución de proyectos de infraestructura.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/10/02/cambios-de-directivos-en-organismos-de-agua-afectan-continuidad-de-proyectos/",
+        "_added_at": "2026-10-02T18:01:01.590167-07:00"
+      },
+      {
         "title": "Dólar rebasa 17 pesos en octubre",
         "summary": "Moneda estadounidense sube de valor en mercado local. Afecta precios y poder adquisitivo regional.",
         "zona": "Tijuana",
@@ -194,6 +298,30 @@
     ],
     "eventos": [
       {
+        "title": "CETYS celebra segundo Town Hall Anual con presencia internacional",
+        "summary": "Universidad realiza foro académico en San Diego con participación de expertos y vinculación con instituciones.",
+        "zona": "Ensenada",
+        "source": "EnsenadaHoy",
+        "url": "https://ensenadahoy.com/noticias/ver/6982",
+        "_added_at": "2026-10-02T18:01:01.590167-07:00"
+      },
+      {
+        "title": "Rita llega a Ensenada con elenco internacional y homenaje",
+        "summary": "Producción teatral se presenta en ciudad portuaria con artistas de diversos países y tributo a maestro.",
+        "zona": "Ensenada",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/10/02/rita-llegara-a-ensenada-con-elenco-internacional-y-homenaje-al-maestro-luis-salazar/",
+        "_added_at": "2026-10-02T18:01:01.590167-07:00"
+      },
+      {
+        "title": "Niegan permiso ambiental al festival Luces de Cantoya",
+        "summary": "Autoridades rechazan solicitud para celebración en Laguna Salada por consideraciones ecológicas.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182434_niegan_permiso_ambiental_al_festival_luces_de_cantoya_en_la_laguna_salada",
+        "_added_at": "2026-10-02T18:01:01.590167-07:00"
+      },
+      {
         "title": "Medio Maratón Internacional de Tecate con buena respuesta",
         "summary": "Evento deportivo registra alta participación. Cifras positivas de inscripción en competencia fronteriza.",
         "zona": "Tecate",
@@ -227,6 +355,30 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "COEPRIS BC fortalece vigilancia de servicios de salud para mujeres",
+        "summary": "Comisión estatal intensifica inspecciones en clínicas y consultorios dedicados a atención femenina.",
+        "zona": "Baja California",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/10/02/fortalece-coepris-bc-vigilancia-de-servicios-de-salud-para-mujeres/",
+        "_added_at": "2026-10-02T18:01:01.590167-07:00"
+      },
+      {
+        "title": "Cáncer de mama en Ensenada: treinta muertes en 2026",
+        "summary": "Autoridades sanitarias reportan cifra de fallecimientos y ofrecen mastografías gratuitas en octubre.",
+        "zona": "Ensenada",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/ensenada/2026/10/02/cancer-de-mama-deja-30-fallecimientos-en-ensenada-este-ano-anuncian-mastografias-gratuitas-durante-octubre/",
+        "_added_at": "2026-10-02T18:01:01.590167-07:00"
+      },
+      {
+        "title": "Damas de Hierro capacita a mujeres vulnerables en emprendimiento",
+        "summary": "Organización ofrece cursos en estilismo y negocios a más de trecientas mujeres en situación precaria.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/10/02/capacitan-a-mas-de-300-mujeres-vulnerables-en-estilismo-y-emprendimiento-en-tijuana/",
+        "_added_at": "2026-10-02T18:01:01.590167-07:00"
+      },
       {
         "title": "Bomberos de Tijuana atienden más de mil 500 emergencias",
         "summary": "Cuerpo de rescate registra alta demanda en mes reportado. Indicador de presión en servicios locales.",
@@ -269,5 +421,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-02T13:34:11.370905-07:00"
+  "last_updated": "2026-10-02T18:01:01.590167-07:00"
 }
