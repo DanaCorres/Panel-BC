@@ -1,8 +1,32 @@
 {
   "date": "2026-10-03",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Capturan a «El 500», operador del Cártel de Sinaloa en Tijuana",
+        "summary": "Detienen a presunto jefe de sicarios del Cártel de Sinaloa, señalado por múltiples homicidios y operaciones criminales en la región.",
+        "zona": "Tijuana",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/03/capturan-a-el-500-operador-del-cartel-de-sinaloa-en-tijuana/",
+        "_added_at": "2026-10-03T17:25:44.148761-07:00"
+      },
+      {
+        "title": "Capacitan a agentes penitenciarios para operar unidades K9",
+        "summary": "SSPCM brinda formación de binomios caninos a elementos de la Comisión Estatal del Sistema Penitenciario de Baja California.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/03/brinda-sspcm-capacitacion-de-formacion-de-binomios-k9-a-elementos-de-la-comision-estatal-del-sistema-penitenciario-de-baja-california/",
+        "_added_at": "2026-10-03T17:25:44.148761-07:00"
+      },
+      {
+        "title": "Ejecutan a «El Pálido» en el centro de Tecate",
+        "summary": "Hombre identificado como «El Pálido» es asesinado a balazos en zona Centro de Tecate.",
+        "zona": "Tecate",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/ejecutan-al-palido-en-el-centro-de-tecate/?utm_source=rss&utm_medium=rss&utm_campaign=ejecutan-al-palido-en-el-centro-de-tecate",
+        "_added_at": "2026-10-03T17:25:44.148761-07:00"
+      },
       {
         "title": "FGE incrementa operativos de búsqueda en 35%",
         "summary": "Fiscalía amplía acciones con más operativos e identifica a 422 personas mediante pruebas genéticas en el estado.",
@@ -70,6 +94,46 @@
     ],
     "politica": [
       {
+        "title": "Claudia Agatón rinde segundo informe en Ensenada",
+        "summary": "Alcaldesa presenta avances de su administración con cumplimiento del 88 por ciento de metas en segundo año de gobierno.",
+        "zona": "Ensenada",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/03/consolida-claudia-agaton-avances-en-ensenada-destaca-cumplimiento-del-88-de-metas-en-su-segundo-ano-de-gobierno/",
+        "_added_at": "2026-10-03T17:25:44.148761-07:00"
+      },
+      {
+        "title": "Ismael Burgueño presenta segundo informe; críticas por inseguridad",
+        "summary": "Alcalde de Tijuana rinde cuenta ante Cabildo. Oposición destaca carencias en servicios e inseguridad ciudadana.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/ismael-burgueno-presenta-su-segundo-informe-de-gobierno-oposicion-destaca-falta-de-servicios-e-inseguridad/?utm_source=rss&utm_medium=rss&utm_campaign=ismael-burgueno-presenta-su-segundo-informe-de-gobierno-oposicion-destaca-falta-de-servicios-e-inseguridad",
+        "_added_at": "2026-10-03T17:25:44.148761-07:00"
+      },
+      {
+        "title": "Jorge Ramos respalda candidatura de Julieta Ramírez en Tijuana",
+        "summary": "Político descarta buscar alcaldía y anuncia será coordinador de campaña de Julieta Ramírez.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/jorge-ramos-no-buscara-la-alcaldia-de-tijuana-colaborara-con-proyecto-de-julieta-ramirez/?utm_source=rss&utm_medium=rss&utm_campaign=jorge-ramos-no-buscara-la-alcaldia-de-tijuana-colaborara-con-proyecto-de-julieta-ramirez",
+        "_added_at": "2026-10-03T17:25:44.148761-07:00"
+      },
+      {
+        "title": "Cabildo de Ensenada aprueba glosa del segundo informe",
+        "summary": "Se establece calendario para análisis y crítica formal del informe anual de gobierno municipal.",
+        "zona": "Ensenada",
+        "source": "EnsenadaHoy",
+        "url": "https://ensenadahoy.com/noticias/ver/6983",
+        "_added_at": "2026-10-03T17:25:44.148761-07:00"
+      },
+      {
+        "title": "Gobierno cancela proyecto de juzgados en terreno del CEARTE",
+        "summary": "Administración municipal reversa construcción de juzgados en espacio destinado a centro cultural.",
+        "zona": "Ensenada",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182466_dan_marcha_atras_al_proyecto_de_construccion_de_juzgados_en_espacio_del_cearte",
+        "_added_at": "2026-10-03T17:25:44.148761-07:00"
+      },
+      {
         "title": "Segundo informe de Burgueño presenta balance de gobierno",
         "summary": "Alcalde de Tijuana presenta informe anual; Cabildo de Ensenada aprueba calendario de glosa.",
         "zona": "Tijuana",
@@ -128,6 +192,22 @@
     ],
     "economia": [
       {
+        "title": "Advierten riesgo de perder inversiones por agua y energía",
+        "summary": "Sectores empresariales alertan sobre consecuencias de falta de agua y electricidad en Tijuana.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182462_advierten_riesgo_de_perder_inversiones_por_falta_de_agua_y_energia_en_tijuana",
+        "_added_at": "2026-10-03T17:25:44.148761-07:00"
+      },
+      {
+        "title": "FDA cierra investigación y exime lechuga mexicana de brotes",
+        "summary": "Autoridad sanitaria estadounidense descarta que hortalizas de México hayan causado casos de salmonela.",
+        "zona": "Baja California",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/mundo/2026/10/03/la-fda-cerro-la-investigacion-y-descarto-que-la-lechuga-exportada-de-mexico-causara-brotes-de-salmonela-y-cyclospora-poniendo-fin-a-la-alerta-sanitaria-en-eeuu/",
+        "_added_at": "2026-10-03T17:25:44.148761-07:00"
+      },
+      {
         "title": "Demanda eléctrica crece con expansión de Tijuana",
         "summary": "Gobierno analiza necesidades energéticas ante crecimiento urbano; advierten riesgo a inversiones.",
         "zona": "Tijuana",
@@ -162,6 +242,14 @@
     ],
     "eventos": [
       {
+        "title": "Festival Corto Creativo UDCI celebra realizadores bajacalifornianos",
+        "summary": "Universidad organiza festival dedicado a cortometrajes de productores locales de Baja California.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/festival-corto-creativo-udci-celebra-a-realizadores-bajacalifornianos/?utm_source=rss&utm_medium=rss&utm_campaign=festival-corto-creativo-udci-celebra-a-realizadores-bajacalifornianos",
+        "_added_at": "2026-10-03T17:25:44.148761-07:00"
+      },
+      {
         "title": "Abren convocatoria Premio Estatal a la Juventud",
         "summary": "Baja California llama a participantes para reconocer logros de jóvenes del estado.",
         "zona": "Baja California",
@@ -179,6 +267,38 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "CESODI exige búsqueda de menor y pide investigar caso",
+        "summary": "Comisión de Derechos Humanos solicita acciones de localización e investigación por desaparición.",
+        "zona": "Tijuana",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/cesodi-exige-busqueda-de-menor-y-pide-investigar-su-caso/",
+        "_added_at": "2026-10-03T17:25:44.148761-07:00"
+      },
+      {
+        "title": "Implementan campañas contra reclutamiento infantil en Ensenada",
+        "summary": "Autoridades y sociedad civil lanzan iniciativas de prevención bajo lema «La infancia no se recluta».",
+        "zona": "Ensenada",
+        "source": "Rada Noticias",
+        "url": "https://radanoticias.info/la-infancia-no-se-recluta-y-no-se-abandona-implementan-campanas-de-prevencion/",
+        "_added_at": "2026-10-03T17:25:44.148761-07:00"
+      },
+      {
+        "title": "Gobierno garantiza uso de terreno de CEARTE para cultura",
+        "summary": "Administración asegura que espacio mantendrá función como centro de actividades artísticas y culturales.",
+        "zona": "Ensenada",
+        "source": "Rada Noticias",
+        "url": "https://radanoticias.info/garantiza-gobierno-de-bc-uso-de-terreno-de-ceart-ensenada-para-espacio-cultural/",
+        "_added_at": "2026-10-03T17:25:44.148761-07:00"
+      },
+      {
+        "title": "Refuerzan prevención de accidentes y atención prehospitalaria",
+        "summary": "Estado intensifica acciones de educación vial y mejora de servicios de emergencia en Baja California.",
+        "zona": "Baja California",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/100164/Refuerzan-acciones-de-prevenci%C3%B3n-de-accidentes-y-atenci%C3%B3n-prehospitalaria-en-BC",
+        "_added_at": "2026-10-03T17:25:44.148761-07:00"
+      },
       {
         "title": "Albergue Embajadores recibe premio de arquitectura",
         "summary": "Institución obtiene máximo galardón por diseño y aportación a la comunidad.",
@@ -213,5 +333,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-03T12:07:23.942667-07:00"
+  "last_updated": "2026-10-03T17:25:44.148761-07:00"
 }
