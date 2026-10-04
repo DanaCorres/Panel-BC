@@ -1,337 +1,64 @@
 {
-  "date": "2026-10-03",
-  "run_count": 3,
+  "date": "2026-10-04",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Capturan a «El 500», operador del Cártel de Sinaloa en Tijuana",
-        "summary": "Detienen a presunto jefe de sicarios del Cártel de Sinaloa, señalado por múltiples homicidios y operaciones criminales en la región.",
-        "zona": "Tijuana",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/03/capturan-a-el-500-operador-del-cartel-de-sinaloa-en-tijuana/",
-        "_added_at": "2026-10-03T17:25:44.148761-07:00"
-      },
-      {
-        "title": "Capacitan a agentes penitenciarios para operar unidades K9",
-        "summary": "SSPCM brinda formación de binomios caninos a elementos de la Comisión Estatal del Sistema Penitenciario de Baja California.",
-        "zona": "Baja California",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/03/brinda-sspcm-capacitacion-de-formacion-de-binomios-k9-a-elementos-de-la-comision-estatal-del-sistema-penitenciario-de-baja-california/",
-        "_added_at": "2026-10-03T17:25:44.148761-07:00"
-      },
-      {
-        "title": "Ejecutan a «El Pálido» en el centro de Tecate",
-        "summary": "Hombre identificado como «El Pálido» es asesinado a balazos en zona Centro de Tecate.",
-        "zona": "Tecate",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/10/ejecutan-al-palido-en-el-centro-de-tecate/?utm_source=rss&utm_medium=rss&utm_campaign=ejecutan-al-palido-en-el-centro-de-tecate",
-        "_added_at": "2026-10-03T17:25:44.148761-07:00"
-      },
-      {
-        "title": "FGE incrementa operativos de búsqueda en 35%",
-        "summary": "Fiscalía amplía acciones con más operativos e identifica a 422 personas mediante pruebas genéticas en el estado.",
-        "zona": "Baja California",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/03/fge-consolida-acciones-de-busqueda-con-incremento-del-35-en-operativos/",
-        "_added_at": "2026-10-03T12:07:23.942667-07:00"
-      },
-      {
-        "title": "Capturan a El 500, operador del Cártel de Sinaloa",
-        "summary": "Detienen en Rosarito a presunto jefe de sicarios vinculado a crimen organizado y homicidios.",
+        "title": "Homicidio en zona Centro de Tijuana sin detenidos",
+        "summary": "Disparan fatalmente a un hombre en el Centro de Tijuana. Autoridades no han efectuado capturas en el caso.",
         "zona": "Tijuana",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/182460_detuvieron_en_rosarito_a_el_500_presunto_jefe_de_sicarios_del_cartel_de_sinaloa",
-        "_added_at": "2026-10-03T12:07:23.942667-07:00"
-      },
-      {
-        "title": "Denuncian desaparición de menor en Tijuana",
-        "summary": "CESODI investiga desaparición de Víctor Emiliano y cuestiona presunta complicidad de director de primaria.",
-        "zona": "Tijuana",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/100136/Denuncian-desaparici%C3%B3n-de-menor-y-exigen-su-b%C3%BAsqueda",
-        "_added_at": "2026-10-03T12:07:23.942667-07:00"
-      },
-      {
-        "title": "Banda de montachoques provoca accidentes en Tijuana",
-        "summary": "Delincuentes generan siniestros viales para extorsionar dinero a conductores afectados.",
-        "zona": "Tijuana",
-        "source": "TV Azteca BC",
-        "url": "https://www.tvaztecabajacalifornia.com/noticias/montachoques-provocan-accidentes-y-exigen-fuertes-sumas-de-dinero-en-tijuana/",
-        "_added_at": "2026-10-03T12:07:23.942667-07:00"
-      },
-      {
-        "title": "FGR asegura tener pruebas contra Ernesto Ruffo",
-        "summary": "La Fiscalía General de la República sostiene contar con evidencia contundente en caso contra exgobernador Ernesto Ruffo.",
-        "zona": "Baja California",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/182442_sostiene_la_fgr_que_cuenta_con_pruebas_contundentes_contra_ernesto_ruffo",
-        "_added_at": "2026-10-03T01:20:27.836510-07:00"
-      },
-      {
-        "title": "Madre busca a hijo desaparecido hace un año en Tijuana",
-        "summary": "Continúa búsqueda de menor de 9 años extraviado hace 12 meses sin respuestas de autoridades.",
-        "zona": "Tijuana",
-        "source": "TV Azteca BC",
-        "url": "https://www.tvaztecabajacalifornia.com/noticias/un-ano-de-angustia-madre-busca-a-su-hijo-de-9-anos-desaparecido-en-tijuana/",
-        "_added_at": "2026-10-03T01:20:27.836510-07:00"
-      },
-      {
-        "title": "Empresa sancionada por EU recibió millones en terrenos en BC",
-        "summary": "Compañía penalizada por autoridades estadounidenses obtuvo concesiones de áreas estatales en Baja California.",
-        "zona": "Baja California",
-        "source": "TV Azteca BC",
-        "url": "https://www.tvaztecabajacalifornia.com/noticias/no-solo-fue-la-fiscalia-empresa-sancionada-por-eu-tambien-recibio-millones-de-areas-estatales-en-bc/",
-        "_added_at": "2026-10-03T01:20:27.836510-07:00"
-      },
-      {
-        "title": "Continúan investigaciones sobre Morena y Marina en EU",
-        "summary": "Autoridades estadounidenses prosiguen indagatorias relacionadas con funcionarios de Baja California.",
-        "zona": "Baja California",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/afn_politico/182439_continuan_las_investigaciones_sobre_morena_y_marina_en_estados_unidos",
-        "_added_at": "2026-10-03T01:20:27.836510-07:00"
+        "url": "https://www.afntijuana.info/seguridad/182480_asesinan_a_un_hombre_a_tiros_en_la_zona_centro_no_hubo_detenidos",
+        "_added_at": "2026-10-04T01:35:30.304973-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Claudia Agatón rinde segundo informe en Ensenada",
-        "summary": "Alcaldesa presenta avances de su administración con cumplimiento del 88 por ciento de metas en segundo año de gobierno.",
-        "zona": "Ensenada",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/03/consolida-claudia-agaton-avances-en-ensenada-destaca-cumplimiento-del-88-de-metas-en-su-segundo-ano-de-gobierno/",
-        "_added_at": "2026-10-03T17:25:44.148761-07:00"
-      },
-      {
-        "title": "Ismael Burgueño presenta segundo informe; críticas por inseguridad",
-        "summary": "Alcalde de Tijuana rinde cuenta ante Cabildo. Oposición destaca carencias en servicios e inseguridad ciudadana.",
-        "zona": "Tijuana",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/10/ismael-burgueno-presenta-su-segundo-informe-de-gobierno-oposicion-destaca-falta-de-servicios-e-inseguridad/?utm_source=rss&utm_medium=rss&utm_campaign=ismael-burgueno-presenta-su-segundo-informe-de-gobierno-oposicion-destaca-falta-de-servicios-e-inseguridad",
-        "_added_at": "2026-10-03T17:25:44.148761-07:00"
-      },
-      {
-        "title": "Jorge Ramos respalda candidatura de Julieta Ramírez en Tijuana",
-        "summary": "Político descarta buscar alcaldía y anuncia será coordinador de campaña de Julieta Ramírez.",
-        "zona": "Tijuana",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/10/jorge-ramos-no-buscara-la-alcaldia-de-tijuana-colaborara-con-proyecto-de-julieta-ramirez/?utm_source=rss&utm_medium=rss&utm_campaign=jorge-ramos-no-buscara-la-alcaldia-de-tijuana-colaborara-con-proyecto-de-julieta-ramirez",
-        "_added_at": "2026-10-03T17:25:44.148761-07:00"
-      },
-      {
-        "title": "Cabildo de Ensenada aprueba glosa del segundo informe",
-        "summary": "Se establece calendario para análisis y crítica formal del informe anual de gobierno municipal.",
-        "zona": "Ensenada",
-        "source": "EnsenadaHoy",
-        "url": "https://ensenadahoy.com/noticias/ver/6983",
-        "_added_at": "2026-10-03T17:25:44.148761-07:00"
-      },
-      {
-        "title": "Gobierno cancela proyecto de juzgados en terreno del CEARTE",
-        "summary": "Administración municipal reversa construcción de juzgados en espacio destinado a centro cultural.",
-        "zona": "Ensenada",
+        "title": "Alejandra León inicia campaña para alcaldía de Mexicali",
+        "summary": "Candidata comienza sus actividades de campaña para la presidencia municipal de Mexicali.",
+        "zona": "Mexicali",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/182466_dan_marcha_atras_al_proyecto_de_construccion_de_juzgados_en_espacio_del_cearte",
-        "_added_at": "2026-10-03T17:25:44.148761-07:00"
+        "url": "https://www.afntijuana.info/afn_politico/182476_inicia_alejandra_leon_su_campana_por_la_alcaldia_de_mexicali",
+        "_added_at": "2026-10-04T01:35:30.304973-07:00"
       },
       {
-        "title": "Segundo informe de Burgueño presenta balance de gobierno",
-        "summary": "Alcalde de Tijuana presenta informe anual; Cabildo de Ensenada aprueba calendario de glosa.",
-        "zona": "Tijuana",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/10/03/ismael-burgueno-segundo-informe-de-gobierno/",
-        "_added_at": "2026-10-03T12:07:23.942667-07:00"
-      },
-      {
-        "title": "Cuestionan resultados en segundo informe de Agatón",
-        "summary": "Regidores de Ensenada señalan pendientes y falta de avances en administración municipal.",
-        "zona": "Ensenada",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/tij/ensenada/2026/10/03/cuestionan-regidores-pendientes-y-falta-de-resultados-en-segundo-informe-de-agaton/",
-        "_added_at": "2026-10-03T12:07:23.942667-07:00"
-      },
-      {
-        "title": "Gobierno de Agatón rechaza juzgados en CEARTE",
-        "summary": "Administración de Ensenada descarta viabilidad de trasladar juzgados al centro de convenciones.",
-        "zona": "Ensenada",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/182458_gobierno_de_agaton_no_considera_viable_los_juzgados_en_cearte",
-        "_added_at": "2026-10-03T12:07:23.942667-07:00"
-      },
-      {
-        "title": "Declaran Día Internacional de Mujeres Buscadoras",
-        "summary": "BC reconoce labor de mujeres que buscan a desaparecidos con conmemoración el 19 de diciembre.",
-        "zona": "Baja California",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Estatal/100154/19-de-diciembre-marcar%C3%A1-el-primer-D%C3%ADa-Internacional-de-las-Mujeres-Buscadoras",
-        "_added_at": "2026-10-03T12:07:23.942667-07:00"
-      },
-      {
-        "title": "Gobierno impulsa acciones de protección animal",
-        "summary": "Administración de Burgueño anuncia iniciativas para bienestar y protección de animales domésticos.",
-        "zona": "Tijuana",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/03/impulsa-gobierno-de-burgueno-acciones-para-el-bienestar-y-proteccion-de-los-animales/",
-        "_added_at": "2026-10-03T12:07:23.942667-07:00"
-      },
-      {
-        "title": "Burgueño presenta segundo informe; oposición reclama fallas",
-        "summary": "Presidente municipal de Tijuana rinde cuentas ante Cabildo con críticas de grupos políticos opositores.",
+        "title": "Ruffo recibe a dirigentes y militantes del PAN",
+        "summary": "Reunión entre la dirigencia panista y militantes del partido en Tijuana.",
         "zona": "Tijuana",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/182443_burgueno_entrego_su_segundo_informe_al_cabildo_oposicion_acusa_fallas",
-        "_added_at": "2026-10-03T01:20:27.836510-07:00"
-      },
-      {
-        "title": "Alejandra León interrogada 12 horas en EU, se deslinda de Marina",
-        "summary": "Funcionaria comparece ante autoridades estadounidenses y niega vínculos con exgobernadora.",
-        "zona": "Baja California",
-        "source": "TV Azteca BC",
-        "url": "https://www.tvaztecabajacalifornia.com/noticias/12-horas-bajo-revision-alejandra-leon-enfrenta-interrogatorio-en-eu-y-se-deslinda-de-marina-del-pilar/",
-        "_added_at": "2026-10-03T01:20:27.836510-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/182479_recibe_ruffo_a_dirigentes_y_militantes_del_pan",
+        "_added_at": "2026-10-04T01:35:30.304973-07:00"
       }
     ],
-    "economia": [
-      {
-        "title": "Advierten riesgo de perder inversiones por agua y energía",
-        "summary": "Sectores empresariales alertan sobre consecuencias de falta de agua y electricidad en Tijuana.",
-        "zona": "Tijuana",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/182462_advierten_riesgo_de_perder_inversiones_por_falta_de_agua_y_energia_en_tijuana",
-        "_added_at": "2026-10-03T17:25:44.148761-07:00"
-      },
-      {
-        "title": "FDA cierra investigación y exime lechuga mexicana de brotes",
-        "summary": "Autoridad sanitaria estadounidense descarta que hortalizas de México hayan causado casos de salmonela.",
-        "zona": "Baja California",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/mundo/2026/10/03/la-fda-cerro-la-investigacion-y-descarto-que-la-lechuga-exportada-de-mexico-causara-brotes-de-salmonela-y-cyclospora-poniendo-fin-a-la-alerta-sanitaria-en-eeuu/",
-        "_added_at": "2026-10-03T17:25:44.148761-07:00"
-      },
-      {
-        "title": "Demanda eléctrica crece con expansión de Tijuana",
-        "summary": "Gobierno analiza necesidades energéticas ante crecimiento urbano; advierten riesgo a inversiones.",
-        "zona": "Tijuana",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/182463_gobierno_de_bc_analiza_demanda_electrica_ante_crecimiento_de_tijuana",
-        "_added_at": "2026-10-03T12:07:23.942667-07:00"
-      },
-      {
-        "title": "Maquiladoras de Ensenada alcanzan récord de exportaciones",
-        "summary": "Sector manufacturero registra cifras históricas de envíos internacionales desde la región.",
-        "zona": "Ensenada",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/empresarial/182450_record_por_exportaciones_en_maquiladoras_de_ensenada",
-        "_added_at": "2026-10-03T12:07:23.942667-07:00"
-      },
-      {
-        "title": "Ocupación hotelera baja en Rosarito por desaceleración",
-        "summary": "Hoteles de Rosarito reportan reducción de huéspedes por desaceleración de economía regional.",
-        "zona": "Tijuana",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/empresarial/182449_desaceleracion_economica_provoca_bajos_niveles_de_ocupacion_hotelera_en_rosarito",
-        "_added_at": "2026-10-03T12:07:23.942667-07:00"
-      },
-      {
-        "title": "Hacienda incrementa IEPS a gasolinas",
-        "summary": "Impuesto sube del 3 al 9 de octubre; mantiene estimulo al diesel en porcentaje actual.",
-        "zona": "Baja California",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/dinero/2026/10/03/hacienda-mantiene-el-100-de-estimulo-fiscal-al-diesel-del-3-al-9-de-octubre-mientras-reduce-los-apoyos-e-incrementa-la-cuota-del-ieps-para-las-gasolinas-magna-y-premium/",
-        "_added_at": "2026-10-03T12:07:23.942667-07:00"
-      }
-    ],
+    "economia": [],
     "eventos": [
       {
-        "title": "Festival Corto Creativo UDCI celebra realizadores bajacalifornianos",
-        "summary": "Universidad organiza festival dedicado a cortometrajes de productores locales de Baja California.",
+        "title": "Cine, surf y cerveza con causa en Tijuana",
+        "summary": "Evento que combina proyecciones de cine, actividades de surf y cervecería con propósito social en Tijuana.",
         "zona": "Tijuana",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/10/festival-corto-creativo-udci-celebra-a-realizadores-bajacalifornianos/?utm_source=rss&utm_medium=rss&utm_campaign=festival-corto-creativo-udci-celebra-a-realizadores-bajacalifornianos",
-        "_added_at": "2026-10-03T17:25:44.148761-07:00"
-      },
-      {
-        "title": "Abren convocatoria Premio Estatal a la Juventud",
-        "summary": "Baja California llama a participantes para reconocer logros de jóvenes del estado.",
-        "zona": "Baja California",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/abren-convocatoria-al-premio-estatal-a-la-juventud-2026-en-baja-california/",
-        "_added_at": "2026-10-03T12:07:23.942667-07:00"
-      },
-      {
-        "title": "IMACTE anuncia festejos del Pan de la Catrina",
-        "summary": "Instituto cultural programa celebraciones de Día de Muertos con enfoque gastronómico.",
-        "zona": "Tijuana",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/arte_y_cultura/182461_imacte_anuncia_festejos_del_pan_de_la_catrina",
-        "_added_at": "2026-10-03T12:07:23.942667-07:00"
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/100169/Cine,-surf-y-una-cerveza-con-causa-llegan-a-Tijuana",
+        "_added_at": "2026-10-04T01:35:30.304973-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "CESODI exige búsqueda de menor y pide investigar caso",
-        "summary": "Comisión de Derechos Humanos solicita acciones de localización e investigación por desaparición.",
-        "zona": "Tijuana",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/cesodi-exige-busqueda-de-menor-y-pide-investigar-su-caso/",
-        "_added_at": "2026-10-03T17:25:44.148761-07:00"
-      },
-      {
-        "title": "Implementan campañas contra reclutamiento infantil en Ensenada",
-        "summary": "Autoridades y sociedad civil lanzan iniciativas de prevención bajo lema «La infancia no se recluta».",
-        "zona": "Ensenada",
-        "source": "Rada Noticias",
-        "url": "https://radanoticias.info/la-infancia-no-se-recluta-y-no-se-abandona-implementan-campanas-de-prevencion/",
-        "_added_at": "2026-10-03T17:25:44.148761-07:00"
-      },
-      {
-        "title": "Gobierno garantiza uso de terreno de CEARTE para cultura",
-        "summary": "Administración asegura que espacio mantendrá función como centro de actividades artísticas y culturales.",
-        "zona": "Ensenada",
-        "source": "Rada Noticias",
-        "url": "https://radanoticias.info/garantiza-gobierno-de-bc-uso-de-terreno-de-ceart-ensenada-para-espacio-cultural/",
-        "_added_at": "2026-10-03T17:25:44.148761-07:00"
-      },
-      {
-        "title": "Refuerzan prevención de accidentes y atención prehospitalaria",
-        "summary": "Estado intensifica acciones de educación vial y mejora de servicios de emergencia en Baja California.",
+        "title": "Capacitación en formación de binomios K9 para penitenciarios",
+        "summary": "Secretaría de Seguridad capacita a custodios sobre entrenamiento de unidades caninas en instituciones penitenciarias.",
         "zona": "Baja California",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Estatal/100164/Refuerzan-acciones-de-prevenci%C3%B3n-de-accidentes-y-atenci%C3%B3n-prehospitalaria-en-BC",
-        "_added_at": "2026-10-03T17:25:44.148761-07:00"
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182475_capacita_la_sspcm_a_custodios_penitenciario_sobre_formacion_de_binomios_k9",
+        "_added_at": "2026-10-04T01:35:30.304973-07:00"
       },
       {
-        "title": "Albergue Embajadores recibe premio de arquitectura",
-        "summary": "Institución obtiene máximo galardón por diseño y aportación a la comunidad.",
+        "title": "Proyecto Embajadores de Jesús recibe reconocimiento comunitario",
+        "summary": "Distinción a iniciativa comunitaria por su propuesta de trabajo social en la región.",
         "zona": "Tijuana",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/03/albergue-embajadores-de-jesus-recibe-maximo-galardon-de-arquitectura-por-la-sdaf/",
-        "_added_at": "2026-10-03T12:07:23.942667-07:00"
-      },
-      {
-        "title": "Padres toman escuela por carencia de maestros en Tijuana",
-        "summary": "Comunidad educativa protesta contra falta prolongada de docentes en institución de educación básica.",
-        "zona": "Tijuana",
-        "source": "TV Azteca BC",
-        "url": "https://www.tvaztecabajacalifornia.com/noticias/padres-denuncian-anos-de-falta-de-maestros-y-toman-escuela-en-tijuana/",
-        "_added_at": "2026-10-03T01:20:27.836510-07:00"
-      },
-      {
-        "title": "30 colonias de Tijuana sin electricidad, vecinos reclaman",
-        "summary": "Múltiples sectores denuncian cortes de suministro eléctrico sin explicación de compañía proveedora.",
-        "zona": "Tijuana",
-        "source": "TV Azteca BC",
-        "url": "https://www.tvaztecabajacalifornia.com/policiaca/vecinos-de-al-menos-30-colonias-reclaman-falta-de-electricidad-en-tijuana/",
-        "_added_at": "2026-10-03T01:20:27.836510-07:00"
-      },
-      {
-        "title": "Tijuanenses pierden 72 horas anuales atrapados en tráfico",
-        "summary": "Congestión vial causa pérdida significativa de tiempo a conductores en la ciudad.",
-        "zona": "Tijuana",
-        "source": "TV Azteca BC",
-        "url": "https://www.tvaztecabajacalifornia.com/noticias/hasta-72-horas-al-ano-pasan-los-tijuanenses-atrapados-en-el-trafico/",
-        "_added_at": "2026-10-03T01:20:27.836510-07:00"
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/comunidad/182474_distinguen_proyecto_de_embajadores_de_jesus_por_su_propuesta_comunitaria",
+        "_added_at": "2026-10-04T01:35:30.304973-07:00"
       }
     ]
   },
-  "last_updated": "2026-10-03T17:25:44.148761-07:00"
+  "last_updated": "2026-10-04T01:35:30.304973-07:00"
 }
