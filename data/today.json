@@ -1,8 +1,32 @@
 {
   "date": "2026-10-04",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "CFE sin explicaciones por fallas eléctricas en Baja California",
+        "summary": "La compañía eléctrica no ha dado respuesta sobre múltiples cortes de energía registrados en el estado.",
+        "zona": "Baja California",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/cfe-sigue-sin-explicar-las-multiples-fallas-en-baja-california/?utm_source=rss&utm_medium=rss&utm_campaign=cfe-sigue-sin-explicar-las-multiples-fallas-en-baja-california",
+        "_added_at": "2026-10-04T12:22:46.867192-07:00"
+      },
+      {
+        "title": "Dos jóvenes mueren calcinados en incendio de vivienda",
+        "summary": "Un incendio en la colonia Empleado Postal de Tijuana dejó dos cuerpos sin vida.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/182481_mueren_dos_jovenes_en_un_incendio_en_la_colonia_postal",
+        "_added_at": "2026-10-04T12:22:46.867192-07:00"
+      },
+      {
+        "title": "Ataque armado en colonia Herrera deja lesionado",
+        "summary": "Un hombre recibió heridas de bala en enfrentamiento en la colonia Herrera.",
+        "zona": "Tijuana",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/100172/Ataque-armado-deja-a-un-hombre-lesionado-en-la-colonia-Herrera",
+        "_added_at": "2026-10-04T12:22:46.867192-07:00"
+      },
       {
         "title": "Homicidio en zona Centro de Tijuana sin detenidos",
         "summary": "Disparan fatalmente a un hombre en el Centro de Tijuana. Autoridades no han efectuado capturas en el caso.",
@@ -13,6 +37,38 @@
       }
     ],
     "politica": [
+      {
+        "title": "Alcaldesa Claudia Agatón cierra segundo informe con señal política",
+        "summary": "La edil de Ensenada cerró su segundo informe con una declaración política relevante.",
+        "zona": "Ensenada",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/la-alcaldesa-de-ensenada-claudia-agaton-cerro-su-segundo-informe-con-una-senal-politica/",
+        "_added_at": "2026-10-04T12:22:46.867192-07:00"
+      },
+      {
+        "title": "Defensa de Ruffo Appel niega funciones operativas en Ingemar",
+        "summary": "Los abogados del expresidente intentarán demostrar que no tenía responsabilidades administrativas.",
+        "zona": "Ensenada",
+        "source": "Milenio",
+        "url": "https://www.milenio.com/estados/defensa-ruffo-buscara-acreditar-que-no-funciones-ingemar",
+        "_added_at": "2026-10-04T12:22:46.867192-07:00"
+      },
+      {
+        "title": "Diputada propone sincronizar Registro Público y Catastro",
+        "summary": "Legisladora presenta iniciativa para coordinar bases de datos de propiedades municipales.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/04/propone-diputada-sanchez-sincronizar-registro-publico-y-catastro-municipal/",
+        "_added_at": "2026-10-04T12:22:46.867192-07:00"
+      },
+      {
+        "title": "Quieren crear \"minisindicatura\" en Mexicali",
+        "summary": "Se impulsa la creación de una nueva estructura administrativa en la capital estatal.",
+        "zona": "Mexicali",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/quieren-crear-minisindicatura-en-mexicali/?utm_source=rss&utm_medium=rss&utm_campaign=quieren-crear-minisindicatura-en-mexicali",
+        "_added_at": "2026-10-04T12:22:46.867192-07:00"
+      },
       {
         "title": "Alejandra León inicia campaña para alcaldía de Mexicali",
         "summary": "Candidata comienza sus actividades de campaña para la presidencia municipal de Mexicali.",
@@ -30,8 +86,41 @@
         "_added_at": "2026-10-04T01:35:30.304973-07:00"
       }
     ],
-    "economia": [],
+    "economia": [
+      {
+        "title": "Baja California mantiene alta calificación en competitividad laboral",
+        "summary": "El estado conserva posición destacada en índice nacional de condiciones laborales.",
+        "zona": "Baja California",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/100177/Mantiene-BC-alta-calificacion-navional-en-competitividad-labotal-por-bunas-condiciones-para-la-fuerza-de-trabajo",
+        "_added_at": "2026-10-04T12:22:46.867192-07:00"
+      },
+      {
+        "title": "Infraestructura sanitaria y pluvial de Tijuana requiere mantenimiento urgente",
+        "summary": "CMIC advierte sobre deterioro de servicios básicos en la ciudad.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182483_infraestructura_sanitaria_y_pluvial_de_tijuana_requiere_mantenimiento_urgente_cmic",
+        "_added_at": "2026-10-04T12:22:46.867192-07:00"
+      },
+      {
+        "title": "Piden centro de acopio de llantas en Tijuana",
+        "summary": "Ciudadanía solicita establecimiento para gestión de neumáticos; traslado a Mexicali cuesta 17 mil pesos.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/10/04/urge-centro-de-acopio-de-llantas-en-tijuana-trasladarlas-a-mexicali-cuesta-mas-de-17-mil-pesos/",
+        "_added_at": "2026-10-04T12:22:46.867192-07:00"
+      }
+    ],
     "eventos": [
+      {
+        "title": "FloriFest se estrena en Ensenada con gran asistencia",
+        "summary": "Miles de personas disfrutaron de la primera edición del festival floral en la ciudad.",
+        "zona": "Ensenada",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/ensenada/2026/10/04/miles-de-personas-disfrutan-por-primera-vez-del-florifest-en-ensenada/",
+        "_added_at": "2026-10-04T12:22:46.867192-07:00"
+      },
       {
         "title": "Cine, surf y cerveza con causa en Tijuana",
         "summary": "Evento que combina proyecciones de cine, actividades de surf y cervecería con propósito social en Tijuana.",
@@ -42,6 +131,14 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Gobierno garantiza CEART Ensenada para espacios culturales",
+        "summary": "Autoridades confirman que predio continuará destinado a usos artísticos y educativos.",
+        "zona": "Ensenada",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/cultura/2026/10/04/garantiza-gobbc-uso-de-terreno-del-ceart-ensenada-para-espacios-culturales/",
+        "_added_at": "2026-10-04T12:22:46.867192-07:00"
+      },
       {
         "title": "Capacitación en formación de binomios K9 para penitenciarios",
         "summary": "Secretaría de Seguridad capacita a custodios sobre entrenamiento de unidades caninas en instituciones penitenciarias.",
@@ -60,5 +157,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-04T01:35:30.304973-07:00"
+  "last_updated": "2026-10-04T12:22:46.867192-07:00"
 }
