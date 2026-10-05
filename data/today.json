@@ -1,8 +1,72 @@
 {
   "date": "2026-10-04",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Juicio por asesinato de hermanos Robinson llega a etapa final",
+        "summary": "Proceso judicial avanza en su conclusión en caso de homicidio de los hermanos Robinson en Tijuana.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/juicio-por-asesinato-de-los-hermanos-robinson-llega-a-su-etapa-final/?utm_source=rss&utm_medium=rss&utm_campaign=juicio-por-asesinato-de-los-hermanos-robinson-llega-a-su-etapa-final",
+        "_added_at": "2026-10-04T17:37:54.245448-07:00"
+      },
+      {
+        "title": "Detienen a integrante de cártel con fusil en Tijuana",
+        "summary": "Municipales aseguran a presunto miembro de organización criminal portando arma de fuego.",
+        "zona": "Tijuana",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/municipales-de-tijuana-atoran-a-integrante-de-un-cartel-traia-un-fusil/",
+        "_added_at": "2026-10-04T17:37:54.245448-07:00"
+      },
+      {
+        "title": "Adolescente de 14 años detenido con dos armas tras disparos",
+        "summary": "Detención de menor de edad después de reporte de disparos en zona de Tijuana.",
+        "zona": "Tijuana",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/04/adolescente-de-14-anos-detenido-con-dos-armas-tras-reporte-de-disparos/",
+        "_added_at": "2026-10-04T17:37:54.245448-07:00"
+      },
+      {
+        "title": "Detienen a 12 presuntos montachoques en operativo",
+        "summary": "Autoridades aseguran a integrantes de banda dedicada a fraudes viales en Tijuana.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/policiaca/2026/10/04/detienen-a-12-presuntos-montachoques-en-tijuana/",
+        "_added_at": "2026-10-04T17:37:54.245448-07:00"
+      },
+      {
+        "title": "Detienen a sospechoso de homicidio de paramédico",
+        "summary": "Captura de presunto responsable en caso de muerte de trabajador de salud en Tijuana.",
+        "zona": "Tijuana",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/100182/Detienen-a-presunto-responsable-del-homicidio-de-param%C3%A9dico-Ernesto",
+        "_added_at": "2026-10-04T17:37:54.245448-07:00"
+      },
+      {
+        "title": "Dos jóvenes mueren en incendio de vivienda",
+        "summary": "Fallecimiento de menores de edad en siniestro en colonia Empleado Postal de Tijuana.",
+        "zona": "Tijuana",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/dos-jovenes-mueren-calcinados-durante-incendio-de-una-vivienda-en-empleado-postal/",
+        "_added_at": "2026-10-04T17:37:54.245448-07:00"
+      },
+      {
+        "title": "Defensa de Ruffo Appel busca acreditar falta de funciones",
+        "summary": "Estrategia legal en caso de ex funcionario busca demostrar ausencia de responsabilidad operativa.",
+        "zona": "Ensenada",
+        "source": "Milenio",
+        "url": "https://www.milenio.com/estados/defensa-ruffo-buscara-acreditar-que-no-funciones-ingemar",
+        "_added_at": "2026-10-04T17:37:54.245448-07:00"
+      },
+      {
+        "title": "Tijuana abre procesos contra policías por incumplimientos",
+        "summary": "Ayuntamiento inicia procedimientos disciplinarios contra elementos por faltas al protocolo C3.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/10/04/van-contra-policias-de-tijuana-que-incumplen-controles-y-presentan-incapacidades-presuntamente-falsas/",
+        "_added_at": "2026-10-04T17:37:54.245448-07:00"
+      },
       {
         "title": "CFE sin explicaciones por fallas eléctricas en Baja California",
         "summary": "La compañía eléctrica no ha dado respuesta sobre múltiples cortes de energía registrados en el estado.",
@@ -37,6 +101,38 @@
       }
     ],
     "politica": [
+      {
+        "title": "Burgueño presenta segundo informe con 86 obras",
+        "summary": "Alcalde de Tijuana reporta avances en infraestructura, seguridad y alumbrado público.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182495_destaca_burgueno_86_obras_de_infraestructura_en_su_segundo_informe_de_gobierno",
+        "_added_at": "2026-10-04T17:37:54.245448-07:00"
+      },
+      {
+        "title": "Burgueño excluye a empresas señaladas por OFAC",
+        "summary": "Administración municipal decide no contratar proveedores en lista de sanciones internacionales.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182492_empresas_senaladas_por_la_ofac_ya_no_seran_proveedoras_del_ayuntamiento_burgueno",
+        "_added_at": "2026-10-04T17:37:54.245448-07:00"
+      },
+      {
+        "title": "Renuncia secretario de Movilidad de Tijuana",
+        "summary": "Funcionario deja cargo para participar en convocatoria pública.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/10/04/renuncia-secretario-de-movilidad-de-tijuana-para-participar-en-convocatoria/",
+        "_added_at": "2026-10-04T17:37:54.245448-07:00"
+      },
+      {
+        "title": "Poder Judicial aumenta número de jueces en BC",
+        "summary": "PJBC incrementa personal judicial para mejorar atención ciudadana en trámites.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/04/el-pjbc-aumenta-su-numero-de-jueces-para-mejorar-la-atencion-ciudadana/",
+        "_added_at": "2026-10-04T17:37:54.245448-07:00"
+      },
       {
         "title": "Alcaldesa Claudia Agatón cierra segundo informe con señal política",
         "summary": "La edil de Ensenada cerró su segundo informe con una declaración política relevante.",
@@ -88,6 +184,46 @@
     ],
     "economia": [
       {
+        "title": "BC mantiene alta calificación en competitividad laboral",
+        "summary": "Estado se destaca nacionalmente por buenas condiciones para la fuerza de trabajo.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/04/mantiene-bc-alta-calificacion-nacional-en-competitividad-laboral-por-buenas-condiciones-para-la-fuerza-del-trabajo/",
+        "_added_at": "2026-10-04T17:37:54.245448-07:00"
+      },
+      {
+        "title": "ISSSTECALI recupera 1,600 millones de adeudo",
+        "summary": "Instituto estatal logra recuperación del 53% de deuda histórica acumulada.",
+        "zona": "Mexicali",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/100183/Logra-ISSSTECALI-recuperar-1,600-mdp-de-adeudo-hist%C3%B3rico",
+        "_added_at": "2026-10-04T17:37:54.245448-07:00"
+      },
+      {
+        "title": "Ayuntamiento espera recibir 100 fraccionamientos",
+        "summary": "Tijuana proyecta desarrollo de nuevos proyectos inmobiliarios durante el año.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/10/04/ayuntamiento-de-tijuana-espera-recibir-100-fraccionamientos-este-ano/",
+        "_added_at": "2026-10-04T17:37:54.245448-07:00"
+      },
+      {
+        "title": "Ensenada busca crear empresas con innovación científica",
+        "summary": "Municipio impulsa iniciativa para convertir conocimiento científico en negocios tecnológicos.",
+        "zona": "Ensenada",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/ensenada/2026/10/04/ensenada-busca-convertir-su-conocimiento-cientifico-en-nuevas-empresas-tecnologicas/",
+        "_added_at": "2026-10-04T17:37:54.245448-07:00"
+      },
+      {
+        "title": "CFE sin explicación sobre fallas en BC",
+        "summary": "Empresa eléctrica no ha informado sobre causas de múltiples apagones en la región.",
+        "zona": "Baja California",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/cfe-sigue-sin-explicar-las-multiples-fallas-en-baja-california/?utm_source=rss&utm_medium=rss&utm_campaign=cfe-sigue-sin-explicar-las-multiples-fallas-en-baja-california",
+        "_added_at": "2026-10-04T17:37:54.245448-07:00"
+      },
+      {
         "title": "Baja California mantiene alta calificación en competitividad laboral",
         "summary": "El estado conserva posición destacada en índice nacional de condiciones laborales.",
         "zona": "Baja California",
@@ -114,6 +250,22 @@
     ],
     "eventos": [
       {
+        "title": "Garantizan uso de terreno CEART para espacios culturales",
+        "summary": "Gobierno estatal asegura disponibilidad de instalaciones en Ensenada para actividades culturales.",
+        "zona": "Ensenada",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/cultura/2026/10/04/garantiza-gobbc-uso-de-terreno-del-ceart-ensenada-para-espacios-culturales/",
+        "_added_at": "2026-10-04T17:37:54.245448-07:00"
+      },
+      {
+        "title": "Película \"En el camino\" arrasa en Premios Ariel",
+        "summary": "Cinta del tijuanense David Pablo obtiene múltiples galardones en ceremonia de cine mexicano.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/arrasa-en-premios-ariel-en-el-camino-del-tijuanense-david-pablo/?utm_source=rss&utm_medium=rss&utm_campaign=arrasa-en-premios-ariel-en-el-camino-del-tijuanense-david-pablo",
+        "_added_at": "2026-10-04T17:37:54.245448-07:00"
+      },
+      {
         "title": "FloriFest se estrena en Ensenada con gran asistencia",
         "summary": "Miles de personas disfrutaron de la primera edición del festival floral en la ciudad.",
         "zona": "Ensenada",
@@ -131,6 +283,62 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Agatón destaca 97% de cobertura en recolección de basura",
+        "summary": "Alcaldesa de Ensenada reporta avance en servicio de limpia ante más de tres mil personas.",
+        "zona": "Ensenada",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/ante-mas-de-3-mil-personas-claudia-agaton-destaca-97-de-cobertura-en-recoleccion-de-basura/",
+        "_added_at": "2026-10-04T17:37:54.245448-07:00"
+      },
+      {
+        "title": "Buscan a joven de 17 años desaparecida en Mexicali",
+        "summary": "Autoridades activan búsqueda de adolescente con reporte de desaparición.",
+        "zona": "Mexicali",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/04/buscan-a-joven-de-17-anos-desaparecida-en-mexicali/",
+        "_added_at": "2026-10-04T17:37:54.245448-07:00"
+      },
+      {
+        "title": "Abogados exhortan a atender crisis en sistema de salud",
+        "summary": "Gremio legal demanda soluciones urgentes a problemas de servicios sanitarios en región.",
+        "zona": "Tijuana",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/100184/Exhortan-abogados-a-atender-crisis-en-el-sistema-de-salud",
+        "_added_at": "2026-10-04T17:37:54.245448-07:00"
+      },
+      {
+        "title": "UABC debe garantizar financiamiento en próxima rectoría",
+        "summary": "Expertos advierten sobre necesidad de asegurar presupuesto en universidad estatal.",
+        "zona": "Baja California",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/100181/UABC-debe-garantizar-financiamiento-en-la-pr%C3%B3xima-rector%C3%ADa",
+        "_added_at": "2026-10-04T17:37:54.245448-07:00"
+      },
+      {
+        "title": "Revisarán 608 baches en Tijuana para reparación",
+        "summary": "Autoridades inician análisis para determinar responsable de mantenimiento vial.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/10/04/revisaran-608-baches-en-tijuana-para-definir-que-autoridad-debe-repararlos/",
+        "_added_at": "2026-10-04T17:37:54.245448-07:00"
+      },
+      {
+        "title": "Socavón pone en riesgo acceso a colonia El Mirador",
+        "summary": "Hundimiento de terreno amenaza conectividad vial en zona residencial de Tijuana.",
+        "zona": "Tijuana",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/100185/Socav%C3%B3n-pone-en-riesgo-acceso-a-colonia-El-Mirador",
+        "_added_at": "2026-10-04T17:37:54.245448-07:00"
+      },
+      {
+        "title": "Reducirán 20% de pases de cruce ágil en Tijuana",
+        "summary": "Autoridades fronterizas ajustan programa para optimizar flujo vehicular.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/10/04/reduciran-20-los-pases-de-cruce-agil-para-agilizar-cruces-fronterizos-en-tijuana/",
+        "_added_at": "2026-10-04T17:37:54.245448-07:00"
+      },
       {
         "title": "Gobierno garantiza CEART Ensenada para espacios culturales",
         "summary": "Autoridades confirman que predio continuará destinado a usos artísticos y educativos.",
@@ -157,5 +365,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-04T12:22:46.867192-07:00"
+  "last_updated": "2026-10-04T17:37:54.245448-07:00"
 }
