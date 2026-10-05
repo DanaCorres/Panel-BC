@@ -1,8 +1,72 @@
 {
   "date": "2026-10-05",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Panistas exigen renuncia de Marina del Pilar por denuncias ante FGR",
+        "summary": "Dirigentes del PAN demandan la separación de Marina del Pilar tras denuncias formales en la Fiscalía General de la República por presuntos delitos cometidos en Baja California.",
+        "zona": "Baja California",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/exigen-panistas-separacion-del-cargo-de-marina-del-pilar-tras-denuncia-en-fgr-por-presuntos-delitos-en-baja-california/",
+        "_added_at": "2026-10-05T15:26:44.930272-07:00"
+      },
+      {
+        "title": "Empresas de seguridad usadas para lavado de dinero del Mayo",
+        "summary": "Investigaciones revelan que empresas de seguridad en BC funcionan como estructuras para blanqueo de capitales vinculadas al narcotraficante Ismael Mayo Zambada.",
+        "zona": "Baja California",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/bc-empresas-de-seguridad-la-lavanderia-del-mayo/",
+        "_added_at": "2026-10-05T15:26:44.930272-07:00"
+      },
+      {
+        "title": "Guerra CDS-CJNG genera pánico en escuelas de Tecate",
+        "summary": "Enfrentamiento entre carteles de Sinaloa y Jalisco provoca terror entre estudiantes y comunidad escolar de Tecate por violencia en la zona.",
+        "zona": "Tecate",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/causa-terror-en-escuelas-de-tecate-guerra-entre-cds-y-cjng/",
+        "_added_at": "2026-10-05T15:26:44.930272-07:00"
+      },
+      {
+        "title": "Fiscalía carece de peritos para atender homicidios",
+        "summary": "Críticas sobre insuficiencia de personal especializado en la Fiscalía General del Estado para realizar peritajes en investigaciones de homicidios.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182529_critican_que_la_fge_carece_de_periciales_para_atender_homicidios",
+        "_added_at": "2026-10-05T15:26:44.930272-07:00"
+      },
+      {
+        "title": "Detienen a menor de 14 años con armas de alto poder",
+        "summary": "Policía municipal de Tijuana captura a adolescente con armamento de uso exclusivo tras participación en ataque armado en la ciudad.",
+        "zona": "Tijuana",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/municipales-de-tijuana-detienen-a-joven-de-14-anos-con-armas-de-alto-poder-tras-un-ataque-armado/",
+        "_added_at": "2026-10-05T15:26:44.930272-07:00"
+      },
+      {
+        "title": "Ensenada bloquea empresas señaladas por autoridades estadounidenses",
+        "summary": "Gobierno municipal veta operaciones y cierra paso a socios y accionistas de empresas denunciadas por autoridades de Estados Unidos.",
+        "zona": "Ensenada",
+        "source": "AGP Noticias",
+        "url": "https://agpnoticias.com/news/ensenada-veta-a-empresas-senaladas-por-estados-unidos-tambien-cerrara-paso-a-socios-y-accionistas/",
+        "_added_at": "2026-10-05T15:26:44.930272-07:00"
+      },
+      {
+        "title": "Agente suspendida de Fiscalía presenta amparo contra separación",
+        "summary": "Funcionaria de la Fiscalía impugnada por su desempeño promueve un amparo para revertir su separación del cargo.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/suspendida-agente-de-fiscalia-promueve-amparo-contra-separacion/",
+        "_added_at": "2026-10-05T15:26:44.930272-07:00"
+      },
+      {
+        "title": "Incendio consume yonque con humo visible desde kilómetros",
+        "summary": "Fuego de grandes proporciones afecta depósito de vehículos en Tijuana generando columna de humo visible en amplios sectores.",
+        "zona": "Tijuana",
+        "source": "TV Azteca BC",
+        "url": "https://www.tvaztecabajacalifornia.com/noticias/fuego-consume-yonke-hoy-5-de-octubre-en-tijuana-el-humo-puede-verse-desde-varios-kilometros/",
+        "_added_at": "2026-10-05T15:26:44.930272-07:00"
+      },
       {
         "title": "PAN acusa que criminales controlan regiones del país",
         "summary": "Partido político denuncia que grupos delictivos han asumido control territorial en diversas zonas nacionales, incluyendo implicaciones para Baja California.",
@@ -21,6 +85,46 @@
       }
     ],
     "politica": [
+      {
+        "title": "Julieta Ramírez concluye gira con siete alcaldes de BC",
+        "summary": "Funcionaria estatal completa recorrido de consolidación de unidad política visitando a los presidentes municipales de todas las ciudades del estado.",
+        "zona": "Baja California",
+        "source": "AGP Noticias",
+        "url": "https://agpnoticias.com/news/consolidan-unidad-en-baja-california-julieta-ramirez-concluye-gira-de-trabajo-con-los-siete-alcaldes-del-estado/",
+        "_added_at": "2026-10-05T15:26:44.930272-07:00"
+      },
+      {
+        "title": "Panistas visitan a Ernesto Ruffo en Ensenada",
+        "summary": "Dirigentes del PAN realizan encuentro con el exgobernador Ruffo como parte de actividades políticas partidistas.",
+        "zona": "Ensenada",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/10/05/panistas-de-bc-visitan-a-ernesto-ruffo-en-ensenada/",
+        "_added_at": "2026-10-05T15:26:44.930272-07:00"
+      },
+      {
+        "title": "Fracturas internas en cierre de proceso de Morena",
+        "summary": "Desacuerdos y reproches marcan el término de la jornada interna del partido Movimiento Regeneración Nacional en la entidad.",
+        "zona": "Baja California",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/reproches-y-fracturas-en-cierre-de-proceso-interno-de-morena/",
+        "_added_at": "2026-10-05T15:26:44.930272-07:00"
+      },
+      {
+        "title": "Terna para presidencia de autoridad estatal de educación",
+        "summary": "Zárate, Padilla y Cortez integran candidatura para encabezar la Asociación Sindical de Educadores de BC.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182530_zarate_padilla_y_cortez_integran_la_terna_para_encabezar_la_asebc",
+        "_added_at": "2026-10-05T15:26:44.930272-07:00"
+      },
+      {
+        "title": "Ezequiel Gutiérrez se registra para coordinación distrital federal",
+        "summary": "Aspirante se inscribe formalmente para competir por la coordinación de distrito federal 03 en Ensenada.",
+        "zona": "Ensenada",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/10/05/ezequiel-gutierrez-heredia-se-registra-como-aspirante-a-coordinacion-distrital-federal-03/",
+        "_added_at": "2026-10-05T15:26:44.930272-07:00"
+      },
       {
         "title": "Funcionario enlistado por OFAC negó lealtad días antes",
         "summary": "Autoridad fue sancionada por organismos internacionales después de declarar públicamente que las personas leales no existen.",
@@ -46,9 +150,147 @@
         "_added_at": "2026-10-05T02:16:11.166491-07:00"
       }
     ],
-    "economia": [],
-    "eventos": [],
+    "economia": [
+      {
+        "title": "Tijuana registra recuperación turística durante 2026",
+        "summary": "Ocupación hotelera alcanza 68.4% reflejando mejora en actividad turística de la ciudad comparado con años anteriores.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/10/05/tijuana-mejora-actividad-turistica-durante-2026-ocupacion-hotelera-llega-a-684/",
+        "_added_at": "2026-10-05T15:26:44.930272-07:00"
+      },
+      {
+        "title": "Proponen sincronizar registro público y catastro municipal",
+        "summary": "Iniciativa busca alinear bases de datos del registro de propiedad con el catastro local de Ensenada para modernizar gestión.",
+        "zona": "Ensenada",
+        "source": "Rada Noticias",
+        "url": "https://radanoticias.info/proponen-sincronizar-registro-publico-y-catastro-municipal/",
+        "_added_at": "2026-10-05T15:26:44.930272-07:00"
+      },
+      {
+        "title": "Buscan crear Hub de innovación en Ensenada",
+        "summary": "Proyecto de generación de espacio para emprendimiento y desarrollo tecnológico en la ciudad portuaria.",
+        "zona": "Ensenada",
+        "source": "Rada Noticias",
+        "url": "https://radanoticias.info/buscan-crear-hub-de-innovacion-en-ensenada/",
+        "_added_at": "2026-10-05T15:26:44.930272-07:00"
+      },
+      {
+        "title": "CEVIT impulsa colaboración vitivinícola con proyecto enológico",
+        "summary": "Centro de vinos inicia cooperación con especialista para fortalecer cadena productiva vinícola local.",
+        "zona": "Ensenada",
+        "source": "EnsenadaHoy",
+        "url": "https://ensenadahoy.com/noticias/ver/6985",
+        "_added_at": "2026-10-05T15:26:44.930272-07:00"
+      },
+      {
+        "title": "Codeen impulsa 120 becas para competencias laborales en BC",
+        "summary": "Consejo de empresarios ofrece becas de capacitación para fortalecer habilidades profesionales en la región.",
+        "zona": "Baja California",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/10/05/impulsa-codeen-120-becas-para-fortalecer-competencias-laborales-en-bc/",
+        "_added_at": "2026-10-05T15:26:44.930272-07:00"
+      }
+    ],
+    "eventos": [
+      {
+        "title": "CETYS Ensenada avanza a nacional de voleibol de playa",
+        "summary": "Equipo universitario logra calificación a torneo nacional tras destacada actuación en regional eliminatorio.",
+        "zona": "Ensenada",
+        "source": "AGP Noticias",
+        "url": "https://agpnoticias.com/news/cetys-ensenada-arrasa-en-regional-y-consigue-boleto-al-nacional-de-voleibol-de-playa/",
+        "_added_at": "2026-10-05T15:26:44.930272-07:00"
+      },
+      {
+        "title": "Carnaval con Causa apoyará a 26 mujeres con prótesis",
+        "summary": "Evento benéfico recaudará fondos para financiar prótesis de mama para mujeres de bajos recursos en Tijuana.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/10/05/carnaval-con-causa-busca-apoyar-a-26-mujeres-con-protesis-de-mama/",
+        "_added_at": "2026-10-05T15:26:44.930272-07:00"
+      },
+      {
+        "title": "Quinta edición de Carrera contra Cáncer de Mama",
+        "summary": "Se realizará edición anual de carrera masiva de concientización y recaudación sobre cáncer mamario.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182524_realizaran_la_quinta_edicion_de_carrera_contra_el_cancer_de_mama",
+        "_added_at": "2026-10-05T15:26:44.930272-07:00"
+      },
+      {
+        "title": "Beca Rita Cetina: registro 2026-2027 en octubre",
+        "summary": "Convocatoria abierta para becarios de educación superior con fechas de registro durante mes en curso.",
+        "zona": "Baja California",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/10/05/beca-rita-cetina-registro-para-ciclo-2026-2027-sera-en-octubre/",
+        "_added_at": "2026-10-05T15:26:44.930272-07:00"
+      }
+    ],
     "sociedad": [
+      {
+        "title": "Jubilados denuncian desabasto de medicamentos en Issstecali",
+        "summary": "Derechohabientes del instituto de seguridad reportan falta de fármacos y especialistas en clínicas de atención.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/jubilados-denuncian-desabasto-de-medicamentos-y-falta-de-especialistas-en-issstecali/",
+        "_added_at": "2026-10-05T15:26:44.930272-07:00"
+      },
+      {
+        "title": "Cobertura de recolección de basura alcanza 97% en Ensenada",
+        "summary": "Alcaldesa Claudia Agatón reporta amplio avance en servicio de limpia ante más de tres mil personas.",
+        "zona": "Ensenada",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/10/05/ante-mas-de-3-mil-personas-claudia-agaton-destaca-97-de-cobertura-en-recoleccion-de-basura/",
+        "_added_at": "2026-10-05T15:26:44.930272-07:00"
+      },
+      {
+        "title": "Piden protocolo para atender menores en situación de calle",
+        "summary": "Sociedad civil reclama al gobierno instrumentos y procedimientos para protección de niños en vulnerabilidad.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/10/05/piden-avanzar-en-protocolo-para-atender-a-menores-en-situacion-de-calle/",
+        "_added_at": "2026-10-05T15:26:44.930272-07:00"
+      },
+      {
+        "title": "Contaminación del Río Tijuana requiere limpieza integral",
+        "summary": "Autoridades buscan implementar plan de saneamiento integral ante acumulación de residuos y agua contaminada.",
+        "zona": "Tijuana",
+        "source": "TV Azteca BC",
+        "url": "https://www.tvaztecabajacalifornia.com/noticias/rio-tijuana-en-abandono-agua-residual-basura-y-vegetacion-invaden-la-canalizacion/",
+        "_added_at": "2026-10-05T15:26:44.930272-07:00"
+      },
+      {
+        "title": "IMSS promueve alimentación saludable en Baja California",
+        "summary": "Instituto implementa campaña de concientización para prevención de enfermedades crónicas mediante nutrición adecuada.",
+        "zona": "Baja California",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/100213/Promueve-IMSS-Baja-California-alimentaci%C3%B3n-saludable-para-prevenir-enfermedades-cr%C3%B3nicas",
+        "_added_at": "2026-10-05T15:26:44.930272-07:00"
+      },
+      {
+        "title": "Colectivos LGBT presentan peticiones en Congreso Estatal",
+        "summary": "Organizaciones de diversidad sexual entregan pliego de demandas a legisladores con temas de agenda inclusiva.",
+        "zona": "Baja California",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/100219/Entregan-colectivos-de-la-diversidad-sexual-pliego-petitorio-al-Congreso",
+        "_added_at": "2026-10-05T15:26:44.930272-07:00"
+      },
+      {
+        "title": "Reparación de socavón costará 43 millones de pesos",
+        "summary": "Cifra de mayor inversión en década para reparación de grieta en carretera entre Tijuana y Rosarito.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/43-mdp-costara-reparar-socavon-entre-tijuana-y-rosarito-el-mas-caro-de-la-decada/",
+        "_added_at": "2026-10-05T15:26:44.930272-07:00"
+      },
+      {
+        "title": "Buscan crear Ley de Fomento de Industrias Creativas en BC",
+        "summary": "Iniciativa legislativa propone marco legal para fortalecer sector de economía creativa y cultural.",
+        "zona": "Baja California",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/10/05/buscan-crear-ley-de-fomento-de-industrias-creativas-en-bc/",
+        "_added_at": "2026-10-05T15:26:44.930272-07:00"
+      },
       {
         "title": "Más de 40 colonias sin agua en Tijuana este domingo",
         "summary": "Falla en sistema de distribución deja sin servicio a decenas de colonias sin fecha confirmada de restablecimiento.",
@@ -59,5 +301,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-05T02:16:11.166491-07:00"
+  "last_updated": "2026-10-05T15:26:44.930272-07:00"
 }
