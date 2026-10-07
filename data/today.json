@@ -1,497 +1,137 @@
 {
-  "date": "2026-10-06",
-  "run_count": 3,
+  "date": "2026-10-07",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Ensenada bloquea contratos con empresas vinculadas a lavado de dinero",
-        "summary": "Municipio suspende acuerdos con empresas señaladas por OFAC y asuntos de blanqueo de capitales, según alcaldesa Claudia Agatón.",
-        "zona": "Ensenada",
-        "source": "Milenio",
-        "url": "https://www.milenio.com/videos/politica/ensenada-bloquea-contratos-empresas-senaladas-lavado-dinero",
-        "_added_at": "2026-10-06T18:22:38.916785-07:00"
-      },
-      {
-        "title": "Detiene FESC a sicario del Cártel de Sinaloa implicado en asesinato",
-        "summary": "Autoridades capturan a presunto homicida vinculado con el crimen organizado y muerte de agente Arellano.",
-        "zona": "Tijuana",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/10/detiene-fesc-a-sicario-del-cds-participo-en-asesinato-de-agente-arellano/",
-        "_added_at": "2026-10-06T18:22:38.916785-07:00"
-      },
-      {
-        "title": "Niegan amparo a acusado de terrorismo por narcobloqueos",
-        "summary": "Juzgado desestima defensa legal de sujeto procesado por bloqueos en carreteras y actos criminales.",
+        "title": "EU sanciona a Carlos Torres por vínculos con Cártel de Sinaloa",
+        "summary": "Estados Unidos formaliza sanción contra Carlos Torres tras confirmarse su conexión oficial con el Cártel de Sinaloa.",
         "zona": "Baja California",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/10/niegan-amparo-a-sujeto-acusado-de-terrorismo-por-narcobloqueos/",
-        "_added_at": "2026-10-06T18:22:38.916785-07:00"
+        "source": "TV Azteca BC",
+        "url": "https://www.tvaztecabajacalifornia.com/noticias/eu-formaliza-sancion-contra-carlos-torres-y-lo-vincula-oficialmente-con-el-cartel-de-sinaloa/",
+        "_added_at": "2026-10-07T01:56:52.004567-07:00"
       },
       {
-        "title": "Estado suspende contratos con empresas ligadas al crimen organizado",
-        "summary": "Gobierno de BC investiga y detiene relaciones comerciales con instituciones vinculadas a delincuencia.",
-        "zona": "Baja California",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Estatal/100254/Suspende-gobierno-del-estado-contratos-con-empresas-vinculadas-con-el-crimen-organizado",
-        "_added_at": "2026-10-06T18:22:38.916785-07:00"
-      },
-      {
-        "title": "Capacitan personal de preescolar para actuar ante extorsiones",
-        "summary": "Escuelas de Ensenada reciben entrenamiento institucional sobre respuesta a intimidaciones criminales.",
-        "zona": "Ensenada",
-        "source": "AGP Noticias",
-        "url": "https://agpnoticias.com/news/capacitan-a-personal-de-preescolar-para-actuar-ante-extorsiones/",
-        "_added_at": "2026-10-06T18:22:38.916785-07:00"
-      },
-      {
-        "title": "Femicidio en cuartel militar de Mexicali genera protesta ciudadana",
-        "summary": "Muerte de sargenta dentro de instalación castrense provoca demanda de justicia y seguridad.",
+        "title": "Fiscalía obtiene prisión preventiva por homicidio en Mexicali",
+        "summary": "La FGE aseguró medida cautelar contra presunto responsable de homicidio ocurrido en zona centro de Mexicali.",
         "zona": "Mexicali",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/06/protestan-por-femicidio-de-sargento-en-cuartel-de-mexicali/",
-        "_added_at": "2026-10-06T18:22:38.916785-07:00"
-      },
-      {
-        "title": "Baja California reporta altos índices de trata de migrantes",
-        "summary": "Estado figura entre jurisdicciones con mayor cantidad de casos denunciados de trata de personas.",
-        "zona": "Baja California",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/06/baja-california-entre-los-estados-con-mas-reportes-de-trata-de-personas-migrantes/",
-        "_added_at": "2026-10-06T18:22:38.916785-07:00"
-      },
-      {
-        "title": "Alertan sobre falsas ofertas de empleo vinculadas con trata",
-        "summary": "Autoridades advierten sobre estafas que enganchan a víctimas potenciales mediante anuncios de trabajo fraudulentos.",
-        "zona": "Tijuana",
         "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/100266/Alertan-por-falsas-ofertas-de-trabajo-que-podr%C3%ADan-estar-relacionadas-con-trata-de-personas",
-        "_added_at": "2026-10-06T18:22:38.916785-07:00"
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/100275/Obtiene-FGE-prisi%C3%B3n-preventiva-para-implicado-en-homicidio-de-Zona-Centro-en-Mexicali",
+        "_added_at": "2026-10-07T01:56:52.004567-07:00"
       },
       {
-        "title": "TSJBC bajo investigación; presidente niega conocimiento",
-        "summary": "El presidente del Tribunal Superior de Justicia de BC asegura desconocer investigaciones en su contra, generando cuestionamientos sobre transparencia institucional.",
-        "zona": "Baja California",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/10/presidente-del-tsjbc-asegura-no-tener-conocimiento-sobre-investigaciones-en-su-contra/?utm_source=rss&utm_medium=rss&utm_campaign=presidente-del-tsjbc-asegura-no-tener-conocimiento-sobre-investigaciones-en-su-contra",
-        "_added_at": "2026-10-06T13:52:18.376592-07:00"
+        "title": "San Felipe reduce delitos de alto impacto en 81 por ciento",
+        "summary": "Municipio de Mexicali logra disminución significativa en incidencia delictiva durante período reciente.",
+        "zona": "Mexicali",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/100274/Logra-San-Felipe-reducci%C3%B3n-del-81%25-en-delitos-de-alto-impacto",
+        "_added_at": "2026-10-07T01:56:52.004567-07:00"
       },
       {
-        "title": "Extorsión creció 50% en Baja California Sur",
-        "summary": "Cifras oficiales muestran incremento significativo en delitos de extorsión durante el período, reflejando deterioro en seguridad pública.",
-        "zona": "Baja California",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/10/extorsion-crecio-50-en-bcs/?utm_source=rss&utm_medium=rss&utm_campaign=extorsion-crecio-50-en-bcs",
-        "_added_at": "2026-10-06T13:52:18.376592-07:00"
-      },
-      {
-        "title": "Contratos estatales con empresas sancionadas por OFAC",
-        "summary": "Dependencias e instancias de BC mantienen contratos con firmas identificadas por autoridades de EU como vinculadas a lavado de dinero.",
-        "zona": "Baja California",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/10/confirman-contratos-entre-dependencias-e-instancias-estatales-con-empresas-senaladas-por-la-ofac/?utm_source=rss&utm_medium=rss&utm_campaign=confirman-contratos-entre-dependencias-e-instancias-estatales-con-empresas-senaladas-por-la-ofac",
-        "_added_at": "2026-10-06T13:52:18.376592-07:00"
-      },
-      {
-        "title": "27 investigaciones abiertas por trata de personas en BC",
-        "summary": "Tijuana concentra carpetas de investigación por trata de personas, delito que se mantiene poco visibilizado en la entidad.",
-        "zona": "Baja California",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/10/06/tijuana-concentra-investigaciones-por-trata-de-personas-hay-27-carpetas-abiertas-en-baja-california/",
-        "_added_at": "2026-10-06T13:52:18.376592-07:00"
-      },
-      {
-        "title": "Botón Morado atiende más de 5 mil reportes en Tijuana",
-        "summary": "Sistema de alerta para mujeres en Tijuana ha registrado más de 5 mil atenciones, demostrando demanda de mecanismos de seguridad.",
+        "title": "Choque de camiones deja dos muertos en Laguna Salada",
+        "summary": "Accidente fatal entre vehículos de carga en carretera de Tijuana cobra dos vidas.",
         "zona": "Tijuana",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/municipios/182578_atienden_en_tijuana_mas_de_5_mil_reportes_a_traves_del_boton_morado",
-        "_added_at": "2026-10-06T13:52:18.376592-07:00"
+        "url": "https://www.afntijuana.info/seguridad/182594_mueren_dos_personas_tras_choque_de_camiones_de_carga_en_la_laguna_salada",
+        "_added_at": "2026-10-07T01:56:52.004567-07:00"
       },
       {
-        "title": "OFAC sanciona a 21 personas y 25 empresas de BC",
-        "summary": "Autoridades estadounidenses identifican red de negocios en Baja California por presunta relación con lavado de dinero.",
+        "title": "Incendio en tráiler en carretera Tijuana-Mexicali",
+        "summary": "Accidente grave entre dos tráileres provoca incendio en vía federal entre ambas ciudades.",
         "zona": "Baja California",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/10/06/cce-pide-investigar-senalamientos-de-ofac-contra-21-personas-y-25-empresas-de-baja-california/",
-        "_added_at": "2026-10-06T13:52:18.376592-07:00"
-      },
-      {
-        "title": "Hallazgo de restos en puente Amarillo con amenazas",
-        "summary": "Descubren restos humanos acompañados de mensaje intimidatorio en estructura vial de Tijuana.",
-        "zona": "Tijuana",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/hallazgo-de-restos-humanos-con-mensaje-de-amenazas-en-el-puente-amarillo/",
-        "_added_at": "2026-10-06T13:52:18.376592-07:00"
+        "source": "TV Azteca BC",
+        "url": "https://www.tvaztecabajacalifornia.com/noticias/video-fuerte-accidente-entre-dos-traileres-provoca-incendio-en-la-tijuana-mexicali/",
+        "_added_at": "2026-10-07T01:56:52.004567-07:00"
       }
     ],
     "politica": [
       {
-        "title": "IEEBC halla difusión irregular en informe de Agatón 2025",
-        "summary": "Instituto Electoral acredita promoción personalizada indebida pero libera a alcaldesa de sanción adicional.",
-        "zona": "Ensenada",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/10/el-ieebc-acredito-difusion-irregular-del-informe-de-agaton-en-2025-y-la-libera-de-promocion-personalizada/",
-        "_added_at": "2026-10-06T18:22:38.916785-07:00"
-      },
-      {
-        "title": "Presidente de tribunal estatal niega investigaciones en su contra",
-        "summary": "Titular del TSJBC asegura desconocer procesos legales abiertos sobre posibles irregularidades.",
+        "title": "Marina del Pilar responde a denuncia del PAN como politiquería",
+        "summary": "Gobernadora rechaza acusaciones de partido opositor calificándolas como maniobra política.",
         "zona": "Baja California",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/10/presidente-del-tsjbc-asegura-no-tener-conocimiento-sobre-investigaciones-en-su-contra/",
-        "_added_at": "2026-10-06T18:22:38.916785-07:00"
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182599_es_politiqueria_responde_marina_del_pilar_a_denuncia_en_su_contra_por_parte_del_pan",
+        "_added_at": "2026-10-07T01:56:52.004567-07:00"
       },
       {
-        "title": "Nuevo Código Civil modifica procedimientos de juicios en Tijuana",
-        "summary": "Reforma legal entra en vigencia con cambios en tramitación de asuntos civiles y familiares.",
+        "title": "Pío López Obrador se destapa para diputado federal 2027",
+        "summary": "Hermano del expresidente anuncia aspiración a candidatura federal para próximas elecciones.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182598_se_destapa_pio_lopez_obrador_para_la_eleccion_del_2027_quiere_ser_diputado_federal",
+        "_added_at": "2026-10-07T01:56:52.004567-07:00"
+      },
+      {
+        "title": "Hallan inconsistencias en propiedades de funcionarios tijuanenses",
+        "summary": "Auditoría detecta discrepancias entre declaraciones patrimoniales y propiedades reales de ex titular de INDIVI y director de CESPM.",
         "zona": "Tijuana",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/100270/Nuevo-C%C3%B3digo-Civil-y-Familiar-modificar%C3%A1-desarrollo-de-juicios-en-Tijuana",
-        "_added_at": "2026-10-06T18:22:38.916785-07:00"
-      },
-      {
-        "title": "IEE ordena retirar anuncio de aspirante a alcaldía en Mexicali",
-        "summary": "Instituto Electoral detiene campaña de presunto candidato por incumplir normativa electoral.",
-        "zona": "Mexicali",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/182588_ordena_el_iee_retirar_anuncio_de_presunto_aspirante_a_la_alcaldia_de_mexicali",
-        "_added_at": "2026-10-06T18:22:38.916785-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/182597_hallan_inconsistencias_en_propiedades_declaradas_por_extitular_del_indivi_y_el_director_de_la_cespm",
+        "_added_at": "2026-10-07T01:56:52.004567-07:00"
       },
       {
-        "title": "Rosarito desconoce contratos con empresas sancionadas por OFAC",
-        "summary": "Alcaldesa niega tener conocimiento de acuerdos con firmas vinculadas a sanciones internacionales.",
-        "zona": "Rosarito",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Rosarito/100269/Desconoce-alcaldesa-contratos-de-Rosarito-con-empresas-sancionadas-por-OFAC,-pese-a-los-reigstros-con-FAMA-e-Inteliproof-Efficient",
-        "_added_at": "2026-10-06T18:22:38.916785-07:00"
-      },
-      {
-        "title": "Empresario Jorge Figueroa niega vínculos con OFAC",
-        "summary": "Empresario desestima acusaciones de conexión con entidades sancionadas por Estados Unidos.",
-        "zona": "Baja California",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Estatal/100267/Empresario-Jorge-Figueroa-niega-v%C3%ADnculo-con-la-OFAC",
-        "_added_at": "2026-10-06T18:22:38.916785-07:00"
-      },
-      {
-        "title": "CCE negocia con CFE para mejorar distribución de energía en BC",
-        "summary": "Consejo Coordinador Empresarial diseña esquema para incrementar suministro eléctrico estatal.",
-        "zona": "Baja California",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/10/cce-trabaja-en-esquema-con-cfe-para-aumentar-distribucion-de-energia-en-bc-lyle/",
-        "_added_at": "2026-10-06T18:22:38.916785-07:00"
-      },
-      {
-        "title": "Estado avanza en acciones contra trata de personas",
-        "summary": "Comisión Interinstitucional implementa programa estatal con 19 estrategias y 42 líneas de acción.",
-        "zona": "Baja California",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/100255/Avanza-Baja-California-en-acciones-contra-la-trata-de-personas",
-        "_added_at": "2026-10-06T18:22:38.916785-07:00"
-      },
-      {
-        "title": "Gobierno de BC suspende contratos con empresas señaladas",
-        "summary": "Autoridades estatales ordenan terminar relaciones comerciales con firmas vinculadas a sanciones internacionales.",
-        "zona": "Baja California",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/182569_ordena_el_gobierno_de_bc_suspender_contratos_con_empresas_senaladas_por_eu",
-        "_added_at": "2026-10-06T13:52:18.376592-07:00"
-      },
-      {
-        "title": "Julieta Ramírez concluye gira con alcaldes de BC",
-        "summary": "Funcionaria estatal consolida coordinación con autoridades municipales en recorrido por entidad.",
-        "zona": "Baja California",
-        "source": "Rada Noticias",
-        "url": "https://radanoticias.info/consolidan-unidad-en-bc-julieta-ramirez-concluye-gira-de-trabajo-con-alcaldes/",
-        "_added_at": "2026-10-06T13:52:18.376592-07:00"
-      },
-      {
-        "title": "Mares solicita licencia en PAN; busca candidatura en La Paz",
-        "summary": "Político perteneciente a partido azul pide permiso para buscar nominación municipal en Baja California Sur.",
-        "zona": "Baja California",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/10/mares-pide-licencia-en-el-pan-buscara-candidatura-por-la-paz/?utm_source=rss&utm_medium=rss&utm_campaign=mares-pide-licencia-en-el-pan-buscara-candidatura-por-la-paz",
-        "_added_at": "2026-10-06T13:52:18.376592-07:00"
-      },
-      {
-        "title": "Escuelas de BC se preparan para restricción de celulares",
-        "summary": "Planteles educativos estatales se alinean con nueva política nacional de prohibición de dispositivos.",
-        "zona": "Baja California",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/10/escuelas-de-bcs-listas-para-alinearse-con-la-restriccion-de-celulares/?utm_source=rss&utm_medium=rss&utm_campaign=escuelas-de-bcs-listas-para-alinearse-con-la-restriccion-de-celulares",
-        "_added_at": "2026-10-06T13:52:18.376592-07:00"
-      },
-      {
-        "title": "Aprueban refinanciamiento de crédito por huracán Odile",
-        "summary": "Autoridades estatales reestructuran financiamiento contractado debido a impacto de fenómeno meteorológico.",
-        "zona": "Baja California",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/10/aprueban-refinanciamiento-de-credito-contratado-tras-impacto-de-odile/?utm_source=rss&utm_medium=rss&utm_campaign=aprueban-refinanciamiento-de-credito-contratado-tras-impacto-de-odile",
-        "_added_at": "2026-10-06T13:52:18.376592-07:00"
-      },
-      {
-        "title": "Burgeño destaca obras federales en Tijuana",
-        "summary": "Funcionario federal resalta inversiones que transforman infraestructura y desarrollo de la ciudad.",
+        "title": "Cuestiona situación de candidatura de Julieta",
+        "summary": "Reportaje analiza posibles riesgos en candidatura de aspirante a cargo público.",
         "zona": "Tijuana",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/06/destaca-ismael-burgueno-obras-federales-que-impulsan-el-desarrollo-y-la-transformacion-de-tijuana/",
-        "_added_at": "2026-10-06T13:52:18.376592-07:00"
-      },
-      {
-        "title": "Inicia cancelación de contratos en gobiernos de Baja California",
-        "summary": "Nuevas administraciones comienzan proceso de revisión y cancelación de convenios previos con proveedores.",
-        "zona": "Baja California",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/afn_politico/182539_y_empieza_la_cancelacion_de_contratos_en_los_gobiernos",
-        "_added_at": "2026-10-06T02:08:17.932093-07:00"
+        "url": "https://www.afntijuana.info/afn_politico/182596_iesta_en_riesgo_la_candidatura_de_julieta",
+        "_added_at": "2026-10-07T01:56:52.004567-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Mexicali genera 42 mil empleos hasta agosto de 2026",
-        "summary": "Capital estatal registra crecimiento laboral significativo según datos del IMSS.",
-        "zona": "Mexicali",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/182582_registro_mexicali_mas_de_42_mil_empleos_hasta_agosto_de_2026_imss",
-        "_added_at": "2026-10-06T18:22:38.916785-07:00"
-      },
-      {
-        "title": "Tijuana como capital de transformación genera 42 mil empleos",
-        "summary": "Municipio reporta dinamismo económico con creación de puestos de trabajo de manera sostenida.",
-        "zona": "Tijuana",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/06/genera-42-mil-empleos-la-capital-de-la-transformacion/",
-        "_added_at": "2026-10-06T18:22:38.916785-07:00"
-      },
-      {
-        "title": "Apagones en Playas de Tijuana causan pérdidas de 200 mil pesos",
-        "summary": "Comerciantes reportan daños económicos severos por interrupción de suministro eléctrico prolongado.",
-        "zona": "Tijuana",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/10/en-playas-van-tres-dias-sin-luz-comerciantes-con-perdidas-de-hasta-200-mil-pesos/",
-        "_added_at": "2026-10-06T18:22:38.916785-07:00"
-      },
-      {
-        "title": "Confianza del consumidor cae 1.2 puntos en septiembre",
-        "summary": "Percepción de familias mexicanas sobre finanzas personales disminuye al frenarse la confianza.",
+        "title": "Aumentan precios en productos para Día de Muertos",
+        "summary": "Comercio reporta incremento en costo de artículos tradicionales para festividad de difuntos.",
         "zona": "Baja California",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/dinero/2026/10/06/la-percepcion-de-las-familias-sobre-sus-finanzas-cayo-12-puntos-en-septiembre-al-frenarse-la-confianza-del-consumidor-en-mexico/",
-        "_added_at": "2026-10-06T13:52:18.376592-07:00"
-      },
-      {
-        "title": "Adopción de IA en empresas de Tijuana supera el 15%",
-        "summary": "Estudio muestra que más de uno de cada diez negocios de la ciudad implementa inteligencia artificial.",
-        "zona": "Tijuana",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/10/06/adopcion-de-ia-en-empresas-de-tijuana-supera-el-15-8-de-cada-10-aun-no-la-usan/",
-        "_added_at": "2026-10-06T13:52:18.376592-07:00"
-      },
-      {
-        "title": "Comerciantes de Playas pierden hasta 200 mil pesos sin electricidad",
-        "summary": "Tres días de apagón en zona turística genera pérdidas económicas significativas para negocios locales.",
-        "zona": "Tijuana",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/10/en-playas-van-tres-dias-sin-luz-comerciantes-con-perdidas-de-hasta-200-mil-pesos/?utm_source=rss&utm_medium=rss&utm_campaign=en-playas-van-tres-dias-sin-luz-comerciantes-con-perdidas-de-hasta-200-mil-pesos",
-        "_added_at": "2026-10-06T13:52:18.376592-07:00"
-      },
-      {
-        "title": "Ensenada refuerza coordinación como destino estratégico de cruceros",
-        "summary": "Puerto trabaja en consolidar infraestructura y servicios para atraer mayor tráfico de cruceros internacionales.",
-        "zona": "Ensenada",
-        "source": "EnsenadaHoy",
-        "url": "https://ensenadahoy.com/noticias/ver/6987",
-        "_added_at": "2026-10-06T02:08:17.932093-07:00"
-      },
-      {
-        "title": "Cuarta edición de Baja Innovation Day enfocada en inteligencia artificial",
-        "summary": "Tijuana celebra evento de innovación tecnológica con énfasis en aplicaciones de IA para empresas locales.",
-        "zona": "Tijuana",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/100226/Celebrar%C3%A1n-la-cuarta-edici%C3%B3n-del-Baja-Innovation-Day-con-enfoque-en-inteligencia-artificial",
-        "_added_at": "2026-10-06T02:08:17.932093-07:00"
+        "source": "TV Azteca BC",
+        "url": "https://www.tvaztecabajacalifornia.com/noticias/dia-de-muertos-pegara-al-bolsillo-aumentan-precios-de-productos/",
+        "_added_at": "2026-10-07T01:56:52.004567-07:00"
       }
     ],
     "eventos": [
       {
-        "title": "Tecate conmemora 14 años como Pueblo Mágico",
-        "summary": "Municipio celebra reconocimiento turístico federal con énfasis en identidad y atractivos locales.",
-        "zona": "Tecate",
-        "source": "Argumento Noticias",
-        "url": "https://argumentonoticias.com/2026/10/06/tecate-conmemora-14-anos-como-pueblo-magico-y-destaca-su-identidad-turistica/",
-        "_added_at": "2026-10-06T18:22:38.916785-07:00"
-      },
-      {
-        "title": "Fiestas del Sol en Mexicali continúan hasta 11 de octubre",
-        "summary": "Festividad regional extenderá actividades culturales y de entretenimiento durante una semana más.",
-        "zona": "Mexicali",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/comunidad/182591_seguiran_las_actividades_de_las_fiestas_del_sol_hasta_el_11_de_octubre_norma_bustamante",
-        "_added_at": "2026-10-06T18:22:38.916785-07:00"
-      },
-      {
-        "title": "Semana de Teatro para Niños inicia en Baja California",
-        "summary": "Evento cultural Ray Garduño XVIII ofrece programación teatral destinada a público infantil.",
-        "zona": "Baja California",
-        "source": "Argumento Noticias",
-        "url": "https://argumentonoticias.com/2026/10/06/inicia-la-semana-de-teatro-para-ninas-y-ninos-baja-california-ray-garduno-xviii/",
-        "_added_at": "2026-10-06T18:22:38.916785-07:00"
-      },
-      {
-        "title": "El Trompo deja organización de Feria de las Californias",
-        "summary": "Cambio de dirección en gestión del evento ferial más importante de la región.",
-        "zona": "Tijuana",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/10/06/el-trompo-deja-organizacion-de-la-feria-de-las-californias/",
-        "_added_at": "2026-10-06T18:22:38.916785-07:00"
-      },
-      {
-        "title": "Tributos de Queen, Guns N' Roses y Bon Jovi en Ensenada",
-        "summary": "Evento \"Live Experiencia\" reúne tres bandas tributo en presentación conjunta en la ciudad.",
+        "title": "Buque Escuela Cuauhtémoc llega a Ensenada",
+        "summary": "Embarcación histórica de la Armada Mexicana arriba a puerto ensenense para actividades de difusión.",
         "zona": "Ensenada",
-        "source": "AGP Noticias",
-        "url": "https://agpnoticias.com/news/tributos-de-queen-guns-n-roses-y-bon-jovi-llegaran-juntos-a-ensenada/",
-        "_added_at": "2026-10-06T13:52:18.376592-07:00"
-      },
-      {
-        "title": "OBC lleva música de cámara a municipios de BC",
-        "summary": "Orquesta estatal presenta conciertos de música clásica en diversos puntos de la entidad.",
-        "zona": "Baja California",
-        "source": "Rada Noticias",
-        "url": "https://radanoticias.info/la-obc-lleva-la-musica-de-camara-a-distintos-municipios-de-bc/",
-        "_added_at": "2026-10-06T13:52:18.376592-07:00"
-      },
-      {
-        "title": "Invitan a participar en \"Carnaval con Causa\"",
-        "summary": "Convocatoria de Tijuana para evento benéfico enfocado en apoyo y sensibilización hacia mujeres.",
-        "zona": "Tijuana",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/182568_invitan_a_participar_en_carnaval_con_causa_en_apoyo_a_mujeres",
-        "_added_at": "2026-10-06T13:52:18.376592-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/182600_llego_a_ensenada_el_buque_escuela_cuauhtemoc",
+        "_added_at": "2026-10-07T01:56:52.004567-07:00"
+      },
+      {
+        "title": "Mantienen Fiestas del Sol en Mexicali con buena asistencia",
+        "summary": "Alcaldesa Norma Bustamante descarta reducción de evento tras verificar concurrencia satisfactoria.",
+        "zona": "Mexicali",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/100259/Descarta-Norma-Bustamante-reducci%C3%B3n-de-Fiestas-del-Sol",
+        "_added_at": "2026-10-07T01:56:52.004567-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Ruta Rosa lleva detección de cáncer de mama a siete municipios",
-        "summary": "Programa de salud pública estatal ofrece mastografías gratuitas en recorrido regional.",
+        "title": "Reportan 62 muertes por calor en Baja California",
+        "summary": "Crisis sanitaria por temperaturas extremas deja saldo trágico en el estado, mayormente fuera de zona costera.",
         "zona": "Baja California",
-        "source": "Argumento Noticias",
-        "url": "https://argumentonoticias.com/2026/10/06/ruta-rosa-llevara-servicios-de-deteccion-de-cancer-de-mama-a-los-siete-municipios/",
-        "_added_at": "2026-10-06T18:22:38.916785-07:00"
-      },
-      {
-        "title": "IMSS instala sistema solar en clínica de detección de cáncer",
-        "summary": "Institución implementa energías renovables en instalación de salud preventiva.",
-        "zona": "Tijuana",
-        "source": "Argumento Noticias",
-        "url": "https://argumentonoticias.com/2026/10/06/imss-instala-sistema-solar-en-clinica-de-deteccion-de-cancer-de-mama-en-tijuana/",
-        "_added_at": "2026-10-06T18:22:38.916785-07:00"
-      },
-      {
-        "title": "Ensenada lanza operativo de recolección de basura urgente",
-        "summary": "Municipio atiende crisis sanitaria de acumulación de residuos con labores de limpieza inmediata.",
-        "zona": "Ensenada",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/182595_la_recoleccion_de_basura_en_ensenada_no_puede_esperar_alejandro_arregui",
-        "_added_at": "2026-10-06T18:22:38.916785-07:00"
-      },
-      {
-        "title": "Incendio forestal en San Vicente afecta 600 hectáreas",
-        "summary": "Siniestro ambiental controlado al 85 por ciento tras operativo de contención.",
-        "zona": "Ensenada",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/tij/ensenada/2026/10/06/incendio-forestal-afecta-600-hectareas-en-san-vicente-reportan-85-de-control/",
-        "_added_at": "2026-10-06T18:22:38.916785-07:00"
-      },
-      {
-        "title": "Agatón refuerza Consejo Municipal de Protección Civil",
-        "summary": "Alcaldesa coordina preparación ante pronóstico de fenómeno El Niño en Ensenada.",
-        "zona": "Ensenada",
-        "source": "EnsenadaHoy",
-        "url": "https://ensenadahoy.com/noticias/ver/698A",
-        "_added_at": "2026-10-06T18:22:38.916785-07:00"
-      },
-      {
-        "title": "CNTE toma oficinas de Educación en Tijuana por impagos",
-        "summary": "Sindicato de maestros ocupa dependencia para presionar resolución de adeudos salariales.",
-        "zona": "Tijuana",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/182584_cnte_toma_oficinas_de_educacion_y_biblioteca_en_tijuana_por_falta_de_pagos",
-        "_added_at": "2026-10-06T18:22:38.916785-07:00"
-      },
-      {
-        "title": "Arrancan obra en Centro de Atención Múltiple Enrique Pestalozzi",
-        "summary": "Alcaldesa Agatón inaugura construcción de instalación para educación especial en Ensenada.",
-        "zona": "Ensenada",
-        "source": "EnsenadaHoy",
-        "url": "https://ensenadahoy.com/noticias/ver/6989",
-        "_added_at": "2026-10-06T18:22:38.916785-07:00"
-      },
-      {
-        "title": "Aumenta acceso a pruebas de cáncer en BC",
-        "summary": "Más mujeres en la entidad acceden a detección temprana de cáncer mediante programas de salud.",
-        "zona": "Baja California",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/182577_aumenta_acceso_de_mujeres_a_pruebas_de_deteccion_de_cancer_en_bc",
-        "_added_at": "2026-10-06T13:52:18.376592-07:00"
-      },
-      {
-        "title": "Abrirán 12 mil 750 consultorios de Servicio Universal en 2027",
-        "summary": "Nuevo sistema de salud proyecta expansión masiva de infraestructura médica a nivel nacional.",
-        "zona": "Tijuana",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/abriran-12-mil-750-consultorios-del-servicio-universal-de-salud-en-2027/",
-        "_added_at": "2026-10-06T13:52:18.376592-07:00"
-      },
-      {
-        "title": "IMSS promueve alimentación saludable para prevenir enfermedades",
-        "summary": "Programa estatal enfatiza importancia de nutrición adecuada en prevención de padecimientos crónicos.",
-        "zona": "Baja California",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/06/promueve-imss-baja-california-alimentacion-saludable-para-prevenir-enfermedades-cronicas/",
-        "_added_at": "2026-10-06T13:52:18.376592-07:00"
-      },
-      {
-        "title": "Suspenden clases en Tijuana por temperaturas extremas",
-        "summary": "Autoridades educativas cierran escuelas durante dos días por calor superior a 40 grados.",
-        "zona": "Tijuana",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/182570_suspenden_clases_presenciales_en_tijuana_este_6_y_7_de_octubre_por_calor",
-        "_added_at": "2026-10-06T13:52:18.376592-07:00"
-      },
-      {
-        "title": "Analizan docentes retos de educación de migrantes",
-        "summary": "Futuros maestros en Tijuana discuten estrategias para atender necesidades de estudiantes migrantes.",
-        "zona": "Tijuana",
         "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/100249/Analizan-futuros-docentes-retos-en-la-educaci%C3%B3n-de-migrantes",
-        "_added_at": "2026-10-06T13:52:18.376592-07:00"
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/100265/Reportan-62-muertos-por-calor-en-Baja-California",
+        "_added_at": "2026-10-07T01:56:52.004567-07:00"
       },
       {
-        "title": "Daylín García busca cobertura universal contra cáncer infantil",
-        "summary": "Diputada promueve aprobación de iniciativa para garantizar tratamiento de cáncer en menores.",
-        "zona": "Baja California",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/daylin-garcia-pide-apoyo-para-aprobar-cobertura-universal-contra-el-cancer-infantil-en-bc/",
-        "_added_at": "2026-10-06T13:52:18.376592-07:00"
+        "title": "Sobrecarga eléctrica por aires en escuelas de Mexicali",
+        "summary": "Secretaría de Educación alerta que instalación de equipos de clima requiere renovación de infraestructura.",
+        "zona": "Mexicali",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/100261/Instalaci%C3%B3n-de-aires-acondicionados-sobrecarga-el-sistema-el%C3%A9ctrico-en-escuelas%3A-SEE",
+        "_added_at": "2026-10-07T01:56:52.004567-07:00"
       },
       {
-        "title": "Mejoramiento de infraestructura deportiva y comunitaria en BC",
-        "summary": "Funcionaria destaca inversiones para modernizar espacios de recreación y actividad física.",
-        "zona": "Baja California",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/06/mejoramiento-y-modernizacion-de-la-infraestructura-deportiva-y-comunitaria-norma-bustamante/",
-        "_added_at": "2026-10-06T13:52:18.376592-07:00"
-      },
-      {
-        "title": "Agua regresa a 81 colonias de Tijuana",
-        "summary": "Servicio se restablece de manera gradual en la ciudad tras interrupciones previas.",
+        "title": "Vecinos denuncian obra inconclusa de CESPT desde 2022",
+        "summary": "Colonos de Saucillos reclaman abandono de proyecto de agua potable iniciado hace dos años.",
         "zona": "Tijuana",
         "source": "TV Azteca BC",
-        "url": "https://www.tvaztecabajacalifornia.com/noticias/a-esta-hora-regresa-el-agua-hoy-pero-solo-a-81-de-las-mas-de-100-colonias-en-tijuana/",
-        "_added_at": "2026-10-06T13:52:18.376592-07:00"
+        "url": "https://www.tvaztecabajacalifornia.com/noticias/vecinos-de-saucillos-denuncian-obra-inconclusa-de-la-cespt-desde-2022/",
+        "_added_at": "2026-10-07T01:56:52.004567-07:00"
       }
     ]
   },
-  "last_updated": "2026-10-06T18:22:38.916785-07:00"
+  "last_updated": "2026-10-07T01:56:52.004567-07:00"
 }
