@@ -1,8 +1,64 @@
 {
   "date": "2026-10-07",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "FGE localiza cinco osamentas en El Sauzal",
+        "summary": "Fiscalía descubre cinco esqueletos en El Sauzal, zona de Tijuana. Investigación en curso sobre identidad y circunstancias de los hallazgos.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/localiza-fge-cinco-osamentas-en-el-sauzal/?utm_source=rss&utm_medium=rss&utm_campaign=localiza-fge-cinco-osamentas-en-el-sauzal",
+        "_added_at": "2026-10-07T18:41:11.832167-07:00"
+      },
+      {
+        "title": "Estudiante de 19 años hiere a nueve con machete en escuela",
+        "summary": "Ataque en institución educativa deja nueve heridos. Adolescente detenido tras agredir a compañeros y personal con arma blanca.",
+        "zona": "Baja California",
+        "source": "TV Azteca BC",
+        "url": "https://www.tvaztecabajacalifornia.com/policiaca/otro-ataque-en-escuela-estudiante-de-19-anos-hiere-a-nueve-personas-con-machete/",
+        "_added_at": "2026-10-07T18:41:11.832167-07:00"
+      },
+      {
+        "title": "Tijuana requiere tres mil policías municipales adicionales",
+        "summary": "Estudio revela déficit crítico en personal de seguridad. Expertos advierten sobre insuficiencia de fuerzas para cobertura municipal efectiva.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182645_requiere_tijuana_mas_de_tres_mil_policias_municipales_adicionales_segun_estudio",
+        "_added_at": "2026-10-07T18:41:11.832167-07:00"
+      },
+      {
+        "title": "Detienen a hombre armado con antecedentes delictivos",
+        "summary": "Captura de dos individuos portando armas de fuego. Ambos registraban historial criminal previo.",
+        "zona": "Tijuana",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/detienen-a-dos-hombres-armados-que-contaban-con-antecedentes-delictivos/",
+        "_added_at": "2026-10-07T18:41:11.832167-07:00"
+      },
+      {
+        "title": "Fiscal ordena aprehensión por fraude y asociación delictuosa",
+        "summary": "FGE ejecuta orden de captura contra sujeto acusado de fraude y delincuencia organizada.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/07/fge-ejecuta-orden-de-aprehension-por-fraude-y-asociacion-delictuosa/",
+        "_added_at": "2026-10-07T18:41:11.832167-07:00"
+      },
+      {
+        "title": "Localizan hombre con narcomensaje del CJNG",
+        "summary": "Cadáver encontrado con mensaje dirigido a célula criminal. Hallazgo evidencia enfrentamiento entre grupos del crimen organizado.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/localizan-hombre-sin-vida-con-narcomensaje-dirigido-al-mecha-corta-del-cjng/?utm_source=rss&utm_medium=rss&utm_campaign=localizan-hombre-sin-vida-con-narcomensaje-dirigido-al-mecha-corta-del-cjng",
+        "_added_at": "2026-10-07T18:41:11.832167-07:00"
+      },
+      {
+        "title": "El Kado permanece preso por otro proceso en Yucatán",
+        "summary": "Narcotraficante continúa en reclusorio federal. Enfrenta cargos adicionales que prolongan su encarcelamiento.",
+        "zona": "Baja California",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/el-kado-seguira-recluido-en-reclusorio-de-yucatan-por-otro-proceso/?utm_source=rss&utm_medium=rss&utm_campaign=el-kado-seguira-recluido-en-reclusorio-de-yucatan-por-otro-proceso",
+        "_added_at": "2026-10-07T18:41:11.832167-07:00"
+      },
       {
         "title": "Incendio forestal en San Vicente afecta 600 hectáreas",
         "summary": "Incendio forestal en San Vicente, Ensenada, fue controlado tras cuatro días de trabajos, afectando aproximadamente 600 hectáreas de terreno.",
@@ -66,41 +122,57 @@
         "source": "TV Azteca BC",
         "url": "https://www.tvaztecabajacalifornia.com/noticias/eu-formaliza-sancion-contra-carlos-torres-y-lo-vincula-oficialmente-con-el-cartel-de-sinaloa/",
         "_added_at": "2026-10-07T01:56:52.004567-07:00"
-      },
-      {
-        "title": "Fiscalía obtiene prisión preventiva por homicidio en Mexicali",
-        "summary": "La FGE aseguró medida cautelar contra presunto responsable de homicidio ocurrido en zona centro de Mexicali.",
-        "zona": "Mexicali",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/100275/Obtiene-FGE-prisi%C3%B3n-preventiva-para-implicado-en-homicidio-de-Zona-Centro-en-Mexicali",
-        "_added_at": "2026-10-07T01:56:52.004567-07:00"
-      },
-      {
-        "title": "San Felipe reduce delitos de alto impacto en 81 por ciento",
-        "summary": "Municipio de Mexicali logra disminución significativa en incidencia delictiva durante período reciente.",
-        "zona": "Mexicali",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/100274/Logra-San-Felipe-reducci%C3%B3n-del-81%25-en-delitos-de-alto-impacto",
-        "_added_at": "2026-10-07T01:56:52.004567-07:00"
-      },
-      {
-        "title": "Choque de camiones deja dos muertos en Laguna Salada",
-        "summary": "Accidente fatal entre vehículos de carga en carretera de Tijuana cobra dos vidas.",
-        "zona": "Tijuana",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/182594_mueren_dos_personas_tras_choque_de_camiones_de_carga_en_la_laguna_salada",
-        "_added_at": "2026-10-07T01:56:52.004567-07:00"
-      },
-      {
-        "title": "Incendio en tráiler en carretera Tijuana-Mexicali",
-        "summary": "Accidente grave entre dos tráileres provoca incendio en vía federal entre ambas ciudades.",
-        "zona": "Baja California",
-        "source": "TV Azteca BC",
-        "url": "https://www.tvaztecabajacalifornia.com/noticias/video-fuerte-accidente-entre-dos-traileres-provoca-incendio-en-la-tijuana-mexicali/",
-        "_added_at": "2026-10-07T01:56:52.004567-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Diputados aprueban Ley Antimemes; oposición alerta riesgos",
+        "summary": "Congreso estatal aprueba en lo general iniciativa controversial. Críticos advierten limitaciones potenciales a libertad de expresión.",
+        "zona": "Baja California",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/diputados-aprueban-en-lo-general-ley-antimemes-oposicion-advierte-riesgos-para-libertad-de-expresion/?utm_source=rss&utm_medium=rss&utm_campaign=diputados-aprueban-en-lo-general-ley-antimemes-oposicion-advierte-riesgos-para-libertad-de-expresion",
+        "_added_at": "2026-10-07T18:41:11.832167-07:00"
+      },
+      {
+        "title": "Congreso aprueba reforma para fortalecer derecho a vivienda",
+        "summary": "Legislatura estatal respalda iniciativa para garantizar acceso a vivienda digna. Reforma busca fortalecer protecciones constitucionales.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/07/aprueba-congreso-reforma-para-fortalecer-el-derecho-a-una-vivienda-diana/",
+        "_added_at": "2026-10-07T18:41:11.832167-07:00"
+      },
+      {
+        "title": "Gobierno atiende planteamientos de colectivos de búsqueda",
+        "summary": "Administración estatal se reúne con grupos de personas desaparecidas. Abordan demandas de justicia y búsqueda de víctimas.",
+        "zona": "Baja California",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/10/07/gobierno-estatal-atiende-planteamientos-de-colectivos-de-busqueda-y-ciudadanos/",
+        "_added_at": "2026-10-07T18:41:11.832167-07:00"
+      },
+      {
+        "title": "Sindicatura revisa acuerdo sobre compensación al SITT",
+        "summary": "Contraloría investiga decisión de Cabildo sobre pagos al sindicato de transportistas. Análisis de legalidad en proceso.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182639_sindicatura_revisa_acuerdo_de_cabildo_sobre_compensacion_al_sitt_balderas",
+        "_added_at": "2026-10-07T18:41:11.832167-07:00"
+      },
+      {
+        "title": "PRI avanza en negociaciones hacia alianzas electorales",
+        "summary": "Tricolor mexicalense busca coaliciones para próximos comicios. Conversaciones avanzan con grupos políticos locales.",
+        "zona": "Mexicali",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/100300/Avanzan-negociaciones-rumbo-alianzas%3A-PRI",
+        "_added_at": "2026-10-07T18:41:11.832167-07:00"
+      },
+      {
+        "title": "MC advierte riesgos en relación bilateral México-Estados Unidos",
+        "summary": "Movimiento Ciudadano señala debilidad en cooperación transfronteriza. Expresa preocupación por falta de coordinación institucional.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182636_advierte_mc_riesgos_en_relacion_de_mexico_y_estados_unidos_por_falta_de_cooperacion",
+        "_added_at": "2026-10-07T18:41:11.832167-07:00"
+      },
       {
         "title": "Gobierno refuerza relación binacional con Estados Unidos",
         "summary": "Administración estatal intensifica vínculos diplomáticos y colaboración con autoridades estadounidenses.",
@@ -176,6 +248,54 @@
     ],
     "economia": [
       {
+        "title": "Canaco pide al ayuntamiento frenar comercio informal",
+        "summary": "Cámara de comercio solicita acciones contra vendedores no registrados. Argumenta competencia desleal y falta de cumplimiento fiscal.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182649_pide_canaco_al_ayuntamiento_frenar_el_comercio_informal_en_tijuana",
+        "_added_at": "2026-10-07T18:41:11.832167-07:00"
+      },
+      {
+        "title": "Tecate apuesta por nuevos parques industriales",
+        "summary": "Municipio impulsa desarrollo de infraestructura industrial. Busca retener inversiones y crear empleos en la zona fronteriza.",
+        "zona": "Tecate",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tecate/100301/Apuesta-Tecate-por-nuevos-parques-industriales-para-retener-inversi%C3%B3n",
+        "_added_at": "2026-10-07T18:41:11.832167-07:00"
+      },
+      {
+        "title": "CESPT alcanza 74 mil metros de bacheo en Tijuana",
+        "summary": "Empresa reparadora cumple meta de pavimentación. Trabajos abarcan Tijuana y Rosarito en programa de mantenimiento vial.",
+        "zona": "Tijuana",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/07/alcanza-cespt-74-mil-metros-cuadrados-de-bacheo-en-tijuana-y-rosarito/",
+        "_added_at": "2026-10-07T18:41:11.832167-07:00"
+      },
+      {
+        "title": "Fenacien y CTC consolidan alianza sindical de 30 mil trabajadores",
+        "summary": "Federaciones obreras unen fuerzas con representación conjunta. Acuerdo amplía poder de negociación en la región.",
+        "zona": "Tijuana",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/100303/Consolidan-FENACIEN-y-CTC-alianza-sindical-con-representaci%C3%B3n-de-30-mil-trabajadores",
+        "_added_at": "2026-10-07T18:41:11.832167-07:00"
+      },
+      {
+        "title": "Apagones por fallas de transmisión frenan inversiones",
+        "summary": "Empresa energética advierte impacto de cortes eléctricos. Señala riesgo para proyectos de desarrollo industrial.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182638_apagones_por_fallas_de_transmision_electrica_frenan_inversiones_epla_energy",
+        "_added_at": "2026-10-07T18:41:11.832167-07:00"
+      },
+      {
+        "title": "Advierten presión en red de distribución eléctrica",
+        "summary": "Autoridades alertan sobre sobrecarga en infraestructura de energía. Demanda crítica por ola de calor agota capacidad disponible.",
+        "zona": "Baja California",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/100302/Advierten-presi%C3%B3n-en-red-de-distribuci%C3%B3n-el%C3%A9ctrica-de-Baja-California",
+        "_added_at": "2026-10-07T18:41:11.832167-07:00"
+      },
+      {
         "title": "Tecate busca atraer industrias por escasez de terrenos",
         "summary": "Municipio de Tecate impulsa atracción de empresas manufactureras ante agotamiento de terrenos disponibles en Tijuana.",
         "zona": "Tijuana",
@@ -226,6 +346,46 @@
     ],
     "eventos": [
       {
+        "title": "Segundo Gran Desfile de Catrines y Catrinas en Ensenada",
+        "summary": "Gobierno local invita a participación en concurso temático. Evento cultural de Día de Muertos con participación comunitaria.",
+        "zona": "Ensenada",
+        "source": "EnsenadaHoy",
+        "url": "https://ensenadahoy.com/noticias/ver/698D",
+        "_added_at": "2026-10-07T18:41:11.832167-07:00"
+      },
+      {
+        "title": "Carrera atlética beneficia a Bomberos de Tecate",
+        "summary": "Evento deportivo recauda fondos para corporación local. Invitan a comunidad a participar en actividad solidaria.",
+        "zona": "Tecate",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182640_anuncian_carrera_atletica_en_beneficio_de_bomberos_de_tecate",
+        "_added_at": "2026-10-07T18:41:11.832167-07:00"
+      },
+      {
+        "title": "Caravana de AAA regresa al Auditorio Municipal",
+        "summary": "Promoción de lucha libre lleva función a sede principal de Tijuana. Presenta luchadores estelares para aficionados.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/caravana-de-aaa-regresa-al-auditorio-municipal/?utm_source=rss&utm_medium=rss&utm_campaign=caravana-de-aaa-regresa-al-auditorio-municipal",
+        "_added_at": "2026-10-07T18:41:11.832167-07:00"
+      },
+      {
+        "title": "Mexicali vive arranque del XXV Festival de Octubre",
+        "summary": "Celebración estatal inicia con presentaciones de teatro y danza. Programación cultural se extiende durante el mes.",
+        "zona": "Mexicali",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/07/mexicali-vive-el-arranque-del-xxv-festival-de-octubre-con-teatro-y-danza/",
+        "_added_at": "2026-10-07T18:41:11.832167-07:00"
+      },
+      {
+        "title": "Actividades preservan memoria histórica de Tijuana",
+        "summary": "Gobierno anuncia iniciativas para difundir patrimonio local. Busca fortalecer identidad cultural y conocimiento ciudadano.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/arte_y_cultura/182648_anuncian_actividades_para_preservar_y_difundir_la_memoria_historica_de_la_ciudad",
+        "_added_at": "2026-10-07T18:41:11.832167-07:00"
+      },
+      {
         "title": "Buque Escuela Cuauhtémoc arriba a Ensenada abre puertas",
         "summary": "Embarcación de la Armada Mexicana llega a puerto de Ensenada como parte del Crucero Pacífico Norte 2026 con acceso al público.",
         "zona": "Ensenada",
@@ -259,6 +419,62 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Fundación impulsa atención médica para menores en BC",
+        "summary": "Organización amplía servicios de salud pediátrica en la entidad. Busca garantizar acceso a cuidados básicos para niños.",
+        "zona": "Baja California",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/100306/Fundaci%C3%B3n-para-los-Ni%C3%B1os-de-las-Californias-impulsa-atenci%C3%B3n-m%C3%A9dica-para-menores-en-Baja-California",
+        "_added_at": "2026-10-07T18:41:11.832167-07:00"
+      },
+      {
+        "title": "Advierten sobre señales de consumo de drogas en menores",
+        "summary": "Autoridades educan sobre indicadores de dependencia juvenil. Campaña preventiva busca alertar a padres y maestros.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/10/07/advierten-sobre-senales-de-consumo-de-sustancias-en-menores/",
+        "_added_at": "2026-10-07T18:41:11.832167-07:00"
+      },
+      {
+        "title": "Ruta Rosa lleva mastografías gratuitas a todos municipios",
+        "summary": "Programa de salud ofrece estudios de cáncer mamario preventivo. Recorre localidades para atender mujeres sin costo.",
+        "zona": "Baja California",
+        "source": "Rada Noticias",
+        "url": "https://radanoticias.info/llevan-ruta-rosa-a-todos-los-municipios-para-mastografias-gratuitas/",
+        "_added_at": "2026-10-07T18:41:11.832167-07:00"
+      },
+      {
+        "title": "Prohibición de celulares en escuelas básicas es cambio cultural",
+        "summary": "Funcionario educativo defiende medida anti-tecnología. Argumenta beneficio pedagógico para concentración estudiantil.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182646_prohibicion_de_celulares_en_escuelas_de_educacion_basica_es_un_cambio_cultural_martinez_manrique",
+        "_added_at": "2026-10-07T18:41:11.832167-07:00"
+      },
+      {
+        "title": "UTT gradúa generación de mil nuevos profesionistas",
+        "summary": "Universidad Tecnológica cumple hito histórico en egresados. Ceremonia marca impulso a educación técnica local.",
+        "zona": "Tijuana",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/2026/10/07/hace-historia-utt-al-graduar-a-generacion-de-mas-de-mil-nuevos-profesionistas/",
+        "_added_at": "2026-10-07T18:41:11.832167-07:00"
+      },
+      {
+        "title": "STPS aborda agenda laboral con restauranteros de Tecate",
+        "summary": "Secretaría del Trabajo dialoga con sector gastronómico. Revisan condiciones laborales y normativa de empleabilidad.",
+        "zona": "Tecate",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/10/07/stps-aborda-agenda-laboral-con-sector-restaurantero-de-tecate/",
+        "_added_at": "2026-10-07T18:41:11.832167-07:00"
+      },
+      {
+        "title": "Mil 400 escuelas de Tijuana sin aire acondicionado",
+        "summary": "Ola de calor afecta instalaciones educativas sin climatización. Autoridades enfrentan crisis por falta de infraestructura.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/10/07/mas-de-mil-400-escuelas-publicas-de-tijuana-operan-sin-aire-acondicionado-ante-ola-de-calor/",
+        "_added_at": "2026-10-07T18:41:11.832167-07:00"
+      },
       {
         "title": "Acusan abuso autoridad y agresiones director Cobach",
         "summary": "Denuncian que director y maestra del Colegio de Bachilleres cometieron presunto abuso de autoridad y agresiones.",
@@ -317,5 +533,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-07T14:08:49.124003-07:00"
+  "last_updated": "2026-10-07T18:41:11.832167-07:00"
 }
