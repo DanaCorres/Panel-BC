@@ -1,8 +1,56 @@
 {
   "date": "2026-10-09",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Juez ordena prisión preventiva para presunto operador del CJNG",
+        "summary": "Autoridad judicial impone medida cautelar al \"Tanque\", acusado de operar para organización criminal en la región.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/juez-impone-prision-preventiva-al-tanque-presunto-operador-del-cjng/?utm_source=rss&utm_medium=rss&utm_campaign=juez-impone-prision-preventiva-al-tanque-presunto-operador-del-cjng",
+        "_added_at": "2026-10-09T13:42:58.367093-07:00"
+      },
+      {
+        "title": "FGE busca a hombre requerido por desaparición en Ensenada",
+        "summary": "Fiscalía emite búsqueda de individuo acusado en caso de desaparición forzada.",
+        "zona": "Ensenada",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/10/09/fge-busca-a-hombre-requerido-por-investigacion-por-desaparicion-en-ensenada/",
+        "_added_at": "2026-10-09T13:42:58.367093-07:00"
+      },
+      {
+        "title": "Destruyen 185 armas y 35 mil cartuchos en campaña de desarme",
+        "summary": "Autoridades aseguran y destruyen arsenal importante como parte de operativo de seguridad.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/10/09/destruyen-185-armas-y-mas-de-35-mil-cartuchos-recolectados-en-campana-de-desarme/",
+        "_added_at": "2026-10-09T13:42:58.367093-07:00"
+      },
+      {
+        "title": "Baja California mantiene primeros lugares en feminicidios",
+        "summary": "Estado continúa entre los con mayor número de asesinatos de mujeres a nivel nacional.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/09/mantiene-bc-primeros-lugares-en-asesinato-de-mujeres-en-mexico/",
+        "_added_at": "2026-10-09T13:42:58.367093-07:00"
+      },
+      {
+        "title": "Condenan a hombre a más de 37 años por homicidio",
+        "summary": "Tribunal sentencia a individuo por delito grave en Baja California.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/09/pasara-mas-de-37-anos-tras-las-rejas-por-homicidio/",
+        "_added_at": "2026-10-09T13:42:58.367093-07:00"
+      },
+      {
+        "title": "Vinculan a proceso por tentativa de femicidio",
+        "summary": "Autoridades formalizan acusación contra imputado en caso de violencia extrema contra mujer.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/09/lo-vinculan-a-proceso-por-tentativa-de-femicidio/",
+        "_added_at": "2026-10-09T13:42:58.367093-07:00"
+      },
       {
         "title": "Diputados impulsan portar armas a policías fuera de horario",
         "summary": "Legisladores buscan reformar la ley para permitir que elementos de policía local lleven armas en su tiempo libre.",
@@ -22,6 +70,46 @@
     ],
     "politica": [
       {
+        "title": "Nuevo titular de la DAU; van tres en administración Burgueño",
+        "summary": "Gobierno municipal de Tijuana cambia nuevamente la dirección de unidad administrativa clave.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/nuevo-titular-de-la-dau-van-tres-en-administracion-de-burgueno/?utm_source=rss&utm_medium=rss&utm_campaign=nuevo-titular-de-la-dau-van-tres-en-administracion-de-burgueno",
+        "_added_at": "2026-10-09T13:42:58.367093-07:00"
+      },
+      {
+        "title": "Eva Rodríguez se registra por MORENA para alcaldía de Mexicali",
+        "summary": "Candidata formaliza inscripción en proceso electoral municipal.",
+        "zona": "Mexicali",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/100391/Eva-Rodr%C3%ADguez--se-registra-por-MORENA-para-la-alcald%C3%ADa-por-Mexicali",
+        "_added_at": "2026-10-09T13:42:58.367093-07:00"
+      },
+      {
+        "title": "Congreso aprueba reforma para combatir nepotismo en servicio público",
+        "summary": "Legisladores bajan iniciativa para frenar prácticas de contratación de familiares.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/09/aprueba-congreso-reforma-para-fortalecer-el-combate-al-nepotismo-en-el-servicio-publico/",
+        "_added_at": "2026-10-09T13:42:58.367093-07:00"
+      },
+      {
+        "title": "Regidora de Ensenada cuestiona gestión de Claudia Agatón",
+        "summary": "Funcionaria local alza críticas sobre desempeño de administración municipal.",
+        "zona": "Ensenada",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/politica/182736_regidora_de_ensenada_senala_deficiencias_en_gobierno_de_claudia_agaton",
+        "_added_at": "2026-10-09T13:42:58.367093-07:00"
+      },
+      {
+        "title": "Defensa de Ruffo Appel busca acreditar falta de funciones operativas",
+        "summary": "Abogados del exfuncionario argumentan ausencia de responsabilidad directa en Ingemar.",
+        "zona": "Baja California",
+        "source": "Milenio",
+        "url": "https://www.milenio.com/estados/defensa-ruffo-buscara-acreditar-que-no-funciones-ingemar",
+        "_added_at": "2026-10-09T13:42:58.367093-07:00"
+      },
+      {
         "title": "Movimiento Ciudadano rechaza alianzas con PAN y PRI",
         "summary": "MC define su posición y descarta negociaciones con los partidos tradicionales para futuras elecciones.",
         "zona": "Baja California",
@@ -40,6 +128,46 @@
     ],
     "economia": [
       {
+        "title": "Estudios técnicos para megapuerto en Punta Colonet avanzan",
+        "summary": "Gobierno inicia evaluaciones de viabilidad y zonificación para proyecto de infraestructura.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182739_realizaran_estudios_tecnicos_y_de_zonificacion_de_megapuerto_en_punta_colonet",
+        "_added_at": "2026-10-09T13:42:58.367093-07:00"
+      },
+      {
+        "title": "Ensenada inicia estudios para aeropuerto internacional",
+        "summary": "Municipio evalúa viabilidad de construcción de terminal aérea.",
+        "zona": "Ensenada",
+        "source": "EnsenadaUno",
+        "url": "https://www.ensenadaunonoticias.info/ensenada-inicia-estudios-para-determinar-la-viabilidad-de-un-aeropuerto-internacional/",
+        "_added_at": "2026-10-09T13:42:58.367093-07:00"
+      },
+      {
+        "title": "Maquiladoras de Tijuana adoptan IA masivamente en operaciones",
+        "summary": "Hasta 90% de plantas utilizan inteligencia artificial para mejorar productividad.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/10/09/hasta-90-de-las-maquiladoras-de-tijuana-ya-utiliza-inteligencia-artificial-en-sus-operaciones/",
+        "_added_at": "2026-10-09T13:42:58.367093-07:00"
+      },
+      {
+        "title": "Cultura BC destina 14.2 millones en compromisos laborales",
+        "summary": "Secretaría asigna recursos presupuestales para obligaciones contractuales.",
+        "zona": "Baja California",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/10/09/cultura-bc-destina-mas-de-14-2-millones-de-pesos-a-compromisos-laborales/",
+        "_added_at": "2026-10-09T13:42:58.367093-07:00"
+      },
+      {
+        "title": "Pescadores de San Felipe protestan por Marina en zonas de pesca",
+        "summary": "Sector reclama interferencia de autoridades militares en actividades tradicionales.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/09/protestan-pescadores-de-san-felipe-por-persecucion-de-la-marina-en-zonas-de-captura/",
+        "_added_at": "2026-10-09T13:42:58.367093-07:00"
+      },
+      {
         "title": "Fraudes inmobiliarios aumentan por falta de regulación",
         "summary": "Sector inmobiliario de Mexicali reporta estafas crecientes debido a vacíos legales en su supervisión.",
         "zona": "Mexicali",
@@ -48,8 +176,73 @@
         "_added_at": "2026-10-09T02:20:19.198156-07:00"
       }
     ],
-    "eventos": [],
+    "eventos": [
+      {
+        "title": "Mexicali llevará gratis a Fiestas del Sol a comités vecinos",
+        "summary": "Gobierno municipal ofrece transporte a residentes para asistir a festividad de la ciudad.",
+        "zona": "Mexicali",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/09/mexicali-llevara-gratis-a-fiestas-del-sol-a-comites-vecinos-del-valle/",
+        "_added_at": "2026-10-09T13:42:58.367093-07:00"
+      },
+      {
+        "title": "Tijuana vive temporada de deporte a dos monedas",
+        "summary": "Ciudad disfruta de actividades de Xolos, Padres de San Diego y eventos de NFL.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182731_tijuana_vive_el_deporte_a_dos_monedas_entre_xolos_los_padres_y_la_nfl",
+        "_added_at": "2026-10-09T13:42:58.367093-07:00"
+      },
+      {
+        "title": "Invitan a taller Círculo de Duelo en Secretaría de las Mujeres",
+        "summary": "Dependencia convoca a participar en actividad de apoyo emocional.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182728_invitan_al_taller_circulo_de_duelo_en_la_secretaria_de_las_mujeres",
+        "_added_at": "2026-10-09T13:42:58.367093-07:00"
+      }
+    ],
     "sociedad": [
+      {
+        "title": "Alumna de Prepa Lázaro Cárdenas cae del segundo piso",
+        "summary": "Incidente en escuela tijuanense genera investigación y movilización de autoridades.",
+        "zona": "Tijuana",
+        "source": "TV Azteca BC",
+        "url": "https://www.tvaztecabajacalifornia.com/noticias/se-cayo-o-la-empujaron-alumna-de-15-anos-cae-del-segundo-piso-de-la-preparatoria-lazaro-cardenas-esto-se-sabe/",
+        "_added_at": "2026-10-09T13:42:58.367093-07:00"
+      },
+      {
+        "title": "Alumnos de Prepa Lázaro Cárdenas denuncian insalubridad y violencia",
+        "summary": "Estudiantes alzan la voz sobre problemas en institución durante su 80 aniversario.",
+        "zona": "Tijuana",
+        "source": "TV Azteca BC",
+        "url": "https://www.tvaztecabajacalifornia.com/noticias/insalubridad-acoso-y-violencia-alumnos-de-la-prepa-lazaro-cardenas-alzan-la-voz-en-su-80-aniversario/",
+        "_added_at": "2026-10-09T13:42:58.367093-07:00"
+      },
+      {
+        "title": "Trabajadores del IMSS en Ensenada exigen aumento del 10%",
+        "summary": "Personal demanda incremento salarial y refuerzo de plantilla laboral.",
+        "zona": "Ensenada",
+        "source": "El Vigía",
+        "url": "https://www.youtube.com/shorts/GwSSQOgH7zQ",
+        "_added_at": "2026-10-09T13:42:58.367093-07:00"
+      },
+      {
+        "title": "CESPE advierte limpiar coladeras ante lluvias en Ensenada",
+        "summary": "Dependencia municipal pide medidas preventivas para evitar inundaciones.",
+        "zona": "Ensenada",
+        "source": "AGP Noticias",
+        "url": "https://agpnoticias.com/news/cespe-pide-mantener-coladeras-limpias-ante-lluvias-previstas-en-ensenada/",
+        "_added_at": "2026-10-09T13:42:58.367093-07:00"
+      },
+      {
+        "title": "Decreto federal busca proteger infancia en plataformas digitales",
+        "summary": "Iniciativa legislativa cuenta con respaldo local para salvaguardar menores en línea.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/09/respaldan-decreto-federal-para-proteger-infancia-en-plataformas-digitales/",
+        "_added_at": "2026-10-09T13:42:58.367093-07:00"
+      },
       {
         "title": "Cortes de luz impactan educación y salud en escuelas tijuanenses",
         "summary": "Niños sufren hasta 15 apagones diarios que afectan clases y el ambiente escolar.",
@@ -84,5 +277,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-09T02:20:19.198156-07:00"
+  "last_updated": "2026-10-09T13:42:58.367093-07:00"
 }
