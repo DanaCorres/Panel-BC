@@ -1,8 +1,32 @@
 {
   "date": "2026-10-08",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Intercambio de bebés en clínica del IMSS sigue en investigación",
+        "summary": "La delegada del IMSS en Mexicali confirma que continúa la investigación por el intercambio de recién nacidos ocurrido en una clínica del instituto.",
+        "zona": "Mexicali",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182703_aun_en_investigacion_el_intercambio_de_bebes_en_clinica_del_imss_en_mexicali_delegada",
+        "_added_at": "2026-10-08T18:54:22.952042-07:00"
+      },
+      {
+        "title": "Localizan sin vida a joven desaparecido en Playas de Rosarito",
+        "summary": "Después de cinco días de búsqueda, fue encontrado sin vida un joven que había desaparecido en Playas de Rosarito.",
+        "zona": "Rosarito",
+        "source": "TV Azteca BC",
+        "url": "https://www.tvaztecabajacalifornia.com/noticias/localizan-sin-vida-a-joven-desaparecido-en-playas-de-rosarito-tras-cinco-dias-de-busqueda/",
+        "_added_at": "2026-10-08T18:54:22.952042-07:00"
+      },
+      {
+        "title": "Fiscalía brinda asesoría en jornada comunitaria en San Quintín",
+        "summary": "La Fiscalía realizó una jornada comunitaria en San Quintín ofreciendo orientación y asesoría a la ciudadanía.",
+        "zona": "San Quintín",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/10/08/fiscalia-brinda-orientacion-y-asesoria-durante-jornada-comunitaria-en-san-quintin/",
+        "_added_at": "2026-10-08T18:54:22.952042-07:00"
+      },
       {
         "title": "Tijuana registra mil robos a negocios en lo que va del año",
         "summary": "De los mil 14 robos a comercios en Tijuana, 484 fueron perpetrados con violencia, reflejando una persistente inseguridad en el sector empresarial.",
@@ -86,6 +110,62 @@
     ],
     "politica": [
       {
+        "title": "Congreso de BC elige por unanimidad nuevo Auditor Superior",
+        "summary": "El Congreso de Baja California designó por unanimidad a Arnulfo Zárate como titular de la Auditoría Superior del Estado.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/estatal/2026/10/08/congreso-de-bc-designa-a-arnulfo-zarate-como-titular-de-la-auditoria-superior-del-estado/",
+        "_added_at": "2026-10-08T18:54:22.952042-07:00"
+      },
+      {
+        "title": "Descartada alianza de Movimiento Ciudadano con PRI y PAN",
+        "summary": "Daylín García descarta posibilidad de alianza electoral entre Movimiento Ciudadano, PRI y PAN en Baja California.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182706_descartada_una_alianza_de_mc_con_el_pri_y_el_pan_daylin_garcia",
+        "_added_at": "2026-10-08T18:54:22.952042-07:00"
+      },
+      {
+        "title": "Verónica Ruffo evalúa candidatura para gubernatura de BC",
+        "summary": "Verónica Ruffo señala que evalúa la posibilidad de buscar la gubernatura de Baja California en próximas elecciones.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182698_evalua_ir_por_gubernatura_de_bc_dice_veronica_ruffo_con_esto_no_se_juega",
+        "_added_at": "2026-10-08T18:54:22.952042-07:00"
+      },
+      {
+        "title": "Agatón anuncia inicio de estudios para aeropuerto de Ensenada",
+        "summary": "La presidenta municipal de Ensenada, Claudia Agatón, anuncia el inicio de estudios de prefactibilidad para un aeropuerto en la ciudad.",
+        "zona": "Ensenada",
+        "source": "EnsenadaHoy",
+        "url": "https://ensenadahoy.com/noticias/ver/6990",
+        "_added_at": "2026-10-08T18:54:22.952042-07:00"
+      },
+      {
+        "title": "Ayuntamiento de Mexicali impugna sentencia del TEJA",
+        "summary": "El Ayuntamiento de Mexicali presentó un recurso de impugnación en contra de una sentencia dictada por el Tribunal Estatal de Justicia Administrativa.",
+        "zona": "Mexicali",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182702_ayuntamiento_de_mexicali_impugna_sentencia_del_teja",
+        "_added_at": "2026-10-08T18:54:22.952042-07:00"
+      },
+      {
+        "title": "Gobierno de Ensenada carece de cartas sobre FAMA que Agatón mencionó",
+        "summary": "Se revela que la administración de Ensenada no cuenta con las cartas de no lavado de dinero que la presidenta municipal aseguró tener sobre FAMA.",
+        "zona": "Ensenada",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/gobierno-de-ensenada-no-tiene-cartas-de-no-lavado-de-dinero-que-agaton-aseguro-tener-sobre-fama/?utm_source=rss&utm_medium=rss&utm_campaign=gobierno-de-ensenada-no-tiene-cartas-de-no-lavado-de-dinero-que-agaton-aseguro-tener-sobre-fama",
+        "_added_at": "2026-10-08T18:54:22.952042-07:00"
+      },
+      {
+        "title": "Ernesto Ruffo llega a su casa en Ensenada tras salir del Altiplano",
+        "summary": "Ernesto Ruffo Appel fue trasladado a su domicilio en Ensenada luego de obtener beneficio de prisión domiciliaria desde el penal del Altiplano.",
+        "zona": "Ensenada",
+        "source": "Milenio",
+        "url": "https://www.milenio.com/estados/ruffo-appel-llega-a-ensenada-tras-salir-altiplano",
+        "_added_at": "2026-10-08T18:54:22.952042-07:00"
+      },
+      {
         "title": "Ricardo Thompson recibe prisión domiciliaria",
         "summary": "Un juzgado otorga prisión domiciliaria a Ricardo Thompson, socio del exgobernador Ernesto Ruffo, acusado en proceso legal pendiente.",
         "zona": "Ensenada",
@@ -152,6 +232,30 @@
     ],
     "economia": [
       {
+        "title": "Baja California captura 4.5 millones de visitantes médicos anuales",
+        "summary": "El estado posiciona al turismo médico como un sector importante de la economía, atrayendo millones de visitantes cada año.",
+        "zona": "Baja California",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/100363/Captura-Baja-California-4.5-millones-de-visitantes-m%C3%A9dicos-anuales",
+        "_added_at": "2026-10-08T18:54:22.952042-07:00"
+      },
+      {
+        "title": "BC promoverá turismo médico en cumbre internacional de longevidad",
+        "summary": "Baja California participará en una cumbre internacional de longevidad para promover inversión e industria de turismo médico.",
+        "zona": "Baja California",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/10/08/baja-california-promovera-turismo-medico-e-inversion-en-cumbre-internacional-de-longevidad/",
+        "_added_at": "2026-10-08T18:54:22.952042-07:00"
+      },
+      {
+        "title": "Tijuana destinó más de mil mdp en pavimentación durante 2026",
+        "summary": "El gobierno municipal de Tijuana invirtió más de mil millones de pesos en obras de pavimentación en lo que va del año.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182697_destinaron_mas_de_mil_mdp_en_obras_de_pavimentacion_en_tijuana_durante_2026",
+        "_added_at": "2026-10-08T18:54:22.952042-07:00"
+      },
+      {
         "title": "Demanda industrial de Tijuana alcanzará 1,208 megawatts",
         "summary": "Análisis prevé un incremento significativo en la demanda energética del sector industrial en Tijuana para próximos periodos.",
         "zona": "Tijuana",
@@ -194,6 +298,54 @@
     ],
     "eventos": [
       {
+        "title": "UTT gradúa generación de más de mil nuevos profesionistas",
+        "summary": "La Universidad Tecnológica de Tijuana celebró la graduación de una promoción que superó el millar de nuevos profesionales.",
+        "zona": "Tijuana",
+        "source": "Rada Noticias",
+        "url": "https://radanoticias.info/hace-historia-utt-al-graduar-a-generacion-de-mas-de-mil-nuevos-profesionistas/",
+        "_added_at": "2026-10-08T18:54:22.952042-07:00"
+      },
+      {
+        "title": "Festival Sabor a San Quintín reúne gastronomía marina y productos",
+        "summary": "Se realizará el Festival Sabor a San Quintín 2026 destacando la gastronomía marina y productos regionales de la zona.",
+        "zona": "San Quintín",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/10/08/festival-sabor-a-san-quintin-2026-reunira-gastronomia-marina-y-productos-regionales/",
+        "_added_at": "2026-10-08T18:54:22.952042-07:00"
+      },
+      {
+        "title": "UABC presenta su Medio Maratón 2026 con premios por 168 mil pesos",
+        "summary": "La Universidad Autónoma de Baja California lanzó la convocatoria para su Medio Maratón 2026 con inscripción y premios.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/10/08/medio-maraton-uabc-2026-fecha-costo-de-inscripcion-ruta-y-168-mil-pesos-en-premios/",
+        "_added_at": "2026-10-08T18:54:22.952042-07:00"
+      },
+      {
+        "title": "Master Class «Noche de Estrellas» será gratuita en Ensenada",
+        "summary": "El gobierno de Ensenada invita a participar en una Master Class de INMUDERE titulada «Noche de Estrellas» sin costo.",
+        "zona": "Ensenada",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/10/08/inmudere-ofrecera-master-class-gratuita-noche-de-estrellas-en-ensenada/",
+        "_added_at": "2026-10-08T18:54:22.952042-07:00"
+      },
+      {
+        "title": "Campaña «Soy México» ofrece registro gratuito en Ensenada y Tecate",
+        "summary": "La campaña nacional «Soy México» brinda la oportunidad de registro gratuito para menores en varias ciudades de BC.",
+        "zona": "Baja California",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/10/08/campana-soy-mexico-ofrece-registro-gratuito-a-menores-en-ensenada-tecate-y-rosarito/",
+        "_added_at": "2026-10-08T18:54:22.952042-07:00"
+      },
+      {
+        "title": "Anuncian tercera Expo Belleza, Salud y Bienestar en Tijuana",
+        "summary": "Se llevará a cabo la tercera edición de la Expo Belleza, Salud y Bienestar en Tijuana con diversos expositores.",
+        "zona": "Tijuana",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/100357/Anuncian-tercera-Expo-Belleza,-Salud-y-Bienestar-en-Tijuana",
+        "_added_at": "2026-10-08T18:54:22.952042-07:00"
+      },
+      {
         "title": "Gobierno de Ensenada avanza hacia ciudad verde y sostenible",
         "summary": "La administración municipal impulsa iniciativas ambientales y de sustentabilidad en el municipio de Ensenada.",
         "zona": "Ensenada",
@@ -211,6 +363,30 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Inicia nuevo ciclo de entrega de tarjetas violeta para jefas de familia",
+        "summary": "El gobierno de BC iniciará una nueva fase de distribución de tarjetas violeta dirigidas a jefas de familia del estado.",
+        "zona": "Baja California",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/100365/Inicia-nueva-etapa-de-entrega-de-tarjetas-violeta-para-jefas-de-familia-de-BC",
+        "_added_at": "2026-10-08T18:54:22.952042-07:00"
+      },
+      {
+        "title": "Ruta Rosa ofrecerá mastografías gratuitas en municipios de BC",
+        "summary": "El programa Ruta Rosa realizará jornadas de mastografía gratuita en varios municipios de Baja California.",
+        "zona": "Baja California",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/10/08/ruta-rosa-ofrecera-mastografias-gratuitas-en-municipios-de-baja-california/",
+        "_added_at": "2026-10-08T18:54:22.952042-07:00"
+      },
+      {
+        "title": "Bomberos de Tijuana reportan afectaciones por apagones y falta de agua",
+        "summary": "Personal de bomberos en Tijuana señala que enfrentan dificultades operativas causadas por cortes de electricidad y desabasto de agua.",
+        "zona": "Tijuana",
+        "source": "TV Azteca BC",
+        "url": "https://www.tvaztecabajacalifornia.com/noticias/sin-luz-en-plena-emergencia-bomberos-de-tijuana-reportan-afectaciones-por-apagones-y-falta-de-agua/",
+        "_added_at": "2026-10-08T18:54:22.952042-07:00"
+      },
       {
         "title": "IMSS modifica procedimiento de pago de incapacidades",
         "summary": "El Instituto Mexicano del Seguro Social cambia sus reglas para el pago de incapacidades a partir de octubre de 2026.",
@@ -277,5 +453,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-08T14:12:30.670560-07:00"
+  "last_updated": "2026-10-08T18:54:22.952042-07:00"
 }
