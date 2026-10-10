@@ -1,8 +1,48 @@
 {
   "date": "2026-10-09",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Condenan a tres hombres por homicidio de surfistas extranjeros",
+        "summary": "Juez declara culpables a tres implicados en el asesinato de surfistas extranjeros ocurrido en Ensenada.",
+        "zona": "Ensenada",
+        "source": "Rada Noticias",
+        "url": "https://radanoticias.info/dictan-fallo-condenatorio-contra-implicados-en-homicidio-de-surfistas-extranjeros/",
+        "_added_at": "2026-10-09T18:36:04.231948-07:00"
+      },
+      {
+        "title": "Más de 1,800 armas aseguradas en Tijuana durante 2026",
+        "summary": "Autoridades reportan decomiso de armas utilizadas en homicidios, robos y otros delitos en la ciudad.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/policiaca/2026/10/09/mas-de-1800-armas-aseguradas-este-ano-en-tijuana-caen-en-homicidios-robos-y-hasta-en-filtros-de-alcoholimetria/",
+        "_added_at": "2026-10-09T18:36:04.231948-07:00"
+      },
+      {
+        "title": "Jornada de desarme voluntario suma 88 mil armas en Tijuana",
+        "summary": "Programa de recolección de armas y artefactos explosivos alcanza cifra significativa en la ciudad.",
+        "zona": "Tijuana",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/desarme-voluntario-suma-mas-de-88-mil-armas-y-artefactos-en-tijuana/",
+        "_added_at": "2026-10-09T18:36:04.231948-07:00"
+      },
+      {
+        "title": "Sentencian a hombre por tráfico de personas y secuestro de migrantes",
+        "summary": "Tribunal condena a operador de red que explotaba y secuestraba migrantes en Tijuana.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/policiaca/2026/10/09/sentencian-a-hombre-por-red-de-trafico-de-personas-y-secuestros-de-migrantes-en-tijuana/",
+        "_added_at": "2026-10-09T18:36:04.231948-07:00"
+      },
+      {
+        "title": "FGE busca a hombre acusado de desaparición forzada",
+        "summary": "Autoridades emite búsqueda de imputado por probable participación en desaparición de persona.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/09/fge-busca-a-un-hombre-acusado-de-desaparicion-forzada/",
+        "_added_at": "2026-10-09T18:36:04.231948-07:00"
+      },
       {
         "title": "Juez ordena prisión preventiva para presunto operador del CJNG",
         "summary": "Autoridad judicial impone medida cautelar al \"Tanque\", acusado de operar para organización criminal en la región.",
@@ -70,6 +110,46 @@
     ],
     "politica": [
       {
+        "title": "Burgueño confirma intención de reelección como presidente municipal",
+        "summary": "Ismael Burgueño anuncia candidatura para renovar mandato en Tijuana en próximos comicios.",
+        "zona": "Tijuana",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/100410/Confirma-Ismael-Burgue%C3%B1o-que-buscar%C3%A1-la-reelecci%C3%B3n-en-Tijuana",
+        "_added_at": "2026-10-09T18:36:04.231948-07:00"
+      },
+      {
+        "title": "Exsenadora León buscará candidatura de Morena a alcaldía de Mexicali",
+        "summary": "Alejandra León se registra como aspirante a la nominación morenista para dirigir municipio.",
+        "zona": "Mexicali",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182755_exsenadora_alejandra_leon_buscara_la_candidatura_de_morena_a_la_alcaldia_de_mexicali",
+        "_added_at": "2026-10-09T18:36:04.231948-07:00"
+      },
+      {
+        "title": "Catalino Zavala busca coordinación de Morena en Tijuana",
+        "summary": "Aspirante se registra oficialmente para competir por liderazgo partidista en la ciudad.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182754_catalino_zavala_se_registro_como_aspirante_a_la_coordinacion_de_morena_en_tijuana",
+        "_added_at": "2026-10-09T18:36:04.231948-07:00"
+      },
+      {
+        "title": "Ramón Vázquez renuncia para contender por alcaldía de Tijuana",
+        "summary": "Funcionario deja cargo público para buscar candidatura a presidencia municipal.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/afn_politico/182749_renuncio_ramon_vazquez_va_por_la_alcaldia",
+        "_added_at": "2026-10-09T18:36:04.231948-07:00"
+      },
+      {
+        "title": "Descarta Mexicali proveedores vinculados a empresas de lista OFAC",
+        "summary": "Ayuntamiento revisa nómina de proveedores para evitar relación con entidades sancionadas.",
+        "zona": "Mexicali",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/100403/Descarta--Ayuntamiento-de-Mexicali-proveedores-vinculados-a-empresas-se%C3%B1aladas-por-la-OFAC",
+        "_added_at": "2026-10-09T18:36:04.231948-07:00"
+      },
+      {
         "title": "Nuevo titular de la DAU; van tres en administración Burgueño",
         "summary": "Gobierno municipal de Tijuana cambia nuevamente la dirección de unidad administrativa clave.",
         "zona": "Tijuana",
@@ -128,6 +208,38 @@
     ],
     "economia": [
       {
+        "title": "Ensenada y California impulsan industria del vino",
+        "summary": "Regiones fronterizas coordinan estrategia para fortalecer sector vitivinícola binacional.",
+        "zona": "Ensenada",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/ensenada-y-california-buscan-impulsar-la-industria-del-vino/",
+        "_added_at": "2026-10-09T18:36:04.231948-07:00"
+      },
+      {
+        "title": "Punta Colonet requerirá estudios de impacto previo a construcción",
+        "summary": "Proyecto de infraestructura portuaria en Mexicali deberá cumplir evaluaciones ambientales.",
+        "zona": "Mexicali",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/100406/Punta-Colonet-tendr%C3%A1-estudios-de-impacto-previo-a-su-construcci%C3%B3n",
+        "_added_at": "2026-10-09T18:36:04.231948-07:00"
+      },
+      {
+        "title": "Food and Travel reconoce 52 proyectos de BC por excelencia turística",
+        "summary": "Iniciativas del estado reciben distinción internacional por calidad en experiencias viajeras.",
+        "zona": "Baja California",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/10/09/food-and-travel-reconoce-a-52-proyectos-de-baja-california-por-su-excelencia-turistica/",
+        "_added_at": "2026-10-09T18:36:04.231948-07:00"
+      },
+      {
+        "title": "Déficit e inflación amenazan economía de universidades del noroeste",
+        "summary": "Instituciones educativas de la región enfrentan presiones financieras por condiciones macroeconómicas.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182750_deficit_e_inflacion_amenazan_la_economia_de_las_universidades_del_noroeste",
+        "_added_at": "2026-10-09T18:36:04.231948-07:00"
+      },
+      {
         "title": "Estudios técnicos para megapuerto en Punta Colonet avanzan",
         "summary": "Gobierno inicia evaluaciones de viabilidad y zonificación para proyecto de infraestructura.",
         "zona": "Baja California",
@@ -178,6 +290,38 @@
     ],
     "eventos": [
       {
+        "title": "Expo CETYS 2026 ofrece orientación educativa en Tijuana",
+        "summary": "Institución educativa realiza feria con stands, charlas y asesoramiento para estudiantes.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/sociales/182742_expo_cetys_2026_stands_charlas_y_orientacion_educativa_en_tijuana",
+        "_added_at": "2026-10-09T18:36:04.231948-07:00"
+      },
+      {
+        "title": "Jornadas de Salud Mental 2026 reúnen especialistas en Mexicali",
+        "summary": "Evento convoca a profesionales para compartir conocimientos sobre atención psicológica.",
+        "zona": "Mexicali",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/10/09/jornadas-de-salud-mental-2026-reunen-a-especialistas-en-mexicali/",
+        "_added_at": "2026-10-09T18:36:04.231948-07:00"
+      },
+      {
+        "title": "Inauguran Congreso Internacional de Capital Humano",
+        "summary": "Evento reúne expertos para analizar gestión de recursos humanos y desarrollo organizacional.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/videos/2026/10/09/inauguran-congreso-internacional-de-capital-humano/",
+        "_added_at": "2026-10-09T18:36:04.231948-07:00"
+      },
+      {
+        "title": "Camila Uribe gana dos oros en para danza deportiva",
+        "summary": "Atleta ensenadense obtiene medallas en competencia nacional representando a Baja California.",
+        "zona": "Ensenada",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/10/09/camila-uribe-gana-dos-oros-en-para-danza-deportiva-para-baja-california/",
+        "_added_at": "2026-10-09T18:36:04.231948-07:00"
+      },
+      {
         "title": "Mexicali llevará gratis a Fiestas del Sol a comités vecinos",
         "summary": "Gobierno municipal ofrece transporte a residentes para asistir a festividad de la ciudad.",
         "zona": "Mexicali",
@@ -203,6 +347,70 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Estudiantes de Cobach Rubén Vizcaíno denuncian irregularidades en recursos",
+        "summary": "Alumnos reclaman mal manejo administrativo de fondos y falta de maestros en plantel.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/estudiantes-de-cobach-ruben-vizcaino-denuncian-irregularidades-en-manejo-de-recursos/?utm_source=rss&utm_medium=rss&utm_campaign=estudiantes-de-cobach-ruben-vizcaino-denuncian-irregularidades-en-manejo-de-recursos",
+        "_added_at": "2026-10-09T18:36:04.231948-07:00"
+      },
+      {
+        "title": "Pacientes con cáncer esperan hasta ocho meses por tratamiento en BC",
+        "summary": "Sistema de salud enfrenta atrasos significativos en atención oncológica para derechohabientes.",
+        "zona": "Baja California",
+        "source": "TV Azteca BC",
+        "url": "https://www.tvaztecabajacalifornia.com/noticias/quien-responde-pacientes-con-cancer-en-bc-esperan-hasta-8-meses-por-tratamiento/",
+        "_added_at": "2026-10-09T18:36:04.231948-07:00"
+      },
+      {
+        "title": "Hospital de Salud Mental atiende más de 350 mil consultas en 18 años",
+        "summary": "Institución reporta cifra acumulada de atenciones psicológicas durante su trayectoria.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/comunidad/182744_mas_de_350_mil_consultas_ha_atendido_el_hospital_de_salud_mental_en_18_anos",
+        "_added_at": "2026-10-09T18:36:04.231948-07:00"
+      },
+      {
+        "title": "Pasajeros denuncian plagas y malos olores en transporte público de Tijuana",
+        "summary": "Usuarios reportan presencia de cucarachas, chinches e higiene deficiente en autobuses.",
+        "zona": "Tijuana",
+        "source": "TV Azteca BC",
+        "url": "https://www.tvaztecabajacalifornia.com/noticias/pasajeros-denuncian-cucarachas-chinches-y-malos-olores-en-el-transporte-publico-de-tijuana/",
+        "_added_at": "2026-10-09T18:36:04.231948-07:00"
+      },
+      {
+        "title": "Alumna cae desde segundo piso en Preparatoria Lázaro Cárdenas",
+        "summary": "Accidente en plantel genera anuncio de medidas de seguridad por autoridades escolares.",
+        "zona": "Tijuana",
+        "source": "TV Azteca BC",
+        "url": "https://www.tvaztecabajacalifornia.com/noticias/cayo-desde-el-segundo-piso-preparatoria-lazaro-cardenas-anuncia-medidas-tras-accidente-de-alumna/",
+        "_added_at": "2026-10-09T18:36:04.231948-07:00"
+      },
+      {
+        "title": "SSCBC lleva acciones de prevención del delito a estudiantes de preparatoria",
+        "summary": "Secretaría ofrece pláticas educativas a mil 200 alumnos sobre reducción de factores de riesgo.",
+        "zona": "Baja California",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/10/09/sscbc-lleva-acciones-de-prevencion-del-delito-a-mil-200-estudiantes-de-preparatoria/",
+        "_added_at": "2026-10-09T18:36:04.231948-07:00"
+      },
+      {
+        "title": "Entregan apoyo económico a familia de niño lesionado por caída de poste",
+        "summary": "Gobierno de Mexicali brinda asistencia a familia del menor que sufrió accidente en vía pública.",
+        "zona": "Mexicali",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/100408/Entregan-apoyo-econ%C3%B3mico-a-familia-de-Elian,-menor-lesionado-tras-caer-poste-sobre-camioneta-en-la-que-viajaba",
+        "_added_at": "2026-10-09T18:36:04.231948-07:00"
+      },
+      {
+        "title": "Ofrecen asesorías psicológicas gratuitas para familias en Tijuana",
+        "summary": "Institución pone a disposición servicios de atención mental sin costo para ciudadanía.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/10/09/ofrecen-asesorias-psicologicas-gratuitas-para-familias-en-tijuana/",
+        "_added_at": "2026-10-09T18:36:04.231948-07:00"
+      },
       {
         "title": "Alumna de Prepa Lázaro Cárdenas cae del segundo piso",
         "summary": "Incidente en escuela tijuanense genera investigación y movilización de autoridades.",
@@ -258,24 +466,8 @@
         "source": "TV Azteca BC",
         "url": "https://www.tvaztecabajacalifornia.com/noticias/estacion-central-de-bomberos-de-tijuana-pasa-12-horas-sin-luz-y-afecta-equipos-de-emergencia/",
         "_added_at": "2026-10-09T02:20:19.198156-07:00"
-      },
-      {
-        "title": "Aguas negras amenazan viviendas en Tijuana",
-        "summary": "Vecinos denuncian fuga de drenaje que pone en riesgo estructuras de sus casas.",
-        "zona": "Tijuana",
-        "source": "TV Azteca BC",
-        "url": "https://www.tvaztecabajacalifornia.com/noticias/temen-que-sus-casas-colapsen-vecinos-denuncian-danos-por-fuga-de-aguas-negras-en-tijuana/",
-        "_added_at": "2026-10-09T02:20:19.198156-07:00"
-      },
-      {
-        "title": "Calle de Tijuana sin reparación por 15 años",
-        "summary": "Vía importante presenta baches y deterioro avanzado sin mantenimiento oficial.",
-        "zona": "Tijuana",
-        "source": "TV Azteca BC",
-        "url": "https://www.tvaztecabajacalifornia.com/noticias/baches-y-deterioro-la-calle-de-tijuana-que-lleva-15-anos-sin-ser-reparada/",
-        "_added_at": "2026-10-09T02:20:19.198156-07:00"
       }
     ]
   },
-  "last_updated": "2026-10-09T13:42:58.367093-07:00"
+  "last_updated": "2026-10-09T18:36:04.231948-07:00"
 }
