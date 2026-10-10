@@ -1,8 +1,40 @@
 {
   "date": "2026-10-10",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Restos humanos hallados con amenazas en Tijuana",
+        "summary": "Autoridades localizan restos en El Florido acompañados de mensajes intimidatorios, evidenciando disputa territorial.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/abandonan-restos-humanos-con-amenazas-en-el-florido/?utm_source=rss&utm_medium=rss&utm_campaign=abandonan-restos-humanos-con-amenazas-en-el-florido",
+        "_added_at": "2026-10-10T12:55:33.010438-07:00"
+      },
+      {
+        "title": "Vinculan a proceso a acusado de homicidio y tentativa",
+        "summary": "Juez ordena prisión preventiva para hombre imputado de homicidio y tentativa de homicidio en Tijuana.",
+        "zona": "Tijuana",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/10/vinculan-a-proceso-a-acusado-de-homicidio-y-tentativa/",
+        "_added_at": "2026-10-10T12:55:33.010438-07:00"
+      },
+      {
+        "title": "Detenido \"El 500\" recibe auto de vinculación a proceso",
+        "summary": "Presunto delincuente permanece en prisión tras ser vinculado formalmente por autoridades de Tijuana.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/el-500-permanecera-en-prision-recibe-auto-de-vinculacion-a-proceso-en-tijuana/?utm_source=rss&utm_medium=rss&utm_campaign=el-500-permanecera-en-prision-recibe-auto-de-vinculacion-a-proceso-en-tijuana",
+        "_added_at": "2026-10-10T12:55:33.010438-07:00"
+      },
+      {
+        "title": "Activista acusa minimización de desapariciones en BC",
+        "summary": "Organizaciones denuncian que autoridades estatales no dan seguimiento adecuado a casos de personas desaparecidas.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182773_acusa_activista_a_autoridades_de_minimizar_desapariciones_en_baja_california",
+        "_added_at": "2026-10-10T12:55:33.010438-07:00"
+      },
       {
         "title": "Baja California entre entidades con más denuncias por trata",
         "summary": "Autoridad reporta que BC registra altos números de denuncias por trata de personas, posicionándola entre las más afectadas a nivel nacional.",
@@ -22,6 +54,14 @@
     ],
     "politica": [
       {
+        "title": "BC aprueba reforma contra nepotismo en administración pública",
+        "summary": "Congreso sanciona nepotismo como falta administrativa para fortalecer combate a corrupción institucional.",
+        "zona": "Baja California",
+        "source": "Rada Noticias / El Mexicano",
+        "url": "https://radanoticias.info/aprueban-reforma-para-fortalecer-combate-al-nepotismo-en-servicio-publico/",
+        "_added_at": "2026-10-10T12:55:33.010438-07:00"
+      },
+      {
         "title": "Exdiputada Eva Rodríguez aspira a coordinación de Morena",
         "summary": "Eva Rodríguez, exdiputada, busca asumir la coordinación de Morena en Mexicali.",
         "zona": "Mexicali",
@@ -39,8 +79,49 @@
       }
     ],
     "economia": [],
-    "eventos": [],
+    "eventos": [
+      {
+        "title": "Rosarito albergará Café en el Mar y simposio de paramotor",
+        "summary": "Municipio organiza eventos de gastronomía y deportes aéreos para noviembre en la localidad.",
+        "zona": "Rosarito",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/rosarito/2026/10/10/rosarito-tendra-cafe-en-el-mar-y-simposio-de-paramotor-en-noviembre/",
+        "_added_at": "2026-10-10T12:55:33.010438-07:00"
+      },
+      {
+        "title": "CEART es sede del XXV Festival de Octubre 2026",
+        "summary": "Centro de Estudios de Artes recibe importante evento cultural con actividades diversas.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/cultura/2026/10/10/ceart-es-sede-del-xxv-festival-de-octubre-2026/",
+        "_added_at": "2026-10-10T12:55:33.010438-07:00"
+      },
+      {
+        "title": "Carrera por concientización sobre cáncer de mama en Ensenada",
+        "summary": "Evento deportivo-solidario busca crear awareness sobre prevención y lucha contra la enfermedad.",
+        "zona": "Ensenada",
+        "source": "El Vigía",
+        "url": "https://www.youtube.com/watch?v=SrcX7sKnpXQ",
+        "_added_at": "2026-10-10T12:55:33.010438-07:00"
+      }
+    ],
     "sociedad": [
+      {
+        "title": "BC suma nueve medallas en Para Atletismo",
+        "summary": "Atletas del estado logran destacado desempeño en segunda jornada de competencias paralímpicas.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/deportes/2026/10/10/suma-bc-nueve-medallas-en-la-segunda-jornada-de-para-atletismo/",
+        "_added_at": "2026-10-10T12:55:33.010438-07:00"
+      },
+      {
+        "title": "Trabajadores del IMSS protestan por falta de insumos",
+        "summary": "Personal sanitario demanda reabastecimiento de medicamentos y equipos en hospital de Tijuana.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/10/10/protestan-trabajadores-del-imss-en-tijuana-por-falta-de-insumos/",
+        "_added_at": "2026-10-10T12:55:33.010438-07:00"
+      },
       {
         "title": "Cocina comunitaria crece en red de apoyo para vulnerables",
         "summary": "Iniciativa de comedor comunitario se expande en Tijuana para asistir a miles de personas en situación vulnerable.",
@@ -67,5 +148,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-10T01:41:38.834119-07:00"
+  "last_updated": "2026-10-10T12:55:33.010438-07:00"
 }
