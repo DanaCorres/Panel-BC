@@ -1,265 +1,87 @@
 {
-  "date": "2026-10-10",
-  "run_count": 3,
+  "date": "2026-10-11",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Sentencian caso de surfistas asesinados en Ensenada",
-        "summary": "Padres de surfistas asesinados en Ensenada expresan dolor tras audiencia de fallo. Dicen que veredicto no puede traer de vuelta a sus hijos.",
+        "title": "Sentencian a responsables de asesinato de surfistas en Ensenada",
+        "summary": "Padres de víctimas asesinadas en 2017 asisten a audiencia de veredicto condenatorio en Ensenada.",
         "zona": "Ensenada",
-        "source": "TJ Comunica",
-        "url": "https://tjcomunica.com/ningun-veredicto-puede-traerlos-de-vuelta-padres-de-los-surfistas-asesinados-en-ensenada-tras-audiencia-de-fallo/",
-        "_added_at": "2026-10-10T17:45:44.958460-07:00"
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Ensenada/100419/%E2%80%9CNing%C3%BAn-veredicto-puede-traerlos-de-vuelta%E2%80%9D%3A-padres-de-los-surfistas-asesinados-en-Ensenada-tras-audiencia-de-fallo",
+        "_added_at": "2026-10-11T02:05:20.909625-07:00"
       },
       {
-        "title": "Thompson Navarro llega a arresto domiciliario",
-        "summary": "Thompson Navarro ingresa a arresto domiciliario en exclusiva privada de Ensenada tras proceso judicial.",
-        "zona": "Ensenada",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/10/thompson-navarro-llega-a-arresto-domiciliario-a-exclusiva-privada-de-ensenada/?utm_source=rss&utm_medium=rss&utm_campaign=thompson-navarro-llega-a-arresto-domiciliario-a-exclusiva-privada-de-ensenada",
-        "_added_at": "2026-10-10T17:45:44.958460-07:00"
+        "title": "Disparan unidad de traslado de valores; trabajador herido",
+        "summary": "Ataque armado contra vehículo de valores en colonia Benton deja a trabajador lesionado.",
+        "zona": "Tijuana",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/100437/Disparan-unidad-de-traslado-de-valores-en-la-colonia-Benton;-trabajador-resulta-lesionado",
+        "_added_at": "2026-10-11T02:05:20.909625-07:00"
       },
       {
-        "title": "Lesionan a custodio de camión de valores en Tijuana",
-        "summary": "Asaltan camión de valores en colonia Benton; custodio resulta lesionado durante el incidente.",
+        "title": "Hallan cadáver en cajuela de hotel en La Mesa",
+        "summary": "Descubren cuerpo sin vida dentro de vehículo estacionado en establecimiento hotelero.",
         "zona": "Tijuana",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/182788_lesionan_a_custodio_de_camion_de_valores_en_la_colonia_benton",
-        "_added_at": "2026-10-10T17:45:44.958460-07:00"
+        "url": "https://www.afntijuana.info/seguridad/182793_hallan_cadaver_en_cajuela_de_vehiculo_dentro_de_hotel_en_la_mesa",
+        "_added_at": "2026-10-11T02:05:20.909625-07:00"
       },
       {
-        "title": "Restos humanos hallados con amenazas en Tijuana",
-        "summary": "Autoridades localizan restos en El Florido acompañados de mensajes intimidatorios, evidenciando disputa territorial.",
-        "zona": "Tijuana",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/10/abandonan-restos-humanos-con-amenazas-en-el-florido/?utm_source=rss&utm_medium=rss&utm_campaign=abandonan-restos-humanos-con-amenazas-en-el-florido",
-        "_added_at": "2026-10-10T12:55:33.010438-07:00"
-      },
-      {
-        "title": "Vinculan a proceso a acusado de homicidio y tentativa",
-        "summary": "Juez ordena prisión preventiva para hombre imputado de homicidio y tentativa de homicidio en Tijuana.",
-        "zona": "Tijuana",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/10/vinculan-a-proceso-a-acusado-de-homicidio-y-tentativa/",
-        "_added_at": "2026-10-10T12:55:33.010438-07:00"
-      },
-      {
-        "title": "Detenido \"El 500\" recibe auto de vinculación a proceso",
-        "summary": "Presunto delincuente permanece en prisión tras ser vinculado formalmente por autoridades de Tijuana.",
-        "zona": "Tijuana",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/10/el-500-permanecera-en-prision-recibe-auto-de-vinculacion-a-proceso-en-tijuana/?utm_source=rss&utm_medium=rss&utm_campaign=el-500-permanecera-en-prision-recibe-auto-de-vinculacion-a-proceso-en-tijuana",
-        "_added_at": "2026-10-10T12:55:33.010438-07:00"
-      },
-      {
-        "title": "Activista acusa minimización de desapariciones en BC",
-        "summary": "Organizaciones denuncian que autoridades estatales no dan seguimiento adecuado a casos de personas desaparecidas.",
-        "zona": "Baja California",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/182773_acusa_activista_a_autoridades_de_minimizar_desapariciones_en_baja_california",
-        "_added_at": "2026-10-10T12:55:33.010438-07:00"
-      },
-      {
-        "title": "Baja California entre entidades con más denuncias por trata",
-        "summary": "Autoridad reporta que BC registra altos números de denuncias por trata de personas, posicionándola entre las más afectadas a nivel nacional.",
-        "zona": "Baja California",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/182756_bc_entre_las_entidades_con_mas_denuncias_por_trata_de_personas_navarro",
-        "_added_at": "2026-10-10T01:41:38.834119-07:00"
-      },
-      {
-        "title": "Ejecutan a hombre a balazos en Villa del Campo",
-        "summary": "Reportan homicidio por arma de fuego en la colonia Villa del Campo de Tijuana.",
+        "title": "Muere joven atropellado; detienen al conductor",
+        "summary": "Persona fallece tras ser atropellada en patín; autoridades capturan al responsable del incidente.",
         "zona": "Tijuana",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/182759_ejecutan_a_balazos_a_un_hombre_en_villa_del_campo",
-        "_added_at": "2026-10-10T01:41:38.834119-07:00"
+        "url": "https://www.afntijuana.info/seguridad/182790_muere_atropellado_joven_en_patin_persiguen_y_detienen_al_responsable",
+        "_added_at": "2026-10-11T02:05:20.909625-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Julieta Ramírez asume liderazgo de MORENA en BC",
-        "summary": "Julieta Ramírez rinde protesta ante Consejo Nacional de MORENA para encabezar nueva etapa de gobierno en Baja California.",
-        "zona": "Baja California",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/10/julieta-ramirez-rinde-protesta-ante-consejo-nacional-de-morena-encabezara-nueva-etapa-de-la-4t-en-bc/",
-        "_added_at": "2026-10-10T17:45:44.958460-07:00"
-      },
-      {
-        "title": "Armando Samaniego busca coordinación de MORENA",
-        "summary": "Armando Samaniego confirma su intención de buscar coordinación de MORENA en Mexicali y presenta registro para candidatura a alcaldía.",
-        "zona": "Mexicali",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/182785_confirma_armando_samaniego_que_buscara_la_coordinacion_de_morena_en_mexicali",
-        "_added_at": "2026-10-10T17:45:44.958460-07:00"
-      },
-      {
-        "title": "Legislatura propone portar armas fuera de servicio",
-        "summary": "Congreso de BC reitera propuesta legislativa para permitir que policías porten armas fuera de su jornada laboral.",
-        "zona": "Baja California",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/10/reitera-legislatura-propuesta-para-permitir-a-policias-portar-armas-fuera-de-servicio/",
-        "_added_at": "2026-10-10T17:45:44.958460-07:00"
-      },
-      {
-        "title": "Encuesta Ensenada 2027: nueve perfiles para alcaldía",
-        "summary": "Sondeo muestra nueve potenciales candidatos con posibilidades para contienda electoral de alcaldía en Ensenada 2027.",
-        "zona": "Ensenada",
-        "source": "E1 Noticias",
-        "url": "https://www.ensenadaunonoticias.info/encuesta-ensenada-2027-estos-son-los-9-perfiles-que-suenan-para-la-alcaldia/",
-        "_added_at": "2026-10-10T17:45:44.958460-07:00"
-      },
-      {
-        "title": "BC aprueba reforma contra nepotismo en administración pública",
-        "summary": "Congreso sanciona nepotismo como falta administrativa para fortalecer combate a corrupción institucional.",
-        "zona": "Baja California",
-        "source": "Rada Noticias / El Mexicano",
-        "url": "https://radanoticias.info/aprueban-reforma-para-fortalecer-combate-al-nepotismo-en-servicio-publico/",
-        "_added_at": "2026-10-10T12:55:33.010438-07:00"
-      },
-      {
-        "title": "Exdiputada Eva Rodríguez aspira a coordinación de Morena",
-        "summary": "Eva Rodríguez, exdiputada, busca asumir la coordinación de Morena en Mexicali.",
-        "zona": "Mexicali",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/182760_exdiputada_eva_rodriguez_buscara_la_coordinacion_de_morena_en_mexicali",
-        "_added_at": "2026-10-10T01:41:38.834119-07:00"
-      },
-      {
-        "title": "Congreso sanciona nepotismo como falta administrativa",
-        "summary": "El Congreso de BC tipifica el nepotismo como infracción administrativa para combatir prácticas corruptas en la administración.",
-        "zona": "Baja California",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Estatal/100399/Sanciona-Congreso-de-BC-nepotismo-como-falta-administrativa",
-        "_added_at": "2026-10-10T01:41:38.834119-07:00"
-      }
-    ],
-    "economia": [
-      {
-        "title": "Reeligen a Octavio Sandoval como presidente del CCE",
-        "summary": "Consejo Coordinador Empresarial de BC reelige a Octavio Sandoval como presidente para nuevo período.",
+        "title": "Morena avanza en alianza para elecciones 2027 con PT y PVEM",
+        "summary": "Aprueba partido ir en coalición invitando a partidos aliados para próximas contiendas electorales.",
         "zona": "Baja California",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/182786_reeligen_a_octavio_sandoval_como_presidente_del_cce_en_el_estado",
-        "_added_at": "2026-10-10T17:45:44.958460-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/182799_aprueba_morena_ir_en_alianza_en_2027_invitan_a_partidos_hermanos_pt_y_pvem",
+        "_added_at": "2026-10-11T02:05:20.909625-07:00"
       },
       {
-        "title": "Empresas proyectan aumentos salariales de 3% a 5%",
-        "summary": "Estudios indican que 67% de empresas en México planea incrementos salariales entre 3% y 5% para 2027.",
+        "title": "PAN perfila candidatura de Verónica Ruffo",
+        "summary": "Partido Nacional de Acción posiciona a actriz como posible candidata para próximas elecciones.",
         "zona": "Baja California",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/dinero/2026/10/10/el-67-por-ciento-de-las-empresas-en-mexico-proyecta-incrementos-salariales-de-entre-3-y-5-para-2027-debido-a-costos-laborales-y-cargas-regulatorias/",
-        "_added_at": "2026-10-10T17:45:44.958460-07:00"
-      },
-      {
-        "title": "Inteligencia artificial impulsa automatización laboral",
-        "summary": "IA acelera procesos de automatización en empresas; expertos advierten sobre riesgos en seguridad de datos.",
-        "zona": "Tijuana",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/100431/Inteligencia-artificial-impulsa-la-automatizaci%C3%B3n,-pero-expertos-advierten-sobre-la-seguridad-de-los-datos",
-        "_added_at": "2026-10-10T17:45:44.958460-07:00"
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/afn_politico/182789_se_perfila_la_candidatura_del_pan_para_veronica_ruffo",
+        "_added_at": "2026-10-11T02:05:20.909625-07:00"
       }
     ],
-    "eventos": [
-      {
-        "title": "Javier Plascencia celebrado en San Diego",
-        "summary": "Chef bajacaliforniano Javier Plascencia es homenajeado en San Diego por su aporte culinario regional.",
-        "zona": "Tijuana",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/10/san-diego-celebra-el-sabor-bajacaliforniano-de-javier-plascencia/?utm_source=rss&utm_medium=rss&utm_campaign=san-diego-celebra-el-sabor-bajacaliforniano-de-javier-plascencia",
-        "_added_at": "2026-10-10T17:45:44.958460-07:00"
-      },
-      {
-        "title": "Carrera IMDET reúne más de 4 mil corredores",
-        "summary": "Séptima Etapa del Serial Atlético Delegacional convoca a más de 4 mil participantes en evento deportivo.",
-        "zona": "Tijuana",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/10/carrera-imdet-10-octubre/?utm_source=rss&utm_medium=rss&utm_campaign=carrera-imdet-10-octubre",
-        "_added_at": "2026-10-10T17:45:44.958460-07:00"
-      },
-      {
-        "title": "Inauguran exposición de Juan Ángel Castillo",
-        "summary": "Galería abre muestra de obras del artista Juan Ángel Castillo en Tijuana.",
-        "zona": "Tijuana",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/10/inauguran-exposicion-de-juan-angel-castillo/?utm_source=rss&utm_medium=rss&utm_campaign=inauguran-exposicion-de-juan-angel-castillo",
-        "_added_at": "2026-10-10T17:45:44.958460-07:00"
-      },
-      {
-        "title": "Rosarito albergará Café en el Mar y simposio de paramotor",
-        "summary": "Municipio organiza eventos de gastronomía y deportes aéreos para noviembre en la localidad.",
-        "zona": "Rosarito",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/tij/rosarito/2026/10/10/rosarito-tendra-cafe-en-el-mar-y-simposio-de-paramotor-en-noviembre/",
-        "_added_at": "2026-10-10T12:55:33.010438-07:00"
-      },
-      {
-        "title": "CEART es sede del XXV Festival de Octubre 2026",
-        "summary": "Centro de Estudios de Artes recibe importante evento cultural con actividades diversas.",
-        "zona": "Baja California",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/cultura/2026/10/10/ceart-es-sede-del-xxv-festival-de-octubre-2026/",
-        "_added_at": "2026-10-10T12:55:33.010438-07:00"
-      },
-      {
-        "title": "Carrera por concientización sobre cáncer de mama en Ensenada",
-        "summary": "Evento deportivo-solidario busca crear awareness sobre prevención y lucha contra la enfermedad.",
-        "zona": "Ensenada",
-        "source": "El Vigía",
-        "url": "https://www.youtube.com/watch?v=SrcX7sKnpXQ",
-        "_added_at": "2026-10-10T12:55:33.010438-07:00"
-      }
-    ],
+    "economia": [],
+    "eventos": [],
     "sociedad": [
       {
-        "title": "Gobierno promueve atención a salud mental",
-        "summary": "Administración estatal impulsa campañas y recursos para atención oportuna de servicios de salud mental.",
-        "zona": "Baja California",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/10/promueve-gobbc-atencion-oportuna-de-la-salud-mental/",
-        "_added_at": "2026-10-10T17:45:44.958460-07:00"
-      },
-      {
-        "title": "BC suma nueve medallas en Para Atletismo",
-        "summary": "Atletas del estado logran destacado desempeño en segunda jornada de competencias paralímpicas.",
-        "zona": "Baja California",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/deportes/2026/10/10/suma-bc-nueve-medallas-en-la-segunda-jornada-de-para-atletismo/",
-        "_added_at": "2026-10-10T12:55:33.010438-07:00"
-      },
-      {
-        "title": "Trabajadores del IMSS protestan por falta de insumos",
-        "summary": "Personal sanitario demanda reabastecimiento de medicamentos y equipos en hospital de Tijuana.",
+        "title": "Falla en sistema de CBP afecta cruces fronterizos principales",
+        "summary": "Problema técnico en controles de Aduanas causa afectaciones en San Ysidro y Otay.",
         "zona": "Tijuana",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/10/10/protestan-trabajadores-del-imss-en-tijuana-por-falta-de-insumos/",
-        "_added_at": "2026-10-10T12:55:33.010438-07:00"
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182794_falla_en_sistema_de_cbp_afecta_cruces_por_san_ysidro_y_otay",
+        "_added_at": "2026-10-11T02:05:20.909625-07:00"
       },
       {
-        "title": "Cocina comunitaria crece en red de apoyo para vulnerables",
-        "summary": "Iniciativa de comedor comunitario se expande en Tijuana para asistir a miles de personas en situación vulnerable.",
-        "zona": "Tijuana",
-        "source": "TV Azteca BC",
-        "url": "https://www.tvaztecabajacalifornia.com/noticias/de-una-cocina-comunitaria-a-una-red-de-apoyo-ayudan-a-miles-de-personas-en-situacion-vulnerable-en-tijuana/",
-        "_added_at": "2026-10-10T01:41:38.834119-07:00"
+        "title": "DSPM realiza operativo de cierre anticipado de bares en Ensenada",
+        "summary": "Autoridades cierran establecimientos con venta de alcohol por medidas preventivas ante tormenta.",
+        "zona": "Ensenada",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Ensenada/100441/Coadyuva-la-DSPM-en-operativo-de-cierre-anticipado-de-bares",
+        "_added_at": "2026-10-11T02:05:20.909625-07:00"
       },
       {
-        "title": "Apagón desde el lunes afecta Centro de Tijuana",
-        "summary": "Corte de electricidad prolongado en zona Centro causa pérdidas significativas a comercios locales.",
+        "title": "Evacuan más de 100 personas de la canalización por tormenta",
+        "summary": "Autoridades rescatan a residentes de zona de riesgo ante llegada de ciclón Rachel.",
         "zona": "Tijuana",
-        "source": "TV Azteca BC",
-        "url": "https://www.tvaztecabajacalifornia.com/noticias/sin-luz-desde-el-lunes-apagon-en-la-zona-centro-de-tijuana-provoca-perdidas-a-comerciantes/",
-        "_added_at": "2026-10-10T01:41:38.834119-07:00"
-      },
-      {
-        "title": "Estudiantes denuncian irregularidades en conmemoración escolar",
-        "summary": "Alumnos aprovechan ceremonia de 80 aniversario de preparatoria para exponer problemas institucionales.",
-        "zona": "Tijuana",
-        "source": "TV Azteca BC",
-        "url": "https://www.tvaztecabajacalifornia.com/noticias/alumnos-de-preparatoria-aprovechan-su-80-aniversario-para-denunciar-irregularidades/",
-        "_added_at": "2026-10-10T01:41:38.834119-07:00"
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182791_evacuan_a_mas_de_100_personas_de_la_canalizacion_por_tormenta_rachel",
+        "_added_at": "2026-10-11T02:05:20.909625-07:00"
       }
     ]
   },
-  "last_updated": "2026-10-10T17:45:44.958460-07:00"
+  "last_updated": "2026-10-11T02:05:20.909625-07:00"
 }
