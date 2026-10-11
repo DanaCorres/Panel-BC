@@ -1,8 +1,48 @@
 {
   "date": "2026-10-11",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Tijuana encabeza desapariciones a nivel nacional",
+        "summary": "Tijuana lidera las estadísticas nacionales de personas desaparecidas, reflejando un problema persistente de seguridad en la ciudad.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182813_tijuana_encabeza_lista_nacional_de_personas_desaparecidas",
+        "_added_at": "2026-10-11T13:06:28.054604-07:00"
+      },
+      {
+        "title": "Ensenada bloquea contratos con empresa ligada al crimen",
+        "summary": "Municipio de Ensenada cancela contratos con empresa vinculada a lavado de dinero y cartel de Sinaloa.",
+        "zona": "Ensenada",
+        "source": "Milenio",
+        "url": "https://www.milenio.com/videos/estados/ensenada-bloquea-contratos-empresa-ligada-cartel-sinaloa",
+        "_added_at": "2026-10-11T13:06:28.054604-07:00"
+      },
+      {
+        "title": "Ataque armado en llantera deja dos muertos en Baja California",
+        "summary": "Tiroteo en establecimiento de llantas causa dos decesos y un herido grave en la región.",
+        "zona": "Baja California",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/100451/Ataque-armado-en-llantera-deja-dos-hombres-sin-vida-y-uno-gravemente-herido",
+        "_added_at": "2026-10-11T13:06:28.054604-07:00"
+      },
+      {
+        "title": "Menor detenido con armas tras tiroteo en Tijuana",
+        "summary": "Adolescente capturado portando pistola y rifle tras dispararle a un hombre en Playas de Tijuana.",
+        "zona": "Tijuana",
+        "source": "TV Azteca BC",
+        "url": "https://www.tvaztecabajacalifornia.com/policiaca/menor-es-detenido-con-pistola-y-rifle-tras-balear-a-un-hombre-en-playas-de-tijuana/",
+        "_added_at": "2026-10-11T13:06:28.054604-07:00"
+      },
+      {
+        "title": "Tres hermanos heridos por ataque armado",
+        "summary": "Adolescentes de 15 años resultan lesionados tras enfrentamiento violento en Baja California.",
+        "zona": "Baja California",
+        "source": "TV Azteca BC",
+        "url": "https://www.tvaztecabajacalifornia.com/policiaca/tres-hermanos-de-15-anos-resultan-heridos-tras-ataque-armado/",
+        "_added_at": "2026-10-11T13:06:28.054604-07:00"
+      },
       {
         "title": "Sentencian a responsables de asesinato de surfistas en Ensenada",
         "summary": "Padres de víctimas asesinadas en 2017 asisten a audiencia de veredicto condenatorio en Ensenada.",
@@ -38,6 +78,38 @@
     ],
     "politica": [
       {
+        "title": "Cuestiona García Ruvalcaba presupuesto municipal en Mexicali",
+        "summary": "Funcionario cuestiona el ejercicio presupuestario del ayuntamiento de Mexicali ante posibles irregularidades.",
+        "zona": "Mexicali",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182815_cuestiona_garcia_ruvalcaba_el_uso_del_presupuesto_en_el_ayuntamiento_de_mexicali",
+        "_added_at": "2026-10-11T13:06:28.054604-07:00"
+      },
+      {
+        "title": "Diputada busca inhabilitar a funcionarios corruptos",
+        "summary": "Legisladora propone reforma para inhabilitar de forma permanente a servidores públicos por corrupción.",
+        "zona": "Mexicali",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/100449/Busca-diputada-inhabilitar-definitivamente-a-funcionarios-que-cometan-acota-de-corrupci%C3%B3n",
+        "_added_at": "2026-10-11T13:06:28.054604-07:00"
+      },
+      {
+        "title": "Reforma avanza sobre consentimiento para datos públicos",
+        "summary": "Legislatura avanza en reforma que regula el uso y consentimiento de datos personales en el sector público.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/farandula/2026/10/11/avanza-reforma-sobre-consentimiento-para-el-uso-de-datos-publicos/",
+        "_added_at": "2026-10-11T13:06:28.054604-07:00"
+      },
+      {
+        "title": "Posible alza al predial advierte Silva con despojos en BC",
+        "summary": "Funcionario advierte sobre posible incremento en contribución predial y destaca casos de despojos en la entidad.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182808_posible_alza_al_predial_advierte_silva_destaca_despojos_en_bc",
+        "_added_at": "2026-10-11T13:06:28.054604-07:00"
+      },
+      {
         "title": "Morena avanza en alianza para elecciones 2027 con PT y PVEM",
         "summary": "Aprueba partido ir en coalición invitando a partidos aliados para próximas contiendas electorales.",
         "zona": "Baja California",
@@ -54,9 +126,34 @@
         "_added_at": "2026-10-11T02:05:20.909625-07:00"
       }
     ],
-    "economia": [],
+    "economia": [
+      {
+        "title": "Secretaría del Trabajo anuncia vacantes en Mexicali",
+        "summary": "Dependencia federal promueve oportunidades de empleo en la capital de Baja California.",
+        "zona": "Mexicali",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182801_secretaria_del_trabajo_anuncia_vacantes_para_mexicali",
+        "_added_at": "2026-10-11T13:06:28.054604-07:00"
+      }
+    ],
     "eventos": [],
     "sociedad": [
+      {
+        "title": "Baja California concluye Paralimpiada Nacional con 101 medallas",
+        "summary": "Entidad cierra participación en Paralimpiada Nacional con desempeño destacado en deportes adaptados.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/deportes/2026/10/11/concluye-bc-la-paralimpiada-nacional-con-101-medallas/",
+        "_added_at": "2026-10-11T13:06:28.054604-07:00"
+      },
+      {
+        "title": "Menores infractores requieren atención, no penas severas",
+        "summary": "Abogada enfatiza necesidad de enfoque rehabilitador para adolescentes infractores en lugar de castigos más duros.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182814_menores_infractores_deben_recibir_mayor_atencion_no_penas_mas_severas_abogada",
+        "_added_at": "2026-10-11T13:06:28.054604-07:00"
+      },
       {
         "title": "Falla en sistema de CBP afecta cruces fronterizos principales",
         "summary": "Problema técnico en controles de Aduanas causa afectaciones en San Ysidro y Otay.",
@@ -83,5 +180,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-11T02:05:20.909625-07:00"
+  "last_updated": "2026-10-11T13:06:28.054604-07:00"
 }
