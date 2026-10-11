@@ -1,8 +1,32 @@
 {
   "date": "2026-10-10",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Sentencian caso de surfistas asesinados en Ensenada",
+        "summary": "Padres de surfistas asesinados en Ensenada expresan dolor tras audiencia de fallo. Dicen que veredicto no puede traer de vuelta a sus hijos.",
+        "zona": "Ensenada",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/ningun-veredicto-puede-traerlos-de-vuelta-padres-de-los-surfistas-asesinados-en-ensenada-tras-audiencia-de-fallo/",
+        "_added_at": "2026-10-10T17:45:44.958460-07:00"
+      },
+      {
+        "title": "Thompson Navarro llega a arresto domiciliario",
+        "summary": "Thompson Navarro ingresa a arresto domiciliario en exclusiva privada de Ensenada tras proceso judicial.",
+        "zona": "Ensenada",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/thompson-navarro-llega-a-arresto-domiciliario-a-exclusiva-privada-de-ensenada/?utm_source=rss&utm_medium=rss&utm_campaign=thompson-navarro-llega-a-arresto-domiciliario-a-exclusiva-privada-de-ensenada",
+        "_added_at": "2026-10-10T17:45:44.958460-07:00"
+      },
+      {
+        "title": "Lesionan a custodio de camión de valores en Tijuana",
+        "summary": "Asaltan camión de valores en colonia Benton; custodio resulta lesionado durante el incidente.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/182788_lesionan_a_custodio_de_camion_de_valores_en_la_colonia_benton",
+        "_added_at": "2026-10-10T17:45:44.958460-07:00"
+      },
       {
         "title": "Restos humanos hallados con amenazas en Tijuana",
         "summary": "Autoridades localizan restos en El Florido acompañados de mensajes intimidatorios, evidenciando disputa territorial.",
@@ -54,6 +78,38 @@
     ],
     "politica": [
       {
+        "title": "Julieta Ramírez asume liderazgo de MORENA en BC",
+        "summary": "Julieta Ramírez rinde protesta ante Consejo Nacional de MORENA para encabezar nueva etapa de gobierno en Baja California.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/10/julieta-ramirez-rinde-protesta-ante-consejo-nacional-de-morena-encabezara-nueva-etapa-de-la-4t-en-bc/",
+        "_added_at": "2026-10-10T17:45:44.958460-07:00"
+      },
+      {
+        "title": "Armando Samaniego busca coordinación de MORENA",
+        "summary": "Armando Samaniego confirma su intención de buscar coordinación de MORENA en Mexicali y presenta registro para candidatura a alcaldía.",
+        "zona": "Mexicali",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182785_confirma_armando_samaniego_que_buscara_la_coordinacion_de_morena_en_mexicali",
+        "_added_at": "2026-10-10T17:45:44.958460-07:00"
+      },
+      {
+        "title": "Legislatura propone portar armas fuera de servicio",
+        "summary": "Congreso de BC reitera propuesta legislativa para permitir que policías porten armas fuera de su jornada laboral.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/10/reitera-legislatura-propuesta-para-permitir-a-policias-portar-armas-fuera-de-servicio/",
+        "_added_at": "2026-10-10T17:45:44.958460-07:00"
+      },
+      {
+        "title": "Encuesta Ensenada 2027: nueve perfiles para alcaldía",
+        "summary": "Sondeo muestra nueve potenciales candidatos con posibilidades para contienda electoral de alcaldía en Ensenada 2027.",
+        "zona": "Ensenada",
+        "source": "E1 Noticias",
+        "url": "https://www.ensenadaunonoticias.info/encuesta-ensenada-2027-estos-son-los-9-perfiles-que-suenan-para-la-alcaldia/",
+        "_added_at": "2026-10-10T17:45:44.958460-07:00"
+      },
+      {
         "title": "BC aprueba reforma contra nepotismo en administración pública",
         "summary": "Congreso sanciona nepotismo como falta administrativa para fortalecer combate a corrupción institucional.",
         "zona": "Baja California",
@@ -78,8 +134,57 @@
         "_added_at": "2026-10-10T01:41:38.834119-07:00"
       }
     ],
-    "economia": [],
+    "economia": [
+      {
+        "title": "Reeligen a Octavio Sandoval como presidente del CCE",
+        "summary": "Consejo Coordinador Empresarial de BC reelige a Octavio Sandoval como presidente para nuevo período.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182786_reeligen_a_octavio_sandoval_como_presidente_del_cce_en_el_estado",
+        "_added_at": "2026-10-10T17:45:44.958460-07:00"
+      },
+      {
+        "title": "Empresas proyectan aumentos salariales de 3% a 5%",
+        "summary": "Estudios indican que 67% de empresas en México planea incrementos salariales entre 3% y 5% para 2027.",
+        "zona": "Baja California",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/dinero/2026/10/10/el-67-por-ciento-de-las-empresas-en-mexico-proyecta-incrementos-salariales-de-entre-3-y-5-para-2027-debido-a-costos-laborales-y-cargas-regulatorias/",
+        "_added_at": "2026-10-10T17:45:44.958460-07:00"
+      },
+      {
+        "title": "Inteligencia artificial impulsa automatización laboral",
+        "summary": "IA acelera procesos de automatización en empresas; expertos advierten sobre riesgos en seguridad de datos.",
+        "zona": "Tijuana",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/100431/Inteligencia-artificial-impulsa-la-automatizaci%C3%B3n,-pero-expertos-advierten-sobre-la-seguridad-de-los-datos",
+        "_added_at": "2026-10-10T17:45:44.958460-07:00"
+      }
+    ],
     "eventos": [
+      {
+        "title": "Javier Plascencia celebrado en San Diego",
+        "summary": "Chef bajacaliforniano Javier Plascencia es homenajeado en San Diego por su aporte culinario regional.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/san-diego-celebra-el-sabor-bajacaliforniano-de-javier-plascencia/?utm_source=rss&utm_medium=rss&utm_campaign=san-diego-celebra-el-sabor-bajacaliforniano-de-javier-plascencia",
+        "_added_at": "2026-10-10T17:45:44.958460-07:00"
+      },
+      {
+        "title": "Carrera IMDET reúne más de 4 mil corredores",
+        "summary": "Séptima Etapa del Serial Atlético Delegacional convoca a más de 4 mil participantes en evento deportivo.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/carrera-imdet-10-octubre/?utm_source=rss&utm_medium=rss&utm_campaign=carrera-imdet-10-octubre",
+        "_added_at": "2026-10-10T17:45:44.958460-07:00"
+      },
+      {
+        "title": "Inauguran exposición de Juan Ángel Castillo",
+        "summary": "Galería abre muestra de obras del artista Juan Ángel Castillo en Tijuana.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/inauguran-exposicion-de-juan-angel-castillo/?utm_source=rss&utm_medium=rss&utm_campaign=inauguran-exposicion-de-juan-angel-castillo",
+        "_added_at": "2026-10-10T17:45:44.958460-07:00"
+      },
       {
         "title": "Rosarito albergará Café en el Mar y simposio de paramotor",
         "summary": "Municipio organiza eventos de gastronomía y deportes aéreos para noviembre en la localidad.",
@@ -106,6 +211,14 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Gobierno promueve atención a salud mental",
+        "summary": "Administración estatal impulsa campañas y recursos para atención oportuna de servicios de salud mental.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/10/promueve-gobbc-atencion-oportuna-de-la-salud-mental/",
+        "_added_at": "2026-10-10T17:45:44.958460-07:00"
+      },
       {
         "title": "BC suma nueve medallas en Para Atletismo",
         "summary": "Atletas del estado logran destacado desempeño en segunda jornada de competencias paralímpicas.",
@@ -148,5 +261,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-10T12:55:33.010438-07:00"
+  "last_updated": "2026-10-10T17:45:44.958460-07:00"
 }
