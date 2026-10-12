@@ -1,9 +1,130 @@
 {
   "date": "2026-10-12",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
-    "seguridad": [],
+    "seguridad": [
+      {
+        "title": "Decomisan 1.2 toneladas de cocaína en lanchas",
+        "summary": "Autoridades aseguran droga trasladada por mar en operativo contra tráfico de narcóticos en aguas de Baja California.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/nacionales/182865_decomisan_1_2_toneladas_de_cocaina_trasladada_en_lanchas",
+        "_added_at": "2026-10-12T15:50:00.593241-07:00"
+      },
+      {
+        "title": "Diputado del PAN supervisa investigación contra Marina",
+        "summary": "Legislador anuncia seguimiento a denuncia contra funcionarios de la Secretaría de Marina por presuntas irregularidades.",
+        "zona": "Baja California",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/estaremos-encima-de-la-fiscalia-diputado-del-pan-sobre-denuncia-contra-marina/?utm_source=rss&utm_medium=rss&utm_campaign=estaremos-encima-de-la-fiscalia-diputado-del-pan-sobre-denuncia-contra-marina",
+        "_added_at": "2026-10-12T15:50:00.593241-07:00"
+      },
+      {
+        "title": "Periodista agredido; APT exige captura de atacantes",
+        "summary": "Organización de prensa denuncia agresión a reportero y pide a fiscalía detener responsables del ataque.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182863_exige_la_apt_a_la_fge_detener_agresores_de_periodista_de_afn",
+        "_added_at": "2026-10-12T15:50:00.593241-07:00"
+      },
+      {
+        "title": "Sujetos armados irrumpen en casa de reportero en Tecate",
+        "summary": "Hombres armados ingresaron a domicilio de comunicólogo que volaba dron, intimidando al profesional.",
+        "zona": "Tecate",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/irrumpen-sujetos-armados-en-casa-de-reportero-en-tecate-por-volar-dron/?utm_source=rss&utm_medium=rss&utm_campaign=irrumpen-sujetos-armados-en-casa-de-reportero-en-tecate-por-volar-dron",
+        "_added_at": "2026-10-12T15:50:00.593241-07:00"
+      },
+      {
+        "title": "Rescatan tres cuerpos de ocho personas arrastradas",
+        "summary": "Equipos de emergencia recuperan cadáveres de víctimas de torrentes causados por lluvias intensas en la región.",
+        "zona": "Ensenada",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182860_recuperan_tres_cadaveres_de_ocho_personas_que_fueron_arrastradas_por_arroyo",
+        "_added_at": "2026-10-12T15:50:00.593241-07:00"
+      },
+      {
+        "title": "FGE localiza a 39 personas reportadas desaparecidas",
+        "summary": "Fiscalía General del Estado ubica a ciudadanos que habían sido reportados como desaparecidos en Baja California.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/12/localiza-fge-a-39-personas-reportadas-como-desaparecidas/",
+        "_added_at": "2026-10-12T15:50:00.593241-07:00"
+      },
+      {
+        "title": "Tijuana encabeza municipios con más desapariciones",
+        "summary": "Ciudad lidera ranking nacional de los cien municipios con mayor cantidad de casos de personas desaparecidas.",
+        "zona": "Tijuana",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/12/tijuana-encabeza-lista-de-los-100-municipios-con-mas-desapariciones-en-mexico/",
+        "_added_at": "2026-10-12T15:50:00.593241-07:00"
+      },
+      {
+        "title": "Empresario Jesús Molina aparece con vida tras secuestro",
+        "summary": "Hombre privado de la libertad es localizado vivo días después de su desaparición en Baja California.",
+        "zona": "Baja California",
+        "source": "Milenio",
+        "url": "https://www.milenio.com/videos/estados/empresario-jesus-molina-aparece-vida-privado-libertad-baja-california",
+        "_added_at": "2026-10-12T15:50:00.593241-07:00"
+      }
+    ],
     "politica": [
+      {
+        "title": "Ola de registros de Morena para alcaldía de Mexicali",
+        "summary": "Múltiples aspirantes de Morena buscan candidatura a presidencia municipal de Mexicali en próximas elecciones.",
+        "zona": "Mexicali",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/ola-de-registros-de-morena-en-busca-de-alcaldia-de-mexicali/?utm_source=rss&utm_medium=rss&utm_campaign=ola-de-registros-de-morena-en-busca-de-alcaldia-de-mexicali",
+        "_added_at": "2026-10-12T15:50:00.593241-07:00"
+      },
+      {
+        "title": "Civiles increpa al gobernador Castro por seguridad",
+        "summary": "Ciudadanos confrontan al gobernador durante evento público para exigir acciones contra violencia en el estado.",
+        "zona": "Baja California",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/asesinos-civiles-increpan-al-gobernador-victor-castro-durante-el-festival-del-maiz-en-cabo-san-lucas/?utm_source=rss&utm_medium=rss&utm_campaign=asesinos-civiles-increpan-al-gobernador-victor-castro-durante-el-festival-del-maiz-en-cabo-san-lucas",
+        "_added_at": "2026-10-12T15:50:00.593241-07:00"
+      },
+      {
+        "title": "Bonilla abierto a alianza con Morena, rechaza a Marina",
+        "summary": "Político no descarta alianza con Morena pero rechaza colaboración con Marina, expresa posición para elecciones.",
+        "zona": "Baja California",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/bonilla-no-se-cierra-a-alianza-con-morena-pero-no-quiero-nada-con-marina-dice/?utm_source=rss&utm_medium=rss&utm_campaign=bonilla-no-se-cierra-a-alianza-con-morena-pero-no-quiero-nada-con-marina-dice",
+        "_added_at": "2026-10-12T15:50:00.593241-07:00"
+      },
+      {
+        "title": "Sosa Alaffita promete no crear nuevos impuestos",
+        "summary": "Funcionario afirma que administración no gravará con impuestos adicionales a contribuyentes de la región.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182861_no_habra_nuevos_impuestos_para_los_contribuyentes_afirma_sosa_alaffita",
+        "_added_at": "2026-10-12T15:50:00.593241-07:00"
+      },
+      {
+        "title": "Michel Sánchez propone programa para cuidadoras",
+        "summary": "Legislador presenta iniciativa para crear programa social destinado a personas que trabajan como cuidadoras sin remuneración.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/12/propone-michel-sanchez-crear-programa-social-para-personas-cuidadoras-no-remuneradas/",
+        "_added_at": "2026-10-12T15:50:00.593241-07:00"
+      },
+      {
+        "title": "Exhortan al alcalde Cota a cobrar predial sin privilegios",
+        "summary": "Ciudadanos y legisladores piden a autoridad municipal aplicar cobro de impuesto predial de forma equitativa.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/estatal/2026/10/12/exhortan-a-alcalde-roman-cota-a-cobrar-predial-sin-privilegios/",
+        "_added_at": "2026-10-12T15:50:00.593241-07:00"
+      },
+      {
+        "title": "Nuevo comandante interino de II Región Militar toma cargo",
+        "summary": "General Jorge Pedro Nieto asume mando de la II Región Militar en Baja California de forma provisional.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182853_asume_general_jorge_pedro_nieto_la_comandancia_interina_de_la_ii_region_militar_en_bc",
+        "_added_at": "2026-10-12T15:50:00.593241-07:00"
+      },
       {
         "title": "Diputado impulsa inhabilitación permanente por corrupción",
         "summary": "Iniciativa busca inhabilitar de forma definitiva a funcionarios públicos que cometan actos de corrupción en Baja California.",
@@ -13,9 +134,131 @@
         "_added_at": "2026-10-12T02:28:01.345833-07:00"
       }
     ],
-    "economia": [],
-    "eventos": [],
+    "economia": [
+      {
+        "title": "Apagones causan pérdidas superiores a 1 millón en restaurantes",
+        "summary": "Cortes de electricidad afectan ventas del 95% de establecimientos consultados; comerciantes cuantifican daños significativos.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182864_apagones_dejan_perdidas_por_mas_de_1mdp_a_restaurantes_canirac_tijuana",
+        "_added_at": "2026-10-12T15:50:00.593241-07:00"
+      },
+      {
+        "title": "El Florido lanza marca propia de productos básicos",
+        "summary": "Empresa comercial crea línea de abarrotes y carnes con marca registrada para ampliar oferta de canasta básica.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/el-florido-abarrotes-y-carnes-lanza-su-marca-de-productos-de-la-canasta-basica/?utm_source=rss&utm_medium=rss&utm_campaign=el-florido-abarrotes-y-carnes-lanza-su-marca-de-productos-de-la-canasta-basica",
+        "_added_at": "2026-10-12T15:50:00.593241-07:00"
+      },
+      {
+        "title": "Revocan 600 visas a transportistas de carga de BC",
+        "summary": "Autoridades estadounidenses cancelan documentos de circulación a operadores de vehículos de transporte de mercancías.",
+        "zona": "Baja California",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/10/12/revocan-600-visas-a-transportistas-de-carga-en-baja-california/",
+        "_added_at": "2026-10-12T15:50:00.593241-07:00"
+      },
+      {
+        "title": "Foro impulsa cumplimiento normativo en comercio exterior",
+        "summary": "Organizaciones del sector aduanal y fiscal se reúnen para reforzar estándares de regulación en importaciones y exportaciones.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/12/busca-foro-de-comercio-exterior-y-fiscal-fortalecer-cumplimiento-normativo-en-el-sector/",
+        "_added_at": "2026-10-12T15:50:00.593241-07:00"
+      },
+      {
+        "title": "CCE urge declaratoria de zona de desastre para Ensenada",
+        "summary": "Consejo Coordinador Empresarial solicita declaración oficial para acceder a apoyos por daños de tormenta tropical.",
+        "zona": "Ensenada",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182854_urge_se_gestione_declaratoria_de_zona_de_desastre_para_ensenada_cce",
+        "_added_at": "2026-10-12T15:50:00.593241-07:00"
+      }
+    ],
+    "eventos": [
+      {
+        "title": "Ópera de Tijuana llega a Paseo del Parque",
+        "summary": "Compañía de ópera presenta función en espacio público para promover artes escénicas y acceso a la cultura.",
+        "zona": "Tijuana",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/100502/Llega-%C3%93pera-de-Tijuana-a-Paseo-del-Parque-para-promover-el-arte-y-la-cultura",
+        "_added_at": "2026-10-12T15:50:00.593241-07:00"
+      },
+      {
+        "title": "Festival de Luces de Cantoya cancelado por impacto ambiental",
+        "summary": "Autoridades niegan permisos al evento anual por evaluación de daño ecológico; organizadores desisten de celebración.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/niegan-permisos-a-festival-de-luces-de-cantoya-por-impacto-ambiental-y-lo-cancelan/?utm_source=rss&utm_medium=rss&utm_campaign=niegan-permisos-a-festival-de-luces-de-cantoya-por-impacto-ambiental-y-lo-cancelan",
+        "_added_at": "2026-10-12T15:50:00.593241-07:00"
+      }
+    ],
     "sociedad": [
+      {
+        "title": "Rescatan a 32 personas aisladas en rancho Génesis por lluvias",
+        "summary": "Helicópteros del Ejército extraen a familias atrapadas en Ensenada tras desbordamientos causados por tormenta tropical.",
+        "zona": "Ensenada",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/12/rescatan-en-helicoptero-a-32-personas-aisladas-por-lluvias-en-rancho-genesis-de-ensenada/",
+        "_added_at": "2026-10-12T15:50:00.593241-07:00"
+      },
+      {
+        "title": "Ejército activa Plan DN-III-E por inundaciones en Tijuana",
+        "summary": "Fuerzas armadas despliegan operativo de emergencia para atender afectaciones por tormenta tropical Rachel.",
+        "zona": "Tijuana",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/ejercito-mexicano-activa-plan-dn-iii-e-en-tijuana-tras-inundaciones-por-tormenta-tropical-rachel/",
+        "_added_at": "2026-10-12T15:50:00.593241-07:00"
+      },
+      {
+        "title": "Ensenada registra lluvias de hasta 91 milímetros por Rachel",
+        "summary": "Autoridades documentan precipitaciones récord durante paso de tormenta tropical en puerto bajacaliforniano.",
+        "zona": "Ensenada",
+        "source": "EnsenadaHoy",
+        "url": "https://ensenadahoy.com/noticias/ver/6995",
+        "_added_at": "2026-10-12T15:50:00.593241-07:00"
+      },
+      {
+        "title": "Gobierno de Ensenada convoca a solidaridad con afectados",
+        "summary": "Administración municipal pide colaboración ciudadana para atender a familias damnificadas por tormenta tropical.",
+        "zona": "Ensenada",
+        "source": "EnsenadaHoy",
+        "url": "https://ensenadahoy.com/noticias/ver/6996",
+        "_added_at": "2026-10-12T15:50:00.593241-07:00"
+      },
+      {
+        "title": "Tijuana sanciona a quien tire basura en pluviales",
+        "summary": "Municipio implementa medidas punitivas contra personas que arrojen desechos en sistemas de drenaje y desarenadores.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/10/12/sancionara-a-quienes-arrojen-basura-en-pluviales-y-desarenadores-en-tijuana/",
+        "_added_at": "2026-10-12T15:50:00.593241-07:00"
+      },
+      {
+        "title": "Reparan puente y pluvial de Terrazas del Valle",
+        "summary": "Gobierno municipal inicia trabajos de restauración en infraestructura dañada por paso de tormenta tropical.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/10/12/esperan-intervencion-estatal-para-reparar-puente-y-pluvial-de-terrazas-del-valle/",
+        "_added_at": "2026-10-12T15:50:00.593241-07:00"
+      },
+      {
+        "title": "Desalojan viviendas por hundimiento en colonia 3 de Octubre",
+        "summary": "Autoridades evacuan casas en Tijuana tras detectar hundimientos del terreno y grietas estructurales por lluvia.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/10/12/desalojan-viviendas-por-hundimiento-y-grietas-en-la-colonia-3-de-octubre-en-tijuana/",
+        "_added_at": "2026-10-12T15:50:00.593241-07:00"
+      },
+      {
+        "title": "Notarios impulsan tecnología para seguridad jurídica",
+        "summary": "Profesionales del sector buscan fortalecer procedimientos mediante herramientas digitales para mayor confiabilidad.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/12/impulsan-notarios-el-uso-de-la-tecnologia-para-brindar-mayor-seguridad-juridica/",
+        "_added_at": "2026-10-12T15:50:00.593241-07:00"
+      },
       {
         "title": "Dijunta abre refugio temporal en Unidad Deportiva Reforma",
         "summary": "Ayuntamiento de Tijuana habilita instalaciones como albergue para damnificados por tormenta tropical Rachel.",
@@ -58,5 +301,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-12T02:28:01.345833-07:00"
+  "last_updated": "2026-10-12T15:50:00.593241-07:00"
 }
