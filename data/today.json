@@ -1,8 +1,56 @@
 {
   "date": "2026-10-11",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Ataque armado en llantera deja dos muertos en Tijuana",
+        "summary": "Dos hombres fueron asesinados y uno gravemente herido en un tiroteo en una llantera de Tijuana.",
+        "zona": "Tijuana",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/ataque-armado-en-llantera-deja-dos-hombres-sin-vida-y-uno-gravemente-herido/",
+        "_added_at": "2026-10-11T18:06:48.518972-07:00"
+      },
+      {
+        "title": "Disparan unidad de traslado de valores en Benton",
+        "summary": "Criminales atacaron a balazos una unidad de valores en colonia Benton; un trabajador resultó lesionado.",
+        "zona": "Tijuana",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/disparan-unidad-de-traslado-de-valores-en-la-colonia-benton-trabajador-resulta-lesionado/",
+        "_added_at": "2026-10-11T18:06:48.518972-07:00"
+      },
+      {
+        "title": "Homicidio en Ensenada",
+        "summary": "Un hombre fue asesinado a balazos en Ensenada.",
+        "zona": "Ensenada",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/182827_asesinan_a_balazos_a_un_hombre_en_ensenada",
+        "_added_at": "2026-10-11T18:06:48.518972-07:00"
+      },
+      {
+        "title": "Congreso busca permitir armas a policías fuera de servicio",
+        "summary": "El Congreso de BC impulsa una reforma para que policías porten armas mientras no están en funciones.",
+        "zona": "Baja California",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/congreso-de-bc-busca-permitir-que-policias-porten-armas-fuera-de-servicio/",
+        "_added_at": "2026-10-11T18:06:48.518972-07:00"
+      },
+      {
+        "title": "Vinculan a proceso a tres por homicidio",
+        "summary": "Tres personas fueron vinculadas a proceso por homicidio en el estado.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/11/vinculan-a-proceso-a-tres-por-homicidio/",
+        "_added_at": "2026-10-11T18:06:48.518972-07:00"
+      },
+      {
+        "title": "Detienen a joven armado en Nueva Aurora",
+        "summary": "La policía municipal capturó a un joven con armas en la colonia Nueva Aurora de Tijuana.",
+        "zona": "Tijuana",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/municipales-detienen-a-joven-armado-en-la-colonia-nueva-aurora/",
+        "_added_at": "2026-10-11T18:06:48.518972-07:00"
+      },
       {
         "title": "Tijuana encabeza desapariciones a nivel nacional",
         "summary": "Tijuana lidera las estadísticas nacionales de personas desaparecidas, reflejando un problema persistente de seguridad en la ciudad.",
@@ -78,6 +126,54 @@
     ],
     "politica": [
       {
+        "title": "Ejército activa Plan DN-III-E por inundaciones en Tijuana",
+        "summary": "El Ejército Mexicano activó el Plan DN-III-E para apoyar rescates y labores de emergencia tras lluvias de Rachel.",
+        "zona": "Tijuana",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/100460/Ej%C3%A9rcito-Mexicano-activa-Plan-DN-III-E-en-Tijuana-tras-inundaciones-por-tormenta-tropical-Rachel",
+        "_added_at": "2026-10-11T18:06:48.518972-07:00"
+      },
+      {
+        "title": "Burgueño activa aparato de gobierno por emergencia en Tijuana",
+        "summary": "El presidente municipal de Tijuana movilizó todas las dependencias municipales en operativos de emergencia por lluvias.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/activamos-todo-el-aparato-de-gobierno-burgueno-ante-incidentes-por-lluvias-en-tijuana/",
+        "_added_at": "2026-10-11T18:06:48.518972-07:00"
+      },
+      {
+        "title": "Se suspenden clases en BC el lunes por Rachel",
+        "summary": "Autoridades educativas cancelaron clases en todos los niveles públicos y privados de Baja California para el lunes.",
+        "zona": "Baja California",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/suspenden-clases-en-todos-lo-niveles-educativos-publicos-y-privados-en-bc-para-este-lunes/",
+        "_added_at": "2026-10-11T18:06:48.518972-07:00"
+      },
+      {
+        "title": "Lunes inhábil en gobierno de Mexicali",
+        "summary": "El gobierno municipal de Mexicali declaró inhábil el lunes 12 de octubre por afectaciones de la tormenta.",
+        "zona": "Mexicali",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/11/lunes-12-sera-dia-inhabil-en-el-gobierno-de-mexicali/",
+        "_added_at": "2026-10-11T18:06:48.518972-07:00"
+      },
+      {
+        "title": "Diputado busca elevar penas por falsedad de declaraciones",
+        "summary": "Un legislador de BC propone aumentar castigos para quienes presenten declaraciones falsas ante autoridades.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/estatal/2026/10/11/diputado-valle-busca-elevar-penas-por-falsedad-de-declaraciones/",
+        "_added_at": "2026-10-11T18:06:48.518972-07:00"
+      },
+      {
+        "title": "Diputado impulsa inhabilitación permanente de funcionarios corruptos",
+        "summary": "Un legislador propone reforma para inhabilitar definitivamente a servidores públicos por corrupción.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182824_busca_diputado_inhabilitacion_definitiva_de_funcionarios_corruptos",
+        "_added_at": "2026-10-11T18:06:48.518972-07:00"
+      },
+      {
         "title": "Cuestiona García Ruvalcaba presupuesto municipal en Mexicali",
         "summary": "Funcionario cuestiona el ejercicio presupuestario del ayuntamiento de Mexicali ante posibles irregularidades.",
         "zona": "Mexicali",
@@ -128,6 +224,22 @@
     ],
     "economia": [
       {
+        "title": "CFE recupera 84.7% del suministro en BC y Sonora",
+        "summary": "La Comisión Federal de Electricidad restableció la mayoría del servicio eléctrico en BC tras los daños de Rachel.",
+        "zona": "Baja California",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/cfe-informa-recuperacion-del-84-7-del-suministro-de-energia-en-bc-y-sonora/",
+        "_added_at": "2026-10-11T18:06:48.518972-07:00"
+      },
+      {
+        "title": "Encharcamientos complican acceso a garita San Ysidro",
+        "summary": "Las inundaciones causadas por lluvia afectaron el flujo vehicular en la garita de San Ysidro en Tijuana.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/10/11/encharcamientos-complican-el-acceso-a-la-garita-de-san-ysidro-y-la-linea-sentri-en-tijuana/",
+        "_added_at": "2026-10-11T18:06:48.518972-07:00"
+      },
+      {
         "title": "Secretaría del Trabajo anuncia vacantes en Mexicali",
         "summary": "Dependencia federal promueve oportunidades de empleo en la capital de Baja California.",
         "zona": "Mexicali",
@@ -138,6 +250,70 @@
     ],
     "eventos": [],
     "sociedad": [
+      {
+        "title": "Desaparición de familia en Ensenada tras desbordamiento de arroyo",
+        "summary": "Un arroyo desbordado arrastró viviendas en Ensenada; reportan familia desaparecida y búsqueda en curso.",
+        "zona": "Ensenada",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182828_corriente_de_agua_se_llevo_10_viviendas_en_ensenada_reportan_tres_personas_desaparecidas",
+        "_added_at": "2026-10-11T18:06:48.518972-07:00"
+      },
+      {
+        "title": "Rescatan a 30 familias en riesgo por desbordamiento en Ensenada",
+        "summary": "Autoridades evacuaron a 30 familias que enfrentaban peligro por desbordamiento de arroyo en Ensenada.",
+        "zona": "Ensenada",
+        "source": "Rada Noticias",
+        "url": "https://radanoticias.info/rescatan-a-30-familias-en-riesgo-por-desbordamiento-de-arroyo/",
+        "_added_at": "2026-10-11T18:06:48.518972-07:00"
+      },
+      {
+        "title": "Búsqueda de cuatro personas en El Pípila por corriente",
+        "summary": "Se busca a cuatro personas que presuntamente fueron arrastradas por corriente del arroyo El Pípila.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/ensenada/2026/10/11/continua-busqueda-de-3-personas-presuntamente-arrastradas-por-corriente-del-arroyo-el-pipila/",
+        "_added_at": "2026-10-11T18:06:48.518972-07:00"
+      },
+      {
+        "title": "Autoridades rescatan 14 personas en Mexicali por inundaciones",
+        "summary": "Operativos de emergencia rescataron a 14 personas atrapadas por inundaciones en Mexicali.",
+        "zona": "Mexicali",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/100448/Rescatan-a-14-personas-tras-lluvias-por-tormenta-tropical-Rachel-en-Mexicali",
+        "_added_at": "2026-10-11T18:06:48.518972-07:00"
+      },
+      {
+        "title": "Trasladadas personas sin hogar a albergues en Tijuana",
+        "summary": "Autoridades reubicaron a personas en situación de calle y sus mascotas de la canalización a albergues.",
+        "zona": "Tijuana",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/no-los-dejan-atras-trasladan-a-personas-en-situacion-de-calle-de-la-canalizacion-y-a-sus-mascotas-ante-las-lluvias-en-tijuana/",
+        "_added_at": "2026-10-11T18:06:48.518972-07:00"
+      },
+      {
+        "title": "Más de 70 mil desplazados internos en Baja California",
+        "summary": "Reporte indica que más de 70 mil personas experimentaron desplazamiento forzado interno en BC.",
+        "zona": "Baja California",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/100456/M%C3%A1s-de-70-mil-personas-experimentaron-desplazamiento-forzado-interno-en-BC",
+        "_added_at": "2026-10-11T18:06:48.518972-07:00"
+      },
+      {
+        "title": "Casi 300 familias en riesgo por deslaves en Sánchez Taboada",
+        "summary": "Vecinos de Sánchez Taboada crearon albergue temporal para casi 300 familias amenazadas por deslaves.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/10/11/casi-300-familias-viven-con-riesgo-de-deslaves-en-tijuana-y-vecinos-convierten-un-restaurante-en-albergue-ante-el-temor-de-que-las-lluvias-de-rachel-agraven-los-danos-en-la-colonia-sanchez-taboada/",
+        "_added_at": "2026-10-11T18:06:48.518972-07:00"
+      },
+      {
+        "title": "Servicios de agua responden a afectaciones por lluvias",
+        "summary": "CESPT y FESC atienden reportes de inundaciones y trabajos de desazolve en canales pluviales.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182826_atiende_la_cespt_afectaciones_por_las_fuertes_lluvias",
+        "_added_at": "2026-10-11T18:06:48.518972-07:00"
+      },
       {
         "title": "Baja California concluye Paralimpiada Nacional con 101 medallas",
         "summary": "Entidad cierra participación en Paralimpiada Nacional con desempeño destacado en deportes adaptados.",
@@ -180,5 +356,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-11T13:06:28.054604-07:00"
+  "last_updated": "2026-10-11T18:06:48.518972-07:00"
 }
