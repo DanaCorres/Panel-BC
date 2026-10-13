@@ -1,8 +1,56 @@
 {
   "date": "2026-10-12",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Cuatro fallecidos y múltiples desaparecidos tras tormenta Rachel en Ensenada",
+        "summary": "Tormenta tropical Rachel dejó cuatro personas muertas en Ensenada, entre ellas dos menores. Más de 100 personas siguen desaparecidas tras arrastres de agua en arroyos.",
+        "zona": "Ensenada",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/12/suman-cuatro-personas-fallecidas-por-tormenta-rachel-en-ensenada-entre-ellas-dos-menores/",
+        "_added_at": "2026-10-12T19:32:06.523441-07:00"
+      },
+      {
+        "title": "Reportero de AFN amenazado y robado en operativo en Tecate",
+        "summary": "Elementos armados irrumpieron en vivienda de periodista de AFN en Tecate, lo amenazaron y le robaron dron y celular tras volar equipo.",
+        "zona": "Tecate",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tecate/100507/Amenazan-a-reportero-de-AFN-y-le-roban-dron-y-celular",
+        "_added_at": "2026-10-12T19:32:06.523441-07:00"
+      },
+      {
+        "title": "Menor fallecido en IMSS Mexicali presentaba síndrome de abuso infantil",
+        "summary": "Autoridades confirmaron que niño que falleció en clínica del IMSS en Mexicali presentaba lesiones consistentes con maltrato infantil.",
+        "zona": "Mexicali",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/confirman-que-menor-fallecido-en-clinica-del-imss-en-mexicali-presentaba-sindrome-del-nino-maltratado/",
+        "_added_at": "2026-10-12T19:32:06.523441-07:00"
+      },
+      {
+        "title": "Estudiante hiere a nueve personas con machete en escuela",
+        "summary": "Atacante de 19 años hirió a nueve personas en institución educativa con arma blanca. Caso marca nuevo incidente violento en planteles.",
+        "zona": "Baja California",
+        "source": "TV Azteca BC",
+        "url": "https://www.tvaztecabajacalifornia.com/policiaca/otro-ataque-en-escuela-estudiante-de-19-anos-hiere-a-nueve-personas-con-machete/",
+        "_added_at": "2026-10-12T19:32:06.523441-07:00"
+      },
+      {
+        "title": "CEDHBC ordena disculpas del Ayuntamiento de Tijuana por negligencia en feminicidio",
+        "summary": "Comisión de Derechos Humanos condena a municipio por falta de acción en caso de víctima de feminicidio en Playas de Tijuana.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/policiaca/2026/10/12/ayuntamiento-de-tijuana-debera-ofrecer-disculpas-a-la-familia-de-una-victima-de-feminicidio-de-playas-de-tijuana-cedhbc/",
+        "_added_at": "2026-10-12T19:32:06.523441-07:00"
+      },
+      {
+        "title": "Diputado PAN vigilará investigación de denuncia contra Marina",
+        "summary": "Legislador del PAN anuncia supervisión de procedimientos en fiscalía respecto a denuncia presentada contra personal de Armada.",
+        "zona": "Baja California",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/estaremos-encima-de-la-fiscalia-diputado-del-pan-sobre-denuncia-contra-marina/",
+        "_added_at": "2026-10-12T19:32:06.523441-07:00"
+      },
       {
         "title": "Decomisan 1.2 toneladas de cocaína en lanchas",
         "summary": "Autoridades aseguran droga trasladada por mar en operativo contra tráfico de narcóticos en aguas de Baja California.",
@@ -70,6 +118,30 @@
     ],
     "politica": [
       {
+        "title": "Múltiples candidatos de Morena para alcaldía de Mexicali",
+        "summary": "Ola de registros de aspirantes de Morena compiten por candidatura a alcaldía de Mexicali. Destacan Marco Aurelio Gámez y otros.",
+        "zona": "Mexicali",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/ola-de-registros-de-morena-en-busca-de-alcaldia-de-mexicali/",
+        "_added_at": "2026-10-12T19:32:06.523441-07:00"
+      },
+      {
+        "title": "Civiles increpan a gobernador Castro sobre seguridad en Cabo San Lucas",
+        "summary": "Ciudadanos enfrentaron verbalmente al gobernador Víctor Castro durante evento, denunciando homicidios y falta de seguridad.",
+        "zona": "Baja California",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/asesinos-civiles-increpan-al-gobernador-victor-castro-durante-el-festival-del-maiz-en-cabo-san-lucas/",
+        "_added_at": "2026-10-12T19:32:06.523441-07:00"
+      },
+      {
+        "title": "Familia de Ernesto Ruffo lo espera en Ensenada tras salida carcelaria",
+        "summary": "Hija de exgobernador Ernesto Ruffo declara que su padre no usará brazalete electrónico y lo recibirán en Ensenada.",
+        "zona": "Ensenada",
+        "source": "Milenio",
+        "url": "https://www.milenio.com/estados/hija-de-ernesto-ruffo-lo-espera-en-ensenada-baja-california",
+        "_added_at": "2026-10-12T19:32:06.523441-07:00"
+      },
+      {
         "title": "Ola de registros de Morena para alcaldía de Mexicali",
         "summary": "Múltiples aspirantes de Morena buscan candidatura a presidencia municipal de Mexicali en próximas elecciones.",
         "zona": "Mexicali",
@@ -136,6 +208,38 @@
     ],
     "economia": [
       {
+        "title": "Restaurantes tijuanenses pierden millón de pesos por apagones",
+        "summary": "Cortes de electricidad causaron pérdidas de más de un millón de pesos en ventas para restauradores. Canirac demanda soluciones.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/por-apagones-perdieron-un-millon-de-pesos-en-ventas-los-restaurateros-en-tijuana/",
+        "_added_at": "2026-10-12T19:32:06.523441-07:00"
+      },
+      {
+        "title": "Apagones afectan ventas del 95% de restaurantes encuestados",
+        "summary": "Encuesta revela que casi totalidad de restaurantes consultados en Tijuana sufrió caída drástica de ingresos por falta de luz.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/10/12/apagones-afectan-ventas-de-95-de-restaurantes-encuestados-en-tijuana/",
+        "_added_at": "2026-10-12T19:32:06.523441-07:00"
+      },
+      {
+        "title": "Advierten revocación masiva de visas a choferes de carga",
+        "summary": "Transportistas enfrentan riesgo de revocación de permisos migratorios. Sector de carga reporta incertidumbre y afectaciones.",
+        "zona": "Tijuana",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/100505/Advierten-revocaci%C3%B3n-masiva-de-visas-a-choferes-de-carga",
+        "_added_at": "2026-10-12T19:32:06.523441-07:00"
+      },
+      {
+        "title": "Cámara de Comercio pide declarar Ensenada zona de desastre",
+        "summary": "CCE solicitó que gobierno federal declare estado de desastre en Ensenada para acceder a recursos federales de recuperación.",
+        "zona": "Ensenada",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/100490/Urge-declarar-a-Ensenada-como-zona-de-desastre%3ACCE",
+        "_added_at": "2026-10-12T19:32:06.523441-07:00"
+      },
+      {
         "title": "Apagones causan pérdidas superiores a 1 millón en restaurantes",
         "summary": "Cortes de electricidad afectan ventas del 95% de establecimientos consultados; comerciantes cuantifican daños significativos.",
         "zona": "Tijuana",
@@ -178,6 +282,14 @@
     ],
     "eventos": [
       {
+        "title": "Presentan red de negocios Líderes Global en Tijuana",
+        "summary": "Se lanza iniciativa de networking empresarial para fortalecer conexiones y oportunidades comerciales entre emprendedores.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182866_presentan_la_red_de_negocios_lideres_global",
+        "_added_at": "2026-10-12T19:32:06.523441-07:00"
+      },
+      {
         "title": "Ópera de Tijuana llega a Paseo del Parque",
         "summary": "Compañía de ópera presenta función en espacio público para promover artes escénicas y acceso a la cultura.",
         "zona": "Tijuana",
@@ -195,6 +307,46 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Más de 3,500 participan en búsqueda de desaparecidos en Ensenada",
+        "summary": "Operativo masivo de rescate convocó a miles de voluntarios para búsqueda de desaparecidos tras paso de tormenta Rachel.",
+        "zona": "Ensenada",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/10/12/mas-de-3-mil-500-personas-participan-en-busqueda-de-desaparecidos-en-ensenada/",
+        "_added_at": "2026-10-12T19:32:06.523441-07:00"
+      },
+      {
+        "title": "FESC despliega más de 150 elementos por afectaciones de lluvias en BC",
+        "summary": "Fuerzas de seguridad estatal activan operativo de protección para familias damnificadas por tormenta tropical Rachel.",
+        "zona": "Baja California",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/10/12/fesc-despliega-operativo-con-mas-de-150-elementos-por-lluvias-en-baja-california/",
+        "_added_at": "2026-10-12T19:32:06.523441-07:00"
+      },
+      {
+        "title": "Seis casas en riesgo de colapso por deslizamientos en Tijuana",
+        "summary": "Lluvia torrencial causó deslizamientos en colonia 3 de Octubre poniendo en peligro viviendas de residentes.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/seis-casas-en-riesgo-de-colapso-por-deslizamiento-en-la-3-de-octubre-tras-lluvias/",
+        "_added_at": "2026-10-12T19:32:06.523441-07:00"
+      },
+      {
+        "title": "Socavón obliga cierre de puente clave en Terrazas del Valle",
+        "summary": "Lluvias causaron colapso de infraestructura vial en Terrazas del Valle, Tijuana, afectando comunicación de zona.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/10/12/cierran-puente-en-terrazas-del-valle-tras-lluvias-ayuntamiento-espera-que-el-estado-intervenga-pero-falta-permiso-de-cfe/",
+        "_added_at": "2026-10-12T19:32:06.523441-07:00"
+      },
+      {
+        "title": "Hospital General de Ensenada inundado tras tormenta Rachel",
+        "summary": "Lluvia torrencial inundó instalaciones del Hospital General de Ensenada. Usuarios exigen destituciones en área de salud.",
+        "zona": "Ensenada",
+        "source": "Rada Noticias",
+        "url": "https://radanoticias.info/exigen-destituciones-en-salud-por-inundacion-del-hg/",
+        "_added_at": "2026-10-12T19:32:06.523441-07:00"
+      },
       {
         "title": "Rescatan a 32 personas aisladas en rancho Génesis por lluvias",
         "summary": "Helicópteros del Ejército extraen a familias atrapadas en Ensenada tras desbordamientos causados por tormenta tropical.",
@@ -274,32 +426,8 @@
         "source": "TV Azteca BC",
         "url": "https://www.tvaztecabajacalifornia.com/noticias/el-agua-cubrio-las-calles-de-ensenada-y-dejo-a-personas-atrapadas-sobre-sus-vehiculos/",
         "_added_at": "2026-10-12T02:28:01.345833-07:00"
-      },
-      {
-        "title": "Maneadero sufre daños severos por lluvias de Rachel",
-        "summary": "Comunidad experimenta vehículos volcados, calles inundadas y afectaciones significativas por tormenta tropical.",
-        "zona": "Baja California",
-        "source": "TV Azteca BC",
-        "url": "https://www.tvaztecabajacalifornia.com/noticias/maneadero-queda-devastado-por-las-lluvias-de-rachel-vehiculos-volcados-y-calles-bajo-el-agua/",
-        "_added_at": "2026-10-12T02:28:01.345833-07:00"
-      },
-      {
-        "title": "Tijuana mantiene líneas de emergencia por tormenta",
-        "summary": "Autoridades activan atención permanente de emergencias en Tijuana durante paso de tormenta tropical Rachel.",
-        "zona": "Tijuana",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/182831_mantienen_lineas_de_atencion_permanente_de_emergencias_por_lluvias_en_tijuana",
-        "_added_at": "2026-10-12T02:28:01.345833-07:00"
-      },
-      {
-        "title": "Mexicali enfrenta problemas de tránsito por lluvias",
-        "summary": "Lodo y charcos dificultan la circulación vial en Mexicali durante el paso de tormenta Rachel.",
-        "zona": "Mexicali",
-        "source": "TV Azteca BC",
-        "url": "https://www.tvaztecabajacalifornia.com/noticias/lodo-y-charcos-complican-el-transito-en-mexicali-ante-la-llegada-de-rachel/",
-        "_added_at": "2026-10-12T02:28:01.345833-07:00"
       }
     ]
   },
-  "last_updated": "2026-10-12T15:50:00.593241-07:00"
+  "last_updated": "2026-10-12T19:32:06.523441-07:00"
 }
