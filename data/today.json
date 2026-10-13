@@ -1,8 +1,72 @@
 {
   "date": "2026-10-13",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Proponen endurecer penas contra montachoques en BC",
+        "summary": "Legisladores plantean aumentar castigos para quienes cometen fraudes de seguros mediante accidentes provocados.",
+        "zona": "Baja California",
+        "source": "Rada Noticias",
+        "url": "https://radanoticias.info/proponen-endurecer-penas-contra-montachoques/",
+        "_added_at": "2026-10-13T14:07:03.061912-07:00"
+      },
+      {
+        "title": "BC lidera homicidios en 2026 pero desciende 43% en dos años",
+        "summary": "Baja California ocupa primer lugar nacional en homicidios, aunque registra reducción significativa comparado con años anteriores.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/nacionales/182891_ocupa_bc_primer_lugar_en_homicidios_en_2026_bajo_43_incidencia_en_dos_anos",
+        "_added_at": "2026-10-13T14:07:03.061912-07:00"
+      },
+      {
+        "title": "Extorsión amenaza economía pesquera en BC",
+        "summary": "Organizaciones criminales extorsionan a pescadores, poniendo en riesgo el sector productivo regional.",
+        "zona": "Baja California",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/extorsion-amenaza-a-la-economia-pesquera/",
+        "_added_at": "2026-10-13T14:07:03.061912-07:00"
+      },
+      {
+        "title": "EU sanciona red empresarial del Cártel del Noreste",
+        "summary": "Estados Unidos impone sanciones a 15 personas y empresas ligadas a operaciones del crimen organizado.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182892_sanciona_eu_a_15_personas_y_empresas_vinculadas_al_cartel_del_noreste",
+        "_added_at": "2026-10-13T14:07:03.061912-07:00"
+      },
+      {
+        "title": "FGE detiene a \"El Güero\" por intento de homicidio",
+        "summary": "Fiscal del Estado captura a sujeto acusado de intento de asesinato.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/seguridad/2026/10/13/fge-detiene-a-el-guero-por-intento-de-homicidio/",
+        "_added_at": "2026-10-13T14:07:03.061912-07:00"
+      },
+      {
+        "title": "Sindicatura investiga funcionario de Infraestructura Tijuana",
+        "summary": "Auditoría interna revisa actuación de servidor público en dependencia municipal.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182900_sindicatura_investiga_a_funcionario_de_infraestructura_de_tijuana",
+        "_added_at": "2026-10-13T14:07:03.061912-07:00"
+      },
+      {
+        "title": "Desalojarán invasores de arroyos en Ensenada",
+        "summary": "Autoridades implementan operativo para remover asentamientos irregulares en cauces.",
+        "zona": "Ensenada",
+        "source": "El Vigía",
+        "url": "https://www.youtube.com/shorts/qp-gBXwyp-U",
+        "_added_at": "2026-10-13T14:07:03.061912-07:00"
+      },
+      {
+        "title": "Proponen ocho años de cárcel por mentir ante autoridades",
+        "summary": "Iniciativa legislativa busca tipificar como delito grave las declaraciones falsas ante funcionarios públicos.",
+        "zona": "Baja California",
+        "source": "AGP Noticias",
+        "url": "https://agpnoticias.com/news/proponen-hasta-ocho-anos-de-prision-por-mentir-ante-autoridades-en-baja-california/",
+        "_added_at": "2026-10-13T14:07:03.061912-07:00"
+      },
       {
         "title": "Intensifican búsqueda de desaparecidos en Ensenada",
         "summary": "Autoridades y ciudadanos trabajan juntos en operativos de rescate tras el paso de la tormenta Rachel en Ensenada.",
@@ -22,6 +86,46 @@
     ],
     "politica": [
       {
+        "title": "Julieta Ramírez encabezará nueva etapa de Morena en BC",
+        "summary": "Nueva presidenta de Morena rinde protesta ante Consejo Nacional para liderar reorganización morenista estatal.",
+        "zona": "Baja California",
+        "source": "AGP Noticias",
+        "url": "https://agpnoticias.com/news/julieta-ramirez-rinde-protesta-ante-el-consejo-nacional-de-morena-encabezara-nueva-etapa-de-la-4t-en-bc/",
+        "_added_at": "2026-10-13T14:07:03.061912-07:00"
+      },
+      {
+        "title": "Cambian mando de II Región Militar en Mexicali",
+        "summary": "Jorge Pedro Nieto sustituye a Rubén Zamudio en comando militar regional.",
+        "zona": "Mexicali",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/mxl/mexicali/2026/10/13/cambian-mando-de-la-ii-region-militar-jorge-pedro-nieto-sustituye-a-ruben-zamudio/",
+        "_added_at": "2026-10-13T14:07:03.061912-07:00"
+      },
+      {
+        "title": "Avanza Ley de Ingresos 2027 con deuda de 1.7 billones",
+        "summary": "Comisión legislativa aprueba proyecto presupuestario enfrentando crítica por nivel de endeudamiento.",
+        "zona": "Baja California",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/avanza-en-comision-la-ley-de-ingresos-2027-con-deuda-por-1-7-billones/",
+        "_added_at": "2026-10-13T14:07:03.061912-07:00"
+      },
+      {
+        "title": "Reprueban cuentas públicas 2024 de OOMSAPAS Los Cabos",
+        "summary": "Órgano legislativo rechaza presentación de informes financieros de organismo de agua.",
+        "zona": "Baja California",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/reprueban-cuentas-publicas-2024-de-oomsapas-los-cabos-y-del-isj/",
+        "_added_at": "2026-10-13T14:07:03.061912-07:00"
+      },
+      {
+        "title": "Piden reforzar cobro de predial en Tecate sin privilegios",
+        "summary": "Autoridades municipales buscan aumentar recaudación del impuesto inmobiliario sin excepciones.",
+        "zona": "Tecate",
+        "source": "AGP Noticias",
+        "url": "https://agpnoticias.com/news/piden-reforzar-cobro-del-predial-en-tecate-sin-privilegios/",
+        "_added_at": "2026-10-13T14:07:03.061912-07:00"
+      },
+      {
         "title": "Agatón reconoce: lluvias superaron capacidad de autoridades",
         "summary": "Funcionario admite que la tormenta Rachel rebasó la capacidad de respuesta institucional en el estado.",
         "zona": "Baja California",
@@ -38,9 +142,131 @@
         "_added_at": "2026-10-13T02:34:59.700925-07:00"
       }
     ],
-    "economia": [],
-    "eventos": [],
+    "economia": [
+      {
+        "title": "Industria en BC ajusta turnos por nuevas reglas laborales",
+        "summary": "Sector manufacturero reformula nóminas y horarios por cambios en normativa de trabajo.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/10/13/industria-en-bc-debera-ajustar-nominas-y-turnos-por-nuevas-reglas-laborales/",
+        "_added_at": "2026-10-13T14:07:03.061912-07:00"
+      },
+      {
+        "title": "Turismo médico en Tijuana cae por cirugías y filas fronterizas",
+        "summary": "Cirugías bariatricas descienden hasta 70% por demoras en cruces internacionales.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/10/13/cirugias-bariatricas-caen-hasta-70-y-frenan-turismo-medico-en-tijuana/",
+        "_added_at": "2026-10-13T14:07:03.061912-07:00"
+      },
+      {
+        "title": "Cotuco diversifica estrategia para atraer más turismo a Tijuana",
+        "summary": "Cámara de Comercio impulsa iniciativas para incrementar visitantes en la frontera.",
+        "zona": "Tijuana",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/100538/Apuesta-Cotuco-a-diversificar-el-turismo-y-atraer-m%C3%A1s-visitantes-a-Tijuana",
+        "_added_at": "2026-10-13T14:07:03.061912-07:00"
+      },
+      {
+        "title": "Rachel deja pérdidas superiores a 50 millones de dólares",
+        "summary": "Ejidatarios de Ensenada cuantifican daños agrícolas por paso de tormenta tropical.",
+        "zona": "Ensenada",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/rachel-deja-mas-de-50-mdd-en-perdidas-calculan-ejidatarios-de-ensenada/",
+        "_added_at": "2026-10-13T14:07:03.061912-07:00"
+      }
+    ],
+    "eventos": [
+      {
+        "title": "Sinergia 2026 conecta artistas globales en CETYS Ensenada",
+        "summary": "Festival de arte reunirá creadores de distintos países en foro universitario.",
+        "zona": "Ensenada",
+        "source": "EnsenadaHoy",
+        "url": "https://ensenadahoy.com/noticias/ver/6997",
+        "_added_at": "2026-10-13T14:07:03.061912-07:00"
+      },
+      {
+        "title": "Feria del Caballo en Valle de Guadalupe abre puertas",
+        "summary": "Evento ecuestre inicia en región vinícola con boletos y programación disponibles.",
+        "zona": "Ensenada",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/ensenada/2026/10/13/feria-del-caballo-en-valle-de-guadalupe-fecha-horarios-y-boletos/",
+        "_added_at": "2026-10-13T14:07:03.061912-07:00"
+      },
+      {
+        "title": "Fiestas del Sol 2026 concluyeron con saldo blanco en Mexicali",
+        "summary": "Celebraciones locales transcurrieron sin incidentes graves según reporte de seguridad.",
+        "zona": "Mexicali",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/100541/Fiestas-del-Sol-2026-comcluyeron-con-saldo-blanco%3A-DSPM",
+        "_added_at": "2026-10-13T14:07:03.061912-07:00"
+      }
+    ],
     "sociedad": [
+      {
+        "title": "Ejército rescata 32 personas atrapadas en rancho de Ensenada",
+        "summary": "Helicópteros militares y Guardia Nacional evacúan a civiles aislados por tormenta Rachel.",
+        "zona": "Ensenada",
+        "source": "Milenio",
+        "url": "https://www.milenio.com/politica/ejercito-rescata-32-personas-aisladas-ensenada-tormenta",
+        "_added_at": "2026-10-13T14:07:03.061912-07:00"
+      },
+      {
+        "title": "Localizan con vida a niño desaparecido durante tormenta Rachel",
+        "summary": "Menor de diez años reportado extraviado en Ensenada es encontrado sano y salvo.",
+        "zona": "Ensenada",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/ensenada/2026/10/13/localizan-con-vida-a-nino-de-10-anos-desaparecido-tras-lluvias-en-ensenada/",
+        "_added_at": "2026-10-13T14:07:03.061912-07:00"
+      },
+      {
+        "title": "Se hunden 15 viviendas en colonia 3 de Octubre, Tijuana",
+        "summary": "Deslizamiento de tierra afecta decenas de casas con desnivel superior a ocho metros.",
+        "zona": "Tijuana",
+        "source": "TV Azteca BC",
+        "url": "https://www.tvaztecabajacalifornia.com/noticias/se-hunde-calle-en-la-colonia-3-de-octubre-en-tijuana-15-casas-afectadas-y-desnivel-supera-los-ocho-metros/",
+        "_added_at": "2026-10-13T14:07:03.061912-07:00"
+      },
+      {
+        "title": "Centros de acopio atienden a familias damnificadas en BC",
+        "summary": "Gobierno habilita puntos de distribución de ayuda para afectados por lluvias.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/estatal/2026/10/13/abren-centros-de-acopio-en-baja-california-para-apoyar-a-familias-damnificadas-por-lluvias/",
+        "_added_at": "2026-10-13T14:07:03.061912-07:00"
+      },
+      {
+        "title": "Refugios piden apoyo para animales afectados en Ensenada",
+        "summary": "Organizaciones civiles requieren donaciones para rescate y cuidado de mascotas damnificadas.",
+        "zona": "Ensenada",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/ensenada/2026/10/13/refugios-piden-apoyo-para-rescatar-animales-afectados-por-lluvias-en-ensenada/",
+        "_added_at": "2026-10-13T14:07:03.061912-07:00"
+      },
+      {
+        "title": "Protestan trabajadores del IMSS por condiciones laborales",
+        "summary": "Personal sanitario demanda mejoras en prestaciones e infraestructura.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182895_protestan_trabajadores_del_imss_exigen_mejorar_condiciones_laborales",
+        "_added_at": "2026-10-13T14:07:03.061912-07:00"
+      },
+      {
+        "title": "PJBC promueve guía para familias de desaparecidos",
+        "summary": "Poder Judicial y Elementa crean herramienta informativa para orientar a víctimas.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/13/pjbc-y-elementa-promoveran-una-guia-para-familias-de-personas-desaparecidas/",
+        "_added_at": "2026-10-13T14:07:03.061912-07:00"
+      },
+      {
+        "title": "Proponen apoyo económico para cuidadores de familiares",
+        "summary": "Iniciativa busca compensar a personas que cuidan parientes sin percibir salario.",
+        "zona": "Baja California",
+        "source": "AGP Noticias",
+        "url": "https://agpnoticias.com/news/proponen-apoyo-economico-para-quienes-cuidan-a-familiares-sin-recibir-un-salario/",
+        "_added_at": "2026-10-13T14:07:03.061912-07:00"
+      },
       {
         "title": "Cuatro muertos en Baja California por tormenta Rachel",
         "summary": "Saldo de fallecidos por las lluvias torrenciales alcanza cuatro personas en el estado.",
@@ -67,5 +293,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-13T02:34:59.700925-07:00"
+  "last_updated": "2026-10-13T14:07:03.061912-07:00"
 }
