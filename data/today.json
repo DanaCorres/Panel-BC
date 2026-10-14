@@ -1,8 +1,72 @@
 {
   "date": "2026-10-13",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Tormenta Rachel deja al menos siete muertos en Ensenada",
+        "summary": "Aumenta a siete el número de fallecidos por la tormenta Rachel en la zona de Maneadero y otras áreas de Ensenada. Autoridades continúan búsqueda de desaparecidos.",
+        "zona": "Ensenada",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/estatal/2026/10/13/aumenta-a-siete-el-numero-de-muertos-por-tormenta-rachel-en-ensenada/",
+        "_added_at": "2026-10-13T18:02:08.195427-07:00"
+      },
+      {
+        "title": "Rescatan a hombre atado y detienen a cinco presuntos responsables en Tijuana",
+        "summary": "Autoridades rescatan a varón lesionado y atado en Tijuana; cinco personas son detenidas como presuntos responsables del secuestro y tortura.",
+        "zona": "Tijuana",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/13/rescatan-a-hombre-atado-y-lesionado-en-tijuana-detienen-a-cinco-presuntos-responsables/",
+        "_added_at": "2026-10-13T18:02:08.195427-07:00"
+      },
+      {
+        "title": "Vinculan a proceso a cuatro menores por portar armas en Tijuana",
+        "summary": "Cuatro menores de edad son vinculados a proceso por tenencia de armas de fuego en Tijuana.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/policiaca/2026/10/13/vinculan-a-proceso-a-cuatro-menores-por-portar-armas-en-tijuana/",
+        "_added_at": "2026-10-13T18:02:08.195427-07:00"
+      },
+      {
+        "title": "Condenan a treinta años por homicidio de menor en Tijuana",
+        "summary": "Sentencia de treinta años de prisión para responsable del homicidio de un niño en la zona.",
+        "zona": "Tijuana",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/13/pasara-30-anos-en-prision-por-homicidio-de-un-menor/",
+        "_added_at": "2026-10-13T18:02:08.195427-07:00"
+      },
+      {
+        "title": "Detienen a presunto traficante con más de un kilo de metanfetamina",
+        "summary": "Capturan a individuo apodado \"El Chiapas\" en posesión de más de un kilogramo de cristal en operativo antidroga.",
+        "zona": "Tijuana",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/13/cae-el-chiapas-con-mas-de-un-kilo-de-metanfetamina/",
+        "_added_at": "2026-10-13T18:02:08.195427-07:00"
+      },
+      {
+        "title": "Detienen en Sonora a imputado por abuso sexual en Ensenada",
+        "summary": "Autoridades de Sonora capturan a sujeto acusado de cometer abuso sexual contra menor en Ensenada.",
+        "zona": "Ensenada",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/10/13/detienen-en-sonora-a-imputado-por-abuso-sexual-contra-menor-en-ensenada/",
+        "_added_at": "2026-10-13T18:02:08.195427-07:00"
+      },
+      {
+        "title": "Socavón en Puente de Terrazas causado por mala calidad de obra",
+        "summary": "Especialista asegura que colapso en Puente de Terrazas de Tijuana fue provocado por deficiencias en la construcción.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182912_socavon_del_puente_de_terrazas_fue_provocado_por_la_mala_calidad_de_la_obra_asegura_especialista",
+        "_added_at": "2026-10-13T18:02:08.195427-07:00"
+      },
+      {
+        "title": "Proponen aumentar penas para menores infractores en Baja California",
+        "summary": "Abogadas buscan incrementar el tiempo de internamiento para menores en conflicto con la ley en el estado.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182910_buscan_abogadas_aumentar_penas_de_internamiento_para_menores_infractores",
+        "_added_at": "2026-10-13T18:02:08.195427-07:00"
+      },
       {
         "title": "Proponen endurecer penas contra montachoques en BC",
         "summary": "Legisladores plantean aumentar castigos para quienes cometen fraudes de seguros mediante accidentes provocados.",
@@ -58,33 +122,41 @@
         "source": "El Vigía",
         "url": "https://www.youtube.com/shorts/qp-gBXwyp-U",
         "_added_at": "2026-10-13T14:07:03.061912-07:00"
-      },
-      {
-        "title": "Proponen ocho años de cárcel por mentir ante autoridades",
-        "summary": "Iniciativa legislativa busca tipificar como delito grave las declaraciones falsas ante funcionarios públicos.",
-        "zona": "Baja California",
-        "source": "AGP Noticias",
-        "url": "https://agpnoticias.com/news/proponen-hasta-ocho-anos-de-prision-por-mentir-ante-autoridades-en-baja-california/",
-        "_added_at": "2026-10-13T14:07:03.061912-07:00"
-      },
-      {
-        "title": "Intensifican búsqueda de desaparecidos en Ensenada",
-        "summary": "Autoridades y ciudadanos trabajan juntos en operativos de rescate tras el paso de la tormenta Rachel en Ensenada.",
-        "zona": "Ensenada",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Ensenada/100512/Intensifican-b%C3%BAsqueda-de-desaparecidos-en-Ensenada-tras-el-paso-de-la-tormenta;-ciudadanos-se-suman-a-las-labores",
-        "_added_at": "2026-10-13T02:34:59.700925-07:00"
-      },
-      {
-        "title": "Ejército y Guardia Nacional rescatan 32 personas en Ensenada",
-        "summary": "Helicópteros militares extrajeron a 32 personas atrapadas en un rancho de Ensenada durante la tormenta.",
-        "zona": "Ensenada",
-        "source": "Milenio",
-        "url": "https://www.milenio.com/politica/ejercito-rescata-32-personas-aisladas-ensenada-tormenta",
-        "_added_at": "2026-10-13T02:34:59.700925-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Proponen endurecer penas contra montachoques en Baja California",
+        "summary": "Diputados proponen aumentar sanciones para criminales dedicados a provocar accidentes automovilísticos con fines de extorsión.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/estatal/2026/10/13/proponen-endurecer-penas-contra-montachoques-en-baja-california/",
+        "_added_at": "2026-10-13T18:02:08.195427-07:00"
+      },
+      {
+        "title": "Proponen hasta ocho años de prisión por mentir ante autoridades",
+        "summary": "Iniciativa en Congreso local busca sancionar con prisión a quienes cometan falso testimonio ante funcionarios.",
+        "zona": "Baja California",
+        "source": "AGP Noticias",
+        "url": "https://agpnoticias.com/news/proponen-hasta-ocho-anos-de-prision-por-mentir-ante-autoridades-en-baja-california/",
+        "_added_at": "2026-10-13T18:02:08.195427-07:00"
+      },
+      {
+        "title": "COPARMEX Ensenada pide transparencia en nuevo gasto municipal",
+        "summary": "Organismo empresarial demanda justificación de nuevos cobros y mayor transparencia en erogaciones del gobierno municipal.",
+        "zona": "Ensenada",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/10/13/coparmex-ensenada-pide-justificar-nuevos-cobros-y-transparentar-gasto-municipal/",
+        "_added_at": "2026-10-13T18:02:08.195427-07:00"
+      },
+      {
+        "title": "Proponen apoyo económico para cuidadores de familiares sin salario",
+        "summary": "Se plantea crear programa de asistencia para personas que cuidan a parientes sin recibir remuneración.",
+        "zona": "Baja California",
+        "source": "AGP Noticias",
+        "url": "https://agpnoticias.com/news/proponen-apoyo-economico-para-quienes-cuidan-a-familiares-sin-recibir-un-salario/",
+        "_added_at": "2026-10-13T18:02:08.195427-07:00"
+      },
       {
         "title": "Julieta Ramírez encabezará nueva etapa de Morena en BC",
         "summary": "Nueva presidenta de Morena rinde protesta ante Consejo Nacional para liderar reorganización morenista estatal.",
@@ -144,6 +216,30 @@
     ],
     "economia": [
       {
+        "title": "Disminuyen cirugías bariátricas en Tijuana por medicamentos para bajar peso",
+        "summary": "Cifra de procedimientos quirúrgicos cae hasta 70 por ciento; médicos atribuyen reducción al auge de fármacos para pérdida de peso.",
+        "zona": "Tijuana",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/100550/Disminuyen-hasta-70%25-las-cirug%C3%ADas-bari%C3%A1tricas-en-Tijuana,-el-principal-factor-es-el-auge-de-medicamentos-para-bajar-de-peso",
+        "_added_at": "2026-10-13T18:02:08.195427-07:00"
+      },
+      {
+        "title": "Pérdidas millonarias reportadas en Maneadero tras tormenta Rachel",
+        "summary": "Familias y negocios en Maneadero reportan daños económicos considerables tras paso de la tormenta.",
+        "zona": "Ensenada",
+        "source": "Rada Noticias",
+        "url": "https://radanoticias.info/reportan-perdidas-millonarias-en-maneadero/",
+        "_added_at": "2026-10-13T18:02:08.195427-07:00"
+      },
+      {
+        "title": "Stirtt Tijuana emplaza a huelga a radiodifusora",
+        "summary": "Sindicato de trabajadores emisora de radio emite emplazamiento a huelga por demandas laborales.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182909_stirtt_tijuana_emplaza_a_huelga_a_radiodifusora",
+        "_added_at": "2026-10-13T18:02:08.195427-07:00"
+      },
+      {
         "title": "Industria en BC ajusta turnos por nuevas reglas laborales",
         "summary": "Sector manufacturero reformula nóminas y horarios por cambios en normativa de trabajo.",
         "zona": "Tijuana",
@@ -178,6 +274,46 @@
     ],
     "eventos": [
       {
+        "title": "Kurrak Film Awards llega a tercera edición con temática territorial",
+        "summary": "Festival de cine en Tijuana celebra su tercera versión enfocado en identidad, memoria y territorio.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/identidad-memoria-y-territorio-en-la-3-edicion-de-kurrak-film-awards/?utm_source=rss&utm_medium=rss&utm_campaign=identidad-memoria-y-territorio-en-la-3-edicion-de-kurrak-film-awards",
+        "_added_at": "2026-10-13T18:02:08.195427-07:00"
+      },
+      {
+        "title": "Elefante celebra treinta años en el Foro de Tijuana",
+        "summary": "Banda de rock mexicana realiza presentación especial conmemorativa en venue tiajuanense.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/elefante-festejara-30-anos-en-el-foro/?utm_source=rss&utm_medium=rss&utm_campaign=elefante-festejara-30-anos-en-el-foro",
+        "_added_at": "2026-10-13T18:02:08.195427-07:00"
+      },
+      {
+        "title": "Primer festival y jornada de limpieza Arroyo (A)mar en Ensenada",
+        "summary": "Convocatoria a evento comunitario que combina celebración cultural con limpieza de arroyo local.",
+        "zona": "Ensenada",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/10/13/invitan-al-primer-festival-y-jornada-de-limpieza-arroyo-amar-en-ensenada/",
+        "_added_at": "2026-10-13T18:02:08.195427-07:00"
+      },
+      {
+        "title": "Binational Race San Diego-Tijuana fortalecerá unión regional",
+        "summary": "Carrera binacional busca reforzar lazos entre San Diego y Tijuana además de apoyar causas sociales.",
+        "zona": "Tijuana",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/13/binational-race-san-diego-tijuana-fortalecera-la-union-regional-y-apoyara-causas-sociales/",
+        "_added_at": "2026-10-13T18:02:08.195427-07:00"
+      },
+      {
+        "title": "Encuentro Binacional de Hospitalidad Médica anunciado en Tijuana",
+        "summary": "Convocatoria a foro médico binacional enfocado en temas de atención hospitalaria entre México y Estados Unidos.",
+        "zona": "Tijuana",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/100549/Anuncian-Encuentro-Binacional-de-Hospitalidad-M%C3%A9dica-en-Tijuana",
+        "_added_at": "2026-10-13T18:02:08.195427-07:00"
+      },
+      {
         "title": "Sinergia 2026 conecta artistas globales en CETYS Ensenada",
         "summary": "Festival de arte reunirá creadores de distintos países en foro universitario.",
         "zona": "Ensenada",
@@ -203,6 +339,54 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Protestan trabajadores del IMSS en Tijuana y Mexicali por medicamentos",
+        "summary": "Personal médico y administrativo del IMSS en ambas ciudades realizan manifestaciones por falta de medicinas e incremento salarial.",
+        "zona": "Baja California",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/10/13/protestan-pacientes-y-trabajadores-del-imss-por-falta-de-medicamentos-en-tijuana/",
+        "_added_at": "2026-10-13T18:02:08.195427-07:00"
+      },
+      {
+        "title": "Campaña invernal 2026-2027 inicia vacunación en Baja California",
+        "summary": "Autoridades de salud lanzan programa de inmunización contra covid-19 e influenza con meta de 1.4 millones de dosis.",
+        "zona": "Baja California",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/10/13/inicia-vacunacion-invernal-2026-2027-en-baja-california/",
+        "_added_at": "2026-10-13T18:02:08.195427-07:00"
+      },
+      {
+        "title": "Imjuvens y Conalep impulsarán Educación Dual en Ensenada",
+        "summary": "Instituciones educativas colaborarán para ampliar programa de educación dual que combina formación académica y laboral.",
+        "zona": "Ensenada",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/comunidad/182911_imjuvens_y_conalep_impulsaran_la_educacion_dual_en_ensenada_agaton",
+        "_added_at": "2026-10-13T18:02:08.195427-07:00"
+      },
+      {
+        "title": "Caravanas de Salud refuerzan atención médica en Maneadero",
+        "summary": "Brigadas sanitarias llegan a zona afectada por tormenta para brindar servicios de salud a comunidades vulnerables.",
+        "zona": "Ensenada",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/10/13/caravanas-de-salud-refuerzan-atencion-medica-en-maneadero-tras-las-lluvias/",
+        "_added_at": "2026-10-13T18:02:08.195427-07:00"
+      },
+      {
+        "title": "Lluvias elevan riesgo de dengue en Tijuana",
+        "summary": "Autoridades de salud advierten sobre incremento de mosquitos transmisores de dengue tras acumulación de agua.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/10/13/lluvias-de-rachel-y-el-super-nino-elevan-riesgo-de-dengue-en-tijuana/",
+        "_added_at": "2026-10-13T18:02:08.195427-07:00"
+      },
+      {
+        "title": "Cofepris alerta sobre medicamentos falsificados para ojos e insomnio",
+        "summary": "Autoridad sanitaria emite alerta sobre circulación de fármacos adulterados en el mercado local.",
+        "zona": "Baja California",
+        "source": "TV Azteca BC",
+        "url": "https://www.tvaztecabajacalifornia.com/noticias/cofepris-emite-alerta-estos-medicamentos-falsos/",
+        "_added_at": "2026-10-13T18:02:08.195427-07:00"
+      },
       {
         "title": "Ejército rescata 32 personas atrapadas en rancho de Ensenada",
         "summary": "Helicópteros militares y Guardia Nacional evacúan a civiles aislados por tormenta Rachel.",
@@ -274,24 +458,8 @@
         "source": "Milenio",
         "url": "https://www.milenio.com/videos/policia/suman-4-muertos-lluvias-rachel-baja-california",
         "_added_at": "2026-10-13T02:34:59.700925-07:00"
-      },
-      {
-        "title": "Daños severos en infraestructura de Playas de Tijuana",
-        "summary": "Calles presentan socavones y grietas; autoridades ordenan cierre de zonas afectadas tras Rachel.",
-        "zona": "Tijuana",
-        "source": "TV Azteca BC",
-        "url": "https://www.tvaztecabajacalifornia.com/noticias/calles-destrozadas-en-playas-de-tijuana-socavones-y-cierres-tras-rachel/",
-        "_added_at": "2026-10-13T02:34:59.700925-07:00"
-      },
-      {
-        "title": "Residentes evacuados por grietas en colonia 3 de Octubre",
-        "summary": "Autoridades ordenan desalojo de viviendas afectadas por agrietamientos del terreno tras inundaciones.",
-        "zona": "Tijuana",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/182872_residentes_de_casas_afectadas_por_grietas_en_la_3_de_octubre_deben_desalojar_la_zona_burgueno",
-        "_added_at": "2026-10-13T02:34:59.700925-07:00"
       }
     ]
   },
-  "last_updated": "2026-10-13T14:07:03.061912-07:00"
+  "last_updated": "2026-10-13T18:02:08.195427-07:00"
 }
