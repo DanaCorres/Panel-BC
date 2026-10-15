@@ -1,8 +1,56 @@
 {
   "date": "2026-10-14",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Policía municipal herido por disparos; pide donaciones de sangre",
+        "summary": "Agente de Tijuana recibe disparos y es trasladado a Cruz Roja. Autoridades solicitan apoyo ciudadano con donaciones de sangre.",
+        "zona": "Tijuana",
+        "source": "TJ Comunica / ZETA Tijuana",
+        "url": "https://tjcomunica.com/policia-municipal-resulta-lesionado-por-disparos-lo-trasladan-a-cruz-roja/",
+        "_added_at": "2026-10-14T17:22:49.226372-07:00"
+      },
+      {
+        "title": "Nueve cuerpos localizados en Maneadero tras tormenta Rachel",
+        "summary": "Hallan nueve víctimas sin vida en zona de Maneadero, Ensenada, como consecuencia de los desbordamientos causados por la tormenta.",
+        "zona": "Ensenada",
+        "source": "Rada Noticias / ZETA Tijuana",
+        "url": "https://radanoticias.info/localizan-ya-nueve-cuerpos-sin-vida-en-maneadero/",
+        "_added_at": "2026-10-14T17:22:49.226372-07:00"
+      },
+      {
+        "title": "Detienen a hombre con fusil de asalto en Tijuana",
+        "summary": "Policía municipal detiene a individuo que portaba arma larga en zona residencial de Tijuana.",
+        "zona": "Tijuana",
+        "source": "El Mexicano / AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/182943_detienen_en_tijuana_a_individuo_con_fusil_tras_cometer_falta_administrativa",
+        "_added_at": "2026-10-14T17:22:49.226372-07:00"
+      },
+      {
+        "title": "\"El Cara de Luna\" vinculado a proceso penal por violencia",
+        "summary": "Presunto generador de violencia enfrenta cargos penales. Caso refleja continuidad en lucha contra crimen organizado.",
+        "zona": "Baja California",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/100576/Va-%22El-Cara-de-Luna%22-a-proceso-penal-como-generador-de-violencia",
+        "_added_at": "2026-10-14T17:22:49.226372-07:00"
+      },
+      {
+        "title": "Exmilitares obtienen amparo por delincuencia organizada",
+        "summary": "Tres exmilitares logran sentencia favorable en amparos contra cargos de delincuencia organizada.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/amparo-y-libertad-a-tres-exmilitares-por-delincuencia-organizada/",
+        "_added_at": "2026-10-14T17:22:49.226372-07:00"
+      },
+      {
+        "title": "FGE refuerza búsqueda de desaparecidos tras tormenta",
+        "summary": "Fiscalía intensifica operativo para localizar personas desaparecidas durante el paso de Rachel en Baja California.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/14/refuerza-fge-busqueda-de-personas-desaparecidas-durante-la-tormenta/",
+        "_added_at": "2026-10-14T17:22:49.226372-07:00"
+      },
       {
         "title": "Tormenta Rachel deja 8 muertos y 4 desaparecidos en Ensenada",
         "summary": "Desbordamiento de arroyos por lluvia extrema causa múltiples fallecidos y desaparecidos. Autoridades realizan operativos de búsqueda y rescate en zonas afectadas.",
@@ -74,17 +122,49 @@
         "source": "TV Azteca BC",
         "url": "https://www.tvaztecabajacalifornia.com/noticias/dengue-en-tijuana-identifican-siete-casos-y-alertan-por-agua-estancada/",
         "_added_at": "2026-10-14T00:49:13.592377-07:00"
-      },
-      {
-        "title": "Investigación por relación entre Julieta Ramírez y \"Don Flaco\"",
-        "summary": "Detención genera interrogantes sobre vínculos y circunstancias en caso que investigan autoridades locales.",
-        "zona": "Baja California",
-        "source": "TV Azteca BC",
-        "url": "https://www.tvaztecabajacalifornia.com/noticias/que-relacion-hay-entre-julieta-ramirez-y-don-flaco-su-detencion-genera-interrogantes/",
-        "_added_at": "2026-10-14T00:49:13.592377-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "PRI denuncia violación electoral de Marina del Pilar ante IEE",
+        "summary": "Partido acusa a gobernadora de incumplimiento a ley electoral. Denuncia presentada ante Instituto Estatal Electoral.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182956_denuncia_el_pri_a_marina_del_pilar_ante_el_iee_por_presunta_violacion_a_la_ley_electoral",
+        "_added_at": "2026-10-14T17:22:49.226372-07:00"
+      },
+      {
+        "title": "Oposición critica techo de deuda para 2027 en BC",
+        "summary": "Diputados opositores atacan propuesta de endeudamiento estatal. Argumentan que estado pide dinero para pagar compromisos previos.",
+        "zona": "Baja California",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/pedimos-prestado-para-pagar-la-tarjeta-oposicion-arremete-contra-el-techo-de-deuda-para-2027/",
+        "_added_at": "2026-10-14T17:22:49.226372-07:00"
+      },
+      {
+        "title": "PRI critica retrocesos de Morena en Baja California",
+        "summary": "Partido opositor afirma que gobierno de Morena ha generado más problemas que soluciones en el estado.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182953_morena_ha_traido_mas_retrocesos_que_aciertos_a_bc_pri",
+        "_added_at": "2026-10-14T17:22:49.226372-07:00"
+      },
+      {
+        "title": "Claudia Agatón solicita declaratoria desastre natural en Ensenada",
+        "summary": "Presidenta municipal pide al gobierno federal reconocimiento oficial de emergencia por efectos de tormenta Rachel.",
+        "zona": "Ensenada",
+        "source": "AFN Tijuana / TJ Comunica",
+        "url": "https://www.afntijuana.info/informacion_general/182954_claudia_agaton_solicita_declaratoria_de_desastre_natural_para_ensenada",
+        "_added_at": "2026-10-14T17:22:49.226372-07:00"
+      },
+      {
+        "title": "PRI llama a fortalecer participación ciudadana",
+        "summary": "Partido exhorta a ciudadanía a involucrarse en procesos democráticos municipales.",
+        "zona": "Tijuana",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/100578/Llama-PRI-a-fortalecer-la-participaci%C3%B3n-ciudadana",
+        "_added_at": "2026-10-14T17:22:49.226372-07:00"
+      },
       {
         "title": "Sheinbaum respalda exoneración de Francisco Garduño",
         "summary": "Presidenta defiende decisión judicial sobre caso de exfuncionario. Afirma que resolución corresponde a determinación de órganos jurisdiccionales.",
@@ -152,6 +232,38 @@
     ],
     "economia": [
       {
+        "title": "BC busca ampliar participación en industria de semiconductores",
+        "summary": "Estado impulsa estrategia para posicionarse en mercado global de tecnología y chips. Busca atraer más inversión en sector.",
+        "zona": "Baja California",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/10/14/baja-california-busca-ampliar-su-participacion-en-la-industria-global-de-semiconductores/",
+        "_added_at": "2026-10-14T17:22:49.226372-07:00"
+      },
+      {
+        "title": "Canaco denuncia multa excesiva a comerciante formal en Tijuana",
+        "summary": "Cámara de Comercio cuestiona sanción administrativo a negocio que cumple obligaciones. Pide revisión de procedimiento.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182957_denuncia_canaco_tijuana_multa_excesiva_a_comerciante_formal",
+        "_added_at": "2026-10-14T17:22:49.226372-07:00"
+      },
+      {
+        "title": "Index BC cierra ronda de encuentros con membresía",
+        "summary": "Guillermo del Río concluye acercamientos con agremiados de asociación empresarial.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/14/cierra-guillermo-del-rio-la-ronda-de-acercamientos-con-la-membresia-de-index-bc/",
+        "_added_at": "2026-10-14T17:22:49.226372-07:00"
+      },
+      {
+        "title": "Renuncia titular de FOMYDE Mexicali",
+        "summary": "Director de Fondo de Modernización y Desarrollo Económico deja su cargo sin detallar motivos.",
+        "zona": "Mexicali",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/100575/Renuncia-titular-de-FOMYDE-Mexicali",
+        "_added_at": "2026-10-14T17:22:49.226372-07:00"
+      },
+      {
         "title": "BC se consolida en mercado global de semiconductores",
         "summary": "Estado participa en Semicon West 2026 en San Francisco. Industria tecnológica de Baja California fortalece presencia internacional.",
         "zona": "Baja California",
@@ -202,6 +314,30 @@
     ],
     "eventos": [
       {
+        "title": "Casa de la Cultura de Tijuana celebra 49 aniversario",
+        "summary": "Institución cultural conmemora casi cinco décadas de actividades artísticas y educativas en la ciudad.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/sociales/182949_celebraran_este_jueves_15_el_49_aniversario_de_la_casa_de_la_cultura_de_tijuana",
+        "_added_at": "2026-10-14T17:22:49.226372-07:00"
+      },
+      {
+        "title": "Carrera atlética \"Corredores Vivientes 5K\" en Tijuana",
+        "summary": "Se presenta evento deportivo comunitario de cinco kilómetros con fines de integración ciudadana.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/presentan-carrera-atletica-el-regreso-de-los-corredores-vivientes-5k/",
+        "_added_at": "2026-10-14T17:22:49.226372-07:00"
+      },
+      {
+        "title": "\"Efímero\" lleva experiencia migratoria a escena en Festival Octubre",
+        "summary": "Producción teatral aborda tema migratorio en marco de festival cultural de Tijuana.",
+        "zona": "Tijuana",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/14/efimero-lleva-la-experiencia-migratoria-a-escena-en-el-festival-de-octubre/",
+        "_added_at": "2026-10-14T17:22:49.226372-07:00"
+      },
+      {
         "title": "Encuentro Binacional de Hospitalidad Médica en BC",
         "summary": "Región fortalece posicionamiento como destino de turismo de salud. Evento promueve excelencia médica en atención transfronteriza.",
         "zona": "Baja California",
@@ -211,6 +347,54 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Más de 600 familias afectadas por tormenta Rachel en BC",
+        "summary": "Emergencia climática impacta viviendas en múltiples municipios. Gobierno activa protocolos de atención a damnificados.",
+        "zona": "Baja California",
+        "source": "En Línea BC / Gobierno BC",
+        "url": "https://www.enlineabc.com.mx/estatal/2026/10/14/suman-mas-de-600-familias-afectadas-por-la-tormenta-rachel-en-bc/",
+        "_added_at": "2026-10-14T17:22:49.226372-07:00"
+      },
+      {
+        "title": "Rachel dejó lluvia equivalente a medio año en Ensenada",
+        "summary": "Tormenta descargó cantidad extraordinaria de precipitación en pocas horas. Datos meteorológicos muestran impacto sin precedentes.",
+        "zona": "Ensenada",
+        "source": "AGP Noticias",
+        "url": "https://agpnoticias.com/news/rachel-dejo-en-ensenada-el-equivalente-a-la-mitad-de-la-lluvia-de-todo-un-ano/",
+        "_added_at": "2026-10-14T17:22:49.226372-07:00"
+      },
+      {
+        "title": "Suspenden clases en escuelas básicas jueves y viernes",
+        "summary": "Educación básica en Baja California cierra dos días. Medida responde a efectos climáticos adversos.",
+        "zona": "Baja California",
+        "source": "TV Azteca BC",
+        "url": "https://www.tvaztecabajacalifornia.com/noticias/sin-clases-jueves-y-viernes-anuncian-suspension-en-escuelas-para-alumnos-de-educacion-basica/",
+        "_added_at": "2026-10-14T17:22:49.226372-07:00"
+      },
+      {
+        "title": "Retiran suplemento para bebés con alcoholes no declarados",
+        "summary": "Alerta sanitaria: detectan componentes alcohólicos indebidamente omitidos en fórmula infantil. Retirada de producto ordenada.",
+        "zona": "Baja California",
+        "source": "TV Azteca BC",
+        "url": "https://www.tvaztecabajacalifornia.com/noticias/alerta-en-el-mercado-retiran-suplemento-para-bebes-tras-hallazgo-de-alcoholes-no-declarados-en-su-fula/",
+        "_added_at": "2026-10-14T17:22:49.226372-07:00"
+      },
+      {
+        "title": "Transportistas de Tijuana demandan inclusión en planeación vial",
+        "summary": "Alianza del sector exige participación formal en decisiones sobre movilidad urbana y rutas.",
+        "zona": "Tijuana",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/100580/Reactivan-alianza-transportista-en-Tijuana-para-exigir-inclusi%C3%B3n-y-planeaci%C3%B3n-vial",
+        "_added_at": "2026-10-14T17:22:49.226372-07:00"
+      },
+      {
+        "title": "CCE: esfuerzos federales insuficientes contra homicidios",
+        "summary": "Consejo Coordinador Empresarial critica que acciones de gobierno no reducen cifras de muertes violentas.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182945_insuficientes_los_esfuerzos_federales_para_reducir_homicidios_en_bc_cce",
+        "_added_at": "2026-10-14T17:22:49.226372-07:00"
+      },
       {
         "title": "Autoridades atienden familias afectadas por deslave en Ensenada",
         "summary": "Gobierno implementa plan de atención para damnificados en Lomas de San Fernando. Supervisión de limpieza y desazolve en zonas dañadas por tormenta.",
@@ -285,5 +469,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-14T13:05:31.986134-07:00"
+  "last_updated": "2026-10-14T17:22:49.226372-07:00"
 }
