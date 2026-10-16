@@ -1,8 +1,48 @@
 {
   "date": "2026-10-16",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Rescatan 16 personas en altamar frente a Ensenada",
+        "summary": "Operativo de rescate en el mar frente a Ensenada tras inundación de embarcación. Autoridades buscan posibles náufragos adicionales.",
+        "zona": "Ensenada",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/16/rescatan-a-16-personas-en-altamar-frente-a-ensenada-buscan-a-mas-posibles-naufragos/",
+        "_added_at": "2026-10-16T12:28:42.738528-07:00"
+      },
+      {
+        "title": "FGR procesa a dos hombres por tráfico de personas",
+        "summary": "La Fiscalía General procesa a dos individuos por presuntos delitos de tráfico de personas y falsificación de billetes en Baja California.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/16/fgr-procesa-a-dos-hombres-por-presunto-trafico-de-personas-y-uso-de-billetes-falsos-en-baja-california/",
+        "_added_at": "2026-10-16T12:28:42.738528-07:00"
+      },
+      {
+        "title": "Incendio destruye seis viviendas en asentamiento de Tijuana",
+        "summary": "Incendio consume múltiples casas en asentamiento irregular de la Vía Rápida Poniente en Tijuana.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/policiaca/2026/10/16/incendio-consume-seis-viviendas-en-asentamiento-irregular-de-la-via-rapida-poniente/",
+        "_added_at": "2026-10-16T12:28:42.738528-07:00"
+      },
+      {
+        "title": "Menor detenido tras balacera en Playas de Tijuana",
+        "summary": "Policía detiene a menor de edad con armas de fuego tras disparar contra una persona en Playas de Tijuana.",
+        "zona": "Tijuana",
+        "source": "TV Azteca BC",
+        "url": "https://www.tvaztecabajacalifornia.com/policiaca/menor-es-detenido-con-pistola-y-rifle-tras-balear-a-un-hombre-en-playas-de-tijuana/",
+        "_added_at": "2026-10-16T12:28:42.738528-07:00"
+      },
+      {
+        "title": "Proponen castigo a sustancias para someter a víctimas",
+        "summary": "Iniciativa legislativa en Baja California busca tipificar el uso de drogas para subyugar a víctimas de delito.",
+        "zona": "Baja California",
+        "source": "AGP Noticias",
+        "url": "https://agpnoticias.com/news/buscan-castigar-en-baja-california-el-uso-de-sustancias-para-someter-a-victimas/",
+        "_added_at": "2026-10-16T12:28:42.738528-07:00"
+      },
       {
         "title": "BC acumula más de mil homicidios en 2026",
         "summary": "El PAN denuncia que Baja California ha registrado más de mil homicidios en lo que va del año, evidenciando la crisis de violencia en el estado.",
@@ -29,6 +69,54 @@
       }
     ],
     "politica": [
+      {
+        "title": "Ramón Vázquez renuncia a Secretaría de Gobierno de Tijuana",
+        "summary": "Renuncia confirmada del Secretario de Gobierno Municipal de Tijuana tras 35 cambios en el Ayuntamiento.",
+        "zona": "Tijuana",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/100664/Presenta-Ram%C3%B3n-V%C3%A1zquez-su-renuncia-a-la-Secretar%C3%ADa-de-Gobierno-Municipal-de-Tijuana",
+        "_added_at": "2026-10-16T12:28:42.738528-07:00"
+      },
+      {
+        "title": "INE instalará 500 casillas más en Baja California",
+        "summary": "Instituto Nacional Electoral prepara infraestructura electoral ampliada para próximo proceso electoral en el estado.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/183041_instalara_ine_casi_500_casillas_mas_en_bc_para_el_proximo_proceso_electoral",
+        "_added_at": "2026-10-16T12:28:42.738528-07:00"
+      },
+      {
+        "title": "Ledesma busca representar Quinto Distrito por Morena",
+        "summary": "Luis Felipe Ledesma se postula como candidato de Morena para la diputación federal por el Quinto Distrito.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/politica/2026/10/16/luis-felipe-ledesma-busca-representar-al-quinto-distrito-federal-por-morena/",
+        "_added_at": "2026-10-16T12:28:42.738528-07:00"
+      },
+      {
+        "title": "Regidora alerta por inestabilidad en Ayuntamiento de Tijuana",
+        "summary": "Funcionaria municipal advierte sobre impacto negativo de 35 cambios administrativos en la estabilidad institucional.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/183040_regidora_alerta_por_inestabilidad_ante_35_relevos_en_el_ayuntamiento",
+        "_added_at": "2026-10-16T12:28:42.738528-07:00"
+      },
+      {
+        "title": "Decreto federal sobre protección infantil digital en BC",
+        "summary": "Nueva norma federal DOF octubre 14 establece medidas de protección ante riesgos digitales para menores en el estado.",
+        "zona": "Baja California",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/riesgos-digitales-y-proteccion-infantil-baja-california-ante-el-nuevo-decreto-federal-dof-14-de-octubre-de-2026/",
+        "_added_at": "2026-10-16T12:28:42.738528-07:00"
+      },
+      {
+        "title": "Proponen digitalizar entrega-recepción de asuntos públicos",
+        "summary": "Iniciativa busca modernizar trámites de transición administrativa en el gobierno de Baja California.",
+        "zona": "Baja California",
+        "source": "Rada Noticias",
+        "url": "https://radanoticias.info/proponen-digitalizar-entrega-recepcion-de-asuntos-y-recursos-publicos-en-bc/",
+        "_added_at": "2026-10-16T12:28:42.738528-07:00"
+      },
       {
         "title": "Sindicatura investiga a funcionario por irregularidades",
         "summary": "Dos investigaciones abiertas contra un servidor público en Tijuana por presuntas faltas administrativas y malos manejos.",
@@ -64,6 +152,14 @@
     ],
     "economia": [
       {
+        "title": "Consulado de EU en Tijuana permitirá celulares desde octubre",
+        "summary": "Cambio administrativo: estadounidenses podrán ingresar teléfonos celulares a salas de espera del consulado.",
+        "zona": "Tijuana",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/16/consulado-de-estados-unidos-en-tijuana-permitira-ingreso-de-celulares-a-partir-del-20-de-octubre/",
+        "_added_at": "2026-10-16T12:28:42.738528-07:00"
+      },
+      {
         "title": "Multan a club Águilar por uso de pirotecnia",
         "summary": "Autoridades de Mexicali sancionarán al club de futbol con multa superior a 23 mil pesos por incumplimiento de normativa.",
         "zona": "Mexicali",
@@ -74,6 +170,30 @@
     ],
     "eventos": [
       {
+        "title": "CETYS reúne talento estudiantil en coloquio de investigación",
+        "summary": "Primer Coloquio Estudiantil de Investigación congrega investigadores de los tres campus de CETYS Universidad.",
+        "zona": "Ensenada",
+        "source": "EnsenadaHoy",
+        "url": "https://ensenadahoy.com/noticias/ver/69A2",
+        "_added_at": "2026-10-16T12:28:42.738528-07:00"
+      },
+      {
+        "title": "Savannah Bananas anuncia gira por México en 2027",
+        "summary": "Equipo de béisbol anunciador su primer tour mexicano con paradas en Tijuana y Monterrey.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/deporte/2026/10/16/savannah-bananas-llegaran-a-tijuana-y-monterrey-en-2027-como-conseguir-boletos/",
+        "_added_at": "2026-10-16T12:28:42.738528-07:00"
+      },
+      {
+        "title": "AGP realiza carrera atlética por aniversario",
+        "summary": "Evento deportivo de conmemoración organizó por la institución en Ensenada.",
+        "zona": "Ensenada",
+        "source": "Rada Noticias",
+        "url": "https://radanoticias.info/realizara-agp-carrera-atletica-por-aniversario/",
+        "_added_at": "2026-10-16T12:28:42.738528-07:00"
+      },
+      {
         "title": "Altar de muertos en Mercado Hidalgo",
         "summary": "Se inaugura tradicional ofrenda de Día de Muertos en el principal mercado de Tijuana con participación comunitaria.",
         "zona": "Tijuana",
@@ -83,6 +203,30 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Brigadas de salud atienden zonas afectadas por Rachel",
+        "summary": "Personal médico realiza jornadas en comunidades impactadas por la tormenta tropical.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/16/brigadas-de-salud-atienden-zonas-afectadas-por-rachel/",
+        "_added_at": "2026-10-16T12:28:42.738528-07:00"
+      },
+      {
+        "title": "Adolescente de albergue destaca en concurso de arte nacional",
+        "summary": "Joven residente de albergue temporal obtiene reconocimiento en Concurso Nacional de Dibujo y Pintura.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/cultura/2026/10/16/destaca-adolescente-de-albergue-temporal-en-concurso-nacional-de-dibujo-y-pintura/",
+        "_added_at": "2026-10-16T12:28:42.738528-07:00"
+      },
+      {
+        "title": "Proponen rendición de cuentas sobre inclusión de alumnos con discapacidad",
+        "summary": "Iniciativa busca transparencia en políticas educativas de atención a estudiantes con capacidades diferentes.",
+        "zona": "Baja California",
+        "source": "AGP Noticias",
+        "url": "https://agpnoticias.com/news/proponen-que-educacion-rinda-cuentas-sobre-inclusion-de-alumnos-con-discapacidad/",
+        "_added_at": "2026-10-16T12:28:42.738528-07:00"
+      },
       {
         "title": "Ensenada evalúa daños: 60 colonias afectadas",
         "summary": "Tras tormenta Rachel, autoridades contabilizan afectaciones en 60 colonias de Ensenada con valoración en curso de infraestructura dañada.",
@@ -117,5 +261,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-16T00:21:53.447134-07:00"
+  "last_updated": "2026-10-16T12:28:42.738528-07:00"
 }
