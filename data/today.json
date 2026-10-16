@@ -1,8 +1,56 @@
 {
   "date": "2026-10-15",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Tijuana y Zona Río enfrentan riesgo de desastre por invasiones",
+        "summary": "IMPLAN identifica 800 hectáreas con alto riesgo en Tijuana; 37 viviendas marcadas en zona de Río Tijuana requieren reubicación urgente.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/afn_politico/183004_tijuana_y_su_zona_rio_en_riesgo_de_desastre",
+        "_added_at": "2026-10-15T17:11:05.201343-07:00"
+      },
+      {
+        "title": "Detienen a tres armados en carretera Tijuana-Rosarito",
+        "summary": "Operativo asegura a tres personas armadas; uno tenía orden de captura vigente.",
+        "zona": "Tijuana",
+        "source": "TV Azteca BC",
+        "url": "https://www.tvaztecabajacalifornia.com/policiaca/caen-tres-personas-armadas-en-la-carretera-tijuana-rosarito-uno-tenia-una-orden-de-captura/",
+        "_added_at": "2026-10-15T17:11:05.201343-07:00"
+      },
+      {
+        "title": "Capturan a 'Negro Pimentel' con armas y droga",
+        "summary": "Detención de sujeto con cinco armas de fuego y narcóticos en Tijuana.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/182993_detienen_al_negro_pimentel_traia_cinco_armas_de_fuego_y_drogas",
+        "_added_at": "2026-10-15T17:11:05.201343-07:00"
+      },
+      {
+        "title": "Suspenden a funcionario de Tijuana por abuso de autoridad",
+        "summary": "Servidor público municipal suspendido temporalmente mientras se investigan presuntas irregularidades.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/10/15/suspenden-temporalmente-a-funcionario-municipal-de-tijuana-investigado-por-abuso-de-funciones/",
+        "_added_at": "2026-10-15T17:11:05.201343-07:00"
+      },
+      {
+        "title": "Capturan a mujer ligada a robo donde resultó herido policía",
+        "summary": "Arrestan a sospechosa relacionada con sustracción de vehículo en que fue agredido elemento municipal.",
+        "zona": "Tijuana",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/municipales-capturan-a-mujer-relacionada-con-el-robo-de-vehiculo-en-el-que-un-policia-fue-herido-de-gravedad/",
+        "_added_at": "2026-10-15T17:11:05.201343-07:00"
+      },
+      {
+        "title": "Rechazan cuentas públicas de San Quintín, Tecate e Instituto Juventud",
+        "summary": "Congreso reprueba documentos contables de municipios y dependencia estatal por irregularidades.",
+        "zona": "Baja California",
+        "source": "AGP Noticias",
+        "url": "https://agpnoticias.com/news/rechazan-cuentas-publicas-de-san-quintin-tecate-y-el-instituto-de-la-juventud-de-tijuana/",
+        "_added_at": "2026-10-15T17:11:05.201343-07:00"
+      },
       {
         "title": "Policía baleado en Tijuana; mujer detenida tras ataque",
         "summary": "Agente de policía fue herido de gravedad en Zona Industrial Pacífico. Mujer relacionada con robo de vehículo fue capturada; policía reportado fuera de peligro.",
@@ -74,17 +122,33 @@
         "source": "TV Azteca BC",
         "url": "https://www.tvaztecabajacalifornia.com/noticias/denuncian-accidentes-y-maniobras-peligrosas-de-transporte-de-carga-en-la-carretera-libre-tijuana-tecate/",
         "_added_at": "2026-10-15T00:35:40.484052-07:00"
-      },
-      {
-        "title": "Transformadores explotan en vía pública de Tijuana",
-        "summary": "Explosión de transformadores eléctricos en plena calle genera riesgo y afecta servicios en la zona.",
-        "zona": "Tijuana",
-        "source": "TV Azteca BC",
-        "url": "https://www.tvaztecabajacalifornia.com/noticias/explotan-transformadores-en-plena-via-publica-en-tijuana/",
-        "_added_at": "2026-10-15T00:35:40.484052-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Sheinbaum promete apoyo total a Baja California por Rachel",
+        "summary": "Presidenta declara que gobierno federal respaldaría completamente a estado afectado por tormenta.",
+        "zona": "Baja California",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/todo-el-apoyo-que-requiere-baja-california-se-lo-vamos-a-dar-aseguro-sheinbaum-ante-danos-por-la-tormenta-rachael/",
+        "_added_at": "2026-10-15T17:11:05.201343-07:00"
+      },
+      {
+        "title": "Diputado Razo propone digitalizar trámites de gobierno",
+        "summary": "Iniciativa busca modernizar entrega de recursos y asuntos entre funcionarios públicos en BC.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/15/propone-diputado-razo-digitalizar-la-entrega-recepcion-de-asuntos-y-recursos-publicos/",
+        "_added_at": "2026-10-15T17:11:05.201343-07:00"
+      },
+      {
+        "title": "Nancy Sánchez se inscribe en proceso interno de Morena Mexicali",
+        "summary": "Aspirante participa en selección para coordinación municipal de Morena en Mexicali.",
+        "zona": "Mexicali",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/100632/Nancy-S%C3%A1nchez-se-inscribe-en-proceso-interno-de-Morena-para-la-coordinaci%C3%B3n-municipal-de-Mexicali",
+        "_added_at": "2026-10-15T17:11:05.201343-07:00"
+      },
       {
         "title": "Sheinbaum promete apoyo inmediato a Baja California por tormenta",
         "summary": "Presidenta anuncia auxilio inmediato para Ensenada y Tijuana por daños causados por tormenta tropical Rachel.",
@@ -144,6 +208,30 @@
     ],
     "economia": [
       {
+        "title": "Cruceros impulsan turismo y actividad portuaria en Ensenada",
+        "summary": "Embarcaciones internacionales generan dinamismo económico y comercial en puerto local.",
+        "zona": "Ensenada",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/10/15/cruceros-internacionales-impulsan-el-turismo-y-la-actividad-portuaria-de-ensenada/",
+        "_added_at": "2026-10-15T17:11:05.201343-07:00"
+      },
+      {
+        "title": "Construcción en Tijuana sin repunte; CMIC reporta inversiones limitadas",
+        "summary": "Sector constructivo enfrenta débil demanda e inversión restringida durante 2026.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/10/15/construccion-en-tijuana-sigue-sin-repuntar-cmic-reporta-inversiones-limitadas-en-2026/",
+        "_added_at": "2026-10-15T17:11:05.201343-07:00"
+      },
+      {
+        "title": "Canirac y Secretaría del Trabajo impulsan apoyo a restauranteros",
+        "summary": "Accionan conjuntas entre cámara empresarial y autoridad laboral para fortalecer sector gastronómico.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/183000_promueven_acciones_conjuntas_canirac_y_secretaria_del_trabajo_en_apoyo_a_restauranteros",
+        "_added_at": "2026-10-15T17:11:05.201343-07:00"
+      },
+      {
         "title": "Hutchison Ports impulsa actividad turística y desarrollo portuario",
         "summary": "Operador portuario fortalece operaciones y atrae inversión turística en primeras semanas de octubre en Ensenada.",
         "zona": "Ensenada",
@@ -178,6 +266,30 @@
     ],
     "eventos": [
       {
+        "title": "Banana Ball llega a estadio de Toros en Tijuana",
+        "summary": "Liga de béisbol entretenimiento programa presentación en sede local del equipo.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/banana-ball-llegara-a-la-casa-de-los-toros/?utm_source=rss&utm_medium=rss&utm_campaign=banana-ball-llegara-a-la-casa-de-los-toros",
+        "_added_at": "2026-10-15T17:11:05.201343-07:00"
+      },
+      {
+        "title": "XV Congreso Latinoamericano de Ciencias Jurídicas en Rosarito",
+        "summary": "Reunión académica sobre derecho forense y salud mental se celebra en municipio costero.",
+        "zona": "Rosarito",
+        "source": "E1 Noticias",
+        "url": "https://www.ensenadaunonoticias.info/xv-congreso-latinoamericano-de-ciencias-juridicas-forenses-y-de-la-salud-mental-en-rosarito/",
+        "_added_at": "2026-10-15T17:11:05.201343-07:00"
+      },
+      {
+        "title": "UABC y SDSU fortalecen lazos en conferencia binacional RE:BORDER",
+        "summary": "Octava edición del encuentro universitario retoma colaboración transfronteriza.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/comunidad/183001_uabc_y_sdsu_fortalecen_lazos_en_la_8va_conferencia_binacional_re_border",
+        "_added_at": "2026-10-15T17:11:05.201343-07:00"
+      },
+      {
         "title": "Baja California participa en Festival Internacional Cervantino",
         "summary": "Estado presenta oferta cultural y artística en la 54 edición del importante festival nacional.",
         "zona": "Baja California",
@@ -203,6 +315,54 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Ensenada reporta daño de más de 3 millones m² por tormenta Rachel",
+        "summary": "Gobierno cuantifica afectaciones en vialidades, caminos e infraestructura tras lluvia extrema.",
+        "zona": "Ensenada",
+        "source": "EnsenadaHoy",
+        "url": "https://ensenadahoy.com/noticias/ver/69A1",
+        "_added_at": "2026-10-15T17:11:05.201343-07:00"
+      },
+      {
+        "title": "Desaladora de Ensenada sigue fuera de operación tras inundación",
+        "summary": "Planta que abastece 79 colonias permanece sin funcionar tras daños de Rachel.",
+        "zona": "Ensenada",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/ensenada/2026/10/15/sin-fecha-para-reactivar-la-desaladora-de-ensenada-que-abastece-a-79-colonias/",
+        "_added_at": "2026-10-15T17:11:05.201343-07:00"
+      },
+      {
+        "title": "Gobierno de Ensenada ofrece apoyo psicológico a damnificados",
+        "summary": "Municipio proporciona atención emocional y asesoría legal a familias afectadas por Rachel.",
+        "zona": "Ensenada",
+        "source": "E1 Noticias",
+        "url": "https://www.ensenadaunonoticias.info/llevan-atencion-psicologica-y-asesoria-legal-a-familias-afectadas-por-rachel-en-ensenada/",
+        "_added_at": "2026-10-15T17:11:05.201343-07:00"
+      },
+      {
+        "title": "Rachel deja 65 casas con pérdida total en San Quintín",
+        "summary": "Tormenta genera destrucción extrema en viviendas; otras 193 sufren daños significativos.",
+        "zona": "San Quintín",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/ensenada/2026/10/15/tormenta-rachel-deja-65-viviendas-con-perdida-total-y-otras-193-con-danos-en-san-quintin/",
+        "_added_at": "2026-10-15T17:11:05.201343-07:00"
+      },
+      {
+        "title": "FGE y Cruz Roja coordinan respuesta en emergencias",
+        "summary": "Fiscalía y organización humanitaria integran capacidades tecnológicas para atender crisis.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/15/fge-y-cruz-roja-suman-tecnologia-y-capacidades-para-atender-emergencias/",
+        "_added_at": "2026-10-15T17:11:05.201343-07:00"
+      },
+      {
+        "title": "Hospital General de Ensenada sanitizado tras Rachel",
+        "summary": "Institución sanitaria desinfecta instalaciones dañadas por tormenta para reanudar servicios.",
+        "zona": "Ensenada",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/182997_sanitizan_el_hospital_general_de_ensenada_tras_tormenta_rachel",
+        "_added_at": "2026-10-15T17:11:05.201343-07:00"
+      },
       {
         "title": "DIF entrega apoyos a 40 familias afectadas por tormenta Rachel",
         "summary": "Sistema municipal de bienestar atiende a damnificados en Maneadero con recursos de emergencia tras paso de huracán.",
@@ -277,5 +437,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-15T12:47:44.448534-07:00"
+  "last_updated": "2026-10-15T17:11:05.201343-07:00"
 }
