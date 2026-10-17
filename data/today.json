@@ -1,8 +1,64 @@
 {
   "date": "2026-10-17",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Condenan a 158 años a asesinos de surfistas extranjeros",
+        "summary": "Sentencia judicial contra responsables de homicidios de turistas extranjeros en Ensenada tras investigación y proceso penal.",
+        "zona": "Ensenada",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Ensenada/100688/Dan-158-a%C3%B1os-a-homicidas-de-surfistas-extranjeros-en-Ensenada",
+        "_added_at": "2026-10-17T16:53:58.615086-07:00"
+      },
+      {
+        "title": "Orden de aprehensión contra empresario por caso Micky Hair",
+        "summary": "Medida judicial contra empresario relacionado con caso de estafa o fraude comercial.",
+        "zona": "Tijuana",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/giran-orden-de-aprehension-contra-empresario-por-caso-micky-hair/",
+        "_added_at": "2026-10-17T16:53:58.615086-07:00"
+      },
+      {
+        "title": "Detienen a supuestos funcionarios por intento de extorsión",
+        "summary": "Captura de personas que se hacían pasar por servidores públicos para extorsionar a ciudadanos.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/183088_detienen_a_supuestos_funcionarios_federales_por_intento_de_extorsion",
+        "_added_at": "2026-10-17T16:53:58.615086-07:00"
+      },
+      {
+        "title": "Desalojadas familias de asentamiento irregular en Vía Rápida",
+        "summary": "Operativo de desalojo de viviendas informales en zona de riesgo; familias rehúsan albergue temporal.",
+        "zona": "Tijuana",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/tras-casi-10-horas-de-operativo-evacuan-a-todas-las-familias-de-asentamiento-irregular-en-via-rapida-poniente/",
+        "_added_at": "2026-10-17T16:53:58.615086-07:00"
+      },
+      {
+        "title": "Vinculan a Svarog por crueldad animal agravada",
+        "summary": "Sujeto procesado por maltrato animal; enfrenta múltiples denuncias por actos violentos contra gatos.",
+        "zona": "Ensenada",
+        "source": "E1 Noticias",
+        "url": "https://www.ensenadaunonoticias.info/vinculan-a-svarog-n-por-exhibir-gatos-con-organos-expuestos-ya-enfrenta-otro-proceso-por-crueldad-animal/",
+        "_added_at": "2026-10-17T16:53:58.615086-07:00"
+      },
+      {
+        "title": "Ejército busca desaparecidos tras huracán Rachel",
+        "summary": "Operativo militar intensificado para localizar personas desaparecidas por fenómeno meteorológico.",
+        "zona": "Ensenada",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/17/ejercito-intensifica-busqueda-de-desaparecidos-por-rachel-y-despliega-apoyo-medico-y-psicologico-en-ensenada/",
+        "_added_at": "2026-10-17T16:53:58.615086-07:00"
+      },
+      {
+        "title": "Menores resguardadas tras huir de violencia en Tijuana",
+        "summary": "Tres hermanas menores protegidas en Ensenada tras abandonar situación de maltrato en Tijuana.",
+        "zona": "Ensenada",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Ensenada/100700/Resguardan-a-tres-hermanas-menores-en-Ensenada,-huyeron-de-presunta-violencia-en-Tijuana",
+        "_added_at": "2026-10-17T16:53:58.615086-07:00"
+      },
       {
         "title": "Condenan a 158 años a asesinos de tres surfistas extranjeros",
         "summary": "Tribunal condena a tres personas a 158 años de cárcel por homicidio de turistas extranjeros. Caso de alto impacto cerrado con sentencia.",
@@ -66,17 +122,57 @@
         "source": "El Mexicano",
         "url": "https://el-mexicano.com.mx/Noticia/The%20Border/100684/Hallan-gran-cargamento-de-droga-escondido-entre-verduras-en-garita-de-Otay",
         "_added_at": "2026-10-17T00:04:05.273877-07:00"
-      },
-      {
-        "title": "Detienen a prófugo de Estados Unidos en Mexicali",
-        "summary": "Capturan en Mexicali a individuo requerido por autoridades estadounidenses.",
-        "zona": "Mexicali",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/183062_detienen_en_mexicali_a_profugo_de_estados_unidos",
-        "_added_at": "2026-10-17T00:04:05.273877-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Gobierno instala módulo de justicia itinerante en Maneadero",
+        "summary": "Administración de Claudia Agatón implementa servicio de justicia cívica móvil en comunidades de Ensenada.",
+        "zona": "Ensenada",
+        "source": "EnsenadaHoy",
+        "url": "https://ensenadahoy.com/noticias/ver/69A7",
+        "_added_at": "2026-10-17T16:53:58.615086-07:00"
+      },
+      {
+        "title": "Establecen ruta de atención para afectados por lluvias",
+        "summary": "Gobierno de México y BC convocan asambleas para familias damnificadas por contingencia climática Rachel.",
+        "zona": "Baja California",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/establecen-gobierno-de-mexico-y-baja-california-ruta-de-atencion-con-asambleas-para-familias-afectadas-por-lluvias/",
+        "_added_at": "2026-10-17T16:53:58.615086-07:00"
+      },
+      {
+        "title": "Gobierno avanza en reactivación tras afectaciones de Rachel",
+        "summary": "Claudia Agatón reporta progresos en recuperación de comunidades con apoyo federal.",
+        "zona": "Ensenada",
+        "source": "EnsenadaHoy",
+        "url": "https://ensenadahoy.com/noticias/ver/69A4",
+        "_added_at": "2026-10-17T16:53:58.615086-07:00"
+      },
+      {
+        "title": "Presentan iniciativa sobre imputaciones falsas contra docentes",
+        "summary": "Legisladores impulsan tipificación penal de denuncias infundadas contra personal educativo.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/estatal/2026/10/17/presentan-iniciativa-para-tipificar-imputaciones-y-quejas-falsas-contra-personal-docente/",
+        "_added_at": "2026-10-17T16:53:58.615086-07:00"
+      },
+      {
+        "title": "Evelyn Sánchez buscará coordinación de Morena en Tijuana",
+        "summary": "Aspirante a dirigencia municipal del partido en el ayuntamiento de Tijuana anuncia candidatura.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/183082_evelyn_sanchez_buscara_coordinacion_municipal_de_morena_en_tijuana",
+        "_added_at": "2026-10-17T16:53:58.615086-07:00"
+      },
+      {
+        "title": "UABC defiende autonomía frente al poder político",
+        "summary": "Universidad estatal reafirma su independencia institucional ante presiones externas.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/183080_uabc_destaca_la_defensa_de_la_autonomia_frente_al_poder_politico",
+        "_added_at": "2026-10-17T16:53:58.615086-07:00"
+      },
       {
         "title": "PRI Baja California denuncia uso de frases partidistas en evento oficial",
         "summary": "Partido denuncia presunto proselitismo en evento del área de Educación. Conflicto sobre neutralidad en actos gubernamentales.",
@@ -120,6 +216,22 @@
     ],
     "economia": [
       {
+        "title": "Reportan fallas en SPEI; recomiendan no duplicar envíos",
+        "summary": "Sistema de transferencias bancarias experimenta problemas; bancos advierten a usuarios esperar confirmación.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/dinero/2026/10/17/reportan-fallas-en-spei-y-las-transferencias-bancarias-por-retrasos-en-banxico-bancos-piden-a-usuarios-esperar-antes-de-volver-a-hacer-el-movimiento/",
+        "_added_at": "2026-10-17T16:53:58.615086-07:00"
+      },
+      {
+        "title": "Buscan nuevos perfiles para integrar Fuerza Estatal",
+        "summary": "Convocatoria abierta para reclutar personal en corporación estatal de seguridad.",
+        "zona": "Baja California",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/100699/Buscan-nuevos-perfiles-para-integrar-la-Fuerza-Estatal-de-Baja-California",
+        "_added_at": "2026-10-17T16:53:58.615086-07:00"
+      },
+      {
         "title": "Garita de Otay II podría operar en 2029, confirma Kurt Honold",
         "summary": "Funcionario proyecta inicio de operaciones de nueva caseta fronteriza. Infraestructura fronteriza de impacto económico.",
         "zona": "Tijuana",
@@ -154,6 +266,30 @@
     ],
     "eventos": [
       {
+        "title": "Conmemoran Día de Salud Mental con carrera de 5K",
+        "summary": "Evento deportivo en Tijuana para sensibilizar sobre problemas de salud mental.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/183093_conmemoran_con_carrera_de_5_kilometros_el_dia_mundial_de_la_salud_mental",
+        "_added_at": "2026-10-17T16:53:58.615086-07:00"
+      },
+      {
+        "title": "Elefante celebra tres décadas de música en vivo",
+        "summary": "Banda mexicana conmemora 30 años de trayectoria con presentación especial.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/elefante-festeja-tres-decadas-de-musica/",
+        "_added_at": "2026-10-17T16:53:58.615086-07:00"
+      },
+      {
+        "title": "The Atelier abre Pumpkin Patch con temática otoñal",
+        "summary": "Evento estacional en Ensenada con actividades familiares y decoraciones temáticas.",
+        "zona": "Ensenada",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/ensenada/2026/10/17/invita-the-atelier-pumpkin-patch-a-vivir-la-magia-del-otono-en-ensenada/",
+        "_added_at": "2026-10-17T16:53:58.615086-07:00"
+      },
+      {
         "title": "FICM inicia su 24 edición con enfoque en cine mexicano",
         "summary": "Festival Internacional de Cine abre programación con películas nacionales. Evento cultural de relevancia regional.",
         "zona": "Baja California",
@@ -179,6 +315,62 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Aplican más de un millón de vacunas en BC",
+        "summary": "Campaña invernal ofrece inmunización gratuita contra influenza, COVID-19 y neumococo.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/183090_aplicaran_mas_de_un_millon_de_vacunas_gratis_en_bc_contra_influenza_covid_y_neumococo",
+        "_added_at": "2026-10-17T16:53:58.615086-07:00"
+      },
+      {
+        "title": "Registra gobierno a 1,036 jóvenes para Servicio Militar",
+        "summary": "Ensenada cumple con trámites de inscripción al servicio nacional obligatorio.",
+        "zona": "Ensenada",
+        "source": "EnsenadaHoy",
+        "url": "https://ensenadahoy.com/noticias/ver/69A6",
+        "_added_at": "2026-10-17T16:53:58.615086-07:00"
+      },
+      {
+        "title": "DIF abre centros de acopio tras contingencia Rachel",
+        "summary": "Sistema estatal recibe donaciones para apoyo de familias damnificadas durante fin de semana.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/17/tras-contingencia-rachel-dif-bc-abre-centros-de-acopio-en-fin-de-semana/",
+        "_added_at": "2026-10-17T16:53:58.615086-07:00"
+      },
+      {
+        "title": "Prepara estatal campaña de vacunación invernal",
+        "summary": "Gobierno invita a población a aplicarse dosis contra enfermedades respiratorias invernales.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/17/invita-gobbc-a-vacunarse-para-cuidar-la-salud-de-las-familias-durante-el-invierno/",
+        "_added_at": "2026-10-17T16:53:58.615086-07:00"
+      },
+      {
+        "title": "Isaac Núñez arranca con éxito en Mundial de Gimnasia",
+        "summary": "Gimnasta bajacaliforniano obtiene buenos resultados en competencia internacional.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/17/tiene-isaac-nunez-arranque-prometedor-en-el-mundial-de-gimnasia/",
+        "_added_at": "2026-10-17T16:53:58.615086-07:00"
+      },
+      {
+        "title": "Directivos reconocen rezago en Preparatoria Lázaro Cárdenas",
+        "summary": "Personal administrativo admite carencias de recursos e infraestructura en institución educativa.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/directivos-reconocen-rezago-de-recursos-e-infraestructura-en-preparatoria-lazaro-cardenas/",
+        "_added_at": "2026-10-17T16:53:58.615086-07:00"
+      },
+      {
+        "title": "Niño de 10 años sobrevive a corriente en Maneadero",
+        "summary": "Menor se aferró a raíces de árbol para salvarse de inundación por lluvias de Rachel.",
+        "zona": "Ensenada",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Ensenada/100694/Leonel,-de-10-a%C3%B1os,-se-aferr%C3%B3-a-las-ra%C3%ADces-de-un-%C3%A1rbol-para-sobrevivir-a-la-corriente-en-Maneadero",
+        "_added_at": "2026-10-17T16:53:58.615086-07:00"
+      },
       {
         "title": "Evacuación de 64 viviendas en zona de riesgo del Río Tijuana",
         "summary": "Operativo de diez horas desaloja familias de asentamiento irregular por riesgo de inundación. Acción preventiva de protección civil.",
@@ -229,5 +421,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-17T11:19:47.782277-07:00"
+  "last_updated": "2026-10-17T16:53:58.615086-07:00"
 }
