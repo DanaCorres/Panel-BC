@@ -1,457 +1,112 @@
 {
-  "date": "2026-10-16",
-  "run_count": 3,
+  "date": "2026-10-17",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Hallan más restos humanos en predio de Infonavit Cachanillas",
-        "summary": "Localizan cuatro cuerpos y restos adicionales en el mismo terreno donde ya se habían encontrado 12 cuerpos previamente en Tijuana.",
+        "title": "Condenan a tres hombres a 158 años por asesinato de surfistas",
+        "summary": "Tres individuos reciben sentencia de 158 años de cárcel por el homicidio de tres surfistas en Tijuana.",
         "zona": "Tijuana",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/10/16/hallan-cuatro-cuerpos-y-restos-humanos-en-predio-donde-localizaron-12-cuerpos-en-tijuana/",
-        "_added_at": "2026-10-16T17:14:42.621412-07:00"
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/183066_sentencian_a_158_anos_de_carcel_a_tres_por_asesinar_a_tres_surfistas",
+        "_added_at": "2026-10-17T00:04:05.273877-07:00"
       },
       {
-        "title": "Ensenada bloquea contratos con empresas ligadas a lavado de dinero",
-        "summary": "Municipio suspende contratos con empresas señaladas por presuntos vínculos con el cartel de Sinaloa y lavado de activos.",
-        "zona": "Ensenada",
-        "source": "Milenio",
-        "url": "https://www.milenio.com/videos/estados/ensenada-bloquea-contratos-empresa-ligada-cartel-sinaloa",
-        "_added_at": "2026-10-16T17:14:42.621412-07:00"
-      },
-      {
-        "title": "Captura FESC a sujeto buscado por homicidio",
-        "summary": "Policía estatal detiene a presunto responsable de un homicidio en Tijuana tras búsqueda activa.",
+        "title": "EU deporta hombre buscado por intento de feminicidio en CDMX",
+        "summary": "Autoridades estadounidenses deportan a través de Tijuana a sujeto requerido por tentativa de feminicidio en la Ciudad de México.",
         "zona": "Tijuana",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/16/captura-fesc-a-sujeto-buscado-por-homicidio/",
-        "_added_at": "2026-10-16T17:14:42.621412-07:00"
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/183064_eu_deporto_por_tijuana_a_un_hombre_buscado_en_la_cdmx_por_intento_de_feminicidio",
+        "_added_at": "2026-10-17T00:04:05.273877-07:00"
       },
       {
-        "title": "Alerta sobre reclutamiento de menores por crimen organizado",
-        "summary": "Especialista advierte sobre tácticas del crimen organizado para reclutar a menores de edad en Tijuana.",
+        "title": "Aseguran gran cargamento de droga en garita de Otay",
+        "summary": "Autoridades decomisan importante cantidad de narcóticos ocultos entre verduras en punto fronterizo de Otay.",
         "zona": "Tijuana",
         "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/100679/Alerta-especialista-sobre-el-reclutamiento-de-menores-por-parte-del-crimen-organizado",
-        "_added_at": "2026-10-16T17:14:42.621412-07:00"
+        "url": "https://el-mexicano.com.mx/Noticia/The%20Border/100684/Hallan-gran-cargamento-de-droga-escondido-entre-verduras-en-garita-de-Otay",
+        "_added_at": "2026-10-17T00:04:05.273877-07:00"
       },
       {
-        "title": "Vecinos denuncian fraude inmobiliario en Ángeles del Pacífico",
-        "summary": "Residentes se manifiestan ante la Fiscalía denunciando presunto fraude en venta de terrenos y amenazas.",
-        "zona": "Tijuana",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/100680/Vecinos-de-%C3%81ngeles-del-Pac%C3%ADfico-se-manifiestan-en-FGE-y-denuncian-presunto-fraude-inmobiliario-y-amenazas",
-        "_added_at": "2026-10-16T17:14:42.621412-07:00"
-      },
-      {
-        "title": "Exigen agilizar proceso penal contra presunto feminicida",
-        "summary": "Organizaciones civiles presionan para acelerar el juicio contra acusado de feminicidio en Tijuana.",
-        "zona": "Tijuana",
+        "title": "Detienen a prófugo de Estados Unidos en Mexicali",
+        "summary": "Capturan en Mexicali a individuo requerido por autoridades estadounidenses.",
+        "zona": "Mexicali",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/183049_exigen_agilizar_proceso_penal_contra_presunto_feminicida",
-        "_added_at": "2026-10-16T17:14:42.621412-07:00"
-      },
-      {
-        "title": "Rescatan 16 personas en altamar frente a Ensenada",
-        "summary": "Operativo de rescate en el mar frente a Ensenada tras inundación de embarcación. Autoridades buscan posibles náufragos adicionales.",
-        "zona": "Ensenada",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/16/rescatan-a-16-personas-en-altamar-frente-a-ensenada-buscan-a-mas-posibles-naufragos/",
-        "_added_at": "2026-10-16T12:28:42.738528-07:00"
-      },
-      {
-        "title": "FGR procesa a dos hombres por tráfico de personas",
-        "summary": "La Fiscalía General procesa a dos individuos por presuntos delitos de tráfico de personas y falsificación de billetes en Baja California.",
-        "zona": "Baja California",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/16/fgr-procesa-a-dos-hombres-por-presunto-trafico-de-personas-y-uso-de-billetes-falsos-en-baja-california/",
-        "_added_at": "2026-10-16T12:28:42.738528-07:00"
-      },
-      {
-        "title": "Incendio destruye seis viviendas en asentamiento de Tijuana",
-        "summary": "Incendio consume múltiples casas en asentamiento irregular de la Vía Rápida Poniente en Tijuana.",
-        "zona": "Tijuana",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/tij/policiaca/2026/10/16/incendio-consume-seis-viviendas-en-asentamiento-irregular-de-la-via-rapida-poniente/",
-        "_added_at": "2026-10-16T12:28:42.738528-07:00"
-      },
-      {
-        "title": "Menor detenido tras balacera en Playas de Tijuana",
-        "summary": "Policía detiene a menor de edad con armas de fuego tras disparar contra una persona en Playas de Tijuana.",
-        "zona": "Tijuana",
-        "source": "TV Azteca BC",
-        "url": "https://www.tvaztecabajacalifornia.com/policiaca/menor-es-detenido-con-pistola-y-rifle-tras-balear-a-un-hombre-en-playas-de-tijuana/",
-        "_added_at": "2026-10-16T12:28:42.738528-07:00"
-      },
-      {
-        "title": "Proponen castigo a sustancias para someter a víctimas",
-        "summary": "Iniciativa legislativa en Baja California busca tipificar el uso de drogas para subyugar a víctimas de delito.",
-        "zona": "Baja California",
-        "source": "AGP Noticias",
-        "url": "https://agpnoticias.com/news/buscan-castigar-en-baja-california-el-uso-de-sustancias-para-someter-a-victimas/",
-        "_added_at": "2026-10-16T12:28:42.738528-07:00"
-      },
-      {
-        "title": "BC acumula más de mil homicidios en 2026",
-        "summary": "El PAN denuncia que Baja California ha registrado más de mil homicidios en lo que va del año, evidenciando la crisis de violencia en el estado.",
-        "zona": "Baja California",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/183009_baja_california_acumula_mas_de_mil_homicidios_en_lo_que_va_del_ano_denuncia_el_pan",
-        "_added_at": "2026-10-16T00:21:53.447134-07:00"
-      },
-      {
-        "title": "Ejército y GN decomisan armas en Tecate",
-        "summary": "Operativo conjunto de fuerzas federales asegura armas y un vehículo en Tecate como parte de labores de contención de ilícitos.",
-        "zona": "Tecate",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/seguridad/183015_ejercito_y_guardia_nacional_decomiso_armas_y_un_vehiculo_en_tecate",
-        "_added_at": "2026-10-16T00:21:53.447134-07:00"
-      },
-      {
-        "title": "Policía municipal atacada a balazos en Tijuana",
-        "summary": "Elementos de seguridad sufren agresión armada en la Zona Industrial Pacífico, confirmando la exposición de autoridades locales.",
-        "zona": "Tijuana",
-        "source": "TV Azteca BC",
-        "url": "https://www.tvaztecabajacalifornia.com/noticias/atacan-a-balazos-a-policia-municipal-en-la-zona-industrial-pacifico-de-tijuana/",
-        "_added_at": "2026-10-16T00:21:53.447134-07:00"
+        "url": "https://www.afntijuana.info/seguridad/183062_detienen_en_mexicali_a_profugo_de_estados_unidos",
+        "_added_at": "2026-10-17T00:04:05.273877-07:00"
       }
     ],
     "politica": [
       {
-        "title": "Ramón Vázquez deja cargo y lanza candidatura a alcaldía",
-        "summary": "Funcionario abandona posición actual para competir por la presidencia municipal de Tijuana.",
-        "zona": "Tijuana",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/afn_politico/183056_ramon_vazquez_finalmente_sale_y_va_por_la_alcaldia",
-        "_added_at": "2026-10-16T17:14:42.621412-07:00"
-      },
-      {
-        "title": "Mónica Vargas sale de SADER; rumores de candidatura en Ensenada",
-        "summary": "Funcionaria se separa del cargo de agricultura y trascendería que busca postulación de Morena en Ensenada.",
-        "zona": "Ensenada",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/10/sale-monica-vargas-nunez-de-la-sader-bc-trasciende-que-buscaria-la-candidatura-de-morena-en-ensenada/?utm_source=rss&utm_medium=rss&utm_campaign=sale-monica-vargas-nunez-de-la-sader-bc-trasciende-que-buscaria-la-candidatura-de-morena-en-ensenada",
-        "_added_at": "2026-10-16T17:14:42.621412-07:00"
-      },
-      {
-        "title": "Sandoval cuestiona tiempos para gobernar y hacer campaña",
-        "summary": "Funcionario plantea que es imposible gobernar efectivamente mientras se realizan campañas electorales.",
-        "zona": "Tijuana",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/10/si-el-tiempo-no-alcanza-para-gobernar-mucho-menos-para-hacer-campanas-sandoval/?utm_source=rss&utm_medium=rss&utm_campaign=si-el-tiempo-no-alcanza-para-gobernar-mucho-menos-para-hacer-campanas-sandoval",
-        "_added_at": "2026-10-16T17:14:42.621412-07:00"
-      },
-      {
-        "title": "Denuncian supuesto uso de recursos públicos por alcaldesa",
-        "summary": "PRI acusa a autoridad municipal de destinar fondos públicos para asuntos personales en Tijuana.",
-        "zona": "Tijuana",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/183052_denuncia_el_pri_supuesto_uso_de_recursos_publicos_para_temas_personales_de_alcaldesa",
-        "_added_at": "2026-10-16T17:14:42.621412-07:00"
-      },
-      {
-        "title": "Denuncian a Claudia Agatón ante Sindicatura por recursos",
-        "summary": "Presentan queja formal contra autoridad de Ensenada por presunto uso indebido de fondos públicos.",
-        "zona": "Ensenada",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/tij/ensenada/2026/10/16/denuncian-a-claudia-agaton-ante-sindicatura-por-presunto-uso-de-recursos-publicos/",
-        "_added_at": "2026-10-16T17:14:42.621412-07:00"
-      },
-      {
-        "title": "Deficiencia presupuestal en UABC no se resuelve con ajustes",
-        "summary": "Rector advierte que reajustes presupuestales no cubrirán déficit de 350 millones en la universidad.",
-        "zona": "Baja California",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/183050_ajustes_presupuestales_no_salvaran_a_la_uabc_de_deficit_de_350_mdp_palafox_maestre",
-        "_added_at": "2026-10-16T17:14:42.621412-07:00"
-      },
-      {
-        "title": "Ramón Vázquez renuncia a Secretaría de Gobierno de Tijuana",
-        "summary": "Renuncia confirmada del Secretario de Gobierno Municipal de Tijuana tras 35 cambios en el Ayuntamiento.",
+        "title": "Jesús García Castro se registra como aspirante a coordinador",
+        "summary": "García Castro acude a Casa Morena para registrarse como candidato a coordinador por Tijuana.",
         "zona": "Tijuana",
         "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/100664/Presenta-Ram%C3%B3n-V%C3%A1zquez-su-renuncia-a-la-Secretar%C3%ADa-de-Gobierno-Municipal-de-Tijuana",
-        "_added_at": "2026-10-16T12:28:42.738528-07:00"
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/100687/Jes%C3%BAs-Garc%C3%ADa-Castro-acude-a-Casa-Morena-para-registrarse-como-aspirante-a-coordinador-por-Tijuana",
+        "_added_at": "2026-10-17T00:04:05.273877-07:00"
       },
       {
-        "title": "INE instalará 500 casillas más en Baja California",
-        "summary": "Instituto Nacional Electoral prepara infraestructura electoral ampliada para próximo proceso electoral en el estado.",
-        "zona": "Baja California",
+        "title": "Oficial Mayor de Mexicali busca candidatura a alcaldía",
+        "summary": "Funcionario municipal de Mexicali se postula por Morena para la alcaldía municipal.",
+        "zona": "Mexicali",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/183041_instalara_ine_casi_500_casillas_mas_en_bc_para_el_proximo_proceso_electoral",
-        "_added_at": "2026-10-16T12:28:42.738528-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/183063_oficial_mayor_de_mexicali_buscara_la_candidatura_a_la_alcaldia_por_morena",
+        "_added_at": "2026-10-17T00:04:05.273877-07:00"
       },
       {
-        "title": "Ledesma busca representar Quinto Distrito por Morena",
-        "summary": "Luis Felipe Ledesma se postula como candidato de Morena para la diputación federal por el Quinto Distrito.",
-        "zona": "Baja California",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/politica/2026/10/16/luis-felipe-ledesma-busca-representar-al-quinto-distrito-federal-por-morena/",
-        "_added_at": "2026-10-16T12:28:42.738528-07:00"
-      },
-      {
-        "title": "Regidora alerta por inestabilidad en Ayuntamiento de Tijuana",
-        "summary": "Funcionaria municipal advierte sobre impacto negativo de 35 cambios administrativos en la estabilidad institucional.",
-        "zona": "Tijuana",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/183040_regidora_alerta_por_inestabilidad_ante_35_relevos_en_el_ayuntamiento",
-        "_added_at": "2026-10-16T12:28:42.738528-07:00"
-      },
-      {
-        "title": "Decreto federal sobre protección infantil digital en BC",
-        "summary": "Nueva norma federal DOF octubre 14 establece medidas de protección ante riesgos digitales para menores en el estado.",
-        "zona": "Baja California",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/10/riesgos-digitales-y-proteccion-infantil-baja-california-ante-el-nuevo-decreto-federal-dof-14-de-octubre-de-2026/",
-        "_added_at": "2026-10-16T12:28:42.738528-07:00"
-      },
-      {
-        "title": "Proponen digitalizar entrega-recepción de asuntos públicos",
-        "summary": "Iniciativa busca modernizar trámites de transición administrativa en el gobierno de Baja California.",
-        "zona": "Baja California",
-        "source": "Rada Noticias",
-        "url": "https://radanoticias.info/proponen-digitalizar-entrega-recepcion-de-asuntos-y-recursos-publicos-en-bc/",
-        "_added_at": "2026-10-16T12:28:42.738528-07:00"
-      },
-      {
-        "title": "Sindicatura investiga a funcionario por irregularidades",
-        "summary": "Dos investigaciones abiertas contra un servidor público en Tijuana por presuntas faltas administrativas y malos manejos.",
-        "zona": "Tijuana",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/183011_sindicatura_tiene_abiertas_dos_investigaciones_contra_un_funcionario_por_presuntas_irregularidades",
-        "_added_at": "2026-10-16T00:21:53.447134-07:00"
-      },
-      {
-        "title": "Alcaldes se reúnen con titular de Segob",
-        "summary": "Burgueño y otros alcaldes de la entidad sostienen encuentro con la secretaria de Gobernación para abordar temas de seguridad.",
-        "zona": "Baja California",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/183012_burgueno_y_otros_alcaldes_se_reunieron_con_la_titular_de_la_segob",
-        "_added_at": "2026-10-16T00:21:53.447134-07:00"
-      },
-      {
-        "title": "Mexicali presenta proyectos ante nivel federal",
-        "summary": "El municipio de Mexicali expone iniciativas de desarrollo e inversión ante autoridades federales para obtener apoyo y financiamiento.",
+        "title": "Claudia Beltrán se registra para coordinación en Mexicali",
+        "summary": "Claudia Beltrán formaliza su registro como aspirante a coordinadora municipal de Mexicali.",
         "zona": "Mexicali",
         "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/100649/Mexicali-presenta-proyectos-a-nivel-federal",
-        "_added_at": "2026-10-16T00:21:53.447134-07:00"
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/100682/Claudia-Beltr%C3%A1n-se-registra-para-buscar-la-coordinaci%C3%B3n-Municipal-de-Mexicali",
+        "_added_at": "2026-10-17T00:04:05.273877-07:00"
       }
     ],
-    "economia": [
-      {
-        "title": "Transporte de carga usará libramiento entre garitas Otay",
-        "summary": "A partir del lunes, vehículos de carga circularán por vía alterna entre los dos puntos fronterizos.",
-        "zona": "Tijuana",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/10/desde-este-lunes-transporte-de-carga-usara-libramiento-entre-garitas-otay-i-y-otay-ii/?utm_source=rss&utm_medium=rss&utm_campaign=desde-este-lunes-transporte-de-carga-usara-libramiento-entre-garitas-otay-i-y-otay-ii",
-        "_added_at": "2026-10-16T17:14:42.621412-07:00"
-      },
-      {
-        "title": "México busca arancel de 15% para autos en negociación",
-        "summary": "Ebrard revela estrategia para reducir imposiciones arancelarias en exportación automotriz hacia EU.",
-        "zona": "Baja California",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/dinero/2026/10/16/ebrard-revela-como-mexico-busca-pagar-menos-aranceles-por-los-autos-que-exporta-a-estados-unidos/",
-        "_added_at": "2026-10-16T17:14:42.621412-07:00"
-      },
-      {
-        "title": "EU retira restricciones a vuelos desde AICM y AIFA",
-        "summary": "Estados Unidos levanta sanciones aeronáuticas y autoriza nuevas rutas desde aeropuertos mexicanos.",
-        "zona": "Baja California",
-        "source": "ZETA Tijuana",
-        "url": "https://zetatijuana.com/2026/10/eu-retira-restricciones-a-vuelos-mexicanos-desde-aicm-y-aifa/?utm_source=rss&utm_medium=rss&utm_campaign=eu-retira-restricciones-a-vuelos-mexicanos-desde-aicm-y-aifa",
-        "_added_at": "2026-10-16T17:14:42.621412-07:00"
-      },
-      {
-        "title": "Baja California recibió 32 mil migrantes entre 2020-2025",
-        "summary": "INEGI reporta cifra de población internacional llegada a la entidad en el período quinquenal.",
-        "zona": "Baja California",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/16/baja-california-recibio-a-mas-de-32-mil-migrantes-internacionales-entre-2020-y-2025-inegi",
-        "_added_at": "2026-10-16T17:14:42.621412-07:00"
-      },
-      {
-        "title": "Retienen visas de 900 transportistas en Tijuana y Tecate",
-        "summary": "Autoridades estadounidenses suspenden documentos de entrada a conductores de ambas ciudades.",
-        "zona": "Tijuana",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/10/16/retienen-visas-de-900-transportistas-que-cruzan-de-tijuana-y-tecate-a-estados-unidos/",
-        "_added_at": "2026-10-16T17:14:42.621412-07:00"
-      },
-      {
-        "title": "Demoras en renovaciones de DACA afectan empleos de migrantes",
-        "summary": "Atrasos en trámites del programa ponen en riesgo fuentes de trabajo de miles de jóvenes.",
-        "zona": "Baja California",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/16/demoras-en-renovaciones-de-daca-ponen-en-riesgo-empleos-de-miles-de-jovenes-migrantes/",
-        "_added_at": "2026-10-16T17:14:42.621412-07:00"
-      },
-      {
-        "title": "Economía exenta aranceles a autopartes para 11 armadoras",
-        "summary": "Secretaría de Economía libera impuestos en importaciones de componentes para proteger empleos.",
-        "zona": "Baja California",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/dinero/2026/10/16/la-secretaria-de-economia-exenta-de-impuestos-las-autopartes-importadas-para-11-fabricantes-de-vehiculos-instalados-en-mexico-con-el-fin-de-proteger-empleos-e-inversion/",
-        "_added_at": "2026-10-16T17:14:42.621412-07:00"
-      },
-      {
-        "title": "Consulado de EU en Tijuana permitirá celulares desde octubre",
-        "summary": "Cambio administrativo: estadounidenses podrán ingresar teléfonos celulares a salas de espera del consulado.",
-        "zona": "Tijuana",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/16/consulado-de-estados-unidos-en-tijuana-permitira-ingreso-de-celulares-a-partir-del-20-de-octubre/",
-        "_added_at": "2026-10-16T12:28:42.738528-07:00"
-      },
-      {
-        "title": "Multan a club Águilar por uso de pirotecnia",
-        "summary": "Autoridades de Mexicali sancionarán al club de futbol con multa superior a 23 mil pesos por incumplimiento de normativa.",
-        "zona": "Mexicali",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/100631/Sancionar%C3%A1n-a-club-%C3%81guilar-de-Mexicali-por-uso-de-pirot%C3%A9cnica-durante-inauguraci%C3%B3n-de-temporada",
-        "_added_at": "2026-10-16T00:21:53.447134-07:00"
-      }
-    ],
+    "economia": [],
     "eventos": [
       {
-        "title": "Exploran 600 estudiantes de COBACH el futuro de tecnología",
-        "summary": "Institución educativa organiza taller para que jóvenes descubran oportunidades en sector tech.",
-        "zona": "Baja California",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/tecnologia/2026/10/16/exploran-600-estudiantes-de-cobach-el-futuro-de-la-tecnologia/",
-        "_added_at": "2026-10-16T17:14:42.621412-07:00"
-      },
-      {
-        "title": "CETYS reúne talento estudiantil en coloquio de investigación",
-        "summary": "Primer Coloquio Estudiantil de Investigación congrega investigadores de los tres campus de CETYS Universidad.",
-        "zona": "Ensenada",
-        "source": "EnsenadaHoy",
-        "url": "https://ensenadahoy.com/noticias/ver/69A2",
-        "_added_at": "2026-10-16T12:28:42.738528-07:00"
-      },
-      {
-        "title": "Savannah Bananas anuncia gira por México en 2027",
-        "summary": "Equipo de béisbol anunciador su primer tour mexicano con paradas en Tijuana y Monterrey.",
+        "title": "Nuevo Libramiento Otay II inicia operaciones el lunes 19",
+        "summary": "Abre al público nueva vía de circulación Libramiento Otay II en Tijuana.",
         "zona": "Tijuana",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/deporte/2026/10/16/savannah-bananas-llegaran-a-tijuana-y-monterrey-en-2027-como-conseguir-boletos/",
-        "_added_at": "2026-10-16T12:28:42.738528-07:00"
-      },
-      {
-        "title": "AGP realiza carrera atlética por aniversario",
-        "summary": "Evento deportivo de conmemoración organizó por la institución en Ensenada.",
-        "zona": "Ensenada",
-        "source": "Rada Noticias",
-        "url": "https://radanoticias.info/realizara-agp-carrera-atletica-por-aniversario/",
-        "_added_at": "2026-10-16T12:28:42.738528-07:00"
-      },
-      {
-        "title": "Altar de muertos en Mercado Hidalgo",
-        "summary": "Se inaugura tradicional ofrenda de Día de Muertos en el principal mercado de Tijuana con participación comunitaria.",
-        "zona": "Tijuana",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/100646/Inauguran-altar-de-muertos-en-el-Mercado-Hidalgo",
-        "_added_at": "2026-10-16T00:21:53.447134-07:00"
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/183057_el_lunes_19_de_octubre_inicia_operaciones_el_nuevo_libramiento_otay_ii",
+        "_added_at": "2026-10-17T00:04:05.273877-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Rescata Guardia Costera a 16 personas de naufragio en Ensenada",
-        "summary": "Operativo de salvamento recupera a pasajeros de embarcación hundida frente a la costa ensenadense.",
-        "zona": "Ensenada",
-        "source": "Rada Noticias",
-        "url": "https://radanoticias.info/rescata-guardia-costera-a-16-personas-de-hundimiento/",
-        "_added_at": "2026-10-16T17:14:42.621412-07:00"
-      },
-      {
-        "title": "DIF Tijuana canaliza familias en riesgo a refugios",
-        "summary": "Sistema gestiona albergues para personas desplazadas por condiciones climáticas adversas por delegaciones.",
+        "title": "Mayoría de residentes de Río Tijuana aceptan desalojo",
+        "summary": "La mayoría de familias en la canalización del Río Tijuana han aceptado abandonar voluntariamente sus viviendas.",
         "zona": "Tijuana",
-        "source": "El Imparcial",
-        "url": "https://www.elimparcial.com/tij/tijuana/2026/10/16/pese-a-resistencia-por-cuidar-pertenencias-dif-tijuana-activa-red-de-albergues-a-familias-en-riesgo-por-el-nino/",
-        "_added_at": "2026-10-16T17:14:42.621412-07:00"
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/183065_mayoria_de_residentes_de_la_canalizacion_del_rio_tijuana_aceptaron_desalojar_su_casa",
+        "_added_at": "2026-10-17T00:04:05.273877-07:00"
       },
       {
-        "title": "Incendio en viviendas de Río Tijuana por caída de cable",
-        "summary": "Caída de línea de alta tensión provoca quema de al menos seis casas de madera en asentamiento.",
-        "zona": "Tijuana",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/100666/Se-queman-casas-en-asentamiento-del-R%C3%ADo-Tijuana",
-        "_added_at": "2026-10-16T17:14:42.621412-07:00"
-      },
-      {
-        "title": "Apagón deja sin luz a cientos en Zona Centro de Tijuana",
-        "summary": "Falla eléctrica afecta abastecimiento en área central de la ciudad dejando usuarios sin servicio.",
-        "zona": "Tijuana",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/16/apagon-deja-sin-electricidad-a-cientos-de-usuarios-en-zona-centro-de-tijuana/",
-        "_added_at": "2026-10-16T17:14:42.621412-07:00"
-      },
-      {
-        "title": "Problemas sanitarios por falta de recolección en Cachanillas",
-        "summary": "Vecinos de Infonavit Cachanillas reportan presencia de moscas y malos olores por acumulación de basura.",
-        "zona": "Tijuana",
-        "source": "TV Azteca BC",
-        "url": "https://www.tvaztecabajacalifornia.com/noticias/moscas-y-malos-olores-asi-viven-vecinos-de-infonavit-cachanillas-ante-falta-de-recoleccion/",
-        "_added_at": "2026-10-16T17:14:42.621412-07:00"
-      },
-      {
-        "title": "Brigadas de salud atienden zonas afectadas por Rachel",
-        "summary": "Personal médico realiza jornadas en comunidades impactadas por la tormenta tropical.",
-        "zona": "Baja California",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/16/brigadas-de-salud-atienden-zonas-afectadas-por-rachel/",
-        "_added_at": "2026-10-16T12:28:42.738528-07:00"
-      },
-      {
-        "title": "Adolescente de albergue destaca en concurso de arte nacional",
-        "summary": "Joven residente de albergue temporal obtiene reconocimiento en Concurso Nacional de Dibujo y Pintura.",
-        "zona": "Baja California",
-        "source": "En Línea BC",
-        "url": "https://www.enlineabc.com.mx/cultura/2026/10/16/destaca-adolescente-de-albergue-temporal-en-concurso-nacional-de-dibujo-y-pintura/",
-        "_added_at": "2026-10-16T12:28:42.738528-07:00"
-      },
-      {
-        "title": "Proponen rendición de cuentas sobre inclusión de alumnos con discapacidad",
-        "summary": "Iniciativa busca transparencia en políticas educativas de atención a estudiantes con capacidades diferentes.",
-        "zona": "Baja California",
-        "source": "AGP Noticias",
-        "url": "https://agpnoticias.com/news/proponen-que-educacion-rinda-cuentas-sobre-inclusion-de-alumnos-con-discapacidad/",
-        "_added_at": "2026-10-16T12:28:42.738528-07:00"
-      },
-      {
-        "title": "Ensenada evalúa daños: 60 colonias afectadas",
-        "summary": "Tras tormenta Rachel, autoridades contabilizan afectaciones en 60 colonias de Ensenada con valoración en curso de infraestructura dañada.",
+        "title": "Plan de atención para damnificados por huracán Rachel",
+        "summary": "Gobierno establece programa de apoyo para familias afectadas por el paso del huracán Rachel en Ensenada.",
         "zona": "Ensenada",
         "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/183010_evaluan_danos_por_rachel_en_ensenada_hay_60_colonias_afectadas",
-        "_added_at": "2026-10-16T00:21:53.447134-07:00"
+        "url": "https://www.afntijuana.info/informacion_general/183067_establecen_plan_para_la_atencion_a_los_afectados_por_el_paso_de_rachel_en_ensenada",
+        "_added_at": "2026-10-17T00:04:05.273877-07:00"
       },
       {
-        "title": "Familias de Maneadero recuperan hogares tras Rachel",
-        "summary": "Residentes afectados por la tormenta trabajan en la reparación y reconstrucción de viviendas dañadas en Maneadero.",
-        "zona": "Ensenada",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Ensenada/100644/Familias-de-Maneadero-intentan-recuperar-sus-hogares-tras-los-estragos-de-la-tormenta-Rachel",
-        "_added_at": "2026-10-16T00:21:53.447134-07:00"
-      },
-      {
-        "title": "Hospital General de Ensenada reanuda servicios",
-        "summary": "Se espera que el viernes se restablezcan operaciones en el nosocomio tras interrupciones causadas por daños de la tormenta.",
-        "zona": "Ensenada",
-        "source": "El Mexicano",
-        "url": "https://el-mexicano.com.mx/Noticia/Ensenada/100643/Este-viernes-podr%C3%ADa-reanudar-servicios-en-Hospital-General-de-Ensenada",
-        "_added_at": "2026-10-16T00:21:53.447134-07:00"
-      },
-      {
-        "title": "Riesgo de accidentes por zanja en Buenos Aires Sur",
-        "summary": "Residentes denuncian peligro causado por obra inconclusa que dejó zanja abierta en colonia de Baja California.",
-        "zona": "Baja California",
+        "title": "Basura se acumula en Infonavit Cachanillas desde dos semanas",
+        "summary": "Residentes de Infonavit Cachanillas reportan acumulación de desechos y malos olores por falta de recolección.",
+        "zona": "Tijuana",
         "source": "TV Azteca BC",
-        "url": "https://www.tvaztecabajacalifornia.com/noticias/denuncian-riesgo-de-accidentes-en-la-colonia-buenos-aires-sur-por-zanja-abierta-por-obras-inconclusas/",
-        "_added_at": "2026-10-16T00:21:53.447134-07:00"
+        "url": "https://www.tvaztecabajacalifornia.com/noticias/basura-se-acumula-desde-hace-dos-semanas-en-infonavit-cachanillas-vecinos-alertan-por-malos-olores/",
+        "_added_at": "2026-10-17T00:04:05.273877-07:00"
+      },
+      {
+        "title": "Encharcamientos afectan a Mexicali tras huracán Rachel",
+        "summary": "Calles sin pavimento y acumulación de agua generan problemas para residentes y comerciantes en Mexicali.",
+        "zona": "Mexicali",
+        "source": "TV Azteca BC",
+        "url": "https://www.tvaztecabajacalifornia.com/noticias/encharcamientos-y-calles-sin-pavimentar-afectan-a-vecinos-y-comerciantes-tras-el-paso-de-rachel-en-mexicali/",
+        "_added_at": "2026-10-17T00:04:05.273877-07:00"
       }
     ]
   },
-  "last_updated": "2026-10-16T17:14:42.621412-07:00"
+  "last_updated": "2026-10-17T00:04:05.273877-07:00"
 }
