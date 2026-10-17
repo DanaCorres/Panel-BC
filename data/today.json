@@ -1,8 +1,48 @@
 {
   "date": "2026-10-17",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Condenan a 158 años a asesinos de tres surfistas extranjeros",
+        "summary": "Tribunal condena a tres personas a 158 años de cárcel por homicidio de turistas extranjeros. Caso de alto impacto cerrado con sentencia.",
+        "zona": "Ensenada",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/17/condenan-a-158-anos-de-carcel-a-asesinos-de-surfistas-extranjeros/",
+        "_added_at": "2026-10-17T11:19:47.782277-07:00"
+      },
+      {
+        "title": "Ejecutan a bombero tijuanense y pareja en La Divina Providencia",
+        "summary": "Balacera deja muerto a bombero de Tijuana y su pareja. Acción criminal en zona residencial genera preocupación de seguridad.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/183077_ejecutan_a_balazos_a_una_pareja_en_la_divina_providencia_una_de_las_victimas_era_bombero_en_tijuana",
+        "_added_at": "2026-10-17T11:19:47.782277-07:00"
+      },
+      {
+        "title": "Detienen a exfiscal chihuahuense Jáuregui tras caso de agentes CIA",
+        "summary": "Capturan a exfiscal que renunció por caso de agentes estadounidenses. Caso de corrupción institucional de relevancia.",
+        "zona": "Baja California",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/detienen-al-exfiscal-chihuahuense-jauregui-que-renuncio-por-el-caso-de-los-agentes-de-la-cia/",
+        "_added_at": "2026-10-17T11:19:47.782277-07:00"
+      },
+      {
+        "title": "Ejecutan a hombre tras persecución en Ensenada",
+        "summary": "Operativo policial termina con muerte de sujeto en persecución. Acción de seguridad en zona portuaria.",
+        "zona": "Ensenada",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/ejecutan-a-hombre-tras-persecucion-en-ensenada/",
+        "_added_at": "2026-10-17T11:19:47.782277-07:00"
+      },
+      {
+        "title": "Hallan tres muertos de familia afectada por huracán Rachel",
+        "summary": "Localizan cuerpos de integrantes de familia en Baja California tras paso de tormenta. Víctimas de desastre natural.",
+        "zona": "Baja California",
+        "source": "Milenio",
+        "url": "https://www.milenio.com/estados/bc-localizan-muertos-integrantes-familia-paso-rachel",
+        "_added_at": "2026-10-17T11:19:47.782277-07:00"
+      },
       {
         "title": "Condenan a tres hombres a 158 años por asesinato de surfistas",
         "summary": "Tres individuos reciben sentencia de 158 años de cárcel por el homicidio de tres surfistas en Tijuana.",
@@ -38,6 +78,22 @@
     ],
     "politica": [
       {
+        "title": "PRI Baja California denuncia uso de frases partidistas en evento oficial",
+        "summary": "Partido denuncia presunto proselitismo en evento del área de Educación. Conflicto sobre neutralidad en actos gubernamentales.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/183079_pri_bc_denuncia_presunto_uso_de_frases_partidistas_en_evento_de_educacion",
+        "_added_at": "2026-10-17T11:19:47.782277-07:00"
+      },
+      {
+        "title": "Gobiernos de México y BC establecen ruta de atención para afectados por lluvia",
+        "summary": "Coordinación interinstitucional lanza asambleas de atención a familias damnificadas. Respuesta gubernamental a desastre por Rachel.",
+        "zona": "Baja California",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/100689/Establecen-Gobierno-de-M%C3%A9xico-y-BC-ruta-de-atenci%C3%B3n-con-asambleas-para-familias-afectadas-por-lluvias",
+        "_added_at": "2026-10-17T11:19:47.782277-07:00"
+      },
+      {
         "title": "Jesús García Castro se registra como aspirante a coordinador",
         "summary": "García Castro acude a Casa Morena para registrarse como candidato a coordinador por Tijuana.",
         "zona": "Tijuana",
@@ -62,8 +118,57 @@
         "_added_at": "2026-10-17T00:04:05.273877-07:00"
       }
     ],
-    "economia": [],
+    "economia": [
+      {
+        "title": "Garita de Otay II podría operar en 2029, confirma Kurt Honold",
+        "summary": "Funcionario proyecta inicio de operaciones de nueva caseta fronteriza. Infraestructura fronteriza de impacto económico.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/183078_garita_de_otay_ii_podria_iniciar_operaciones_en_2029_kurt_honold",
+        "_added_at": "2026-10-17T11:19:47.782277-07:00"
+      },
+      {
+        "title": "Prevén dólar hasta 19.50 pesos al cierre de año",
+        "summary": "Analistas proyectan tipo de cambio para fin de 2026. Indicador económico clave para región fronteriza.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/183076_preven_que_dolar_cierre_el_ano_hasta_en_19_50_pesos",
+        "_added_at": "2026-10-17T11:19:47.782277-07:00"
+      },
+      {
+        "title": "Reducción del 11% en trabajadores formales con 5 salarios en BC",
+        "summary": "Baja California registra caída en empleo formal de altos ingresos. Dato de mercado laboral preocupante.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/empresarial/183069_reduccion_del_11_en_trabajadores_formales_con_5_salarios_en_bc",
+        "_added_at": "2026-10-17T11:19:47.782277-07:00"
+      },
+      {
+        "title": "Precios al productor aceleran en Tijuana durante septiembre",
+        "summary": "Inflación en nivel de productor muestra tendencia al alza. Indicador económico de presión inflacionaria.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/empresarial/183068_aceleran_precios_al_productor_en_tijuana_durante_septiembre",
+        "_added_at": "2026-10-17T11:19:47.782277-07:00"
+      }
+    ],
     "eventos": [
+      {
+        "title": "FICM inicia su 24 edición con enfoque en cine mexicano",
+        "summary": "Festival Internacional de Cine abre programación con películas nacionales. Evento cultural de relevancia regional.",
+        "zona": "Baja California",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/arranca-ficm-su-24-a-edicion-con-cine-mexicano/",
+        "_added_at": "2026-10-17T11:19:47.782277-07:00"
+      },
+      {
+        "title": "IENAC explora modelos educativos internacionales en Learning Journey",
+        "summary": "Institución educativa de Ensenada participa en intercambio con institutos de España. Evento de cooperación académica.",
+        "zona": "Ensenada",
+        "source": "EnsenadaHoy",
+        "url": "https://ensenadahoy.com/noticias/ver/69A5",
+        "_added_at": "2026-10-17T11:19:47.782277-07:00"
+      },
       {
         "title": "Nuevo Libramiento Otay II inicia operaciones el lunes 19",
         "summary": "Abre al público nueva vía de circulación Libramiento Otay II en Tijuana.",
@@ -74,6 +179,22 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Evacuación de 64 viviendas en zona de riesgo del Río Tijuana",
+        "summary": "Operativo de diez horas desaloja familias de asentamiento irregular por riesgo de inundación. Acción preventiva de protección civil.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/10/17/operativo-de-10-horas-desaloja-a-64-viviendas-de-la-zona-de-alto-riesgo-en-el-rio-tijuana-por-el-nino/",
+        "_added_at": "2026-10-17T11:19:47.782277-07:00"
+      },
+      {
+        "title": "Xolos y Puebla empatan sin goles en jornada 12 del Apertura 2026",
+        "summary": "Equipo local no logra vencer en encuentro futbolístico. Resultado deportivo de liga profesional.",
+        "zona": "Tijuana",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Deportes/100690/Xolos-y-Puebla-empatan-en-la-jornada-12-del-Apertura-2026",
+        "_added_at": "2026-10-17T11:19:47.782277-07:00"
+      },
       {
         "title": "Mayoría de residentes de Río Tijuana aceptan desalojo",
         "summary": "La mayoría de familias en la canalización del Río Tijuana han aceptado abandonar voluntariamente sus viviendas.",
@@ -108,5 +229,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-17T00:04:05.273877-07:00"
+  "last_updated": "2026-10-17T11:19:47.782277-07:00"
 }
