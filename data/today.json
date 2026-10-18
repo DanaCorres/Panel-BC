@@ -1,8 +1,24 @@
 {
   "date": "2026-10-18",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Detienen a \"El Bélico\" en Tlaxcala por homicidio en Tecate",
+        "summary": "Capturan a presunto criminal buscado por un asesinato ocurrido en Tecate. Había prófugo y fue localizado fuera del estado.",
+        "zona": "Tecate",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/183107_detuvieron_en_tlaxcala_a_el_belico_era_buscado_por_un_homicidio_ocurrido_en_tecate",
+        "_added_at": "2026-10-18T11:32:27.030165-07:00"
+      },
+      {
+        "title": "Colectivos de búsqueda protestan en fiscalía por irregularidades",
+        "summary": "Organizaciones tomarán instalaciones de la fiscalía para denunciar deficiencias en investigaciones de desapariciones.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/183103_colectivos_de_busqueda_tomaran_oficinas_de_la_fiscalia_para_denunciar_irregularidades",
+        "_added_at": "2026-10-18T11:32:27.030165-07:00"
+      },
       {
         "title": "FGR acusa ex fiscal Jáuregui de traición a la patria",
         "summary": "La Fiscalía General de la República presenta acusación formal contra el ex fiscal por cargos de traición a la patria.",
@@ -22,6 +38,30 @@
     ],
     "politica": [
       {
+        "title": "Abren convocatoria para integrarse a Fuerza Estatal",
+        "summary": "Autoridades lanzan proceso de reclutamiento para nuevos elementos de la institución de seguridad estatal.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/183108_abren_convocatoria_para_integrarse_a_la_fuerza_estatal",
+        "_added_at": "2026-10-18T11:32:27.030165-07:00"
+      },
+      {
+        "title": "Presentan reforma para universidades privadas en Ensenada",
+        "summary": "Proponen cambios legales para reducir obstáculos en tramitación de títulos y grados académicos privados.",
+        "zona": "Ensenada",
+        "source": "Rada Noticias",
+        "url": "https://radanoticias.info/presentan-reforma-contra-trabas-en-la-titulacion-de-universidades-privadas/",
+        "_added_at": "2026-10-18T11:32:27.030165-07:00"
+      },
+      {
+        "title": "IEEBC inicia quinta edición de laboratorio ciudadano",
+        "summary": "Instituto Electoral abre convocatoria para iniciativas de participación ciudadana en temas públicos.",
+        "zona": "Tijuana",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/18/inicia-ieebc-la-quinta-edicion-del-laboratorio-de-iniciativas-ciudadanas/",
+        "_added_at": "2026-10-18T11:32:27.030165-07:00"
+      },
+      {
         "title": "Diputada Evelyn Sánchez reconocida por trabajo comunitario",
         "summary": "Reconocen labor de la diputada en trabajo social y coordinación con grupos organizados en la zona.",
         "zona": "Tijuana",
@@ -30,8 +70,49 @@
         "_added_at": "2026-10-18T00:18:52.324501-07:00"
       }
     ],
-    "economia": [],
+    "economia": [
+      {
+        "title": "Valle de Guadalupe destaca en guía de viajes Lonely Planet 2026",
+        "summary": "Región vitivinícola de Ensenada reconocida entre destinos más atractivos para turismo internacional.",
+        "zona": "Ensenada",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/ensenada/2026/10/18/valle-de-guadalupe-destaca-en-best-in-travel-2026-de-lonely-planet/",
+        "_added_at": "2026-10-18T11:32:27.030165-07:00"
+      },
+      {
+        "title": "Inhabilitan a cuatro funcionarios del Banco del Bienestar",
+        "summary": "Autoridades sancionan a servidores públicos por contratos irregulares que causaron daño de 380 millones de pesos.",
+        "zona": "Baja California",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/dinero/2026/10/18/inhabilitan-hasta-por-15-anos-a-cuatro-funcionarios-del-banco-del-bienestar-por-contratos-irregulares-que-causaron-dano-de-380-millones-de-pesos/",
+        "_added_at": "2026-10-18T11:32:27.030165-07:00"
+      }
+    ],
     "eventos": [
+      {
+        "title": "La Covacha Big Band celebra 13 años en concierto de Rosarito",
+        "summary": "Grupo musical realiza presentación especial en Riviera para conmemorar una década de trayectoria artística.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/cultura/2026/10/18/promueve-riviera-la-cultura-con-concierto-por-los-13-anos-de-trayectoria-de-la-covacha-big-band/",
+        "_added_at": "2026-10-18T11:32:27.030165-07:00"
+      },
+      {
+        "title": "Periodistas preparan escenificación de obra teatral clásica",
+        "summary": "Profesionales de medios llevarán a escena \"La extradición de Don Juan Tenorio\" en Tijuana.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/sociales/183106_periodistas_llevaran_a_escena_la_extradicion_de_don_juan_tenorio",
+        "_added_at": "2026-10-18T11:32:27.030165-07:00"
+      },
+      {
+        "title": "Nadadores de BC conmemoran aniversario del complejo acuático CAR",
+        "summary": "Atletas festejan años de operación del centro deportivo de Tijuana con evento de celebración.",
+        "zona": "Tijuana",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/deportes/2026/10/18/celebran-nadadores-de-bc-aniversario-del-complejo-acuatico-del-car-tijuana/",
+        "_added_at": "2026-10-18T11:32:27.030165-07:00"
+      },
       {
         "title": "Suspenden aniversario 134 de Tecate por vientos fuertes",
         "summary": "Las actividades conmemorativas del aniversario de Tecate fueron canceladas debido a condiciones climáticas adversas.",
@@ -42,6 +123,38 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Lluvia de tormenta Rachel causa 4 muertos en Baja California",
+        "summary": "Precipitaciones extremas dejan saldo fatal en el estado; afectan también viviendas y negocios.",
+        "zona": "Baja California",
+        "source": "Milenio",
+        "url": "https://www.milenio.com/videos/policia/suman-4-muertos-lluvias-rachel-baja-california",
+        "_added_at": "2026-10-18T11:32:27.030165-07:00"
+      },
+      {
+        "title": "Ejército rescata a 32 personas aisladas en rancho de Ensenada",
+        "summary": "Helicópteros militares evacúan residentes atrapados por inundaciones causadas por tormenta Rachel.",
+        "zona": "Ensenada",
+        "source": "Milenio",
+        "url": "https://www.milenio.com/politica/ejercito-rescata-32-personas-aisladas-ensenada-tormenta",
+        "_added_at": "2026-10-18T11:32:27.030165-07:00"
+      },
+      {
+        "title": "Cortes de electricidad afectan a decenas de colonias en Tijuana",
+        "summary": "Residentes de al menos 30 zonas reclaman ausencia de suministro eléctrico tras paso de tormenta.",
+        "zona": "Tijuana",
+        "source": "TV Azteca BC",
+        "url": "https://www.tvaztecabajacalifornia.com/policiaca/vecinos-de-al-menos-30-colonias-reclaman-falta-de-electricidad-en-tijuana/",
+        "_added_at": "2026-10-18T11:32:27.030165-07:00"
+      },
+      {
+        "title": "Corrida benéfica en Ensenada apoya albergues de la ciudad",
+        "summary": "Evento deportivo recauda fondos para instituciones que atienden a población vulnerable.",
+        "zona": "Ensenada",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/deportes/2026/10/18/corriendo-con-mily-apoyo-a-albergues-de-ensenada/",
+        "_added_at": "2026-10-18T11:32:27.030165-07:00"
+      },
       {
         "title": "Lluvias de Rachel afectan negocios y cosechas en Ensenada",
         "summary": "Empresarios y productores agrícolas reportan daños significativos tras las precipitaciones de la tormenta tropical.",
@@ -60,5 +173,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-18T00:18:52.324501-07:00"
+  "last_updated": "2026-10-18T11:32:27.030165-07:00"
 }
