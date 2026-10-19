@@ -1,8 +1,72 @@
 {
   "date": "2026-10-19",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Periodista amenazado por hombres armados en Tecate",
+        "summary": "Comunicadores protestan tras intimidación a reportero que volaba dron. Acción evidencia restricciones a la libertad de prensa en la región.",
+        "zona": "Tecate",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/amedrentan-hombres-armados-a-periodista-en-tecate-por-volar-dron-comunicadores-hacen-protesta/?utm_source=rss&utm_medium=rss&utm_campaign=amedrentan-hombres-armados-a-periodista-en-tecate-por-volar-dron-comunicadores-hacen-protesta",
+        "_added_at": "2026-10-19T13:56:40.054632-07:00"
+      },
+      {
+        "title": "Extorsión telefónica: zonas críticas en BC y medidas de protección",
+        "summary": "Reportes de extorsiones por teléfono en Baja California muestran patrones geográficos. Autoridades ofrecen recomendaciones para evitar estafas.",
+        "zona": "Baja California",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/extorsion-telefonica-en-bc-las-zonas-con-mas-reportes-y-como-protegerse/?utm_source=rss&utm_medium=rss&utm_campaign=extorsion-telefonica-en-bc-las-zonas-con-mas-reportes-y-como-protegerse",
+        "_added_at": "2026-10-19T13:56:40.054632-07:00"
+      },
+      {
+        "title": "Tirador balea a policía durante persecución por robo vehicular",
+        "summary": "Delincuente dispara contra agente durante operativo en Tijuana tras sustracción de vehículo. Incidente evidencia violencia en enfrentamientos.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/delincuente-balea-a-policia-durante-persecucion-tras-robar-un-vehiculo-en-tijuana/?utm_source=rss&utm_medium=rss&utm_campaign=delincuente-balea-a-policia-durante-persecucion-tras-robar-un-vehiculo-en-tijuana",
+        "_added_at": "2026-10-19T13:56:40.054632-07:00"
+      },
+      {
+        "title": "Investigan muerte de mujer tras cirugía estética como homicidio culposo",
+        "summary": "Fallecimiento con antecedentes de denuncias por secuelas de procedimiento quirúrgico es investigado por autoridades como presunto delito.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/investigan-como-homicidio-culposo-suicidio-de-mujer-que-denuncio-secuelas-tras-cirugia-estetica/?utm_source=rss&utm_medium=rss&utm_campaign=investigan-como-homicidio-culposo-suicidio-de-mujer-que-denuncio-secuelas-tras-cirugia-estetica",
+        "_added_at": "2026-10-19T13:56:40.054632-07:00"
+      },
+      {
+        "title": "Restos humanos hallados en hielera en colonia Altiplano",
+        "summary": "Descubren hielera con restos en sector de Tijuana. Hallazgo abre nueva línea de investigación de autoridades locales.",
+        "zona": "Tijuana",
+        "source": "TV Azteca BC",
+        "url": "https://www.tvaztecabajacalifornia.com/policiaca/abandonan-hielera-con-restos-humanos-este-19-de-octubre-en-la-colonia-altiplano-en-tijuana/",
+        "_added_at": "2026-10-19T13:56:40.054632-07:00"
+      },
+      {
+        "title": "Detienen homicida prófugo de Jalisco en Tijuana",
+        "summary": "Capturan a sujeto buscado por autoridades jaliscienses en operativo tijuanense. Colaboración interestatal en casos de prófugos.",
+        "zona": "Tijuana",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/19/detienen-en-tijuana-homicida-profugo-de-la-justicia-en-jalisco/",
+        "_added_at": "2026-10-19T13:56:40.054632-07:00"
+      },
+      {
+        "title": "Hombre agrede a expareja, la golpea y amenaza de muerte",
+        "summary": "Irrumpe en domicilio de expareja, la ataca físicamente y profiere amenazas. Detenido en flagrancia por violencia intrafamiliar.",
+        "zona": "Tijuana",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/19/irrumpe-en-casa-de-su-expareja-la-golpea-y-amenaza-de-muerte-en-tijuana-termina-detenido/",
+        "_added_at": "2026-10-19T13:56:40.054632-07:00"
+      },
+      {
+        "title": "Sentencian a cuatro años a agresor de conductor de plataforma digital",
+        "summary": "Juez condena a responsable de ataque contra transportista en aplicativo. Resolución judicial cierra caso de violencia urbana.",
+        "zona": "Tijuana",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/19/le-dan-cuatro-anos-a-agresor-de-conductor-de-plataforma-digital/",
+        "_added_at": "2026-10-19T13:56:40.054632-07:00"
+      },
       {
         "title": "Piden investigar a INDIVI por regularización post-Rachel",
         "summary": "Solicitan indagación contra INDIVI por proceso de regularización de predios dañados por huracán Rachel en Ensenada.",
@@ -22,6 +86,38 @@
     ],
     "politica": [
       {
+        "title": "Morena continúa elección interna de coordinadores",
+        "summary": "Partido oficial sostiene proceso electoral para designar coordinadores. Actividad refleja dinámica interna partidista en período electoral.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/morena-en-campana-continua-con-eleccion-de-coordinadores/?utm_source=rss&utm_medium=rss&utm_campaign=morena-en-campana-continua-con-eleccion-de-coordinadores",
+        "_added_at": "2026-10-19T13:56:40.054632-07:00"
+      },
+      {
+        "title": "Presentan candidatos de Morena en Tijuana",
+        "summary": "Partido revela planilla de aspirantes para cargos en municipio. Carrera electoral avanza con definición de contendientes.",
+        "zona": "Tijuana",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/estos-son-los-aspirantes-de-morena-en-tijuana/",
+        "_added_at": "2026-10-19T13:56:40.054632-07:00"
+      },
+      {
+        "title": "Gobernadora descarta declaratoria de desastre para Ensenada",
+        "summary": "Ejecutiva rechaza usar mecanismo de emergencia post Rachel. Decisión limita acceso a recursos federales de reconstrucción.",
+        "zona": "Ensenada",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/100753/Descarta-gobernadora-aplicar-declaraci%C3%B3n-de-desastre-para-Ensenada",
+        "_added_at": "2026-10-19T13:56:40.054632-07:00"
+      },
+      {
+        "title": "Presentan reforma a código civil y familiar nacional",
+        "summary": "Iniciativa de cambios legales en materia civil y familiar es presentada. Reforma busca modernizar procedimientos judiciales.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/19/presentan-reforma-al-codigo-nacional-de-procedimientos-civiles-y-familiares/",
+        "_added_at": "2026-10-19T13:56:40.054632-07:00"
+      },
+      {
         "title": "Perfiles de la oposición para próxima gubernatura",
         "summary": "Se conocen los candidatos de interés de la oposición para la contienda electoral de gobernador.",
         "zona": "Baja California",
@@ -31,6 +127,38 @@
       }
     ],
     "economia": [
+      {
+        "title": "Mexicali lidera exportaciones en segundo trimestre 2026",
+        "summary": "INEGI reporta cifras altas de exportaciones desde Mexicali. Desempeño económico refuerza posición como motor industrial.",
+        "zona": "Mexicali",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/183155_reporta_inegi_altas_exportaciones_en_mexicali_en_el_segundo_trimestre_de_2026",
+        "_added_at": "2026-10-19T13:56:40.054632-07:00"
+      },
+      {
+        "title": "Index ve en Otay II alternativa para logística de maquiladoras",
+        "summary": "Apertura parcial de punto fronterizo ofrece desahogo a industria. Portavoces destacan impacto positivo en flujo de carga.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/10/19/index-ve-en-la-apertura-parcial-de-otay-ii-una-alternativa-para-agilizar-la-logistica-de-las-maquiladoras-en-tijuana/",
+        "_added_at": "2026-10-19T13:56:40.054632-07:00"
+      },
+      {
+        "title": "Otay II abre parcialmente para desfogar camiones de carga",
+        "summary": "Puesto fronterizo habilita operaciones para aliviarse congestión. Mil 500 vehículos diarios podrían transitar por nueva ruta.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/10/19/otay-ii-abre-parcialmente-para-desfogar-mil-500-camiones-del-bulevar-bellas-artes-en-tijuana/",
+        "_added_at": "2026-10-19T13:56:40.054632-07:00"
+      },
+      {
+        "title": "California abre mayor mercado al vino mexicano",
+        "summary": "Oportunidad comercial favorece productores vinícolas de región. Ampliación de acceso beneficia economía local.",
+        "zona": "Baja California",
+        "source": "Rada Noticias",
+        "url": "https://radanoticias.info/abre-california-mayor-mercado-al-vino-mexicano/",
+        "_added_at": "2026-10-19T13:56:40.054632-07:00"
+      },
       {
         "title": "Pescadores se reúnen con autoridades estatales y federales",
         "summary": "Sector pesquero sostiene encuentro con funcionarios del estado y federación en Mexicali para atender demandas.",
@@ -42,6 +170,54 @@
     ],
     "eventos": [
       {
+        "title": "Inicia XI edición del Festival del Conocimiento",
+        "summary": "Evento académico arranca con conferencias y actividades educativas. Convocatoria atrae a estudiantes y docentes.",
+        "zona": "Ensenada",
+        "source": "Rada Noticias",
+        "url": "https://radanoticias.info/inicia-la-xi-edicion-del-festival-del-conocimiento/",
+        "_added_at": "2026-10-19T13:56:40.054632-07:00"
+      },
+      {
+        "title": "Presentan Hub de Innovación Ensenada en evento tecnológico",
+        "summary": "Iniciativa de incubadora y transferencia de tecnología se exhibe. Proyecto busca atraer emprendedores y inversión.",
+        "zona": "Ensenada",
+        "source": "Argumentos Noticias",
+        "url": "https://argumentonoticias.com/2026/10/19/presentan-el-hub-de-innovacion-ensenada-en-baja-innovation-day/",
+        "_added_at": "2026-10-19T13:56:40.054632-07:00"
+      },
+      {
+        "title": "Concierto celebra 13 años de La Covacha Big Band",
+        "summary": "Riviera organiza presentación musical para grupo de jazz local. Evento destaca trayectoria artística de agrupación.",
+        "zona": "Ensenada",
+        "source": "EnsenadaHoy",
+        "url": "https://ensenadahoy.com/noticias/ver/69AB",
+        "_added_at": "2026-10-19T13:56:40.054632-07:00"
+      },
+      {
+        "title": "Ofrecen visitas guiadas al Centro de Justicia Especializado en Menores",
+        "summary": "Cejum abre puertas para mostrar servicios. Iniciativa busca informar a comunidad sobre sistema de justicia juvenil.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/183156_ofrecen_visitas_guiadas_para_conocer_servicios_disponibles_en_el_cejum",
+        "_added_at": "2026-10-19T13:56:40.054632-07:00"
+      },
+      {
+        "title": "LibroBús lleva actividades y lectura a comunidades de BC",
+        "summary": "Programa itinerante distribuye libros y talleres en zonas alejadas. Iniciativa de fomento a la lectura alcanza territorios.",
+        "zona": "Baja California",
+        "source": "Rada Noticias",
+        "url": "https://radanoticias.info/acercara-librobus-actividades-y-libros-a-comunidades-de-bc/",
+        "_added_at": "2026-10-19T13:56:40.054632-07:00"
+      },
+      {
+        "title": "Escritores bajacalifornianos participan en FIL Guadalajara 2026",
+        "summary": "Autores locales exponen obras en feria internacional del libro. Participación visibiliza literatura regional.",
+        "zona": "Baja California",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/bajacalifornianos-en-fil-guadalajara-2026/?utm_source=rss&utm_medium=rss&utm_campaign=bajacalifornianos-en-fil-guadalajara-2026",
+        "_added_at": "2026-10-19T13:56:40.054632-07:00"
+      },
+      {
         "title": "Tijuana albergará primer Encuentro Coral nacional",
         "summary": "La ciudad reunirá coros de todo el país en su primer encuentro de esta magnitud.",
         "zona": "Tijuana",
@@ -50,7 +226,72 @@
         "_added_at": "2026-10-19T00:56:30.697303-07:00"
       }
     ],
-    "sociedad": []
+    "sociedad": [
+      {
+        "title": "Ejército despliega célula médica y psicológica en Maneadero",
+        "summary": "Fuerzas armadas brindan atención de salud a afectados por tormenta Rachel. Operativo asiste población en zona de desastre.",
+        "zona": "Ensenada",
+        "source": "Rada Noticias",
+        "url": "https://radanoticias.info/despliega-ejercito-celula-medica-y-psicologica-en-maneadero-tras-paso-de-rachel/",
+        "_added_at": "2026-10-19T13:56:40.054632-07:00"
+      },
+      {
+        "title": "CESPE recupera suministro de agua tras daños por Rachel",
+        "summary": "Sistema de agua es restablecido tras impacto de tormenta. Empresa reporta progreso en restauración de servicios.",
+        "zona": "Ensenada",
+        "source": "AGP Noticias",
+        "url": "https://agpnoticias.com/news/cespe-reporta-recuperacion-del-suministro-de-agua-tras-danos-por-rachel/",
+        "_added_at": "2026-10-19T13:56:40.054632-07:00"
+      },
+      {
+        "title": "Continúan labores de limpieza en colonias afectadas por Rachel",
+        "summary": "Equipos municipales mantienen tareas de retiro de escombros. Trabajo persiste semanas después del paso del huracán.",
+        "zona": "Ensenada",
+        "source": "Argumentos Noticias",
+        "url": "https://argumentonoticias.com/2026/10/19/mantienen-labores-de-limpieza-en-colonias-afectadas-por-la-tormenta-rachel-en-ensenada/",
+        "_added_at": "2026-10-19T13:56:40.054632-07:00"
+      },
+      {
+        "title": "Marina continúa búsqueda y apoyo en Maneadero post Rachel",
+        "summary": "Operaciones navales persisten en zona afectada por desastre. Instituciones coordinan rescate y asistencia.",
+        "zona": "Ensenada",
+        "source": "Argumentos Noticias",
+        "url": "https://argumentonoticias.com/2026/10/19/marina-mantiene-labores-de-busqueda-y-apoyo-en-maneadero-tras-el-paso-de-rachel/",
+        "_added_at": "2026-10-19T13:56:40.054632-07:00"
+      },
+      {
+        "title": "Suspenden búsqueda de 11 desaparecidos por naufragio frente a Ensenada",
+        "summary": "Guardia Costera detiene operativo de rescate tras hundimiento de embarcación. Decisión cierra búsqueda de náufragos.",
+        "zona": "Ensenada",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/ensenada/2026/10/19/suspende-guardia-costera-busqueda-de-11-desaparecidos-tras-naufragio-frente-a-ensenada/",
+        "_added_at": "2026-10-19T13:56:40.054632-07:00"
+      },
+      {
+        "title": "Deslave amenaza más viviendas en colonia 3 de Octubre",
+        "summary": "Problema de hundimiento de terreno persiste y se agrava en Tijuana. Residentes enfrentan riesgo de afectaciones adicionales.",
+        "zona": "Tijuana",
+        "source": "TV Azteca BC",
+        "url": "https://www.tvaztecabajacalifornia.com/noticias/la-tierra-se-sigue-hundiendo-en-tijuana-deslave-amenaza-mas-casas-en-la-colonia-3-de-octubre/",
+        "_added_at": "2026-10-19T13:56:40.054632-07:00"
+      },
+      {
+        "title": "Fraccionamiento Paseos del Pacífico sin agua hace 10 días",
+        "summary": "Residentes de zona en Tijuana enfrentan crisis de suministro. Denuncias piden intervención de autoridades.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/fraccionamiento-paseos-del-pacifico-suma-10-dias-sin-agua-urgen-a-gobernadora-a-solucionar-desabasto/?utm_source=rss&utm_medium=rss&utm_campaign=fraccionamiento-paseos-del-pacifico-suma-10-dias-sin-agua-urgen-a-gobernadora-a-solucionar-desabasto",
+        "_added_at": "2026-10-19T13:56:40.054632-07:00"
+      },
+      {
+        "title": "Instalación de primer Violentómetro Deportivo en Rosarito",
+        "summary": "Herramienta de detección de violencia se coloca en espacios deportivos. Iniciativa busca prevenir abuso en actividades físicas.",
+        "zona": "Rosarito",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Rosarito/100756/Instalan-primer-Violent%C3%B3metro-Deportivo-en-Rosarito-para-prevenir-la-violencia",
+        "_added_at": "2026-10-19T13:56:40.054632-07:00"
+      }
+    ]
   },
-  "last_updated": "2026-10-19T00:56:30.697303-07:00"
+  "last_updated": "2026-10-19T13:56:40.054632-07:00"
 }
