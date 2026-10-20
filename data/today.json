@@ -1,8 +1,40 @@
 {
   "date": "2026-10-19",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Capturan al 'Bélico' por muerte de comandante en Tecate",
+        "summary": "Autoridades detienen en Tlaxcala a presunto responsable del asesinato de la comandante Alejandra Hernández ocurrido en Tecate.",
+        "zona": "Tecate",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/en-tlaxcala-capturan-al-belico-senalado-de-asesinar-a-la-comandante-alejandra-hernandez-en-tecate/?utm_source=rss&utm_medium=rss&utm_campaign=en-tlaxcala-capturan-al-belico-senalado-de-asesinar-a-la-comandante-alejandra-hernandez-en-tecate",
+        "_added_at": "2026-10-19T17:59:50.841427-07:00"
+      },
+      {
+        "title": "Hallan cabeza humana con narcomensaje en Tijuana",
+        "summary": "Descubren restos humanos en hielera con mensaje amenazante en la colonia Altiplano de Tijuana.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/183158_localizan_cabeza_humana_en_hielera_y_narcomensaje_con_amenazas",
+        "_added_at": "2026-10-19T17:59:50.841427-07:00"
+      },
+      {
+        "title": "Sentencian al 'Kekas' por asesinato de tres surfistas",
+        "summary": "Declaran culpable al 'Kekas' y cómplices por homicidio de tres surfistas en Ensenada.",
+        "zona": "Ensenada",
+        "source": "Milenio",
+        "url": "https://www.milenio.com/policia/declaran-culpable-a-el-kekas-por-asesinato-de-surfistas-en-ensenada",
+        "_added_at": "2026-10-19T17:59:50.841427-07:00"
+      },
+      {
+        "title": "Detienen a dos presuntos narcotraficantes en La Rumorosa",
+        "summary": "Autoridades capturan a dos integrantes del crimen organizado con arsenal y equipo táctico en Tecate.",
+        "zona": "Tecate",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tecate/2026/10/19/caen-dos-presuntos-integrantes-del-crimen-organizado-en-la-rumorosa-les-aseguran-arsenal-y-equipo-tactico/",
+        "_added_at": "2026-10-19T17:59:50.841427-07:00"
+      },
       {
         "title": "Periodista amenazado por hombres armados en Tecate",
         "summary": "Comunicadores protestan tras intimidación a reportero que volaba dron. Acción evidencia restricciones a la libertad de prensa en la región.",
@@ -86,6 +118,38 @@
     ],
     "politica": [
       {
+        "title": "Cabildo elegirá nuevo secretario de Gobierno en Tijuana",
+        "summary": "El cabildo tijuanense designará este martes a un nuevo funcionario en la secretaría de Gobierno municipal.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/cabildo-elegira-este-martes-al-nuevo-secretario-de-gobierno-de-tijuana/?utm_source=rss&utm_medium=rss&utm_campaign=cabildo-elegira-este-martes-al-nuevo-secretario-de-gobierno-de-tijuana",
+        "_added_at": "2026-10-19T17:59:50.841427-07:00"
+      },
+      {
+        "title": "Diego Arregui se registra en 'Vamos por Ensenada'",
+        "summary": "Diego Arregui formaliza su candidatura para coordinación municipal por 'Vamos por Ensenada'.",
+        "zona": "Ensenada",
+        "source": "Rada Noticias",
+        "url": "https://radanoticias.info/vamos-por-ensenada-se-registra-diego-arregui-como-aspirante-a-coordinacion-municipal/",
+        "_added_at": "2026-10-19T17:59:50.841427-07:00"
+      },
+      {
+        "title": "RLG busca coordinación municipal de Ensenada",
+        "summary": "RLG se registra como aspirante a la coordinación municipal de Ensenada.",
+        "zona": "Ensenada",
+        "source": "Rada Noticias",
+        "url": "https://radanoticias.info/busca-rlg-la-coordinacion-municipal-de-ensenada/",
+        "_added_at": "2026-10-19T17:59:50.841427-07:00"
+      },
+      {
+        "title": "Aurora Inzunza aspira a coordinación en San Quintín",
+        "summary": "Aurora Inzunza se registra para buscar coordinación municipal de Morena en San Quintín.",
+        "zona": "San Quintín",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/10/19/aurora-inzunza-se-registra-para-buscar-coordinacion-municipal-de-morena-en-san-quintin/",
+        "_added_at": "2026-10-19T17:59:50.841427-07:00"
+      },
+      {
         "title": "Morena continúa elección interna de coordinadores",
         "summary": "Partido oficial sostiene proceso electoral para designar coordinadores. Actividad refleja dinámica interna partidista en período electoral.",
         "zona": "Tijuana",
@@ -128,6 +192,38 @@
     ],
     "economia": [
       {
+        "title": "Mexicali lidera exportaciones con más de 4,500 millones dólares",
+        "summary": "Mexicali mantiene su posición en el segundo trimestre con exportaciones que superan los 4,500 millones de dólares.",
+        "zona": "Mexicali",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/100755/Mexicali-sigue-marcando-la-pauta-en-exportaciones",
+        "_added_at": "2026-10-19T17:59:50.841427-07:00"
+      },
+      {
+        "title": "Ensenada impulsa desarrollo tecnológico con Hub de Innovación",
+        "summary": "Ensenada presenta el Hub de Innovación Conecta MX para fortalecer su sector tecnológico y emprendimiento.",
+        "zona": "Ensenada",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/10/19/6451/",
+        "_added_at": "2026-10-19T17:59:50.841427-07:00"
+      },
+      {
+        "title": "Cae confianza para invertir en Baja California",
+        "summary": "Encuesta de Coparmex revela disminución en la confianza de inversionistas para el estado.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/183166_cae_la_confianza_para_invertir_en_baja_california_revela_encuesta_de_coparmex",
+        "_added_at": "2026-10-19T17:59:50.841427-07:00"
+      },
+      {
+        "title": "Garita Otay II inicia operaciones para desahogar tráfico de carga",
+        "summary": "Comienza a funcionar la garita Otay II en Tijuana para aliviar congestión vehicular de camiones.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/10/19/entra-en-operaciones-la-garita-otay-ii-en-tijuana-inicia-con-camiones-vacios/",
+        "_added_at": "2026-10-19T17:59:50.841427-07:00"
+      },
+      {
         "title": "Mexicali lidera exportaciones en segundo trimestre 2026",
         "summary": "INEGI reporta cifras altas de exportaciones desde Mexicali. Desempeño económico refuerza posición como motor industrial.",
         "zona": "Mexicali",
@@ -169,6 +265,22 @@
       }
     ],
     "eventos": [
+      {
+        "title": "Festival del Conocimiento de la UNAM llega a Ensenada",
+        "summary": "Se inaugura la XI edición del Festival del Conocimiento en el Centro Cultural Riviera de Ensenada.",
+        "zona": "Ensenada",
+        "source": "EnsenadaHoy",
+        "url": "https://ensenadahoy.com/noticias/ver/69AC",
+        "_added_at": "2026-10-19T17:59:50.841427-07:00"
+      },
+      {
+        "title": "Feria del Libro de Tijuana presenta programación histórica",
+        "summary": "La Feria del Libro de Tijuana ofrece programación sin precedentes y espacios para nuevos talentos literarios.",
+        "zona": "Tijuana",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/100767/Tendr%C3%A1-Feria-del-Libro-de-Tijuana-programaci%C3%B3n-hist%C3%B3rica-y-espacios-para-nuevos-talentos",
+        "_added_at": "2026-10-19T17:59:50.841427-07:00"
+      },
       {
         "title": "Inicia XI edición del Festival del Conocimiento",
         "summary": "Evento académico arranca con conferencias y actividades educativas. Convocatoria atrae a estudiantes y docentes.",
@@ -227,6 +339,46 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Tormenta Rachel deja 4 muertos y 3 desaparecidos en Ensenada",
+        "summary": "Desbordamiento de arroyos por la tormenta Rachel ocasiona víctimas fatales y personas desaparecidas en Ensenada.",
+        "zona": "Ensenada",
+        "source": "Milenio",
+        "url": "https://www.milenio.com/videos/estados/desbordamiento-arroyos-deja-4-muertos-3-desaparecidos-ensenada",
+        "_added_at": "2026-10-19T17:59:50.841427-07:00"
+      },
+      {
+        "title": "34 casas en riesgo por deslizamiento en Tijuana",
+        "summary": "Colonia 3 de Octubre enfrenta crisis por deslizamiento de tierra que amenaza viviendas y familias.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/183170_son_34_casas_las_que_estan_en_riesgo_por_deslizamiento_de_tierra_en_la_3_de_octubre",
+        "_added_at": "2026-10-19T17:59:50.841427-07:00"
+      },
+      {
+        "title": "Gobernadora descarta declaratoria de desastre para Ensenada",
+        "summary": "Claudia Agatón rechaza activar declaratoria de desastre pero anuncia apoyo federal y estatal para damnificados.",
+        "zona": "Ensenada",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/100753/Descarta-gobernadora-aplicar-declaraci%C3%B3n-de-desastre-para-Ensenada",
+        "_added_at": "2026-10-19T17:59:50.841427-07:00"
+      },
+      {
+        "title": "CESPE recupera servicio de agua tras daños por Rachel",
+        "summary": "La desaladora y acueducto operan nuevamente después de afectaciones causadas por la tormenta Rachel.",
+        "zona": "Ensenada",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/10/19/cespe-informa-que-acueducto-y-desaladora-ya-operan-tras-afectaciones-por-rachel/",
+        "_added_at": "2026-10-19T17:59:50.841427-07:00"
+      },
+      {
+        "title": "Doce escuelas afectadas por lluvias de Rachel en Ensenada",
+        "summary": "La tormenta Rachel daña infraestructura de 12 planteles escolares en el sur de Baja California.",
+        "zona": "Ensenada",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/183167_tormenta_rachel_dejo_danos_en_12_escuelas_en_el_sur_de_bc",
+        "_added_at": "2026-10-19T17:59:50.841427-07:00"
+      },
       {
         "title": "Ejército despliega célula médica y psicológica en Maneadero",
         "summary": "Fuerzas armadas brindan atención de salud a afectados por tormenta Rachel. Operativo asiste población en zona de desastre.",
@@ -293,5 +445,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-19T13:56:40.054632-07:00"
+  "last_updated": "2026-10-19T17:59:50.841427-07:00"
 }
