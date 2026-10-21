@@ -1,8 +1,72 @@
 {
   "date": "2026-10-21",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Delitos de menores en BC suben 8% en el año",
+        "summary": "Autoridades advierten sobre incremento de delitos cometidos por adolescentes en Baja California, indicando tendencia preocupante en criminalidad juvenil.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/183241_aumentan_8_delitos_cometidos_por_adolescentes_en_bc_advierten",
+        "_added_at": "2026-10-21T12:59:28.719040-07:00"
+      },
+      {
+        "title": "Narcomensaje hallado junto a cadáver en Mexicali",
+        "summary": "Localizan cuerpo de hombre ejecutado con narcomensaje en ejido Hermosillo de Mexicali.",
+        "zona": "Mexicali",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/hallan-a-hombre-ejecutado-con-narcomensaje-en-el-ejido-hermosillo-en-mexicali/?utm_source=rss&utm_medium=rss&utm_campaign=hallan-a-hombre-ejecutado-con-narcomensaje-en-el-ejido-hermosillo-en-mexicali",
+        "_added_at": "2026-10-21T12:59:28.719040-07:00"
+      },
+      {
+        "title": "Narcomanta en preescolar de Mexicali contra policías",
+        "summary": "Encuentran narcomanta amenazante contra autoridades policiales dentro de instalaciones de preescolar en Mexicali.",
+        "zona": "Mexicali",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/localizan-narcomanta-contra-autoridades-policiales-en-preescolar-de-mexicali/?utm_source=rss&utm_medium=rss&utm_campaign=localizan-narcomanta-contra-autoridades-policiales-en-preescolar-de-mexicali",
+        "_added_at": "2026-10-21T12:59:28.719040-07:00"
+      },
+      {
+        "title": "FESC detiene a tres presuntos criminales armados",
+        "summary": "Fuerzas de seguridad estatal capturan a tres individuos vinculados al crimen organizado con armas de fuego.",
+        "zona": "Baja California",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/100831/FESC-detiene-a-tres-integrantes-del-crimen-organizado-con-armas",
+        "_added_at": "2026-10-21T12:59:28.719040-07:00"
+      },
+      {
+        "title": "Detienen operador criminal ligado a ataques contra exalcaldesa",
+        "summary": "Autoridades capturan a presunto operador delictivo vinculado con agresiones contra escolta de exfuncionaria tijuanense.",
+        "zona": "Tijuana",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/21/detienen-a-presunto-operador-criminal-vinculado-con-ataques-contra-escolta-de-exalcaldesa-de-tijuana/",
+        "_added_at": "2026-10-21T12:59:28.719040-07:00"
+      },
+      {
+        "title": "Prisión preventiva para César Jáuregui por traición a patria",
+        "summary": "Dictan medida cautelar contra funcionario por presuntos delitos de traición a la patria.",
+        "zona": "Baja California",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/dictan-prision-preventiva-oficiosa-a-cesar-jauregui-por-traicion-a-la-patria/?utm_source=rss&utm_medium=rss&utm_campaign=dictan-prision-preventiva-oficiosa-a-cesar-jauregui-por-traicion-a-la-patria",
+        "_added_at": "2026-10-21T12:59:28.719040-07:00"
+      },
+      {
+        "title": "Ensenada bloquea contratos con empresa ligada al Cártel Sinaloa",
+        "summary": "Municipio de Ensenada impide contrataciones con empresa señalada por vínculos con lavado de dinero.",
+        "zona": "Ensenada",
+        "source": "Milenio",
+        "url": "https://www.milenio.com/videos/politica/ensenada-bloquea-contratos-empresas-senaladas-lavado-dinero",
+        "_added_at": "2026-10-21T12:59:28.719040-07:00"
+      },
+      {
+        "title": "Activistas buscarán desaparecidos en BC durante noviembre",
+        "summary": "Organizaciones civiles realizarán operativos de búsqueda de personas desaparecidas en toda la entidad.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/183240_activistas_haran_busqueda_de_desaparecidos_en_bc_durante_noviembre",
+        "_added_at": "2026-10-21T12:59:28.719040-07:00"
+      },
       {
         "title": "Disparan contra hombre en su domicilio de Tecate",
         "summary": "Reportan ataque a balazos contra residente en su vivienda en Tecate.",
@@ -30,6 +94,30 @@
     ],
     "politica": [
       {
+        "title": "Norma Bustamante enfrenta limitaciones presupuestales severas",
+        "summary": "Funcionaria estatal afronta restricciones importantes en asignación de recursos para su gestión.",
+        "zona": "Baja California",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Pol%C3%ADtica%20y%20Pol%C3%ADticos/100827/Norma-Alicia-Bustamante-Mart%C3%ADnez-afronta-grandes-limitaciones-presupuestales.",
+        "_added_at": "2026-10-21T12:59:28.719040-07:00"
+      },
+      {
+        "title": "Exigen paridad de género en elección de rector UABC",
+        "summary": "Organizaciones civiles demandan que candidatos a rectoría de universidad cumplan con principios de igualdad.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/21/exigen-organizaciones-civiles-paridad-de-genero-en-eleccion-de-rectoria-de-la-uabc/",
+        "_added_at": "2026-10-21T12:59:28.719040-07:00"
+      },
+      {
+        "title": "Diputada Corral impulsa reformas contra revictimización",
+        "summary": "Legisladora presenta iniciativas para evitar daño adicional a mujeres víctimas de violencia en procesos legales.",
+        "zona": "Mexicali",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/100815/Diputada-Corral-impulsa-reformas-para-evitar-revictimizaci%C3%B3n-de-mujeres",
+        "_added_at": "2026-10-21T12:59:28.719040-07:00"
+      },
+      {
         "title": "Montserrat defiende gestión y critica estado del malecón",
         "summary": "Presidenta municipal de Tijuana se defiende y cuestiona situación del malecón de Playas de Tijuana.",
         "zona": "Tijuana",
@@ -54,9 +142,83 @@
         "_added_at": "2026-10-21T00:50:31.846163-07:00"
       }
     ],
-    "economia": [],
-    "eventos": [],
+    "economia": [
+      {
+        "title": "Banxico advierte presión económica fronteriza por aranceles",
+        "summary": "Banco central señala impacto negativo de aranceles y cambio en compras transfronterizas en región norte.",
+        "zona": "Baja California",
+        "source": "E1 Noticias",
+        "url": "https://www.ensenadaunonoticias.info/banxico-advierte-presion-economica-en-la-frontera-aranceles-empleo-y-compras-en-ee-uu-golpean-al-norte/",
+        "_added_at": "2026-10-21T12:59:28.719040-07:00"
+      },
+      {
+        "title": "IMSS aprueba incremento salarial de 8% para trabajadores",
+        "summary": "Instituto de seguridad social aumenta sueldos e incluye ayuda para vivienda de sus empleados.",
+        "zona": "Baja California",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/imss-eleva-a-8-por-ciento-el-incremento-salarial-de-sus-trabajadores/?utm_source=rss&utm_medium=rss&utm_campaign=imss-eleva-a-8-por-ciento-el-incremento-salarial-de-sus-trabajadores",
+        "_added_at": "2026-10-21T12:59:28.719040-07:00"
+      },
+      {
+        "title": "Restauranteros de Tijuana piden agilizar permisos municipales",
+        "summary": "Sector gastronómico solicita digitalización de trámites al municipio para acelerar operaciones.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/10/21/restauranteros-de-tijuana-piden-digitalizar-tramites-municipales/",
+        "_added_at": "2026-10-21T12:59:28.719040-07:00"
+      }
+    ],
+    "eventos": [
+      {
+        "title": "Jonathan Aranda lleva a Tijuana a serie mundial de beisbol",
+        "summary": "Pelotero de origen tijuanense avanza a la serie mundial de grandes ligas profesionales.",
+        "zona": "Tijuana",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/deportes/2026/10/21/jonathan-aranda-lleva-el-sueno-de-tijuana-a-la-serie-mundial-de-grandes-ligas/",
+        "_added_at": "2026-10-21T12:59:28.719040-07:00"
+      }
+    ],
     "sociedad": [
+      {
+        "title": "Derrame de 9 mil litros de diésel contamina arroyo Rosarito",
+        "summary": "Volcadura de pipa causa derrames de combustible en canalización; autoridades instalan barreras de contención.",
+        "zona": "Rosarito",
+        "source": "TV Azteca BC",
+        "url": "https://www.tvaztecabajacalifornia.com/noticias/pipa-vuelca-y-derrama-9-mil-litros-de-diesel-en-arroyo-de-rosarito/",
+        "_added_at": "2026-10-21T12:59:28.719040-07:00"
+      },
+      {
+        "title": "Estudiantes se intoxican tras beber té helado en secundaria",
+        "summary": "Alerta sanitaria en escuela tras envenenamiento de menores con bebida contaminada durante jornada escolar.",
+        "zona": "Baja California",
+        "source": "TV Azteca BC",
+        "url": "https://www.tvaztecabajacalifornia.com/noticias/alerta-en-secundaria-estudiantes-se-intoxican-tras-beber-te-helado/",
+        "_added_at": "2026-10-21T12:59:28.719040-07:00"
+      },
+      {
+        "title": "Iniciativa busca frenar maltrato a mujeres denunciantes de violencia",
+        "summary": "Proyecto enfocado en mejorar trato a víctimas cuando acuden a denunciar agresiones ante autoridades.",
+        "zona": "Baja California",
+        "source": "AGP Noticias",
+        "url": "https://agpnoticias.com/news/buscan-frenar-el-maltrato-a-mujeres-que-acuden-a-denunciar-violencia/",
+        "_added_at": "2026-10-21T12:59:28.719040-07:00"
+      },
+      {
+        "title": "Conagua inicia demolición de viviendas en invasión Río Tijuana",
+        "summary": "Comisión Nacional de Agua ejecuta desalojos en asentamiento irregular cercano al cauce.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/conagua-inicia-demolicion-de-viviendas-en-invasion-del-rio-tijuana/?utm_source=rss&utm_medium=rss&utm_campaign=conagua-inicia-demolicion-de-viviendas-en-invasion-del-rio-tijuana",
+        "_added_at": "2026-10-21T12:59:28.719040-07:00"
+      },
+      {
+        "title": "Exhortan a donar para damnificados por tormenta Rachel",
+        "summary": "Llamado a solidaridad para asistir a pobladores de Ensenada afectados por fenómeno meteorológico.",
+        "zona": "Ensenada",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/estatal/2026/10/21/exhortan-a-donar-para-danmificados-por-tormenta-rachel-en-ensenada-bc/",
+        "_added_at": "2026-10-21T12:59:28.719040-07:00"
+      },
       {
         "title": "Personal del Hospital General de Tijuana protesta",
         "summary": "Trabajadores del hospital se movilizan por falta de insumos y equipo médico necesario.",
@@ -75,5 +237,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-21T00:50:31.846163-07:00"
+  "last_updated": "2026-10-21T12:59:28.719040-07:00"
 }
