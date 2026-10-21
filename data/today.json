@@ -1,8 +1,56 @@
 {
   "date": "2026-10-20",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Investigan a regidor de Tijuana por presuntos ilícitos",
+        "summary": "Fiscalía General del Estado mantiene investigación activa contra funcionario municipal de Tijuana por posibles irregularidades.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/183212_fge_mantiene_activa_investigacion_contra_regidor_de_tijuana",
+        "_added_at": "2026-10-20T17:28:46.911745-07:00"
+      },
+      {
+        "title": "Evacuación por fuga de amoniaco en El Sauzal afecta 94 personas",
+        "summary": "Incidente en planta procesadora obliga desalojo de trabajadores y personal de institución de investigación científica.",
+        "zona": "Ensenada",
+        "source": "E1 Noticias",
+        "url": "https://www.ensenadaunonoticias.info/fuga-de-amoniaco-en-el-sauzal-obliga-a-evacuar-a-94-personas-de-baja-marine-foods-e-inapesca/",
+        "_added_at": "2026-10-20T17:28:46.911745-07:00"
+      },
+      {
+        "title": "Detienen a padrastro por intoxicación de menor con ácido",
+        "summary": "Fiscalía investiga caso de niño envenenado con ácido para aire acondicionado; buscan a la madre en Mexicali.",
+        "zona": "Mexicali",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/mexicali-detienen-a-presunto-padrastro-de-menor-intoxicado-con-acido-para-aire-acondicionado-buscan-a-su-madre/?utm_source=rss&utm_medium=rss&utm_campaign=mexicali-detienen-a-presunto-padrastro-de-menor-intoxicado-con-acido-para-aire-acondicionado-buscan-a-su-madre",
+        "_added_at": "2026-10-20T17:28:46.911745-07:00"
+      },
+      {
+        "title": "Capturan a tres sujetos armados en carretera Tijuana-Rosarito",
+        "summary": "Operativo asegura a individuos portando armas; uno contaba con orden de captura vigente.",
+        "zona": "Tijuana",
+        "source": "TV Azteca BC",
+        "url": "https://www.tvaztecabajacalifornia.com/policiaca/caen-tres-personas-armadas-en-la-carretera-tijuana-rosarito-uno-tenia-una-orden-de-captura/",
+        "_added_at": "2026-10-20T17:28:46.911745-07:00"
+      },
+      {
+        "title": "Proponen ampliar internamiento a menores por delitos graves",
+        "summary": "Iniciativa busca extender pena de privación de libertad hasta diez años para adolescentes por infracciones serias.",
+        "zona": "Tijuana",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/100809/Proponen-ampliar-hasta-10-a%C3%B1os-internamiento-para-adolescentes-por-delitos-graves",
+        "_added_at": "2026-10-20T17:28:46.911745-07:00"
+      },
+      {
+        "title": "Baja California Sur lidera desplazamiento forzado en país",
+        "summary": "Entidad registra cifras alarmantes de poblacion desplazada por violencia, entre primeros lugares nacionales.",
+        "zona": "Baja California",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/bcs-en-los-primeros-lugares-por-desplazamiento-forzado/?utm_source=rss&utm_medium=rss&utm_campaign=bcs-en-los-primeros-lugares-por-desplazamiento-forzado",
+        "_added_at": "2026-10-20T17:28:46.911745-07:00"
+      },
       {
         "title": "Bajacaliforniano acusado de traición a la patria",
         "summary": "Persona originaria de Baja California enfrenta acusación federal por presunto delito de traición a la patria.",
@@ -13,6 +61,54 @@
       }
     ],
     "politica": [
+      {
+        "title": "Tecate: burocracia amenaza con obstruir informe de presidente municipal",
+        "summary": "Conflicto interno en administración de Román Cota podría impedir presentación de rendición de cuentas.",
+        "zona": "Tecate",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/burocracia-de-tecate-amaga-con-reventar-segundo-informe-de-roman-cota/?utm_source=rss&utm_medium=rss&utm_campaign=burocracia-de-tecate-amaga-con-reventar-segundo-informe-de-roman-cota",
+        "_added_at": "2026-10-20T17:28:46.911745-07:00"
+      },
+      {
+        "title": "Alfredo Nuño García toma cargo como secretario de Gobierno",
+        "summary": "Cabildo de Tijuana aprueba designación de nuevo titular; es tercer cambio en el puesto este año.",
+        "zona": "Tijuana",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/20/aprueba-cabildo-de-tijuana-designacion-de-miguel-alfredo-nuno-garcia-como-nuevo-secretario-de-gobierno-municipal/",
+        "_added_at": "2026-10-20T17:28:46.911745-07:00"
+      },
+      {
+        "title": "Aurora Inzunza se registra como candidata en San Quintín",
+        "summary": "Candidata se inscribe para competir por Coordinación Municipal en San Quintín.",
+        "zona": "Ensenada",
+        "source": "Rada Noticias",
+        "url": "https://radanoticias.info/se-registra-aurora-inzunza-por-la-coordinacion-municipal-de-san-quintin/",
+        "_added_at": "2026-10-20T17:28:46.911745-07:00"
+      },
+      {
+        "title": "Morena cierra registros de coordinadores sin anunciar ganadores",
+        "summary": "Partido cierra convocatoria pero aún no revela nombres de candidatos seleccionados para coordinaciones.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/nacionales/183201_no_hay_fecha_para_anunciar_coordinadores_morena_cerro_registros",
+        "_added_at": "2026-10-20T17:28:46.911745-07:00"
+      },
+      {
+        "title": "Partido Somos aspira alcanzar 10% en votación 2027",
+        "summary": "Organización política expresa confianza en obtener ese porcentaje de simpatía electoral próximas elecciones.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/183211_partido_somos_confia_alcanzar_el_10_por_ciento_de_la_votacion",
+        "_added_at": "2026-10-20T17:28:46.911745-07:00"
+      },
+      {
+        "title": "Baja California planea inversión récord de 61 mil millones para 2027",
+        "summary": "Gobierno estatal proyecta presupuesto histórico destinado a infraestructura y desarrollo regional.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/20/proyecta-baja-california-inversion-historica-de-mas-de-61-mil-millones-de-pesos-para-2027/",
+        "_added_at": "2026-10-20T17:28:46.911745-07:00"
+      },
       {
         "title": "Disputa por Secretaría de Gobierno en Tijuana",
         "summary": "Se registra competencia por la posición de Secretaría de Gobierno municipal en Tijuana entre diversos aspirantes.",
@@ -48,6 +144,38 @@
     ],
     "economia": [
       {
+        "title": "Empresarios piden reducir impuesto sobre nómina al 3%",
+        "summary": "Sector empresarial plantea disminución tributaria para mejorar competitividad en Baja California.",
+        "zona": "Baja California",
+        "source": "AGP Noticias",
+        "url": "https://agpnoticias.com/news/empresarios-plantean-reducir-al-3-el-impuesto-sobre-nomina-en-baja-california/",
+        "_added_at": "2026-10-20T17:28:46.911745-07:00"
+      },
+      {
+        "title": "Nuevos polígonos de pesca no benefician aún a familias de San Felipe",
+        "summary": "A pesar de apertura de nuevas zonas de pesca, pescadores locales señalan falta de impacto económico.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/183208_nuevos_poligonos_de_pesca_aun_no_benefician_a_las_familias_de_san_felipe",
+        "_added_at": "2026-10-20T17:28:46.911745-07:00"
+      },
+      {
+        "title": "Cespt termina rehabilitación de Colector Ensenada esta semana",
+        "summary": "Conclusión de obra de infraestructura hídrica en Ensenada se aproxima según cronograma.",
+        "zona": "Ensenada",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/20/esta-semana-termina-cespt-la-rehabilitacion-del-colector-ensenada/",
+        "_added_at": "2026-10-20T17:28:46.911745-07:00"
+      },
+      {
+        "title": "Inicia obra de puente peatonal para Universidad Rosario Castellanos",
+        "summary": "Inversión de 51 millones para construcción de paso elevado beneficiará estudiantes de Tijuana.",
+        "zona": "Tijuana",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/100805/Arranca-obra-de-puente-peatonal-para-estudiantes-de-la-Universidad-Rosario-Castellanos;-invertir%C3%A1n-51-millones",
+        "_added_at": "2026-10-20T17:28:46.911745-07:00"
+      },
+      {
         "title": "Abre primera fase Otay II para camiones vacíos",
         "summary": "Se inaugura primera etapa de Otay II permitiendo paso de camiones sin carga, liberando mil 500 unidades diarias.",
         "zona": "Tijuana",
@@ -66,6 +194,38 @@
     ],
     "eventos": [
       {
+        "title": "Presentan Hub de Innovación Ensenada en Baja Innovation Day",
+        "summary": "Iniciativa local se exhibe en evento regional de innovación y emprendimiento.",
+        "zona": "Ensenada",
+        "source": "Rada Noticias",
+        "url": "https://radanoticias.info/presentan-el-hub-de-innovacion-ensenada-en-baja-innovation-day/",
+        "_added_at": "2026-10-20T17:28:46.911745-07:00"
+      },
+      {
+        "title": "Convocan a Torneo Intercolonias de fútbol rápido en BC",
+        "summary": "Abierta inscripción para competencia deportiva de fútbol de salón con participación regional.",
+        "zona": "Baja California",
+        "source": "AGP Noticias",
+        "url": "https://agpnoticias.com/news/abren-convocatoria-para-el-torneo-intercolonias-de-futbol-rapido-en-baja-california/",
+        "_added_at": "2026-10-20T17:28:46.911745-07:00"
+      },
+      {
+        "title": "Octava etapa del Serial Atlético Delegacional 2026 anunciada",
+        "summary": "Continúan competencias atléticas en diversas delegaciones de Tijuana.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/anuncian-octava-etapa-del-serial-atletico-delegacional-2026/?utm_source=rss&utm_medium=rss&utm_campaign=anuncian-octava-etapa-del-serial-atletico-delegacional-2026",
+        "_added_at": "2026-10-20T17:28:46.911745-07:00"
+      },
+      {
+        "title": "Celebran Día Nacional del Xoloitzcuintle en Canódromo Caliente",
+        "summary": "Fiesta dedicada a la raza canina nacional mexicana se realizará en Tijuana.",
+        "zona": "Tijuana",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/100807/Celebrar%C3%A1n-el-D%C3%ADa-Nacional-del-Xoloitzcuintle-con-una-fiesta-en-el-Can%C3%B3dromo-Caliente-de-Tijuana",
+        "_added_at": "2026-10-20T17:28:46.911745-07:00"
+      },
+      {
         "title": "Megapuente Día de Muertos en escuelas de BC",
         "summary": "Autoridades educativas confirman calendario de suspensiones para estudiantes durante festividades de Día de Muertos.",
         "zona": "Baja California",
@@ -76,6 +236,62 @@
     ],
     "sociedad": [
       {
+        "title": "Desabasto crítico en Hospital General de Tijuana: medicinas e insumos faltan",
+        "summary": "Trabajadores sanitarios denuncian carencia de medicamentos y material quirúrgico; alertan situación grave.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/protestan-por-desabasto-de-medicamentos-en-hgt-autoridades-dejen-de-decir-que-no-hacen-falta-pide-ciudadana/?utm_source=rss&utm_medium=rss&utm_campaign=protestan-por-desabasto-de-medicamentos-en-hgt-autoridades-dejen-de-decir-que-no-hacen-falta-pide-ciudadana",
+        "_added_at": "2026-10-20T17:28:46.911745-07:00"
+      },
+      {
+        "title": "ISSSTECALI tardará hasta dos meses en reembolsar medicinas faltantes",
+        "summary": "Institución de seguridad social anuncia plazo extendido para devolución de fondos por fármacos no disponibles.",
+        "zona": "Baja California",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Estatal/100811/Hasta-dos-meses-para-rembolsar-medicinas-faltantes-%3A-ISSSTECALI",
+        "_added_at": "2026-10-20T17:28:46.911745-07:00"
+      },
+      {
+        "title": "Entregan prótesis mamarias gratuitas a sobrevivientes de cáncer",
+        "summary": "Programa de salud brinda apoyo a mujeres con historia de cáncer de mama en Ensenada.",
+        "zona": "Ensenada",
+        "source": "Rada Noticias",
+        "url": "https://radanoticias.info/entregan-protesis-mamarias-gratuitas-a-sobrevivientes-de-cancer/",
+        "_added_at": "2026-10-20T17:28:46.911745-07:00"
+      },
+      {
+        "title": "Padres exigen asignación de maestro para primaria en Ensenada",
+        "summary": "Comunidad educativa amenaza con ocupar escuela ante falta de docente designado.",
+        "zona": "Ensenada",
+        "source": "Rada Noticias",
+        "url": "https://radanoticias.info/exigen-padres-de-familia-asignacion-de-maestro-para-primaria/",
+        "_added_at": "2026-10-20T17:28:46.911745-07:00"
+      },
+      {
+        "title": "Coepris desinfecta colonias de Ensenada tras desbordamientos",
+        "summary": "Brigadas de sanitización actúan en zonas afectadas por lluvias e inundaciones de drenaje.",
+        "zona": "Ensenada",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/10/20/brigadistas-de-coepris-desinfectan-colonias-afectadas-por-desbordamientos-de-drenaje-en-ensenada-tras-la-tormenta/",
+        "_added_at": "2026-10-20T17:28:46.911745-07:00"
+      },
+      {
+        "title": "Salvación cardíaca: 15 bebés recibirán cirugía gratuita en Tijuana",
+        "summary": "Fundación Bebé Cardio financia operaciones de alto costo para recién nacidos con cardiopatías.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/10/20/fundacion-bebe-cardio-ayudara-a-operar-de-manera-gratuita-a-15-bebes-con-problemas-del-corazon-en-tijuana/",
+        "_added_at": "2026-10-20T17:28:46.911745-07:00"
+      },
+      {
+        "title": "Proponen sancionar a universidades que obstaculicen titulación",
+        "summary": "Iniciativa busca penalizar instituciones privadas que dificulten proceso de graduación de estudiantes.",
+        "zona": "Baja California",
+        "source": "AGP Noticias",
+        "url": "https://agpnoticias.com/news/proponen-sancionar-a-universidades-privadas-que-obstaculicen-la-titulacion/",
+        "_added_at": "2026-10-20T17:28:46.911745-07:00"
+      },
+      {
         "title": "Paradoja hídrica ahoga a Ensenada",
         "summary": "Pese a lluvias, Ensenada enfrenta crisis de escasez de agua potable por problemas en infraestructura.",
         "zona": "Ensenada",
@@ -85,5 +301,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-20T00:47:01.955117-07:00"
+  "last_updated": "2026-10-20T17:28:46.911745-07:00"
 }
