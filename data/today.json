@@ -1,8 +1,40 @@
 {
   "date": "2026-10-22",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Detienen a 'El Nenuco' por homicidio de agente estatal",
+        "summary": "Capturan en Jalisco a presunto responsable del asesinato de una agente de la FESC en Tijuana; fue trasladado para enfrentar proceso.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/183294_detienen_a_el_nenuco_presunto_homicida_de_una_agente_de_la_fesc",
+        "_added_at": "2026-10-22T12:52:55.892597-07:00"
+      },
+      {
+        "title": "Ejecutan a dueña de establecimiento en Ensenada",
+        "summary": "Mujer es asesinada en zona turística de Ensenada; autoridades investigan homicidio en El Faro Beach.",
+        "zona": "Ensenada",
+        "source": "TV Azteca BC",
+        "url": "https://www.tvaztecabajacalifornia.com/noticias/ataque-armado-en-zona-turistica-de-ensenada-deja-a-una-mujer-sin-vida/",
+        "_added_at": "2026-10-22T12:52:55.892597-07:00"
+      },
+      {
+        "title": "Disparan contra automovilista en Maclovio Rojas",
+        "summary": "Conductor es atacado a balazos y su vehículo termina impactando una vivienda; hay registro del incidente.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/183291_disparan_contra_automovilista_choco_contra_vivienda_en_el_maclovio_rojas",
+        "_added_at": "2026-10-22T12:52:55.892597-07:00"
+      },
+      {
+        "title": "CSP deja en manos de FGR denuncia contra gobernadora Maru Campos",
+        "summary": "Comisión de Seguridad Pública transfiere investigación sobre la gobernadora al ámbito federal para su análisis.",
+        "zona": "Baja California",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/csp-deja-a-fgr-la-denuncia-contra-la-gobernadora-maru-campos/?utm_source=rss&utm_medium=rss&utm_campaign=csp-deja-a-fgr-la-denuncia-contra-la-gobernadora-maru-campos",
+        "_added_at": "2026-10-22T12:52:55.892597-07:00"
+      },
       {
         "title": "Explosión y fuga de gas lesionan a cuatro en Tijuana",
         "summary": "Incidente con fuga de gas dejó cuatro heridos, uno de gravedad, en operativo de emergencia.",
@@ -38,6 +70,30 @@
     ],
     "politica": [
       {
+        "title": "PRI busca alcaldías de Ensenada y Tecate en 2027",
+        "summary": "Partido tricolor plantea candidatos para elecciones municipales en dos ciudades clave de Baja California.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/183293_va_el_pri_por_alcaldias_de_ensenada_y_tecate_en_2027",
+        "_added_at": "2026-10-22T12:52:55.892597-07:00"
+      },
+      {
+        "title": "Conflicto entre Caballero y Aguirre por litigios del SITT",
+        "summary": "Regidor Aguirre niega haber ofrecido dinero a alcaldesa Caballero por resolver litigios del transporte.",
+        "zona": "Tijuana",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/22/jamas-le-ofreci-dinero-napo-desmiente-a-montserrat-caballero-por-litigios-del-sitt/",
+        "_added_at": "2026-10-22T12:52:55.892597-07:00"
+      },
+      {
+        "title": "Aprueba legislatura reformas en favor de familias",
+        "summary": "Comisión de Trabajo aprueba cambios normativos para beneficio de familias, mujeres y juventudes en el estado.",
+        "zona": "Baja California",
+        "source": "Rada Noticias",
+        "url": "https://radanoticias.info/aprueban-reformas-en-favor-de-familias-mujeres-y-juventudes/",
+        "_added_at": "2026-10-22T12:52:55.892597-07:00"
+      },
+      {
         "title": "Escándalo en Tijuana: investigan desviaciones en funcionarios",
         "summary": "Nuevo escándalo envuelve a autoridades locales en presuntos desvíos de recursos.",
         "zona": "Tijuana",
@@ -64,6 +120,38 @@
     ],
     "economia": [
       {
+        "title": "Inflación anual acelera a 3.62 por ciento en octubre",
+        "summary": "Datos de INEGI muestran incremento de precios impulsado por aumentos en electricidad y transporte aéreo.",
+        "zona": "Baja California",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/inflacion-anual-se-acelera-a-3-62-por-ciento-en-primera-quincena-de-octubre/?utm_source=rss&utm_medium=rss&utm_campaign=inflacion-anual-se-acelera-a-3-62-por-ciento-en-primera-quincena-de-octubre",
+        "_added_at": "2026-10-22T12:52:55.892597-07:00"
+      },
+      {
+        "title": "Trámites para abrir empresas en Tijuana tardan meses",
+        "summary": "Empresarios reportan demoras de hasta tres meses en procedimientos administrativos para constituir negocios.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/10/22/tramites-para-abrir-empresas-en-tijuana-tardan-hasta-3-meses",
+        "_added_at": "2026-10-22T12:52:55.892597-07:00"
+      },
+      {
+        "title": "Buscan reducir trámites IMMEX a 30 días",
+        "summary": "Autoridades impulsan agilización de permisos para maquiladoras y comercio exterior en la región.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/10/22/buscan-reducir-a-30-dias-los-tramites-para-obtener-permisos-immex/",
+        "_added_at": "2026-10-22T12:52:55.892597-07:00"
+      },
+      {
+        "title": "Instala Turismo 12 módulos de orientación en BC",
+        "summary": "Secretaría de Turismo despliega puntos de información para atender a visitantes en el estado.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/183292_instala_secretaria_de_turismo_12_modulos_de_orientacion_en_bc",
+        "_added_at": "2026-10-22T12:52:55.892597-07:00"
+      },
+      {
         "title": "Hutchison Ports promueve terminal de Ensenada globalmente",
         "summary": "Empresa de cruceros fortalece posicionamiento de puerto ensenadense en conferencia internacional.",
         "zona": "Ensenada",
@@ -72,8 +160,57 @@
         "_added_at": "2026-10-22T00:46:29.610499-07:00"
       }
     ],
-    "eventos": [],
+    "eventos": [
+      {
+        "title": "Velada de Promociones León en Arena Tecate",
+        "summary": "Se anuncia evento de boxeo profesional en instalaciones de la ciudad fronteriza.",
+        "zona": "Tecate",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/anuncian-velada-de-promociones-leon-en-la-arena-tecate/?utm_source=rss&utm_medium=rss&utm_campaign=anuncian-velada-de-promociones-leon-en-la-arena-tecate",
+        "_added_at": "2026-10-22T12:52:55.892597-07:00"
+      }
+    ],
     "sociedad": [
+      {
+        "title": "Rescatan a dos familias atrapadas en arroyos de Ensenada",
+        "summary": "Operativo de emergencia saca de peligro a personas durante lluvias en la ciudad.",
+        "zona": "Ensenada",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/ensenada/2026/10/22/rescatan-a-dos-familias-atrapadas-en-arroyos-de-ensenada/",
+        "_added_at": "2026-10-22T12:52:55.892597-07:00"
+      },
+      {
+        "title": "Gobierno atiende viviendas afectadas por lluvias",
+        "summary": "Administración de Claudia Agatón atiende daños en hogares causados por precipitaciones en Ensenada.",
+        "zona": "Ensenada",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/22/atiende-gobierno-de-claudia-agaton-viviendas-afectadas-por-lluvias-en-ensenada/",
+        "_added_at": "2026-10-22T12:52:55.892597-07:00"
+      },
+      {
+        "title": "Palistas de BC ganan 25 medallas en Nacional",
+        "summary": "Atletas del estado logran destacado desempeño en campeonato nacional de canotaje de velocidad.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/deportes/2026/10/22/conquistan-palistas-de-bc-25-medallas-en-nacional-de-velocidad/",
+        "_added_at": "2026-10-22T12:52:55.892597-07:00"
+      },
+      {
+        "title": "Xolos rescata empate ante Toluca en duelo cerrado",
+        "summary": "Equipo de Tijuana logra igualar 2-2 con Toluca en partido de cuatro goles; Abreu termina expulsado.",
+        "zona": "Tijuana",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/deportes/2026/10/22/xolos-rescata-empate-ante-toluca-en-duelo-de-cuatro-goles-abreu-termino-expulsado/",
+        "_added_at": "2026-10-22T12:52:55.892597-07:00"
+      },
+      {
+        "title": "Agenda estatal de movilidad para 2027",
+        "summary": "Autoridades preparan plan con 10 compromisos para transformar transporte y mobilidad en Baja California.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/22/buscan-transformar-la-movilidad-en-baja-california-preparan-agenda-estatal-con-10-compromisos-para-2027/",
+        "_added_at": "2026-10-22T12:52:55.892597-07:00"
+      },
       {
         "title": "Trabajadores IMSS en Mexicali rechazan aumento y se movilizan",
         "summary": "Personal de salud rechaza propuesta salarial; se suma a marcha nacional por mejores condiciones.",
@@ -116,5 +253,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-22T00:46:29.610499-07:00"
+  "last_updated": "2026-10-22T12:52:55.892597-07:00"
 }
