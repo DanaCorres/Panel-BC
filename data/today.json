@@ -1,8 +1,56 @@
 {
   "date": "2026-10-21",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Mujer muere en ataque armado en Ensenada",
+        "summary": "Mujer fallece tras ser atacada a balazos en zona turística de Ensenada. Investigación en curso por autoridades locales.",
+        "zona": "Ensenada",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/muere-mujer-tras-ataque-armado-en-zona-turistica-de-ensenada/?utm_source=rss&utm_medium=rss&utm_campaign=muere-mujer-tras-ataque-armado-en-zona-turistica-de-ensenada",
+        "_added_at": "2026-10-21T17:32:21.454975-07:00"
+      },
+      {
+        "title": "Vehículo de alcaldesa atropella y mata peatón en San Quintín",
+        "summary": "Camioneta de la presidenta municipal Miriam Cano involucrada en atropellamiento mortal. Autoridades investigan el incidente.",
+        "zona": "San Quintín",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/10/21/camioneta-que-utiliza-la-alcaldesa-de-san-quintin-mato-a-un-peaton-este-miercoles/",
+        "_added_at": "2026-10-21T17:32:21.454975-07:00"
+      },
+      {
+        "title": "Narcomanta aparece frente a jardín de niños en Palaco",
+        "summary": "Presuntos grupos criminales colocan manta con mensaje intimidatorio en instalación educativa de Mexicali.",
+        "zona": "Mexicali",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/183251_colocan_narcomanta_frente_a_un_jardin_de_ninos_en_palaco",
+        "_added_at": "2026-10-21T17:32:21.454975-07:00"
+      },
+      {
+        "title": "Hombre ejecutado junto a canal en Mexicali",
+        "summary": "Hallan cadáver de hombre con impactos de bala junto a canal en el Valle de Mexicali.",
+        "zona": "Mexicali",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/hallan-a-hombre-ejecutado-junto-a-canal-en-el-valle-de-mexicali/",
+        "_added_at": "2026-10-21T17:32:21.454975-07:00"
+      },
+      {
+        "title": "Detienen presunto informante que espiaba autoridades",
+        "summary": "Capturan a presunto \"halcón\" acusado de espiar a autoridades de México y Estados Unidos.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/183259_detienen_a_presunto_halcon_que_espiaba_a_autoridades_de_mexico_y_eu",
+        "_added_at": "2026-10-21T17:32:21.454975-07:00"
+      },
+      {
+        "title": "Derrame de diésel contamina arroyo en Rosarito",
+        "summary": "Aproximadamente 9 mil litros de diésel se derraman en arroyo de Rosarito. Autoridades instalan barreras de contención.",
+        "zona": "Rosarito",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/100830/Derrame-de-9-mil-litros-de-di%C3%A9sel-contamina-arroyo-de-Rosarito;-instalan-barreras-para-contener-combustible",
+        "_added_at": "2026-10-21T17:32:21.454975-07:00"
+      },
       {
         "title": "Delitos de menores en BC suben 8% en el año",
         "summary": "Autoridades advierten sobre incremento de delitos cometidos por adolescentes en Baja California, indicando tendencia preocupante en criminalidad juvenil.",
@@ -74,25 +122,49 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/seguridad/183217_balean_a_un_hombre_en_su_propio_domicilio_en_tecate",
         "_added_at": "2026-10-21T00:50:31.846163-07:00"
-      },
-      {
-        "title": "Deslizamiento en colonia 3 de Octubre amenaza hogares",
-        "summary": "Deslizamientos de tierra ponen en riesgo a familias en la colonia 3 de Octubre de Tijuana.",
-        "zona": "Tijuana",
-        "source": "TV Azteca BC",
-        "url": "https://www.tvaztecabajacalifornia.com/noticias/alerta-en-la-colonia-3-de-octubre-deslizamiento-amenaza-con-dejar-a-familias-sin-hogar-en-tijuana/",
-        "_added_at": "2026-10-21T00:50:31.846163-07:00"
-      },
-      {
-        "title": "Alerta sobre fraudes laborales vinculados a trata de personas",
-        "summary": "Advierten sobre ofertas falsas de empleo por internet relacionadas con trata de personas.",
-        "zona": "Baja California",
-        "source": "TV Azteca BC",
-        "url": "https://www.tvaztecabajacalifornia.com/noticias/buscas-trabajo-por-internet-alertan-por-ofertas-falsas-relacionadas-con-la-trata-de-personas/",
-        "_added_at": "2026-10-21T00:50:31.846163-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Reprueban cuentas públicas de Tijuana y Ensenada",
+        "summary": "Autoridades rechazan cuentas de ambos municipios por irregularidades en administración y manejo de recursos públicos.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/21/reprueban-cuentas-publicas-de-tijuana-y-ensenada-por-irregularidades-en-manejo-de-recursos/",
+        "_added_at": "2026-10-21T17:32:21.454975-07:00"
+      },
+      {
+        "title": "Proyectan 80 mil nuevas viviendas para la entidad",
+        "summary": "Marina del Pilar participa en reunión con Sheinbaum para impulsar construcción de viviendas en Baja California.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/21/proyectan-80-mil-nuevas-viviendas-para-baja-california-marina-del-pilar-participa-en-reunion-con-sheinbaum/",
+        "_added_at": "2026-10-21T17:32:21.454975-07:00"
+      },
+      {
+        "title": "Mexicali sancionará empleados que apoyen política en trabajo",
+        "summary": "Ayuntamiento emitirá circular para sancionar a funcionarios que respalden proyectos políticos en horario laboral.",
+        "zona": "Mexicali",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/100836/Empleados-del-Ayuntamiento-de-Mexicali-que-apoyen-proyectos-pol%C3%ADticos-en-horario-laboral-ser%C3%A1n-sancionados",
+        "_added_at": "2026-10-21T17:32:21.454975-07:00"
+      },
+      {
+        "title": "Sistema Lagunar de Mexicali permanecerá como Parque Estatal",
+        "summary": "Autoridades confirman que el Sistema Lagunar se mantendrá con estatus de área protegida y parque estatal.",
+        "zona": "Mexicali",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/183256_el_sistema_lagunar_de_mexicali_se_mantendra_como_parque_estatal_afirman",
+        "_added_at": "2026-10-21T17:32:21.454975-07:00"
+      },
+      {
+        "title": "Diputada propone evitar revictimización de mujeres",
+        "summary": "Santa Alejandrina Corral presenta iniciativa para prevenir victimización adicional en trámites de instituciones públicas.",
+        "zona": "Tijuana",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/propone-diputada-santa-alejandrina-corral-evitar-la-revictimizacion-de-mujeres-en-instituciones-publicas/",
+        "_added_at": "2026-10-21T17:32:21.454975-07:00"
+      },
       {
         "title": "Norma Bustamante enfrenta limitaciones presupuestales severas",
         "summary": "Funcionaria estatal afronta restricciones importantes en asignación de recursos para su gestión.",
@@ -144,6 +216,38 @@
     ],
     "economia": [
       {
+        "title": "Feria de emprendedores en Avenida Revolución",
+        "summary": "Llevarán feria con aproximadamente 150 emprendedores locales a la Avenida Revolución de Tijuana.",
+        "zona": "Tijuana",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/100850/Llevar%C3%A1n-a-la-avenida-Revoluci%C3%B3n-feria-con-150-emprendedores-locales",
+        "_added_at": "2026-10-21T17:32:21.454975-07:00"
+      },
+      {
+        "title": "Dólar se vende en 17.55 pesos en Tijuana",
+        "summary": "Tipo de cambio continúa al alza tras seis semanas de incremento en el valor del dólar.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/10/21/dolar-suma-seis-semanas-al-alza-se-vende-en-1755-pesos-en-tijuana/",
+        "_added_at": "2026-10-21T17:32:21.454975-07:00"
+      },
+      {
+        "title": "Arrancan trabajos de impregnación en Tijuana 2000",
+        "summary": "Inician labores de impregnación en tramo norte del carrillo confinado Tijuana 2000 del acuífero.",
+        "zona": "Tijuana",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/2026/10/21/arrancan-trabajos-de-impregnacion-en-tramo-norte-del-carrillo-confinado-tijuana-2000/",
+        "_added_at": "2026-10-21T17:32:21.454975-07:00"
+      },
+      {
+        "title": "Mexicali regularizará impuesto sobre nómina en 2027",
+        "summary": "Tesorero confirma que municipio resolverá pendientes fiscales en el impuesto sobre nómina durante próximo año.",
+        "zona": "Mexicali",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/183249_mexicali_regularizara_el_impuesto_sobre_nomina_en_2027_tesorero",
+        "_added_at": "2026-10-21T17:32:21.454975-07:00"
+      },
+      {
         "title": "Banxico advierte presión económica fronteriza por aranceles",
         "summary": "Banco central señala impacto negativo de aranceles y cambio en compras transfronterizas en región norte.",
         "zona": "Baja California",
@@ -170,6 +274,38 @@
     ],
     "eventos": [
       {
+        "title": "Paseo ciclista Rosarito-Ensenada tendrá controles viales",
+        "summary": "Evento tradicional contará con presencia de autoridades y medidas de seguridad en carretera libre.",
+        "zona": "Ensenada",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/10/21/paseo-ciclista-rosarito-ensenada-tendra-controles-viales-en-la-carretera-libre/",
+        "_added_at": "2026-10-21T17:32:21.454975-07:00"
+      },
+      {
+        "title": "Recorridos nocturnos en Casa de la Cultura de Tijuana",
+        "summary": "Ofrecerán tours nocturnos titulados \"Historias y Leyendas\" para promover historia cultural de la institución.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/comunidad/183255_promueven_historia_de_la_casa_de_la_cultura_de_tijuana_con_recorridos_nocturnos",
+        "_added_at": "2026-10-21T17:32:21.454975-07:00"
+      },
+      {
+        "title": "Turismo comunitario indígena con nueve experiencias",
+        "summary": "Presentan catálogo que reúne experiencias de turismo comunitario ofrecidas por comunidades indígenas de Baja California.",
+        "zona": "Baja California",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/10/21/presentan-catalogo-con-nueve-experiencias-de-turismo-comunitario-indigena-en-baja-california/",
+        "_added_at": "2026-10-21T17:32:21.454975-07:00"
+      },
+      {
+        "title": "Foro de debate sobre Baja California anunciado",
+        "summary": "Convocan a foro de debate titulado \"Baja California, territorio en movimiento\" para analizar situación actual.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/183260_anuncian_el_foro_de_debate_baja_california_territorio_en_movimiento",
+        "_added_at": "2026-10-21T17:32:21.454975-07:00"
+      },
+      {
         "title": "Jonathan Aranda lleva a Tijuana a serie mundial de beisbol",
         "summary": "Pelotero de origen tijuanense avanza a la serie mundial de grandes ligas profesionales.",
         "zona": "Tijuana",
@@ -179,6 +315,46 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Desalojan Arroyo de La Presa y demuelen viviendas",
+        "summary": "Autoridades retiran escombros y demuelen asentamientos en zona de riesgo tras operativo de desalojo en Tijuana.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/10/21/retiran-escombros-y-demuelen-viviendas-tras-desalojo-en-arroyo-de-la-presa-en-tijuana/",
+        "_added_at": "2026-10-21T17:32:21.454975-07:00"
+      },
+      {
+        "title": "Impulsan inclusión social con apoyos auditivos y visuales",
+        "summary": "Programas en Mexicali proporcionan herramientas de accesibilidad para personas con discapacidades sensoriales.",
+        "zona": "Mexicali",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/21/impulsan-la-inclusion-social-en-mexicali-con-apoyos-visuales-y-auditivos/",
+        "_added_at": "2026-10-21T17:32:21.454975-07:00"
+      },
+      {
+        "title": "Rescatan cuatro caninos víctimas de maltrato",
+        "summary": "Fiscalía rescata perros maltratados tras operativo; están bajo cuidado y vigilancia de autoridades.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/21/fge-rescata-cuatro-caninos-de-maltrato/",
+        "_added_at": "2026-10-21T17:32:21.454975-07:00"
+      },
+      {
+        "title": "UABC presenta resultados de foro sobre prevención de incendios",
+        "summary": "Universidad expone conclusiones del Primer Foro Regional para la Prevención de Incendios en la entidad.",
+        "zona": "Mexicali",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/100856/Presenta-UABC--resultados-del-Primer-Foro-Regional-para-la-Prevenci%C3%B3n-de-Incendios",
+        "_added_at": "2026-10-21T17:32:21.454975-07:00"
+      },
+      {
+        "title": "Exigen paridad de género en elección de rectoría de UABC",
+        "summary": "Organizaciones civiles demandan que proceso electoral para nueva rectoría incluya participación equitativa de mujeres.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/21/exigen-organizaciones-civiles-paridad-de-genero-en-eleccion-de-rectoria-de-la-uabc/",
+        "_added_at": "2026-10-21T17:32:21.454975-07:00"
+      },
       {
         "title": "Derrame de 9 mil litros de diésel contamina arroyo Rosarito",
         "summary": "Volcadura de pipa causa derrames de combustible en canalización; autoridades instalan barreras de contención.",
@@ -237,5 +413,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-21T12:59:28.719040-07:00"
+  "last_updated": "2026-10-21T17:32:21.454975-07:00"
 }
