@@ -1,8 +1,72 @@
 {
   "date": "2026-10-23",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Mexicali y Tijuana superan percepción nacional de inseguridad",
+        "summary": "Ambas ciudades registran niveles de percepción de inseguridad por encima del promedio nacional, reflejando preocupación ciudadana persistente.",
+        "zona": "Baja California",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/mexicali-y-tijuana-superan-la-media-nacional-de-percepcion-de-inseguridad/?utm_source=rss&utm_medium=rss&utm_campaign=mexicali-y-tijuana-superan-la-media-nacional-de-percepcion-de-inseguridad",
+        "_added_at": "2026-10-23T12:52:56.847491-07:00"
+      },
+      {
+        "title": "Cuatro muertos y rescates por tormenta Rachel en el estado",
+        "summary": "La tormenta Rachel deja saldo de cuatro fallecidos en Baja California; Ejército y Guardia Nacional rescatan a 32 personas atrapadas en Ensenada.",
+        "zona": "Baja California",
+        "source": "Milenio",
+        "url": "https://www.milenio.com/videos/policia/suman-4-muertos-lluvias-rachel-baja-california",
+        "_added_at": "2026-10-23T12:52:56.847491-07:00"
+      },
+      {
+        "title": "Capturan en Rosarito a prófugo por pederastia en Veracruz",
+        "summary": "FGE asegura a individuo solicitado por autoridades de Veracruz por delitos contra menores de edad.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/23/fge-captura-en-rosarito-a-profugo-por-pederastia-en-veracruz/",
+        "_added_at": "2026-10-23T12:52:56.847491-07:00"
+      },
+      {
+        "title": "Homicidio en colonia Camino Verde de Tijuana",
+        "summary": "Hombre es asesinado en colonia Camino Verde; autoridades investigan las circunstancias del crimen.",
+        "zona": "Tijuana",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/hombre-es-asesinado-en-colonia-camino-verde/",
+        "_added_at": "2026-10-23T12:52:56.847491-07:00"
+      },
+      {
+        "title": "Detienen a hombre armado y con chaleco balístico en El Florido",
+        "summary": "Capturan individuo portador de armas y equipo táctico que aseguró trabajar para criminal conocido como El 300.",
+        "zona": "Tijuana",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/detienen-en-el-florido-a-hombre-armado-y-con-chaleco-balistico-dijo-trabajar-para-el-300/",
+        "_added_at": "2026-10-23T12:52:56.847491-07:00"
+      },
+      {
+        "title": "Hombre muere tras disparos junto al muro fronterizo",
+        "summary": "Individuo es atacado a balazos y fallece en colonia Libertad de Tijuana, cerca de la valla fronteriza.",
+        "zona": "Tijuana",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/muere-hombre-a-un-costado-del-muro-fronterizo-tras-haber-sido-atacado-a-disparos/",
+        "_added_at": "2026-10-23T12:52:56.847491-07:00"
+      },
+      {
+        "title": "Detienen a hombre por disparos en velorio de su madre",
+        "summary": "Capturan individuo que amenazó a familiares e hizo disparos al aire durante velorio en Mexicali.",
+        "zona": "Mexicali",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/183340_detienen_a_un_hombre_que_amenazo_e_hizo_disparos_en_velorio_de_su_madre",
+        "_added_at": "2026-10-23T12:52:56.847491-07:00"
+      },
+      {
+        "title": "Detienen a dos hombres con arsenal en auto robado",
+        "summary": "Patrulla choca con vehículo robado en Tijuana; ocupantes portaban dos pistolas y fusil.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/seguridad/183341_traian_dos_pistolas_y_fusil_de_utileria_chocaron_patrulla_con_auto_robado",
+        "_added_at": "2026-10-23T12:52:56.847491-07:00"
+      },
       {
         "title": "Agresiones a policías en aumento durante últimos años",
         "summary": "Federación de Policías reporta incremento de ataques contra elementos de seguridad pública en Tijuana y la región.",
@@ -29,6 +93,54 @@
       }
     ],
     "politica": [
+      {
+        "title": "Sheinbaum y Campos tienen tensa reunión por caso CIA",
+        "summary": "Presidenta y gobernadora sostienen diálogo privado con reclamos mutuos sobre participación de agentes estadounidenses en operativo de Chihuahua.",
+        "zona": "Baja California",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/sheinbaum-confirma-reclamos-mutuos-en-reunion-privada-con-maru-campos/?utm_source=rss&utm_medium=rss&utm_campaign=sheinbaum-confirma-reclamos-mutuos-en-reunion-privada-con-maru-campos",
+        "_added_at": "2026-10-23T12:52:56.847491-07:00"
+      },
+      {
+        "title": "Fernando Maldonado anuncia registro en Morena para San Quintín",
+        "summary": "Político se registra en partido oficial buscando coordinación política en municipio del norte bajacaliforniano.",
+        "zona": "Baja California",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/San%20Quint%C3%ADn/100920/Anuncia-Fernando-Maldonado,-su-registro-en-Morena-por-la-coordinaci%C3%B3n-en-San-Quint%C3%ADn",
+        "_added_at": "2026-10-23T12:52:56.847491-07:00"
+      },
+      {
+        "title": "PES abierto a alianzas políticas para 2027, afirma Hank",
+        "summary": "Partido se posiciona como opción de coalición para próximas elecciones, según dirigencia partidista.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/183335_el_pes_esta_abierto_a_todas_las_fuerzas_politicas_en_2027_asegura_cesar_hank",
+        "_added_at": "2026-10-23T12:52:56.847491-07:00"
+      },
+      {
+        "title": "Diputada Gilvaja pide clausurar basurero clandestino en Tijuana",
+        "summary": "Legisladora presenta demanda para cerrar vertedero ilegal por riesgos sanitarios y ambientales.",
+        "zona": "Tijuana",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/23/pide-diputada-gilvaja-clausurar-basurero-clandestino-en-tijuana-por-riesgo-de-salud",
+        "_added_at": "2026-10-23T12:52:56.847491-07:00"
+      },
+      {
+        "title": "Beto Valle refuerza seguridad en escuelas de Tecate",
+        "summary": "Autoridades municipal implementa medidas para proteger centros educativos en el municipio.",
+        "zona": "Baja California",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tecate/100919/Busca-Beto-Valle-reforzar-la-seguridad-en-escuelas-de-Tecate",
+        "_added_at": "2026-10-23T12:52:56.847491-07:00"
+      },
+      {
+        "title": "Carlos Torres solicita amparo contra bloqueo de cuentas bancarias",
+        "summary": "Empresario acude a tribunales por congelamiento de recursos financieros ordenado por autoridades.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/carlos-torres-solicita-amparo-contra-bloqueo-de-cuentas-bancarias/?utm_source=rss&utm_medium=rss&utm_campaign=carlos-torres-solicita-amparo-contra-bloqueo-de-cuentas-bancarias",
+        "_added_at": "2026-10-23T12:52:56.847491-07:00"
+      },
       {
         "title": "UABC e INE acuerdan alianza para proceso electoral",
         "summary": "Universidad Autónoma y Instituto Nacional Electoral firman convenio estratégico para elecciones estatales.",
@@ -72,6 +184,54 @@
     ],
     "economia": [
       {
+        "title": "Tijuana como hub logístico estratégico de Norteamérica",
+        "summary": "Análisis sobre el potencial de ciudad como centro de distribución y conectividad comercial regional.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/logistica-el-potencial-de-tijuana-como-hub-estrategico-de-norteamerica/?utm_source=rss&utm_medium=rss&utm_campaign=logistica-el-potencial-de-tijuana-como-hub-estrategico-de-norteamerica",
+        "_added_at": "2026-10-23T12:52:56.847491-07:00"
+      },
+      {
+        "title": "Revisiones aduanales intensas en Tijuana retrasan carga hacia EU",
+        "summary": "Aumentan inspecciones en puntos de entrada fronterizos causando congestión en comercio transfronterizo.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/10/23/intensifican-revisiones-aduanales-a-camiones-de-carga-en-tijuana/",
+        "_added_at": "2026-10-23T12:52:56.847491-07:00"
+      },
+      {
+        "title": "Industriales adeudan 350 hectáreas de áreas verdes a Tijuana",
+        "summary": "Desarrolladores incumplen con obligación de entregar espacios públicos y equipamiento al municipio.",
+        "zona": "Tijuana",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/100921/Industriales-adeudan-350-hect%C3%A1reas-de-%C3%A1reas-verdes-y-equipamiento-al-Ayuntamiento",
+        "_added_at": "2026-10-23T12:52:56.847491-07:00"
+      },
+      {
+        "title": "Prodecon registra 800 quejas fiscales en Baja California",
+        "summary": "Defensoría del Contribuyente documenta alto volumen de reclamaciones contra autoridades tributarias.",
+        "zona": "Baja California",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/10/23/prodecon-registra-800-quejas-fiscales-en-baja-california/",
+        "_added_at": "2026-10-23T12:52:56.847491-07:00"
+      },
+      {
+        "title": "Expertos analizan retos y oportunidades de industria IMMEX",
+        "summary": "Foro especializado examina panorama de manufactura para exportación en región fronteriza.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/empresarial/2026/10/23/analizan-expertos-retos-y-oportunidades-para-la-industria-immex/",
+        "_added_at": "2026-10-23T12:52:56.847491-07:00"
+      },
+      {
+        "title": "Coparmex urge medidas para dar certidumbre a empresas",
+        "summary": "Confederación patronal demanda acciones gubernamentales que favorezcan estabilidad para negocios.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/183333_urgen_medidas_para_dar_certidumbre_a_empresas_coparmex",
+        "_added_at": "2026-10-23T12:52:56.847491-07:00"
+      },
+      {
         "title": "Autoridades examinan exportación de ganado",
         "summary": "Funcionarios revisan temas de ganadería y derechos de trabajadores en sector exportador.",
         "zona": "Baja California",
@@ -82,6 +242,22 @@
     ],
     "eventos": [
       {
+        "title": "Ópera llega a Plaza Paseo del Parque en Tijuana",
+        "summary": "Presentación artística de género operístico se llevará a cabo en espacio público de zona centro.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/llevaran-opera-a-la-plaza-paseo-del-parque-frente-a-macroplaza/?utm_source=rss&utm_medium=rss&utm_campaign=llevaran-opera-a-la-plaza-paseo-del-parque-frente-a-macroplaza",
+        "_added_at": "2026-10-23T12:52:56.847491-07:00"
+      },
+      {
+        "title": "Impulsan senderismo inclusivo en Baja California",
+        "summary": "Capacitarán guías especializados para atender a personas con discapacidad en actividades de montaña.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/deportes/2026/10/23/impulsan-senderismo-inclusivo-en-baja-california-capacitaran-a-guias-para-atender-a-personas-con-discapacidad/",
+        "_added_at": "2026-10-23T12:52:56.847491-07:00"
+      },
+      {
         "title": "Artista aborda libertad de expresión en exposición",
         "summary": "Obra plástica local trata temas de libertad de expresión y batalla cultural contemporánea.",
         "zona": "Baja California",
@@ -91,6 +267,54 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Tormenta Rachel afecta negocios familiares y cosechas en Ensenada",
+        "summary": "Empresarios y agricultores sufren pérdidas significativas por lluvias intensas; organizan apoyo mutuo.",
+        "zona": "Ensenada",
+        "source": "Milenio",
+        "url": "https://www.milenio.com/negocios/lluvias-afectan-negocios-y-cosechas-en-ensenada-empresarios-apoyan",
+        "_added_at": "2026-10-23T12:52:56.847491-07:00"
+      },
+      {
+        "title": "Protección Civil detecta viviendas en riesgo en Maneadero",
+        "summary": "Autoridades identifican zonas peligrosas y recomiendan evacuaciones preventivas por fenómeno climático.",
+        "zona": "Ensenada",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/23/proteccion-civil-detecta-viviendas-en-riesgo-en-maneadero-recomiendan-evacuaciones-preventivas/",
+        "_added_at": "2026-10-23T12:52:56.847491-07:00"
+      },
+      {
+        "title": "Retiran dos toneladas de basura del arroyo Ensenada",
+        "summary": "Operativos de limpieza extraen volumen significativo de residuos acumulados en lecho de arroyo.",
+        "zona": "Ensenada",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/ensenada/2026/10/23/retiran-mas-de-dos-toneladas-de-basura-del-arroyo-ensenada/",
+        "_added_at": "2026-10-23T12:52:56.847491-07:00"
+      },
+      {
+        "title": "Gladys Mendoza debuta con victoria en Campeonato Mundial de Boxeo",
+        "summary": "Atleta bajacaliforniana obtiene triunfo en primera participación de torneo internacional.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/23/debuta-gladys-mendoza-con-triunfo-en-el-campeonato-mundial-de-boxeo/",
+        "_added_at": "2026-10-23T12:52:56.847491-07:00"
+      },
+      {
+        "title": "Desig Claudia Agatón a Luis Antonio Gutiérrez como titular de Protección Civil",
+        "summary": "Alcaldesa de Ensenada realiza cambio en dirección de dependencia de emergencias y desastres.",
+        "zona": "Ensenada",
+        "source": "EnsenadaHoy",
+        "url": "https://ensenadahoy.com/noticias/ver/69B4",
+        "_added_at": "2026-10-23T12:52:56.847491-07:00"
+      },
+      {
+        "title": "Hallan cuerpo de última víctima de tormenta Rachel",
+        "summary": "Rescate de cuerpo sin vida completa el registro de fallecidos por fenómeno meteorológico.",
+        "zona": "Ensenada",
+        "source": "El Vigía",
+        "url": "https://www.youtube.com/shorts/ZtvBdvow96w",
+        "_added_at": "2026-10-23T12:52:56.847491-07:00"
+      },
       {
         "title": "Niño fallece tras ingerir sustancia de aire acondicionado",
         "summary": "Menor de dos años muere en Mexicali después de tres días hospitalizado por envenenamiento accidental.",
@@ -109,5 +333,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-23T00:44:40.261796-07:00"
+  "last_updated": "2026-10-23T12:52:56.847491-07:00"
 }
