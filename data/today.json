@@ -1,8 +1,72 @@
 {
   "date": "2026-10-22",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Capturan a 'El Nenuco', presunto sicario y homicida de agente estatal",
+        "summary": "Detienen en Jalisco a presunto responsable del asesinato de un policía estatal en Tijuana. Enfrenta investigación por homicidio calificado.",
+        "zona": "Tijuana",
+        "source": "TV Azteca BC",
+        "url": "https://www.tvaztecabajacalifornia.com/policiaca/cae-el-nenuco-lo-acusan-de-participar-en-el-asesinato-de-un-agente-estatal-en-tijuana/",
+        "_added_at": "2026-10-22T17:29:47.019053-07:00"
+      },
+      {
+        "title": "FGE localiza a 24 personas reportadas como desaparecidas",
+        "summary": "Autoridades estatales localizan a varias personas que figuraban en reportes de desaparición. Operativo de búsqueda logra resultados positivos.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/22/localiza-fge-a-24-personas-reportadas-como-desaparecidas/",
+        "_added_at": "2026-10-22T17:29:47.019053-07:00"
+      },
+      {
+        "title": "Diez cuerpos hallados en Maneadero tras paso de huracán Rachel",
+        "summary": "Rescatistas localizan diez cadáveres en zona de Ensenada tras impacto del huracán. Operativos de búsqueda continúan en arroyos afectados.",
+        "zona": "Ensenada",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/ensenada/2026/10/22/suman-diez-cuerpos-localizados-en-maneadero-tras-tormenta-rachel/",
+        "_added_at": "2026-10-22T17:29:47.019053-07:00"
+      },
+      {
+        "title": "Ataques armados dejan pareja acribillada en Tijuana",
+        "summary": "Pareja recibe aproximadamente 69 disparos en operativo criminal. Ataque de violencia extrema sin aclaramiento de móvil.",
+        "zona": "Tijuana",
+        "source": "TV Azteca BC",
+        "url": "https://www.tvaztecabajacalifornia.com/policiaca/ataque-brutal-en-tijuana-disparan-al-menos-69-veces-contra-una-pareja/",
+        "_added_at": "2026-10-22T17:29:47.019053-07:00"
+      },
+      {
+        "title": "Aseguren más de 32 kilos de droga en Tijuana",
+        "summary": "Autoridades decomisan sustancias en camioneta durante operativo. Cantidad significativa incautada en la zona metropolitana.",
+        "zona": "Tijuana",
+        "source": "TJ Comunica",
+        "url": "https://tjcomunica.com/hallan-mas-de-32-kilos-de-droga-dentro-de-una-camioneta-en-tijuana/",
+        "_added_at": "2026-10-22T17:29:47.019053-07:00"
+      },
+      {
+        "title": "Transportista baleado impacta contra vivienda en Maclovio Rojas",
+        "summary": "Conductor es atacado a balazos y pierde control, chocando casa habitación. Acto criminal en zona residencial.",
+        "zona": "Tijuana",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Policiaca/100874/Balean-a-conductor-y-termina-impactando-su-auto-contra-una-vivienda-en-Maclovio-Rojas",
+        "_added_at": "2026-10-22T17:29:47.019053-07:00"
+      },
+      {
+        "title": "Estudiantes en transporte público víctimas de ataque armado",
+        "summary": "Camión con estudiantes es atacado a balazos en operativo. Menores de edad quedan expuestos a violencia criminal.",
+        "zona": "Baja California",
+        "source": "TV Azteca BC",
+        "url": "https://www.tvaztecabajacalifornia.com/policiaca/atacan-a-balazos-a-transporte-publico-hoy-jueves-iban-estudiantes/",
+        "_added_at": "2026-10-22T17:29:47.019053-07:00"
+      },
+      {
+        "title": "Rescatan a hombre privado de la libertad en Ensenada",
+        "summary": "Autoridades localizan y liberan a persona retenida. Operativo de rescate exitoso en zona de Ensenada.",
+        "zona": "Ensenada",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/ensenada/2026/10/22/rescatan-a-hombre-que-habria-sido-privado-de-la-libertad-en-ensenada/",
+        "_added_at": "2026-10-22T17:29:47.019053-07:00"
+      },
       {
         "title": "Detienen a 'El Nenuco' por homicidio de agente estatal",
         "summary": "Capturan en Jalisco a presunto responsable del asesinato de una agente de la FESC en Tijuana; fue trasladado para enfrentar proceso.",
@@ -58,17 +122,73 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/183268_inicio_la_demolicion_de_viviendas_en_el_asentamiento_irregular_del_arroyo_de_la_presa",
         "_added_at": "2026-10-22T00:46:29.610499-07:00"
-      },
-      {
-        "title": "Renuncia titular de Protección Civil en Ensenada",
-        "summary": "Cambio en dirección de Protección Civil; funcionario presenta renuncia.",
-        "zona": "Ensenada",
-        "source": "AFN Tijuana",
-        "url": "https://www.afntijuana.info/informacion_general/183269_renuncio_titular_de_proteccion_civil_de_ensenada",
-        "_added_at": "2026-10-22T00:46:29.610499-07:00"
       }
     ],
     "politica": [
+      {
+        "title": "Congreso BC lleva reclamos de jubilados de CFE a nivel federal",
+        "summary": "Legisladores estatales presentan demandas de pensionados ante autoridades nacionales. Buscan resolver conflicto de beneficiarios sin pago.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/22/congreso-de-bc-lleva-al-ambito-federal-reclamos-de-jubilados-y-pensionados-de-cfe/",
+        "_added_at": "2026-10-22T17:29:47.019053-07:00"
+      },
+      {
+        "title": "PAN denuncia reforma a Modalidad 40 como inconstitucional",
+        "summary": "Partido critica cambios en pensiones del IMSS. Argumenta violación a derechos y condiciones laborales.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/183311_inconstitucional_e_ilegal_la_modificacion_de_condiciones_de_la_modalidad_40_acusa_el_pan",
+        "_added_at": "2026-10-22T17:29:47.019053-07:00"
+      },
+      {
+        "title": "Confrontación en Congreso por exhortos a Burgueño",
+        "summary": "Diputados Gilvaja y Molina protagonizan debate acalorado en sesión legislativa. Disputa sobre procedimientos de revisión administrativa.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/183309_exhortos_a_burgueno_genera_enfrentamiento_verbal_entre_gilvaja_y_molina_en_sesion_del_congreso",
+        "_added_at": "2026-10-22T17:29:47.019053-07:00"
+      },
+      {
+        "title": "Michel Sánchez celebra segundo informe legislativo",
+        "summary": "Diputado del Congreso local rendirá balance de gestión legislativa. Evento de presentación ante legisladores y público.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/estatal/2026/10/22/celebrara-michel-sanchez-segundo-informe-legislativo/",
+        "_added_at": "2026-10-22T17:29:47.019053-07:00"
+      },
+      {
+        "title": "Acercamientos entre MC y Jaime Díaz confirmados por Daylin García",
+        "summary": "Funcionaria comenta sobre negociaciones políticas entre Movimiento Ciudadano y candidato. Señala diálogos partidarios en proceso.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/confirma-daylin-garcia-acercamientos-de-jaime-diaz-con-mc/",
+        "_added_at": "2026-10-22T17:29:47.019053-07:00"
+      },
+      {
+        "title": "PRI también considera posible alianza con Hank",
+        "summary": "Tricolor evalúa coalición electoral con empresario. Especulación sobre coaliciones en próximos comicios.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/afn_politico/183310_iel_pan_con_hank_tambien_el_pri_lo_considera",
+        "_added_at": "2026-10-22T17:29:47.019053-07:00"
+      },
+      {
+        "title": "Gobernadora Campos enfrenta denuncia penal ante FGR",
+        "summary": "CSP deja caso de investigación a Fiscalía General de la República. Denuncias por presuntas irregularidades administrativas.",
+        "zona": "Baja California",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/csp-deja-a-fgr-la-denuncia-contra-la-gobernadora-maru-campos/",
+        "_added_at": "2026-10-22T17:29:47.019053-07:00"
+      },
+      {
+        "title": "Yohana Hinojosa cuestiona a Marina del Pilar por vínculos empresariales",
+        "summary": "Diputada exige aclaraciones sobre presuntas relaciones con empresas cuestionadas. Señalamiento de conflicto de intereses.",
+        "zona": "Baja California",
+        "source": "TV Azteca BC",
+        "url": "https://www.tvaztecabajacalifornia.com/noticias/yohana-hinojosa-exige-respuestas-a-marina-del-pilar-por-presuntos-vinculos-con-empresas-cuestionadas/",
+        "_added_at": "2026-10-22T17:29:47.019053-07:00"
+      },
       {
         "title": "PRI busca alcaldías de Ensenada y Tecate en 2027",
         "summary": "Partido tricolor plantea candidatos para elecciones municipales en dos ciudades clave de Baja California.",
@@ -120,6 +240,38 @@
     ],
     "economia": [
       {
+        "title": "Marina del Pilar proyecta 80 mil nuevas viviendas en BC",
+        "summary": "Gobierno estatal anuncia ambicioso plan de construcción. Iniciativa para aumentar oferta habitacional en la entidad.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/183306_proyectan_80_mil_viviendas_para_bc_marina_del_pilar",
+        "_added_at": "2026-10-22T17:29:47.019053-07:00"
+      },
+      {
+        "title": "Impulsa Diego Arregui programa de primer empleo para jóvenes",
+        "summary": "Funcionario local lanza iniciativa de inserción laboral. Busca ofrecer oportunidades a población juvenil ensenadeña.",
+        "zona": "Ensenada",
+        "source": "Rada Noticias",
+        "url": "https://radanoticias.info/impulsa-diego-arregui-primer-empleo-para-jovenes/",
+        "_added_at": "2026-10-22T17:29:47.019053-07:00"
+      },
+      {
+        "title": "COEPRIS certifica 12 restaurantes en Mexicali con programa PASE",
+        "summary": "Autoridades sanitarias otorgan certificaciones a establecimientos. Iniciativa de higiene y seguridad alimentaria en Mexicali.",
+        "zona": "Mexicali",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/183312_certifico_la_coepris_12_restaurantes_de_mexicali_mediante_el_programa_pase",
+        "_added_at": "2026-10-22T17:29:47.019053-07:00"
+      },
+      {
+        "title": "Palistas de BC ganan 25 medallas en Nacional de Velocidad",
+        "summary": "Competidores del estado cosechan importantes logros en campeonato nacional. Desempeño destacado en competencia de remo.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/deportes/2026/10/22/conquistan-palistas-de-bc-25-medallas-en-nacional-de-velocidad/",
+        "_added_at": "2026-10-22T17:29:47.019053-07:00"
+      },
+      {
         "title": "Inflación anual acelera a 3.62 por ciento en octubre",
         "summary": "Datos de INEGI muestran incremento de precios impulsado por aumentos en electricidad y transporte aéreo.",
         "zona": "Baja California",
@@ -162,6 +314,38 @@
     ],
     "eventos": [
       {
+        "title": "Feria del Libro Tijuana 2026 inicia el 24 de octubre",
+        "summary": "Evento literario se pospone un día por contingencias. Importante encuentro cultural para autores y lectores.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/posponen-inicio-de-la-feria-del-libro-de-tijuana-2026/",
+        "_added_at": "2026-10-22T17:29:47.019053-07:00"
+      },
+      {
+        "title": "Expo Ciencia y Tecnología de UABC abre en Ensenada",
+        "summary": "Universidad estatal inaugura muestra de investigación y proyectos. Exhibición de avances científicos para comunidad.",
+        "zona": "Ensenada",
+        "source": "Rada Noticias",
+        "url": "https://radanoticias.info/inicia-expo-ciencia-y-tecnologia-de-uabc-3/",
+        "_added_at": "2026-10-22T17:29:47.019053-07:00"
+      },
+      {
+        "title": "Exposición Salvador Dalí llega a Tijuana con tecnología inmersiva",
+        "summary": "Muestra artística se instala en la ciudad con experiencias digitales. Arte clásico mediante tecnologías contemporáneas.",
+        "zona": "Tijuana",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/100892/Exposici%C3%B3n-de-Salvador-Dal%C3%AD-llega-a-Tijuana-con-arte-inmersivo-y-nuevas-tecnolog%C3%ADas",
+        "_added_at": "2026-10-22T17:29:47.019053-07:00"
+      },
+      {
+        "title": "Baja California refuerza atención turística con 12 puntos de orientación",
+        "summary": "Gobierno estatal instala centros de información para visitantes. Iniciativa para mejorar experiencia de turismo en la entidad.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/22/baja-california-refuerza-atencion-turistica-con-12-puntos-de-orientacion-para-visitantes/",
+        "_added_at": "2026-10-22T17:29:47.019053-07:00"
+      },
+      {
         "title": "Velada de Promociones León en Arena Tecate",
         "summary": "Se anuncia evento de boxeo profesional en instalaciones de la ciudad fronteriza.",
         "zona": "Tecate",
@@ -171,6 +355,70 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Pacientes oncológicos denuncian falta de insumos en Hospital General",
+        "summary": "Familias protestan por desabastecimiento de medicinas y equipo médico. Crisis de recursos en servicio de oncología tijuanense.",
+        "zona": "Tijuana",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/100883/%E2%80%9CEl-c%C3%A1ncer-no-espera,-y-nosotros-tampoco%E2%80%9D%3A-Pacientes-oncol%C3%B3gicos-y-familiares-denuncian-falta-de-insumos-y-equipo-m%C3%A9dico-en-Hospital-General",
+        "_added_at": "2026-10-22T17:29:47.019053-07:00"
+      },
+      {
+        "title": "Hospital Salud Mental Tijuana pide apoyo federal urgente",
+        "summary": "Institución requiere especialistas en psiquiatría infantil y recursos. Funcionario denuncia crisis de personal y presupuesto.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/10/22/hospital-de-salud-mental-de-tijuana-busca-apoyo-de-sheinbaum-e-imss-bienestar/",
+        "_added_at": "2026-10-22T17:29:47.019053-07:00"
+      },
+      {
+        "title": "Lluvias inundan ocho viviendas en Praderas del Ciprés, Ensenada",
+        "summary": "Familias quedan afectadas tras paso de huracán Rachel. Gobierno atiende emergencia de desalojo y asistencia.",
+        "zona": "Ensenada",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/22/atiende-gobierno-de-claudia-agatón-viviendas-afectadas-por-lluvias-en-ensenada/",
+        "_added_at": "2026-10-22T17:29:47.019053-07:00"
+      },
+      {
+        "title": "Vecinos de Granjas Familiares del Matamoros exigen atención urgente",
+        "summary": "Comunidad denuncia crisis de servicios e infraestructura colapsada. Aguas negras sin tratar y postes peligrosos.",
+        "zona": "Tijuana",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/22/aguas-negras-y-postes-a-punto-de-caer-vecinos-de-granjas-familiares-del-matamoros-exigen-atencion-urgente/",
+        "_added_at": "2026-10-22T17:29:47.019053-07:00"
+      },
+      {
+        "title": "Rescatan a dos familias atrapadas en arroyos de Ensenada",
+        "summary": "Operativo de salvamento extrae a personas en peligro por crecidas. Contingencia humanitaria durante emergencia climática.",
+        "zona": "Ensenada",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/rescatan-a-dos-familias-tras-quedar-atrapadas-en-arroyos-de-ensenada/",
+        "_added_at": "2026-10-22T17:29:47.019053-07:00"
+      },
+      {
+        "title": "Incendio en vivienda de Infonavit deja dos intoxicados en Tijuana",
+        "summary": "Siniestro en vivienda de interés social afecta a residentes. Bomberos intervienen para controlar fuego.",
+        "zona": "Tijuana",
+        "source": "TV Azteca BC",
+        "url": "https://www.tvaztecabajacalifornia.com/noticias/incendio-en-vivienda-de-infonavit-en-tijuana-deja-dos-personas-intoxicadas-el-miercoles/",
+        "_added_at": "2026-10-22T17:29:47.019053-07:00"
+      },
+      {
+        "title": "Avanza iniciativa para reconocer servicio social como experiencia laboral",
+        "summary": "Propuesta legislativa busca validar prestaciones de estudiantes. Reforma genera oportunidades en inserción laboral juvenil.",
+        "zona": "Baja California",
+        "source": "Argumento Noticias",
+        "url": "https://argumentonoticias.com/2026/10/22/avanza-iniciativa-para-reconocer-servicio-social-como-experiencia-laboral-en-bc/",
+        "_added_at": "2026-10-22T17:29:47.019053-07:00"
+      },
+      {
+        "title": "Pee Wee Zepeda avanza a cuartos en Campeonato Mundial de Boxeo",
+        "summary": "Boxeador bajacaliforniano sigue en competencia internacional. Logro deportivo de atleta estatal en mundial.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/deportes/2026/10/22/avanza-pee-wee-zepeda-a-cuartos-de-final-en-mundial-de-boxeo/",
+        "_added_at": "2026-10-22T17:29:47.019053-07:00"
+      },
       {
         "title": "Rescatan a dos familias atrapadas en arroyos de Ensenada",
         "summary": "Operativo de emergencia saca de peligro a personas durante lluvias en la ciudad.",
@@ -226,32 +474,8 @@
         "source": "AFN Tijuana",
         "url": "https://www.afntijuana.info/informacion_general/183264_trabajadores_de_la_salud_en_tijuana_se_unieron_a_manifestacion_nacional",
         "_added_at": "2026-10-22T00:46:29.610499-07:00"
-      },
-      {
-        "title": "Crisis en Hospital General de Tijuana: falta medicinas",
-        "summary": "Personal médico alerta sobre escasez de medicamentos y materiales en hospital estatal.",
-        "zona": "Tijuana",
-        "source": "TV Azteca BC",
-        "url": "https://www.tvaztecabajacalifornia.com/noticias/sin-medicamentos-ni-material-personal-medico-del-hospital-general-de-tijuana-alza-la-voz/",
-        "_added_at": "2026-10-22T00:46:29.610499-07:00"
-      },
-      {
-        "title": "Gobierno de Ensenada cancela estacionamientos no autorizados",
-        "summary": "Autoridades operan contra permisos de estacionamiento vencidos o indebidos en la ciudad.",
-        "zona": "Ensenada",
-        "source": "EnsenadaHoy",
-        "url": "https://ensenadahoy.com/noticias/ver/69B1",
-        "_added_at": "2026-10-22T00:46:29.610499-07:00"
-      },
-      {
-        "title": "Campaña de detección de cáncer de mama en la región",
-        "summary": "Instituciones de salud promueven autoexamen y atención preventiva para detectar cáncer.",
-        "zona": "Baja California",
-        "source": "TV Azteca BC",
-        "url": "https://www.tvaztecabajacalifornia.com/noticias/conocer-tu-cuerpo-puede-salvarte-la-vida-llaman-a-detectar-senales-de-cancer-de-mama/",
-        "_added_at": "2026-10-22T00:46:29.610499-07:00"
       }
     ]
   },
-  "last_updated": "2026-10-22T12:52:55.892597-07:00"
+  "last_updated": "2026-10-22T17:29:47.019053-07:00"
 }
