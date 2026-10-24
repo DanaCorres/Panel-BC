@@ -1,8 +1,48 @@
 {
   "date": "2026-10-24",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Escolta de funcionaria liberado tras muerte de peatón",
+        "summary": "Liberan a escoltas implicado en muerte de peatón en San Quintín, causando cuestionamientos sobre responsabilidad judicial.",
+        "zona": "San Quintín",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/liberan-a-escolta-de-miriam-cano-implicado-en-muerte-de-peaton-en-san-quintin/?utm_source=rss&utm_medium=rss&utm_campaign=liberan-a-escolta-de-miriam-cano-implicado-en-muerte-de-peaton-en-san-quintin",
+        "_added_at": "2026-10-24T11:41:08.081059-07:00"
+      },
+      {
+        "title": "Condenan a 'El Kekas' por asesinato de tres surfistas",
+        "summary": "Tribunal declara culpable a 'El Kekas' y cómplices por homicidio de tres surfistas en Ensenada.",
+        "zona": "Ensenada",
+        "source": "Milenio",
+        "url": "https://www.milenio.com/policia/declaran-culpable-a-el-kekas-por-asesinato-de-surfistas-en-ensenada",
+        "_added_at": "2026-10-24T11:41:08.081059-07:00"
+      },
+      {
+        "title": "Detienen a agresor 9 años después del ataque",
+        "summary": "Capturan a sospechoso de ataque armado a mujer tras casi una década sin resolver.",
+        "zona": "Baja California",
+        "source": "TV Azteca BC",
+        "url": "https://www.tvaztecabajacalifornia.com/policiaca/como-en-una-pelicula-de-terror-atacaron-a-una-mujer-con-mascaras-de-scream-y-detienen-a-uno-9-anos-despues/",
+        "_added_at": "2026-10-24T11:41:08.081059-07:00"
+      },
+      {
+        "title": "Arroyos desbordados en Ensenada dejan muertos",
+        "summary": "Inundaciones en Ensenada causan cuatro muertes y tres desaparecidos por desbordamientos.",
+        "zona": "Ensenada",
+        "source": "Milenio",
+        "url": "https://www.milenio.com/videos/estados/desbordamiento-arroyos-deja-4-muertos-3-desaparecidos-ensenada",
+        "_added_at": "2026-10-24T11:41:08.081059-07:00"
+      },
+      {
+        "title": "FGR abonando a la inseguridad en la frontera",
+        "summary": "Crítica a la Fiscalía General de la República por inefectividad contra delincuencia.",
+        "zona": "Baja California",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/fgr-abonando-a-la-inseguridad/?utm_source=rss&utm_medium=rss&utm_campaign=fgr-abonando-a-la-inseguridad",
+        "_added_at": "2026-10-24T11:41:08.081059-07:00"
+      },
       {
         "title": "Baja California acumula casi 2,800 desaparecidos sin respuestas",
         "summary": "El estado enfrenta crisis de desapariciones con miles de casos sin resolución y familias sin información clara sobre el paradero de sus seres queridos.",
@@ -29,6 +69,38 @@
       }
     ],
     "politica": [
+      {
+        "title": "Taddei bajo presión por 514 millones en contratos",
+        "summary": "ASF detecta irregularidades en contrataciones; Congreso revisa hallazgos que generan presión política.",
+        "zona": "Tijuana",
+        "source": "ZETA Tijuana",
+        "url": "https://zetatijuana.com/2026/10/hallazgos-de-asf-videos-en-paris-y-revision-en-congreso-colocan-a-taddei-bajo-presion-por-514-mdp-en-contratos/?utm_source=rss&utm_medium=rss&utm_campaign=hallazgos-de-asf-videos-en-paris-y-revision-en-congreso-colocan-a-taddei-bajo-presion-por-514-mdp-en-contratos",
+        "_added_at": "2026-10-24T11:41:08.081059-07:00"
+      },
+      {
+        "title": "IEEBC impulsa participación ciudadana y cultura cívica",
+        "summary": "Instituto Electoral promociona acciones para fortalecer engagement electoral en Baja California.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/tijuana/inicio/2026/10/24/impulsa-el-ieebc-la-cultura-civica-y-la-participacion-ciudadana/",
+        "_added_at": "2026-10-24T11:41:08.081059-07:00"
+      },
+      {
+        "title": "INE colabora con auditoría de la Federación",
+        "summary": "Instituto Nacional Electoral declara cooperación en investigación de ASF.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/183369_dice_el_ine_que_colabora_en_investigacion_de_la_auditoria_superior_de_la_federacion",
+        "_added_at": "2026-10-24T11:41:08.081059-07:00"
+      },
+      {
+        "title": "Defensa de Ruffo Appel niega funciones operativas",
+        "summary": "Equipo legal del exfuncionario busca probar falta de participación en irregularidades de Ingemar.",
+        "zona": "Baja California",
+        "source": "Milenio",
+        "url": "https://www.milenio.com/estados/defensa-ruffo-buscara-acreditar-que-no-funciones-ingemar",
+        "_added_at": "2026-10-24T11:41:08.081059-07:00"
+      },
       {
         "title": "Confrontación entre Sheinbaum y Maru Campos en tema de corrupción",
         "summary": "La gobernadora expuso ante presidenta denuncias sobre corrupción y casinos de exfiscal Jáuregui; generó tensión política sobre combate a delincuencia.",
@@ -80,6 +152,30 @@
     ],
     "economia": [
       {
+        "title": "Ventas mayoristas rompen racha de dos años de pérdidas",
+        "summary": "Recuperación en sector mayorista de Baja California tras período de caída económica.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/empresarial/183367_ventas_mayoristas_rompen_con_2_anos_de_perdidas_en_bc",
+        "_added_at": "2026-10-24T11:41:08.081059-07:00"
+      },
+      {
+        "title": "Empleados formales con doble salario crecen 26.7%",
+        "summary": "Incremento en número de trabajadores con dos salarios en Baja California.",
+        "zona": "Baja California",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/empresarial/183366_repuntan_26_7_trabajadores_formales_con_2_salarios_en_bc",
+        "_added_at": "2026-10-24T11:41:08.081059-07:00"
+      },
+      {
+        "title": "Garita Otay 2 reducirá congestión vial fronteriza",
+        "summary": "Canacar proyecta mejora en flujo de autos con nueva garita en Tijuana.",
+        "zona": "Tijuana",
+        "source": "AFN Tijuana",
+        "url": "https://www.afntijuana.info/informacion_general/183374_garita_otay_2_reducira_congestion_vial_canacar",
+        "_added_at": "2026-10-24T11:41:08.081059-07:00"
+      },
+      {
         "title": "Agricultores denuncian falta de valoración y debilitamiento de producción",
         "summary": "Sector agropecuario advierte sobre desvalorización del trabajo campesino y deterioro de capacidad productiva del campo.",
         "zona": "Baja California",
@@ -89,6 +185,38 @@
       }
     ],
     "eventos": [
+      {
+        "title": "Feria del Libro de Tijuana abre con retrasos por lluvia",
+        "summary": "Julieta Venegas inaugura evento cultural que inició retrasado por condiciones climáticas.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/10/24/julieta-venegas-abre-la-feria-del-libro-de-tijuana-que-inicio-con-retrasos-por-lluvias/",
+        "_added_at": "2026-10-24T11:41:08.081059-07:00"
+      },
+      {
+        "title": "Zorros Femenil CETYS reciben a UDEM en Final Six",
+        "summary": "Equipo de voleibol de Ensenada disputa encuentro clave en torneo nacional.",
+        "zona": "Ensenada",
+        "source": "EnsenadaHoy",
+        "url": "https://ensenadahoy.com/noticias/ver/69B6",
+        "_added_at": "2026-10-24T11:41:08.081059-07:00"
+      },
+      {
+        "title": "Mujeres forman moño rosa desde Torre Médica NewCity",
+        "summary": "Acción de concientización sobre cáncer de mama desde edificio de Tijuana.",
+        "zona": "Tijuana",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/100931/Mujeres-forman-mo%C3%B1o-rosa-desde-las-alturas-de-la-Torre-M%C3%A9dica-NewCity-para-concientizar-sobre-el-c%C3%A1ncer-de-mama",
+        "_added_at": "2026-10-24T11:41:08.081059-07:00"
+      },
+      {
+        "title": "Daniel Martínez es pitcher del año",
+        "summary": "Beisbolista destaca en competencia regional y recibe reconocimiento oficial.",
+        "zona": "Baja California",
+        "source": "En Línea BC",
+        "url": "https://www.enlineabc.com.mx/deportes/2026/10/24/daniel-martinez-brillo-en-la-lomita-y-es-el-pitcher-del-ano/",
+        "_added_at": "2026-10-24T11:41:08.081059-07:00"
+      },
       {
         "title": "Realizarán Fiesta de las Ánimas en explanada del CECUT Tijuana",
         "summary": "Centro Cultural prepara celebración con motivo de festividad de muertos en principal explanada con actividades culturales.",
@@ -107,6 +235,38 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Tijuanenses reprueban calidad de calles de ciudad",
+        "summary": "Encuesta refleja descontento ciudadano sobre estado de infraestructura vial.",
+        "zona": "Tijuana",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/tijuana/2026/10/24/reprueban-tijuanenses-la-calidad-de-las-calles-de-la-ciudad/",
+        "_added_at": "2026-10-24T11:41:08.081059-07:00"
+      },
+      {
+        "title": "Puente peatonal UABC Sauzal cierra escaleras por riesgo",
+        "summary": "Autoridades delimitan acceso a estructura por fallas en barandales.",
+        "zona": "Ensenada",
+        "source": "El Imparcial",
+        "url": "https://www.elimparcial.com/tij/ensenada/2026/10/24/delimitan-escaleras-de-puente-peatonal-de-uabc-sauzal-por-riesgo-en-barandal/",
+        "_added_at": "2026-10-24T11:41:08.081059-07:00"
+      },
+      {
+        "title": "Mexicali recibirá 55 nuevas clínicas del bienestar",
+        "summary": "Expansión de infraestructura de salud pública en la capital estatal.",
+        "zona": "Mexicali",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Mexicali/100935/Mexicali-tendr%C3%A1-55-cl%C3%ADnicas-del-bienestar",
+        "_added_at": "2026-10-24T11:41:08.081059-07:00"
+      },
+      {
+        "title": "Operativo de seguridad implementado en CUES UABC",
+        "summary": "Campus de Tijuana refuerza medidas para resguardo de estudiantes y personal.",
+        "zona": "Tijuana",
+        "source": "El Mexicano",
+        "url": "https://el-mexicano.com.mx/Noticia/Tijuana/100936/Implementan-operativo-de-seguridad-en-el-CUES-de-la-UABC",
+        "_added_at": "2026-10-24T11:41:08.081059-07:00"
+      },
       {
         "title": "Más de 3 mil mujeres de Tarjeta Violeta concluyeron preparatoria abierta",
         "summary": "Programa social permitió que beneficiarias completaran educación media superior en modalidad flexible.",
@@ -133,5 +293,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-24T00:27:03.913549-07:00"
+  "last_updated": "2026-10-24T11:41:08.081059-07:00"
 }
